@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_8",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/28121/17+august+2026+Anexa+la+Decizia+ANRE+nr.610+2022+Trim+II+2026/68632721-10df-4c2a-8d6e-1fe63b0fde4d?version=1.1",
+  "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim II 2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:43.897036+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/28121/17+august+2026+Anexa+la+Decizia+ANRE+nr.610+2022+Trim+II+2026/68632721-10df-4c2a-8d6e-1fe63b0fde4d?version=1.1",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_8__a1/original.pdf",
+  "sha256": "40ff539e357dcdfad60cc14355de3978af5def4ae7a66867cb5b7deb7df52673",
+  "bytes": 140113,
+  "detected_format": "pdf"
+}

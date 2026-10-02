@@ -1,0 +1,30 @@
+[
+  {
+    "path": "countries\\RO\\research.md",
+    "sha256": "ab3a86c4f880de008a6145abb30074cecaade476170272b08acffecf1b82bac6"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\acceptance.md",
+    "sha256": "733a481dd55f9cf34b7ea7a34f04cd1f1986cdb83ed07ce31418080d63811585"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\historical_rule_timeline.md",
+    "sha256": "a867fb060e684c13c870ac05ad0c4ab6d9b32601706471f55ab73cc690f4e860"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\open_questions.md",
+    "sha256": "a22bec58a672921d31645742a22e43c77044e25de341dce69792496b7dafc3b4"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\rule_register.csv",
+    "sha256": "c9389863f35f7d68aa302f1366e9576dc9c5a01bf9fa7cc9efdd4889f0566dcc"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\settlement_examples.md",
+    "sha256": "1588d41807717f4f435a4e47c87198c1fe71729dc51ff97e8fd43e53ec7d637b"
+  },
+  {
+    "path": "countries\\RO\\rules_20260930\\sources.csv",
+    "sha256": "d7f26ff30e3d271a4c87a09588c55cc7d0d2d153b9faa099636ccfae2dc6ccf5"
+  }
+]

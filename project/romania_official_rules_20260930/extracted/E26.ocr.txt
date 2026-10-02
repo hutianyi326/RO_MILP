@@ -1,0 +1,2915 @@
+DERIVED OCR: Windows built-in recognizer, zh-Hans-CN/ja profile; verify Romanian accents and all formulas against original PDF. Not an original document.
+=== PDF PAGE 1 ===
+Nr- inreg. 0 om ： 40253 ／ 05 ℃ 9 ． 2024
+OPCOIT
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+PROCEDURA PRIVIND FUNCTIONAREA
+Cod.
+Pag. 1 / 55
+Rev. 5
+PI ETEI INTRAZILNICE DE ENERGIE ELECTRICA ：
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+intocmit ：
+Societatea Operatorul Pietei de Energie EIectricä 9i de Gaze Naturale
+OPCOM S.A.
+一 22 lulie 2024 一
+=== PDF PAGE 2 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+CUPRINS
+Cod ：
+Pag. 2 / 55
+Rev. 5
+1.
+2 ．
+3 ．
+生
+7 ．
+7 ． 1 ．
+7 ． 2 ．
+7 ． 3 ·
+7 ， 生
+7.5.
+7 、 7 ．
+7 ． &
+SCOP 灬
+DOMENIUL DE APLICARE “
+ACRONIME..
+DEFINITII ．
+DOCUMENTE DE REFERINTÄ..
+PARTICIPAREA 法 PIATA INTRAZILNICÅ
+PART ℃ IPAREA MECANISMUL DE CORELARE CONTINUÄ (IDCT)
+ASPECTE GENERALE 灬
+CUPLAREA PIETEI INTRAZILNICE (IDCD PIATA UNICÄ EUROPEANÄ (SIDC) “
+CONTRAC 「 E STANDARD (CONTRAC 「 E) “
+TIPURI DE ORDINE “
+FORMATUL ORDINELOR 灬
+CONDITII PENTRU INTRODUCEREA ORDINELOR …
+ORGANIZAREA SESIUNILOR DE TRANZACrIONARE “
+DESFÄ$URAREA SESIUNILOR DE TRANZACTIONARE ·
+A) Transmiterea ordinelor ．
+B) lncheierea tranzactiilor ·
+0 Notele de decontare zilnice 9i NOtificårile fizice aferente tranzagiilor incheiate “
+SITUATII DE ABATERE DE 訣 FUNCßONAREA NOR 卜 IA 灬
+7 ． 9 ·
+PARTICIPAREA MECANISMUL DE LICITATII INTRAZILNICE (IDA)...
+8 ．
+ASPEC 「 E GENERALE “
+& 1 ，
+A) Etapa pre-cuplare. 、
+3 ） Etapa de cuplare “
+0 Etapa post-cuplare
+OFERTAREA iN CADRUL IDA “
+& 2 ．
+Caracteristicile ofertelor 四 IDA ·
+A)
+OFER 丆 E p
+OFER 丆 E 00 ·
+B)
+0
+D)
+E)
+8 ． 3 ．
+8 ， 4 ．
+ConVinutul ofertelor 四 IDA 灬
+Formatul e 戊 or pe IDA “
+lnregistrarea ofertelor in sistemul de tranzactionare IDA..
+Validarea ofe 改 e | 0
+TRANZACTIONAREA iN CADRUL IDA “
+FUNCFIONAREA iN REGIM NORMAL “
+… 15
+“ 17
+… 18
+… 18
+… 21
+… 21
+… 22
+“ 22
+． ． ． 22
+． ． ． 23
+一 25
+． “ 25
+… 30
+… 30
+… 31
+… 31
+… 32
+… 33
+… 33
+… 34
+“ 36
+… 37
+… 38
+=== PDF PAGE 3 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 3 / 55
+Rev. 5
+8 ． 6 ，
+& 7 ．
+8 ， &
+8 ． 9 ·
+A)
+司
+C)
+8 ． 10 ．
+A)
+B)
+8 ． 1 乙
+9 ．
+9.1.
+9 、 2 ·
+9 ． 3 ．
+9
+10 ．
+PUBLICAREA VALORILOR CZC 灬
+DECUPLAREA PARTIALÄ CUNOSCUTÅ iN TIMPUL SESIUNII DE CUPLARE..
+DECUPLARE TIMPURIE PARTIALÄ (CUNOSCUTÄ iN AVANS) 灬
+ANULAREA UNEI SESIUNI DE LICITATIE IDA PEMTRIJ O ANUMITÅ ZI DE LIVRARE...
+STABILIREA CANTITÅTILOR $I A PRETULUI DIN TRANZA(JIONARE “
+Algoritmul utilizat 灬
+Reguli specifice privind stabilirea pretului 灬
+Principii privind executarea ofertelor 引 stabilirea cantitätilor tranzactionate ·
+CONFIRMAREA TRANZACTIILOR...
+Emiterea confirmårilor tranzactiilor ，
+Anularea confirmärilor de tranza#ii 。
+SITUATIILE DE URGENTÅ. 、
+COMUNICAREA OPEED iN CADRUL PROCESULUI DE CIJPLARE “
+PARTICIPAREA PIATA INTRAZILNICÄ 一 PREVEDERI GENERALE …
+DECONTAREA …
+TRANSPARENTA..
+TARIFE..
+MONITORIZARE..
+ANEXE “
+ANEXA 1 - PRODUSE (CONTXACTE) TRANZACTIONABILE PE PIATA INTRAZILNICÄ IDCT...
+lnformatii Generale Despre Produse / Ofertare / Tranzagionare 灬
+lnformatii Specifice Despre Produsele Locale..
+lnformatii Specifice Despre Produsele Globale 。
+ANEXA 2 - TIPURI DE OFERTE DISPONIBILE iN SISTEMUL LOCAL DE TRANZACTIONARE AL IDA...
+ANEXA 3 一 SUCCESIUNEA CRONOLOGICA A REPERELOR ORARE IN CADRUL SESIUNILOR IDA ”
+ANEXA 4 _ DREPTURI $I RESPONSABILITÄTI “
+1.
+2 ．
+3 ．
+生
+5 ．
+Participantul la Piata lntrazilnicä are urmätoarele drepturi ，
+Participantul Piata lntrazilnicå are urmätoarele obligatii ·
+OPEED are urmätoarele drepturi ．
+OPEED are urmätoarele obligaBii ．
+PRE din care face patte un Pattiapant are urmätoarele drepturi 。
+PRE din care face parte un Participant are urmätoarele obligatii..
+． “ 39
+… 39
+… 40
+“ ． 40
+… 41
+“ 41
+“ ． 41
+一 44
+… 45
+“ 国 6
+… 46
+“ ． 51
+… 51
+“ 52
+… 54
+… 55
+一 55
+=== PDF PAGE 4 ===
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+opcom
+Documentul revizuit:
+Rev.
+1
+2
+3
+4
+5
+Data
+0LIL2013
+0LIL2019
+1L08 ． 2020
+01 ． 02 ． 2021
+22 、 07 ． 2024
+Pag. 4 / 55
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+LISTA DE CONTROL A REVIZIILOR
+Revizia se referä la modificåri efectuate conform prevederilor din:
+Legislatia primarä Si secundarä in vigoare
+prevederile Legii energiei electrice 5i gazelor naturale nr.
+123 / 10 ． 07 ， 2012 ；
+Regulamentul de organizare $i functionare a pietei intrazilnice de
+energie electricä aprobat prin Ordinul presedintelui ANRE nr.
+73 / 10 ， 10 ． 2013 ；
+Prevederile Metodologiei de stabilire a tarifului reglementat practicat
+de operatorul pietei de energie electricä, aprobate prin Ordinul
+Presedintelei ANRE nr. 67 ／ 0 生 09 ， 2013 ；
+Prevederile OG nr. 16 ／ 30 ℃ 7 ． 2013 pentru modificarea completarea
+Legii nr. 571 / 22 ， 12 ， 2003 privind COdul fiscal 5i reglementarea unor
+mäsuri fisca 卜 bugetare 5i a OG nr. 28 / 27 ． 08 ， 2013 ， privind
+reglementarea unor mäsuri fiscal 一 bugetare.
+Actualizare ca urmare a modificårii regulilor pietei in contextul aderärii
+la piata unicå europeanä cuplatä pe orizontul de timp intrazilnic (SIDC
+_ Single Intra-Day Coupling), respectiv aplicånd prevederile europene
+corespunzätor, a platformei de tranzac!ionare;
+Ordinul ANRE nr ． 178 / 13 ． 08 ． 2019 privind modificarea, completarea Si
+abrogarea unor dispozi i din sectorul energiei electrice 、
+Actualizare urmare a aplicårii prevederilor Regulamentului (UE)
+2019 ／ 943 引 Parlamentului European al Consiliului din 5 iunie 2019 ．
+Actualizare 囝 urmare a Ordinului ANRE nr. 63 din 3L03 ． 2020 privind
+aprobarea programului de implementare a mäsurilor necesare in scopul
+asigurärii condi!iilor de decontare 恰 un intewal de 15 minute;
+Ordinului ANRE nr. 230 din 16 ． 12 ． 2020 privind prorogarea
+implementärii intetvalului de decontare a dezechilibrelor de 巧 minute
+pånä la data de 01 ． 02 ． 2021 implementarea contractelor cu
+granulantate de 15 minute.
+Clarificäri in contextul Ordinului ANRE nr. 95 ／ 18 ， 10 ． 2023 privind
+modificarea CondiViilor generale asociate licentei pentru activitatea de
+agregare, aprobate prin Ordinul presedintelui ANRE nr. 196 ／ 2020 ；
+Ordinul presedintelui ANRE nr. 100 / 1 生 11 ． 2023 pentru aprobarea
+Metodologiei de stabilire a tarifelor practicate de cätre operatorii
+desemnati ai pietei de energie electricä;
+Actualizare prin implementarea mecanismului de tranzactionare .prin
+(IDA 一 Intra-Day Auctions).
+=== PDF PAGE 5 ===
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 5 ／ 55
+Rev. 5
+Procedura privind functionarea Piegei lntrazilnice de energie electricä, numitä in continuare
+„Procedura", are drept SCOP precizarea modului de organizare a sesiunilor de tranzactionare
+pentru cele douä mecanisme de tranzactionare intrazilnicä, Tranzactionarea prin corelare
+continuå (IDCT 一 Intra-Day Continuous Trading) ， Tranzac!ionarea prin licitatii (IDA - lntra-
+Day Auctions), prezentarea modului de stabilire a tranzactiilor 四 piata intrazilnicä a energiei
+electrice Si publicarea informa!iilor privind incheierea tranzactiilor pe Piaga lntrazilnicå, in
+contextul implementärii Cuplärii unice a Pietelor lntrazilnice, SIDC (Single Intra-Day
+Coupling).
+Tranzactionarea prin corelare continuå (IDCT) incepe dupä incheierea procesului de
+tranzactionare pe Pia!a pentru Ziua Urmätoare (PZU) pentru ziua de livrare D incepånd cu ora
+15 ： 00 CET se deruleazä cu pänä 0 0 inainte de inceputul livrärii, permitånd echilibrarea
+portofoliului de produ#ie, consum #i/sau contracte cåt mai aproape de momentul livrärii.
+Tranzactionarea prin licitatii (IDA) incepe dupä incheierea procesului de tranza#ionare pe
+PZU pentru Ziua de livrare D 5i este complementarä tranza#lonärii prin corelare continuä ln
+cadrul SIDC, permi!ånd echilibrarea 戊 ofoliului de productie, consum 9i/sau contracte,
+simultan cu stabilirea pretului capacitätilor de interconexiune in condi!iile existen!ei
+congestiilor.
+DOMENIUL DE APLICARE
+2.1. Prezenta procedurä se aplicå:
+2.1.1. ParticipanCilor la Piata lntrazilnicä de energie electricä;
+艺 1.2. Operatorului Pie!ei lntrazilnice de energie electricä, OPCOM S.A.;
+2 ． 1.3 ． Operatorului de transport Si de sistem
+艺 2 ． Procedura priveste detalierea cadrului de organizare func!ionare a Pietei lntrazilnice de
+energie electricä pentru cele douä mecanisme.
+23 ． Toate aspectele legate de tranzactionarea intrazilnicå se raporteazä la ore CET.
+opcom
+SCOP
+2.1.
+2 ， 2 ，
+2 ． 3 ．
+2 ·
+3 ·
+ACRONIME
+ANRE
+CMM
+CORE CCCt
+Core CCR
+Autoritatea Na!ionalä de Reglementare in domeniul Energiei;
+Central European Time (Ora Europei Centrale);
+Functia de management a 0 丆 S ． un 亿 Sistem 仃 al OTS-urilor fiind responsabil cu
+calculul coordonat al capacitäVilor 9i de verificare a rezultatelor cuplärii din
+perspectiva OTS-urilor;
+Functia de management a 0 丆 S 历 / br. Sistem 仃 al OTS-urilor fiind respcnsabil cu
+integrarea rezultatelor cuplärii realizarea activitägilor post cuplare in cadrul IDA;
+Regiunea Core de calcul capacitätii care include, conform Deciziel ACER
+nr ， 6 / 2016 ， cu modificärile ulterioare, interconexiunile dintre zonele de ofertare 引
+=== PDF PAGE 6 ===
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÅ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 6 ／ 55
+Rev. 5
+opco 皿
+CORE CIP
+CORE MO
+CZC
+D3AG
+Euphemia
+IDA
+IDA CIP
+GCT
+M7-DBAG
+NF
+NTC
+OPCOM S.A 、
+OPEED
+PIP-IDA
+PRE
+PRE-IDA
+PRE-LDC 「
+PRE-OTS
+SIDC
+SEN
+SOB
+urmätoarelor state membre UE: Austria, Belgia, Croatia, RepubIica Cehä, Franta,
+Germania, Ungaria, Luxembutg, Olanda, P oa Rom@nia, 50vacia 5i 引 ovenia;
+Centra/ / / 加 一 卜 1 iu comUn organizat utiiizat in schimbul de informa$ii
+lntre CCCt p 恰 廿 0m1 e 10@地 ale OPEED-urilor, cu comunicare bidire<ionalä;
+CORE Market Ope 亿 厂 (operatorul de coordonare regionalä al CORE in cadrul
+LDA);
+005s Zonal Capaci 伊 一 Capacitate de transport 廿 ans 什 on ；
+Deutsche Bö 「 S 巳 AG;
+小 轫 p 冂 Hybrid Eiectncity k 忉捲矽a@n 肋 m 伺 go m de
+cuplare european);
+Pia!ä ln a - Tranza#ionarea prin licitatii (INtra-Day Auction)
+C 创 .Tnterface Po 地 一 Mediu comun organizat utilizat schimbul de informabii
+aferente IDA intre CMM 5i platformele 10C 刨 e ale OPEED-urilort cu comunicare
+bidirecwonalä;
+G e005 e Time (Ora de inchidere a por!ii de ofertäte);
+Sistem de tranza#ionaredezvoltat de Deutsche Börse AG;
+NOtificäri Fizice;
+' a 荇 s 虍 疒 0 (Capacitate Netä de Transp0it);
+Operato 「 ul Piegei de Energie Electricä #i de Gaze Naturale „OPCOM" S.A.;
+0p0 tor al Pi4ei de Energie E 厄 c 旨 ℃ § Desemnat pentru Piaga lntrazilnicå (termen
+utilizat $i „bu 「 s酽湯
+Operator de Transport de Sistem;
+Pret de lnchidere a Pietei aferent unei sesiuni IDA;
+P Responsäbilä cu Echifibrarea;
+e Responsabilä Echilibrarea 匚 on 山 de OPCOM S.A. in scopuf gestionärii
+schimburilor cu ce 地 圄 地 PRE•uri rezultate din IDA;
+Pätte Responsabilä cu Echilibrarea constitultä de OPCOM S.A. in scopul gestionärii
+schimburilor cu celelalte PRE-uri rezultate din IDCT;
+Parte Responsabilä cu Echilibfarea con 山 i 凿 dé 匚 N 江 上 ． 巳 Transelectrica SA in
+scopul gestionärii schimburilor rezultate ca ℃ din tr:anzacyonarea pe siStemele
+OPCOM ale P.I. (gestionate separat pentru fiecare mecanism parte) de cåtre
+participantii ℃ are au intrpdus oferte;
+Piaga rntraZi!nicä;
+Piata pentru Ziua lJrmätoare;
+Single Intra-Day Coupling (Cuplarea unicä a Pi$elor inwazilnice);
+Sistemul Electroenergetic NaCional.
+SiStemul | oca 《 de tranza#ionare,
+Registrul central 0 「 改 e | 0 「 (Shared 0 「 d BOOk 〗
+=== PDF PAGE 7 ===
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+opcom
+4 DEFINITII
+Pag. 7 ／ 55
+Rev. 5
+in ingelesul prezentei Proceduri, termenii 5i expresiile fo 《 0 引 te ， altele decåt cele preväzute mai
+jOS la acest capitol, au semnificatiile definite in Regulamentul (UE) al ComisieI 2015 ／ 1222 din
+24 iulie 20 巧 de stabilire a unor linii directoare privind alocarea capacitätilor 引 gestionarea
+congestiilor, Regulamentul (UE) 2019 / 943 al Parlamentului European 引 Consiliului din 5
+iunie 2019 privind piata internä de energie electricä (reformare) 5i in Legea energiei electrice
+5i gazelor naturale nr. 123 / 2012 ， cu modificärile 5i completärile ulterioare.
+in intelesul prezentei proceduri, suplimentar se definesc urmätorii termeni:
+生 2 ．
+生 2 ． 1 ．
+ACER 一 Agentia pentru Cooperarea Autoritätilor de Reglementare din Domeniul Energiei;
+生 2 ． 2 、
+Afisarea ／ 0 / 占 一 afisarea tuturor ordinelor in ecranul de pia!ä al patticipantului care potfi corelate
+cu ordine ale participan!ilor din zona Romånia. Vor fi afisate ordinele introduse de participantii din
+alte zone de ofertare in måsura in care existä suficientä capacitate de transport care permitå
+schimbul contractual al ordinelor introduse de partiCipantii din zona Romänia cu ordinele afisate;
+生 2 彐
+ge 冂 transfer— rolul care 劊 indepline;te OTS in mecanismul de cuplare unicå a pietelor
+intrazilnice, reflectat prin transferul fizic 5i comercial 引 energiei electrice intre douä sau mai multe
+zone de ofertare;
+生 2
+Agregare— Functie indeplinitå de 0 persoanä fizicä sau juridicä care combinä sarcinile mai multor
+clienti sau energia electricä produsä de mai multe surse in vederea vänzärii, a cumpärärii sau a
+licitärii orice piatä de energie electricä, in conformitate cu art. 2 pct. 18 din Directiva (UE)
+2019 / 944 ；
+生 乙 5 ·
+Agregator— Participant la piatå detinätor al licentei pentru activitatea de agregare sau patticipant
+la piagä implicat in agregare in in!elesul art. 2 pct. 18 din Directiva (UE) 2019 / 94 出 desemnat de
+clientii (membrii) agregärii care tranzactioneazä energia electricä 引 ii revin integral toate drepturile
+prevåzute in Con 可 parfrcpare /a Piete/e pe 丆 me 冂 Scurt de Enetgie E/e 疒 / 俨 pentru
+Ziua u 厂 仞 oa 疒 e P / 馑 宿 z h / 丿 ， precum 5i cele preväzute in reglementäri nationale si/sau ale
+Uniunii Europene corespunzätoare participärii la piaga de energie electricä;
+生 2 ． 6 ．
+冂 u a unei 0 e 一 $tergerea ofertei din registrul ofertelor active ale unui participant la P.I.
+luate in considerare in vederea incheierii tranzac!iilor, oferta rämånånd inregistratä in baza de date
+a platformei pentru prelucräri statistice•
+4 ． 2 ． 7 ，
+Autoritatea 匚 ompe 冂 t 一 Autoritatea Nationalä de Reglementare in domeniul Energiei (ANRE);
+Ca/e comu 历 proprie— Totalitatea sistemelor de transmitere/recepgie de date de!inute de
+4 ． 2 ． &
+OPEED, respectiv de participan!ii la P.I. $i OTS;
+生 2 ． 9 ．
+Cana/ de comunicare aæeptat— Web-site, e-mail, telefon•
+生 2 ． 10 ．
+Certificatde acces 5 mu / ID 一 Certificat digital care asigurä participantului accesul la sistemul
+de tranza#ionare 引 IDA;
+生 艺 11. COd de identificare a/ Patticipantu/ui— COd alfanumeric alocat de cätre OPEED unui utilizator al
+participantului, pentru a putea fi identificat in sistemul de tranza#ionare;
+COdul de 冠 en 历 囝 化 a/ 引 a 匚 tie ／ 一 Cod unic atribuit tranzactiei de cätre sistemul de
+． 1 乙
+tranzacgionare, in momentul in care aceasta este inregistratä in sistemul de tranzactionare;
+生 艺 13 ．
+Com/怕犷 cide _ Structurä formatå din reprezentanW executiVi ai OPEED-urilor, OTS-urilor ii
+a unor terte pätti implicate in cuplarea pietelor, cu r01 de coordonare decizie in cazul !ncidentelor
+zilnice de operare a cuplärii pietelor;
+=== PDF PAGE 8 ===
+opcom
+PROCEDURA PRIVIND FLJNCTIONAREA
+PIETEI INTRAZiLNiCE DE ENERGIE ELECTRICÅ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 8 / 55
+Rev. 5
+生 2 ， 14 ， 匚 bm 行 a 厂 一 Modul al sistemului local de tranzactionare aférent IDCI 、 utilizat inteffa;ä 刁
+participantuiui cu sistemul centrat SIDC. in ComTrader participan9i pot introduce ordine$i vizualiza
+tranza#iile inchieiate;
+生 2 ， 15 ． CO / de 刁 0 0 ／ 厂 一 Situa!ia fin care pregul unei Of 斷 巳 de cumpårare este mai mare
+sau cel pu!in al cu pregul unei 0 改 e de vånzare, respectiV p 「 e 蜘 《 unei 0 爬 r 地 de vänzare este
+mai mic sau 《 mult egal cu prelui unei ofefte cumpärare, pentru Contractul 5tandard respectiv;
+乱 2 ． 16 ， CO 冂 旧 疒 ede · 引 恝 0 一 Raport poate fi accesatde cåtre participantul 恰 P.i. prin intermediul
+sistemului de tranza#ionare administrat de OPCOM S.A.r care confirmä 0 tranzac!ie pe
+efectuatä de a （ 蜘 ；
+生 2 ． 17 ， Con 疗 了 m 刁 旧 p 看 ／ ha 一 Comunicarea transmisä de cätre OPEED in piaba cuplätä in cadrul IDA
+privind aCceptarea sau respingerea 乙 u 《 te r algoritmului de cuplare urmare a v d 在 alocärii
+pe po 戊 0f0 ． ln cazul care rezultatele ℃ up sunt acceptate de OPEED confirmarea preliminarä
+este pozitiVå; in caz contrar este negativä
+生 2 ． 1 & ma 一 Comunicarea transmiså de cätre OPEED in cadrul IDA privind
+acceptarea sau respingerea rezultatelor atgoritmului de cuplare urmare a validärii fluxurilor pe
+eiementele de recea in raport cu capacitätjle de transport declarate. ln cazul in care rezultatele
+cuplärii sunt acceptate confirmarea finaiä este pozitivä; in caz contrar este negabvä,
+responsabilitatea validårii fiind in sarcina OTS;
+生 艺 19 ． Congestie— Situatia in care 0 interco 卩 eXiune nu poate face fagä tuturor fluxuriior 'fizice care rezultä
+din gchimburile internationale care ar rezulta' urmare a ofettelor participanwor piatär din cauza
+unei capacitäti insuficiente interconexiufli 5i/sau elementele de re!ea ale sistemelor nayonaie
+de transpott implicate;
+生 2 ． 20 · CQ “ da 厂 d Con 丿 一 lnstrument definit in cadrul sistemului de tranzaclionare aferent
+IDCT al P.I. avånd ca obiect vänzarea/cumpararea de energie 毿 酾 intr-un anumit t 釕 v de
+livrare;
+生 2 ． 21. CO ct p 劢 流 一 Contract tn cadrul sistemului de tranzac!ionare aferent IDCT pentru
+tranza4ionarea energiei electrice intr-un intetval de livrare de 15 rnlnute sau 0 0 麾 aferent unei
+生 2 ， 2 乙
+生 艺 23 ·
+生 2 · 24 ．
+生 艺 25@
+吼 2 ， 26 ·
+生 2 ． 27 ，
+ziie de !ivrare;
+0 de 厅 u a 厂 了 b / 00 - Contract in cadrul slStemului de tranzacvonare aferent IDff
+pentru tranza@onarea energiei electrice intr-O perioadä de ra definitä de utilizator prin
+indicarea örei de inceput ， orei de sfärsit a perioadei de livrare;
+Co 冂 a 仞 nec (/inked contract 丿 一 Contract definit aferent IDCT identic Contraetul global 享
+importat automat in sistemul 《 oc 引 de tranzactiönare, care se actweazä automat in .situaCii de
+3 re de regimul normal de functionare la 山n啡 ℃ nare decuplatä, respeCtlV probleme de
+conectare la sistemul central (sunt tranza#ionate local);
+匚 00r 力 a / 一 contract definit generat in sistemul central aferent IDCT de modulul comun al
+Ofe 戊 or (SOB) }i impottat automat in sistemul 《 0 儲 《 de tranza<ionare;
+Contract /bcal— Contract definit aferent IDCT $i generat de 引 5 mul 1 酊 de trenzacflonare （ 7 一
+DBAG);
+伊 ， e e 砌 la P/ete/e 丆 “ m u de E e 日 但 才 a Ziua
+Urmåtoare P 翻 ntra 忉 / ℃ 一 Contract incheiat tntre OPEED un pafticipant PZU/PI; 「 e
+cuprinde drepturile 引 0b a 蜘 reclproce ale OPEED 引 ale participantului la PZIJ/PI;
+C00 bna 亡 0 ／ Operatorul de cuplare din cadrul IDA cäruia revine, pe baza prin<ipiu ui rota!iönal;
+responsabi(itatea corelårii 0 「 e 忾 e 丨 or 5i determinärii rezultatelor cuplärii pieselO%
+=== PDF PAGE 9 ===
+0pc001
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd ：
+Pag. 9 / 55
+Rev. 5
+生 2 · 2 & D ／ 忙 a / 占 cunoscutä 历 timpu/ sesiunii de cup/are— Situatia in care, pentru 0 anumitä Zi
+de livrare 5i pentru 0 anumitå sesiune de licitatie IDA, nu este posibilä alocarea implicitä a
+capacitätii de transport transfrontaliere (datele de retea fiind utilizate ca date de intrare in rularea
+algoritmului de cuplare reprezentate prin capacitäti disponibile pe interconexiune) sau nu este
+po 引 b transmiterea registrului de oferte anonimizat (utilizat de asemenea 囝 date de intrarea in
+rularea algoritmului). in conformitate cu reglementärile procedurale 9i deciziile luate la nivelul
+proiectului IDA, cu exceptia unor OPEED, tOti （ e 胎 唄 OPEED aflati in situatia descrisä anterior se
+vor decupla;
+生 艺 29 ． Decup/are timpurie— Decuplarea pa#ialä in situatla in care necesitatea decuplårii unei zone de
+ofertare sau a unui OPEED este cunoscutä din timp fiind cauzatå printre altele de 0 mentenantä
+planificatä, probleme critice ale sistemelor 《 0 囝 《 e de tranzac!ionare ce nu sunt rezolvate pånä la
+inceperea sesiunii de tranza#ionare IDA;
+生 2 ． 30 ， ä a unei 0 和 硭 e 一 Stabilirea unei tranzactli in cadrul IDA de cätre participantul la IDA care
+a introdus 0 ofertå, in urma rulärii algoritmului de cuplare,
+生 2 · 31. Fun#ia cup/area p /O 厂 一 Ansamblu de operatii desfåsurate in cadrul IDA care includ utilizarea
+algoritmului uniC de corelare a ofertelor aprobat la nivel european de toate autoritåtile de
+reglementare, denumit Euphemia, in vederea realizårii unei coreläri comune a ofertelor 5i
+determinårii rezultatelor cuplärii pietelor;
+4 ． 2 ． 32 ． Functia de management a 0 丆 S ． u 疒 （ C 丿 一 Sistem 仃 al OTS-urilor responsabil cu calculul
+capacitatilor verificarea rezultatelor cuplärii, respectiv validarea fluxurilor 四 elementele de retea
+in raport cu capacitåtile de transport declarate, urmare a tranzactiilor incheiate prin ambele
+mecanisme de tranzactionare, IDCT 9i IDA;
+生 2 ． 33 ． G 引 a 可 de va/idare d po 一 Valoarea calculatä conform prevederilor cuprinse in procedura
+privind constituirea, verificarea 5i utilizarea garantiilor financiare pentru fiecare mecanism de
+tranzactionare din cadrul P.I. (IDC 「 9i IDA), 蜘 de care se valideazä ofertele de cumpärare
+introduse pe P.I.;
+生 2 ． 3 生 Garantie ancia 一 Sume de bani 9i/sau instrumente financiare destinate garantärii obligatiilor
+de platä ale participantilor IDA fagä de OPEED, acceptate de acesta in baza prevederilor
+procedurii publice relevante;
+生 2 ． 35. GeneraØe a 0 硭 e / 0 interdependente b / å 焙 丿 一 Nivelul asociat unei oferte bloc in
+cadrul familiei de oferte bloc interdependente;
+236 ． lnterconexiune 一 Ansamblul de instalatii 5i echipamente prin care se realizeazä schimburile de
+energie electricä intre sistemele electroenergetice reprezentate ca zone de ofertare;
+生 2 · 37 ． 忉 庳 a / de tranza#ionare 一 (sau interval de livrare) lnterval aferent livrårii energiei electrice
+tranzagionate pe Piata lntrazilnicä. Pentru IDC 「 intervalul de tranzactionare poate fi de 15 min
+sau 60 min, in timp ce pentru IDA intervalul de tranzactionare este de 15 min;
+生 2 ． 3 & 乙 七 tie imp/icitå— Tranza#ionarea de energie electricä impreunä cu alocarea de capacitate in
+cadrul aceleiasi sesiuni de tranzaq ℃ nare, prin rularea algoritmului unic de cuplare (Euphemia);
+生 艺 39 ， Li / de tranzactionare can 一 cantitatea maximä de energie electricå (exprimatä 囝 putere
+medie orarä) acceptatä de OPEED ca sumä a cantitäjilor din ofertele unui participant la IDA,
+5 b 山 凿 conform solicitärii prealabile a acestuia;
+生 2 伍 Lim ／ de 伊 an ／ 0 冂 a 疒 e 疗 一 valoarea maximä insumatä a perechilor preg-cantitate 5i
+ofertelor bloc de cumpärare la preg POZitiV 5i/sau a celor de vånzare la pret negativudefinitä peotru
+0
+=== PDF PAGE 10 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 10 / 55
+Rev. 5
+阝 e 祀 mecanism tn parie (IDCT 轫 IDA), acceptatä pentru un participant la P.I., corespunzätoare
+garantiilor financiare disponibile ale acestuia;
+生 乙 41. 。 n cup 化 P 砌 e. h “ dru / 丿 / 冲 饧 化 / 0 0 u ／ 忉 刎 07D 和 一 Me （ anism
+coo 「 don parte a Pietei lntrazilnice, de corelare a tuturor curbelor cererii 5i ofertei 5i a ofertebr
+bioc furniz@te de bursele de energie electricä prin carese stabi\esc, pe bazå de licita!ie, tranza<iile
+℃ u. energie ec pentru 0 anumitä 乞 de livrare, tinänd seama de capacitatea de interconexiune
+puså dispozi!ie de OTS-uri ;i prin cäre se 「 e 引 iz 引 0 「 ea implicitä a acesteia, utilizånd 0
+aplica9e informäticä ce cuprinde a!goritmul uniC de cuplare;
+生 2 ． 4 乙 庳 00 de de 匚 on z 二 Document emis in cadrul sistemului informatic post-tranza#ionare
+pentru ca participant la P 工 才 in care sunt specificate, la nivel de i 甙 e de livrare 5i cumulat
+la zi 回 de livrare consideratå in oreCET, pentru care tranzac)ionarea S-a incheiat, cantitätile
+orare de energe electricä aferefite 不 e 阉 tranzactii de vänzare/cumpärare; pre!ul fiecärei
+tranzac$ii inchéiate, 丷 a r totale nete ale drepturilor de incasare/obliga5ilor de platä, inclusiv
+contravaloarea 丿 Ä ， dacä este aplicabjl; zilnic, p 曰 1 u Ziua de livrare tncheiatä, vor fi puse
+diSpoziVa participantilor la P.I. care au incheiat tranzactii de cumpårare/vånzare de energie
+刨 既 ； pentru tranza#iile incheiaté prin IDCT 0 NOta de decontare continänd v 0 e in Euro 5i
+respéCtiv, 0 NO de decontare conVinänd Valorile in Lei, respectiv pentru tranzactiileincheiate prin
+IDA 0 NO de decontare con!inänd valorile in Lei;
+生 艺 43 、 Ca e ／ 一 lnformare in cadrul sistemului informatic post-tranza#ionare puså la dispozitia
+PRE-urilo 「 ce detin responsabilitatea echilibrärii pentru participan!ii la P.i., privind antitä!ite de
+energie eiectricå agregate, tranza#ionate pe P.I. decätre membrii PRE-ului respeCtiv pe fiecare
+i 醭 e de 巧 minute zilei de iivrare consideratä in ore EET (ora Romåniei). Notificarea 飠 se
+creeazä separat pentru tranzac!lile incheiate IDCT pe IDA 引 se transmit OTS de cätre OPCOM
+S.A. in （ 引 ita 惚 a sa de PRE-IDCT, respectiv PRE-IDA;
+4 ． 2 ． 44 ． 0 e 以 e 刀 g e ／ 匕 犭 仞 d ／ D 丿 一 Ofertä de cumpärare sau 0 de vånzare de
+energie elect5icä intrOdUsä de un participant P 、 I. pentru mecanismul de tranzag ℃ nare .IDA,
+continånd pre!ul 引 cantitatea de energie electricä ofertate;
+4245 ． 0 0 匚 independentä 一 Ofe 肖 b 匚 a 阉 executare nu este conditionatä de si/sau nu
+condi\ioneazå executarea altei oferte blOC pentru a sesiune de lici 巳 IDA;
+生 2 ． 46 、 O 硭 已 方 / interdependente _ Ofertele b 《 aflate in g u una 「 de alta pentru care
+acceptarea uneia dintre acestea (oferta copil) poate avea 匚 a 「 dad a fO acceptatä •ceelaltä
+ofertä 划 OC （ 0 了 e pärifite) a pafticipantului la IDA pentru ziua de tranzactionare respectivä 5i
+pentru aceea;i sesiune de licit$ie IDA;
+生 2 7 ． de/nchiderea 0 Ora n 犭 la care ofertele pe IDA potfi tranSmise catre
+OPEED, in Ziua de tranzactionare care precedä ziua de livrare pentru sesiunite 准 licitatie IPAI #i
+IDA2, respectiv Ziua ziua de livrare pentru sesiunea de licitatie IDA3, termen sinonim CLI 0 旧 de
+inchidere a registruiui ofertelor al IDA;
+生 2 ， 4 & 0 0 ä ， ／ d / 0 丿 一 Ofertä de cumpärare sau e 戊 de vånzare
+de energie electricä intrcdusä de u n particlpant P.I. pentru un Contract tranzac!iönabil pe IDCT'
+ccntinånd pregul 5i cantitatea de energie e 匚 凿 ofertate;
+生 2 · 49 · 0 a 一 Ordin introdus tn sistemul de tranzac!ionare 引 IDCT, validat; 地 a 《 considerare in
+vederea incheierii tranzac!iilor;
+生 2 、 50 ． 00 勿 suspendat ern 彐 e, 丿 一 Ordin introdus in 引 S m 冚 de tranza#ionare ID& care poate 五
+vizualizat doar de cätre participantul P.I. 麾 a fi vizibit tn piabä. Acesta poakefi activat 、 ulterior
+de cätre participantul P.I. ；
+=== PDF PAGE 11 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 11 / 55
+Rev. 5
+吼 2 ， 51 ， Ope r ， 硭 de em @丆5丿 一 Persoana juridicä, Ti de 凵 pentru prestarea
+semciului de transport 引 energiei electrice $i pentru prestarea de Serviciului sistem. Operatorui
+de Transport 5i de Sistem este CNTEE Transelectrica S.A.;
+吼 2 ． 52 ， Ope / / e / intraziln/ce energie e 疒 ／ 一 Op 忒 oru 》 Pietei de Energie Electricä 5i de
+Gaze Naturale „OPCOM" S.A., in 《 帕 te de operato 「 pietei de energlé electricä, Desemnat
+(OPEED) de ANRE in conformitate Ct-l prevederile Regulamentului (CE) 2015 / 1222 ；
+53 ， Ope 厂 刁 / P 虍 下 刀 e Desemnat OP D, 丿 一 Entitate desemnata de autoritatea
+competentä pentru a tndeplini sarcini referitoare la cuplarea unicä a piegelor pentru Ziua urmätoare
+(conform Regulamentului (UE) 2015 ／ 1222 ） ． OPCOM S.A. este OPEED zona de ofertare Romänia;
+生 2 ， 5 生 Pane p p 疒 / de p 丿 一 OPEED sau 0 丁 S care participä tn SIDC;
+钅 255 ， a ． ／ å 一 Participant la piacå in in!elesul art. 2 pct. 25 din fiegularnentul (UE) 2019 / 943 ，
+care tnscrie la aceastä piatä Si respectä Conventia de Pa 硭 七 a. /a pe rm u 硭
+e 虍 E 学 俨 Ziua LJ 邝 刀 化 P 虐 扫 / 宿 刀 仂 / precum 5i reglementärile
+nayonale 5i/sau comunitare corespunzätoare participärii pia!a de energie electricä aplicable;
+生 2 ． 5 & Participant imp/icit ja 一 Participant P.I. care tndeplih$te rolul de agent de tränsfer in
+mecanismul de cuplare unica a p 虍 怡 r ihtrazilnice 5i care nu are dreptul transmitä 0 戊 tn
+aceastä calitate;
+生 乙 57 · Pe 0 引 痦 de CO 冂 扫 一 persoanä desemnatä de participantul la P.I. in vederea asiguÆrii
+comunicärilor/informärilor necesare in cadrul patticipärii P.I.;
+生 2 ． 58 ． / e 冂 e 乇 ／ éct 俨 丿 一 Piaga centralizatä de energie electricä, organizatä ，
+administratä de operatorul pietei de energie electricä, care Oferä patticipangilor piagä
+posibilitatea a-5i imbunätäti echilibrarea portofoliului pentru 0 zi de livrare prin tranza<ii
+efectuate sesiuni desfäsurate dupä in 匚 heierea tranzacCiilor pe Pia!a pentru Ziua Urmätoare
+pånä cu 0 0 麾 inainte de inceputul livrärii. Piata lntrazilnicå constituie din dö mecanisme de
+tranza#ionare complementarei respectiv tranza#ionarea prin corelere continuä (IDCT) .ii
+trenzacjionarea prin licitaWi (IDA);
+生 2 ． 59 ． R 店 pentru ZiL1ä Um 痦 彐 · 俨 Z 一 Piata centralizatä de energie electricä, organizatä 5i
+administratå de operatorul piegei de energie electricä pentru vånzarea 5i cumpararea energiei
+electrice in Zlua de livrare care urmeazå imediat dupä Ziua de tranzactionare;
+生 2 ． 60 ， 户疒@仞a划仞 刁 / 5 ／ de pret—Valoarea maximä a preturilor care fi introduse 0 佗 戊 e ；
+生 2 ， 61 ， P 疒 m 咖 a/ scalej p 疒 一 Valoarea rninimä a pre!urilor la care potfi introduse Ofi 雪 ；
+吼 2 ， 62 ， 酽 0 m 犭 丿 冂 iona pe 一 Sistem informatic 5 bi 壯 5i rnenbinut de OPEED in
+opu 《 realizårii tranzactiilor 四 IDA, similar cu cel implementat pe Piata pentru Ziua Urmätoare;
+生 2 ， 63 ． PO s/stemu/ de 引 ac 0 刀 a 厂 e 一 Stare asoaatä unui anumit proces desfä;urat tn cadrul
+sistemului de tranzactionare aferent IDA, care permite realizarea unor actiuni specifice procesului
+respediv. Starea sistemului de tranzac!ionale permite efectuarea ac!iunilor relevante exclusiv in
+perioada in care poarta este deschi5ä. Poatta de ofertare permite inscrierea ofertelor in sistemul
+de tranzac!ionare;
+4 ． 2 ． 6 生 ba 硭 犭 de matching 一 Stare a slstemu\ui de tlanzaciionare asociatä procesului de stabilire a
+tranzacCiilor pe IDA, respectv de stabilire a cantitåCilor tranza#ionate prin aiocarea pe portOfQiiul
+fiecärui participant fölosind rezultatele furnizate de a!goritrnul de cuplare (PIP.-\DA,I fluxuri de
+energie transfrontalierå 00 ie netå pentru fiecare zonå de tranza#ionat) [
+生 2 ． 65 ． 0 刀 e _ SOldul cantitaåv tuturor 诟 nz 犭 删 0 「 5i cumpärärilor re2ultate-dih' 「 ea
+mecanismului de cuplare, pentru un intervel de tranzacwonare, intr-o zona de dfertare}
+=== PDF PAGE 12 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICÉ DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTXNLJÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATiI ()D
+COd ：
+Pag. 12 ／ 55
+吼 2 ． 66 ． Pmcedura 0 厂 ma 一 Procedura zilnicä cuprinde ac!iunile operätoritor implicati in mecanismul
+de cuplare a p艳@0「 in 0 湘 《 in care nu apare n 圈 0 problemä ， toate cperatiile se deruteazä in
+mod automat;
+4 ． 2 ． 67 ， 尸 ces de CO 妇 虍 一 Pro 5 uansparent de intålnire a unei oferte de vånzare cu 0 ofettä de
+cumparare care cieterminä incheierea unei tranzactii in cadrul IDCT;
+生 2 乇 8 ， Pub/icarea e 乙 / ／ / 0 疒 一 in contextul 卩 rezentei proceduri in cadrul tranza#ionärii prin IDA,
+punerea ladispoziYa paftldpan!ilor a confirmärilor de tranzactli pentru fiecare sesiuneIDA in parte;
+生 艺 69 · Rapoarte/e 匚 刁 扣 ／ 0 纪 din sistemul 伊ä冂za学0/庀@/' 5 纟 em 加 打 na 虻 OS 卜
+tranzact/onare 一 Rapoarte puse la dispozi!ie de OPCOM S.A. prin intermediul sistemului de
+tranzacgionare/ sistemului post-tranzactionare care oferä date zilnice privind tranzactiile incheiate
+享 contractele tranzactionate prin Confirmårite de tranzactii, N0tele de decontare Si No 酊 ℃ 芑 渊 e
+fizice, dupa precum 引 datele statistice prjVind istoricul 0 「 e 戊 elor introdUSe, tranza#iilor
+incheiaté 5i contractele tran ona ；
+4270 ． Rentaaferentä congesåilor / ／ 0 e e 一 Suma produselor dintre diferenga intre
+PIP-IDA zonei impojtatoare 5i PIP-IDA al zonei exportatoare pentru fiecare interconexiunU Si
+《 × de energie pe respectiva ihterconexiune rezultat din ttanzac!iile pe IDA, avänd semnificatia
+de valoare mo 仳 a capagitåtilor de interconexiuner rezultatä din alocarea implicitä;
+42 ． 71 ． RegistrlJ/ 匚 om a/ 0 e 疒 一 (Shared Order Book ， SOB) reprezintä modulul sistemului central
+SIDC aferent IDCT in care sunt transferate ordinele din intreaga zonä cuplatä in rn anonimizat
+si unde se realizeazå tranzac!ionarea acestora la indeplinirea conditiilor de corelare;
+生 2 ． 7 乙 Schimb 一 Schimb de energie e c 囝 intre douå PRE-uri, rezultat •din agregarea pe vanzare,
+respeciiv pe cumparare a tuturor tranzactiilor dintre participangji din 地 dO 廳 PRE intr-un interval
+de dispecerizare;
+生 2 ， 73 ． Sesiune nza 0 刀 a 厂 e 一 Program de derulare a procesului de tranzac!ionare care se pot
+ißtroduce, modifica, anula sau suspenda ordine Si pot tncheia tranza#li pentru un Contract
+activ, d 蘸 se indeplinesc condi!iile de corelare,. Sesiunea de tranza#ionare corespunde intregii
+perioade de tranza#ionare pentru ConfractLtl respectiv;
+生 2 ． 74 ， SIDC (Sing/é 忉 亡 宿 / 仂 C / “ a P 虐 亿 厂 历 刀 虍 e 丿 一 in conformitate cu
+iégislatia europeanä, inseamnä procesu! prin care ordinele/ofertele 亡 0 c te sunt corelate ，
+capacltatea interzonalå este alocatä simultan pentru diferite zone de ofertare pe piaga intrazilnicä ；
+生 乙 75 、 SL;tem / 旧 pos 卜 （ 0 冂 一 Sistem 'införmatic dezvoltat intern implementat de OPCOM
+SA ca solutie pentru accesul participa@lor notele de decontare 享 notificärile fizice proprii
+(pentru PRE-uri) pe bazä de 行 囝 t digital 9i p 酊 0 ；
+4 ． 2 、 76 ． Sistem / 0 冂 厂 a / 2 一 Sistem informatic implementat de OPCOM S.A. in scopul realizarji
+tranzacbiilor 四 Piaß lntrazilnicå de energie electricä in contextul cuplärii unice a pietelor
+intrazilnice;
+4 ， 2 ． 77 ． Sistemu/centra/ al SIDC - Sistem dezvoltat pentru solutia europeanä de cuplare a pietelor
+intrazilnice pentru mecanismul IDCT. SO 地@ SIDC, mecanismul IDCT (cunoscutå X3iD,
+Cross-Border Intra-Day) cuprtnde ca module princlpale registrul comun 0 他 改 0 「 (Shared Order
+EOOk, S03 〗 modulul comun de gestionare al 匚 a ci 巧 邙 or disponibilé de transpott pe
+interconexiuni (Capacity Management MOduleI CMM) 引 modulul de transfer t ns 什 on 「
+(Shipping M0dule, SM).
+4 ． 2 ． 78 ． S 0e0 门 忿 化 曰 荇 0 疒 ma 磨 一 0 到 “ situaye anormaiä 5i/sau neobi$nuitä privind
+fun#ionarea defectuoasä sistemului de tranzac!ionare Si a cäilor de comunica!ie 、 ale OPCOM S.A.
+=== PDF PAGE 13 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 13 ／ 55
+Rev. 5
+datoratå, spre exemplu, unor perturba!ii sau intreruperi de naturä tehnicä care poate afecta
+procesul de tranza#ionare;
+生 2 ． 79 ， SO/utia de ze 一 Actiunile desfä;urate de cätre operatorul de cuplare in paralel cu
+Coordonatorul, in scopul preluärii responsabilitätilor acestuia, in Situatia in care apare un incident,
+de exemplu: 0 informatie nu poate fi produså/transmisä, 0 validare nu poate fi realizatä inainte de
+termenul tintä sau este de asteptat sä nu fie realizatä inainte de termenul 如 tä, etc.•
+生 2 ， 80 ． Surp/usu/cumpärätoru/ui— Concept economic care reflectå diferen!a dintre suma maximä 四 care
+cumpärätorul ar fi fost dispus 亞 0 plåteascä pentru energia electricå cumpäratä, conform ofertelor
+transmise 5i suma datä de cumpårätor pentru aceasta;
+4 ． 2 ． 81. Su / u / 冂 / b ／ 一 Concept economic care reflectä diferenta dintre suma primitä de vånzätor
+pentru energia electricä våndutä 5i suma minimä pe care ar fi fost dispus 0 primeascä pentru
+aceasta, conform ofertelor transmise;
+4 ． 2 ． 82 ． Suspendarea unuiordin—$tergerea unui ordin (trecerea in starea HIBERNATE) de cätre participant
+din lista ordinelor sale active in piatå in cadrul Un ordin suspendat poate fi reactivat de
+participantul P.I. oricånd in timpul sesiunii de tranzac!ionare pentru Contractul standard pentru
+care a fost introdus;
+生 2 ． 83 ． Suspendarea a 冂 zact ／ ön ． H 一 Starea in care tranza#ionarea prin mecanismul IDCT este
+intreruptå urmare a unor evenimente nepreväzute.
+生 2 ． 8 生 Tranza#ie— Conventie legalä ferm incheiatå intre dO pentru livrarea de energie electricä
+in concordan!ä cu prevederile legisla!iei specifice in vigoare;
+生 2 ． 85 ． 丆宿02a@/0“a虍 p 疒 CO 厂 e 厂 e continuä 一 Mecanism de tranzactionare in care, 四 tOt parcursul
+sesiunii de tranzagionare, se pot incheia tranzac!ii de indatä ce, prin introducerea unei ofette noi
+sau modificarea unei oferte existente in sistemul de tranza#ionare P.I 、 ， se creeazä condi!iile de
+corelare cu 0 ofertä de sens contrar existentä in sistemul de tranza#ionare IDCT al P.I.;
+生 2 ． 86 ． a za 疗 a 疒 e prin /icitaVe cadru/ IDCT— in contextul Plegei cuplate pe orizontul intrazilnic
+(SIDC) reprezintä tranzactionarea care se realizeazä la cresterea de capacitate disponibilä de
+transport (ATC) in timpul sesiunii de tranza#ionare din cadrul IDCT $i prin care pretul de corelare
+a ofertelor se derminä prin alt mecanism decåt cel prin corelare continuä, in condiCiile in care
+ofertele existente in piaCå la momentul cre;terii capacitä!ii disponibile se considerä avånd acelasi
+grad de prioritate ()n scopul licitatiei nu se mai ia in considerare marca de timp a ordinelor);
+生 艺 87 生 Zi de / 厂 e 一 Ziua calendaristicä in ore CE 「 pentru care a fost incheiatå 0 tranzactie;
+生 2 ． 8 & Zi de tranza#ionare— Orice zi calendaristicä 四 parcursul cäreia au 10C tranzac!ii;
+生 2 ． 89 ． Zi / oa 一 Zi calendaristicä cu exceptia zilelor de såmbätä, duminicä 5i a oricärei zile declaratä
+särbätoare legalä sau zi 丨 i ；
+生 2 ． 90 ． ZO 冂 de 0 硭 a 厂 e 一 Zonä geograficä in care patticipan!ii la piatä pot transfera energie electricä 佬 亳
+a fi necesarä verificarea incadrärii in capacitatea disponibilä pe interconexiune 5i alocarea acestei
+capacitäti;
+生 2 ． 91 ． WebGUI 一 Modul al sistemului 《 oca 《 de tranzactionare M7-DBAG care permite partlcipan!ilor
+descärcarea rapoartelor ordine tranza#ii in format .XML in Ziua urmåtoare zilei de
+tranzagionare.
+=== PDF PAGE 14 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÅ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+pag. 14 / 55
+Rev. 5
+DOCUMENTE DE REFERINTÄ
+5.1.
+5 ． 2 ．
+53 ·
+5 、 5 ，
+5 ： 0
+5 ． 7 ．
+5 ． 9 ，
+5 · 10 ．
+s11 ．
+5 ． 12 ．
+5 ． 13 ．
+5 以 生
+5 ． 15 ，
+5 ， 16 ．
+Legea nr. 123 / 10 ． 07 ． 2012 a energiei electrice 引 gazelor naturale, cu mod 而 r #i
+completärile ul rioare 冫
+Regulamentui (UE) 2015 / 1222 de stabiffre a unor linii directoa 「 e privind aiocarea capacitåWlor'
+引 gestionarea congestjilor (Reguiamentul CACM) ；
+Regulamentul (UE) 2019 / 9 3 al Pärlamentului European 引 引 ConS11iului din 5 iunie 2019
+privind piaga jnternä de energie electricä, Articolul 8 /
+Regulamentul (LJE) 2017 ／ 2195 刨 parlamentului European Consiliului din 23 noiembrle
+2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energte 皂 厄 c 闸 c
+A 山 co 《 出 62 ；
+Decizia ACER nr. 5 / 30 ℃ 1 ． 2Q20 privind Propunerea ro 厂 OPEED p [ produse/e 硭 p00
+luate 加 匚 0n5 ／ OPEED-uH procesu/ 准 cup/are u 冂 彐 pießei az h 虍
+Decizia ACER 「 忙 2 / 10 ． 01 ， 2023 privind 0d0 ／ 四 OPEED 虍 彐 /a p 厂 moniza
+njinime a, 硭 “ “ 0 “ re 刁 c 茼 “ a p 虍 忉 饴 2 / 匚 多
+Decizia ACER nr. 8 / 2018 din 2 & 07 ． 2 8 de adoptare a dö / 四 /
+cerin?e 已 0 学 u d00 万 忉 / de p prin prer pe a/gontmu/ core/are p 疒
+Decizia ACER nr. 4 / 201 台 din 24 ℃ 4 ． 2018 de definire a 0 O 「 de deschidere $i inchidere a
+po 巾 心 「 interzönale pentru piata intrazilnicä, elaboratä conform att. 59 引 Regulamentului (UE)
+2015 / 1222 ；
+Deciziö presedintelui ANRE nr, 908 din 22 囤 6 ． 2017 pentru aprobarea documentului
+Propunerea 广 OÆED 冂 pro 垢 a 0
+Ordinul presedintelui ANRE nr. 29 din 31 ． 0L2018 pentru aprobarea documentului 尸 了 opu e a
+忉 ro 厂 OPEED pentru produsele 儲 pot ／ 加 匚 0 冂 s 陋 了 e de OPEED-uri 历 p 旧 s
+Ordinul presedintelui ANRE nr. 30 din 3L01 ． 2018 pentru aprobarea documentului rop 旧 a
+插 她 忆 厂 OPEED pentru 忆 d0 ／ de rezerv&i
+Decizia pre$edintelui ANRE nr. 2515 din 1 生 12 、 2015 prlvind desemnarea societäbii operatorul
+Pietei de Energie 曰 ec ． $i de Gaze Naturate „Opcom" S.A. „Operator pi$ei de energie
+electrjcä desemnat (OPEED)";
+Decizia nr. 2085 din 11 ． 12 ． 2019 privind modificarea Deci±iei nr. 2515 din 14 ， 12 ． 2015 》 prin
+care S-a aprobat desemnarea socie 囝 Operatorul Pietei de Energie Electricä Si de Gaze
+S,A. ca " 0 ratO 「 剖 Pietei de Energie Electricå Desemnat (OPEED)";
+Ordinul ANRE nr. 61 / 2020 pentru aprobarea Regu/amentt11ui de programare 台 u 怕 or de
+producpe 酌 spécenza 加 / a gonsurn 0 0 厂 dispecenzebili a 5 怡 / 痹 0 ' de stocare
+dispecerizabüe. a Regu/amentuluide 他 冂 c#ona 化 de decontare a 声 豇 de echi!ibrare § | a
+ReguIamentuJui de calcu/ de decontare 0 dezeGhihbrelor p 卣 璋 / 0 疒 responsabile Cu
+echilibrarea;
+Decizia ANRE nr. g83 din 15 ． 05 ． 2024 priVind stabilirea modalitäBii de transfer al pozibiilor nete
+zu 《 怡 te din oca 祀 a cap i 切 0 「 transfrontaliere tntre zonade Ofertare Romåniä alte zone
+de ofertare, in cuplarea unicä a Pie 忙 》 or intrazilnice de energie 刨 《 ri （ § ，
+Dec1zia ANRE nr. 112 din 24 ． 0 20 de aprobare a documentului Åcordpriindmaimu/t
+羽 0 了 凯 0 厂 R 鸱 ／ de Energie 匚 七 ä D em / 旧 《 pentru ZO / de 0 / 虍 Rom § 0
+con 厂 仞 ／ 扫 地 CtJ 月 虍 匚 0 / ／ 哆 7 din RegÜlamentu/ (UE, 丿 2 似 5/- 丿 222 刁 ／ Co 广 d 24 lu/ie
+=== PDF PAGE 15 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 15 / 55
+Rev. 5
+5 ． 17 ．
+5 ， 1 &
+5 · 19 ·
+5 ， 20 ，
+5 ， 21.
+5 · 2 艺
+& 2 工
+2 生
+2 似 de s 白 炉 e a 0 厂 疗 directoare privind A/ocarea Capa 疒 Gestionarea
+Congestii/or, elaborat de C.N 工 E.E. Transelectrica S.A.;
+Procedura privind inregistrarea participantilor 怕 pietele centralizate de energie electricä
+administrate de OPCOM S.A;
+Conven!ia de patticipare la Pietele pe Termen Scutt de Energie Electricä (Piata pentru Ziua
+Urmätoare 引 Pia!a lntrazilnicä);
+Procedura opera90nalä privind constituirea, verificarea ， utilizarea garanViilor financiare
+pentru participarea la Pia!a lntrazilnicä de energie electricä (IDCT)•
+Procedura privind incasärile 9i plä\ile aferente tranzac!iilor pe Piata lntrazilnicå de energie
+electncä;
+Procedura operationalä privind constituirea, verificarea 9i utilizarea garantiilor financiare
+pentru participarea la Piata lntrazilnicä de energie electricä 一 Tranzactionarea prin licitatii
+(IDA);
+Procedura ope 阉 Ciona privind incasärile plätile aferente tranza#iilor 四 PiaVa lntrazilnicä
+de energie electricä - Tranza#ionarea prin licita!ii (IDA);
+Manualul participantului la P.I. pentru sistemul M7 Trading (MFGIIO);
+Ghidul utilizatorului pentru participantul la piaga licita!iilor implicite pe orizontul intrazilnic
+(IDA);
+6 ·
+PARTICIPAREA LA PIATA INTRAZILNICÄ
+6 ． 2 ．
+63 ，
+6 ． 5 ．
+6 ． 6 ．
+Participarea la P.I. este VO 地 nt 酊 fiind permisä partlcipan!ilor la pia!ä care au fost inregistrabi
+ca partiapanti la P.I. Participarea P.I. då dreptul （ 虍 a constitui 0 obligatie) participantului
+sä tranzactioneze prin ambele mecanisme, respectiv tranzactionarea prin corelare continuå
+(IDCT) ， tranzactionarea prin licitatii (IDA).
+Un patticipant la piagä este inregistrat ca participant la P.I. ulterior inregisträrii sale ca PRE
+sau transferärii responsabilitä!ii echilibrärii e 0 PRE.
+lnregistrarea participantilor la P.I. se realizeazä la solicitarea acestora adresatå OPCOM S.A.,
+in conditiile prevåzute in üra privind 疒 eg tra a pamcipanfi/or /a p虍@虍 ce “ 伽 e
+de e e e/ectricä administrate de OPCO S.A. Si prin semnarea CO 冂 n. é ／ de pamcipare
+/a Piefe/e pe Termen u 硭 de Energie 厂 虍 俨 pentru Ziua u 忉 痦 a 厂 e si P 扫
+7 “ az 冂 ． Un participant la P.I. se poate retrage din proprie ini!iativä de 四 P.I., in condi!iile
+specificate in aceeasi procedurä.
+Pentru indeplinirea functiei de agent de transfer este necesar ca OTS se inscrie ca
+participant implicit la P.I. ln calitate de participant implicit, OTS nu poate introduce oferte de
+energie electricä.
+Operatorii de reCea pot deveni partiCipanCi la P.I. 5i pot oferta doar in scopul indeplinirii
+functiilor lor preväzute expres in legislatie.
+（ 1 ） Un patticipant la piatå poate efectua tranzactii cu energie electricå pe P.I. in mod
+individual sau agregat.
+（ 2 〕 in （ az 曰 participärii agregate, Agregatorul comunicå OPEED componen!a agregärii, iar
+OPEED 0 include, anexä, in CO 冂 ve 可 partcipare /a PieCe/e pe Termen u de Energie
+=== PDF PAGE 16 ===
+0pc00 》
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÅ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod:
+Pag. 16755
+Rev. 5
+6 丿 、
+6 ， 10 ，
+6.11.
+12 ·
+6 ． 13 。
+6 ． 14 ·
+6 ． 15 ．
+& 1 &
+& 17 ，
+E 犭 俨 归 pentru 刀 打 n 0 e 忉 az 丿 ． Agregatorul .not 而 OPEED 0 「 i
+de cåte ori intervin modiflcårj ale listei.
+OPCOM S.A, poate suspenda sau revoca inregistrarea unui participant la P.I. in oricare dintre
+urmätoarele cazuri, detaliate in Procedura pnvind 加 g 学 a a pa ℃ a 冂 萝 0 疒 p e
+“ 儋 忙 energie e / ad 仞 学 e OPCO SA:
+a) dacä pä\ticipæntul P.I. nu mai tndeplineste una sau mai multe dintre conditiiie necesare
+pentru inregistrareaca participant P 工 ；
+b) dacä participantul la P.I. nu spe 戗 犭 Con 冂 ä C'P 彐 疒 e la P/ete/epe rermen u 硭
+de Energie E 了 P pentru d Urn 冫 詭 0 酊 e P 亇 彐 z 咖 $i prevederile specifice
+privind tarifele practicate de OPCOM S.A. pentru se i 画 厄 prestate participanWlor la pie!ele
+termen scurt de energie electricä ,(Pia!a pentru Ziua Urmätoare 5i Piata lntrazilnicä),
+publicate pe website-ul OPCO 祠 S.A.;
+OPEED stabileste continutul-cadru 引 n 冂 / 七 a / pe Termen u
+Enem/e 乏 7e 厂 七 犭 了 彐 pentru Ziua u 疒 m 計 0 彐 化 夕 Pia. h 亇 a 刀 / h / 丿 ， care cuprinde drepturile
+Si 祀 s 卩 on i 麾 e reciproce ale OPCOM S.A. 9i ale fiecärui partidpant aeeastå piatä.
+DüPä semnarea de t 祀 reprezentantul legal al solicitantului a 冂 n. / de participare /a
+Termen Scurt E 冂 e 日 毿 0 俨 店 pentru Ziua 仞 0 e 归
+7 “ az 冂 / 2 inregistrarea partiC1pant la P.I. devine efectivä incepänd cu data inträrii in
+vigoare a acesteia.
+Pa1ticipantii au obliga!ia pläteascä OPCOM S.A. contravaloarea tarifului
+componenta dé admifii5trare componenta de tranzagtonare conform procedurilor ln
+vigoare 5i prevederilor 捍 / e / partidpare 向 Piete/e pe ． 丆 孕 rn 冂 u 硭 de E 冂 e 害 ℃
+E 伯 ct 疒 / 俨 旧 刀 Z 帕 IJ “ a 2 ．
+ln cazul in care un participant la p 忙 nu pläteste contravaloarea tarifului— componenta de
+tranza$ionare pentru orjcare din mecanismele P.I. conförm procedurilor in Vlgoare 5i
+p 「 ev 丽 仂 ' e 旄 Pä e /a 列@e尥 pe Termen 凳 u 硭 de E傩@虐 E 伯 匚 但
+pentru 羽 Unnätoare 夕 启 / tra 刀 七 ， OPCO SA suspendå participantul de la
+tranzactionarea pe ambele mecanisme p.t. (IDCT 轫 IDA).
+un patticipant piaVä se poate retrage de la P.I. prin transmiterea unei notifieäri prealabile
+conform prevederilor din Procedura p 刁 厂 eg a 地 彐 pa 引 b 厂 /a piete/e 冂 a / a
+dé energie ct 疒 administrate de OPCO S. 戽 Retragerea de la P.I. implicä retragerea de
+ambele mecanisme de tranzäctionare.
+Retragerea, suspendarea sau revocarea unui patticipant la P.I. nu exonereazä partile de
+tndeplinire a oblig#iilor angajate Ée P.I. pånå acel moment.
+Fiecare tranzac!ie corespunde unei livräri de energie electricä 怡 0 putere constanta de-a
+lungul intenjalului de tranzactionare respectiV.
+Tranzactiile u 甙 finalizate prin livrarea f 刎 a energiei electrice in SEN, tn intervalul de
+dispecerizare respectiv din 2iua de livrare.
+Tranza#iile efectuate pe P.I. determinä obliga!iile ferme ale respectivului participant la P.I.
+de a livra energia electricä, respectiv de a achizitiona energia eiectricå in fiecare interval de
+tranzaqonare, in conformitate cu specificatiile tranzactiilor confirmate.
+Tranza4iile tncheiate pe. P.I. la preturi pozitive determinä 0 obligatie a resøedtivului 、
+participant 且 P 、 I. de a livra energia 」 ec 山 ， in cazul in 匚 酊 e tranza<iile s-a u bazat pe oierte
+devänzare, sau 0 obliga!ie de a accepta livrarea energiei electrice, in cazul caretranzactiile
+s-au bazat pe 0 「 er de cumpärare, tn conformitate cu specificatiile respectivebtranzacgii.
+=== PDF PAGE 17 ===
+OP ℃ 0 吖 £
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 17 / 55
+Rev. 5
+1 &
+6 ， 1
+& 20 ．
+6 ． 21 、
+Tranza#iile se pot incheia la preluri negative. 0 tranzactie cu pret negativ are semnificaWa
+prestärii unui serviciu deachizibie a energiei efectrice la pre$uri negative, de cätre partea care
+prmeyte energia cätre partea care 0 livreaza, neavånd semnificatia livrärii de•bunuri de cätre
+partea care ltvreazä energia.
+Fiecare tranzactie pe P.I. se referå la un intewal de tranzac!ionaæ, primul intenjal de
+tranzac!ionare al unei 7 № de livrare fi[nd i erv 引 u 《 dintre ora 0 ： 00 CET 5i ora 0 ： 15 CET
+(intetvalul 1 ： 00 “ 1 ： 15 ora Romåniei) pentru produsul e ， 15 minute, respectiv inteJvalul dintre
+ora 0 ： OO CET 5i ora 1 ： 00 CET (intervalul 1 ： 00 一 2 ： ora Romäniei) pentru prOduSul orar.
+Ziua de livrare are 96 de intervale de tranzactionare de 15 minute„ respectiv 2 弓 intervale
+orare, cu exceptia zilei de trecere de la ora de la cea de iamå, care are 100 de intervale
+de tranza#ionare de 15 minute, respectiv 25 intennle orare, 5i a zilei de trecerede ora de
+iarnä la cea de varå, care are 92 de intewale de tranza#ionare de 15 minute, respectiv 23
+intervale orare.
+加 s 顛 厄 aferente tranzactlilor reaiizate 四 P.I. se efectueazä Lei.
+7 · PARTICIPAREA LA MECANISMUL DE CORELARE CONTIN UA (IDCD
+7 ． 1. ASPECTE GENERALE
+孔 1.1.
+儿 1.2.
+7 ． 1.3.
+7 ． 1.4 ．
+7 ． 1.5 ．
+7.1.6.
+儿 1
+7.1:8.
+儿 1 ． 9 ．
+Contractele tranzac$ionabile transfrontalier sunt definite in sistemul central la nivelul 引 DC, XBID
+sunt numite Contracte globale. perioada decuplärii de la sistemul central, Contradele vor fi
+definite 《 oca 《 similar cu contractele 邙 Ob e ． Acestea sunt defihite in sistemul M7-DBAG fi sunt
+numite Contracte locale.
+Procesul de corelare a ofertelor 些 甙 ru Contracte:e locale se realizeazä in cadrul sistemului c 引
+de tranza<ionare, M7-DBAG.
+OPCOM S.A. comunicä participantului datele de acces sistemul 10 》 de tranzacbonare, respectiv
+la modulul de tranzactionare ComTrader si la modulul rapoartelor WebGUI, precum ， datele de
+acces la sistemu[infomatic post-tranza#ionare destinat notelor de decontare #i not 而 删 or fizice.
+Ofettarea/tranza#ionarea se 「 ea tn ore CET. Ora de deschidere pentru tranzac'lonare a
+Contractelor pentru ziua urmätoare de livrare este ora 巧 ： 00 CET Ora de inchidere a
+t 阉 n ion § este cu 0 0 麾 inainte de inceputul livrärii.
+Ofertarea 5i tranzactionarea d 麾 § oa 凿 intre pamcipanti la P.I' anonimi.
+Ofertarea ,5i tranza<ionärea realizeazä in moneda europeanä (Euro 〕 ，
+OPCOM S.A. este № 0 a 卩 a 皂 pentru fiecare participant la P.I., 7n tranza<iile inCheiåte de acesta
+IDCT.
+ln vederea indepiinirii sarcinilor de notificare fa!ä de OTS ln scopui realizärii decontärii fizice a
+tranzac!iilor incheiate pe P.I., OPCOM S.A. inregistreazä un PRE dedicat tranzactiilor 7ncheiate pe
+P.I. prin mecanismul IDCT (PRE-IDCT), in caljtatea de contrapatte in aceste tranzac!ii.
+in PRE-IDCT inregisttat de OPCOM S.A. nu i pot intra alti membri, iartoate tranza#jile sunt
+executate prin intermediul schimburitor b 《 notificate cu alte PRE-uri insistemul OTS.
+7 ． 1 ． 10 ． tn scopul integrårii in piata de echilibrare a rolutui de agent de transfer 5i implicit pe
+P,I. al OTS, acesta inregistreazä un PRE distinct pentru tranza#iile 祀 9i50 訛 e prin acest
+mecanism.
+=== PDF PAGE 18 ===
+opco
+PÄOCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONüNUÄ (IDCT)
+TRANZACTIONAREA ?RIN LICITATII (IDA)
+Cod:
+Pag. 18 / 55
+Rev. 5
+7.1. li. Livrarea energiei electrice 5e considerä a fo realizatä de cätre fiecare part1Cipant la P.I. prin
+transmiterea de NF pentru tranzacWile tncheiate pe P.I. prin mecanismul iDCT de 廿 e PRE-urile
+din care acestia fac parte de t 旭 OPCOM S.A. pentru PRE-IDCT.
+7 ． 1 ． 1 乙 ParticipanWi la P.I. au obliga!ia constituie 0 garanwe financiarä in favoarea OPCOM S.A., in
+conditiile specificate in procedura ph 0 匚 刁 0 才 u / 衫 e 疒 ta 疒 e 刁 轫 u 讵 ä 刁 ra 冂 br 万 ha 冂 c 疒 e
+e u p 引 匚 归 a 厂 ea /a P 和 才 htra h / de e ℃ e / 釓 亇 / ， care acopere contravaloarea
+0 rte 心 「 de cumpårare cu preg pozitiv 9i Ofe 戊 国 0 「 de vånzare cu pr# negativ introduse pe P.I.-
+IDCT
+7 · 2 · CUPLAREA PIETEI INTRAZILNICE (IDCT) LA PIATA UNICÅ EUROPEANÄ (SIDC)
+7 ， 2 · 1 ．
+7 庵 乙 乙
+7 ． 2 ． 3 ．
+7 ． 艺 吼
+7 ． 2 ， 5 。
+7 ． 2 丘
+Sistemul | 0 ] de tranza$ionare M7-DBAG 「 ep 力 n dintre participan\ii P.1 5i sistemul
+central de cuplare ä pie$elor (i)traziinice, respectiv modu[ul aferent registruiui comun al ofertelor
+（ S03 〗
+partid 卩 引1《ii t 「 ansmit ofeltele in sistemul | 00 | de franzactionare 卜 17 ． DBAG ， Acestea se transferä
+- automat 9i anonimiZat in registrul comun Of 釕 telö SOB.
+participantii potvizualiza starea pietei Afi;area 10 毹 ． Ordinele introduse in SIDC de p 引 ticj 些 呻 i
+oricarei zone de ofetare cupJate, indusiv zona Romäniei, anonimizate, pot 行 viiualizate dacå ， tn
+mäsura ln care existä capacitate disponibilä de transport care permitä incheierea de tranza#ii
+Cu acele ordine.
+Tranzactionarea se realizeazä in cadrul sistemulLji n a 《 al SIDC tn cadrul modulului SOB, 妇
+conditiiletn 曰 「 e existä pe cu Romånia capacitate detransport interconexiuni disponibilä
+sau valoarea ATC este zero; in Cäre valoarea ATC este zerp, ofettele care se coreleazä
+apa#in aceleiasi zone de 0 葩 改 ar 巳
+Tranzäctionarea se realizeazä de tndatä se respectä de CO 代 respectiv:
+- pretul ofertei de cumpärare cel putin egal cu prerul ofertei de vänzare, regpectiv
+- prebul ofettei de vånzare este cel mult egal pretul ofertei de cumparare;
+in situatia in ℃ a conexiunea cu si5temul n 斷 引 es intrerupta, nu se pötincheia tranza#ii in
+cadrul modulului SOB ，
+NOt 而 删 e 和 力 aferente tranzactiilor incheiate in fun#ionarea cup:atå includ schimburiie bloc ale
+PRE-IDCr cu fiecare PRE ai cärui membri au tranzactionat ptin acest mecanism, respectiv schimbui
+b | 00 net (import sau export) cu PRE-OTS tn calitate de agent de transfer. Notificarea fizicå se
+transmite la OTS in termen de 巧 minute de inchiderea fiecårui i 甙 e 引 de tranzac!ionare de 15
+minute.
+73 · CONTRACTE STANDARD (CONTRACTE)
+7 ． 3 ． 1 · pentrt 」 fiecare interval 引 zilei de livrare se definésc Contracte standard ． Contractele standard 卩 醚
+有 Contracte predefinite sau Contracte definite de 吨 胧 a № r (exclusiv pentru multiplu de intervale
+0 「 a 「 e 〕 ， un ordin este definit pentru un Singur Contract.
+7 ， 32 Fiecare din Contractele predefinite pentru fi 「 e interval de livrare, penEru fiecare 烈 a anului
+consideratå in 0 「 e CET, va avea 引 0 匚 忒 un COd alfanumeric in sistemul de tranza<ionaæ. Pentru
+zilele de trecere de ora de varä Ofa de iarnä Vör predefinite Conträcte pentru 100 intefQale
+de 15 minute, respectiv 25 de intervale orare $i pentru trecerea de la ora de iarnä la 0 「 a 非 vprä
+vor fi predefinite Contracte pentru 92 intervale de 15 minuter respectiv 23 de intervate orare
+=== PDF PAGE 19 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 19 / 55
+Rev. 5
+7 ， 3 ． 3 ．
+73 ． 生
+7 ． 3 ． 5 ·
+7 ， 3 ． 6 ，
+7 ． 3 ： 7 ，
+73 ． &
+ln regim normal de cuplare 怕 SIDC, Contractele sunt definite in sistemul 毹 n S03 引 importate
+tn SLT M7-DBAG $i sunt numite Contracte globa!e.
+Contractele globale au c 币 r HH-HH_XB pentru contractele aferente zilei curente de liVrare
+引 THH-THH_XB pentru contractete aferente zilei u 「 m 0 酊 e (T 一 Tomorrow) de livrare, unde HH
+reprezintä ora de tnceput sfårsit a intervalului de livrare pentru contractele predefinite, respectiv
+0 尾 de inceput 享 sfär$it a perioadei de livrare pentru contractele definite de utilizator （ b 《 0 ，
+0 尾 24 a zilei curente de livrare are （ 冚 T00 ， iar ora 24 a zilei de livrare 酊 m 芑 tO 酊 e äre codul
+Contracte[é globale de 15 minute au ℃ cd 而 亡 酐 ea QHH:MM-HH ： MM_XB pentru cöntractele
+aferente zilei curente de livrare #i QTHH ： MM-THH ： MM_XB pentru contractele aferente ziki
+urmätoare 仃 一 Tomorrow) de Jivrare, unde HH:MM reprezintä 0 范 si minutul de sfåt$it
+a intervalului de tivrare pentrü contractele predefinite. Ora 四 a ziiei curente de 牖 「 酊 e are codul
+T00 ， iar ultimul intennl de 15 minute nr. 96 引 力 回 de livrare urmätoare are codul 1T00 ： 00 、
+Pentu ziua de trecere de la ora de varä la ora de iarnä, zi care contine 2S inte:vale or 酊 e 》 0
+03 ： 00 CE 「 devine ora 02 ： 00 CET 两 廿 乸 intervalul 2 CET se dubleazä, rezultänd orele 2A 5i 2 &
+Contractele orare vor avea codificarea 02A $i 02B in 《 0 亡 de HH (ex. Contracte globale 01 ． 02A 一 × B ，
+02A 2B 一 × 3 ， 02B ． 03 一 × B 〕 ， Pentru Contractele corespunzätoare produsului de 15 minute, numele
+scurt al esto 「 a va precedat de 皿 e 旧 Q, iar timpul de tnceput 引 Sfärsjt contractului 飠
+reprezentat prin ora $i minutut aferente. 〔 e × 、 Q01 ： 45 用 2 ： 00A ， Q02 ： 00A ． 02 ： 15A ， Q02 ： 15A 2 ； 30A ，
+Q02 ： 30A ． 02 ： 45A, Q02 ： 弓 5 ． 02 ： B ， … ， Q02 5B ． 03 ： 00 ） ．
+Pentru Ziua de trecere de ora de iarnå ora de varä, zi care con$ine 23 de intetvale orare,Üa
+02 ： 00 CET devine ora ． 03 ： 00 .CE 「 astfel intervalul 2 CET dispare (ex. Contractele globa!e 00 ．
+01 一 × 3 ， 刁 3 一 × B ， 02B 3 一 × B 〕 ． Pentru ConfraCtele corespunzätoate produsului de 15 minute,
+numele u al acestora va 有 preCedat de litera Q, iar timpul de inceput $i sfårsit al contractului
+vafi reprezentat prin ora $i minutul aferente (ex. Q01 ： 3 0 七 45 ， Q01 ： 45 用 3 ： 00 ） ．
+Din codul alfanumeric unic al Contractelor afisatein sistemul de tranza#ionare P.I., participanjii
+P.I. vor avea informatii privind ：
+司 lntewalul /intervalele orare ccnsecutive ce face/fac Obiectul tranza#ionärii exprimate tn ore
+b) Ziua/Luha/AnUl care are IOC ljvrarea considerate in ore CEr.
+7 ． 4 · TIPURI DE ORDINE
+孔 生 1.
+7 ． 生 2 ．
+7 3 ，
+7 再 ， 生
+孔 4
+Patticipantii la P.L pot introduce in sjstemul de tranzactionare ordine de cumparare 享 ordine de
+vånzare pentru Contractele predefinite ii pentru Contractele definite de uülizator.
+lJn ordin pentru un Contract predefinit constä intr-o pereche pret-cantitate 0 戊 己 t 巨 pentru
+cumpärare sau pentru vänzare, care reprezintä angajamentul rm al participantului P.I.
+lJn ordin pentru ün Contract definit de utilizator cons intr-o pereche pret-cantitate ofertatä
+pentru cumpärare sau pentru n unde cantitatea declaratä repetä pe fiecare interval al
+perioadei definitä de u 圃 iz 猷 0 「 5i reprezintä angajamentul ferm al participantului P.I.
+Un Contract definit de utilizator se creeazä de cätre un utilizator #i se poate tranza4iona numai in
+integralitatea sa.
+Pentru ordinete de vånzare, cantitatea (exprimatå ca putere medie orarä, (W) din Ordin
+reprezintä cea mai mare cantitate oferitä spre vänzare, iar pretul din ordin reprezitftä ℃ e 《 mai mic
+prey unitar (pret energiei aferentä lei/MWh) cu care se poate vinde cantitatea-respectivä.
+0
+=== PDF PAGE 20 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÅ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod.
+Pag. 20 / 55
+Rev. 5
+7
+7 7 ，
+7 生 生 &
+7 ， 4 ． 9 ·
+Pentru ordinele de cumpårare, cantitatea (exprimatä putere medie orarä, (W) din ordin
+reprezintä cea mai mare cantitate 50 ita 凿 spre cumpärare, iar pregul din ordin reprezintä cel mai
+mare prey unitar (pret al energiei „aferentä, k1/MWh) cu care 望 poate cumpara cantitatea
+respectivä.
+Un ordin poate fi introdus ordin activ direct in pia5ä sau poate fi ihtrodus in platforma
+participantului 厄 P.I. fiind vizibil numai acestuia, cu starea HIBERNATE. Acest ordin poate 行 activat
+in piavä de cätre participant P,I. in orice moment.
+Tipuriie de ordine disponibile in SLT M7-DBAG sunt:
+ORDINE SIMPLÉ— pot executate total sau par!ial dacä sunt indeplinite cöndi!iile de corelare.
+ORDINE ICEBERG 一 sunt vizibile 0 cantitate (peak quantity) din cantitatea tO
+酐 e 戊 a 凿 ． Cantitatea din ordinul" tip lceberg tranzactloneazä de indatå ce indeplinesc
+condiCiiie de coretare chiar dacä la momentul corelärii nu era vizibilä a 凿 cantitatea care va
+行 corelatä. Ordinele lcebe 「 g nu au 民5囝@i de execuWe, ci doar restric!ii de validitate.
+ORDINE BLOC 一 pot introduse 2 n la 30 de Contracte orare active consecutive,
+Contractul definit de utilizator se creeaza prin introducerea unui ordin b 《 ·
+BASKET 一 p 〕 sibilitatea prin care un participant 怕 P.I. poate introduce in acelasi moment mai
+multe ordine in sistemul de tranzactionare prin utilizarea facilitätii de introducere a ordinelor
+in 0 ．
+Ordinéle din Basket （ CO 引 pot avea anumite restrictii la activare (None, Valid, Linked),
+selectarea unei restri#ii aplicåndu-se pe!tru toate ordinele din
+Ordinele din COS pot tnmise cu una dintre u 「 m § 忆 a 旧 restrictii de introducere;
+None: Ordinele din Basket sunt tratate independent. Dacä un ordin este invalid (de
+exemplu Contractul pe care se doreste introducerea acestuia a expirat), nu vor fi respinse
+toate ordineledin Basket, ci doar cel 山 姹 《 id ；
+Valid: Ordinele trebuie fie toate valide, altfel vor fi respinse toate la activare;
+Linked ： Toate ordinele trebuie 匏 coreleze sau nu va eorela nici unul. un C05 poate
+transmiS cu aceastä restrictie de ihtroducete doar dacä contlne exclusiv ordine cu
+restricwa de executie FOK (ordinul trebuie executat imediat dupå introducere ， cu tntreaga
+cantitate sau este anulat automat).
+Ordinele introduse de participanCii PJ. in SLT M7-DBAG 皂 mai pot caracteriza ptin:
+Restri#ii de validitate:
+0 G 「 D 一 Good Till Date 一 aceastä op\iune permite ordinului fie activ pånä la 0 anumltä
+datä declaratä de ini!iator;
+0 GFS _ Good For 5 引 on 一 aceastä op\iune permite ordinului fie activ pånä sfårsitul
+sesiunii de tranza#ionare;
+Tlpufi de 「 estri 上
+0 NON 一 None —sunt ordinele 佬 restricWe;
+0 IOC 一 lmmediate or Cancel 一 ordinul este executat total sau pa#ial imédiat'la'introducerea
+sau este anulat de sistem. Un ordin restricwe de execuwe IOC .poate avea 0
+restrictle de validitate;
+0 FOK— Fill or Kiil 一 ordin executat 恺 intreaga cantitate imediat dupä introå;<ereafiri$iatå,
+iar in caz contrar es anuiat de 引 stem
+=== PDF PAGE 21 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 21 / 55
+Rev. 5
+0 AON - AII or nothing 一 conditia de execu!ie in integralitatea ordinului reprezintä
+modalitatea in care se tranza#ioneazä ordinele bloc;
+Stäri ale ordinelor•.
+0 AC 「 IVE 一 ordinul este activ in piatä ， poate corelat dacä se indeplinesc conditii 《 e de
+COrelare;
+0 HIBE 一 HIBERNATE 一 ordinul poate fi vizualizat dO 酊 de cåtre participantul la P.I. 麾 a fi
+vizibil in piagä poate fi activat ulterior de cätre participant.
+7 ． 生 1 Participantli pot introduce una sau mai multe oferte distincte, selectånd din lista de Contracte
+predefinite, din lista de contracte definite de utilizator sau creånd un Contract definit de utilizator.
+7 · 5 · FORMATUL ORDINELOR
+孔 5 ． 1.
+孔 5 ， 艺
+7 丐 3 ‰
+7 《 5 ． 生
+7 ， & 1.
+7 丕 ． 2 ·
+孔 6 ． 3 ·
+7 · 6 ． 生
+7 ． 6 ， 5 ，
+7 ． 6 ． 6 ，
+Preturile din ordine vor 有 introduse in moneda europeanä (Euro) cu maximum 2 zecimale 5i pot 0
+numere pozitive, negative sau zero.
+Cantitåtile din ordine vor fi introduse in [MW] (cantitatea din Ofertä este exprimatä in putere medie
+orarä), cu maximum 1 zecimalä 5i vor numere pozitive.
+Cantitatea maximä a unui ordin este de 999 MW, iar cantitatea minimå de 0 ． 1 MW. Nu este permisä
+cantitate negativä sau 祀 rO 。
+Pre!ul maxim al scalei de pre! este 9999 Euro, iar pretul minim al scalei de pre! este 四 999 Euro.
+ESte permis pret egal cu zero. Pretul declarat reflectä pretul energiei electrice care este ofertatä
+pentru vånzare/cumpärare.
+CONDITII PENTRU INTRODUCEREA ORDINELOR
+Dupä inregistrarea la P.I., Participantul la P.I. prime;te datele de acces la sistemul local de
+tranzactionare, respectiv la modulul de tranzactionare ComTrader la modulul rapoartelor
+WebGUI, precum 5i informa!iile necesare instalärii software-ului necesar.
+lnformatiile necesare accesärii ， utilizärii SLT sunt puse dispozitia participantului la P.I. prin
+intermediul website-ului OPCOM
+Pentru 儲 un ordin de vånzare sau de cumpärare a energiei electrice poatä fi inregistrat in
+Sistemul de tranzactionare P.I. este necesar ca piata 5i Contractele 亞 se afle in stärile
+corespunzätoare care permit introducerea de ordine （ active), stäri descrise in Manua/u/
+pa 七 a 冂 忆 ／ ／ /a 2 pentru Sistemu/ 7 a 刀 g 〖 FGI 丿 以
+Ordinele introduse de participantul la P.I. reprezintä angajamente ferme ale respectivului
+participant la P.I., care este direct räspunzätor pentru corectitudinea datelor introduse.
+Fiecare participant poate seta limite de cantitate, de valoare $i pret pentru ordinele pe care
+urmeazä le introducä, atåt 四 vånzare, cåt 9i 四 cumpårare. SLT va atentiona participantul
+(printr-o fereasträ de tip „pop-up") pentru ordinele introduse care con!in un volum (considerat ca
+putere medie orarä), valoare 9i pret mai mici/mari decåt limita setatå, permitånd
+acceptarea/respingerea ordinului de cåtre PartiCipant.
+Sistemul de tranzac!ionare comparå in mod automat valoarea fiecärui ordin de ℃ umpärare cu preg
+pozitiv/ de vänzare cu pret negativ introduse, cu valoarea garantiei de validare disponibilä calculatä
+conform prevederilor din P 疒 a privind constituirea, / e 厂 厂 ea si uti/izarea ga 咩 ／ 厂
+an 疒 e pentru participarea /a P az ／ de energie e / ect ， aferentä participantului la
+P.I. ln cazul in care la introducerea unui ordin arantia de validare disponibilå este de vsitä
+=== PDF PAGE 22 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 22 / 55
+Rev. 5
+ordinul respectiV 引 participantului 怕 P.I, este dezactivät, respectiv t starea HIBERNATE, iar
+participantul P.I. este notificat prin mesaje automateale sistemului de tranza#ionare.
+77 ． ORGANIZAREA SESIUNILOR DE TRANZÄCTIONARE
+7 ． 儿 1.
+7 ． 7 巼 ，
+7 ， 73
+7 ． 7 ， 生
+Fiecare contract standard definit pentru ziua dé livrare constituie obi 巳 忒 ul unor tranzac!ii
+independente.
+Tranzaetionarea pentru fiecare intetval 引 zilei de livrare se des 恬 § oa continuu incepånd cu 0 化
+15 ： 00 in ziua anterioarä zilei de livrare consideratä 7n 0 「 e CET 5i pånå Ct.J 0 （ 1 ） 0 fnainte de
+inceperea livrärii, moment considerat 0 化 de inchidere a sesiunii de tranzactionare pentru
+Contractul standard 匚 0 吧 spun 0
+Procesul de tranza4iOnare cuprinde urmåtcarele agiuni ：
+a) introducerea ordinelor 5i corelarea acestora de indatä “ se indeplinesc conditiile de corelare;
+b) punerea la dispozilia pa 山 ci 因 n 瞓 0 「 la P.I, a ℃ on m or de tranzaclii imediat dupä incheierea
+fiecärei tranza#ii prin intermediul SLT;
+0 punerea la dispozi!ia PRE-urilor din care fac parte part ℃ ipanWi care au tranzac$ionat, a
+NOtificärilor fizice proprii ()i anume, a schimburilör b 《 cu PRE-OPCOM S.A.) fiecare 15
+minute;
+d) modificarea NO 酊 i or fizice aferente tranza#iilor incheiate anterior pentru aceea$ zi de
+livrare, ori de t 巳 ori se tnregistreazä noi tranzactii transmiterea acestora cätre OTS;
+司 elaborarea• }i punerea dispozitiä partiCipanCilor P,I. a No de decontare zilnice pentru
+ziua de iivrare, in Euro respectiv, in Lei.
+OPCOM S.A. poate realiza opriri p[anificate pentru mentenan!a sistemului | 0 囝 《 de tranzac90nare
+sau- pentru mentenanga sistemului central SIDCr precum #i pentru implementarea unor solu!ii de
+imbunätätire aSLT, in intetvalul cärora fun#ionarea sistemului de tranzactionare va fi intreruptä.
+OPCO S.A. va no partcipan!ii la piagä asupra opririlor planificate ale sistemului informatic in
+timp util 5i luånd in considerare gradul de urgenw privind eventuale imbunät$iri necesare.
+7 ． & DESFÄSURAREA SESIUNILOR DE TRANZACTIONARE
+7.8.1.
+7 ． & 艺
+7 ． 8 ， 3 ，
+7 ． & 生
+tn timpul Sesiunii dé tranzagionare se introduc ordine 5i se vncheie tranzactii pentru cantitötea
+忆 眉 a ordinelor sau par!ial, dupa caz, atunci cånd sunt indeplinite condi!iile de corelare.
+in cazul functionärii cuplate in SIDC, participan!ii conect$i la SLT pot vizualiza ordinefe din pia!ä
+in limita capacitätii cfisponibile de transport. Afiprea se actualizeazä ori cäte ori se
+introduce, modificäi änuleazä, suspendå un ordin sau se incheie 0 tranza#ie.
+A) Trpnsmiterea ordinelor
+tn timpul sesiunii de tranzactlonäte participantii la P.I. pot modifica, suspenda (trece in starea
+HIBERNATE) in vede 「 reactivärii ulterioare sau anula ordinele existente in sistemul de
+tranzagionare, fie ℃ acestea sunt ordine necorelate, fie ordine rämase in urma unei CO 「 e 「 i
+parWale, pentru cantitatea råmasä netranzaclionatä, conform prevederi!or din' M@hua/u/
+CiP / /a p 夢 n ststemul / a 冂 (MFGIJQ).
+Sistemul de tranza#lonare P.I. a automat fiecärui ordin introdus un numär uhic de
+identificare (OrderiD) vizibil sectiunea destinatä ordinelor proprii (Own OverView/ OwmQrdet)
+=== PDF PAGE 23 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 23 / 55
+Rev. 5
+7 ． & 5 ，
+7 ． 8 ． 6 ·
+7 · 8 · 7 ·
+7 ． & 8 ．
+7 · &
+7 ． & 1
+7 ． 8 ． 11 ．
+5i 0 marcä de timp prin care sunt precizate ora (h), minutul (m) 5i secunda (s) introducerii Ofe 戊
+vizibilä in sectiunea de mesaje atåta timp cåt participantul rämåne conectat la SLT 9i in raportul
+de ordine generat de modulul de rapoarte in Ziua urmätoare zilei de tranzagionare.
+in cazul modificärii unui ordin, sistemul de tranzactionare anuleazå automat datele ordinului iniCial
+5i actualizeazä automat datele aferente noului ordin, cu 0 nouä m 酊 de timp corespunzätoare
+momentului modificärii ordinului ini!ial.
+Sistemul de tranzactionare valideazå ordinele de cumpärare la pre! pozitiv ， ordinele de vänzare
+la pret negativ in conformitate cu prevederile prezentei Proceduri.
+Ordinele pentru un Contract introduse 9i validate sunt ordonate automat de sistemul de
+tranzactionare in functie de pret, crescåtor pentru ordinele de vånzare 5i descrescåtor pentru
+ordinele de cumpärare 5i in functie de marca de timp in cadrul ordinelor de acela;i tip care au
+acelasi pret.
+B) incheierea tranzactiilor
+in cazul fun#ionärii izolate a pietei din Romånia (fun#ionare decuplatå de sistemul central),
+ordinele care indeplinesc condi!ia de corelare 5i anume ：
+a) pre!ul ordinului de cumpärare estemai mare sau cel pu!in egal cu pretul ordinului de vånzare,
+respectiv
+b) pretul ordinului de vånzare este mai mic sau cel mult 引 cu pretul ordinului de cumpårare,
+sunt corelate prin proces automat al sistemului 《 a | de tranzactionare M7-DBAG in orice moment
+in cadrul sesiunii de tranza#ionare. Ordinele de acelasi sens avånd acela$ pre! se coreleazå
+incepånd CLJ marca de timp cea mai veche.
+in cazul fun#ionärii cuplate in SIDC, ordinele care indeplinesc conditia de corelare 5i anume:
+a) pre!ul ordinului de cumpärare este mai mare cel pu!in egal pre!ul ordinului de vånzare,
+b) pretul ordinului de vånzare este mai miC sau cel mult 引 cu pretul ordinului de cumpärare,
+sunt corelate prin proces automat 引 sistemului central 引 SIDC - in cadrul modulului SOB in
+conditiile in care exista pe granita cu Romånia capacitate de transport 四 interconexiuni
+disponibilä sau valoarea ATC este zero. in situatia in care valoarea ATC este zero, ordinele care
+se coreleazä apa#in aceleiasi zone de ofertare.
+Condi!iile de corelare se verificä indatä ce se introduce un ordin nou sau se modificä un ordin
+existent in sistemul de tranzactionare 5i se coreleazä imediat dacä se indeplinesc conditiile de
+corelare.
+Procesul de corelare asigurä tranzactionarea tuturor ordinelor compatibile astfel ：
+a) Ordinele de cumpärare coreleazä in ordinea descrescätoare a pretului ofettat, primul ordin
+de cumpärare corelat fiind ordinul de cumpärare cu pretul cel mai mare;
+b) Ordinele de vånzare se coreleazä in ordinea crescätoare a pre!ului ofertat, primul ordin de
+vånzare corelat fiind ordinul de vånzare cu pretul cel mai mic;
+0 Corelarea a douå ordine realizeazä la cantitatea minimä a celor dO ordine; cantitatea
+necorelatä aferentä ordinului corelat pattial råmåne in sistemul de tranzactionare pentru
+eventualele coreläri ulterioare;
+=== PDF PAGE 24 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd.
+Pag. 24 / 55
+Rev. 5
+7 ， 8 这 2 ．
+儿 8 ． 13 ·
+孔 & 14 ．
+切 （ 1 ） Pretul ja care 巽 vor tncheia tranzactiile urmare a regulilor de corelare apiicate automat
+de cät 「 e sistemul de tranzac!ionare 引 姹 pregul ordinutui existent in sistemul de
+tranzactionare;
+（ 2 ） Prin exceptiet intr-un proces de 酐 e care un ordin recent introdus este corelat cu
+mai mult de 0 felie dintr-un ordin iceberg care es deja in registrul comun 引 ordinelor, pregul
+este tntotdeauna determinat de ordinul iceberg care este deja tn registru $i niciodatä de
+ordinul recent introdus, chiar marca de 乜 p a ordinului iceberg 匯 reinnoitä in Ufma
+procesului de corelare;
+e) Ordinele blccse pot corela doarintre ele;
+0 pånå la implementarea uriéi fun#ionalita!i de corelare 0 produselor granularitäti diferite
+in SIDC, 0 「 din 巳 introduse pe produsul de 15 m[nute 巽 pot corela doar intre elet similar
+produselor orare;
+gy ordinele-orare se pot corela ordine iceberg;
+h) Ordinele bloc definite de utilizator se coreleazä in integralitatea lor.
+Ca 0 吧 e 呻 e de la ärt. 7 ． 8 ． 11. d), in cazul fun$ionärii cuplate in SIDCr Corelarea se realizeazå
+printr-o licitaCie (timp in care se suspendä tranzactionarea prin corelare continuä) dacä se
+indeplinesc condiÄile de corelare, dacä ATC este crescut in cursu 《 sesiunii de tranza#ionare.
+TranzacCionarea prin licita!ia preväzutä in situatiile de la att. 7 ． 8 ． 12 ． este generatä de faptul ，
+Cr#terea ATC, toate ofertele existente piatä se considerä avånd aceeaii marcä de timp.
+Tranza#ionarea prin licitaCie realizeazä, in principiu, as 忏 刨 ：
+司 ordaneazå ordinele existente pi4åtn ordinea preturilor, incepänd cu 《 mäi bun pret
+pentru 到 e 匚 a 祀 sens;
+b) Se identificä prima pereche de ordine careindeplinesc conditia de corelare a pre 蜘 0 「
+retihe domeniut de acceptabil de aceste ordine, respectiV domeniul cuprins 7ntre
+preturile at±stor ordine;
+c) Se identlficä 刂 § tO 酊 ea pereche de ordine care indeplinesc conditia de corelare a preturilor
+， se rebine dacä domeniul de preguri acceptabil de a 匚 地 ordine, este inclus in ] pästrat
+anterior;
+d) Procesul se repetå pänä nu mai pot fi identificate perechi Care sä genereze un domeniu
+acceptabil de preturi care fie inclus in cel anterior;
+e) Pretul de corelare a tuturor ordinelor r$inute anterior este media aritmetiCä a pr#urilor
+ultimei perechi re!inute;
+0 Dacä mai sunt ordine care 酊 indeplihi conditia de corelarer se reia intreg procesul de mai
+5u5@ intr-O nOuä licitagie tntrazilnicä, 5e determinä un nou set de perechi 〔 a 虍 Vor corela
+un nou
+g) Ordinele 山 restrictia de executie „FOV sau 是 OC ” nu participä la licita!ie deoarece aceastea
+n u sunt niciodatä in reglstrul comun 引 Ofe elO 匚
+Sistemul de tranzacWonare P.I. va alOG automat fiecärei tranza$ii incheiate de partldpant un
+uniC de identificare (TradeID) v 忉 in sectiunea destinatä tranzactiilor proprii (Own
+Overview/ Own Trade) 5i 0 marcå de timp prin care sunt precizate ora (h)i minutul （ m 〗 引 secunda
+(s) recep!ionårii tranzactiei in SLT, vizibilä secWunea de mesaje atåta timp cåt- paåicipantul
+rte in Ziua
+rämäne conectat SLT in raportul de tranzactii generae de modulul
+urmåtoare zilei de tranzactionare.
+=== PDF PAGE 25 ===
+OPCOm
+PROCEDURA PRIVIND FUNCNONAREA
+PIETEI INTRAZiLNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod.
+Pag. 25 / 55
+Rev. 5
+7 ． 8 、 15 ．
+7 ． & 1 &
+7 ． 8 ． 17 ·
+7 19
+7 ． 8 ， 20 ．
+Procesul de corelare 鼢 incheie in momentul tn care nu existå oferte care indeplinesc conditia de
+corelare sau la expirarea sesiunii de tranza#ionare pentru Contractul respectlV.
+OPCOM S.A. pune djspozi!ia pafticipan!ilor la P.I ， prin intermediuf sistemului de tranzactionare,
+Confirmarea de tranzacWe imediat dupä tncheierea fiecärei tranzacCii.
+0 Notele de decontare zilnice Notificärile fizice aferente tranzactiilor incheiate
+in fiecare 才 dupä incheierea 山 № ror sesiunilor de tranzac!ionare pentru Contractele aferente zilei
+de livrare curente, OPCOM S.A. elaboreazä 5i pune dispozitia participantului la P.I., NO 《 e de
+decontare zilnice aferente tranzactiilor incheiate pentru ziua de livrare curentä.
+Notele decontare zilnice ()n RON si EUR) aferente tUturor tranzactiilor incheiate pentru Ziua de
+livrare curentä in ore CET vor puse la dispozi\ia participantibr P.I: dupä incheierea
+tranzacwonärii pentru ziua de livrare curentä in sistemul informatic post-tranza$ionare.
+Pe baza an 羽 № r incheiate pentru ziua de livrare, OPCOM S.A. stabii%te NOtificärile fizice
+corespunzätoare tranzactiilor pe IDCT. in mod agregat pentru fiecare PRE 划 cärui membri au
+incheiat tranzac!ii le transmtte la OTS.
+NotificåriIe i vor fi äctualizate odatä cu incheierea unor noi tranza#ii pentru aceeasi zi de
+ra 陀 5i se vor retransmite OTS pånä la sfårsitul fiecärul intetval ulterior celui in cares-au incheiat
+tranza#iile.
+7 ， & 21. № cursul fiecårei seSiuni de a a ona PRE-urile care si-au aSumat responsabilitatea
+echilibrärii pentru participanlii la P.I. au acces, prin intermediul sistemutui informatic POSt-
+tranza#ionare la Notificärile fiztce proprii con!inånd schimburile bloc pe 行 e 化 intetval de
+dispecerizare 一 IDCT, aferente trenzac!iilor ID(Ä.
+7 ． 8 、 2 艺 Not 而 凿 0 厄 fizice se realizeazä consideränd ziua de livrare in ora Romåniei. Actualizarea
+Noti 到 （ 利 or fizice $i transmiterea acestora cätre OTS 望 realizeazå dupä inchiderea tranzactlonäni
+pentru ptimul Contract care se tnchidej astfel cå, Notificarea fizicä va cuprinde Schimburile, bloc
+aferente tranzactiile incheiate pånä 磨 a 《 moment pentru Ziua de livrare respectivå. Notificarea
+fizicå a Schimburilor bloc cuprinde totdeauna 96 intetvale de 15 minute （ 10D / 92 intervalen in zilele
+de schimb@re a orei, dupå caz) 、
+7 ． & 23 ． Notele de decontare zilnicer precum Notificarile fizice pentru PRE-uri vor accesibile in sistemul
+informätic post-tranza#ionare pentru 0 perioada de 3 luni de generarea 10L
+9 ． SITUATII DE ABATERE DE LA FUNCTIONAREA NORMALA
+7 ． 9 ， 1.
+7 ： 9 ． 2 ．
+7 ． 9 ， 3 ．
+Ca urmare a 山 10r evenimente nepreväzute este posibilå suspendarea tranzacgonäriil ln cazul
+suspendärii tranza#ionärii, toate ordinele din piatä se suspendä automat 、 Odatä eliminatä cauza
+care a condus la suypendarea tranza#ionärii, pa;ticipantii trebuie sä-5i reactiveze ordinele in piatä,
+dacå doresc.
+in situatia in careexista 0 problemä cu sistemul central de tranzactionare ()e exemplu, 0 problema
+de algoritm), gestionatä la nivel central de cätre administratorul sistemului central SOB/ 0
+tranzactie consideratä invalidä poate 月 anulatä, iar particlpanCii implicati vor fi anuntati de cätre
+OPCOM SA printr-unul dintre canalele de comunicatie existente (mesaje in platfOrrnä, e-mail,
+恺 斷 On ） ，
+in cazul func!ionärii cup 《 a in SIDC, ca urmare a unor evenimente nepreväzute, cazcin care
+tranzac!ionarea nu se mai poate 「 e 誦 羽 prin sistemul central SOB, tranzacyonarea• 0 @陀|酊e
+continuå se poate realiza la n 种 local prin produse (Contracte) similare.
+=== PDF PAGE 26 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 26 ／ 55
+Rev. 5
+7 ． 9 ． 4 ．
+7 ． 9 生 5 ．
+7 ． 9 ． 5 ．
+7 。 8 ．
+participantii la p.t. vor anunta!i asupra acestei situatii, dupä caz, 豇 in canale de comunicalie
+alternative (teiefon, e-mail, 巳 bs ， sistem de tranzactionare); de indatä ce condi!iile permit
+desfäsurarea normalä a sesiunilor de tranza#ionare, tranza4ionarea se va relua, iar parucipantii
+vor fi anun!aW de reluarea acesteia.
+in cazul situa!iilor de funcMonare defectuoasä a sistemelor, se 姹 intrerupe tranza#ionarea pånä
+la restabilirea situayei ncrmale.
+De momentul reluärii fun#ionärii sistemelor, desfä5urarea sesiunilor de tranzactionare are 《 OC
+conform orarului normal.
+pæeem-9i-met4veæa-aeesteærse-pebheä-pe-websfte-el-0PG+4-S-A-
+in cazul intreruperii sesiunilor de tranza#ionare conform art. 7 · 9 ． 1 ． sau a existengei unor probleme
+in sistemul 毹 n 斷 引 conform att. 儿 9 ， 2 · OPCOM S.A, nu poate fi tinut responsabil pentru orlce
+eventuale daune materiale invocate de participanWi la P.I.
+& PARTICIPAREA LA MECANISMUL DE LICITATII INTRAZILNICE (IDA)
+8 庵 1. ASPECTE GENERALE
+8 ． 1 ． 1 ． Procedura are drept OP prezentarea in cadrul acestei se4iuni a procesului de t 「 anza#ionare
+rezolutia de 15 minute in trei licitalii organizate pentru 0 zi de livrare in cadrul Pietei IntrazilniCe -
+Tranza#ionarea prin iicitatii CIDA"). Aceasta se realizeazä dupä urmätorul 0 r de fUnctiönare.
+司 IDAI (sesiuhea 1 tranza#ionare prin licjta!ie) cu tnchiderea po 巾 r de ofertäre in ziua D ， 1 la
+0 「 a 15 ： 00 CET pentru intervalele 卜 96 引 e 刎 回 「 are D [ 创 卜 24h 上
+b) 1DA2 （ une 2 de tranza#ionare prin licitatie) cu inchiderea 四 巾 》 or de ofertare in ziua D-I la
+ora 22 ： 00 CET pentru intervalele 1 一 95 ale zilei de livrate D 阳 h ． 24h ] ；
+c) IDA3 (sesiunea 3 de tranza<ionare prin licita!ie) cu inchiderea pofiiior de ofertare in zjua D
+ora 10 ： 00 CET pentru intervalele 49 ． 96 ale zilei de livrare D [ 12 举 四 h
+8 ． 1.2 ． Tranzactionarea prin licitatii tncepedupä incheierea procesului de tranZactionare Piap pentru
+Ziua U 「 m oa pentru 乞 L 旧 de livrare D 5i este complementara tranzaciionärii continue cadrul Cuplär1i
+unice a Pietelor lntrazitnice („SIDC"), permi!änd echilibrarea portofoliului de productie, consum si/sau
+contracte, precum $i stabilirea pre!ului pa 匚 i 0 「 de interconuiune condi!iile existengei congestiilor.
+& 1 3 ． in cadrul IDA tnche[e, fiecare zi de tranza#ionare, tranzactli ferme cu energie electricä activä
+pentru fiecare interval de tranzac!ionare 刨 ziléi de livrare corespunzätoare, pe baza 0 or transmise de
+participanti, pentru fiecare sesiune de licitatie IDA. OPCOM administreazä tranza#ionarea in cadrul IDA ca
+OPEED desemnat pentru zona de Of 虍 Romänia.
+& 1 、 吼 Tranzäctiile pe IDA se efe u prin corelarea ℃ te 改 国 or de vänzare 5i de cumpärare prln
+mecanLsmul de i ； implicitä agreat pentru 501u 《 ia unicä de cuplaré europeanå, dupä parcurgerea
+etapelor de ofertare, Validere 5i de agregare a ofe 0 「 ， anterior corelärii acestora.
+8.1.5, OPCOM S.A. este contraparte pentru 巳 〔 a 「 e participant care tranzactioneazå cadruliIbA.
+8.1.6. TranzaCCiile finalizate prin livra 「 ea i a energiei electrice in SEN, in zua de•liVrare,
+=== PDF PAGE 27 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 27 / 55
+Rev. 5
+8.1.7. Livrarea energiei electrtce se considerå a fost 陀 a 砭 a de e fiecare partici>ant P.I. prin
+transmiterea de NF pentru tranza#iile tnCheiate pe P,I. prin mecanisrnul IDA de cätre PRE-urile din care
+acestia fac patte 5i de cätre OPCOM S.A 、 pentru PRE-IDA,
+& 1 ． & in vederea indeplinirii satcini()r de notificare fa!ä de OTS scopul realizarii decontärii fizice,a
+tranzactiilor incheiate pe P.I., OPCO 卜 1 S.A. inregistreazä un PRE dedicat tranzactiilor incheiate PII. prin
+mecanismul IDA (PRE-IDA), tn calitatea sa vde contraparte inaceste tranza#ii.
+8 ． 1.9 ． in PRE-jDA tnreystrat de OPCOM S.A. nu mai pot intra al!i membri, iar toate tranza#iile sunt
+execut@te prin interniédiul schimburilor b!oc notificate cu alte PRE-uri in sistemut OTS.
+& 1.1 ln scopul integrärii in piata de echiljbrare rolului de agent de transfer 5i palticipant implictt 些
+IDA al OTS; acesta inregistreazä PRE diStinct pentru tranza#iile inregistrate prin acest mecanism.
+8,1.11. Patticipantul la IDA care are intentia transmitä oferte cumpårare cu preturi pozitive sau
+ofette de vänzare cu pre!uri negative trebuie:
+· constituie 0 garantie financiarä, conform prevederilor 归疒.edu/声疒觞力dC005怵u酽ea.， 万 虍 a
+si u 讵 a 疒 田 garantii/or 疗 ha c pentru a 匚 a a /a 叼 / h az 刁 冂 七 犭 enetgie e/ectriCä ”
+羽 “ 硐 旧 a prin ／ 0
+· deschida un cont in numerar (lei) la o bancä comerciala din Romania ， incheie un Mandat
+de Debjtare Directä cu banca respectivä.
+& L12 ， Fiecare participant la IDA primeste un Cöd de identificare unic.
+& 1.1 引 0 ofertå este acceptatä doar dacä este introdusä de un partiCipänt gau de OPCOM S„A. in numele
+acestuia, dacä este mandatat 餼 acest sens, § 《 anume dacä oferta con!ine COdul de identificare 刨
+participantului oferit tnregistrare.
+& 1.1 生 Tranzac!iile incheiate pe IDA prewri pozitive determinå 0 Ob a a respectivului participant
+P.I. de a livra energia electricä, in cazul in care tranzac!iile 驴 au bazat peoferte de vånzare sau 0 obligawe
+de a accepta livrarea energiei electrice, in cazul in care tranzac!iile S-au bazat pe oferte de cumpårare, in
+conformitate cu specifica!iile respectivei tranzac!ii:
+8 ． L15 ， Tranzactiile se potincheia la pre!uri negative. 0 tranzac9e cu pret negativ are semnifica9a prestärii
+unui serviciu de achizi!ie a energiei electrice, de cätre paftea care p 门 m 芍 energta catre partea care 0
+iivreazä, neavånd semnificatia livrärij de bunuri de e paff-ea care livreaza energia （ nz or 冚 pläteste
+preluarea energiei de e cumpäråtor).
+8 ， L16 ， Fiecare tranzac!ie peIDA se 祀 la un interval de tranzactionare, äcesta fiind un 曰 t dearä a
+unei zile de livrare, primul interval de tranza#ionare fiind intervalul dintre ora 0 ： 00 CET 5i ora 00 ： 巧 CET
+(intetvalul 1 ： 00 - 1 ： 15 ， ora Romäniei 〕 ．
+& L17 乙 ua de livrare are 96 de intervale de tranzactionarei cu exceptia zilei de trecere de la ora de vara
+cea de iarnå, care are 100 de intervaie de tranza#ionare, 5i a ziiei de trecere de la ora de iarnä la cea
+de vara, are 92 de intervale de tranzactionare.
+& 1 ． 18 ． Mecanismul de tranzactionare in cadrul IDA este licitagia implicitå, respectiv tranza#ionarea de
+energie electricä sirnultan cu alocarea de capatitate,
+& L19 ． Principiile mecanismului de licitawe care se aplicä oferte!or sunt urm 訛 0 酊 刨 e ：
+司 corelarea e 改 elo 「 se realizeazä conrorm unei metode transparente corespunzätoasmepni#rmului
+agreat decuplare 5j pnn Care sunt puse in aplicare principli cunoscute public;
+b) corelarea oferteloraSigurä un mediu nediscriminätoriu participah'ilor;
+=== PDF PAGE 28 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod:
+pag. 28 ／ 55
+Rev, 5
+0 ℃ orela 「 ea ofertelor 巽 desfäsoarä in conformitate cu specificaCiile äcestora;
+d) rezultatele licitagiei se publicä intr-un termen rezonabil dupä ora de inchidere a p01 definite in
+cadrul IDA.
+& 1 ， 20 ． AIgoritmul utilizat pentru coreläreä ofe 刨 or Si determinarea PIP-IDA procesul de cuplare a
+pietelor are pnncipiu maximizarea bunästårii sociale nivelul pie!elor cuplate, 5i anume a sumei dintre
+surpiusul vånzätorului, .surpiusul cumpärätoru!ui renta aferentä congestiilo 「 liniile de interconexiune,
+dacä este cazul.
+8 、 1 ． 21 、 Prin utiiiiarea unui astfel de algoritm urrnäre;te alocarea eficientå a resurselor din pia!a de
+energie electricå 5i a capacitälilor interconexiune din regiunile cup'ate, 地 § tn consideröre toate
+0 他 改 ele introduse in fiecare din pie!ele cuplate 享 toate informatiile privind capacitägjle disponibile pe
+lnterconexiune,
+8 ． 1 ． 22 ， Algöritmul utiiizat pentru cuplärea pietelor (Euphemia) este cel recomandat ACER pentru
+cuplarea prin preta regiunilor, 5i anume 《 utilizat de Euphemia sau oricare succesor 引 acestuia care
+corespunde acelorasi criteni performangå, in baza agreärii sale de cätre ACER 5i de e toate
+guverneler autoritåtile de reglementare, OPEED-urile 5i OTS-urile statelor participante la cuplare
+& 1 ， 23 ， 《 u a de cuplare pentru zona SIDC prin intermediul IDA are in vedere utilizarea unui singur
+a 《 go 「 i pentru toatä piäCa internä europeanä, care asigure determinarea echitabilä 引 transpärentå a
+p 「 e 蜘 0 「 5i atocarea paat iIO 「 transfrontaliere, 5 respecte prinapiul pattajärii descentralizate a datelorr
+ceea ce asigurä robuste!e Si sigurantä in 0 些 ra ， precum 享 cel responsabilitäWi individuale a burselor;
+prin schimbul de oferte andnimizate 引 de capacitäW de transfer interzonale intre burse péntru calc 酊 啪
+preturilor zo 卩 刨 e Si a altor pretur[ de referingä, precum a fluxurilor de energie electricä e zone, pentru
+toate zonele incluse mecanism 、
+& 1.2 吼 Scopul algoritmului Euphemia este acela de a determina ofertele bloc care se e × ect 《 凿 5i pe •cele
+吧 rn 訃 neexecutate si de a determina pr4urile de tranzacCionare zonale pozitiile nete pe zonele de
+ofertare, as 旨 e 《 incät se maximtzeze bunåstarea 500a nivelul regiunilor p 》 a generatä de
+executarea Ofe 戊 引 or ， ia:- fluxurile de energie generate de executarea ofertelor nu depäseasca
+capacitatea elementelor de regea relevante.
+& L25 ． Pentru Cuplätea pietelor cantitatea maximå de energie electricä schimbatä intre zonele de ofertare
+se determinä pe baza 吧 gis 厅 e 《 0 「 0 龟 改 国 or pentru 行 毿 酊 e zonä: de 0 「 e ， datelor de (e)ea furnizate sub
+forma unui modei bazat pe capacitäCl de interconexiune,
+& L26 。 Exjstenta ofe 戊 or bloc, care su 甙 acceptate doar dacä sunt respectate pe toate intervalele induse
+in perioada dé defini5ie conditiile specifice prestabilite de fiecare piagä la definirea acestor oferte,
+transförmä problema intr-una complexä, 50厄@ fiind utilizarea unui algoritm de optimizare combinatorialä
+modelat ca 0 problemä de programare discretä mixtä cuadraticä, care rezolve problema principalä, de
+maximizare a bunåstärii.
+& 1 ． 27 ． Ca regulä generalä, 0 0 佗 戊 兰 b 《 este executatä sau nu, prin cömpararea pregului säu Cu media
+町 e 蜘 「 ilor de inchidere in intewalele de tranzactionare 化 5 山 V ponderate cu nti 亳 瞓 巳 considerate ca
+energie din fiecare interval de tranzactionare al perioadei de definiWe a blocului. Avånd in vedere
+complexitetea problemei, este posibil ca 0 0 「 ert bloc nu fie executatä （ 0 犭 rejectatä paradoxal) chiar
+dacä pre!ui säu ar fi permis executarea la pretul de inchidere.
+8 ． 1 ． 28 、 urmätoarele condi!ii sunt sa 佬 te pentru zona de piete Cuplate: p 蜘 1 de inchidere a pietei
+zona de 酐 e 戊 酊 e importatoare 05 in mod normal mai mare sau egal cu pregul de inchidere a pietei'din
+zona de 0 r 「 e e 刃 ar iar dacä fluxul de lmpo sau export este mal miC decåt capacitatea
+disponibilä de interconexiune, pre!arile de tnchidere in cele dO zone -sunt egale.
+=== PDF PAGE 29 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÅ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+（ Od ：
+Pag. 29 ／ 55
+Rev. 5
+8 ． L29 ． Algoritmul se opreste urmåtoarele cazun:
+a) au fost explorate toate posibilele solutii, caz tn care este determinat 「 u t 圃 optim,
+b) limita de timpa fost atinsä;
+numärul limitäde iteratii a fost atins.
+8 ． L30 ． Algoritmul Euphemia 0 rezultate urmätoarele date:
+a) de tnchidere aferentfiecärei zonedeofettare;
+b) pozitia netä aferentä e zone de ofertare;
+0 fluxurile de energie electricä piin fiecare interconexiune, aferente tranza#iilor pe IDA;
+d) cantitä91e executate, pentru fiecare ofertä bloc.
+& L31 ． OPEED utilizeazä rezultatele 山 rni de Euphemia pentru determinarea tranzactlilor eferente
+fiecårui participant 引 IDA.
+& 1 ． 32 ． ProcesuI de cupiare a piegelor cuprinde trei etape sub aspectul derulärji c 虍 閬 logi 匚 e a operawunilor,
+respectiv• etapa pre-cuplare, etapa de cuplare 5i etapa post-cuplare. Principalele a 山 v 口 ale fiecårei etape
+sunt prezentate mai jos
+A) Etapa pre-cuplare
+8 ． L33 。 in etapa de pre-cuplare se a5igurä realizarea urmätoarelor actiuni:
+a) Determinarea, 7n mod coordohat, a v 引 ori 《 0 「 capacitätilor pe interconexiune intre zonele de
+ofertare disponibi!e pentru fiecare dintre sesiunile de ticitatii implicite IDA (denumite in
+continuare, generic, CZC);
+b) Publicarea pentru partiCipantii la piatå a valorilor CZC relevante;
+0 Transmiterea ofertelor de e patticipan!ii la p*;
+司 Colectarea ofettelor, agregarea si anonimizarea acestora dupa ora de inchidere 凶 巾 i de
+ofertare.
+& 1.3 ‰ Toate actiVitätile pre•cuplare coordonate ale OTS-urilor sunt acoperite de 「 ün<ia de management
+la nivelul OTS, denumitä in continuare CMM. Aceasta asigurä pregätirea in mod coordonat a capacitäCilor
+utilizate ca date de intrare in procesui de cuplare a p or ， pe baza datelor provenite de la OTS-uri.
+8.1.35. OTS-urile realizeazå calculul coordonat al CapaCitåtii de interconeXiune 5i determinä parametrii CZC
+prin intermediul modulului centralizat CMM al OT ur № 「 ， pune la dispozitiea OPEED-urilor aceste
+informa!ii prin intermediut unui mediu informatic numit Central lnteiface Point 〈 CIP), care reprezintä
+mediul care asigurä 血 以 u 《 de informatii, necesar atåt OTS-urilor cåt Si burselor de energie e 囿 ．
+& 1 ． 36 ． Participantii IDA intrOdUc}modifica oferte de vänzare sau de cumpärare a energiei eiectrice
+pentru ziua de livrare. Ofertarea pentru IDA tn cadrul unui sistem de tranzac!ionare 丽 《 a 「 celui utilizat pe
+Piaga pentru Ziua lJrmätoare 虻 face separat deofertarea pentru mecanismUl de corelare continuä.
+8 ． 1 ． 37 ． La ora de inchidere a por!ii IDA (GCT), OPEED inchide registrul 0 「 é e r.
+& 1 、 3 & la ora de tnchidere a registrului Ofe 改 创 or ， participan$ii IDA pot introduce/modifica/anula
+oferte de vånzare sau de cumparare, sistemul de tranzactionare luånd in considerare ultiriläyersiune validå
+a ofettei fiecärui participant, Dupä aceastä 0 苘 Of 巨 比 e 《 e n u maj po 《 負 modificate sau ;eléefiind
+ferme Si irevocabile.
+=== PDF PAGE 30 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd:
+Pag. 30 / 55
+Rev. 5
+8 ， 1 ． 39 ． Dupä inchiderea registrului cfertelor, OPEED realizeazä curbele agregate de vånzare $i cumpärare
+anonimizate pe baza ofe 砘 elO 「 treaptä colectate de la participany 5i pune dispozilie aceste informatii,
+aläturi de 0 飞 戊 e 《 e bloc, CoordonatoruIui, Toate ofertelé sunt anonimizate in prealabil.
+& 1 0 ， OPEED determihä curba ofertei prin combinarea tuturo 「 perechilor pret-cantitate din 0 改 e 厄
+treapta de nz 酊 sortate in ordine crescätoare a pre!urilor, tncepånd cu perechea pret-cantitate cu pretul
+cel mai miC pänä la cea cu pregul 》 mai m 酊 巳
+8„1.41. OPEED determinä curba cere 「 ii prin combinarea tuturor perechilor pret-cantitate din ofertele
+巳 ap dé cumparare, sortate in ordinea descrescätoare apregurilor, incepand 闐 perechea preg-cantitate
+p 「 u 》 cei mai mare, pånä la cea cu p 「 冚 cel mai mic.
+B) Etapa de cupiare
+8 ． L42 、 in etapa de cuplare asigurä realizarea urmätoarelor acyuni:
+司 Transmitetea 酐 e 改 e 丨 0 「 agregate, inclusiv ofettelor bloc, anonimizate, dé eätre OPEED-uri,
+coordonatorului p 「 oces 囝 de a ；
+切 Rularea algoritmuiui cuplare $i distribuirea cätre OPEED-uri a rezultatelor Cüplärii de cÉtre
+coordonator in vederea 姹 li 0 刂
+0 Stabilirea cantitäbilor tranzactionate prin abcarea pe po 改 0 《 iul fiecärui participant, de cåtre
+fiecare OPEED, a rezuitatelor cuplärii;
+d) Transmiterea rezultatelor cupErii de cätre toate OPEED-urile ℃ ätre CMM, prin intermediul CIP,
+fiind procesat fisierul furnizat de OPEED-ålui conform schemei rotationale integrata in 0 已 tn
+vederea velidärii fluxurilor rezultate din rularea algoritmului cuplare;
+e) Publicarea rezultatelor cuplårii.
+8 ． 1 3 。 Corelarea 酐 改 国 00 in concordanta cu principiile algoritmului Euphemia, se realizeazä zilnic de
+cätre Coordonator, rol asigurat de un OPEED din cadrul statelor implicate cuplåre, dacä aCeasta este
+membru deplin PCR, pe baza principiului rotaWonal; procesul de CO 化 | 酊 e este realizat Si in pararel de un
+op 釕 蘸 or de cuplare care are instalate activele PCR, cpnstituind 50h a de rezervä, pentru asigurarea
+validårii rezuttatelor.
+& 1 Fun4ia de cuplare a pietei se aflå sub guvernanga tuturor OPEED-urilor 轩 éste asiguratä de acele
+OPEED care sunt coproprietare ale activelor PCR.
+8 ． 1 5 ． Bursa de energie eléctricä care asigurä sol$ia de rezervä poate prelua sesiunea de cuplare Si
+poate indeplini rolul de C00 「 donato 匚
+（ ） Etapa post-cuplare
+8 ． L45 ， ln etapa post-cuplare se asigurä rea!izarea urmätoarelor a#iuni ：
+司
+b)
+0
+d)
+Stabilirea si transmiterea not 而 祖 or fizice de cåtre OPEED cätre OTS agregat pezi de iivrare;
+Realizarea decontärii 斷an如@ilO「 nivelul pie!ei locale;
+Realizarea decontärii tranza#iilor bil e 尾 飞 intre OTS-uri pe baza f 《 u or -rezultate din
+mecaniSmul de cuplare,
+StabiIifea venitului din congestii #i distribuirea aCestuia intre OTS-uri.
+=== PDF PAGE 31 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 31 / 55
+Rev. 5
+& L47 ． ln cazul in care in cadrul procesului de cuplare sunt intåmpinate probleme care duc (a
+mpo 引 b 山 a furnizärii datelor de intrare necesare algoritmului Euphemia in vederea efectuärii catcului
+cuplärii (régistrul de 0 戊 e anonimizat $i valorile CZC fiecare interconexmne) de cätre un OPEED,
+（ 0 酐 0m1 decizijlor Si reglementärildr din d 画 proiectului european, toate zonele de ofertare cu exceptia
+unora, se vor decupla.
+& L48 ， Avånd tn vedere ofertarea respectiv tranzactionarea la rezolu!ie de 15 minute pe zona de 0 ] re
+Romånia cadrul IDA pentru fiecare sesiune de licita!ie IDAI, IDA2 5i IDA3, notificårilé fizice aferente
+tranzactionärii secreeazä agregatdupä fiecaresesiune de licitatie IDA (notificarea pentru IDA2 V3 contine
+poziCia netå agregatå tuänd in considerare tranzactiile efectuate pentru IDAI, respectiV notificareä 月 艺
+generatä in urma IDA3 va contine pozi!ia 凿 agregatä luånd tn considerarea tranzactiile efectuate pentru
+IDAI si 1DA2) pentru fiecare zi de tivrare prin rapoftare ore CET pentru 96 intervale de 15 minute
+000 ／ 92 intervale, in ztlele de schimbare a orei, dupä caz).
+8 · 1. 弓 9 ． Avånd tn vedere abordarea tranza#ionärii in ore CE 「 pe piata pentru ziua urmätoare cuplatä
+face ca ora 24 CET a unei zilede livrare (D) din perspectiva tranza4ionärii pe IDAsä reprezinte ora ora
+Romåniei pentru urmätoarea Zi de livrare (D+I), oti de cäte ori 引 」 《 m 而 in asumarea
+responsabilitä!ii echilibrärii in ceea ce-i priveste pe pa1tjcipanWi care tranza#ioneazä in cadrul IDA (a cårei
+valabilitate se 阉 r 0 zi de livrare cons e 「 a in 0 「 a Romäniei), dupä transmiterea noti 月 删 酊 fizice
+ale schimburile bloc rezuitate din tranzactjonarea pe IDA in ore CET aferente zilei de livrare D; OPEED va
+retransmite OTS 9i p or responsabi!e CtJ echilibrarea afectate de aceste modificäri, not 而 e fizice ale
+schimburilor btoc actualizate pentru ce[e patru intervale de 15 minute ora 1 ora Romåniei pentru
+urmätoarea zi de livrare (D+I). Ac±ualizarea se referä la modificarea asumärii responsabiiitätii echilibrårii
+valabilä incepånd cu intearalul 1 0 「 a Romåniei pentru urmätoarea zi de livrare （ D 十 1 ） ， Dupä actualizarea in
+p 厅 örma pietei de echilibrare pentru cele patru intervale de 15 minute pentru intervalul 1 ora Romäniei
+pentru urmätoarea zi de livrare （ 0 + 1 〗 PRE-urile vor lua in considerare aceste notificäri fi2ice actualizate.
+& 2 · OFERTAREA IN CADRUL IDA
+8.2.1. Prevederile se#iuni se aplicä de ℃ 犭厅e partiCipanYi 匚 酊 e depun ofertein cadrul IDA
+cätre OPEED in activitatea de ofertare, respectiv de vaiidare a ofertelor pentru tranzac$ionarea zilnicä de
+energie e\ectricå pe IDA in func!ionarea 7n regim cuptat.
+A) CaracteristiciIe ofertelor pe IDA
+& 艺 2 ． 0 ofe exprirnä angajamentul ferm al participantului la IDA de a intra intr-un contract avånd ca
+Ob ℃ vånzarea sau cumpararea de energie electricä dacä p 陀 蜘 《 de 0 龟 r 凿 凸 pozitiv, respectiV vånzarea
+sau cumpararea serv'iciului de preluare a energiei dacä pre!ul de 0 龟 犭 este negatiV.
+& 23 ． Ofertele devånzare/cumpärare de energie electricä fac la nivel agregatpe porto 「 0 № 《 fiecärui
+participant,
+8 ． 2 ． 生 Participantul poate introduce Of 曰 t 巳 exclusiv pentru prima sesiune ÄDA care urmeazä ()u pot
+jntroduCe 7n avans oferte pentru sesiunile urmätoare IDA), in perioada de ofertare care este de 1 ora
+pentru fiecare gesiune IDAI, IDA2 引 IDA3.
+8 ， 2 ， 5 · Ofe 「 este definitä de minim 0 pereche pre!-cantitate ， Cantitatea este exprimatä medie
+orarä ltl 卜 IW cu 0 zecimalä, iar pretul este exprjmat 7n 扈 cu douä zecimale.
+& 2 ． 6 ． OPEED p b 犭 site-ul säu limitele sca!éi de pregexprimate in lei valabile pentru±iuä de livrare
+urmätoare nu mai tårziu de douä ore de publicarea de cätre BNR a cursului de schimb leu/euro valäbil
+pentru acea zi de livrare.
+=== PDF PAGE 32 ===
+OPCOm
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+（ od ：
+Pag, 32 / 55
+Rev. 5
+& 2 ． 入 Fiecare pereche pret-cantitate a unei 0 飞 戊 e treaptä de cumpårare p 皂 n un interval de
+tranzactionare define$te p 但 蜘 《 unitar maxim la care participantul la IDA este dispus sä curnpere 0 cäntitate
+de energle electricå nu depå5%te cantitatea rnen!ionatå in perechea preg-cantitate.
+乙 8 ， Fiecare pereche pret-cäntitate a unei oferte treaptä .de yänzare pentru un interval de
+tranza#ionare define;te pretul unitar minim la care participantul la IDA te dispus våndä 0 cantitate
+de energie electricä ce nu depå5este cantitatea mentionatä tn perechea preg-cantltate
+8 9 · O 改 e fac ptin raportare la 0 「 a CET, adicä primul interval de tranza#nare este intervalul
+dintre ora 0 ： 開 Si ora 00 ： 15
+8 ． 2 ． 10 ， 0 化 戊 e 厄 se fac pentru zona de ofertare naWonalä, cu luarea ln considerare a fun#ionårii acesteia
+ltl regim 匚 叩 t.
+& 2 。 11 ． Ofertele potfi de urmätoarele categorii ：
+a) oferte 斷 ptä ；
+b) ofertebioc.
+& 2 · 12 ． Modul de intrcducere a 0 龟 改 e 丨 or in sistemul de tranzactionare este descris detaliat in Ghidu/
+u 0 oru / / pentrupatffc/pantul 婶 az 咖 de Energie 材 _ 丆 “ 艉 öna a pnn 化 0
+publlcat website-ul OPCOM S.A.
+OF R 丆 下 丆 RE
+8 ． 2 ． 13 ` Pentru 到 e 「 e in 引 de tranzactiohare, un partidpant IDA poate transmite 0 引 四 u 0 「 er
+treaptä de cumpärare 5i 0 singura 0 改 § treaptä de vånzare.
+8 ． 2 、 14 ． 0 Of 曰 treaptå de vånzare/cumparare poate sa continä maxim 32 de perechi pre!-cantitate.
+& 2 ． 巧 ， Pre!ul fieCärei perechi pret-cantltate reflectå pregul de tranza#onare acceptat de
+vånzätor/cumpärätor pentru energia Ofe 「 凿 in 0 「 e treaptä respectivä.
+8 ． 2 ． 1 & Cantitatea din 酐 戊 」 este consideratä ca putere medie orarä pentru intewalul de tranza#nare
+respectiv (energia ofertatä/tranzactionatä rezultå a fi 0 pätrime din puterea medie orara
+0艴帕琵/帕n花@onat司 ，
+8 ， 2 ， 17 ． 0 pereche pre!-cantitate a unei oferte treaptä de cumpärare pentru un interval de tranza#ionare
+defineste pregul unitar maxim la care participantul la IDA este dispus cumpere cantitatea de energie
+electricä din r h pre;-cantitate.
+8 ． 2 ． 18 ． 0 pereche pr4-cantitate a unei 0 沈 e treaptä vånzare pentru un intetval de tranza#ionare
+defineste p 蜘 1 unitar minirn la care particlpantul la IDA este dispus 亞 våndä cantitatea de energie
+e!ectricä din perechea pre!-cantltate.
+8 ． 乙 19 · ParticipanWi IDA pot transmite la OPEED t 巳 0 limitå de volum pentru volumul 0 飞 戊 at
+(considerat ca putete medie ora 虍 〗 separat pentru （ um 阉 引 pentru n 吧 ， aplicabilä pentru fiecere
+or privind cantitatea maximä ce 卩 oate fi ofertatä de acestia pe1DA, solicitSnd OPEED invalida 「 ea Ofe 改 or
+proprii care contin cantitäW agregate ()a putere medie ora 虍 〕 mai mari decät aceastä № 蜘 ． ln absenCa
+unor asemenea solicitäri aie participa$ilor la IDA, OPEED va utiliza limita tehnicä.
+8 ， 艺 21 Oferteie treaptä sunt independente 5i se pot transmite pentru toate cele 96 dé ifitervale de
+tranza#ionare, res 匚 pe 92 de intervale de tranzactionare in ziua de trecere de la 0 阉 ru 〔 de iarnä
+orarul de varä 轫 pentru 100 deüntetvale de tranza#ionare in Ziüa de trecere de orarul de varä 忪 orarul
+de iarnä.
+=== PDF PAGE 33 ===
+opco
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 33 / 55
+Rev. 5
+OE 下 BLOC
+& 2 ， 21. 0 a bloc de vånzare Sau de cumparare peIDA este 0 combinatie de oferte simple de Vänzare
+sau combina!ie de oferte simple de cumpärare aferente mai multor intervale de tranzacWonare, a cäror
+executare este lnterdependentä, 5i ant 」 me se executä toate sau nu se executä nicluna. Oferta blOC este
+caracterizatä de 0 limtä de pr# 轫 0 cantitate (consideratä putere medie orarä constantä intervalele
+aferente perioadei de definiWe a b10 匚 u | u ，
+8 ． 乙 22 · Pretul ofertej bloc reflectä pre!ul aferentcantitätji de energie din 0 艴 r 囱 bloc()n lei/MWh) acceptat
+de vånzåtor/cumpäråtor pentru energia Ofe 凿 pentru b10 匚 ul respectiv.
+8 ， 乙 23 ． Cantitatea din 0 戊 § este consideratä ca putere medie orarä pentru intervalefe de tranzactionare
+din perioada de definilie a blocului (energia ofertatä/tranzactionatä rezultå a 0 pätrime din puterea medie
+0 「 a ofertatä/tranzactionatå).
+822 生 Ofertele bloc sunt definite de numärul intervalelor care formeazä blocul. Numärul intervalelor unei
+oferte bloc (perioada de defini!ie a b 》 ui 冫 poate fi definitin sistemul de tranza#ionare de OPEED (oferte
+predefjnite in sistem) sau de patticipant. 0 「 e 戊 国 e blOC predefinite in sistem sunt disponibile tuturor
+participantilor. Of le b 《 0 匚 definite de patticipant suntdisponibile exclusiv paftiCipantului care le-a definit.
+& 乙 25 生 Ofertele bloc pot fi independente sau interdependente. Ofeftele potfi interdependente numäi
+dacä sunt de a la sens, respectiv numai de vånzare -sau numai de cumpärare.
+82 ． 26 ． D 创 sau mai multe Ofette bloc interdependente formeazä 0 familie de 0 改 e b 匚 0 familie de
+oferte bl interdependente formatä din dO generaCii cuprinde cel puCin 0 ofertä bloc 卵 in “ （ ofe a
+r 画 acceptare poate face prin indeplinirea conditiei de executare a ofertei b 《 ， independent de alte
+0 「 巳 〕 5i 0 ofertä bloc „copil" (ofertå a 陀 i acceptare 鈣 condiPonatä suplimentarde acceptarea altei
+oferte bloc, numitä ofertä bIOC „pärinte").
+& 乙 27 ． Ofe 戊 引 巳 bloc implementate in sistemul tranza#ionare IDA au caracteristicile prevåzute in
+Anexa 1. Acestea pot modificate in sensul imp!ementärii 5i a celorlalte tipuri de ofette acceptate de
+a 《 gor 心 过 囝 Euphemia cu respectarea procedurilor agreate de toate OPEED-urile tn vederea asigurärii
+pelformangelor aigoritmului Euphemia la parametrii corespunzätori in conditiile extinderii geografice a
+cuplårii, intrOducerii aranjamentelor multi-OPEED, cre*erii comp!eXitätii topologiei, extinderti c 叩 后
+baza de fiuxuri etc. fiind publicate sufiaent timp inaintea aplicärii.
+B) ConCinutul ofertelor pe IDA
+82 ． 28 ， Ofertele treaptä 「 ezo 《 晡 a de 15 minute transmisede cätre partiapantii la IDA conwn cel putjn
+urmatoarele informatii;
+b)
+0
+d)
+e)
+0
+g)
+℃ Od de identificare al participantuluj la IDA;
+identificarea ca ofertå de vånzare sau ca 0 「 改 de cumpårare;
+identificarea ca ofertå la rezolu\ia de 15 minute;
+valabilitatea (ziua de livrare, in 引 de tranza#ionare care se re 龟 〗
+cantitatea exprimatå putere medie 0 [MW], pentru fiecare pereche pret-cantitate;
+pre!ul limitä [lei/MWhI pentru fiecare pereche pret-cantitate;
+identificarea sesiunii IDA pentru care se 0 爬 ，
+& 2 ， 29 · Ofertele 引 OC transmise de e participantii inreglstrasi la IDA conWn urmåtoareleinformptii, dupå
+司 （ 囝 de identificare al participantului la IDA;
+=== PDF PAGE 34 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd:
+Pag. 34 ／ 55
+Rev. 5
+b) identificarea 0 「 帕 vånzare sau ca 0f 凿 de cumparare;
+C) identificarea ca öf bloc;
+d) codul ofertei b 《 0 匚 de a cärei acceptare este condjWOnatä, dacä eSte Ofe 改 interdependentäde
+tip copil;
+司 va!abilitatea, anume perioada de definiVie a blocului (ziua de livrare, intetvalele de
+tranza<ionare care referå, dupä ca 乏 》
+f) cantltatea exptimatä ca putere medie a [MW], pentru intetvalele din perioada de definitie
+a blocului;
+g) pretul 《 而 accePtat 卩 ei/MWh], pentru intreaga energie 0 戊 a a b 《 ul
+h) identificarea sesiunii IDA pentru care se oferteazä
+C) FormatuI ofe or pe IDA
+8 ， 2 ． 30 ． 0 「 戊 e 《 e de cumparÉre 5i 0 改 e 《 e de vånzare nu 凶 而 combinate tntr-o singurä Ofe
+8 ． 2 ． 31 ． PreWrile 0 倦 改 乸 or de vånzare/cumpärare pe IDA sunt introduse in 回 sunt echivalate de sist 台 m
+de tranzactionare in Eu 「 O/MWh, cursul oficial leu/Euro comunicat de Banca iona a Romäniej (BNR)
+valabil pentru ziua de livrare. TranzacWonarea pentru 0 zi de livrare se realizeazä dupä stabilirea CUrSUlUi
+leu/Euro, fiind valåbil atåt in ziua anterioarä zilei de livrare 〔 pentru IDAI IDA2) cät ziua de livrare
+(pentru IDA3).
+8 ， 2 ． 32 ． Of 皂 e 》 e treaptä de vånzare sau de cumpärare IDA sunt rnonotone.
+& 2 、 33 ． 0 Ofe 改 5 treaptä de nz 酊 e mono n 犭 constä in perechi pret-cantitate pentrü un interval de
+tranza$ionare, in care pregurile mentionate in perechile pr$-cantltäte congecutive vo 「 fi strict cre$cåtoare.
+8 ． 2 ． 3 生 0 0 爬 改 treaptä de cumparare monoto constä tn perechi pret-cantitate pentru un in 引
+tranzactionare, in care pregurile mentionate in perechile prev-cantitate consecutive vor 0 strict
+descrescätoare.
+8 ， 艺 35L 0 le t 有 introduse prin inte'f$a web a sistemului de tranza#ionare 引 IDA sau prin incärcarea
+unui 屿 i 雪 de ofertä tip m 《 care conyne toate oferteie de un anumit sens ()e vånzare/de cumpårare).
+& 乙 3 & in format .xml, un fisier de 0 de vånzare/Cumpärare cuprinde atåt ofette treaptä, cåt 0 戊 e
+b10 inregistrarea unéi noi oferte ca fisier 嘰 x ] inlocuieste tntreaga 0 戊 (treaptä #i/sau b 《 00 existentä
+ln sistemul de tranza#ionare pentru un anutnlt sens (vånzare/cumpärare).
+D) inregistrarea ofertelor sistemul de tranzactionare IDA
+& 乙 37 ． lnregistrarea 0 忙 「 te 《 酊 se poate face numai dacä sunt publicate preburile limitä in lei ale scalei de
+prec. Pr#urile limitä ale scalei de pre!, stabilite 厄 nivelul regiunii cuplate in Euror sunt publicate in 回 ， tn
+引 5 m de tranzacwonare pe website-ul OPCOM, de cätre OPEED, de indatä este preluat cursul de
+schimb valutar.
+8 、 2 ． 38 ． CUrSUl schimb u 怡 r este stabilit de Banca Nayonalä a ROITiåniei (BNR)tn 有 e 吧 zi 》 麾 toa 吧 ．
+Pentru ofertarea 引 tranzactionarea tn fiecare zi de tranzac)ionare se aplicä cursul de schimb va[utar stabilit
+in ultima zi lucrätoare anterioarä zilei de livrare. in cazuJ zi\elor de repaus säptämänal (zilele de såmbåtå
+v#i duminicä) sau 引 rb tO 圃 or fegale, cursul de schimb valutar stabilit in ultima Zi lucrätoare va fi valabil
+pentru maj multe Z11e de 儒 呜 örespunzätor numärulL!1 zi 回 酊 nelucrätoare. AstfeJ; pentru 5 itu 《 de
+säptämånä, cursul de schimb valuta 「 stabilit vineri se aplicä tranza#ionärii pentru zilélede 、 livrare 亞 rnb ，
+duminicä ， luni.
+=== PDF PAGE 35 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd:
+Pag, 35 / 55
+Rev. 5
+8 ． 2 ． 39 ． S 囝 de pretfn Euro poatefi modificatä in conformitate decæiile agreate nivelul zonei cuptate
+SDAC, luate cu respectarea prevederilor D ACER 2 / 丿 0. ． 2 23 privJnd 0 ／ “ OPEEO
+虍 毋 e 店 p 硭 a 厂 mo / e rmnime maxtme ran c, 加 a ap/icabi/e c 焙 励 u a ／
+伊 az # 刎 匚 ， no vatori limitä fiind aduse la cunostinCa participan!ilor anterior äplicärii noii 囝 de prec in
+procesul de validarea oferte[or.
+& 2 ． 40 ． lntervalul 0 囝 r de tnregistrare a ofertelor pentru 0 zi de livrare pentru 0 anumitä sesiune de licitatie
+IDA se deschide cu 0 0 inainte de ora de inchidere a po 巾 《 酊 de ofertare definite pentru fiécare sesiune
+IDA tn parte. Poatta de ofértare pentru fiecare sesiune IDA este ：
+。 pentru IDAI · ora 14 ： 00 ． 15 ： 佣 CET tn Ziua D-I pentru ziua de llvrare
+。 pentru IDA2- ora 21 ； 0 22 ： 00 CET in ziua D-I pentru ziua de liVrare D si
+pentru IDA3 - ora 09 ： 00 ． 10 ： 00 CET tn ziua D pentru ziua de livrare D.
+8 ． 2 1, tnainte de ora de inchidere a po 巾 《 0 「 IDA de Ofe e pot fi modificate sau anulate de
+cätre participantul IDA care le-a introdus. Fiecare modificare stabiteste 0 nouä ofertä, doar ultima
+de ofettä validä fiind cea care va 行 a in considerare de go 曲 nu 《 de stabilire a tranzactiilor in
+cadrul IDA.
+& 2 2 ． Ofertele pot fi inregistrate de cätre participantii IDA ：
+司 pnn intermediul interfetei web a aplicagei IDA;
+b) prin tncärcarea fi5ierului de 0 r 凿 de tip .xml compatibil ℃ u sistemul local de tranza#ionare 些
+IDA.
+& 2 工 OPEED poate inregistra 0 ofertä (nouä sau modificatä) in sistemul de tranzactionare in numele
+Participantului, dacä este mandatat in acest sens, 5ianume in situatia in care participantul, tn
+imposibilitatea tehnicä de a ihcärca in nume propriu ofetta, solicitä OPEED incårcarea 0f i sistemul
+de tranzacgionare in numete lu 《 OPEED va accepta inregistrarea 0 戊 ei in numele Patticipantului la
+soticitarea acestuia transmiså in intervalul de ofertare aferent fiecärei sesiuni IDA, doar dacä aceasta este
+transmisä pe e-mail in format .xml 引 numai de la reprezentantii Participantului avänd datele de contact
+declarate conform P 疒 e 丿 b ／ p 才 冂 d 历 0 伊 刁 疒 pa 匚 彐 冂 0 厂 /3 虍 centra/izate de e e e ／ 万 〔
+ad 劢 de OPCO SA.
+8 ． 2 ． 4 生 OPEED poate anula 0 0 「 e 改 § existentå in sistemul de tranzactionare pentru 0 anumitä sesiune de
+licita!ie IDA in numele Participantului, dacä este mandatat in acest sens, änume 7n situa$ia tn care
+participantul, aflat in imposibi(itatea tehnicä de a anula oferta in nume propriu, solicitä OPEED anularea
+ofertei in sistemut de tranzacwonare in numele i 、 OPEED va acceptö anularea ofettei in numele
+Participantului la soJicitarea acestuia transmisä tn intervalul de ofeftare aferent e sesiuni IDA, doar
+a Participantui face solicitarea pe e-mail, precizånd dar tipul de 0 「 er (vånzare sau cumpärare)i ziua
+de livrare #i sesiune de licitatie IDA pentru care a fost introdusä. OPEED poate anula doar intreaga Ofe 犭
+un anumit sens, de vänzare sau de cumpärare, anume toate 已 te treaptå toate 0 改 e bl
+•pentru sensul, ziua de livrare #i sesiunea IDA solicitatä. OPEED va accepta in acest sens solicitäri de
+5tergere a ofertelor numai de la reprezentan?ii Participantului avånd datele de n 怡 忒 declarate conform
+“ e / 吻 d 历 切 5 酊 ea P 羽 了 妇 “ / energie e ／ 忻 adm 加 酋 怡 de
+0 CO SA.
+& 2 ． 45 ， OPEED primeste 5i inregistreazå 0 「 改 乸 e in registrul 0 龟 改 刨 or ， iar dupå ora de incbideié 台 po#ii
+ofertare 厄 conferä acestora caracter de anonimitate, in vederea aplicärii mecanigmului de 、 cqrelare in
+functionarea cuplatä.
+=== PDF PAGE 36 ===
+OPCOm
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII 〔 IDA)
+Cod.
+Pag. 36 ／ 55
+Rev. 5
+& 2 ： 4 & Dupä 0 de inchidere a po 巾 | or penm-i sesiunea de licitatie IDA, 0 乸 e nu mai potfl modifiCate
+sau anulate, fiind considerate ferme.
+E) Validarea Ofe 戊 国 or
+8 ． 2 ， 47 · OPEED poate stabjli Si modifica in orice moment limita de tranza#ionare pentru un partidpant la
+IDA, pe baza garantiilor financiare diSponibile ale acestuia.
+& 2 ． 帕 ． Limitele de tranzac!ionare 飞 巳 aplicä sub formä de limite de ℃ antitate sau limite de valoare.
+8 ． 2 9 ． Fiecare pajticipant IDA poate solicita OPEED invalidarea ofertelor care contin un voium
+(considerat putere medie ora 〕 tO 丨 mai mare decät 0 anumitä limltä specificatä in avans de respectivul
+participant IDA. participantii IDA pot specifica limite de volum diferite pentru öfertele de cumpärare
+引 ofettele de vånzare aplicabile pentru fiecare dintre sesiunile de licita$ie IPA in parte prin adresä 0 讹 ia
+transmiså OPCOM S.A.
+& 2 ． 50 ． Dacä Oferta nu respectä 巧 m de tranzactlonare | ori stabilitä de cätre OPEED conform
+Procedurii 咖 d CO 冂 5 / v 厂 ea 虍 a ga疙冂@0厂 financiare pentru Pä 硭 ℃ a 疒 afa
+忉 az 旃 /c de energie e / 犭 - 丆 nz 彐 / bn ea / aceasta este respinsä. Participantul P,I,
+este notificat despre respingere printr-un mesaj transmis de cätre OPEED prin intermediul platformei de
+tranzationare Si poate modifica ofertä pentru incadrarea limita detranzac!ionare, finainte de inchiderea
+四 巾 | or de 酊 曰 r 号 aferente i sesiuni de 雇 i Vie IDA.
+8251 ． Validarea Of 雪 地 r se face in mod automat de cätre sistemu! de tranzactionare aferent IDA
+conform criteriilor de validäre impuse pnn specificatiile privind continutul Si formatul Ofe elO 「 5i a regulilor
+aplicabile 0 「 e 戊 elor din prezenta Procedurå.
+8 ， 2 ， 5 SiStemul informatic va verifica, tn vederea validärii; fiecare Ofe 戊 inscnsa pentru a 5 怡 b
+indeplinirea urmätoarelor r ‰ 佬 亳 a se limita acestea:
+司 DreptulpattiCipantuIui de a tranzactiona IDA, care poate afectat de expirarea licen!ei sau
+de existenga unei suspendäri sau revocäri valabilä in momentu\ ofettärii;
+b) Posibilitatea de a oferta pentru ziua de livrare sesiunea de 非 IDA activå, respectiv
+afisarea in jnterfata sistemului de tranzactionare a 00 lor de transmitere a Ofe 改 0 「 51 a stärii
+acestora （ sta 「 9 deschisä);
+Exprimarea corectä a n 引 p 蜘 肅 or din punct de vedere numärului de zecimale;
+d) lncadrarea preturilor din Ofe in limitele scalei de pret definite la nivelul unei zile de liVrare;
+e) incadrarea ℃ antitätilor agregate nive[de interval de tranzctionare din Ofettä in 巧 m de volum
+declaratä de participant, dacä acesta are 0 declarawe acest sens;
+f) Caracterul monoton 引 p 蜘 0 「 pentru 0 爬 戊 e treaptä;
+叻 incadrarea in numärul admis de perechi pre!-cantitate 些 interVal de tranzactionare per
+participant, ih z 山 Ofe 戊 e | 0 「 treaptå;
+h) incadrarea in 0 自 m ul admis de ofette b 《 per partiapant, in cazul ofertelor b 丨 ；
+i) incadrarea in cantitatea maximä de d 酾 0 巳 pentru ofertele bloc;
+月 incadrarea in limitele valorice ale garantiei validare/disponibilå pentru ofertelede cumpärare
+cu pre! pozitiv sau pentru 0 e 厄 de vänzare preC negativ 、 Garantia v conform
+“ e privind co / 饨 劢 a uti/izarea g泓羽@如疒 加 / 比 a a
+忉 厉 e 虍 匚 忉 一 “ “ bna 厂 ea prin 化 在 以 丿 actuahzeazå zilnic
+=== PDF PAGE 37 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd ：
+Pag. 37 / 55
+Rev. 5
+anterior sesiunii IDAI. Garantia de vatidare disponibilä ia ln ℃ onsiderare exdusiv ofertele sesiunii
+IDA active $i tranzactiile incheiate in sesiunile IDA anterioare sesiuhi[ äCtive pentru aceea;i zi de
+livrare.
+8 、 2 ． 53 ． ln c nerespectärii unuia din criteriile de validare menwonate, sistemul informatic va invalida
+automat oferta va aten!iona participantul printr-un mesaj asupra moüvului invalidärii. Participantul poate
+corecta $i retransmite oferta sau poate anula 0 Ofe 戊 犭 oricänd in pericada de Of 曰 r 已
+& 艺 5 生 ln SituaWa in 「 画 0 戊 ei prin fi5ier de tip .xml, anterior verificärii criteriilor de validare
+mentionate, sistemul verificä compatibilitatea fi5ieruluj de tip .xml CLJ sistemul, in 乙 de incompatibilitate
+afi5änd un mespj de eroare in a 蚊 sens.
+8 ． 2 ． 55 ， Avänd in vedere abordarea specificä a tranza#ionärii in ore CErin cadrul mecanismului de ticitatje
+impliatå pe 0 讵 on 山 | intraziinic (IDA) cuplat, respectiv faptul ultima 0 fn ore CE 「 a unei zile de itvrare
+(D) din perspectiva tranzactionårii 四 IDA reprezintå ora 1 ora Romåniei pentru urmåtoarea Zi de livrare
+（ D + 1 〗 parttcipantii a cäror responsabilitate a echilibrärii nu mai este asumatä dé nicio PRE pentru ziua de
+livrare D+I nu vor oferta in cadrul IDA pentru intervalete 93 ． 96 ()n oreCET) ale zilei de livrare (D). OPEED
+are dreptul anulärii intregii oferte a Pärticipantului/partiCipanÄlor care se gäsesctn aceastä situatie.
+& 3 ， TRANZACTIONAREA iN CADRUL IDA
+8.3.1. ln cadrul mecanismului de cuplare prin sesiuni de i jmplicite de capacitate (IDA 〕 desfäsurate
+四 orizontul SIDC, OPEED-urile OTS-uriJe au responsabilitatea validärii rezultatelor baza princiPiilor
+de piatå, respectiv OPEED din perspectiva alocärij pe po 改 ofoiiile de oferte 5i OTS din perspectiva fluxurilor
+transfrontaliere ，
+83 ， 2 ． Principiile de validare a rezu p rii sunt:
+a)
+b)
+d)
+司
+0
+g)
+h)
+Ofertele treaptä de vånzare nu sunt executate pentru cantitätile oferite preguri mai mari
+decåt PIP-IDA;
+0 「 e 建 e 《 e treaptå de cumpärare nu sunt executate pentru cantitä!ile oferite la preWri mai miCi
+d PIP 、 IDA;
+厄 treaptä de vänzare sunt executate pentru cantitäCile oferite preguri strict mai miCi
+decåt PIP-IDA;
+Ofertele treaptä de cumpärare sunt executate pentru cantitätile oferite la preWri s 忒 mai
+mari decät PIP-IDA;
+OfeItele treaptä POt nu fie executate sau pot fi executate partial pentru cantitätile oferite
+la vånzare/cumpärare preWri egale cu PIP-IDA;
+0 Of 创 b 心 匚 de vånzare nu va fi 0 cu dacä pre!ul Säu este mai mare decåt preWl mediu
+引 pietei rezullat din media PIP-IDA publicate pe intervaiele de tranzactionare la care se referä
+oferta bloc, ponderatä 侧 volumele considerate 囝 energle aferente fiecärui intetval de
+tranzactlonare din Oferta b 《 ；
+0 酐 blOC de cumpärare nu va 行 executatä d 己 凿 pre!ui 5 犭 u este mai mic decät pretul
+mediu pietei rezultat din media PIP-IDA publicate 四 intervalele tranza#ionare la care
+referä Oferta bloc, ponderatä cu volumele considerate energie aferente fiecäiui interval
+de tranzacwonare dln oferta bloc;
+in cazul in care intersecSia curbei cererii CtJ cea a orertei are IOC un interval' cohujn 》 d 巳
+Preturi, PIP-IDA este stabilit mijlocul intervalului comun de prewri;
+=== PDF PAGE 38 ===
+opcom
+PROCEDUÄA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTiONAREA PRIN LICITATII (IDA)
+Cod:
+Pag. 38 / 55
+Rev. 5
+i) in Cazul in care intersectia curbéi cererii cu ä ofertei are IOC un interval comun de
+cantitäti, cantitatea tranzac!ionatä este cea maximä a intervalului comun de cantit$i;
+〕 〕 Cantitatea tranza#ionatä la PIP-IDA cumuléazä cantitatea integralä a tuturor perechilor din
+ofertele treaptä pr$ ma[ bun, respectiv integralä, parBalä Säu zero a tuturor perechilor din
+Ofe treaptä la preC al cu PIP-IDA.
+& 3 ； 3 ． PIP-IDA rezultat pentru zona de ofertare nagiona!ä in urma utili2ärii algoritmului pentru corelarea
+ofertelor tn timpul 非 i este pretul care au 10 匚 toate tranzac!iile aferente unui intetval de
+tranzactionare.
+& 3 ． 生 Pentru perechile pre!-cantitate menbionate executate, in rezultatele cuplårii se stabileste 0
+tranza#ie fermä tntre OPEED, pe de 0 parte, 5i participantul IDA, pe de 凿 parte, pentru livrarea
+energiei electnce in cantitatea final executati, in zona de ofertare na!ionalä, timpul (ziua de livrare,
+intervalul de tranzac!ionare) specificate in Of 雪 t 5i la un preg egal PIP-IDA stabilit pentru zona Si timpul
+8 」 ． cantitatea aferentä pozitiei nete a OPEED rezultatä din tranza#ionarea aferentä ofe 砘 0 「
+determinä 0 tranzac!ie intre OPEED 5i OTS romån in calitatea sa de agent de transfer, la PIP-IDA aferent
+zonei de 0他 「 tare na!ionale pentru intervalut de tranzactionare respectiv.
+8 ． 3 乇 ． Livrarea energiei eiectrice a 陀 n tranzac!iilor inchelate nivelul unei zi de livrare in cadrul
+IDA se considerå za odatä cu transmiterea OTS, tn cadrul procedurii transmiterii no 曲 删 or fizice
+ale PRE conform regfementärilor in vigoare, a schimbuiui bloc corespunzätor exprimat in putere medie
+orarä, intre PRE-IDA 5i PRE-ul din care face parte 些 山 dpa 敲 冚 la IDA, respectiv PRE-ul agentului de
+transfer (PRE-OTS).
+3 ， 7 ， in situatia in care nu Se incheie tranza#ii nivelul zonei deofertare Romahia, nu stablli prec
+de inchidere a pietel
+& 3 ‰ & tn 引 山 ati 自 in care n 自 de ofeftare Romänia es decuplatä sau sesiunea de 《 ici 怡 非 este anulatä,
+nu se organizeazä licitatii intrazilnice la nivel: local.
+8 “ 4 “ FUNCTIONAREA IN REGIM NORMAL
+& 生 1 ． Fun#ionarea regim normaltnseamnä derularea automatä a tuturor actiunilor preväzuteaferente
+四 p 《 i pietelor 亳 intreruperi sau intärzieri ale proceselor.
+8 罴 2 · OTS-urile conV1n asuprav va 幻 0 「 CZC disponibile pentru sesiuniie de licitagie IDA in fun#ionare
+匚 up 恰 厄 transmit mOdulului CMM. öperatorul OTS de Pre-Cuplare gestioneazä .modulul CMM
+elaboreazä dacumentul comun cu toate capacitätiledisponibile pe interconequnileimplicate procesui de
+cuplare il pune dispozitia OPEED-urilor prin intermediul CIP
+8 3 ． Fiecare OPEED pe baza regulilor ℃ 囝 publicä valorile CZC 70n i care actioneazä ，
+care sunt disponibiie procesului de cuplare nu mai tårziu de 0 「 a GCT-2min.
+8 ． 吼 东 in conformitate Cu procedurile agreatein cadrul proiectulul IDA, OTS-urile dreptui actualizeze
+姹 《 ori 厄 CZC daüeste necesar, dar nu mai 囹 刎 u de 0 「 a 14 ： 55 CET pentru IDAI, 2 七 55 CET pentru IDA2
+respectiV 09 ： 55 CET pentru [ 0A3 ．
+& 生 5 、 ParticipanVii au dreptul transmitäoferte, modifice sau anuleze ofertele dejå inrégistratein
+sistemul de tranza$ionare respectÉnd prevederile Sectiunii ， ． 0 虍 硭 ea 历 酢 刨 ·
+=== PDF PAGE 39 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 39 / 55
+Rev. 5
+& 生 & OPEED pune la dispozitia padicipantilor IDA rezultatele cuptärii, in ore CE 「 ， prin intermediUl
+confirmårilor de tranzaciii, incepänd cu 0@ 15 ； 30 CET pentru iDA1, 22 ： 30 CET pentru IDA2 respectjv
+10 ： 30 CET pentru IDA3 ·
+8 7 ． e 蜘 1 de tnchidere a 尾 ei corespunde intersectiei curbelor agregate ale cererii 5i ofettei
+「 ezultate din combinarea ofettelor treaptä Si a ofertelor b 《 00 din piegele nationale pafticipante, in limita
+capacitä!ii disponibile de interconexiune.
+8 ， 生 8 ． Fiecare tranzac!ie corespunde unei iivräri energie e ] i lao putere constantå (putere medie
+orarä) de-a lungul intervalului de tranza#ionare respectiV.
+8 ， 4 ． 9 ． OPEED transmiteOTS notificärile fizice pentru fiecare PRE, pentru fiecare interval de decontare de
+15 rninute, aferente tranzactiilor incheiate in IDA pentru 0 anumitä zi de llvrare de cätre membrii PRE-ului
+respectiv, in ore CET. Notificarea fizicä a Schimburilo 「 bloc cuprinde intotdeauna 95 intervale de 15 minute
+〔 100 / 92 intervale, 刨 e de schimbare a dupä caz).
+8 ． 生 10 ． Orice intårziere a termenelor preväzute fun#ionarea normalä a procesului de auplare este
+n fi 囝 凿 participan$iior la pia!å, fiind aplicate procedurile agreate pentru procesul de cuplare,
+& 5 ． PUBLICAREA VALORILOR CZC
+& 5 垡 1. in functionare normalå V 引 0 e CZCsunt publicate la ora 14 ： 58 CET pentru IDAI, 21 ： 58 CET
+pentru IDA2 respectiv 09 ： 58 CET pentru IDA3 pentru fiecare sesiune IDA.
+台 ． 5 、 2 ． urmare a unor motivetehniCe sau datoritä apariWei unor probleme in prccesul de determjnare
+sau transfer fi}ierului de v 引 0 《 1 CZC sau datoritä unor probleme depistate in avansa 50h 10 de
+tranzacponare OPCOM, care se soldea fie cu anularea unei sesiuni de licitate TDA sau decuplarea partialä
+a OPCOM in avans, valorile ATC nu vo 「 mai 0 publicate. ln cazul unor probleme in timpul sesiunii de
+decuplare care se soideazå cu anularea, respectiv decuplarea OPCOM, v 引 0 e ATC anterior publicate nu
+vor mai 0 luate in considérare tn calculul 'fluYurilor 四 interconexiunt, fiind inutilizabile.
+& 乱 DECUPLAREA PARTIALÄ CUNOSCUTÄ iN TIMPUL SESIUNII DE CUPLARE
+& 6 ． 1 ． ln fun#lonare normalä rezultatele de cuplare sunt distribuite entitätilor din procesul de
+cuplare SIDC (OPEED ;i OTS) pentru fiecare sesiune IDA in parte. Acestea sunt validate de OPEED-uri din
+perspecåva principlilor de cuplare }i alocärii pe po OfOlii 厄 de 0 《 te ate participanWlorin raport ofeltele
+introduse uiterior, sunt transmise ora 15h17min30S CET pentru IDAI, 22h17min30S ℃ E 「 pentru IDA2
+respectiv 10h17min30s CET pentru IDA3 OTS-urilor pentru validare din perspectjva fluxurilor
+transfrontaliere in raport .cu capacitä!ile de transport transfronta!iere dedarate.
+8 ． 6 ． 乙 in funcWonare normalä rezultate:e procesuluj de cuplare sunt disponibile participantilor dupä
+validarea acestora cåt de curånd dupä 12 ： 45 CET dar nu mai devreme de ora 15h17min305 CET pentru
+IDAI, 22h17min30S CET pentru IDA2 respectiv 10h17min305 CET pentru IDA3. OPCOM pub!ica rezultatele
+procesului de pe website de indatä ce acestea sunt disponibile Si validate.
+8 乇 ． 3 ． Caurmarea unor probleme tehnice in sistemele informatice sau in procesul de comunicare dintre
+entitåtiie implicate care determinä imposibilitatea transrniterii regisfrului de e 戊 巳 anonimizat 享 己 valorilor
+CZC ea date de intrare in vederea efectuärii calculului cuplärii, se declarä situatia de decuplare 些 巾 a
+cunoscutä timpul sesiunii de cuplare.
+8 ， & ， in cazul in 「 e se intälneste 0 as de Situa\ie de disfunctionalitate a pielelor éuplåtec ℃ onform
+r agreate 归 nivelul proiectului european, cu exceptia unor zone, toate zonele de bfertare care fac parte
+=== PDF PAGE 40 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd ：
+Pag. 40 ／ 55
+Rev. 5
+din cadrul .IDA se vor decupla, transmi!åndu-se cätre participentii pia!a informarea 丆 D 一 丿 0 / T 07:
+ID 刁 / Decoup/ing.
+8 ， 6 ， 5 ， lntr-o astfel de pentru zona de piatä Romånia ， pentru 0 anumitä sesiune de licitatie IDA
+nu se ruleazä iicitatia 《 oca ， Ofe 0 de energie electr ℃ § ale paft:cipanbilor pia!ä anuleazåi iar
+garanNi\e de validare reintregesc vedetea tranzacbionärii péntru urmätoarea sesiune de IiCitatie IDA
+ce u 了 m in mod crönologic.
+& 7 ． DECUPLARE TIMPURIE PARTIALÄ (CUNOSCUTA IN AVANS)
+& 7 以 · Atunci cånd, pentru 0 anumitä zi de livrare pentru 0 anumtå seSiune de licitaWe IDA, un OPEED
+dintr-o zOnä de ofertare care 怡 望 p 酊 ,diÉ1 topologia IDA intåmpinä situa!ii (mentenantä p n 而 凿 in
+avans, disfun#ionalitäti cntice ale si5temelor de tranza#iOnare, etc.) 祀 COnduc 怕 imposibilitatea
+trensmiterii in numele OPEED-ului respectiV a datelor necesare de intrare in vederea realizärii calculului
+印 忒 ， se 姹 proceda la decuplarea avans a acestuia.
+& 7 ； 2 ． Participan!ii vor anunt$i anterior 0 de inchidere a portii de 0f0 改 a 祀 pentru 飠 sesiune
+IDA despre 0 astfel de situatie criticä prin intermediul mesajului 一 丿 07 丆 0 / ： D Partia/ Decoup/ing.
+8 ， 7 ， 3 ． intr-o astfel de sltu$ie pentru zona de piatä Romania ， pentru 0 anurnitä sesiune de licitäWeIDA
+nu se ruleaza licitaya “ ， ofertele de energie electricä ale participantilor la pia!ä anuleazä, iar
+garantiile de validare se reintregesc in vederea tranzac!ionärii pentru urmätoarea sesiune de licitatie IDA
+Ce urmeaza in mod cron610giC.
+& & ANULAREA UNEI SESIUNI DE LICITATIE IDA PENTRU 0 ANUMITÄ ZI DE LIVRARE
+8;8.1. tn diverse situatii de abatere de prevederile procedurale IDA, 0 sesiune de licitaWe IDA pentru
+0 anumitä zi de livrare. poate fi anulatå ca urmare a unor planificate sau a unor
+probleme/disfun#ionalitäW ale sistemeior centrale.
+& 8 ， 艺 Participan\ii piatä vorfi anuntati despre anularea sesiunii de licita$ie IDA pentru 0 änumitä zi de
+livrare prin primirea mesajuJui / D 一 丿 0 丆 0 忉 Cance//ati0f7.
+& & intr-o as él de 引 迮 e pentru zona de piagä Romånia 9i pentru 0 anumitä sesiune de licitatie IDA
+nu se va rula i 《 e 《 oca 峪 ， ofettele de energie. electncä ale la piatä 巽 anuleazä, iar
+garan!iile de validare se reintregesc vederea tranzactionärii pentru urmätoarea sesiune de licitafle IDA
+ce urmeazä irT mod cronologic.
+& 9 ． STABILIREA CANTITÄTILOR $I A PRETULUI DIN TRANZACTIONARE
+A) AlgoritmuI utilizat
+8 ． 9 ． 1. Pentru tranza#ionarea in cadrul IDAin 「 egim cuplatsefolose;te algoritmul Euphemia utilizat in
+cadrul Pie!ei pe Ziua Urmätoare, care urmåre#te meximizurea bunästärii sociale ta nivelul pie!elor cuplate.
+& 9 ， 2 ， Tranza4ionarea se desfäsoarä zilnic prin intermediul celor trei licita!ii IDA conform regulilor
+agreate 地 nivelul zonel europene cuplate.
+B) Reguli specifice privind Stabilirea pr#ului
+8 ． 9 ． 3 、 ln cazul funcbionärii cuplate a piegelor, p代@》 este stabilit in Euro cu 2 (douä) zedmäle de cätre
+algoritmul de cuplare. Pretul este convestit in RON 阉 0 引 nd acelasi curs valutar utilizat petltru 不 v 斷 si 己
+=== PDF PAGE 41 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGLE ELECTRICÅ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 41 / 55
+Rev. 5
+Ofe 改 国 or din 20na nationalå de ofertare crearea registrului ofertelor. Pretul astfel obtinut ， rotunjit la 2
+(douä) zecimaEe reprezinta pretul incheiere a tranza#iilor in zona nationalä de ofertare 、
+& 9 ， 生 OPEED completeazä curbele ofertelortreäptä astfel:
+司 DaCä cel mai mare pret cerut prin ofertelede este mai micdecat maxim al scalei
+de preb pentru IDA, atunci va adauga 0 pereche 到 i vanzare cu 0 cantltate egalä cu zero Si
+un pret egal cu pregul maxim 引 scalei;
+Dacå 記 》 mai mic preg cerut piin ofeftele de cumparare este mai mare decat pretul minim 剖
+s 回 de pre! pentru IDA, atunci se va adauga 0 pereche fictiVä ！ 0 cumpärare cu 0 cantitate egalä
+zero § ] un egal cu preWl minim scatei.
+0 PrincipIi privind executarea ofertelOr stabilirea cantitätilor tranzactionate
+8 ． 95 ． Of 雪 treaptä de vånzare la preg mai mic 9i 比 e treaptä de cumpärare pre! mai mare
+decat PIP-IDA sunt executate in intregime,
+& 9 ， 6 · Ofertele treaptä deuånzare la pr# mai mare 引 酐 № le treapta de cvmpärare la pret mai mic
+decät PIP-IDA sunt respinse.
+8 ． 9 ． 7 ． Ofertele treaptä pot nu fie executate sau fie executate par!ial sau tO pentru cantitåtile
+oferite vånzare/cumpärare la pre!un egale cu PIP-IDA.
+& 9 ， 8 ， Conditia de executarea unei oferte b 》 OC ： pentru Of bloc de v 引 a acéasta acceptatä
+dacä p 「 etul mediu per MWh tranzactionat in cadrul blocului este cel putin egal 邙 pr$ul de 酊 改 剖
+blocului, iar pentru oferta bloc de cumparare, preCul mediu per MWh tranza#ionat in cadrul blocului eSte
+cel mult egal cu pretul de 0 龟 《 blocului, Se face precizarea vo m 囝 ofertat/tranza#ionat 引 blocului
+se considerä ca putere medie ora ， tn timp ce pr#ul mediu 5 巳 raporteazä energie.
+in principiu, 0 Ofettä blOC independentå este executatå dacå se indeplineste conditia de
+& 9 念
+executarea ofertei bloc. Situatiile posibile de executare sau neexecutare a 0 爬 戊 e 《 or btoc sunt urmätoarele:
+a) 0 ofertå bloc indeøendentå nueste executatä dacä se indeplitl%te condibia ofertei bloc;
+b) 0 ofe 改 犭 bloc independentä poate nu fie 乜 × e 亡 u chiar dacä se ihdepline;te cohditia ofertei
+b 丨 00 Aceste ofette se resping prin tularea algoritmului de cuplare #i se numesc Ofejte bloc respinse
+in mod paradoxal;
+0 0 酊 bloc interdependentå care este 0 「 e bloc „pårinte" (ofertä a cärei acceptare se poate
+face prin tndeplinirea cohdiWei de executare ä ofertei bloc, independent de 0 「 e 戊 e 〕 poate 0
+executatå chia 「 dacä nu se tndeplineste condiBa ofertei bloc tn situ4ia in care ofertä b 0 „copil"
+（ 0 「 巴 t 犭 a cårei acceptare este condiVionatä suplimentar de acceptarea altei oferte bloc, numitä oferta
+b 《 „parinte") completeazä pretul mediu per MWh tranza#ionat cadrul biocului as 忏 incät, per
+tO 《 ， 亞 se respecte condi!ia deexecutarea Ofe 戊 or bloc interdependente, respectiV pretul mediu
+per MWh tranza#onat pentru öfertete bloc de yånzare este | putin egal pretul de oferta
+b 《 u 渊 0 巪 iar pentru 0 「 改 e b 《 de gumpärare, p 陀 蜘 《 mediu per MWh tranzactionat este cel mult
+egal cu pregul de ofettä 引 blocurilor.
+& 1 仇 CONFIRMAREA TRANZACTIILOR
+A) Emiterea confirmärilor tranzactiilor
+& 10 · 1. Tranza<iile in cadrul IDA incheie pentru 0 anumitå zi de re 厚 reprezintä angajamenteferme
+al 巳 participantilor IDA.
+=== PDF PAGE 42 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII ()D
+COd:
+Pag. 42 / 55
+Rev. 5
+8 ， 10 · Fiecäre tranza#ie corespunde unui interval de tranzactionare exprimat in ore CET äferent zilei de
+livrare unei sesiuni TDA pentru care S-a incheiat tranzactia.
+& 1 立 3 ， La ora 15h17min305 CET pentru TDAi, 22h17m 依 30s CET pentru IDA2, respectiv 10h17min3 酝
+CET pentru IDA3, rezultatele procesului de cuplare validate de cätre toate OPEED-uri din perspectiva
+alocärii pe 四 改 0f0 伍 sunt transmise OTS in vederea validärii fluxurilor transfrontaliere in @PO改 cu
+capacit#ile declarate. ln urma acestei validäri rezultatele procesului de cuplare su 甙 finale OPEED 厄
+pune la dispozi$ia partlcipantiior, nu mai devreme de ora 15 ： 30 CET pentru IDAI, 22 ： 30 pentru IDA2,
+respect 《 v 10 ； 30 pentrU IDA3, separat pentru fiecare interval de tranzaGionare ， sesiune IDA in parte
+la niveiul zilei de livrare pentru toate sesiunile de licitatie IDA care nu au fO anulate, exprimat in ore CE 「
+8 ． 1 吼 Confirmärile de tranzactii sunt generate in mod automat de sistemul de tranzactionare 自 1 IDA de
+tndatä ce se inchide poarta de matching deschide poarta pentru publicarea rezultatelor tranzactiiIOr
+(punerea la dispozitia pafticipa$ilor a confirmärilor de tranza#ii).
+8 ． 10 ． 5 ．
+Confirmåriie de tranza#ii puse la diSPOZiCia pattidpan$ilor vor urmåtoarele informa!ii:
+乙 ua de livrare ；
+Sesiunea de licitaCie IDA;
+Tipul de Ofettä ： ofertä teaptä (SHB) sau ofertå bloc (BLB);
+Sensul ofértei: vånzare sau cumpårare;
+lntervalul de tranzact,ionare, respectiv intervalul de defin$ie a blocuiui in ℃ re CET pentru care S-a
+incheiat tranza#ia;
+Codul de ldentificare tranzactiei;
+Versiunea ofertei care 0 intrat in tranzacte,
+DetaIiile ofertei: perechile pret-cantitate;
+Cantitatea tranza#ionätä din Ofe 「 (putere medie ora ） #i PIP-IDA ，
+司 Anularea confirmärilorde tranza#ii
+& 10 ． 6 ． in situatia aparitiei uhOr situatii de disfun#ionalitate astfel cum au fost prezentate prezentate-ifi
+eap e 《 e 》 e 乇 厂 8 寻 ． ， 轩 ， & 8 ， confirmärile de tranzactii nu VO 「 行 disponibile. Partlcipantii vor fi anuhVati prih
+mesaje relevante
+& 10 ． 7 ． ln cazul situatiilor in care participanVi nu pot accesa confirmärile de tranza#iit OPEED va notifica
+participantii OTS äsupra situatiei apärute va deschide canälele de comunicawe prin e-mail preväzute in
+Séctiunea & 过 SituaÉii/e de u e “ va transmite con 到 rm de tranzactii 《 mai scurt timp >osibtl,
+8.11. SITUATIILE DE URGENTÅ
+& 1L1 ． •Situatiile •de urgentä privind fun#ionarea defectuoasä a sistemului de tranzactionareSi a cäilor
+de comunica!ie proprii ale OPEED 早 ale participantilor la IDA se aplicä atunci cånd pe aceastä pia!ä apare
+cel puWn una dintre urmätoarele si 蜘 以 ii ：
+a) atunci cånd din cauza nefun#ionärii sau functionärii defectuoase a cäilor de comurficatie proprii}
+unul sau mai mul!i participanti 恰 IDA nu pot transmite ofertele de vånzare/cuméärafe pentru 0
+anumitä sesiune de licitaBie1DA sau pot receptiona confirmärile de tranzaciie de la OPEED;
+=== PDF PAGE 43 ===
+opco 过
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Co 士
+Pag. 43 / 55
+Rev. 5
+b) atunci cånd din cauza nefun#ionätii sau functionäiii defectuoase a cäilor de comunicaSie proprii,
+OPEED nu poate recep!iona ofertele transmise de participan!ii la IDA sau nu poate transmite
+confirmärile de tranzacWi cätre ace5tia 5i notificärile fizice cätre OTS ，
+8 ． 11 ． 艺 Responsabilitätile care revin OPEED, OTS5i participantilor la IDA, privitor la cazurile de urgentä
+men!ionate sunt precizate in b 刨 u 《 urmätor:
+Nr.
+crt.
+1
+2
+3
+Caz
+13 · 1.
+司
+Actiune
+Deschiderea unui n 引 de comunicatie alternativ de acces la internet
+Notificarea OPEED prin e-mail asupra situa9ei create 5i transmiterea
+datelor atasate la e-mai 卜 ul de notificare si/sau recepwonarea datelor
+prin e-mail de la OPEED
+Deschiderea unui canal de comunica!ie alternafiv de 刁 es internet
+Notificarea OTSSi participanCilor la piagä, prin e-mail asupra situatiei
+create, transmiterea 5i/sau receptionarea datelor prin e-mail cätre/de
+la OPEED
+Responsabil
+ParticipanWi
+PI 5iOTS
+OPEED
+S ． 12 ， COMUNICAREA OPEED iN CADRUL PROCESULUI DE CUPLARE
+& 12 ． 1 ． OPEED realizeazå partenerii 而 《 i in procesul de cuplare respectånd tntocmai
+prevederile procedurilor operaWonale agreate la nivelul
+& 1 乙 乙 Participan!ii la IDA vorfi informatl in cel mai scurt timp posibil despre orice eveniment ce are
+leg 犭 山 麾 cu procesut de tranzactionare care ac-%tia iau parte, prin intermediul platformei de
+tranzactionare, P05tej electronice, website-ul OPCOM, in fun#ie de situaVie.
+8 ． 12 ． 引 OPEED asigurä permanentå comunicarea participanWi la IDA prin comunicärile operationale
+cärui con!inut este agreat la vel 冚 proiectului central scopul asigurårii'informärii in egalä mäsurä ，
+引 multane a tuturor participanVilor Ja pie!ele cuplate $i desfä5urärii eficiente a p 「 凸 u 地 i de tranza#ionare.
+& 12 ． 生 Mesajele opera$ionale agreatetn procesul decuplare la mvelul IDA, precum 轩 mesajele adaptate
+| 0 囝 | destinate comunicärii cu participan!ii 处 IDA sunt prezentate in documentul Mesaje ope 疒 刁 00 “ 虍
+djspönibit pe website-ul OPCOM tn meniul 行 刀 00 / 旧 了 e 一 Produse/ P 归 z 砌 / 0彐能a@öna虍a
+9 · PARTICIPAREA LA PIATA INTRAZILN ICÄ 一 PREVEDERI GENERALE
+9 ． 1 ． DECONTAREA
+9.1.1. OPEED elaboreazä procedurile pentru realizarea func!lilor specifice decontärij conform prezentelor
+prevederi.
+生 1 ． 2 ， DecOntarea se realizeazä separat pentru 囝 re din cele 2 mecanisme' 、 tranzåctionare
+complementare ale P.I. (IDCT $i IDA), respectiV fiind gestionate conturi n,t: dediCaté 乜 rui
+mecanism, sisteme separate de Mandate de Debit Direct ori de Garan!ie Banca _-de=platå. Pentru
+IDCT PZU se pot 阉 05i scrisori de garanVe bancarä comunä, Patticipantul fiind obliga&ä deciare modul
+=== PDF PAGE 44 ===
+OP ℃ 0n1
+PROCEOURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 44 / 55
+Rev. 5
+de alocare al garan!iei tntre cele d0 mecanisme PZU 5i IDCT, iar pentru IDA este necesara 0 scrisoare
+de garanwe bancarä platä separatä.
+9 ． 1.3 ， Fiecare solicitant dore5te calitatéde participantla SIDC tranzactionezé
+pe Piata lntranlnicä, inclusiv 0T5 caiitate de participant implidt, trebuie 亞 deschidä un cont in lei 0
+bancä comercialä din Romåni9, denumitä in continuare n de decontare.
+9 ； 1. 生 OPEED deschide un cont 匚 en 酡 《 dedicat IDA, respectiv cont central dedicat IDCT 0 bancä
+comerciälå de 些 teritoriul .Romåniei, pentru tncasärile ;i plä!ile aferente tranzacVilor inchéiate.
+9.1,5, OTSin calitate de agent de transfer deschide, pentru plä!ile aferente tranzactiilor, un eontin lei,
+la 0 bancä comercialå din Romånia 9i incheie cu banca mandate de direct debit aferente IDA.
+9 丘 PärticiPäntul la P.I. Care dbreste sä transmitä oferte de vånzare cu pret negativ/oferte de
+cumpärare energie 乸 e 「 i cu pret pozitiv, trebuie incheie mandate de direct debit (separat pentru
+IDÜ 享 IDA) cu banca sa de decontare care permitä OPEED incasarea sumelor la care este indreptätit
+conform notetor decontare,
+9 ． 1. Participantul implicit este obligat constituie garantii financiare, dar ia toate mäsurile astfel
+incåttermenele de d 毿 on 祀 depäsite din cauza lipsei de disponibilitäbi in contul säu de decontare,
+9 ， 1.8 ． OTS in calitate de agent de transfer stabileste termenele de ptatä 引 incasare aferente ObligaWilor
+de platä, respectiv drepturilor de ihcasare zilnice t / d 巴 OTS vecine conform valorii nete a fluxurilor
+transfrontaliere pe IDA pe interconexiunile respective, !inånd seama de termenele de ptatå/incasare ale
+OPEED, respectiv ale OTS partenere, 5i asigurä sumele necesare in contul de decontare astfel fncåt
+asigure fiuiditatea decontärii.
+9 过 围@ Pentru fiecare Participant la PJI. ， pentru fiecare mecanism de tranzacnonare, OPEED déterminä
+zilnic valoarea in a obtiga!iiior de platä/drepturi!or de incasare, conform prevederilor Procedurii privind
+incasårile 9i plä!ile aferente tranzac!iilor pe Piata lntrazilnjcä de energie electricä.
+9 ． L10 ． OTS nu pläteste tarife Gätre OPEED aferente tränza#ionärii in calitate de participant implicit.
+9 ． 1 ． 11 ． öPEED pune la dispoziWa fiecärui Participant la P.I. pentru fiecare mecaniSm de tranzactionare
+享 Zi de livrare, no de decontare zilnicä (separat pentru IDCT, respectiv pentru IDA) 5i transmite
+instruc!iunile de debitare directä e banca unde este deschis contul central 引 IDCT, respectiv contui
+centra( al IDA, conform prevederilor privind incasärile 引 aferente tranzac!iilor incheiate ℃ önfo 「 m
+procedurilor privind incasärile 5i pläYIe aferente tranza#iilor pe Pjata lntrazilnicä de energie electricä
+relevante.
+9 ． 1 ． 12 ． Valorile nete ale tranzactiilor zilnice preväzute in Notele de decontare aferente IDCT/IDA trebuie
+achitate prin mecanismul de debit direct in termenele preväzute in procedurile publice relevante disponibile
+pe website-ul OPCOM S.A. incasärile/plätileuectuate de e OPCO S.A. se considerä efectuate la data
+la care sumele corespunzätoare au fost credjtate sau debitate in/din contul central relevant.
+TRANSPARENTA
+Sistemele de tranza#ionare ale P.I. asigurå anonimatul Ofe 戊 己 n 瞓 0 「 pe intreg parcursul sesiunii
+9 ． 1.
+de 0 r 巳
+9 ． 2 ， 2 · OPCOM S.A. publicä pe Website-ul propriu pentru mecanismul IDCT tranzac!iiie 'incheiate
+Caracterizate prin pret, cantitate, sens SaLI cumpårare), in mcd anonimizat,
+=== PDF PAGE 45 ===
+OPCOm
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI •INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 5 / 55
+Rev. 5
+9 ． 2 ． 3 ． OPCOM & 氐 publicä pe website-ul propriu pentru mecanismul IDA registrul ofertelor p 「 op or
+participan!i, respectiv rezultatul tranza#iilor incheiate 〈 0 飞 e 《 e treaptä }i blocurile acceptate), tn mod
+anonimizat.
+TARIFE
+ln calitate de organizator $i administrator al P.I., OPCO 卜 1 tncasea2ä contravaloärea tarifului 一
+9 ． 3 ， 1 ，
+componenta de administrare si 自 tarifului - componenta de tranza#ionare in conformitate cu prevederile
+/ p 七 a Ope se / p ／ e e 疒 ／ 囝 (OPEEQ 丿 pentru seMcii[e
+萨 es 扫 硭 七 羽 ti/O/ ． /a Piete/e 丆 “ 0 e 虍 E 囝 俨 pentru 刀@ tJ羽甜@了e 5 ／
+P 扫 忉 z 砌 - 丆 ?an 0 虍 “ 在 D 乙 刀 “ 厂 ep ／ 0 在 D 力
+9 ． 4 ． MONITORIZARE
+9 再 · 1.
+9 ， 生 2 ·
+9 ， 生 3 ·
+OPCOM S 渣 ． supravegheazä funcyonarea P.I. in conformitate cu prevederile procedurii de
+supraveghere a 帥 翻 巳
+OPCOM S.A. transmite zilnic, tntr-un format electronic or prelucrabil (ExceD, convenit ℃ u ANRE,
+ofertele partlapangilor la P.I., tranzactiile incheiate de cätre participanti pregurile aferente
+acestora.
+La solicitarea ANRE, OPCOM S.Ar transmite acesteia date istorice din baza de date de!inutä,
+precum 5i analizespecifice cu privire la fun#ionarea P.I.
+=== PDF PAGE 46 ===
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod:
+Pag. 46 / 55
+Rev. 5
+opcom
+IO.ANEXE
+ANEXA 1 一 PRODUSE (CONTRACTE) TRANZACTIONABILE PE PIATA INTRAZILNICA IDCT
+InformaWi Generale Despre Produse / Ofertare / Tranzac!ionare
+Tip tranza#ionare
+Zi de tranza#ionare
+lnterval de tranza#ionare/livrare
+Tipuri de oferte
+0 麾 d 山 id 巳 旧 tranzactlonare (GOT 一 Gäte
+Opening Tirne)
+0 虍 inchidere tranzac!ionare (GCT 一 Gate Closure
+Program tranzaqjonare
+Mon 皂
+Zonä de pret pentru ofertare/tranza<ionare
+Granularitate ofertare pentru pre$
+GranuIaritate 0 a pentru cantitate
+Volum minim de of 秘
+Volum maxim de ofettä
+Pre) incheiere tranza#ii
+Cantitate minimä vizibilå ordin lceberg
+Pas de pr$ (peak price delta)
+(parametru 0 帥 iona 《 pentru variagie ordin de tip
+lceberg)
+Nt. maxim de intetvaie ofertä bloc
+Corelare continuä
+Orice zi calendaristicä cansideratä tn ore CET
+lnterval orar
+lnterval de 巧 minute:
+Ordine orare Säu la 15 minute, ordine blcc
+(definite de utilizator), ordine lceberg, ordine
+corelate (pentru 乙 u 《 de introducere a 酊 e 戊 or
+in CO 爭 ）
+Dtn (D-I), ora 15 ： 佣 CET
+0 0 tnainte de inceputul livrärii
+in fiecarezi calendaristicä
+EUR/MWh, cu douå zecimale
+四 999 ， €/MWh ÷ 99g ‰ 00 卜 lWh
+‰ 01 €/MWh
+1 卜 IW
+0 ， 1 卜 IW
+999 00 MW
+Pretui ofertei existente in piatä
+Cumpärare ： D 刨 01 ；
+Vånzare: Deltal 0
+30 intesvale orare （ posibilitate de trecere
+dincoto de miezui noptii)
+Da un Ordin lceberg are d 酾 「 忙 un pasde p 虍 《 diferit de ro ， atuna se vor realiza rn oa 卮 validäri ：
+- pasul de pret Gf 巳 改 or de cumpärare trebuie fie mai rnic sau egal CLI zero;
+因 《 de p 「 啡 可 e 建 e 《 or de vånzare trebuie 讹 mai mace sau egaL Cu zero.
+=== PDF PAGE 47 ===
+OPC0tn
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 47 / 55
+Rev. 5
+lnforma$ii Specifice Despre Produsele Locale
+Numele produsului
+Numele lüng (indicå data exactä de inceput
+sfårsit a livrårii raportat la timpul universal, UCT)
+Numele scurt
+(indicä inceputul 享 sfårsitul livrärii din ziua
+respectivä 冖 nume ce va fi vizibil tn sistemul de
+tranza#ionare 〕
+Valabilitate
+Numele produsului
+Numele lung (indicä data eXactä de inceput ，
+5 it a livrärii raportat timpul universäl, UCT)
+Numete scurt
+(indicä inceputul 引 sfårsitul livrarii din ziua
+respectivä 一 nume va 行 fribil in sistemul de
+tranza#ionare)
+Valabi11tate
+Local_Hour_Power
+YYYYMMDP HH:MM-YYYYMMDD HH ： 卜 IM
+HH-HH_L
+Fun#ionare decuplatä anterior-momentului de
+lansare comercialä in cadrul proiectului cupiat,
+SIDC
+Local_Quarter_Hour Power
+YYYYMMDD HH:MM• 、 YYYMMDD HH ： MM
+QHH:MM-HH:MM_L
+Functionare | 0 anterior introduceril produsuluj
+de 15 minute pentru a 行 tranzactionat
+transfrontalier
+刁 0 åse / 0 “ ／ t 孬 “ “ d 巧 perioada t “ 0
+lnformatii Specifice Despre PrOduseIe GlObale
+Numele produsu{ui
+Numele lung (indicä data & timpul exact de
+inceput 5i sfärsit a livräni tn ore CET)
+Numele scutt
+(indicä inceputul 引 s 俗 山 》 「 ji din ziua
+respectvä 一 nume ce va fi vizibil in sistemul de
+tranzactionare)
+Valabilitate produse globale
+Produse COn 毿 (linked products)
+Nume produs
+XBID_Hour_Ppwer / XBID_Quarter_Hour_Power
+YYYYMMDD HH:MM-YYYYMMDD HH: MM
+HH-HH_Xd /
+QHH ： MM-HH ： MM_XB
+Fun4ionare cuplatä in cadrul proiectului cuplat,
+SIDC 一 regim normal de functionare
+Linked_XBID_Hour_Power /
+Linked_XBID_Quarter_Hour_'?ower ～
+=== PDF PAGE 48 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÅ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd ：
+Pag. 48 ／ 55
+Rev. 5
+Produse conectate (linked product5)
+· Nume lung
+Produse conectate (linked products)
+· Nume scurt
+Produse conectate (iinked products)
+· VaIabiljtate
+YYYYMMDD HH:MM-YYY 丫 MMDD HH ： MM
+Linked_HH-HH_XB /
+Linked_HH:MM-HH:MM_XB
+Functionare cuplatä tn cadrul proiectului cuplat,
+SIDC 一 SituaCii de abatere de la regimul no 引
+de fun#jonare la funcyonare decuplatä, respectiv
+卩 robleme de conectare la sistemul n a 》 （
+act automat, fiind tranza#ionale local)
+=== PDF PAGE 49 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÅ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod:
+Pag. 49 / 55
+Rev. 5
+ANEXA 2 一 TIPURI DE OFERTE DISPONIBILE iN SISTEMUL LOCAL DE TRANZACTIONARE
+AL 10A
+mu 《 de tranzactionare 訂 IDA 00t fi introduse 0 戊 e bloc independente si 0 「 改 e blOc
+interdependente.
+Caracteristicile ofertelor bloc imp!ementatetn sistemul de tranza#ionare sunt:
+艺
+4 ·
+5 ．
+2.1.
+23 ，
+2 ， 4 ·
+司
+习
+2 ， 5 ．
+Tipul 丆 0 / Sau 咖 ／ 0 respectiV ofertele bloc pot 们 acceptate in integralitatea 可 sau dacä
+nu, respinse integral;
+Perioada de definiYe a b 地 圄 este formatä din mihim 2 intewale de tranzactionare;
+Perioada dé definitie a blocului este formatä din interväle de tranzactionare consecutive,
+Pr#ul de definitie a blocului pregul unitar dé ofettä, respectiv•
+Pretul minim acceptat per MWh pentru toatä energia 0 「 戊 at 巨 in cadrui unui 圃 OC de vånzare;
+Pretui maxim 准 0 MWh pentru toatå energia Ofe 儲 d unui bloc de cumpårare.
+Cantitatea de definitie a biocului te a 匚 eea;i pentru toate intervalele de t「an蜘@on酊巳 din
+perioada de definitie a blocului Si expnmatå ca putere medie Ora ．
+CaracteriSticile e 戊 刨 or bloc interdependente:
+3.1. Of 巳 a b 《 0 匚 tip „copil" esteo Ofertä bloc a cärei acceptare depinde de acceptarea uriei alte
+0 戊 e bloc, nurnitä cfertä blOC „pärinte";
+3 · 2 · A1goritmul Euphemia permite exeeutarea unei familii de 、 ofert.e b 0 pentru care,fin cazul
+ofertelor bloc de vånzare, veloarea tO a blocului „pärinte" calculata la PIP-IDA, este mai
+micä decåt valoarea Ofe 《 ， respectiV in z 刨 ofertelor blOC de cumpärare, este mai mare
+decåt valoarea de 0 改 邕 cu condi5ia ca 姹 10 酊 ea öfertei „copilf compenseze, in termeni
+de bunästare, aceastä d 「 en 、 Va!oarea ofertei .este caiculatä ca produsui dintre pretul de
+0 了 cantitatea de energie rezultatå din puterea medie Of 曰 amendatä cu pericada
+de timp aferentä;
+Limite corespunzätoare ofertelör bloc:
+4 ． 2 ，
+43 ·
+练 4 ·
+4 ， 5
+4 ． 6 ．
+Cantitatea mjnimä de defihitie a blocului e-5te de 0 ， 1 MW;
+Cant1tatea maxiinä de definibie pentru 酊 e 戊 e bl este de 400 MW, aceasta v 引 0 酊 e
+putånd 負 ajustatä pentru a menwne in limite acceptabile pefformantele 引 go m 引 山 de
+cuplare, pe baza procedurii comune a tuturor OPEED elaboratä tn contextul implementärii
+Regulamentului (UE) 2015 / 1222 ；
+Numärul rnaxim de 0 爬 改 e bloc egte 100 per participant, din care numärul mäXim 巧 《
+ofettelor blcc interdependente 〖 ate, de exemplu, in legäturä de tip pårinte-copil) es 地 15 、
+Aceste limite pot fi äjustate pentru men!inerea in limite acceptabile a petformantelor
+引 go 「 i № 《 ui de cuplare, 四 baza procedurii comune a tuturor OPEED elaborätä tn contextul
+implementärii Regulamentuiui 〈 (E) 2015 / 1222 ；
+Oferta bloc „pärinte" poate avea numai 0 0 葩 心 圃 „cOpil";
+0 戊 a bloc „copil" poate avea numai 0 ofertä bloc „pärinte";
+0 familje de ofette btoc poate avea maxim trei gener$ii de oferte bloc interdependente,
+respectiv maxim 3 0 e bloc interdependente.
+PreWl maxtm 引 sc 引 de pret este + 9 99 Euro/MWhr iar pretul minim al a 回 de pret este -
+9 · 999 Euro/MWh7 aceste valori pot 有 modificate tn urma acordului tuturor bursélOY"de energie
+electricä 引 引 autoritätilor de reglementare/prin decizie ACER.
+=== PDF PAGE 50 ===
+OP ℃ 0n1
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICiTATII (IDA)
+Cod ：
+Pag. 50 ／ 55
+Rev. 5
+ANEXA 3 一 SUCCESIUNEA CRONOLOGICA A REPERELOR ORARE IN CADRUL SESIUNILOR
+IDA
+Succesiunea cronologicå a a#iunilor normale 5i termenelor limltä de transmitere a comunicårilor in
+platformä / sau prin e-mail:
+Ora 〔 CETI
+la inceputul
+mentenan!ei XBID
+*GCT 25min
+IDA OBK GCT;2min
+IDAI ： 巧 ； 00 CET
+iDA2 ： 22m0 CEf
+IDA3 ： 10 ： 00 CET
+GCT+12min
+G(7+17rnin30S
+GC 「 十 20min
+IDA GCT+30min
+cod mesaj
+IDA 一 〕 017 丌 09
+IDA-JOINT—09
+IDA_JO 仆 吓 07
+IDA_JOINT_07
+IDA_JOINT_08
+lDA—jOlNT—09
+Subiect mesaj
+Anularea IDA noscu in avanS din cauza
+mentena!ei planificate a sistemului XBLD sau a IDA
+CIP
+Anularea IDA in avans din cauza unei probteme
+critice privind modulele IDA sau sistemele 'XBID
+(CMM) care nu vor fi remediate inainte de inceperea
+IDA
+Decuplare pattialä din motive de date de regea
+Ora de ihchiderea poßli de ofertare (lfichiderea
+Registru()i ofe 戊 刨 or ）
+Decuplare pa 巾 引 din motive de registru de ordihe
+intårziere in publicarea 「 ezultatelor cuplärii piegei
+Termen pentru transmitetea rezultatelor finale aJe
+euplärii in regim 4e functionare normalä
+Anulaiea iDA tirnPLil sesiunii de piétei
+POST ExC_iDA_ 〕 OiNT_07 lnformatii suplimentare privind Decuplarea Pattiala
+IDA
+POST ExC_IDA_JOINT_08 lnformatii suplimentare pn.'irid intarziérea publicatii
+rezultatetor IDA
+POST_ExC_IDA— 〕 öINT_09 lnformatii suplimentare privind Anularea IDA
+*Nota
+IDAI: Ora de inchiderea portii pentru tratismitereaofeflelorin D-1 15m0 CET 怵 nua D [ 9 ： 佣 “ 24 ： 00 ]
+》 DA2t Ora de inchidere a POftii pentru transmiterea ofcrtelor in ziua D-1 22 ： 佣 CET pentru ] e in ziua D @：吡．24 ： 0
+lDA3• 0 de inchidereß pentru transmitereu ofertelorin ziua D IO 0 CET pentru in ziua 0 卩 2 ： 00 ． 24 ： 00 ]
+=== PDF PAGE 51 ===
+OPCO 1
+PROCEDURA PRIVIND FUNCTIONAREA 孬
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUA (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod ：
+Pag. 51 / 55
+Rev. 5
+ANEXA 4 一 DREPTURI SI RESPONSABILITÄTI
+1. PaIticipantul la Piaga lntrazilnicä are urmätoarele drepturi
+LI. Sä solicite Si sä primeascä din partea OPCOM SA aSiStentä 屮 sesiUni de instruire practicä cu privire
+巨 utilizarea Sistemelor de tranza#onare ale P.I.•
+1.2, Sä acceseze sistemele de tranza#ionare alé P.I. sä introducä oferte/ordine de vånzare si/sau
+ofette/ordine de cumpärare de energie e c 悄 pentru P.I. conform programului de tranzactionare Stabiiit;
+1.3. Sä-5i mcdifice, 5 卩 巳 nde sau 为 i anuleze Oferta/ordinul 卩 entru energie electricä in timpul
+programului de tranzact ℃ nare pe P.I.;
+IÆ Så primeascä de la OPCOM S 、 A., prin intermediul sistemelor de tranzactiönare ale P.I., confirmarea
+validärii Ofe 戊 乸 O( ／ 0 忆 in or 5i/sau informatii privind invalidarea ofertelor[ordihelor;
+1.5. Sä declare (IDA)/seteze (IDCT) volume limitå pe-#e€are-iREepeal--de4•S-miRH±e aplicabjle 0 or
+propfli (separat pentru våhzaré cumpärare). rn cazul IDA OPCOM S.A. 姹 efectua modificarea limitelor
+四 baza notificärii oficiale prealabilä transmisä OPCOM S.A.;
+1.6. Sä modifice sau 丽 anuleze öferta/ordinul propriu energie 5i tranSmitä oferta/ördinul
+modificat in timpul programului de transmitere a acestora;
+1.7 庵 in cazul care nu poate accesa sistemul de tranza#ionare 引 IDA, transmitä Of 曰 proprie de
+energie in format ml prin e-mail ， 5 犭 solicite OPCOM S.A. incärcarea acesteta in numele 5 兰 u in sistemul
+de tranzac!ionare 引 IDA, pentru 0 anumitä sesiune de lici IDA;
+1 ． g 、 ln cazul in nu poate accesa sistemul de tranzactionare al IDA, sä solicite OPCO 卜 1 S.A. anularea
+ofertelor in numeie lui;
+1 · 9 · fie informat prin rnesajele afisate de Sistemul informatic asupra validärii sau invalidärii ofertelor
+sale;
+L10 · Sä acceseze confirmårile de tranzactii aferente fiecårui mecanism 韭 tranza<ionare,
+l.il. Sä solicite OPCOM S.A. transmiterea confirmärilor de tranzactii fincheiate in cadrul IDA prin canale
+alternative in situaßa in care partlclpantul nu poate accesa ststemul de tranza#ionare,
+L12 ， in cazul partidpärii agregate, Agregatorului iirevin integral toate drepturile preväzute in CO 冂 負 占
+e /a Termen Scurt E “ 冒 疒 / （ pentru “ 协 m 0 彐 厂 e 夕 P
+/ h 亇 ä 冂 / 丿 ， precum 引 cele prevåzute in reglementäri naWonale si/sau ale Uniunii Europene
+corespunzätoare participärii piata de energje el tri ；
+L13 ． acceseze N0tele de decontare zilnice ()n 0 吧 CET) Si 5 犭 solicite OPCOM S.A. transmiterea acestora
+prin 〔 引 、 a ] e alternative de comunicatie (e-mail) situajia in care nu poate accesa sistemul P05 卜
+tranza#ionare;
+1.1 生 Sä incaseze ℃ ontravaloarea drepturilornete de incasare, prevåzute 餼 N0tele de decdntare zilnice Si
+documenteze, lunar, tncasarea drepturilor 9i plata obliga!iilor, de regularizare, in valoare egalä,
+reclproce•
+L12 ， Sä transmitä cätre OPCOM S.A. pentru tranza#iile de vånzare a energiél electrice inregistrate, in
+（ 山 s 冚 lunii de livrare, respectiv factura pentru “ p 化 S 虍 “ pentru achizitia de energie electricä
+()n ore CET), din luna de livrare, la preturi negative 、
+L15 ． Sä solicite OPCOM S.A. transmiterea Notelor de decontare zilnice sau a NotificärilOrffizicer_dupä caz,
+prin canale altemative tn situatia in care nu 00 訛 e accesa sistemul informatic post-tranzacCionare;
+=== PDF PAGE 52 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd ：
+Pag. 52 ／ 55
+Rev. 5
+2 · Participantul la Pia!a lntrazilnicä are urmätoarele obligatii
+2;1. Sä respecte prevederile pnvind tarifele practicate OPCO 卜 1 SA. pentru seNiciile prestate
+participantilor la Pie!ele pe Termen Scurt de Energie Electricä (Piaga pentru Ziua Urm 0 酊 e ， PiaCa
+lntrazilnicä)
+2 ， 2 ． respecte prevederi!e din d “ p 万 d 虍 g t 疒 e 彐 pa 七 an. 亿 疒 /a piefe/e ce 伽 彐
+刨 e / 忉 醅 ad 仞 历 / “ de 0 卢 0 S.A.;
+2 ， 土 Sä respecte prevederile din prezenta Procedura 9i din documentete aferente funcbionårii P.I. (IDCT 引
+IDA) disponibile 四 website-ul OPCOM S.A.z
+2 resøecte prevederile privitld constituirea, verificarea 5i utilizarea garanßilor financiare din
+procedutile relevante publicate pe website-ul OPCOM S.A.;
+2 respecte prevederile privind incasårile ， plätile aferente tranza#iilor incheiate pePiata lntrazilnicä
+din procedurjle relevante publicate Website-ul OPCOM S.A.,
+2 ． 6 ． Så transmitä ofettele de energie pentru IDA doar in intetvalele de inregistrare a ofertelor precizate in
+prezenta Prccedurå in timp util pentru 們 incärcate de OPCOM S.A. in numele #i solicitarea
+participantului;
+2 ． 7 ． Sä verjfice corectätudinea datetor din ofertå din fi$ierul tip .xml inainte de t 「 ansmiterea acestuia in
+vederea inregisträrii 0 戊 巳 i in sistemül de tranza*onare de cätre OPCOM S.A. tn numele patticipantului la
+IDA;
+艺 8 ． Sä nu oferteze penti•u intervalele 93 一 96 al unei zile de livrare dacä pe acest inten.'al nu mai
+indeplin—te conditiile privind asumarea responsabilit$ii echilibrärii;
+2 围 ． r 而 dacå oferta transmisa pentru IDA a fO validatå tncärcatä in sistemul„ de
+tranza#ionare sä Verifice corectltudinea datelor tnregistrate in sistémul de tranzacwonare al IDA din
+凶 n de vedere 引 cantitätilor 5i preguritor imediat dupä intrcducerea ofertei;
+2 ， 10 ， Sä:contacteze imediatOPCOM S'A. dacä nupr.lmesteo notificare de acesta sau
+invalidarea 0 爬 in termen de 15 minute de transmiterea oflcia a oferte (momentui inscrierii ofertei
+in 引 5 mu | de tranza#ionare);
+2 ， 11 ． anun!e OPCOM S.A. despre apariCia unei situ$iiin care nu potåccesa confirmärile tranzä$i;
+2 ， 12 ． Sä anung•e telefonic in mod operatiV OPCOM S.A. asupra problemelor de 怡 「 e la aplicatia
+informatiCä aferentå IDA 5i transmitå prin e-mail, timp 刂 t Of tn format .xml in vederea incärcärii
+acesteia in sistemuJ de'tranzacCionare de cåtre OPCOM SA tn såu;
+2 、 13 asigure dispcnibilitägile financiare necesare debitärii contului säu, deschis Banca de
+decontare, la valoarea netä a obiigatiilor de piatä preväzutä prin Notele de decontare zilnice;
+2 ． 1 生 verifice periÖdic inregisträrile din fi5ierul Lis dé 历 厂 t 焙 厂 / privind ac!iunile semnificative
+desfäsurate in d 》 IDA, 而 引 巴 r accesibil tn sistemul de tranzactionare;
+厶 15 ． 5 pästreze in permanentä 肟 aCtualizatä a persoanelor imputernicite 「 酣 a cu OPCOM 5 ， A ·
+conforrn prevederilor du privind 历 旧 》 pa ／ Cipa 可 0 厂 piege/e ntra / 讵 e de energie
+e ／ 亇 七 犭 彐 dm ／ 冂 a de 0 尸 CO S.A.;
+2 ． 15 ． in cazul participärii agregater Agregatoruluiii revin integral toate obligatiile preväzutetn C e 冂 ä
+PartiCipare /a Pie$e/e pe Termen u 硭 EneØie E R 启 pentru Ziua u 夕 P 扫
+丿 0 彐 历 七 犭 一 Tranzacßionarea 疒 core/are continuä), precum cele preväzute in reglemen uri na$ionale
+9i/sau ale lJniunii Europene corespunzätoare partlcipärii pia!a de energle electricä.
+=== PDF PAGE 53 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Cod “
+Pag. 53 / 55
+Rev. 5
+艺 1 孔 inaintedea participa la tranzacWonare, 鳶 as reguliledefun<ionarea pie!elor >i modul
+de fun#ionare a sistemelor de tranzacwonare;
+2.18. Sä asigure dlspune de garan!ii disponibile suficiente pentru acoperirea intentiilor de
+cumpärare preturi pozitive/de vånzare la preturi negative, precum ii a obliga!iilor de platä deja asumate
+conform procedurilor relevante disponibile pe website-ul OPCOM S.A.;
+艺 19 ． verifice dacä ofertete introduse pentru P.I. au 「 0 incärcate tn sistemul de tranzactionare
+respectiv, dacä au fO validate din perspectiva garanYilor disponibi[e 5i dacä datele introduse sunt corecte;
+2 ． 20 ． Sä accepte ca angajamente ferme tranzactiile specificate in Confirmårile de tranzac!ie
+corespunzätoare aferente tranza#iilor pe P.I.;
+2 、 21. verifice accesul la modulele 5 殴 em or de tranza#ionare la modulul post-tranzactionare;
+2 ． 22 · Sä nu comunice datele de acces mentionate anterior unor persoane neautorizate pentru
+tranzacwonare sä comunice datele de contact actualizate de indatä ce intervin modificäri ale 茈 es 旧 ，
+participantul la P.I. este direct responsabil pentru confidentialitatea datelor de acces primite de la OPCOM
+S.AE pentru 亡 C 酊 ea p 丨 a 0 「 m de tranzactionare;
+2 ， 23 · Sä corespondentei/discutiilorcu reprezentanßi OPCOM S:A. in limba rom
+乙 2 Så i$i salveze in sistemul propriu NO 《 e de decontare zilnice NO ri fizicedacäeste propriul
+PRE;
+2 ． 25 、 ln cazul participårii agregate, Agregatorului ii revin integral toate responsabilitå!ile preväzute in
+砌 a 虍 脅 0 丆 u 硭 de Energie 日 酗 疗 俨 魉 pentru u “ 0 e
+P 7 刀 traz ℃ 〗 precum § 《 cele preväzute in regleméntäri najionale 5i/sau ale UniuniC Europene
+corespunzätoare participårli la piata energie electricå.
+艺 2 & Så efectueze piata facturilor aferente tarifului “ componenta de administrare $i a tarifului
+componenta de tranza#ionare aplicabile Piegelor Äe Termen Scurt de Energie Electricä (Piata pentru 乙 ua
+urmätoare ， Piata lntrazilnicä), emise de OPCOM S.A.
+3 OPCO S.A. are urmätoarele drepturi
+3 ， 1. Sä valideze 0 爬 戊 e de cumpärarela pret pozitiV 9i/sau ofertele de vånzare la negativ
+introduse de participantul la PJ. 5i 5 芑 invalideze ofertelé de cumparare la preg pozitiv 引 / 匏 u 0 爬 e de
+vänzare la p 「 醵 negativ a cäror valoare depäseste valoarea garantiei de validare disponibile caiculatä
+conform prevederilor privind constituirea, verificarea utilizarea garantiilor financiare relevante.
+Sä [n 0 祀 ofertele de energie care nu respectä condi$iile de validare privind valabilitatea
+licentei, conWnutul, formatul 5i programul de transmitere a 0 陀 「 tei ；
+Sä refuze incärcarea/anularea 0 龟 代 elor in/din sistemul de tranza#ionare golicitarea
+33 ·
+Participantului, dacä acesta nu respectä prevederile privind formatul ofertei 引 引 0 calitäVii de reprezentant;
+Så invalideze 0 他 改 刨 e participantului daca acesta se aflä in situatia de a nu indeplini condibiile
+pentru asumarea responsabilit$il echilibrärii;
+Sä introducä oferte in sistemul de tranza<ionare IDA pentru 0 anumitä sesiune de lic a 《
+50 | 阉 r participantului #i tn numele acestuia, doar tn Situatia in care participantul nu poate accesa
+sistemul de tranza#ionare 引 IDA $i dacä eas 怡 este transmisä in timp util;
+0 ．
+=== PDF PAGE 54 ===
+opcom
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICA
+TRANZACTIONAREA CONTINUÅ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+Pag. 54 / 55
+Rev. 5
+Så incaseze contravaloarea drepturilor nete de in preväzute Notelé de decontare zilnice
+prin transmiterea banca cont central a instru#iunilor de debitare directå aferente 9i documenteze,
+lunar, incasarea drepturilor 5i plata obligatiilor, de regularizare, in valoare egalä, reciproce;
+37 Sä transmitå e OPCOM S.A. n 旨 刂 tranzactiile de vånzare a energiei electnce tnregistrate, in
+cursul lunii de livrare, respectiv factura pentru p 化 5 倦 se “ pentru achiziVia de energieelectricä
+()n ore CET), din luna de livrare, la prewri negative;
+Sä solicite executarea scriscrii de garantie bahcarä tn situatia in 匚 a participantul la IDA nu a
+asigurat disponibilitä!ile financiare fiecesare debitärii Cöntului säu deschis banca de decontare.
+4 ． OPCOM S.A. obliga$ii
+4.1. valideze/invalideze ofettele de energie transmise de particlpan!ii la TDA CO 酊 0 「 m prevederilor
+prezentei Proceduri;
++ 艺 informeze patticipantul de 在 validarea sau invalidarea motivatä a unei oferte prin rne#je
+operative lansate de siStemul informatic 引 IDA;
+吼 3 ． Sä punä dispozltla participantului confirmärile de tranzac!ii pentru fiecare 2i'de livrare pentru
+fiecare sesiune de liatabie IDA parte, sau agreat, raportate la ore CET
+4 4 ． Sä no 記 participantul asupra tntårzierii publicärii rezültatelor cuplärii 怡 旧 de programul
+publicare 白 acestora;
+生 5 · Sä transmitä prin canå!e aiternative de comunicatie confirmärile de tranzaqie participantului ℃ are
+a solicitat aceasta in condiCiile preväzute de prezenta procedurä;
+Sä achite, integral, Contravaloarea drepturiior nete de incasare preväzute in Notele de decontare
+zilnice prin ordinele de platä emise pentru creditarea contului bancar deschis de cäte partlcipantul la P.T.
+0 bancä comercialä din Romänia;
+生 7 ． Sä punä la dispOZiCia patticipan!iior la P.I. procedurile care guverneazä regulile de pa 山 匚 i 些 汜
+P.I. pentru mecanismele de tranzactionare IDCT $i IDA 9i-så-i-inferrneze-asupre-medifte-äFi10F-eF-eeæaÉe-;n
+生 & Sä asigure un mediu de tranza#onare in condi!ii dé corectitudine, obiectivitate, independengä,
+echidistangä; transparen!ä Si nediscriminare in conformit?te cu prevederile legislawei primare 5i secundare
+ap 《 bi 《 e ；
+生 Sa asigure participan910r P.I. asistentä operativä cu privire uUlizarea 5 em 国 or de
+tranzacWonare ale P•I.,
+生 10 ． S n 犭 la dispozitia pa1t1cipanWIoria P.I. manualele priVind utilizarea sistemelor de tranza#ionare
+5i 厄 a 山 旧 胧 e ori de cåte 0 门 este necesar prin publicarea pe website-ul OPCOM S.A.;
+生 11. Sä punä dispOzi!ia participan!ilor la P.I. careau introduS•ofette pentru energie electricå pe P.I.,
+Con 術 m 酐 de tranza<ii Notele de decontare 剛 ni pentru tranzagliie cu energie electricä realizate;
+4 」 2 ． Så punä la dispozitia PRE-urilör 匚 酊 e 5i-au asumat responsabilitatea echi ： ibrärii pentru participan!ii
+ta P.I. NOt 而 「 i 》 e fizice corespunzätoare.
+生 1 & transrnitE OTS Not 而 e fizice continänd schimburile b ] 0 匚 efectuate cu fjecareFRE pe 0 酐 e
+interval de dispecerizare, aferente trenzactiilor inCheiate pe P.I.
+=== PDF PAGE 55 ===
+OPCOm
+PROCEDURA PRIVIND FUNCTIONAREA
+PIETEI INTRAZILNICE DE ENERGIE ELECTRICÄ
+TRANZACTIONAREA CONTINUÄ (IDCT)
+TRANZACTIONAREA PRIN LICITATII (IDA)
+COd:
+Pag. 55 / 55
+Rev. 5
+生 1 生 Sä anunte la P.I. prin m 刂 loace alternative (telefon, e-mail, website) asupra intreruperii
+sistemului de tranzactionare in cazul de functionare defectuoasä sau de mentenantä programatä
+conform prezentei Proceduri;
+4 ． 15 · respecte confiden!ialitatea informatiilor cu privire la ofettele 5i tranzagiile pe P.I. ale
+participantllor, cu exceptia acelor Situatii cånd, in baza legii, a unor reglementäri sau a SOliCltärii din partea
+unei instante de judecatä investite sau autoritäti publice autorizate se 50k dezväluirea de informatii.
+5 · PRE din care face parte un Participant are urmätoarele drepturi
+5.1. Sä primeascä, la cerere, creden!ialele pentru conectarea la sistemul informatic post-tranzactionare
+in vederea accesärii Notificärii Fizice create pe baza tranzactiilor aferente Participan!ilor la P.I. pentru care
+5i-a asumat responsabilitatea echilibrärii.
+5 ． 艺 solicite OPCOM S.A. transmiterea Notificärilor fizice, in care nu poateaccesa sistemul
+informatic post-tranza#ionare.
+& PRE din care face parte un Participant are urmätoarele obligatii
+6.1. Sä nu comunice datele de acces la sistemul informatic post-tranzac!ionare unor persoane
+neautorizate.
+6 ． 2 ． isi sistemul informatic propriu NOtificårile fizice ale PRE-ului.

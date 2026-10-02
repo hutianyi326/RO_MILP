@@ -1,0 +1,19 @@
+{
+  "id": "ENTSO_TOKEN_GUIDE",
+  "dataset": "D11",
+  "url": "https://transparency.entsoe.eu/content/static_content/download?path=%2FStatic+content%2FAPI-Token-Management.pdf",
+  "title": "IMPORTANT INFORMATION FOR API TOKEN MANAGEMENT",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:55.385211+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://transparency.entsoe.eu/content/static_content/download?path=%2FStatic+content%2FAPI-Token-Management.pdf",
+  "content_type": "text/html",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ENTSO_TOKEN_GUIDE__a1/original.html",
+  "sha256": "ce3095395e09db7e250becef435e20ddc00680dc04b0706acb2d22d3eeaf1b95",
+  "bytes": 14498,
+  "detected_format": "html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "E27",
+  "title": "OPCOM common payment procedure rev0 30September2025",
+  "url": "https://www.opcom.ro/uploads/doc/PZU/Anexa%205_PO%20Incasari-Plati%20PZU%20%26%20PI_rev.0_30.09.2025.pdf",
+  "resolved_url": "https://www.opcom.ro/uploads/doc/PZU/Anexa%205_PO%20Incasari-Plati%20PZU%20%26%20PI_rev.0_30.09.2025.pdf",
+  "retrieved_utc": "2026-09-30T07:53:32.3578862Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E27\\original.pdf",
+  "bytes": 933396,
+  "sha256": "dadac087023e6b8440a0a10a8cbea9bda096872340f9d0dbe0041d8bcc476e03",
+  "extracted_characters": 74406
+}

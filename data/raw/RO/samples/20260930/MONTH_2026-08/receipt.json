@@ -1,0 +1,17 @@
+{
+  "id": "MONTH_2026-08",
+  "dataset": "D12",
+  "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_EN.pdf",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2026-08 official month controls",
+  "retrieved_utc": "2026-09-30T09:23:43.4013576Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/MONTH_2026-08/original.pdf",
+  "bytes": 652101,
+  "sha256": "13f38ecef694f4dd0b0ae54d2f79487f44c98a83b5bc21e70b2ab3f412dc79b1"
+}

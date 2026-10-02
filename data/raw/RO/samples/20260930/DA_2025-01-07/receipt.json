@@ -1,0 +1,17 @@
+{
+  "id": "DA_2025-01-07",
+  "dataset": "D02",
+  "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/07/01/2025/en?resolution=60",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2025-01-07 native PT60",
+  "retrieved_utc": "2026-09-30T09:25:22.837246+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/07/01/2025/en?resolution=60",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/DA_2025-01-07/original.csv",
+  "bytes": 1617,
+  "sha256": "95945c2fe16a4b6878e7f365bec7e39e35719cc0930a91782b3758ff74fcef9d"
+}

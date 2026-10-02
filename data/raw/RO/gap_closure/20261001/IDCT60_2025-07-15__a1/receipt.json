@@ -1,0 +1,31 @@
+{
+  "id": "IDCT60_2025-07-15",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "07/15/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "60"
+  },
+  "title": "OPCOM native hourly IDCT monthly selected-date sample",
+  "scope": "PT60 sample only; not complete 608-day hourly coverage",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T13:44:57.947102+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT60_2025-01-15__a1/form_original.html",
+  "form_sha256": "65e32edf32f6bda8c2998469f9e2631aa4c0de3bf48a3c2ae3df320bd54a303a",
+  "anonymous_session_reused": true,
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDCT60_2025-07-15__a1/original.html",
+  "sha256": "b776d42f6b1637341d022c9ff364cb5b83c960c6c09aa7b2e21d26433d7edc56",
+  "bytes": 350922,
+  "detected_format": "html"
+}

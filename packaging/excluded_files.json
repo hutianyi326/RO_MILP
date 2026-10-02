@@ -1,0 +1,1046 @@
+[
+  {
+    "path": "project/romania_afrr_deepresearch_20261002/__pycache__/run_research.cpython-312.pyc",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/annual_structure_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/capacity_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/contracted_power_sample_structure.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/coverage_matrix.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/curve_point_examples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/curve_structure_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/da_day_checks.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/da_native_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/data_dictionary.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/dataset_use_and_next_steps.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/fee_table_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/fx_reference_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/ida_field_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/idct_trade_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/monthly_reconciliation.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/observed_events.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/raw_manifest.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/sample_examples.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/source_anomalies.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/source_catalog.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/system_series_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/tender_event_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/ui_observations.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/utc_alignment_checks.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/validation_report.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/countries/RO/data_samples_20260930/version_timeline.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/country_status.yaml",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/analyze_samples.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/authorization.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/baseline_integrity.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/build_delivery.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/review_request.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/series_checks.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round1_snapshot/project/romania_data_samples_20260930/verification.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/annual_structure_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/capacity_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/contracted_power_sample_structure.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/coverage_matrix.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/curve_point_examples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/curve_structure_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/da_day_checks.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/da_native_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/data_dictionary.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/dataset_use_and_next_steps.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/fee_table_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/fx_reference_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/ida_field_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/idct_trade_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/monthly_reconciliation.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/observed_events.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/raw_manifest.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/review_round1.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/revision_round1.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/sample_examples.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/source_anomalies.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/source_catalog.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/system_series_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/tender_event_samples.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/ui_observations.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/utc_alignment_checks.csv",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/validation_report.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/countries/RO/data_samples_20260930/version_timeline.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/country_status.yaml",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/analyze_samples.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/authorization.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/baseline_integrity.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/build_delivery.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/fetch_months.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/fetch_public.ps1",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/ida_checks.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/make_requests.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/other_country_state_at_review_start.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/reproduce.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_additional.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_balance_samples.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_damas.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_days.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_discovery.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_ecb.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_exchanges_reports.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_final_probe.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_last_sources.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_prices_load.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_retries.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_retry_final.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_settlement_followup.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_settlement_retry.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/requests_supplement.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/review_request.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/runtime_versions.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/series_checks.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_data_samples_20260930/round2_snapshot/project/romania_data_samples_20260930/verification.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/analysis_report.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/analysis_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/data_dictionary.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/scada_parse_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/source_directory.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/stage_completion_and_gaps.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/supplement_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/countries/RO/full_period_20261001/supplement_verification.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/country_status.yaml",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/analyze_full_period.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/authorization.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/collect_public.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/final_supplements.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/freeze_review.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/inspect_official_files.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/make_figures.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/make_requests.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/parse_controls.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/parse_scada.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/register_and_qa.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/render_source_checks.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/reproducibility.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_da.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_documents.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_documents_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_gap_samples.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_gap_samples_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_last_references.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_last_references_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_pilot.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_pilot_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_references.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_references_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_system.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/requests_system_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/reused_samples.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/review_invocation.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/review_preflight_and_directed_check.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/review_request.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/settlement_version_catalog.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/supplement_statistics.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_2026_CATALOG_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_FINAL_SETTLEMENT_followup_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__0_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__10_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__11_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__12_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__13_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__14_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__15_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__16_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__17_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__18_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__19_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__1_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__20_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__21_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__22_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__23_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__24_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__25_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__26_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__27_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__28_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__29_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__2_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__3_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__4_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__5_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__6_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__7_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__8_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__9_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__0_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__1_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__2_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__3_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_followup_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round1_snapshot/project/romania_full_period_20261001/visual_validation.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/analysis_report.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/analysis_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/data_dictionary.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/p2_repair_verification.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/review_round1.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/scada_parse_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/source_directory.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/stage_completion_and_gaps.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/supplement_summary.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/countries/RO/full_period_20261001/supplement_verification.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/country_status.yaml",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/analyze_full_period.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/authorization.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/collect_public.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/final_supplements.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/freeze_review.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/inspect_official_files.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/make_figures.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/make_requests.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/parse_controls.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/parse_scada.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/register_and_qa.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/render_source_checks.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/reproducibility.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_da.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_documents.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_documents_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_gap_samples.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_gap_samples_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_last_references.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_last_references_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_pilot.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_pilot_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_references.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_references_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_system.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/requests_system_results.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/reused_samples.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/review_invocation.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/review_preflight_and_directed_check.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/review_repairs.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/review_request.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/round1_before_fix/manifest.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/settlement_version_catalog.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/supplement_statistics.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_2026_CATALOG_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_FINAL_SETTLEMENT_followup_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__0_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__10_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__11_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__12_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__13_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__14_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__15_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__16_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__17_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__18_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__19_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__1_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__20_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__21_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__22_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__23_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__24_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__25_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__26_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__27_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__28_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__29_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__2_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__3_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__4_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__5_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__6_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__7_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__8_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_GENERATION_CURRENT__9_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__0_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__1_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__2_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_INSTALLED_2026_0__3_cells.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_followup_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_links.json",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/verify_p2_repairs.py",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_full_period_20261001/round2_snapshot/project/romania_full_period_20261001/visual_validation.md",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_gap_closure_20261001/__pycache__/collect_public.cpython-312.pyc",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_gap_closure_20261001/round1_submission_snapshot.zip",
+    "reason": "cache_or_duplicate_review_snapshot"
+  },
+  {
+    "path": "project/romania_gap_closure_20261001/round2_submission_snapshot.zip",
+    "reason": "cache_or_duplicate_review_snapshot"
+  }
+]

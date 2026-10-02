@@ -1,0 +1,215 @@
+{
+  "method": "Raw JSON from 40 historical files, independent Decimal arithmetic, field-by-field comparison; no input changes",
+  "sources": [
+    {
+      "id": "activatedBalancingEnergyOverview_2025-01",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-01__a1/original.json",
+      "sha256": "4135ac664b2adfb39afe375269526142da6ec73612a6542d52fd23543e5ae3cb"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-02",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-02__a1/original.json",
+      "sha256": "99128df7de6b5bcbd64aac25ba13f7f1e74ea5d12298e70bcaf5244fce9f6ee1"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-03",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-03__a1/original.json",
+      "sha256": "70e63863682fe8be75499d3f19700f184c8de1e7dd3155ea7ca23b6e531cadf4"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-04",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-04__a1/original.json",
+      "sha256": "cc1932348ac23b885c1b24c73948ddcaf663cb881f0f15c12422f44be310a822"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-05",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-05__a1/original.json",
+      "sha256": "b25238de4aa9eb88a0dc81e8f4725af0dd68538e7d602058880c97ddde462456"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-06",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-06__a1/original.json",
+      "sha256": "4bdb27557c3b5bed87a6296aa91c53cd122671de99075f9c87d3873355b5984d"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-07",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-07__a1/original.json",
+      "sha256": "c42b55f94c10819396f9c6e0d8f89cfe1f7c8a8afa26a37521312ebf8b1885b2"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-08",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-08__a1/original.json",
+      "sha256": "8093de688ed5b203d199ae9b3dfaf9ed7aea690e44807870aca22428844a1d34"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-09",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-09__a1/original.json",
+      "sha256": "ab18c6b0cd614f93be4214ea6df8472a068e6cc32746e0e179d2d540f6f67fe6"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-10",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-10__a1/original.json",
+      "sha256": "60ec25f513170317489291a0086e8f3e2d0cf2b1aae8061420a826501a144cf1"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-11",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-11__a1/original.json",
+      "sha256": "75e6b2cbf26128094c968925310c516a1b6ec9b4a796c296f7207334d5d48ab7"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2025-12",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2025-12__a1/original.json",
+      "sha256": "9ee5687ef02e237850be1e495c979ab872197433768c321ede9cdcd5f5f4628b"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-01",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-01__a1/original.json",
+      "sha256": "97e53951f3095e8d45b7556e34e5be4db91125f5e9ea126af7176cb2286a7811"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-02",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-02__a1/original.json",
+      "sha256": "3d25fbb8a9c78e2267600d0f1ed0e9a38d75e574c951a5b21de2665b28eea4a7"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-03",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-03__a1/original.json",
+      "sha256": "ec21651d40d68dff463b531e0aa9a3e267b0e7a9cc3f5e644fa816010c59d537"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-04",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-04__a1/original.json",
+      "sha256": "be2992a4cc857c125627275376c887ee25ef6aa45768afd9c0ace17e2b554fc7"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-05",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-05__a1/original.json",
+      "sha256": "16d8d33a9a154da97e3119f4e353c893751768d0b261375c43c08a6b59669ef5"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-06",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-06__a1/original.json",
+      "sha256": "d507643a9ccf5ca6684d786ca6782e5ec0e2ed21b412ceab4c9665d65041b72c"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-07",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-07__a1/original.json",
+      "sha256": "3ac5ccc37a178ae55f5653574c403d72e5fc5901887a6fc7927320e4326070e3"
+    },
+    {
+      "id": "activatedBalancingEnergyOverview_2026-08",
+      "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-08__a1/original.json",
+      "sha256": "914407f42f6a0bbd5293f06ac3b9a81b9413b576c7643fa9f58a6267336d4b2b"
+    },
+    {
+      "id": "tenderStatistics_2025-01",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-01__a1/original.json",
+      "sha256": "c14c9dea784d62d79920b93e104d594637c27743c190673a090659303cedb6ec"
+    },
+    {
+      "id": "tenderStatistics_2025-02",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-02__a1/original.json",
+      "sha256": "a2dfb83aed8de45431c1906177096d57ef1340fee1764034d7efec33df1ec821"
+    },
+    {
+      "id": "tenderStatistics_2025-03",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-03__a1/original.json",
+      "sha256": "51d57968bafdc1156e36ff5e916378760a11b94360b88bca8f6dcc526a639877"
+    },
+    {
+      "id": "tenderStatistics_2025-04",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-04__a1/original.json",
+      "sha256": "f65b43ec8825cdf6eacb9404b99958db85c2a873e9aa7c6c80a477ca788a6436"
+    },
+    {
+      "id": "tenderStatistics_2025-05",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-05__a1/original.json",
+      "sha256": "b39fdcd4410d3006b76f88f1cff6b57cd5824e2d746b435cf11e090ec1a3a2ad"
+    },
+    {
+      "id": "tenderStatistics_2025-06",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-06__a1/original.json",
+      "sha256": "839c0eea0dffd6997759eeb1f61ab1ff1b499a45a7cd29c90f78e2d5fa617880"
+    },
+    {
+      "id": "tenderStatistics_2025-07",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-07__a1/original.json",
+      "sha256": "b4fe8345c1beaa432737da31be2ec112d8c341e4f2d36d69ff77f0b9b8c34e46"
+    },
+    {
+      "id": "tenderStatistics_2025-08",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-08__a1/original.json",
+      "sha256": "e9f53665617c6679eba77a768ee591fcf7862885708e3c4ed2f52687d173d42d"
+    },
+    {
+      "id": "tenderStatistics_2025-09",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-09__a1/original.json",
+      "sha256": "a12813513a4889fdf1872c67ea0872daf120bc7fc21c398b40ab13881ed4dd44"
+    },
+    {
+      "id": "tenderStatistics_2025-10",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-10__a1/original.json",
+      "sha256": "2ff0519ed534589eb906b27c3cfab8c9826650dc86e462f6cbc8ff4892f1c960"
+    },
+    {
+      "id": "tenderStatistics_2025-11",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-11__a1/original.json",
+      "sha256": "39b764ad2bb9342941a907ae57bbc0f4aea21de98a8514edae2a3d7d3d41ef1b"
+    },
+    {
+      "id": "tenderStatistics_2025-12",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-12__a1/original.json",
+      "sha256": "b2598fbfae4f1a8e7f95c07de8cd50347aa4ff1392a1f6fd059d313c45db375e"
+    },
+    {
+      "id": "tenderStatistics_2026-01",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-01__a1/original.json",
+      "sha256": "ce589e172c8876a928390227955bb9baafd513d4984b5b3b990d6c4745b1c26b"
+    },
+    {
+      "id": "tenderStatistics_2026-02",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-02__a1/original.json",
+      "sha256": "c776a344d46c97250464fd4bc47cbbdbeec9071bec9e5078a422fc38a88725f2"
+    },
+    {
+      "id": "tenderStatistics_2026-03",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-03__a1/original.json",
+      "sha256": "cc00a9eeeabc4c1b620a0a71014e7bb8214afde7ee4b4789910ce939444c94ef"
+    },
+    {
+      "id": "tenderStatistics_2026-04",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-04__a1/original.json",
+      "sha256": "ccbdb5ef343bebb1c07fd6b40b1ce59a8761bd235635723d7eb253aa8ef2cba5"
+    },
+    {
+      "id": "tenderStatistics_2026-05",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-05__a1/original.json",
+      "sha256": "dac324d8875304b427e860103c9a24ca2c59e8e08c45787945dfddcd529886e5"
+    },
+    {
+      "id": "tenderStatistics_2026-06",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-06__a1/original.json",
+      "sha256": "3c58bae4875c4ad29210badb01b7f1b07e20d1fc93be7671ca11a5ded429e081"
+    },
+    {
+      "id": "tenderStatistics_2026-07",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-07__a2/original.json",
+      "sha256": "747a4dea87e2af20c5d801342ea4df20c86a6caf31fc571ca2bbc942f5acfc42"
+    },
+    {
+      "id": "tenderStatistics_2026-08",
+      "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2026-08__a1/original.json",
+      "sha256": "d7daa98073034c0a1b0396b5b155c4d3d6959e22e361a7cf4d7c36c63d3b742f"
+    }
+  ],
+  "counts": {
+    "total_qh": 58364,
+    "uncomputable_qh": 50,
+    "exceed_qh": 1739,
+    "up_over_one": 875,
+    "down_over_one": 863,
+    "combined_only": 1
+  },
+  "errors": [],
+  "pass": true
+}

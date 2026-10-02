@@ -1,0 +1,21 @@
+{
+  "id": "TSO_2026_CATALOG",
+  "dataset": "D10",
+  "publisher": "Transelectrica",
+  "title": "Reports 2026",
+  "url": "https://www.transelectrica.ro/ro/web/tel/rapoarte-2026",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:29.303134+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/rapoarte-2026",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_2026_CATALOG__a1/original.html",
+  "sha256": "dcd7736e71978e2c6a24201e34a88e5f3de65c8a19e3ac9ccfbbc22037b088d5",
+  "bytes": 47406,
+  "detected_format": "html"
+}

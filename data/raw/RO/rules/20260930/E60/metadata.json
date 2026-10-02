@@ -1,0 +1,14 @@
+{
+  "id": "E60",
+  "title": "ANRE Order54/2026 demand flexibility services",
+  "url": "https://anre.ro/wp-content/uploads/2026/09/Ord-54_2026.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/09/Ord-54_2026.pdf",
+  "retrieved_utc": "2026-09-30T08:16:55.8367013Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E60\\original.pdf",
+  "bytes": 54614,
+  "sha256": "520a42f5fd8b67a364e995dc9ceefd1fb95af240d3858aa7937ecbbfec2ad69d",
+  "extracted_characters": 29534
+}

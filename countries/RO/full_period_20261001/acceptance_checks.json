@@ -1,0 +1,141 @@
+{
+  "generated_utc": "2026-09-30T18:49:01.247977+00:00",
+  "status": "PASS",
+  "scope": "post-review integrity, approved scope, state and links; not closure of market dependencies",
+  "checks": 22,
+  "counts": {
+    "round2_reviewed_files": 210,
+    "unchanged_reviewed_files": 206,
+    "this_batch_raw_bodies": 728,
+    "prior_sample_raw_bodies": 177,
+    "prior_delivery_files": 66,
+    "round1_light_snapshots": 80,
+    "figures_png": 12,
+    "figures_svg": 12,
+    "local_markdown_targets_checked": 70
+  },
+  "failed": [],
+  "details": [
+    {
+      "check": "post-review changes limited to verdict/acceptance labels and RO record",
+      "pass": true,
+      "detail": [
+        "countries/RO/full_period_20261001/analysis_report.md",
+        "project/country_status.yaml",
+        "project/romania_full_period_20261001/review_invocation.json",
+        "project/romania_full_period_20261001/review_repairs.md"
+      ]
+    },
+    {
+      "check": "all 728 current/reused official raw bodies unchanged",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "prior sample raw bodies unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all four fixed baselines unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "prior audited delivery preserved except authorized country state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "four affected round1 before-images unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all archived first-round light files match original manifest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "non-RO bytes match prior audited state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "RO stays researching",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "only restricted data record approved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all seven full-stage/asof/model/backtest gates remain false",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "12 U and 12 DS counts not reduced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "actual two-round review counts preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "runtime/high/depth restrictions recorded without next-stage approval",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "verification.json saved checks PASS",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "supplement_verification.json saved checks PASS",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "p2_repair_verification.json saved checks PASS",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "12 scientific figures available in both PNG and SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all final-document local links and figure references resolve",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "review_final.md retains full third-step exit false",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "acceptance.md retains full third-step exit false",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stage_completion_and_gaps.md retains full third-step exit false",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "allowed_post_review_changes": [
+    "countries/RO/full_period_20261001/analysis_report.md",
+    "project/country_status.yaml",
+    "project/romania_full_period_20261001/review_invocation.json",
+    "project/romania_full_period_20261001/review_repairs.md"
+  ]
+}

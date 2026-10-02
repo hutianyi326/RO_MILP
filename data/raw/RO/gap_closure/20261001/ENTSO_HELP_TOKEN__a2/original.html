@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v28016 -->
+
+
+  <title>How to get security token? &ndash; Transparency Platform</title>
+
+  
+
+  <meta name="description" content="Security token is required to use web API. Please follow the process shown in below diagram to generate a security token:  1- Register..." /><meta property="og:image" content="https://transparencyplatform.zendesk.com/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Transparency Platform" />
+<meta property="og:title" content="How to get security token?" />
+<meta property="og:description" content="Security token is required to use web API. Please follow the process shown in below diagram to generate a security token:  1- Register Transparency Platform1.1- Go to:Production environment: https:..." />
+<meta property="og:url" content="https://transparencyplatform.zendesk.com/hc/en-us/articles/12845911031188-How-to-get-security-token" />
+<link rel="canonical" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/12845911031188-How-to-get-security-token">
+<link rel="alternate" hreflang="en-us" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/12845911031188-How-to-get-security-token">
+<link rel="alternate" hreflang="x-default" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/12845911031188-How-to-get-security-token">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-b925b7498ff4356827db8a6064e91e2b.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/36797/10000260229652/style.css?digest=49566937189137">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK">
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<!-- Make the translated search clear button label available for use in JS -->
+<!-- See buildClearSearchButton() in script.js -->
+<script type="text/javascript">window.searchClearButtonLabelLocalized = "Clear search";</script>
+<script type="text/javascript">
+  // Load ES module polyfill only for browsers that don't support ES modules
+  if (!(HTMLScriptElement.supports && HTMLScriptElement.supports('importmap'))) {
+    document.write('<script async src="/hc/theming_assets/01J917TX8PRX5VJJ0Y63MM8QVB"><\/script>');
+  }
+</script>
+<script type="importmap">
+{
+  "imports": {
+    "new-request-form": "/hc/theming_assets/01KXGQT937BJ0QCFCPDCWGT64M",
+    "request-list": "/hc/theming_assets/01KZC4J1VAP3PE7Z90CQCECWB2",
+    "flash-notifications": "/hc/theming_assets/01KXGQT9DARRXE1KS8FMMT85T7",
+    "service-catalog": "/hc/theming_assets/01KZC4J1T0HWSYE4DD4WCK1XWK",
+    "approval-requests": "/hc/theming_assets/01KXGQT9DQNNSAHTFJ3JZ2CZG1",
+    "approval-requests-translations": "/hc/theming_assets/01KXGQT9HKYDSVNJSKX3XS9Q3P",
+    "new-request-form-translations": "/hc/theming_assets/01KXGQT9GGG5EAAEAJHX8EDSES",
+    "request-list-translations": "/hc/theming_assets/01KXGQT9E10SDX059KGRPHHM3D",
+    "service-catalog-translations": "/hc/theming_assets/01KXGQT90HRPECA60S7X5B0JMQ",
+    "shared": "/hc/theming_assets/01KXGQT93GCC924B6DEB1DN40V",
+    "ticket-fields": "/hc/theming_assets/01KZC4J1W2AREQXPH0BMVA0H7G",
+    "wysiwyg": "/hc/theming_assets/01KP91813Z1ZSRYHPG2146VPKD"
+  }
+}
+</script>
+<script type="module">
+  import { renderFlashNotifications } from "flash-notifications";
+
+  const settings = {"brand_color":"#17494D","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD","show_brand_name":true,"favicon":"/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK","homepage_background_image":"/hc/theming_assets/01HZPZ1MKYY6YJH9EFQ7330EF2","community_background_image":"/hc/theming_assets/01HZPZ1NKWKGBHGR2YB1VVMTN4","community_image":"/hc/theming_assets/01HZPZ1PPPFJBWSZAMBGQQ5CYP","service_catalog_hero_image":"/hc/theming_assets/01KEH84K56STRS87K0W8G2NFDQ","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":false,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":false,"show_follow_section":true,"show_follow_post":false,"show_post_sharing":false,"show_follow_topic":false,"show_suggested_articles":true};
+  const baseLocale = "en-us";
+
+  renderFlashNotifications(settings, baseLocale);
+</script>
+
+  
+</head>
+<body class="">
+  
+  
+  
+
+  <a class="skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+<header class="header">
+  <div class="logo">
+    <a title="Home" href="/hc/en-us">
+      <img src="/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD" alt="Transparency Platform Help Center home page" />
+      
+        <span aria-hidden="true">Transparency Platform</span>
+      
+    </a>
+  </div>
+
+  <div class="nav-wrapper-desktop">
+    <nav class="user-nav" id="user-nav" aria-label="User navigation">
+      <ul class="user-nav-list">
+        <li></li>
+        <li></li>
+        <li><a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a></li>
+        
+          <li>
+            <a class="sign-in" role="link" rel="nofollow" data-auth-action="signin" title="Opens a dialog" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F12845911031188-How-to-get-security-token">
+              Sign in
+            </a>
+          </li>
+        
+      </ul>
+    </nav>
+          
+    
+  </div>
+
+  <div class="nav-wrapper-mobile">
+    <button class="menu-button-mobile" aria-controls="user-nav-mobile" aria-expanded="false" aria-label="Toggle navigation menu">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+        <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+      </svg>
+    </button>
+    <nav class="menu-list-mobile" id="user-nav-mobile" aria-expanded="false">
+      <ul class="menu-list-mobile-items">
+        
+          <li class="item">
+            <a role="link" rel="nofollow" data-auth-action="signin" title="Opens a dialog" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F12845911031188-How-to-get-security-token">
+              Sign in
+            </a>
+          </li>
+          <li class="nav-divider"></li>
+        
+       
+        <li class="item"></li>
+        <li class="item"><a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a></li>
+        <li class="item"></li>
+        <li class="nav-divider"></li>
+        
+       
+      </ul>
+          
+    </nav>
+  </div>
+
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <div class="sub-nav">
+    <nav aria-label="Breadcrumb">
+  <ol class="breadcrumbs">
+    
+      <li>
+        
+          <a href="/hc/en-us">Transparency Platform</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/categories/13771885458964-Guides">Guides</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/sections/12783116987028-Restful-API-integration-guide">Restful API integration guide</a>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+    <div class="search-container">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" focusable="false" viewBox="0 0 12 12" class="search-icon" aria-hidden="true">
+        <circle cx="4.5" cy="4.5" r="4" fill="none" stroke="currentColor"/>
+        <path stroke="currentColor" stroke-linecap="round" d="M11 11L7.5 7.5"/>
+      </svg>
+      <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" /><input type="hidden" name="category" id="category" value="13771885458964" autocomplete="off" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+    </div>
+  </div>
+
+  <div class="article-container" id="article-container">
+    <aside class="article-sidebar" aria-labelledby="section-articles-title">
+      
+        <div class="collapsible-sidebar">
+          <button type="button" class="collapsible-sidebar-toggle" aria-labelledby="section-articles-title" aria-expanded="false">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon chevron-icon">
+              <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5"/>
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon x-icon">
+              <path stroke="currentColor" stroke-linecap="round" d="M3 9l6-6m0 6L3 3"/>
+            </svg>
+          </button>
+          <span id="section-articles-title" class="collapsible-sidebar-title sidenav-title">
+            Articles in this section
+          </span>
+          <div class="collapsible-sidebar-body">
+            <ul>
+              
+                <li>
+                  <a href="/hc/en-us/articles/30262342482961-CurveType-A01-vs-CurveType-A03" 
+                     class="sidenav-item "
+                     >
+                       CurveType=A01 vs CurveType=A03
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15692855254548-Sitemap-for-Restful-API-Integration" 
+                     class="sidenav-item "
+                     >
+                       Sitemap for Restful API Integration
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15885757676308-Area-List-with-Energy-Identification-Code-EIC" 
+                     class="sidenav-item "
+                     >
+                       Area List with Energy Identification Code (EIC)
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12783148966036-API-Rate-Limit-Part-1" 
+                     class="sidenav-item "
+                     >
+                       API Rate Limit Part 1
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12784099471764-Reference-Documentation" 
+                     class="sidenav-item "
+                     >
+                       Reference Documentation
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696677194644-Request-Endpoint" 
+                     class="sidenav-item "
+                     >
+                       Request Endpoint
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12845911031188-How-to-get-security-token" 
+                     class="sidenav-item current-article"
+                     aria-current="page">
+                       How to get security token?
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696643163924-Request-Methods" 
+                     class="sidenav-item "
+                     >
+                       Request Methods
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15854421431060-Query-via-Web-Browser" 
+                     class="sidenav-item "
+                     >
+                       Query via Web Browser
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696716612372-Request-Parameters" 
+                     class="sidenav-item "
+                     >
+                       Request Parameters
+                  </a>
+                </li>
+              
+            </ul>
+            
+              <a href="/hc/en-us/sections/12783116987028-Restful-API-integration-guide" class="article-sidebar-item">See more</a>
+            
+          </div>
+        </div>
+      
+    </aside>
+
+    <article id="main-content" class="article">
+      <header class="article-header">
+        <h1 title="How to get security token?" class="article-title">
+          How to get security token?
+          
+        </h1>
+
+        <div class="article-author">
+          
+          <div class="article-meta">
+            
+
+            <div class="meta-group">
+              
+                <span class="meta-data"><time datetime="2026-01-28T09:25:17Z" title="2026-01-28T09:25:17Z" data-datetime="relative">January 28, 2026 09:25</time></span>
+                <span class="meta-data">Updated</span>
+              
+            </div>
+          </div>
+        </div>
+
+        
+          <div class="article-subscribe"><div data-helper="subscribe" data-json="{&quot;item&quot;:&quot;article&quot;,&quot;url&quot;:&quot;/hc/en-us/articles/12845911031188-How-to-get-security-token/subscription.json&quot;,&quot;follow_label&quot;:&quot;Follow&quot;,&quot;unfollow_label&quot;:&quot;Unfollow&quot;,&quot;following_label&quot;:&quot;Following&quot;,&quot;can_subscribe&quot;:true,&quot;is_subscribed&quot;:false}"></div></div>
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>Security token is required to use web API. Please follow the process shown in below diagram to generate a security token:</p><p>&nbsp;</p><figure class="wysiwyg-image"><img style="aspect-ratio: 1665/846;" src="/hc/article_attachments/43273747679889" width="1665" height="846"></figure><p>&nbsp;</p><h2 id="h_01JF7PGMG990CMGPWSAC8CDGRS">1- Register Transparency Platform</h2><h2 id="h_01JF7PGMG9AMHEJ75RF988VS2B">1.1- Go to:</h2><p>Production environment: <a href="https://transparency.entsoe.eu/">https://transparency.entsoe.eu/</a> or</p><p id="h_01JF7PJ28HKE572MMRXFRQY3VY">Test environment: <a href="https://iop-transparency.entsoe.eu/">https://iop-transparency.entsoe.eu/</a> (does not contain as much data as the Production environment)</p><p id="h_01JF7PN82EH83G5BH3NVFN34CQ">and click on the "Sign In" button:</p><figure class="wysiwyg-image"><img style="aspect-ratio: 1103/408;" src="/hc/article_attachments/41598531858321" width="1103" height="408"></figure><h2 id="h_01JF7PGMG9AM1G8KFV7HEF165P">1.2- Click register link</h2><p><img src="/hc/article_attachments/12881394298260" alt="mceclip1.png" width="693" height="671"></p><p>&nbsp;</p><h2 id="h_01JF7PGMG9E20NEVH64VNQWXH0">1.3- Register</h2><p><img src="/hc/article_attachments/12881432414868" alt="mceclip2.png" width="692" height="570"></p><p>&nbsp;</p><h2 id="h_01JF7PGMG9SFFSKS903KYE19PF">1.4- Verify account via URL sent to the registered email address</h2><h2 id="h_01KG1YDV4CV5XF70060DP1N6DD">2- Send an email</h2><p>Send an email to transparency@entsoe.eu with “RESTful API access” in the subject line and the registered e-mail address in the body.</p><h2 id="h_01KG1YQRYB25RGWH7YZ9AW76DS">3- Wait for confirmation e-mail</h2><p>You will be granted within 3 working days and will receive an email</p><h2 id="h_01JF7PGMG9QCDJPRHE9FJSPET7">4- Login Transparency Platform and create a security token</h2><p><img src="/hc/article_attachments/12881851491860" alt="mceclip9.png" width="683" height="771"></p><h2 id="h_01JF7PGMG9GS3C9REPFKZJTKCE">4.1- Click "My Account"</h2><figure class="wysiwyg-image"><img style="aspect-ratio: 1116/447;" src="/hc/article_attachments/41598556015889" width="1116" height="447"></figure><h2 id="h_01JF7PGMG9GE54G3V6WRS75ZE8">4.2- Generate a (new) token</h2><figure class="wysiwyg-image"><img style="aspect-ratio: 1032/414;" src="/hc/article_attachments/41598556016785" width="1032" height="414"></figure><p>If a token is already generated, a warning message will be displayed:<br><img src="/hc/article_attachments/41598556017937" width="695" height="261"></p><p>&nbsp;</p><figure class="wysiwyg-image"><img style="aspect-ratio: 691/340;" src="/hc/article_attachments/41598556019601" width="691" height="340"></figure><p>&nbsp;</p><h2 id="h_01KG1YQRYBJS9CE7PP3HAN06PD">5- You can start using the RESTful API</h2><p>More information can be found <a href="/hc/en-us/articles/15692855254548" target="_blank" rel="noopener noreferrer">here</a>.</p></div>
+
+          
+
+          
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          
+          
+            
+          
+        </div>
+        
+          <div class="article-votes">
+            <h2 class="article-votes-question" id="article-votes-label">Was this article helpful?</h2>
+            <div class="article-votes-controls" role="group" aria-labelledby="article-votes-label">
+              <button type="button" class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="12845911031188" data-upvote-count="194" data-vote-count="305" data-vote-sum="83" data-vote-url="/hc/en-us/articles/12845911031188/vote" data-value="null" data-label="194 out of 305 found this helpful" data-selected-class="button-primary" data-as="button" aria-label="This article was helpful" aria-pressed="false">Yes</button>
+              <button type="button" class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="12845911031188" data-upvote-count="194" data-vote-count="305" data-vote-sum="83" data-vote-url="/hc/en-us/articles/12845911031188/vote" data-value="null" data-label="194 out of 305 found this helpful" data-selected-class="button-primary" data-as="button" aria-label="This article was not helpful" aria-pressed="false">No</button>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="12845911031188" data-upvote-count="194" data-vote-count="305" data-vote-sum="83" data-vote-url="/hc/en-us/articles/12845911031188/vote" data-value="null" data-label="194 out of 305 found this helpful">194 out of 305 found this helpful</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">
+            Return to top
+            <svg xmlns="http://www.w3.org/2000/svg" class="article-return-to-top-icon" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true">
+              <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5"/>
+            </svg>
+          </a>
+        </div>
+      </footer>
+
+      <div class="article-relatives">
+        
+          <div data-recent-articles></div>
+        
+        
+          
+  <section class="related-articles">
+    
+      <h2 class="related-articles-title">Related articles</h2>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQeEMdFDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJS99uuuCzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJKL2hjL2VuLXVzL2FydGljbGVzLzE1NjkyODU1MjU0NTQ4LVNpdGVtYXAtZm9yLVJlc3RmdWwtQVBJLUludGVncmF0aW9uBjsIVDoJcmFua2kG--7b479c29d532353089ca9666c84268d2e2fff5e7" rel="nofollow">Sitemap for Restful API Integration</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQH16hGDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJS99uuuCzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI2L2hjL2VuLXVzL2FydGljbGVzLzE1Njk2NjQzMTYzOTI0LVJlcXVlc3QtTWV0aG9kcwY7CFQ6CXJhbmtpBw%3D%3D--2f5fdffb2d70430febf8cdb5c636aa90a69b3253" rel="nofollow">Request Methods</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJRL3qpGDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJS99uuuCzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI3L2hjL2VuLXVzL2FydGljbGVzLzE1Njk2Njc3MTk0NjQ0LVJlcXVlc3QtRW5kcG9pbnQGOwhUOglyYW5raQg%3D--898cb5321ba5c2020dd4c933c940a4bc545bfd64" rel="nofollow">Request Endpoint</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBR78bByDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJS99uuuCzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJUL2hjL2VuLXVzL2FydGljbGVzLzE1ODg1NzU3Njc2MzA4LUFyZWEtTGlzdC13aXRoLUVuZXJneS1JZGVudGlmaWNhdGlvbi1Db2RlLUVJQwY7CFQ6CXJhbmtpCQ%3D%3D--085eefb4523d694c416519fad6e8737ec551030e" rel="nofollow">Area List with Energy Identification Code (EIC)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBRTKGVrDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJS99uuuCzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI8L2hjL2VuLXVzL2FydGljbGVzLzE1ODU0NDIxNDMxMDYwLVF1ZXJ5LXZpYS1XZWItQnJvd3NlcgY7CFQ6CXJhbmtpCg%3D%3D--24d1063004adf632d9a6ed59dd0544bc94d19b74" rel="nofollow">Query via Web Browser</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+        
+      </div>
+      
+        <div class="article-comments" id="article-comments">
+          <section class="comments">
+            <header class="comment-overview">
+              <h2 class="comment-heading">
+                Comments
+              </h2>
+              <p class="comment-callout">0 comments</p>
+              
+            </header>
+
+            <ul id="comments" class="comment-list">
+              
+            </ul>
+
+            
+
+            
+
+            <p class="comment-callout">Article is closed for comments.</p>
+          </section>
+        </div>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="Home" href="/hc/en-us">Transparency Platform</a>
+
+    <div class="footer-language-selector">
+      
+    </div>
+  </div>
+</footer>
+
+
+    <div class="powered-by-zendesk">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" focusable="false" viewBox="0 0 26 26">
+    <path d="M12 8.2v14.5H0zM12 3c0 3.3-2.7 6-6 6S0 6.3 0 3h12zm2 19.7c0-3.3 2.7-6 6-6s6 2.7 6 6H14zm0-5.2V3h12z" />
+  </svg>
+
+  <a target="_blank" rel="nofollow" href="https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=SERVICE+DESK">Powered by Zendesk</a>
+</div>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.b82bf3038927c0c5ec50.js"></script>
+  
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"entsoe","environment":"production","name":"SERVICE DESK"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"external_id":null,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCJS99uuuCzoKX21ldGF7DDoPYWNjb3VudF9pZGkCvY86E2hlbHBfY2VudGVyX2lkbCsIFIJTXxgJOg1icmFuZF9pZGwrCBRq9V0YCToMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZUOhphbm9ueW1vdXNfdHJhY2tpbmdfaWQw--1bd44fc6d076cedd1051ea740b68771c9a796357","url":"https://transparencyplatform.zendesk.com/hc/activity"},"current_record_id":"12845911031188","current_record_url":"/hc/en-us/articles/12845911031188-How-to-get-security-token","current_record_title":"How to get security token?","current_text_direction":"ltr","current_brand_id":10000260229652,"current_brand_name":"Transparency Platform Helpdesk.","current_brand_url":"https://transparencyplatform.zendesk.com","current_brand_active":true,"current_path":"/hc/en-us/articles/12845911031188-How-to-get-security-token","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"show_at_mentions":true,"embeddables_config":{"embeddables_web_widget":false,"embeddables_help_center_auth_enabled":false,"embeddables_connect_ipms":false},"answer_bot_subdomain":"static","gather_plan_state":"subscribed","has_article_verification":true,"has_gather":true,"has_ckeditor":true,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_garden_modals":false,"has_auth_email_less_sso":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_search_settings_in_plan":true,"theming_api_version":4,"theming_settings":{"brand_color":"#17494D","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD","show_brand_name":true,"favicon":"/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK","homepage_background_image":"/hc/theming_assets/01HZPZ1MKYY6YJH9EFQ7330EF2","community_background_image":"/hc/theming_assets/01HZPZ1NKWKGBHGR2YB1VVMTN4","community_image":"/hc/theming_assets/01HZPZ1PPPFJBWSZAMBGQQ5CYP","service_catalog_hero_image":"/hc/theming_assets/01KEH84K56STRS87K0W8G2NFDQ","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":false,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":false,"show_follow_section":true,"show_follow_post":false,"show_post_sharing":false,"show_follow_topic":false,"show_suggested_articles":true},"has_pci_credit_card_custom_field":true,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"en-us","base_locale":"en-us","login_url":"https://entsoe.zendesk.com/access?locale=en-us\u0026brand_id=10000260229652\u0026return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F12845911031188-How-to-get-security-token","has_alternate_templates":true,"has_custom_statuses_enabled":false,"has_hc_generative_answers_setting_enabled":true,"has_suggested_initial_questions_enabled":false,"has_contentful_eap":false,"has_contentful_eap_eligible":false,"has_pdf_ingestion_eap":true,"has_pdf_ingestion_eap_eligible":true,"has_guide_saas_management":false,"has_knowledge_category_translation_modal":false,"has_guide_service_catalog":true,"has_service_catalog_multibranding":true,"has_csat_reverse_2_scale_in_mobile":false,"has_unified_navigation":true,"has_unified_navigation_eap_access":true,"has_knowledge_locale_display_names":true,"has_csat_bet365_branding":false,"has_csat_flora":false,"has_csat_theming_integration_phase_1":false,"has_help_center_gen_search_follow_up_conversation":true,"chat_page_renderable":false,"version":"v28016","dev_mode":false};
+</script>
+
+  
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-78af5281140b77ca7ddc939085b006b7.js"></script>
+  <script type="text/javascript" src="/hc/theming_assets/36797/10000260229652/script.js?digest=49566937189137"></script>
+  
+</body>
+</html>

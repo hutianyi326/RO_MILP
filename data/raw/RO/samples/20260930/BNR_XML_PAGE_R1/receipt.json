@@ -1,0 +1,17 @@
+{
+  "id": "BNR_XML_PAGE_R1",
+  "dataset": "D14",
+  "url": "https://www.bnr.ro/23988-cursurile-pietei-valutare-in-format-xml",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "retry official current XML catalogue; no TLS weakening",
+  "retrieved_utc": "2026-09-30T09:38:49.6602090Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/BNR_XML_PAGE_R1/original.html",
+  "bytes": 119215,
+  "sha256": "e11e8af206e38329a198c50b6a3ee672d2a28775cea44b827487e33061e7c664"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "IDCT_2026-07-13",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "07/13/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2026-07-13",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T13:59:21.783736+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_2026-03-21__a2/form_original.html",
+  "form_sha256": "2f7afcae43378302fa592855e081c9d72693dad69de466c95a022fae2245b712",
+  "anonymous_session_reused": true,
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDCT_2026-07-13__a1/original.html",
+  "sha256": "10201c4d7c4df9e6a037a056b10f1934ba9a06fe095a17b1d577fd70515f5447",
+  "bytes": 478373,
+  "detected_format": "html"
+}

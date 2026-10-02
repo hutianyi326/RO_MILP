@@ -1,0 +1,17 @@
+{
+  "id": "ACT_META",
+  "dataset": "D06",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "observed public metadata",
+  "retrieved_utc": "2026-09-30T09:33:17.3842258Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/ACT_META/original.json",
+  "bytes": 241,
+  "sha256": "06840646d964cbbfd93212f78c3a9d3ae10c87b0a152d14ea60a341cf22599b3"
+}

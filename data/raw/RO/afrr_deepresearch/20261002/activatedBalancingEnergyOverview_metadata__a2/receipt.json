@@ -1,0 +1,11 @@
+{
+  "id": "activatedBalancingEnergyOverview_metadata",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:10:42.707013+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+}

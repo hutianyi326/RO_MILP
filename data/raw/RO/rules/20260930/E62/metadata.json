@@ -1,0 +1,14 @@
+{
+  "id": "E62",
+  "title": "ANRE Order15/2026 grid connection amendments",
+  "url": "https://anre.ro/wp-content/uploads/2026/05/Ord-15-2026.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/05/Ord-15-2026.pdf",
+  "retrieved_utc": "2026-09-30T08:16:59.0273635Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E62\\original.pdf",
+  "bytes": 62365,
+  "sha256": "89e4da0391d8df15c282c373c1c7cd81c02ca2203ee7d6240a5e625b64add2dc",
+  "extracted_characters": 50328
+}

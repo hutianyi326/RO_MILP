@@ -1,0 +1,68 @@
+[
+  {
+    "id": "OPCOM_FEE_ARCHIVE_6_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Lb.rom._Procedura OPEED_27.02.2026.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_8_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/1Lb.rom._Procedura OPEED_.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_15_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED_2026.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_20_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Sinteza API _an 2025.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_31_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/01.07.2024_Lb.rom._Procedura OPEED_R2.pdf",
+    "title": "Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_35_QUOTED",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Procedura privind tarifele practicate de OPEED_12.06.2024.pdf",
+    "title": "Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify",
+    "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved"
+  },
+  {
+    "id": "ANRE_REPORTS_CATALOG",
+    "dataset": "D12",
+    "url": "https://anre.ro/despre/rapoarte/",
+    "title": "ANRE official monthly reporting catalog"
+  },
+  {
+    "id": "ANRE_MON_OCT2025",
+    "dataset": "D12",
+    "url": "https://anre.ro/wp-content/uploads/2026/01/Monit-oct25-1.pdf",
+    "title": "Raport monitorizare piata de energie electrica octombrie 2025"
+  }
+]

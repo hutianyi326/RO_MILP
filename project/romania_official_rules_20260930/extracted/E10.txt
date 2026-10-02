@@ -1,0 +1,231 @@
+PICASSO
+Browse
+Network Codes & CEP
+Data & Standardisation
+Innovation
+Outlooks
+Regions
+Publications
+About
+Login
+Network Codes & CEP
+Data & Standardisation
+Innovation
+Outlooks
+Regions
+Publications
+About
+Transparency Platform
+Common Information Model
+Standardisation
+EU Grid Map
+News
+Events
+Careers
+Our Staff
+Extranet
+Go to Network Codes
+News
+Stakeholder Committees
+Consultations
+Active Library
+Monitoring & Reports
+Network Codes Development Process
+DCC
+HVDC
+RFG
+ER
+SOGL
+CACM
+EB
+FCA
+CEP
+NCCS
+Go to Data & Standardisation
+Grid Map
+Transparency Platform
+EIC Codes
+Power Statistics
+ECCo SP
+OPC / STA
+Go to Innovation
+Projects
+Technopedia
+Innovation Hub
+RDI Reports
+Go to Outlooks
+Seasonal
+ERAA
+Longterm - TYNDP
+Offshore Hub
+Scenarios
+Regional Investment Plans
+Grid Planning Hub
+Go to Regions
+FAQs on Regional Coordination
+CCR Regions
+CCR Regions Map
+CCR Core
+CCR CE
+CCR IN
+Go to Publications
+Position Papers
+Offshore Development
+Vision
+Market
+Research & Innovation
+Development
+TYNDP
+Operations
+TSO/DSO
+CIM
+Go to News
+News
+Events
+Former Associations
+Go to About
+Market
+Research & Innovation
+System Development
+Operations
+Information and Communication Technologies
+Legal
+Careers
+News
+Stakeholder Committees
+Consultations
+Active Library
+Monitoring & Reports
+Network Codes Development Process
+Home
+Network Codes
+Electricity Balancing
+PICASSO
+Related
+Electricity BalancingExplore ProjectaFRR Study (2015)
+On this page
+Main targets of the project
+KPI
+Stakeholder Workshops
+Publications
+News and information notes
+Consultations
+Contacts
+PICASSO
+The Platform for the International Coordination of Automated Frequency Restoration and Stable System Operation (PICASSO) is the implementation project endorsed by all TSOs through the ENTSO-E Market Committee to establish the European platform for the exchange of balancing energy from frequency restoration reserves with automatic activation or aFRR-Platform, pursuant to Article 21 of the Commission Regulation (EU) 2017/2195 of 23 November 2017 establishing a guideline on electricity balancing (EB GL).
+PICASSO implementation project (as of July 2026)
+Main targets of the project
+The main targets of the project are:
+Design, implement and operate an aFRR-Platform compliant with the approved versions of the EB GL, SO GL and CACM, as well as other regulations.
+Enhancing economic and technical efficiency within the limits of system security.
+Please find the Implementation Framework of the aFRR Platform and the Pricing Methodology here.
+KPI
+Key Performance Indicators of Implementation and Operation of the aFRR-Platform
+According to the Article 13.1 of the Annex I to the ACER Decision on the Implementation framework for aFRR Platform, all member TSOs shall monitor, evaluate and report on the key performance indicators of implementation and operation of the aFRR-Platform at least on a yearly basis. The common report shall be published by ENTSO-E on its website and reported to regulatory authorities.
+PICASSO KPI Report 2025
+PICASSO KPI Report 2023-2024
+PICASSO KPI Report 2022-2023
+Stakeholder Workshops
+28 October 2026 Balancing platforms stakeholder’s workshop
+4 November 2025 Balancing platforms stakeholder’s workshop
+23 September2025 FAQ Document
+11 December 2024 Balancing platforms stakeholder’s workshop
+30 November 2023 Balancing platforms stakeholder’s workshop
+8 December 2022 Balancing platforms stakeholder’s workshop
+2 December 2021 PICASSO-MARI Stakeholder Workshop
+18 December 2020 MARI workshop
+13 July 2020 MARI and PICASSO implementation workshop
+16 October 2018 Workshop on All TSO proposals on activation purposes and pricing
+20-21 June 2018 Workshop on balancing
+5 October 2017 Stakeholder workshop in Berlin
+4 September 2017 YouTube
+Slides
+Publications
+30 April 2026 PICASSO Algorithm Description (version 5.0)
+26 February 2026 Publication of the new Accession Roadmap
+1 October 2025 Publication of the new Accession Roadmap
+23 May 2025 PICASSO Algorithm Description (version 4.0)
+27 March 2025 Publication of the new Accession Roadmap
+November 2024 PICASSO Algorithm Description v3.0
+26 September 2024 Publication of the new Accession Roadmap
+5 August 2024 Information of the PICASSO project – Implementation of ACER Decision 8/2024 and 9/2024
+August 2024 PICASSO Algorithm Description
+31 July 2024 Information of the PICASSO project – Announcement of the Implementation of ACER Decision 8/2024 and 9/2024
+28 June 2024 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+25 April 2024 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+27 February 2024 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+25 October 2023 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+28 April 2023 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+25 October 2022 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+27 April 2022 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform – publication approved by qualified majority voting of the PICASSO SC
+April 2022 PICASSO Algorithm Description
+29 October 2021 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform – publication approved by qualified majority voting of the PICASSO SC
+27 April 2021 Updated accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+February 2021 FAT Harmonisation Survey
+13 October 2020 Updated accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+24 April 2020 Accession roadmap of PICASSO – accession roadmap for the aFRR-Platform
+Press release MoU
+News and information notes
+2 July 2026 ELES accession to PICASSO
+5 December 2025 TERNA reconnection to PICASSO
+27 November 2025 German TSOs Bug Procurement
+14 July 2025 PSE accession to PICASSO
+19 June 2025 Red Eléctrica accession to PICASSO
+11 April 2025 Elering accession to PICASSO
+11 April 2025 AST accession to PICASSO
+4 April 2025 RTE accession to PICASSO
+28 March 2025 Fingrid accession to PICASSO
+20 March 2025 IPTO/ADMIE accession to PICASSO
+5 March 2025 Litgrid accession to PICASSO
+13 February 2025 ESO accession to PICASSO
+28 November 2024 Elia accession to PICASSO
+11 November 2024 SEPS accession to PICASSO
+18 October 2024 Energinet and TenneT NL accession PICASSO
+13 March 2024 TERNA suspension of operations in PICASSO
+19 July 2023 TERNA has successfully accessed the PICASSO platform
+22 June 2022 The German and Austrian TSOs Accession and successful first exchange of aFRR via PICASSO
+1 June 2022 Successful Go-Live of PICASSO
+Consultations
+26 April – 29 June aFRRIF public consultation - Implementation framework for the exchange of balancing energy from aFRR
+21 November 2017 until 20 December 2017 First stakeholder consultation – Call for input
+Consultation document supporting first stakeholder consultation
+Contacts
+Senior PMO Andras Szili
+GET THE MOST POWERFUL NEWSLETTER IN BRUSSELS
+Please enter a valid email address.
+Please fill in your email address.
+First Name *
+Please enter your first name.
+Last Name *
+Please enter your last name.
+Organisation *
+Please enter your organisation.
+By subscribing, I consent to the processing of my personal data for the purpose of sending the newsletter. *
+You must consent to data processing to subscribe.
+I read and accept the Data Protection Policy *
+You must accept the Data Protection Policy to subscribe.
+Sign up for press updates
+Our Work
+Network Codes
+Outlooks
+Transparency Platform
+Power Regions
+Common Information Model
+Position Papers
+Standardisation
+EU Grid Map
+Association
+About
+News
+Events
+Members
+Careers
+Governance
+Our Staff
+Contact
+Extranet
+Stay updated
+LinkedIn
+YouTube
+© 2009-2026  ENTSO-E
+Sitemap Suppliers Disclaimer Privacy Policy Cookie Policy Whistleblowing Policy Website feedback to info@entsoe.eu

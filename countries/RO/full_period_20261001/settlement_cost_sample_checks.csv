@@ -1,0 +1,5 @@
+﻿source_id,date_label_not_publication,parsed_native_intervals,schema
+SETTLEMENT_SAMPLE_1,27.02.2025,2976,"system amounts LEI, no LEI/MWh deficit/surplus price"
+SETTLEMENT_SAMPLE_2,14.03.2025,2976,"system amounts LEI, no LEI/MWh deficit/surplus price"
+SETTLEMENT_SAMPLE_3,15.01.2026,2976,"system amounts LEI, no LEI/MWh deficit/surplus price"
+SETTLEMENT_SAMPLE_4,21.09.2026,2976,"system amounts LEI, no LEI/MWh deficit/surplus price"

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "STS_DOC_1",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/147121/PO+SERVICII+CAPACITATE+DE+ECHILIBRARE/a616ad8d-5936-4a5f-a4ed-febf1e72bd2d?version=1.5",
+    "title": "Procedura Operațională: Achiziţia prin licitaţie a capacităţii pentru echilibrare",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_2",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/147121/PO+RSF+2024/b683cd41-6fa4-4401-a9d4-9ac2697de556?version=1.0",
+    "title": "Procedura Operațională: Achiziţia prin licitaţie a rezervei pentru stabilizarea frecvenţei",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_3",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/19000714/CONTRACT+RSF+2024++EX+Participant/cf74af85-cebe-487a-9b47-3874b4762a6f",
+    "title": "Contract de furnizare a rezervei pentru stabilizarea frecvenţei, exemplar participant",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_4",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/19000714/CONTRACT+RSF+2024++EX+Transelectrica++doc/9a06a421-9c80-4db4-8d6e-272fcc4845f5",
+    "title": "Contract de furnizare a rezervei pentru stabilizarea frecvenţei, exemplar Transelectrica .",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_5",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/19876173/decizia+ANRE++2338_2025.pdf/8a183fe0-7887-4ce2-be0f-3cd6617229b7",
+    "title": "Decizia ANRE nr. 2338 din 04 Noiembrie 2025",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_6",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/21086732/Hot_+nr_+13_22_01_26+pt_+DPE+si+DEN+.pdf/c44370ab-212b-40d9-ac7f-172d59dc79c5",
+    "title": "Hotărârea nr. 13/22.01.2026",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "STS_DOC_7",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/documents/10179/38620/DECIZIA+ANRE+2716.24.12.17/b03c7985-23cc-48a1-b9e1-b1fe1a58079f?version=1.0",
+    "title": "Decizia ANRE nr.2716/17.12.2024",
+    "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability"
+  },
+  {
+    "id": "TARIFF_DOC_8",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/28121/17+august+2026+Anexa+la+Decizia+ANRE+nr.610+2022+Trim+II+2026/68632721-10df-4c2a-8d6e-1fe63b0fde4d?version=1.1",
+    "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim II 2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_9",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Anexa+Macheta+costuri+la+Decizia+610_Trim_+I+2026.pdf/2a8c2be9-3d83-417f-8983-1fb303abd84a",
+    "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim I 2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_10",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Anexa+Macheta+costuri+la+Decizia+610_Trim_+IV+2025+rectif_final.pdf/13c1b7cf-4ac8-451a-914b-a1e4ef70f85d",
+    "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim IV 2025 rectificat final",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_11",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Anexa+Macheta+costuri+la+Decizia+610_Trim_+IV+2025+preliminar.pdf/0685a624-c077-4d58-b2d2-99b466e6292d",
+    "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim IV 2025 preliminar",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_12",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Tarif+sistem/bc07b1a7-9901-4f34-af50-20783de5805b",
+    "title": "Ordinul pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.01.2026) - Ordinul ANRE nr. 73_2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_13",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Ordin+74_tarife+transport.pdf/4c098d77-b743-43c7-b78c-2d518b7963f4",
+    "title": "Ordinul pentru achiziția serviciilor de transport (aplicabil începând cu data de 01.01.2026) - Ordinul ANRE nr. 74_2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_14",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+de+introducere+a+energiei+electrice+%C3%AEn+re%C8%9Beaua+electric%C4%83%20de+transport/e26fcf19-573d-4403-9df2-c283057d46a1",
+    "title": "Tariful pentru pentru achiziţia serviciilor de sistem (aplicabil incepand cu data de 01.01.2026)",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_15",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+pentru+extragerea+energiei+electrice+din+re%C5%A3ele/85eacf15-9416-4fe5-998d-21fd4223bb8c",
+    "title": "pentru energie reactivă începând cu 1 ianuarie 2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_16",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Pre%C8%9Bul+reglementat+pentru+energia+electric%C4%83%20reactiv%C4%83/c0c94678-037a-4a88-9258-3b6e3b02ba83",
+    "title": "Tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport (TG), aplicabil de la 1 ianuarie 2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_17",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+achizi%C5%A3ia+serviciilor+de+sistem/82e32a60-9209-473f-8fdf-6ee293d563b5",
+    "title": "Tariful pentru serviciul de transport pentru extragerea energiei electrice din reţele (TL), aplicabil de la 1 ianuarie 2026",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_18",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/19568364/Actualizare+site+-Tarif+pentru+achizitia+serviciilor+de+sistem+-+01.09.2025.pdf/3fe2151f-2677-44ac-b088-c1f045a9b30c",
+    "title": "ariful pentru achiziţia serviciilor de sistem (aplicabil începând cu data de 01.09.2025)",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_19",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/19568364/Ordin+ANRE+nr.60_2025+-+tarif+achizitie+servicii+de+sistem+1+septembrie+2025.pdf/fc9791e2-31e7-4cb4-b58b-9f8e01b481e4",
+    "title": "Ordinul pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.09.2025) - Ordinul ANRE nr. 60_2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_20",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/18890707/Tarif+pentru+achizitia+serviciilor+de+sistem+-+01.06.2025.pdf/67b2e966-86c3-441e-b5b1-7a9b7f459a19",
+    "title": "Tariful pentru achiziţia serviciilor de sistem (aplicabil începând cu data de 01.06.2025)",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_21",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/18890707/Ord.+ANRE+nr.21_27.05.2025.pdf/ab04d2a7-f110-4552-9a00-2febb42bde94",
+    "title": "Tariful pentru pentru achiziţia serviciilor de sistem (aplicabil incepand cu data de 01.06.2025) - Ordinul ANRE",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_22",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TG_1+ian+2025.pdf/067371c6-1c56-4f81-8ef8-772952d60e94",
+    "title": "Tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport (TG), aplicabil de la 1 ianuarie 2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_23",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TL_1+ian+2025.pdf/290e6fa8-077d-4e96-b471-0f19a1b6dd08",
+    "title": "Tariful pentru serviciul de transport pentru extragerea energiei electrice din reţele (TL), aplicabil de la 1 ianuarie 2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_24",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/17632826/Actualizare+site+-Tarif+serviciul+de+sistem+-+01.09.2024/6f3a56c3-03a5-4570-aebe-8248e5cfac42",
+    "title": "Tarif serviciu de sistem 01.09.2024",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_25",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/17632826/Ordinul+ANRE+nr.57_2024+-+tarif+SS+1+septembrie+2024/ad98a17f-32cf-4e43-89d6-3d4b86f74c12",
+    "title": "Tariful pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.09.2024)",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_26",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/28121/000+-+Macheta+costuri+trim+III+2025/e2f01471-bbc2-4e30-96df-1e70ca8c3391",
+    "title": "Anexa la Decizia ANRE nr. 610/2022_Trim III 2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_27",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/19568364/Anexa+la+Decizia+ANRE+610+din+2022+Trim+II+2025/7d6df450-d31b-444c-a423-e56376f587c9",
+    "title": "Anexa la Decizia ANRE nr.610/2022_Trim II 2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  },
+  {
+    "id": "TARIFF_DOC_28",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/documents/10179/18890707/Anexa+Macheta+costuri+la+Decizia+610_Trim_+I+2025.pdf/b266d100-f0e2-4100-8c94-34fd3f6321c8",
+    "title": "Anexa la Decizia ANRE nr.610/2022_Trim I 2025",
+    "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict"
+  }
+]

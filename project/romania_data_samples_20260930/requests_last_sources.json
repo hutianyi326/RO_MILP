@@ -1,0 +1,6 @@
+[
+ {"id":"CURVES_XML_2026-08-31","dataset":"D18","url":"https://www.opcom.ro/order_book/curbe_agregate_RO_20260831.xml","scope":"2026-08-31 aggregated curves; download button observed in selected-date official page"},
+ {"id":"CURVES_PDF_2026-08-31","dataset":"D18","url":"https://www.opcom.ro/pdf_curbe/curbe_agregate_RO_20260831.pdf","scope":"2026-08-31 aggregated curves; chart original, not identified generating units"},
+ {"id":"NEMO_FEES_CURRENT_2026","dataset":"D13","url":"https://www.opcom.ro/uploads/doc/FPA/1Lg_eng_Procedure%20NEMO.pdf","scope":"current publicly hosted 2026 NEMO tariff procedure; historic monthly applicability not assumed"},
+ {"id":"DA_SETTLEMENT_PAGE","dataset":"D13-D14","url":"https://www.opcom.ro/tranzactii-rezultate/en/10","scope":"official DAM settlement procedures catalogue; identify accounting FX and tariffs sources"}
+]

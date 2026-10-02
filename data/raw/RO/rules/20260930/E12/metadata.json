@@ -1,0 +1,14 @@
+{
+  "id": "E12",
+  "url": "https://www.opcom.ro/tranzactii-produse/ro/1",
+  "title": "DA description",
+  "resolved_url": null,
+  "retrieved_utc": "2026-09-30T07:44:33.8887186Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E12\\original.html",
+  "bytes": 56663,
+  "sha256": "c45ba339a177f28ef34e889ccd7f5c974f152d7650938fa643e867550dcf266a",
+  "extracted_characters": 14305
+}

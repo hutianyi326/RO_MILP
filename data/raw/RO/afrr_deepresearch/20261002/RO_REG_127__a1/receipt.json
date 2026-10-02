@@ -1,0 +1,11 @@
+{
+  "id": "RO_REG_127",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282874",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:10:46.798334+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+}

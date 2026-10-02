@@ -1,0 +1,17 @@
+{
+  "id": "AGG_CURVES_PAGE",
+  "dataset": "D18",
+  "url": "https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official aggregated curve page and historical form",
+  "retrieved_utc": "2026-09-30T09:38:46.0918553Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/AGG_CURVES_PAGE/original.html",
+  "bytes": 39632,
+  "sha256": "23c94ce792a527960596a105bb571dcd4e29a96a01ec703cfb58fc916505fc90"
+}

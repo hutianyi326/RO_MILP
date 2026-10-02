@@ -1,0 +1,473 @@
+=== PDF PAGE 1 ===
+- 1 -
+Prices and Volumes
+September 29 September 30 October 01 October 02 October 03 October 04 October 05
+141.89 151.51 123.35 120.35 99.60 98.59 66.09
+September 22 September 23 September 24 September 25 September 26 September 27 September 28
+81.12 103.90 101.06 84.69 99.39 94.02 99.42
+September 29 September 30 October 01 October 02 October 03 October 04 October 05
+40,085.9 41,951.1 41,160.3 48,138.2 60,503.8 41,566.9 38,960.4
+September 22 September 23 September 24 September 25 September 26 September 27 September 28
+40,094.2 38,183.6 40,499.5 58,698.3 49,031.9 37,377.1 29,284.1
+September 29 September 30 October 01 October 02 October 03 October 04 October 05
+34.64% 44.86% 33.65% 37.79% 41.82% 32.25% 34.25%
+September 22 September 23 September 24 September 25 September 26 September 27 September 28
+35.51% 34.51% 31.61% 48.14% 34.79% 29.95% 30.12%
+Results*
+Trends
+ 1 The arithmetic mean of the prices corresponding to all hourly intervals from a day.
+ 2 Represents the final approximation of the net consumption, published by TSO in the trading day that proceeds the delivery day.
+ 3 The arithmetic mean of the prices corresponding to all hourly intervals from the analysed week.
+* Beginning with delivery day November 12, 2014, trading on the DAM is carried out in CET hours.
+** Beginning with delivery day October 1, 2025, trading on the DAM is carried out at 15-minute granularity.
+WEEKLY REPORT
+29.09.2025 - 05.10.2025
+Day Ahead Market
+Average price1  
+[euro/MWh]
+Total daily 
+volume traded 
+on DAM
+[MWh]
+DAM market 
+share of 
+forecasted 
+consumption2
+36.91% 5.34%
+Selling offers’ total volume [MWh] 329,074.8 2.55%
+DAM market share of forecasted consumption [%]
+Average price3 [euro/MWh] 105.69 11.49%
+Total volume traded on DAM [MWh] 312,366.5 6.55%
+Results Week 
+29.09.2025 - 05.10.2025
+Trend related to week 
+22.09.2025 - 28.09.2025
+Buying offers’ total volume [MWh] 258,074.6 25.57%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+80,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 27-Sep 28-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct 4-Oct 5-Oct
+EUR/MWhMWh DAM Traded Volume [MWh]
+Average price  [euro/MWh]
+
+=== PDF PAGE 2 ===
+- 2 -
+Price [euro/MWh] Week 
+29.09.2025 - 05.10.2025
+Trend related to week 
+22.09.2025 - 28.09.2025
+ROPEX_DAM_Base 105.69 11.49%
+ROPEX_DAM_Peak 104.83 17.38%
+ROPEX_DAM_Off_peak 106.56 6.25%
+Max hourly price 425.83 17.11%
+969.9 -1.72%
+Min hourly price 0.01 -95.00%
+Volume traded on DAM Week 
+29.09.2025 - 05.10.2025
+Trend related to week 
+22.09.2025 - 28.09.2025
+Base total volume [MWh] 312,366.5 6.55%
+Peak total volume [MWh] 154,414.4 9.40%
+Off-peak total volume [MWh] 157,952.1 3.90%
+Max hourly volume [MWh/h] 2,966.6 7.78%
+Min hourly volume [MWh/h]
+-140
+-70
+0
+70
+140
+210
+280
+350
+420
+490
+L Ma Mi J V S D
+Market Clearing Price
+Week
+22.09.2025 - 28.09.2025
+Week
+29.09.2025 - 05.10.2025
+euro/MWh
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+L Ma Mi J V S D
+DAM Traded Volume
+Week
+22.09.2025 - 28.09.2025
+Week
+29.09.2025 - 05.10.2025
+MWh/h
+
+=== PDF PAGE 3 ===
+- 3 -
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+136.47 142.32 131.37 125.00 106.23 132.44 92.07
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+87.83 115.26 121.95 106.70 117.61 91.28 91.82
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+1,742.7 1,536.6 2,246.0 1,044.4 1,332.0 1,663.0 1,285.9
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+Results 1,533.0 2,133.8 1,685.0 1,066.9 1,425.0 1,312.4 1,997.0
+IDM - 60 min * 29 September 30 September 01 October 02 October 03 October 04 October 05 October
+2,885.9 2,436.0 4,070.4 2,295.1 2,892.4 2,766.0 2,274.8
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+1,551.3 1,560.1 1,496.6 2,904.7 2,425.6 1,406.6 1,201.2
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+- - - - - - -
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+- - - - - - -
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+- - - - - - -
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+- - - - - - -
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+3.88% 4.02% 5.08% 2.50% 2.83% 3.31% 3.08%
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+2.56% 2.95% 2.43% 3.04% 2.56% 2.15% 3.11%
+* IDM  operational from November 12, 2019 according to Order ANRE no 202 / 2019
+** traded volume includes both hourly and block trades
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+136.01 135.12 132.61 125.03 102.06 123.81 93.95
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+86.56 112.25 117.43 102.49 113.75 91.86 89.09
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+356.8 556.8 645.7 422.9 231.5 246.0 342.0
+Results 22 September 23 September 24 September 25 September 26 September 27 September 28 September
+IDM - 15 min *** 532.5 612.7 717.9 427.9 472.0 510.6 641.3
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+283.1 564.0 420.0 398.6 417.4 500.3 209.2
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+473.1 578.4 399.7 310.8 347.4 515.9 279.3
+29 September 30 September 01 October 02 October 03 October 04 October 05 October
+0.55% 1.18% 0.87% 0.64% 0.45% 0.57% 0.48%
+22 September 23 September 24 September 25 September 26 September 27 September 28 September
+0.88% 1.02% 0.85% 0.59% 0.57% 0.82% 0.94%
+ *** IDM - 15 min -  operational from February, 2021 according to Order ANRE no 230/2020
+Intraday Market
+Share of forcasted consumption
+Share of 
+forcasted 
+consumption [%]
+Prices
+ROPEX_
+ID_Base (1-24)
+[euro/MWh]
+Volume
+Sell Block 
+Trades
+[MWh]
+Buy Block 
+Trades
+[MWh]
+Buy Hourly 
+Trades 
+[MWh]
+Sell Hourly 
+Trades 
+[MWh]
+Share of 
+forcasted 
+consumption [%]
+Prices
+ROPEX_
+ID_Base (1-96)
+[euro/MWh]
+Volume
+Sell Trades 
+[MWh]
+Buy Trades 
+[MWh]
+Share of forcasted consumption
+0
+40
+80
+120
+160
+0
+2,000
+4,000
+6,000
+8,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 27-Sep 28-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct 4-Oct 5-Oct
+euro/MWhMWh IDM - 60 min -Traded Volume** ROPEX_ID_Base (1-24)
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0
+400
+800
+1,200
+1,600
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 27-Sep 28-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct 4-Oct 5-Oct
+euro/MWhMWh IDM - 15 min -Traded Volume ROPEX_ID_Base (1-96)
+
+=== PDF PAGE 4 ===
+- 4 -
+September 29 September 30 October 01 October 02 October 03
+- - - - 111.52
+September 22 September 23 September 24 September 25 September 26
+- - - - -
+September 29 September 30 October 01 October 02 October 03
+- - - - 1,993
+September 22 September 23 September 24 September 25 September 26
+- - - - -
+Note:                                       = Non working day
+Results
+September 29 September 30 October 01 October 02 October 03
+- 103.32 119.05 110.72 111.89
+September 22 September 23 September 24 September 25 September 26
+109.35 109.31 - - -
+September 29 September 30 October 01 October 02 October 03
+- 43,800 10,795 54,595 66,187
+September 22 September 23 September 24 September 25 September 26
+3,725 3,725 - - -
+Note:                                       = Non working day
+Results
+Centralised Market for Electricity Bilateral Contracts
+Flexible Extended Auctions Mechanism 
+CMBC-EA-FLEX 
+Weighted 
+Average Price 
+[euro/MWh]
+CMBC-EA-FLEX 
+Traded Quantity 
+[MWh]
+Centralised Market for Electricity Bilateral Contracts
+Continuous Negociation Mechanism
+CMBC-CN 
+Weighted 
+Average Price 
+[euro/MWh]
+CMBC-CN 
+Traded Quantity 
+[MWh]
+0
+30
+60
+90
+120
+150
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct
+euro/MWhMWh
+Trading Day
+CMBC-EA-FLEX Traded Volume [MWh]
+CMBC-EA-FLEX Weighted Average Price [euro/MWh]
+0
+20
+40
+60
+80
+100
+120
+140
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct
+euro/MWhMWh
+Trading Day
+CMBC-CN Traded Volume [MWh]
+CMBC-CN Weighted Average Price [euro/MWh]
+
+=== PDF PAGE 5 ===
+- 5 -
+September 29 September 30 October 01 October 02 October 03
+- 109.23 - 113.92 109.61
+September 22 September 23 September 24 September 25 September 26
+- 120.14 - 103.44 -
+September 29 September 30 October 01 October 02 October 03
+- 43,800 - 97,780 98,395
+September 22 September 23 September 24 September 25 September 26
+- 10,795 - 43,800 -
+Note:                                       = Non working day
+Results
+Results
+29 September 30 September 01 October 02 October 03 October
+- - - 86.42 92.36
+22 September 23 September 24 September 25 September 26 September
+96.04 60.49 - - -
+29 September 30 September 01 October 02 October 03 October
+- - - 6,336 3,743
+22 September 23 September 24 September 25 September 26 September
+2,159 9,748 - - -
+29 September 30 September 01 October 02 October 03 October
+- - - 19,009 14,972
+Results 22 September 23 September 24 September 25 September 26 September
+4,318 29,981 - - -
+Note:                                       = Non working day
+**The information concerning the number of traded GC will be reported to ANRE according to ANRE Order no 195/2019
+CME-RES- GC 
+Number** of 
+Green 
+Certificates 
+Traded
+Centralised Market with double continuous negociation for Electricity Bilateral Contracts
+CM-OTC 
+Weighted 
+Average Price 
+[euro/MWh]
+CM-OTC Traded 
+Quantity [MWh]
+Centralised Market for Universal Service
+Centralised market for electricity from renewable energy sources 
+supported by green certificates - CME-RES- GC
+CME-RES- GC 
+Weighted 
+Average Price 
+[euro/MWh]
+CME-RES- GC 
+Traded Quantity 
+[MWh]
+Electricity market for large consumers
+Results
+LCM
+No trades were concluded in the analysed week.
+0
+30
+60
+90
+120
+150
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct
+euro/MWhMWh
+Trading Day
+CM-OTC Traded Volume [MWh]
+CM-OTC Weighted Average Price [euro/MWh]
+0
+30
+60
+90
+120
+0
+3,000
+6,000
+9,000
+12,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct
+euro/MWhMWh
+Trading Day
+CME-RES- GC Traded Volume [MWh]
+CME-RES- GC Weighted Average Price [euro/MWh]
+
+=== PDF PAGE 6 ===
+- 6 -
+Prices and Volumes
+September 29 September 30 October 01 October 02 October 03 October 04 October 05
+- - - - - - -
+September 22 September 23 September 24 September 25 September 26 September 27 September 28
+- - - - - - -
+September 29 September 30 October 01 October 02 October 03 October 04 October 05
+- - - - - - -
+September 22 September 23 September 24 September 25 September 26 September 27 September 28
+- - - - - - -
+Results
+Trends
+September 29 September 30 October 01 October 02 October 03
+- - - - -
+September 22 September 23 September 24 September 25 September 26
+- - - - -
+September 29 September 30 October 01 October 02 October 03
+- - - - -
+September 22 September 23 September 24 September 25 September 26
+- - - - -
+Results Note:                                       = Non working day
+-
+Weighted 
+Average Price 
+[lei/MWh]
+Total daily 
+volume traded 
+on DAM-NG 
+[MWh]
+Results Week 
+29.09.2025 - 05.10.2025
+Trend related to week 
+22.09.2025 - 28.09.2025
+-
+Total volume traded on DAM-NG [MWh]: -
+Weighted 
+Average Price 
+[lei/MWh]
+PCGN-LN 
+Traded Quantity 
+[MWh]
+Centralised Market for Natural Gas
+Trading Mechanism PCGN-LN
+Day Ahead Market for Natural Gas
+Weighted Average Price [lei/MWh] -
+0
+30
+60
+90
+120
+0
+30
+60
+90
+120
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 27-Sep 28-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct 4-Oct 5-Oct
+lei/MWhMWh Total daily volume traded on DAM-NG [MWh]
+Weighted Average Price [lei/MWh]
+0
+15
+30
+45
+60
+75
+90
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+22-Sep 23-Sep 24-Sep 25-Sep 26-Sep 29-Sep 30-Sep 1-Oct 2-Oct 3-Oct
+lei/MWhMWh
+Trading Day
+PCGN-LN Traded Volume [MWh]
+PCGN-LN Traded Volume [MWh]

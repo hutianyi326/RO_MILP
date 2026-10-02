@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_13",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Ordin+74_tarife+transport.pdf/4c098d77-b743-43c7-b78c-2d518b7963f4",
+  "title": "Ordinul pentru achiziția serviciilor de transport (aplicabil începând cu data de 01.01.2026) - Ordinul ANRE nr. 74_2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:54.418576+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Ordin+74_tarife+transport.pdf/4c098d77-b743-43c7-b78c-2d518b7963f4",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_13__a1/original.pdf",
+  "sha256": "0be32378323385a0f5f766963bdf949fd25c82915a488e362d8ce0f4391f27c0",
+  "bytes": 1503809,
+  "detected_format": "pdf"
+}

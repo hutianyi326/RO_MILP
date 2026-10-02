@@ -1,0 +1,8 @@
+﻿use,numeric_common_qh,segments,longest_hours,restrictions
+DA + gross actual load + commercial schedules,58364,1,14591.0,full descriptive grid; same data publisher controls not independent
+DA + aFRR both directions numeric,58318,28,2043.75,missing any aFRR value cuts; amounts not station activation
+DA + FCR demand and raw accepted price,43292,2,7415.0,native hourly statistics aligned for description; cash denominator and DST holes unresolved
+DA + aFRRDown demand and raw accepted price,58360,2,7415.0,native hourly statistics aligned for description; cash denominator and DST holes unresolved
+DA + aFRRUp demand and raw accepted price,58360,2,7415.0,native hourly statistics aligned for description; cash denominator and DST holes unresolved
+DA + mFRRDown demand and raw accepted price,58360,2,7415.0,native hourly statistics aligned for description; cash denominator and DST holes unresolved
+DA + mFRRUp demand and raw accepted price,58360,2,7415.0,native hourly statistics aligned for description; cash denominator and DST holes unresolved

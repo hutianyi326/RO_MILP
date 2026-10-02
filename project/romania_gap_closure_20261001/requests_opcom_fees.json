@@ -1,0 +1,50 @@
+[
+  {
+    "id": "OPCOM_FEE_ARCHIVE_6",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Lb.rom._Procedura OPEED_27.02.2026.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_8",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/1Lb.rom._Procedura OPEED_.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_15",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED_2026.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_20",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Sinteza API _an 2025.pdf",
+    "title": "Sinteza/Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_31",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/01.07.2024_Lb.rom._Procedura OPEED_R2.pdf",
+    "title": "Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  },
+  {
+    "id": "OPCOM_FEE_ARCHIVE_35",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/uploads/doc/FPA/Procedura privind tarifele practicate de OPEED_12.06.2024.pdf",
+    "title": "Procedura",
+    "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+    "scope": "historical fee body, effective dates and actual applies to verify"
+  }
+]

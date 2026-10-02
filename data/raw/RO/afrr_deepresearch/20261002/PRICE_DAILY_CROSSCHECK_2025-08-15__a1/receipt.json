@@ -1,0 +1,17 @@
+{
+  "id": "PRICE_DAILY_CROSSCHECK_2025-08-15",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-08-14T21%3A00%3A00Z&timeInterval.to=2025-08-15T21%3A00%3A00Z&pageInfo.pageSize=3000",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:15:24.352247+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-08-14T21%3A00%3A00Z&timeInterval.to=2025-08-15T21%3A00%3A00Z&pageInfo.pageSize=3000",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/PRICE_DAILY_CROSSCHECK_2025-08-15__a1/original.json",
+  "sha256": "782aff7fa20a75023d070b7103803312e92c6c08c29c59ebfc55516f2c6e40b3",
+  "bytes": 30728,
+  "detected_format": "json"
+}

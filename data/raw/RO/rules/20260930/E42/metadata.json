@@ -1,0 +1,14 @@
+{
+  "id": "E42",
+  "title": "Transelectrica final storage FCR publication9April2026",
+  "url": "https://web.transelectrica.ro/noutati/noutati/667_2026.04.09_13-43-49.pdf",
+  "resolved_url": "https://web.transelectrica.ro/noutati/noutati/667_2026.04.09_13-43-49.pdf",
+  "retrieved_utc": "2026-09-30T07:57:27.4450636Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E42\\original.pdf",
+  "bytes": 264423,
+  "sha256": "c1d98eec6ca4c17c69760f9358601799eadb81554771731e8b7c7b3127254191",
+  "extracted_characters": 709
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "source_id": "IDA_2025-01-15",
+    "auction": 1,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-01-15",
+    "auction": 2,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-01-15",
+    "auction": 3,
+    "eligible": 48,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-03-30",
+    "auction": 1,
+    "eligible": 92,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-03-30",
+    "auction": 2,
+    "eligible": 92,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-03-30",
+    "auction": 3,
+    "eligible": 48,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-09-30",
+    "auction": 1,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-09-30",
+    "auction": 2,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-09-30",
+    "auction": 3,
+    "eligible": 48,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-01",
+    "auction": 1,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-01",
+    "auction": 2,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 46,
+    "volume_numeric": 46,
+    "valid_pair": 46,
+    "status": "PARTIAL_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-01",
+    "auction": 3,
+    "eligible": 48,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-26",
+    "auction": 1,
+    "eligible": 100,
+    "template": 100,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-26",
+    "auction": 2,
+    "eligible": 100,
+    "template": 100,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2025-10-26",
+    "auction": 3,
+    "eligible": 48,
+    "template": 100,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-03-29",
+    "auction": 1,
+    "eligible": 92,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-03-29",
+    "auction": 2,
+    "eligible": 92,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-03-29",
+    "auction": 3,
+    "eligible": 48,
+    "template": 92,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-08-31",
+    "auction": 1,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-08-31",
+    "auction": 2,
+    "eligible": 96,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  },
+  {
+    "source_id": "IDA_2026-08-31",
+    "auction": 3,
+    "eligible": 48,
+    "template": 96,
+    "price_numeric": 0,
+    "volume_numeric": 0,
+    "valid_pair": 0,
+    "status": "EMPTY_PRICE_VOLUME"
+  }
+]

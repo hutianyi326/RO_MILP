@@ -1,0 +1,237 @@
+{
+  "checked_utc": "2026-10-01T15:52:44.486097+00:00",
+  "checks": [
+    {
+      "check": "successful raw files match receipt hashes and sizes",
+      "result": "PASS",
+      "detail": {
+        "successful_ids": 2084,
+        "bad": []
+      }
+    },
+    {
+      "check": "requests_id_full_period.json target query coverage",
+      "result": "PASS",
+      "detail": {
+        "logical_requests": 1216,
+        "missing": []
+      }
+    },
+    {
+      "check": "requests_idct60_full_period.json target query coverage",
+      "result": "PASS",
+      "detail": {
+        "logical_requests": 608,
+        "missing": []
+      }
+    },
+    {
+      "check": "prior delivery immutable before new acceptance",
+      "result": "PASS",
+      "detail": {
+        "files": 1662,
+        "changed": []
+      }
+    },
+    {
+      "check": "prior final manifest unchanged",
+      "result": "PASS",
+      "detail": "project/romania_full_period_20261001/final_delivery_manifest.json"
+    },
+    {
+      "check": "country state unchanged before acceptance",
+      "result": "PASS",
+      "detail": "4f14d552292effb787343b19848b1fa726f40ec11c786722e3f848d231284e2a"
+    },
+    {
+      "check": "intraday parser schema date/header/row errors",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "intraday date coverage each market product608",
+      "result": "PASS",
+      "detail": {
+        "ida_dates": 608,
+        "idct15_dates": 608,
+        "idct60_dates": 608
+      }
+    },
+    {
+      "check": "all native queried form dates match request",
+      "result": "PASS",
+      "detail": 3040
+    },
+    {
+      "check": "three IDA round row structures match A calendar",
+      "result": "PASS",
+      "detail": "A structural test only; does not prove numeric coverage"
+    },
+    {
+      "check": "IDA numeric and missing-state counts independently regrouped",
+      "result": "PASS",
+      "detail": {
+        "rows": 175092,
+        "numeric_pairs": 69,
+        "states": {
+          "DASH_CELLS": 145843,
+          "BLANK_CELLS": 29180,
+          "NUMERIC_PAIR": 69
+        }
+      }
+    },
+    {
+      "check": "IDCT source occurrence identity contiguous and unique",
+      "result": "PASS",
+      "detail": 3741324
+    },
+    {
+      "check": "IDCT unavailable identities remain null",
+      "result": "PASS",
+      "detail": "no constructed trade identity"
+    },
+    {
+      "check": "IDCT full raw cell consumption and caption date",
+      "result": "PASS",
+      "detail": 1216
+    },
+    {
+      "check": "IDCT product group declared rowspan equals raw triplets and extracted occurrences",
+      "result": "PASS",
+      "detail": {
+        "groups": 129792,
+        "occurrences": 3741324
+      }
+    },
+    {
+      "check": "IDCT per-source CSV counts equal all raw group declarations",
+      "result": "PASS",
+      "detail": 1216
+    },
+    {
+      "check": "IDCT every raw occurrence independently reconciled against CSV tokens and locators",
+      "result": "PASS",
+      "detail": {
+        "method": "Independent declared-rowspan cursor traversal, every CSV occurrence and raw token/locator compared; no extraction script import",
+        "verified_files": 1216,
+        "verified_occurrences": 3741324,
+        "occurrences_by_selector": {
+          "15": 2180829,
+          "60": 1560495
+        },
+        "product_groups": 129792,
+        "no_published_occurrence_source_ids": [
+          "IDCT_2025-03-24"
+        ]
+      }
+    },
+    {
+      "check": "IDCT counts agree with first-review independent raw totals",
+      "result": "PASS",
+      "detail": "PT15 2180829; PT60 1560495; native webpage occurrences only"
+    },
+    {
+      "check": "339 official RON/EUR sample contracts within A display bound with matching MW",
+      "result": "PASS",
+      "detail": 339
+    },
+    {
+      "check": "settlement extractor disagreements resolved with preserved native source",
+      "result": "PASS",
+      "detail": {
+        "versions": 191,
+        "grid_checks": 417006
+      }
+    },
+    {
+      "check": "100 prospective capacity product-months including5 empty early FCR months",
+      "result": "PASS",
+      "detail": {
+        "product_months": 100,
+        "native_rows": 69327
+      }
+    },
+    {
+      "check": "required delivery exists engineering_assumption_register.md",
+      "result": "PASS",
+      "detail": "engineering_assumption_register.md"
+    },
+    {
+      "check": "required delivery exists closure_ledger.md",
+      "result": "PASS",
+      "detail": "closure_ledger.md"
+    },
+    {
+      "check": "required delivery exists data_dictionary.md",
+      "result": "PASS",
+      "detail": "data_dictionary.md"
+    },
+    {
+      "check": "required delivery exists supplement_report.md",
+      "result": "PASS",
+      "detail": "supplement_report.md"
+    },
+    {
+      "check": "required delivery exists source_directory.md",
+      "result": "PASS",
+      "detail": "source_directory.md"
+    },
+    {
+      "check": "required delivery exists acquisition_endpoints_supplement.md",
+      "result": "PASS",
+      "detail": "acquisition_endpoints_supplement.md"
+    },
+    {
+      "check": "required delivery exists evidence_register.csv",
+      "result": "PASS",
+      "detail": "evidence_register.csv"
+    },
+    {
+      "check": "required delivery exists fee_timeline.csv",
+      "result": "PASS",
+      "detail": "fee_timeline.csv"
+    },
+    {
+      "check": "required delivery exists storage_cutoff_ledger.csv",
+      "result": "PASS",
+      "detail": "storage_cutoff_ledger.csv"
+    },
+    {
+      "check": "required delivery exists source_anomalies.csv",
+      "result": "PASS",
+      "detail": "source_anomalies.csv"
+    },
+    {
+      "check": "required delivery exists historical_event_and_asof_register.csv",
+      "result": "PASS",
+      "detail": "historical_event_and_asof_register.csv"
+    }
+  ],
+  "passed": 32,
+  "failed": 0,
+  "intraday": {
+    "ida_dates": 608,
+    "idct15_dates": 608,
+    "idct60_dates": 608,
+    "ida_rows": 175092,
+    "ida_numeric_pairs": 69,
+    "idct_occurrences": 3741324,
+    "idct15_occurrences": 2180829,
+    "idct60_occurrences": 1560495,
+    "idct_product_groups": 129792,
+    "errors": [],
+    "model_approved": false,
+    "asof_approved": false,
+    "complete_intraday_market_coverage": false,
+    "identity_policy": "source cell occurrence, no deduplication; no trade_id/trade_time provided",
+    "query_date_semantics": "IDCT raw caption states Trades concluded in; full delivery date remains unverified",
+    "extraction_control": "complete cell stream including loose td; independent rowspan and consumption controls"
+  },
+  "raw_successful_ids": 2084,
+  "raw_attempt_receipts": 2162,
+  "prior_files": 1662,
+  "whole_third_step_exit": false,
+  "model_approved": false,
+  "asof_approved": false,
+  "distinction": "PASS means this check executed successfully; real source anomalies and missing semantic/history proofs remain in closure ledger"
+}

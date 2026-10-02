@@ -1,0 +1,14 @@
+{
+  "id": "E36",
+  "title": "ENTSOE MARI roadmapFebruary2026",
+  "url": "https://www.entsoe.eu/documents/nc/NC%20EB/2026/MARI_Accession_Roadmap_FEB_2026.pdf",
+  "resolved_url": "https://www.entsoe.eu/documents/nc/NC%20EB/2026/MARI_Accession_Roadmap_FEB_2026.pdf",
+  "retrieved_utc": "2026-09-30T07:54:16.1482277Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E36\\original.pdf",
+  "bytes": 188735,
+  "sha256": "4eb2986eb4a6183b50ded1f7fb0b51ca1c5dc6d33e779627f1a5073d7874f5a4",
+  "extracted_characters": 5670
+}

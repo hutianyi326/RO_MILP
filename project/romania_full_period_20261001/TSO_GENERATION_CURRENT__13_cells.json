@@ -1,0 +1,1841 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      {
+        "column": 2,
+        "value": "Consum/Productie in data de",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": 46279.0,
+        "ctype": 3
+      }
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      {
+        "column": 1,
+        "value": "medii orare",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": "Consum",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": "Productie",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": "Carbune",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "Hidrocarb.",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": "Ape",
+        "ctype": 1
+      },
+      {
+        "column": 7,
+        "value": "Nucleara",
+        "ctype": 1
+      },
+      {
+        "column": 8,
+        "value": "Sold",
+        "ctype": 1
+      },
+      {
+        "column": 9,
+        "value": "Eoliana",
+        "ctype": 1
+      },
+      {
+        "column": 10,
+        "value": "Foto",
+        "ctype": 1
+      },
+      {
+        "column": 11,
+        "value": "Biocomb.",
+        "ctype": 1
+      },
+      {
+        "column": 12,
+        "value": "Stocare",
+        "ctype": 1
+      },
+      {
+        "column": 13,
+        "value": "frecventa",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      {
+        "column": 1,
+        "value": "01",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4774.805,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4474.7480000000005,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 707.578,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1318.545,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1240.603,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 300.057,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1162.007,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 45.417,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 0.598,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.007125473022455,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      {
+        "column": 1,
+        "value": "02",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4478.506,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4678.286,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 708.498,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1297.8500000000001,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1171.193,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -199.78,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1449.958,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 48.903,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 1.8840000000000001,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00208275900946,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      {
+        "column": 1,
+        "value": "03",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4486.216,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4716.131,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 727.4069999999999,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1285.52,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1144.722,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -229.91500000000005,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1496.1790000000003,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.552,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 14.751000000000001,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.000533854166655,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      {
+        "column": 1,
+        "value": "04",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4519.515,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4688.666,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 725.26,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1289.285,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1281.303,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -169.151,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1323.817,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 48.562000000000005,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 20.439,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.99882274839612,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      {
+        "column": 1,
+        "value": "05",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4608.7300000000005,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4691.479,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 714.128,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1283.478,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1205.057,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -82.74900000000001,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1435.221,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.058,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 4.537,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00000887129042,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      {
+        "column": 1,
+        "value": "06",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4770.996999999999,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4704.387,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 730.166,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1277.314,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1158.17,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 66.61,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1475.7419999999997,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.32899999999999,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 13.666000000000002,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.9965200000339,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      {
+        "column": 1,
+        "value": "07",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5132.417,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4817.289000000001,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 761.758,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1290.909,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1216.011,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 315.12800000000004,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1435.442,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.903,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 63.266000000000005,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.990946148766405,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      {
+        "column": 1,
+        "value": "08",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5666.522,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 5255.809,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 740.3,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1295.189,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1364.221,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 410.713,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1551.632,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 120.61,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 48.79600000000001,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 135.061,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.990032304128,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      {
+        "column": 1,
+        "value": "09",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5677.921,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6240.722000000001,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 713.05,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1291.819,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1388.255,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -562.801,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1578.761,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 902.7510000000001,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.808,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 316.278,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00314221700032,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      {
+        "column": 1,
+        "value": "10",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5433.936,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6560.834,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 626.1170000000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1169.204,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1093.707,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -1126.8980000000001,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1681.3929999999998,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 1791.355,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.527,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 149.531,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.01049715677897,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      {
+        "column": 1,
+        "value": "11",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4913.496000000001,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6488.592000000001,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 599.669,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1135.654,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 434.841,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -1575.096,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1858.9530000000002,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 2403.501,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 49.089000000000006,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 6.885000000000002,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.012724418640126,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      {
+        "column": 1,
+        "value": "12",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4643.146999999999,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6559.159,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 586.7620000000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1077.803,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 278.099,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -1916.0120000000002,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1920.0410000000002,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 2645.848,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.271,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 3.335,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.01234990649753,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      {
+        "column": 1,
+        "value": "13",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4424.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6502.555,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 637.123,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1107.722,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 268.39500000000004,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -2078.5550000000003,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1739.096,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 2675.062,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 46.804,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 28.353,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.99870614157782,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      {
+        "column": 1,
+        "value": "14",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4626.378,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6559.815,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 652.0600000000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1181.137,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 389.2050000000001,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -1933.4370000000001,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1575.0240000000003,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 2555.726,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.507000000000005,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 159.156,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00336776733398,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      {
+        "column": 1,
+        "value": "15",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 4967.895,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 6320.442,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 724.202,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1212.3790000000001,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 518.3340000000001,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -1352.547,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1359.3880000000001,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 2335.0950000000003,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 46.571000000000005,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 124.473,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00226613998413,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      {
+        "column": 1,
+        "value": "16",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5131.692999999999,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 5896.139999999999,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 684.0120000000002,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1228.336,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 778.6339999999999,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -764.447,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1207.459,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 1942.094,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.82899999999999,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 7.776,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00378882937961,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      {
+        "column": 1,
+        "value": "17",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5402.83,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 5707.294,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 682.974,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1204.165,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1290.5890000000002,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -304.464,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 872.681,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 1608.09,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.395,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.010458889007566,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      {
+        "column": 1,
+        "value": "18",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5730.958,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 5105.2339999999995,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 750.245,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1230.136,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1435.625,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 625.724,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 582.845,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 1054.188,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.152,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 5.043,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00022110197279,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      {
+        "column": 1,
+        "value": "19",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5991.721,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4473.063999999999,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 800.925,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1298.691,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1519.2580000000003,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1518.6570000000002,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 370.4460000000001,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 400.555,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.547000000000004,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 35.642,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.995558353000206,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      {
+        "column": 1,
+        "value": "20",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 6346.627,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4347.77,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 790.1110000000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1387.7830000000001,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1597.4229999999998,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1998.8570000000002,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 359.041,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 16.738,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.448,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 149.226,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.99538450876871,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      {
+        "column": 1,
+        "value": "21",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 6625.781999999999,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4868.656999999999,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 789.798,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1409.6429999999998,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1601.183,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1757.125,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 460.15,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 50.221000000000004,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 557.662,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 49.99079676098293,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      {
+        "column": 1,
+        "value": "22",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 6336.622000000001,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4842.788000000001,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 788.683,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1412.0440000000003,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1599.9880000000003,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1493.8339999999998,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 491.745,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 50.103,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 500.225,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.003551122877326,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      {
+        "column": 1,
+        "value": "23",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5806.756,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4413.613,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 788.1610000000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1400.55,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1522.2480000000003,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1393.1429999999998,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 554.909,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 47.757000000000005,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 99.988,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.00128359582689,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      {
+        "column": 1,
+        "value": "24",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5403.949,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 4224.112999999999,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 785.571,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1365.99,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1402.39,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": 1179.836,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 568.154,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 45.287,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 56.721000000000004,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.002306115892196,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 27,
+    "cells": []
+  },
+  {
+    "row": 28,
+    "cells": [
+      {
+        "column": 1,
+        "value": "00-24",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 5245.892458333333,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 5297.399458333333,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 717.2732500000001,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1268.79775,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1120.8105833333334,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": -51.507,
+        "ctype": 2
+      },
+      {
+        "column": 9,
+        "value": 1187.920166666667,
+        "ctype": 2
+      },
+      {
+        "column": 10,
+        "value": 852.1505416666668,
+        "ctype": 2
+      },
+      {
+        "column": 11,
+        "value": 48.11816666666667,
+        "ctype": 2
+      },
+      {
+        "column": 12,
+        "value": 102.32900000000001,
+        "ctype": 2
+      },
+      {
+        "column": 13,
+        "value": 50.001353132680606,
+        "ctype": 2
+      }
+    ]
+  }
+]

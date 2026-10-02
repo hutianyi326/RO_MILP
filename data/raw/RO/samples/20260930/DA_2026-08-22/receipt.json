@@ -1,0 +1,11 @@
+{
+  "id": "DA_2026-08-22",
+  "dataset": "D02",
+  "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/22/08/2026/en?resolution=15",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2026-08-22 native PT15",
+  "retrieved_utc": "2026-09-30T09:26:36.784111+00:00",
+  "status": "FAILED",
+  "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+}

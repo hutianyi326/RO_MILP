@@ -1,0 +1,14 @@
+{
+  "id": "STS_DOC_3",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/19000714/CONTRACT+RSF+2024++EX+Participant/cf74af85-cebe-487a-9b47-3874b4762a6f",
+  "title": "Contract de furnizare a rezervei pentru stabilizarea frecvenţei, exemplar participant",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:11.713347+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "IncompleteRead: IncompleteRead(512304 bytes read, 21712 more expected)"
+}

@@ -1,0 +1,6 @@
+[
+ {"id":"CAP_FCR_488_2026","dataset":"D05","url":"https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=488_2026","scope":"observed official public-page backing GET; FCR delivery 2026-08-31"},
+ {"id":"CAP_FRR_484_2026","dataset":"D05","url":"https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=484_2026","scope":"observed official tender id for FRR delivery 2026-08-31"},
+ {"id":"CAP_META","dataset":"D05","url":"https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=tenderStatistics","scope":"observed public report field metadata"},
+ {"id":"CAP_LIST_2026-08-31","dataset":"D05","url":"https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-08-30T21%3A00%3A00.000Z&timeInterval.to=2026-08-31T21%3A00%3A00.000Z&pageInfo.pageSize=3000","scope":"exact GET observed after UI historical filter"}
+]

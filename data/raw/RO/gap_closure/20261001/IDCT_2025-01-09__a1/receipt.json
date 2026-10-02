@@ -1,0 +1,23 @@
+{
+  "id": "IDCT_2025-01-09",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "01/09/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2025-01-09",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:03:50.856163+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_2025-01-09__a1/form_original.html",
+  "form_sha256": "c47020f9612a728e1414d30728aa176ae958a68ab921cf4a888843c1de9675de",
+  "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+}

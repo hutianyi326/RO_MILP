@@ -1,0 +1,14 @@
+{
+  "id": "E09",
+  "url": "https://anre.ro/participanti-la-piata-de-energie/persoane-juridice/energie-electrica/",
+  "title": "ANRE legislation index",
+  "resolved_url": null,
+  "retrieved_utc": "2026-09-30T07:44:31.7643824Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E09\\original.html",
+  "bytes": 469900,
+  "sha256": "f1db8255d26b966a4df5354e8ff14eea5243d3b44a5178b91712fc13560c4de3",
+  "extracted_characters": 150883
+}

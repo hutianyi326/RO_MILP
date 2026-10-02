@@ -1,0 +1,16 @@
+[
+  {
+    "id": "FX_CALENDAR_2025",
+    "dataset": "D14",
+    "url": "https://www.opcom.ro/uploads/doc/PZU/Calendar introducere rata de schimb 2025_PZU_Ro.pdf",
+    "title": "Calendar introducere rata de schimb 2025",
+    "scope": "official calendar; application delivery date distinct from BNR fixing date"
+  },
+  {
+    "id": "FX_CALENDAR_2026",
+    "dataset": "D14",
+    "url": "https://www.opcom.ro/uploads/doc/PZU/Calendar introducere rata de schimb 2026_PZU_Ro.pdf",
+    "title": "Calendar introducere rata de schimb 2026",
+    "scope": "official calendar; application delivery date distinct from BNR fixing date"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "E10",
+  "url": "https://www.entsoe.eu/network_codes/eb/picasso/",
+  "title": "PICASSO project",
+  "resolved_url": "https://www.entsoe.eu/network_codes/eb/picasso/",
+  "retrieved_utc": "2026-09-30T07:41:46.366884+00:00",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E10\\original.html",
+  "bytes": 51465,
+  "sha256": "08bc13178690d5e13c2337debb1695390073075aac042de75192bb677399dd3f",
+  "extracted_characters": 7760
+}

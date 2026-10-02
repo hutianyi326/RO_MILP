@@ -1,0 +1,19 @@
+{
+  "id": "OPCOM_DAM_FX_HISTORY_PAGE",
+  "dataset": "D14",
+  "url": "https://www.opcom.ro/tranzactii-produse/ro/1",
+  "title": "OPCOM Despre PZU; BNR application calendar and price scale",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:20:51.266547+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/tranzactii-produse/ro/1",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_DAM_FX_HISTORY_PAGE__a1/original.html",
+  "sha256": "a785a5229e4c6b34ccbdd7dbd0d0438170ba46886f37e69cfac4f4a7ff18b70b",
+  "bytes": 56586,
+  "detected_format": "html"
+}

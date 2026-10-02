@@ -1,0 +1,89 @@
+=== PDF PAGE 1 ===
+ 
+1 
+ 
+ 
+mFRR-Platform Accession roadmap  
+  
+Version  Description  Date  
+V14 13th Update of Accession Roadmap  01/10/2025 
+  
+According to Implementation Framework for a European platform for the exchange of balancing energy from 
+frequency restoration reserves with manual activation (mFRRIF), Article 5, Paragraph 4 (b) member TSOs 
+shall develop accession roadmap within three months after approval of mFRRIF (date of approval 24/1/2020)   
+  
+The accession of member TSOs to mFRR -Platform (MARI) is planned in accordance with the following 
+accession roadmap. MARI member TSOs and ENTSO -E share this accession roadmap for informative 
+purposes only and does not, in any case, represent a firm, binding or definitive position of MARI on the content. 
+The content is subject to change as the implementation progresses and new information becomes available. 
+In particular, feasibility of the present accession roadmap may depend on final detailed accession plan ning 
+and possible operational and/or technical constraints that would result in the maximum number of parallel 
+accessions. 
+ 
+This accession roadmap will be updated at least twice a year to give stakeholders current information on the 
+development.  
+Explanatory notes  
+Member TSOs below include an explanation for all aspects in the accession roadmap according to the 
+mFRRIF:  
+5.4.(b)(i) the adaptation and implementation of terms and conditions for BSPs by each member TSO  
+- Member TSOs deemed relevant to split the development of T&C and their entry into force to provide 
+clarity to stakeholders. Entry into force of T&C in some TSOs does not have to be adherent to the 
+connection and Go-live of such TSOs in mFRR-Platform. In practice, the updated T&C may be applied 
+in advance.  
+5.4.(b)(ii) the development of the functions of the mFRR-Platform  
+- Member TSOs provide further detail by splitting this point into the Activation Optimization Function (AOF) 
+development and the TSO-TSO Settlement Function development.  
+5.4.(b)(iii) the interoperability tests between each TSO and the mFRR-Platform  
+- The interoperability tests between each TSO and the mFRR-Platform (end-to-end integration tests) start 
+as soon as part of the platform and TSOs are ready and finish by the Go-Live.  
+5.4.(b)(iv) the operational tests  
+- The operational tests provide a period for the TSOs to get acquainted with the new operational paradigm.  
+5.4.(b)(v) the connection of each TSO to the mFRR-Platform  
+- The connection of a TSO to the mFRR -Platform indicates the effective TSO business Go -Live after 
+successful performance of the interoperability and operational test.  
+5.4.(b)(vi) making the mFRR-Platform operational  
+- Member TSOs see as one part of this aspect testing of the mFRR -Platform functions and another part 
+of the act of making the mFRR-Platform Go-live itself. That is why it was split in the accession roadmap 
+to give stakeholders better overview. The legal deadline for the Go-Live is set to 24/7/2022.  
+5.4.(b)(vii) the connection of all TSOs that have been granted a derogation by their respective 
+regulatory authorities in accordance with Article 62 of EB Regulation  
+- TSOs have the possibility to request a derogation to their respective authorities – in the roadmap TSOs 
+that are considering such option or already did request are marked in the accession roadmap.  
+ 
+  
+ 
+ 
+
+=== PDF PAGE 2 ===
+ 
+ 
+ 
+1 IPTO - Due to implementation difficulties, it is expected that IPTO will be able to connect to the mFRR-platform within 
+2026. The Greek NRA is already informed.  
+2 The Nordic TSOs have focused on establishing the Nordic mFRR platform (go-live 4 March 2025) before connecting 
+to the European platforms, which, along with challenges in IT development, mean that the planned accession to MARI is 
+delayed. An updated Nordic roadmap will be published on https://nordicbalancingmodel.net/roadmap-and-projects/ 
+3 MAVIR - In order to meet the legal requirements, MAVIR not only has to procure and implement major IT system and 
+business process upgrades but also has to introduce completely new ones as well - including but not limited to its market 
+operation and planning system and settlement system – which takes more time than originally estimated. Additionally 
+MAVIR needs to provide sufficient time for local BSPs to prepare and implement the necessary changes on their side. 
+The Hungarian NRA requests an updated status from MAVIR every half year.  
+4 PSE - Sequential approach to implementation of balancing platforms (PICASSO followed by MARI) adopted in order to 
+mitigate risks and limitations of available resources. Necessity to incorporate EBGL requirements into internal market 
+rules. PSE preliminary expect to connect to the platform in September 2026.  
+5 RTE was granted a derogation by the French NRA until 24/07/24. However, at least one additional year will be required 
+for RTE to connect to the MARI platform in order to ensure the operational security of the French electrical system. RTE 
+has been sharing its ATC since 18/07/24. 
+6 TenneT NL aims for go-live with the MARI platform by December 2025 and has received a derogation until 24-07-
+2024. The reason for delay relates to several IT bottlenecks.  
+7 Swissgrid the technical readiness of Swissgrid has been acknowledged. The participation of Switzerland in the mFRR-
+Platform is regulated based on article 1.6 and 1.7 of the EB Regulation and currently the subject of litigation by Swissgrid 
+at the Court of Justice of the European Union.  
+8 Transelectrica derogation granted 24.07.2024. The local IT systems have been changed on 1st July 2024. Currently 
+work is still being done to ensure stability of BM system and we are still implementing many updates due to the new 
+internal regulations for the local BM. The connection of Transelectrica will be completed when the technical conditions of 
+the local systems and the conditions for paticipation to the European mFRR market (connected mode) will be fulfilled. 
+9 ELES has postponed the accession to Q2 2026 due to technical reasons.  
+10 HOPS Accession has been postponed due to technical conditions (delay in local IT project implementation) and 
+communicated with local NRA. 
+ 

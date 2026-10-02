@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_16",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Pre%C8%9Bul+reglementat+pentru+energia+electric%C4%83%20reactiv%C4%83/c0c94678-037a-4a88-9258-3b6e3b02ba83",
+  "title": "Tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport (TG), aplicabil de la 1 ianuarie 2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:01.162777+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Pre%C8%9Bul+reglementat+pentru+energia+electric%C4%83%20reactiv%C4%83/c0c94678-037a-4a88-9258-3b6e3b02ba83",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_16__a1/original.pdf",
+  "sha256": "50252c41d3af02b3f3f50ced2dd469fc070c285b11294a75c180e0ed7dd1cd62",
+  "bytes": 198817,
+  "detected_format": "pdf"
+}

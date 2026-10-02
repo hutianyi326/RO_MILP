@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_ANNUAL2024",
+  "dataset": "D10",
+  "url": "https://anre.ro/wp-content/uploads/2025/12/Raport-anual-ANRE-2024.pdf",
+  "title": "Raport anual ANRE 2024",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:20.930837+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2025/12/Raport-anual-ANRE-2024.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_ANNUAL2024__a1/original.pdf",
+  "sha256": "84eed4a00d78a9548991c0165ff21efd1f5acaa19900b159acebf04ddd9554ea",
+  "bytes": 13374707,
+  "detected_format": "pdf"
+}

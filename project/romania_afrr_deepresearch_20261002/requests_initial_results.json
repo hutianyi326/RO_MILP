@@ -1,0 +1,103 @@
+[
+  {
+    "id": "marginalPricesOverview_2025-08",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "scope": "2025-08 Europe/Bucharest; expected 2976 PT15M rows",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:40.681490+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-08",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "scope": "2025-08 Europe/Bucharest; expected 2976 PT15M rows",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:40.657749+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "marginalPricesOverview_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:40.699056+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:46.739445+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "tenderStatistics_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=tenderStatistics",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:46.740444+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "DAMAS_PUBLIC_HOME",
+    "url": "https://newmarkets.transelectrica.ro/",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:46.759055+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "TSO_STS_INFO",
+    "url": "https://www.transelectrica.ro/web/tel/295",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:52.837695+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "TSO_BIDDING_GUIDE",
+    "url": "https://www.transelectrica.ro/web/tel/despre-noi1",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:52.838707+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "RO_REG_127",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282874",
+    "attempt": 3,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:10:53.093160+00:00",
+    "status": "FAILED",
+    "publication_time": null,
+    "revision_time": null,
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  }
+]

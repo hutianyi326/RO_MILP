@@ -1,0 +1,17 @@
+{
+  "id": "ECB_API_DOC",
+  "dataset": "D14",
+  "url": "https://data.ecb.europa.eu/help/api/data-examples",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official SDMX API documentation",
+  "retrieved_utc": "2026-09-30T09:34:18.1205784Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/ECB_API_DOC/original.html",
+  "bytes": 63909,
+  "sha256": "1ba0c5b21a74e6acbd05b37e79f48f7a8eefde345ec2ec15397b04bc56f827a8"
+}

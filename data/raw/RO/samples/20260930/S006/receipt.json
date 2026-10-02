@@ -1,0 +1,17 @@
+{
+  "id": "S006",
+  "dataset": "D08-D11-D16",
+  "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official generation/load current display and historical route",
+  "retrieved_utc": "2026-09-30T09:16:36.7228789Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S006/original.html",
+  "bytes": 56700,
+  "sha256": "028d35a9c9e8129ef9ac4c7976f32988a8e2d592986a7ec45eae32a06fc6f015"
+}

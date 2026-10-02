@@ -1,0 +1,20 @@
+{
+  "id": "ENTSO_HELP_ENDPOINT",
+  "url": "https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint",
+  "dataset": "D11",
+  "title": "ENTSO-E official API guidance read-only recheck",
+  "scope": "verify actual response format; no API/token/account actions",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T14:09:30.628223+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint",
+  "content_type": "text/html; charset=utf-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ENTSO_HELP_ENDPOINT__a1/original.html",
+  "sha256": "853431988883c81b3bdd58c5c872c8c861eab8cd8fa29d00918609fcd58b772c",
+  "bytes": 25750,
+  "detected_format": "html"
+}

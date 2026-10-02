@@ -1,0 +1,81 @@
+[
+  {
+    "id": "DA_2025-01-04_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/04/01/2025/en?resolution=60",
+    "scope": "2025-01-04 native PT60 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-01-14_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/14/01/2025/en?resolution=60",
+    "scope": "2025-01-14 native PT60 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-01-16_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/16/01/2025/en?resolution=60",
+    "scope": "2025-01-16 native PT60 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-01-25_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/25/01/2025/en?resolution=60",
+    "scope": "2025-01-25 native PT60 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-10-10_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/10/10/2025/en?resolution=15",
+    "scope": "2025-10-10 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-10-11_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/11/10/2025/en?resolution=15",
+    "scope": "2025-10-11 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2025-10-27_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/27/10/2025/en?resolution=15",
+    "scope": "2025-10-27 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2026-08-04_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/04/08/2026/en?resolution=15",
+    "scope": "2026-08-04 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2026-08-08_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/08/08/2026/en?resolution=15",
+    "scope": "2026-08-08 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2026-08-22_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/22/08/2026/en?resolution=15",
+    "scope": "2026-08-22 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "DA_2026-08-24_R1",
+    "dataset": "D02",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/24/08/2026/en?resolution=15",
+    "scope": "2026-08-24 native PT15 retry alternative HTTP client; immutable failure retained"
+  },
+  {
+    "id": "IDCT_2026-08-31_PT15_R1",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "scope": "2026-08-31 PT15 retry",
+    "body": {
+      "ziua_eng": "08/31/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "15"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "E51",
+    "title": "ANRE Order80/2025 final PDF",
+    "url": "https://anre.ro/wp-content/uploads/2025/12/Ordin-80-2025.pdf",
+    "resolved_url": "https://anre.ro/wp-content/uploads/2025/12/Ordin-80-2025.pdf",
+    "retrieved_utc": "2026-09-30T08:01:58.2123230Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E51\\original.pdf",
+    "bytes": 2134877,
+    "sha256": "431a4f785c359ebf81692bacf3807d2f1fdda8691b0e09ad4eed278bedc8d406",
+    "extracted_characters": 40
+  },
+  {
+    "id": "E54",
+    "title": "ANRE Order127/2021 alternative PDF",
+    "url": "https://anre.ro/wp-content/uploads/2023/04/Ord_127_2021.pdf",
+    "resolved_url": "https://anre.ro/wp-content/uploads/2023/04/Ord_127_2021.pdf",
+    "retrieved_utc": "2026-09-30T08:02:41.3338259Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E54\\original.pdf",
+    "bytes": 11766467,
+    "sha256": "315273b92a472373a8ddd9d425ba9498960f41774b1b07de0b85bf6fd98c91b6",
+    "extracted_characters": 891
+  }
+]

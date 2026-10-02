@@ -1,0 +1,11 @@
+{
+  "id": "FINAL_PRICE_PROBE_2026-08-31",
+  "dataset": "D07",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/finalImbalancePrices?timeInterval.from=2026-08-30T21%3A00%3A00.000Z&timeInterval.to=2026-08-31T21%3A00%3A00.000Z&pageInfo.pageSize=3000",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "one focused public-route inference from visible finalImbalancePrices page; UI dependency failure; verify response before further sampling",
+  "retrieved_utc": "2026-09-30T09:40:32.6550115Z",
+  "status": "FAILED",
+  "error": "Response status code does not indicate success: 404 (Not Found)."
+}

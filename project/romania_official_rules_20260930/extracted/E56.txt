@@ -1,0 +1,4004 @@
+=== PDF PAGE 1 ===
+                                                                                                                                                                                                                                                                                                                                         
+        
+Str. Constantin Nacu, nr. 3, Sector 2, Bucureşti, Cod poştal: 020995 
+Tel: (021) 327 8100. Fax: (021) 312 4365. E-mail: anre@anre.ro. Web: www.anre.ro 
+ANRE în calitate de operator de date cu caracter personal, respectă prevederile Regulamentului UE nr.679/2016 și 
+reglementările interne în vigoare în materia protecției datelor cu caracter personal 
+ 
+ 
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI 
+                                        DIRECȚIA MONITORIZARE PIAȚĂ ȘI INVESTIGAȚII 
+  
+ȘI MONITORIZARE  
+ 
+ 
+ 
+ 
+……….. 
+ 
+ 
+și 
+ 
+      
+ 
+ 
+ 
+ 
+                                                                                                                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAPORT PRIVIND REZULTATELE MONITORIZĂRII  
+PIEŢEI DE ENERGIE ELECTRICĂ  
+ÎN LUNA DECEMBRIE 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANRE depune toate eforturile pentru a prezenta în mod cât mai clar, în acest document, informaţii bazate pe raportările opera torilor economici. 
+Acest document publicat de ANRE are numai scop informativ şi educaţional; ANRE  nu este şi nu va fi legal responsabilă, în nicio circumstanţă, 
+pentru eventualele inadvertenţe cu privire la informaţiile prezentate şi nici pentru folosirea improprie a acestora de către utilizatori. 
+
+=== PDF PAGE 2 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 2 
+ 
+ 
+ 
+ 
+CUPRINS 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE ELECTRICĂ DIN 
+ROMÂNIA .................................................................................................................................... 3 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ ................................................................ 4 
+1. Participanţii la piaţa angro de energie electrică ........................................................................................... 5 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de producătorii 
+monitorizați............................................................................................................................................................. 6 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică .......................................................................... 9 
+4. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale  ......................... 32 
+5. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică ................................................................ 35 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ ............................................ 41 
+1. Participanții la piața cu amănuntul de energie electrică............................................................................ 42 
+2. Numărul de clienți finali ............................................................................................................................. 43 
+3. Consumul de energie electrică al clienților finali ....................................................................................... 44 
+4. Prețuri medii de furnizare la clienții finali ................................................................................................. 48 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică ...................................................... 51 
+IV. STRUCTURA PE TIPURI DE SURSE PRIMARE DE ENERGIE A PRODUCȚIEI 
+DE ENERGIE ELECTRICĂ DIN ROMÂNIA ȘI VALORILE INDICATORILOR DE 
+MEDIU ASOCIAȚI ENERGIEI ELECTRICE PRODUSE LA NIVEL NAȚIONAL, 
+PENTRU FIECARE TIP DE SURSĂ PRIMARĂ .................................................................. 58 
+ 
+ 
+ 
+  
+ 
+
+=== PDF PAGE 3 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 3 
+ 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE ELECTRICĂ DIN 
+ROMÂNIA 
+Piața de energie electrică funcționează conform regulilor instituite prin legislația primară, 
+în principal Legea energiei electrice şi a gazelor naturale nr. 123/2012 , cu modificările și 
+completările ulterioare ( Legea), prin regulamentele europene  ca acte de directă aplicabilitate  și 
+prin cadrul de reglementare elaborat de ANRE. 
+ANRE monitorizează funcţionarea pieţei angro și a pieței cu  amănuntul de energie 
+electrică în vederea evaluării nivelului de eficienţă, transparenţă şi concurenţă, în temeiul OUG 
+nr. 33/2007 privind organizarea și funcționarea ANRE, aprobată cu modificări și completări prin 
+Legea nr. 160/2012 , cu modificările şi completările ulterioare. Monitorizarea  pieței de energie 
+electrică se realizează pe bază de reglementări proprii, respectiv M etodologia de monitorizare a 
+pieţei angro de energie electrică (Metodologia PAN), aprobată prin Ordinul preşedintelui ANRE 
+nr. 18/2023 , și Metodologia de monitorizare a pieţei cu amănuntul de energie electrică  
+(Metodologia PAM), aprobată prin Ordinul preşedintelui ANRE nr. 17/2023. Participanţii la piaţa 
+de energie electrică raportează lunar către ANRE date de tranzacționare specifice pieței angro de 
+energie electrică și, după caz, date tehnice și informații specifice pieței cu amănuntul de energie 
+electrică, potrivit prevederilor din cele două metodologii de monitorizare.  
+Din perspectiva activității desfășurate pe fiecare din componentele pieței de energie 
+electrică, categoriile de participanți cu obligații de raportare sunt producătorii din surse clasice și 
+regenerabile monitorizați în temeiul Metodologiei PAN în vigoare, entitățile agregate și 
+agregatorii pentru producere și/sau pentru consum comandabil, operatorii instalațiilor de stocare, 
+furnizorii și traderii de energie electrică, părțile responsabile cu echilibrarea, operatorul de 
+transport și sistem și operatorii de distribuție concesionari (pentru energia electrică necesară 
+acoperirii consumului propriu tehnologic în rețelele de transport și de distribuție). Datele lunare 
+raportate de participanți sunt corelate cu datele și informațiile de tranzacționare transmise de 
+operatorii pieței de energie electrică, operatorul de transport și sistem și operatorii de distribuție 
+concesionari. 
+Raportul lunar de monitorizare a pieței de energie electrică prezintă, în sinteză , 
+rezultatele activității de monitorizare la nivelul lunii analizate, dar și comparativ cu alte perioade, 
+prin intermediul unor indicatori agregați ce caracterizează componentele pieței angro și a pieței 
+cu amănuntul de energie electrică din punct de vedere al structurii și funcționării acestora.  
+  
+
+=== PDF PAGE 4 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 4 
+ 
+ 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ 
+În conformitate cu prevederile legale, pe piața angro de energie electrică se derulează 
+tranzacții cu energie electrică în urma desfășurării de licitații pe piețele organizate aflate în 
+administrarea operatorilor pieței de energie electrică, tranzacții cu energie electrică pe bază de 
+contracte bilaterale negociate direct și tranzacții de import și de export al energiei electrice. 
+Dimensiunea pieţei angro de energie electrică este dată de totalitatea tranzacţiilor realizate 
+de participanţii la piață, în care sunt incluse și revânzările realizate în scopul ajustării poziţiei 
+contractuale sau obţinerii de beneficii financiare, depăşin d în acest fel cantitatea de energie 
+electrică transmisă fizic de la producere la consum.  
+În prezent, titulari ai unei licențe pentru activitatea operatorului pieței de energie electrică 
+în conformitate cu prevederile Legii sunt:  
+❖ din decembrie 2001, societatea Operatorul Pieței de Energie Electrică și de Gaze 
+Naturale “OPCOM” SA (denumită în continuare OPCOM) și  
+❖ din martie 2022, societatea Bursa Română de Mărfuri (Romanian Commodities 
+Exchange) SA (denumită în continuare BRM). 
+Piețele organizate aflate în administrarea OPCOM sunt piețele centralizate de contracte la 
+termen: modalitatea de tranzacționare prin licitație extinsă şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării (PCCB -LE-flex), modalitatea de t ranzacționare a contractelor prin 
+negociere continuă (PCCB -NC), cadrul organizat de tranzacţionare pe piața centralizată cu 
+negociere dublă continuă (PC -OTC), modalitatea de încheiere a contractelor de procesare a 
+combustibilului (PCCB-PC), piaţa de energi e electrică pentru clienţii finali mari (PMC), piaţa 
+centralizată pentru serviciul universal (PCSU), piaţa centralizată pentru energie electrică din surse 
+regenerabile susţinută prin certificate verzi (PCE -ESRE-CV), piața centralizată destinată 
+atribuirii contractelor de energie electrică pentru perioade lungi de livrare (PCTL).  
+De asemenea, OPCOM are calitatea de operator al pieței de energie electrică desemnat 
+(OPEED) pentru Piaţa pentru ziua următoare (PZU), care din iunie 2021 funcționează în 
+mecanism cuplat în proiectul european SDAC și din iunie 2022 prin cuplare pe bază de fluxuri 
+precum și pentru Piaţa intrazilnică (PI), care din noiembrie 2019 funcționează în regim cuplat cu 
+piețele din celelalte țări participante în proiectul european SIDC. Începând cu data de 13 iunie 
+2024, în conformitate cu Decizia ACER 01-2019 privind stabilirea unei metodologii de prețuri a 
+capacității intrazilnice transfrontaliere, OPCOM a lansat tranzacționarea prin licitație pe PI (IDA). 
+BRM organizează și administrează următoarele piețe centralizate de contracte la termen: 
+Piața Marilor Consumatori (PMC), Piața Contractelor la termen de energie electrică  (PCT) și 
+Piața de energie electrică OTC. 
+Prin decizia ANRE nr. 1739 din 04.07.2023, BRM a primit calitatea de operator al pieței 
+de energie electrică desemnat (OPEED) pentru o peri oadă de 4 ani pentru Piața cuplată pentru 
+ziua următoare (PZU), care a devenit operațională începând cu 19 noiembrie 2024, și pentru Piața 
+cuplată intrazilnică (PI), operațională din data de 22 mai 2024 și din data de 05 august 2025 pentru 
+mecanismul de tranzacționare prin licitație (IDA). 
+ 
+
+=== PDF PAGE 5 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 5 
+ 
+1. Participanţii la piaţa angro de energie electrică 
+În tabelul următor sunt prezentați p articipanţii la piaţa angro de energie electrică activi* 
+în luna decembrie 2025 alături de operatorii pieței de energie electrică: 
+ 
+*Participanții activi sunt participanți la piață, în sensul art. 7 din Metodologia de monitorizare a pieței 
+angro de energie electrică , aprobată prin Ordinul președintelui ANRE nr. 18/2023 , care în luna de 
+raportare au desfășurat activitate pe piața angro de energie electrică. 
+1 A6 Impex SA 92 Entel SA 183 Plenerg SRL
+2 Adrem Asset Management SRL 93 Entrex Services SRL 184 Power Peak Trading SRL
+3 Aenro Energy Holding SRL 94 Eol Energy SRL 185 Power Regenerabil Energy SRL
+4 Ahura Energy SRL 95 Eolian Project SRL 186 Powerhouse Trading SRL
+5 Alegfurnizorul Consulting SRL 96 EP Furnizare SRL 187 PPC Energie SA
+6 Alive Capital SA 97 EPP Power Trading SRL 188 PPC Renewables Romania SRL
+7 Alive Sun Power One SRL 98 Espe Energia SRL 189 PPC Trading SRL
+8 Alive Wind Power One SRL 99 Eviva Nalbant SRL 190 Prefab SA
+9 Alizeu Eolian SA 100 Eye Mall SRL 191 Premier Energy Furnizare SA
+10 Alpha Project Tehnology SA 101 FEH Energy SRL 192 Premier Wind  80 SRL
+11 Alro SA 102 Fenova AB 193 RAAL SA
+12 AMV Solar SRL 103 Fin Energy SRL 194 Rătești Solar Plant SRL
+13 Anchor Grup SA 104 Fort Green Energy SRL 195 Renewa Power SRL
+14 AOT Energy SRL 105 Freepoint Commodities Europe 196 Renovatio Trading SRL
+15 Arvi Invest RO SRL 106 Fundpole Capital SRL 197 Repsan Energy SRL
+16 Auchan Renewable Energy SRL 107 Future PV SRL 198 Rețele Electrice România SA
+17 Axpo Energy Romania SRL 108 Galicsud SRL 199 Rig Biomass SRL
+18 Azomures SA 109 Gamma Solar Project SRL 200 Rodina Energy Distribution SRL
+19 Baba Ana Solar Green Energy SRL 110 Gan Energy SRL 201 Romelectro Bucuresti SA
+20 Bepco SRL 111 General Energetic SA 202 Romenergy Trading SRL
+21 Best Energy SRL 112 Gen-I Bucharest - Electricity Trading And Sale SRL 203 Romkumulo SRL
+22 Bioenergy Suceava SRL 113 Ges Furnizare SRL 204 Rompetrol Energy SA
+23 Blue Line Energy SRL 114 Getica 95 COM SRL 205 Romuk Energy SRL
+24 Blue Planet Investments SRL 115 Glodeni Energy SRL 206 Rulmenti SA
+25 Blue Sand Investment SRL 116 Glodeni Solar SRL 207 SERG Company SRL
+26 Borzești Power SRL 117 Glyptodon SRL 208 Shikun and Binui Energy Satu Mare SRL
+27 Braila Winds SRL 118 GPSB Solaris 48 SRL 209 SIX Wings SRL
+28 Caracal Solar Alpha SRL 119 Green Vision Seven SRL 210 Skybase Energy SRL
+29 Casa Crang SRL 120 Grenerg SRL 211 Smart Power Generation Alfa SRL
+30 Casori SRL 121 Ground Investment Corp SRL 212 SN Nuclearelectrica SA
+31 Catalan Electric SRL 122 Harghita Energy Broker SRL 213 SNGN Romgaz SA
+32 CET Govora SA 123 Heliolux SRL 214 Societatea Complexul Energetic Valea Jiului SA
+33 Chimcomplex Borzești SA 124 Helpvolt Instal SRL 215 Societatea de Administrare a Participațiilor în Energie SA
+34 Clue Solar SRL 125 Hermes Energy International SRL 216 Societatea Electrocentrale Craiova SA
+35 Comcris Energy SRL 126 Horia Solar Invest One SRL 217 Societatea Energetica Electrica SA
+36 CNTEE Transelectrica SA 127 HS Timber Productions Reci SRL 218 Solar Electric Frasinet SRL
+37 Compania Locala de Termoficare COLTERM SA 128 HS Timber Productions SRL 219 Solar Future Energy SRL
+38 Complexul Energetic Oltenia SA 129 ICCO Energ SRL 220 Solar Renewable SRL
+39 Conti Green Project SRL 130 ICD Octagon  Development SRL 221 Solar System Project SRL
+40 Contour Global Solutions SRL 131 ICPE Electrocond Technologies SA 222 Solaria Green Energy SRL
+41 Cooperativadeenergie Furnizare SRL 132 Ingka Investiments Renewable Energy Romania SRL 223 Solprim SRL
+42 Corni Eolian SRL 133 International Solar Energy SRL 224 Spectrade SRL
+43 Cotroceni Park SA 134 ISPH SA 225 Spectrum Tech SRL
+44 Crest Energy SRL 135 JRD Solar SRL 226 SPEEH Hidroelectrica SA
+45 D.Trading D.O.O. 136 Kelavent Charlie SRL 227 Standard Grup 4 Term SRL
+46 Dacia Energy Solutions SRL 137 Kelavent Echo SRL 228 Stock Energy SRL
+47 Danske Commodities A/S 138 Kentax Energy SRL 229 Sun Challenge SRL
+48 Delgaz Grid SA 139 Ker Toki Power AD 230 Sun Energy Complet SA
+49 DIGI Romania SA 140 Kompact Grid SRL- Agregator 231 Teiuș Solar SRL
+50 Dinergy Power SRL 141 Land Power SRL 232 Termo Ploiesti SRL
+51 Distribuție Energie Electrică România SA 142 Lemar Grup SRL 233 Termoficare Oradea SA
+52 Distribuție Energie Oltenia SA 143 Liberty Galați SA 234 Terravis Studio SRL
+53 E.ON Energie Romania SA 144 LJG Green Source Energy Alpha SA 235 Thermoenergy Group SA
+54 East Wind Farm SRL 145 LJG Green Source Energy Beta SRL 236 Three Pharm SRL
+55 Eco Power Wind SRL 146 LJG Green Source Energy Gamma SRL 237 Tinmar Energy SA
+56 Eco Voltaic SRL 147 Luxten Lighting Company SA 238 Tinmar Green Energy SRL
+57 Ecoenergia SRL 148 Mar-Tin Solar Energy SRL 239 TMK Hydroenergy Power SRL
+58 Ecosfer Energy SRL 149 Mazarine Energy Romania SRL 240 Tomis Team SRL
+59 EDPR Romania SRL 150 Megalodon Storage SRL 241 Transenergo Microhidro SRL
+60 EFT Furnizare SRL 151 MET Austria Energy Trade 242 True Energy Management SRL
+61 EFT Power SRL 152 MET Romania Energy SA 243 Uzinsider General Contractor SA
+62 EGGER Romania SRL 153 Metlen Energy & Metals SA 244 Varokub Energy Development SRL
+63 E-Infra SA 154 MHC Water Power 245 Vatech Consulting SRL
+64 Ela Energy PH SRL 155 Midori Solutions SRL 246 Veolia România Soluții Integrate SA 
+65 Elcata MHC SRL 156 Mira Green Planet SRL 247 Verbund Wind Power Romania SRL
+66 Electric Planners SRL 157 Mireasa Energies SRL 248 Veroniki Wind SRL
+67 Electrica Furnizare SA 158 Modern Calor SA 249 Vest Energo SA
+68 Electricom SA 159 Moldova Eolian SRL 250 Vienna Energy Forta Naturala SRL
+69 Electrificare CFR SA 160 Monsson SRL 251 Vimetco Management Romania SRL
+70 Electro Energy Sud SRL 161 Monsson Trading SRL 252 VIS Solaris 2011 SRL
+71 Electrocarbon SA 162 Montana Solar Energy SRL 253 Vitol Gas and Power B.V.
+72 Electrocentrale Bucureşti SA 163 Municipiul Iași SA 254 Vivenergy SRL
+73 Electrogrup SA 164 MVM Future Energy Technology 255 VM-Trade Energy SRL
+74 Elektra Green Power SRL 165 MVM Partner Energiakereskedelmi Zartkoruen Mukodo Reszvenytarsasag 256 Volt Energy Development SRL
+75 Elektra Wind Power SRL 166 Neptun SA 257 Voltika SRL
+76 Elnet Energy SRL 167 New Energy Management SRL 258 Vrancart SA
+77 Elsid SA 168 Next Energy Parteners SRL 259 Vrish Pro Investments SRL
+78 EM Power SRL 169 Nexte Renewable SRL 260 Warehouses De Pauw Romania SRL
+79 Encon Prime SRL 170 Nicolae Balcescu Regenerabile SRL 261 We Power Team SRL
+80 Energia Verde Ventuno SRL 171 Nova H SRL 262 Werk Energy SRL
+81 Energocom SA 172 Nova Power&Gas SRL 263 Wind Energy Service East Europe SRL
+82 Energovia EOOD 173 Nova PS 110 SRL 264 Wind Park Invest SRL
+83 Energy Core Development SRL 174 NOVA PS 170 SRL 265 Windfarm MV I SRL
+84 Energy Distribution Services SRL 175 NOVA PS 90 SRL 266 Xalandine Energy SRL
+85 Energy Gate  SRL 176 NRX Wind SRL 267 XPV SRL
+86 Energy Innovative Solutions 177 OLT Piess SRL 268 Yar Power SRL
+87 Energy Tech Entera SRL 178 OMV Petrom SA 269 ZG Timber Sebes SRL
+88 Enery Optimizarea Portofoliului 179 Optimize Power SRL OPERATORI PIAȚA ENERGIE ELECTRICĂ
+89 Enevo Power SRL 180 Ovidiu Development SRL 1 BRM SA
+90 Enex Nalbant Renewable SRL  181 Petrotel-Lukoil SA 2 OPCOM SA
+91 Engie România SA 182 Photovoltaic Green Project SRL
+A PARTICIPANTI ACTIVI 
+PE PIATA ANGRO DE ENERGIE ELECTRICA
+
+=== PDF PAGE 6 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 6 
+ 
+Precizăm că în categoria producătorilor de energie electrică monitorizați în baza 
+Metodologiei PAN sunt cuprinși titulari de licență pentru exploatarea capacităților de producere 
+a energiei electrice, cu sau fără instalații de stocare, cărora OTS le aplică tariful pentru serviciul 
+de transport – componenta de introducere în rețea (TG) și anume care deț in capacități de 
+producere cu putere instalată mai mare de 5 MW, chiar dacă aceștia dețin și licență pentru 
+activitatea de furnizare a energiei electrice. 
+Lista actualizată a părţilor resposabile cu echilibrare a (PRE) este publicată pe site -ul 
+operatorului pieţei de echilibrare (CNTEE Transelectrica S.A.). 
+ 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de 
+producătorii monitorizați  
+ 
+Prezentăm în continuare structura pe tipuri de surse primare a energiei electrice produse 
+și livrate în reţele de producătorii monitorizați pentru luna decembrie 2025, respectiv pentru anul 
+2025 și evoluția structurii lunare în ultimii 5 ani. 
+ 
+Sursa:Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+hidro
+29.36%
+gaz
+23.35%
+nuclear
+19.73%
+eolian
+13.64%
+cărbune
+11.05%
+solar
+1.46% biomasă
+0.90%
+stocare
+0.46% deșeuri
+0.03%
+păcura
+0.005%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Structura pe tipuri de surse a energiei electrice livrate în rețele 
+de producătorii monitorizați
+- Decembrie 2025 -
+
+=== PDF PAGE 7 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 7 
+ 
+ 
+Sursa:Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+În graficul următor este prezentată în evoluție lunară energia electrică produsă din surse 
+regenerabile și livrată în rețea de producătorii monitorizați și cota de piață a acesteia  din totalul 
+energiei electrice livrate.  
+hidro
+25.98%
+nuclear
+21.95% gaz
+20.17%
+cărbune
+13.44%
+eolian
+12.97%
+solar
+4.34%
+biomasă
+0.81%
+stocare
+0.30%
+deșeuri
+0.03%
+păcura
+0.01%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Structura pe tipuri de surse a energiei electrice livrate în rețele 
+de producătorii monitorizați
+- Anul 2025 -
+0.00
+1000.00
+2000.00
+3000.00
+4000.00
+5000.00
+6000.00
+Evoluția structurii energiei electrice livrate în rețele de producătorii monitorizați 
+pe tipuri de surse primare 
+cărbune păcura gaz nuclear hidro eolian solar biomasă deșeuri stocare
+GWh
+
+=== PDF PAGE 8 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 8 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați PAN – prelucrare SMP 
+Unul din factorii de influență ai producţiei de energie electrică în centralele hidroelectrice, 
+alături de debitul Dunării, îl reprezintă rezerva de energie din marile amenajări hidroenergetice 
+ale României. Evoluţia nivelului zilnic al acesteia în anul 2025, comparativ cu valorile zilnice din 
+ultimii 4 ani şi cu minima, maxima şi mediana aferente fiecărei zile din perioada 2000-2020, sunt 
+prezentate în graficul următor:  
+ 
+Sursa: Raportările lunare ale SPEEH Hidroelectrica S.A.  –  prelucrare SMP 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+0
+500
+1000
+1500
+2000
+2500
+3000
+Evoluția structurii energiei electrice din surse regenerabile livrate în rețele 
+de producătorii monitorizați 
+ hidro  eolian  solar biomasă  % SRE
+%
+GWh
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+1.01
+13.01
+25.01
+6.02
+18.02
+1.03
+13.03
+25.03
+6.04
+18.04
+30.04
+12.05
+24.05
+5.06
+17.06
+29.06
+11.07
+23.07
+4.08
+16.08
+28.08
+9.09
+21.09
+3.10
+15.10
+27.10
+8.11
+20.11
+2.12
+14.12
+26.12
+GWh
+Evoluţia comparativă pe durata unui an a rezervei zilnice de energie
+în principalele lacuri de acumulare
+Rez min 2000-2020 Rez mediana 2000-2020 Rez max 2000-2020 Rezerva energie 2021
+Rezerva energie 2022 Rezerva energie 2023 Rezerva energie 2024 Rezerva energie 2025
+2023
+2025
+2021
+2022
+2024
+
+=== PDF PAGE 9 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 9 
+ 
+Prezentăm câțiva indicatori de sinteză ce caracterizează bilanţul fizic al energiei electrice 
+pentru luna decembrie 2025 comparativ cu luna anterioară și respectiv pentru anul 2025 
+comparativ cu anul anterior. 
+               - GWh - 
+Nr. 
+crt. 
+ 
+INDICATOR 
+ 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+ 2024 
+Anul 
+2025 
+1 Energia electrică produsă (Pi > 5MW)1 4546,76 4878,24 50231,24 48787,07 
+2 Energia electrică livrată în rețea (Pi > 5MW)1 4282,79 4608,05 47585,24 46082,15 
+3 Schimburi comerciale pe direcția import (inclusiv 
+tranzite)2 1467,48 1574,43 14903,79 19089,45 
+4 Schimburi comerciale pe direcția export (inclusiv 
+tranzite)2 1414,58 1545,60 11888,58 15346,15 
+5 Consum intern realizat SEN3 4701,98 5006,74 55319,74 55091,65 
+6 Consumul clienţilor casnici4: 1170,66 1284,31 13907,31 14164,92 
+6.1 - în regim concurențial  900,60 1010,63 10158,91 10785,43 
+6.2 - în regim de SU  268,96 272,68 3735,40 3365,30 
+6.3 - în regim de UI 1,09 0,99 13,00 14,19 
+7 Consumul clienților finali noncasnici4: 2860,23 2824,16 34278,32* 34080,23 
+7.1 - în regim concurențial  2823,52 2790,77 32619,14* 33364,92 
+7.2 - în regim de UI 36,71 33,39 1659,18 715,31 
+8 CPT transport5 84,90 84,48 949,13 883,13 
+9 CPT distribuție5 416,11 610,07 4752,62 4562,20 
+ 
+Note: 
+1. Indicatorii Energia electrică produsă (Pi > 5MW) şi Energia electrică livrată (Pi > 5MW) se referă la 
+energia electrică livrată în SEN de toți producătorii care dețin cel puțin o centrală de producere cu 
+capacitate instalată mai mare de 5 MW, racordată la reţelele electrice de transport şi distribuţie (în 
+conformitate cu Metodologia PAN aprobată prin Ordinul ANRE nr. 18/2023); 
+2. Indicatorii Schimburi comerciale pe direcția import (inclusiv tranzite)  și Schimburi comerciale pe 
+direcția export (inclusiv tranzite)  includ și energia electrică care tranzitează România (tranzitele 
+notificate de participanții la piață și tranzitele prin mecanismele cuplate PZU și PI);  
+3. Indicatorul Consum intern realizat SEN reprezintă consumul lunar realizat la nivelul întregului SEN și 
+este cel raportat de CNTEE Transelectrica S.A.;  
+4. Consumul  clienților casnici și al clienților finali noncasnici reprezintă energia furnizată în luna de 
+raportare clienților finali de furnizorii/producătorii monitorizați și autoconsumul acestora; nu este 
+inclus consumul prosumatorilor din producția proprie, datele privind prosumatorii făcând obiectul unui 
+raport distinct al ANRE;  
+5. CPT pentru acoperirea pierderilor în rețeaua de transport  și CPT pentru acoperirea pierderilor în 
+rețeaua de distribuție au fost calculate pe baza achizițiilor de energie electrică realizate de operatorii 
+de rețea în calitate de participanți la piață cu luarea în calcul a dezechilibrelor înregistrate la nivelul 
+Părții Responsabile cu Echilibrarea din care fac parte. 
+*Diferenţele faţă de Raportul privind rezultatele monitorizării pieţei de energie electrică în luna decembrie 2024 sunt 
+determinate de actualizarea datelor cu corecții transmise de unii operatori economici 
+ 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică 
+În tabelul următor sunt prezentate volumele de energie electrică livrate lunar pe 
+contractele aflate în derulare în luna decembrie şi anul 2025 şi preţurile medii realizate pe fiecare 
+componentă a pieţei angro, comparativ cu volumele şi preţurile medii din luna noiembrie 2025 şi 
+anul 2024, calculate pe baza raportărilor lunare ale participanților la piață. Prețurile medii 
+prezentate pentru componentele pieței angro sunt prețuri medii ponderate realizate în luna 
+decembrie şi anul 2025, comparativ cu perioadele similare anterioare. 
+Volumele de energie electrică livrate au fost raportate la Consumul intern realizat SEN  
+pentru a oferi o referinţă în aprecierea dimensiunii pieței angro și a componentelor sale. Precizăm 
+că toate volumele sunt raportate în ore RO şi toate preţurile includ componenta TG. 
+
+=== PDF PAGE 10 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 10 
+ 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul  
+2024 
+Anul 
+2025 
+1. PIAŢA CONTRACTELOR BILATERALE NEGOCIATE DIRECT   
+volum livrat (GWh) 1665 
+564,87 
+35,4 
+1778 
+566,61 
+35,5 
+9200 17352 
+preţ mediu (lei/MWh) 491,29 531,35 
+% din consumul intern realizat 16,6 31,5 
+1.1. Vânzare pe contracte negociate1     
+volum livrat (GWh) 1633 
+568,36 
+34,7 
+1740 
+570,59 
+34,8 
+8897 16919 
+preţ mediu (lei/MWh) 494,04 535,42 
+% din consumul intern realizat 16,0* 30,7 
+           1.2.Vânzare pe contracte negociate în entitate agregată/agregator 
+volum livrat (GWh) 32 
+382,25 
+0,7 
+38 
+384,81 
+0,8 
+302 433 
+preţ mediu (lei/MWh) 410,32 372,11 
+% din consumul intern realizat 0,5 0,8 
+2. PIAȚA CONTRACTELOR DE EXPORT2   
+volum livrat (GWh) 466 
+650,27 
+9,9 
+572 
+630,71 
+11,4 
+2375 4936 
+preţ mediu (lei/MWh) 581,04 555,43 
+% din consumul intern realizat 4,3 9,0 
+3. PIEŢE CENTRALIZATE  DE  CONTRACTE BILATERALE   
+volum livrat (GWh) 2210 
+554,92 
+47,0 
+2363 
+558,40 
+47,2 
+9804 23653 
+preţ mediu (lei/MWh) 514,13 534,06 
+% din consumul intern realizat 17,7 42,9 
+3.1. Modalitatea de tranzacţionare PCCB-LE-flex3     
+volum livrat (GWh) 1084 1132 7422 13633 
+preţ mediu (lei/MWh) 545,06 546,28 505,91 535,19 
+% din consumul intern realizat 23,1 22,6 13,4 24,7 
+3.2. Modalitatea de tranzacţionare PCCB-NC     
+volum livrat (GWh) 290 276 154 1839 
+preţ mediu (lei/MWh) 601,43 604,42 1146,98 579,58 
+% din consumul intern realizat 6,2 5,5 0,3 3,3 
+3.3. Modalitatea de tranzacţionare PC-OTC     
+volum livrat (GWh) 579 685 1607 5454 
+preţ mediu (lei/MWh) 567,81 577,37 567,86 545,74 
+% din consumul intern realizat 12,3 13,7 2,9 9,9 
+3.4. Modalitatea de tranzacţionare PCE-ESRE-CV     
+volum livrat (GWh) 56 61 490 664 
+preţ mediu (lei/MWh) 305,80 311,23 264,41 282,34 
+% din consumul intern realizat 1,2 1,2 0,9 1,2 
+3.5. Modalitatea de tranzacţionare PMC-BRM     
+volum livrat (GWh) 18 19 111 207 
+preţ mediu (lei/MWh) 552,57 552,57 496,87 527,03 
+% din consumul intern realizat 0,4 0,4 0,2 0,4 
+3.6. Modalitatea de tranzacţionare PCT-BRM     
+volum livrat (GWh) 183 190 20 1855 
+preţ mediu (lei/MWh) 574,79 575,52 580,86 537,16 
+% din consumul intern realizat 3,9 3,8 0,04 3,4 
+4. MECANISMUL DE ACHIZIȚIE CENTRALIZATĂ 
+volum livrat (GWh)   13549  
+preţ mediu (lei/MWh) - - 448,46 - 
+% din consumul intern realizat   24,4*  
+5. PIAŢA PENTRU ZIUA URMĂTOARE     
+volum livrat4 (GWh) 2048 2319 19720* 23141 
+preţ mediu6 (lei/MWh) 644,52 613,36 554,48* 554,72 
+% din consumul intern realizat 43,6 46,3 35,5* 42,0 
+            5.1. Piața pentru Ziua Următoare - OPCOM     
+volum livrat4 (GWh) 1277 1469 19629 15693 
+preţ mediu6 (lei/MWh) 638,20 607,86 554,04 575,23 
+% din consumul intern realizat 27,2 29,3 35,5 28,5 
+5.2. Piața pentru Ziua Următoare - BRM     
+volum livrat 4(GWh) 771 850 91* 7448 
+preţ mediu 6(lei/MWh) 654,98 622,86 649,70* 511,50 
+% din consumul intern realizat 16,4 17,0 0,2 13,5 
+ 
+
+=== PDF PAGE 11 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 11 
+ 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+6. PIAŢA INTRAZILNICĂ     
+volum livrat4,5 (GWh) 359 396 2472* 4564 
+preţ mediu7 (lei/MWh) 646,90 621,46 522,59 476,29 
+% din consumul intern realizat 7,6 7,9 4,5 8,3 
+           6.1. Piaţa Intrazilnică - OPCOM     
+volum livrat4,5(GWh) 190 172 2045 2229 
+preţ mediu7 (lei/MWh) 639,66 625,06 509,05 518,45 
+% din consumul intern realizat 4,0 3,4 3,7 4,0 
+6.2. Piaţa Intrazilnică- BRM*     
+volum livrat4 (GWh) 169 224 427 2335 
+preţ mediu7 (lei/MWh) 655,04 618,71 587,38* 436,05 
+% din consumul intern realizat 3,6 4,5 0,8 4,2 
+7. PIAŢA DE ECHILIBRARE     
+Volum8 tranzacţionat (GWh) 
+% din consumul intern realizat SEN 
+volum9tranzacţionat la creştere (GWh) 
+preţ mediu de deficit9 (lei/MWh) 
+volum8tranzacţionat la scădere (GWh) 
+preţ mediu de excedent9 (lei/MWh) 
+74 
+1,6 
+40 
+754,91 
+33 
+711,88 
+74 
+1,5 
+37 
+681,51 
+37 
+634,97 
+1606* 
+2,9 
+770 
+329,89* 
+836* 
+69,59* 
+871 
+1,6 
+413 
+531,50 
+458 
+456,55 
+CONSUMUL INTERN REALIZAT SEN (GWh) 4702 5007 55515* 55092 
+ 
+Note: 
+1. Contracte de vânzare-cumpărare a energiei electrice încheiate în conformitate cu art . 23 alin. (2) 
+din Legea nr. 123/2012 a energiei electrice și gazelor naturale , cu modificările și completările 
+ulterioare; volumele agregate și prețurile medii rezultă din declarațiile pe propria răspundere ale 
+partenerilor contractuali; 
+2. Tranzacțiile lunare realizate pe baza contractelor de export raportate de participanţii la piaţa angro; 
+cantitățile livrate sunt cele notificate de participanți către CNTEE Transelectrica S.A. în platforma 
+DAMAS; 
+Nu sunt incluse tranzitele (cele notificate de participanți și cele prin mecanismele cuplate PZU și 
+PI ) sau cantităţile exportate prin intermediul agentului de transfer (CNTEE Transelectrica  S.A.) 
+pe piețele cuplate PZU și PI; 
+3. Sunt incluse și cantitățile livrate în luna de raportate în baza tranzacțiilor încheiate prin 
+mecanismul de tranzacționare PCCB -LE (valabil până în iunie 2020 , când a intrat în vigoare 
+PCCB-LE-flex); 
+4. Cantitățile tranzacționate lunar pe PZU și PI sunt cele publicate de operatorii pieței de energie 
+electrică desemnați (OPEED) OPCOM (PZU și PI) și BRM ( PZU și PI ); acestea cuprind și 
+cantitățile exportate prin intermediul agentului de transfer (CNTEE Transelectrica S.A.) pe piețele 
+cuplate PZU și PI; 
+5. Începând cu data de tranzacționare 13 iunie 2024, cantitățile tranzacționate lunar pe PI (OPCOM) 
+cuprind și rezultatele mecanismului de licitații intrazilnice (IDA); 
+6. Preţul mediu lunar pe PZU – OPCOM, prezentat în tabel , este calculat ca medie ponderată a 
+preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă (ore RO);  
+Prețul mediu lunar pe PZU – OPCOM, publicat pe site-ul www.opcom.ro, este calculat ca medie 
+aritmetică a prețurilor orare de închidere a pieței din luna respectivă (ore CET) – în luna decembrie 
+2025 acest preț este 598,84 lei/MWh; 
+Preţul mediu ponderat lunar pe PZU  - OPCOM publicat pe site-ul www.opcom.ro este calculat 
+ca medie ponderată a preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă  
+(ore CET) - în luna decembrie 2025 acest preț este 607,92 lei/MWh; 
+
+=== PDF PAGE 12 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 12 
+ 
+Preţul mediu lunar pe PZU – BRM, prezentat în tabel, este calculat ca medie ponderată a preţurilor 
+de închidere a pieţei cu volumele tran zacţionate în intervalele de decontare din luna respectivă 
+(ore RO);  
+7. Preţul mediu lunar pe PI  – OPCOM, prezentat în tabel , este calculat ca medie ponderată a 
+preţurilor de închidere a pieţei cu volumele  trancţionate în intervalele de decontare  din luna 
+respectivă (ore RO) și cuprinde și rezultatele mecanismului de licitații intrazilnice (IDA); 
+Prețul mediu ponderat lunar pe PI – OPCOM, publicat pe site-ul www.opcom.ro, este calculat ca 
+medie ponderată a preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă (ore 
+CET) - în luna decembrie 2025 acest preț este 625,30 lei/MWh;  
+Preţul mediu lunar pe PI – BRM, prezentat în tabel, este calculat ca medie ponderată a preţurilor 
+de închidere a pieţei cu volumele trancţionate în intervalele de decontare din luna respectivă (ore 
+RO);  
+8. Determinat de aplicarea prevederilor din Ordinul ANRE nr. 127/2021 cu modificările și 
+completările ulterioare, începând cu luna iulie 2024, datele privind volumele tranzacționate pe PE 
+(volum tranzacționat, volum tranzacționat la creștere și volum tranzacționat la reducere) și 
+prețurile medii pe această piață se referă la energia electrică angajată pe PE;  
+9. Preţul mediu de deficit și prețul mediu de excedent sunt calculate ca medie aritmetică a preţurilor 
+de decontare a pieţei de echilibrare cu precizarea că în intervalele cu preţ unic de decontare 
+valoarea acestuia a fost atribuită atât ca deficit, cât şi ca excedent. 
+*Începând cu luna august 2025 , tranzacțiile pe PI BRM includ și tranzacțiile realizate prin mecanismul de 
+licitație IDA. 
+* Diferenţele faţă de Raportul privind rezultatele monitorizării pieţei de energie electrică în luna decembrie 2024 
+sunt determinate de actualizarea datelor cu corecții transmise de unii operatori economici  
+ 
+Evoluţia relaţiei între volumele lunare aflate în livrare pe fiecare din componentele pieței 
+angro de energie electrică şi consumul intern realizat SEN, în perioada ianuarie 2021 – decembrie 
+2025, este reprezentată în graficul următor: 
+
+=== PDF PAGE 13 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 13 
+ 
+ 
+Sursa: Raportările lunare ale participanţilor la piaţa angro, OPCOM S.A., BRM S.A. și CNTEE Ttranselectrica S.A.  
+– prelucrare SMP 
+Notă: 
+Începând cu luna decembrie 2022, datele lunare privind consumul intern prezentate în grafic reprezintă Consumul 
+intern realizat SEN și sunt cele raportate de CNTEE Transelectrica S.A.  
+ 
+Prezentăm detalii privind tranzacţiile de export şi de import comercial realizate pe baza 
+contractelor încheiate de participanții la piață la care se adaugă energia exportată și cea importată 
+prin mecanismele cuplate PZU și PI prin intermediul agentului de transfer CNTEE Transelectrica 
+S.A. (pe granițele României cu Ungaria și Bulgaria).  
+Datele sunt prezentate pentru luna decembrie şi anul 2025, comparativ cu luna noiembrie 
+2025 şi anul anterior, și nu includ tranzitele (notificate de participanți sau cele prin piețele cuplate 
+PZU și PI). Datele tabelare sunt însoțite de reprezentarea grafică a evoluției cantitative a 
+exportului, importului și a soldului export-import începând din luna ianuarie 2021. 
+TRANZACŢII IMPORT/EXPORT Noiembrie 
+2025  
+Decembrie 
+2025 
+Anul  
+2024 
+Anul 
+ 2025 
+1. EXPORT COMERCIAL     
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+1207 
+614,96 
+25,7 
+1336 6759 
+431,12 
+12,22 
+11332 
+519,45 
+20,6 
+582,14 
+26,7 
+din care, prin PZU cuplat     
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+602 
+588,33 
+12,8 
+592 3263 
+322,45 
+5,9 
+4294 
+494,52 
+7,8 
+532,74 
+11,8 
+ 
+0.00
+1,000.00
+2,000.00
+3,000.00
+4,000.00
+5,000.00
+6,000.00
+7,000.00
+8,000.00
+9,000.00
+GWh
+Evoluția lunară a volumelor livrate pe componentele pieței angro 
+comparativ cu consumul intern realizat SEN
+MECANISMUL DE ACHIZITIE CENTRALIZATA PIATA CONTRACTELOR NEGOCIATE
+EXPORT PIETE CENTRALIZATE DE CONTRACTE
+PIATA PENTRU ZIUA URMATOARE PIATA INTRAZILNICA
+PIATA DE ECHILIBRARE Consum intern realizat SEN
+
+=== PDF PAGE 14 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 14 
+ 
+ 
+TRANZACŢII IMPORT/EXPORT Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+din care, prin PI cuplat     
+volum livrat (GWh 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+139 
+612,06 
+3,0 
+171 1122 
+429,78 
+2,0 
+2102 
+485,85 
+3,8 
+590,68 
+3,4 
+2. IMPORT COMERCIAL     
+volum livrat (GWh 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+1262 
+652,94 
+26,8 
+1366 9786 
+644,08 
+17,7 
+15073 
+604,59 
+27,4 
+632,90 
+27,3 
+din care, prin PZU cuplat     
+volum livrat (GWh 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+592 
+677,87 
+12,6 
+671 3627 
+837,79 
+6,6 
+6660 
+641,29 
+12,1 
+643,59 
+13,4 
+din care, prin PI cuplat     
+volum livrat (GWh 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+206 
+666,16 
+4,4 
+206 1255 
+599,53 
+2,3 
+2293 
+561,59 
+4,2 
+643,04 
+4,1 
+Sursa: Raportările lunare ale participanților la piață, CNTEE Transelectrica S.A., OPCOM S.A. și BRM S.A.– 
+prelucrare  SMP 
+ 
+Sursa: Raportările lunare ale participanților la piață, CNTEE Transelectrica S.A. OPCOM S.A. și BRM S.A. 
+ – prelucrare  SMP 
+În tabelul și graficul următor sunt prezentate volumul tranzacționat şi preţul mediu lunar 
+(medie aritmetică) de închidere a pieței corespunzător tranzacţiilor încheiate pe PZU administrată 
+de OPCOM (ore CET) începând cu ianuarie 2021 (tabel) și ianuarie 2006 (grafic). 
+ 
+ 
+ 
+-1.40
+-1.20
+-1.00
+-0.80
+-0.60
+-0.40
+-0.20
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+2021 2022 2023 2024 2025
+TWh
+Evoluția lunară a exportului și importului comercial de energie electrică
+(tranzacții participanți și agent de transfer)
+Export comercial Import comercial Sold export-import
+export
+import
+
+=== PDF PAGE 15 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 15 
+ 
+ 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. – prelucrare SMP 
+ 
+Sursa: Raportările lunare ale OPCOM S.A.– prelucrare SMP 
+În tabelul următor sunt prezentate volumul tranzacționat şi preţul mediu lunar (medie 
+ponderată) de închidere a pieței corespunzător tranzacţiilor încheiate pe PZU administrată de 
+BRM (ore CET) începând cu noiembrie 2024. 
+ 
+ 
+ 
+ 
+ 
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Ianuarie 2,471.04 271.29 2,620.82 949.40 2,051.15 670.71 2,074.33 436.13 1,648.62 693.74
+Februarie 2,254.54 234.40 2,282.47 932.28 1,553.02 699.24 1,600.99 347.07 1,323.21 782.31
+Martie 2,481.79 266.99 2,035.76 1,356.97 1,444.48 534.01 2,136.26 315.34 1,346.73 529.34
+Aprilie 2,438.23 309.08 2,007.70 861.70 1,565.55 481.24 1,679.87 298.35 1,154.19 430.21
+Mai 2,366.56 289.31 2,117.09 1,000.45 1,189.09 430.72 1,468.94 406.51 1,184.72 434.86
+Iunie 2,176.47 378.82 2,153.80 1,138.30 1,365.27 422.24 1,313.73 486.61 1,159.45 434.73
+Iulie 1,988.07 462.22 2,352.02 1,813.74 1,376.18 478.82 1,730.46 721.74 1,302.94 524.95
+August 1,844.12 554.65 2,221.51 2,400.58 1,222.76 502.18 1,461.24 631.55 1,201.35 396.63
+Septembrie 1,763.75 662.15 1,814.17 1,854.94 1,158.63 512.07 1,411.24 544.64 1,160.23 492.44
+Octombrie 1,925.06 951.30 1,772.35 1,017.02 1,036.74 527.12 1,518.07 446.19 1,465.13 620.18
+Noiembrie 1,910.59 1,051.84 2,125.26 1,093.09 1,503.22 507.67 1,585.42 836.09 1,277.54 617.91
+Decembrie 2,239.93 1,139.30 2,073.90 1,219.27 1,566.17 402.35 1,648.72 701.88 1,467.60 598.84
+2021 2022 2023 2024 2025Anul/                    
+Luna
+0
+300
+600
+900
+1200
+1500
+1800
+2100
+2400
+2700
+3000
+0
+150
+300
+450
+600
+750
+900
+1050
+1200
+1350
+1500
+1650
+1800
+1950
+2100
+2250
+2400
+2550
+GWhlei/MWh Evoluția lunară a prețului mediu de închidere a pieței și a volumului tranzacționat pe PZU 
+Volum tranzacționat pe PZU Prețul mediu PZU
+
+=== PDF PAGE 16 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 16 
+ 
+ 
+ 
+Sursa: Raportările lunare ale BRM S.A.– prelucrare SMP 
+În baza datelor contractuale raportate de participanții la piață în baza art. 14 alin (3) din 
+OUG nr. 6/2025, în luna decembrie 2025 s-au încheiat 344 contracte bilaterale negociate direct 
+de vânzare-cumpărare a energiei electrice (contracte noi sau acte adiționale la contracte încheiate 
+anterior). În toate aceste contracte, cumpărătorii au fost producători,  furnizori și distribuitori de 
+energie electrică.  
+Datele sunt prezentate începând cu luna septembrie 2022, determinat de faptul că de la 1 
+septembrie 2022 a intrat în vigoare obligativitatea raportării către ANRE a încheierii contractelor 
+bilaterale negociate direct de ambii parteneri în termen de 2 zile lucrătoare de la data încheierii.   
+Variația lunară a numărului de contracte bilaterale negociate direct încheiate în perioada 
+septembrie 2022 – decembrie 2025 sau pentru care în această perioadă au fost semnate acte 
+adiționale (de modificare a cantității, prețului sau a perioadei de livrare) este prezentată în graficul 
+următor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Ianuarie 302.26 716.43
+Februarie 511.88 839.84
+Martie 527.57 600.3
+Aprilie 376.01 479.23
+Mai 535.20 487.34
+Iunie 676.67 490.39
+Iulie 729.73 570.15
+August 657.40 434.65
+Septembrie 635.95 535.09
+Octombrie 874.68 656.97
+Noiembrie 5.39 654.68 771.24 654.99
+Decembrie 94.84 641.48 850.35 622.80
+Anul/                    
+Luna
+2024 2025
+
+=== PDF PAGE 17 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 17 
+ 
+ 
+Sursa:  Raportările participanților la piață, în baza art. 14 alin (3) din OUG 6/2025 
+ – prelucrare SMP 
+Reprezentarea grafică următoare indică frecvența de apariție a prețurilor înregistrate pe cele 344 
+contracte raportate în luna decembrie 2025 (noi sau acte adiționale) de participanții la piață. 
+ 
+Sursa:  Raportările participanților la piață, în baza art. 14 alin (3) din OUG 6/2025 
+– prelucrare SMP 
+99 101
+80
+143
+68 57 51
+29 32 36 37 42 45 52 49
+148
+29
+54
+78 65
+44 46
+93
+111
+72 78
+119
+179
+72 63
+121
+86 82
+109
+83 88 102 95
+20613
+45 80
+92
+45
+31 30
+30 20 25 24
+35
+12
+15
+62
+137
+33
+71
+84
+136
+59
+24
+27
+18
+35 20
+72
+164
+27 35
+65
+33 41
+36
+37 38
+32 62
+138
+0
+50
+100
+150
+200
+250
+300
+350
+Nr. contracte
+Evoluția numărului de contracte bilaterale negociate direct încheiate
+pe piața angro de energie electrică, începând cu luna septembrie 2022
+contracte noi
+ acte adiționale ale contractelor în vigoare
+0-250 lei/MWh 251-500 lei/MWh 501-750 lei/MWh 751-1000 lei/MWh
+nr.contracte 100 148 95 1
+% din total contracte 29.07% 43.02% 27.62% 0.29%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Nr. contracte
+Histograma numărului de contracte bilaterale negociate direct 
+în funcție de prețul estimativ de contract
+- Decembrie 2025 -
+Notă: Majoritatea prețurilor negociate fiind de tip formulă, s-a prezentat distribuţia preţurilor pe paliere în funcţie de preţul estimativ la încheierea 
+acestor contracte/acte adiţionale.
+
+=== PDF PAGE 18 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 18 
+ 
+Dispoziţiile de dispecer (oferte acceptate) primite de furnizorii de servicii de echilibrare 
+determină energia angajată pe PE.  În tabelul următor este prezentată energia de echilibrare 
+angajată pentru fiecare din cele 3 tipuri de reglaje , în luna decembrie 2025 și respectiv în anul 
+2025. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Notă: 
+Energia electrică angajată include energia electrică aferentă tranzacțiilor cu compensație financiară în afara PE 
+rezultate în urma dispozițiilor de dispecer (creștere/reducere) pentru rezolvarea restricțiilor de rețea, asigurarea 
+siguranței sistemului pri n redispecerizare sau prin comercializare în contrapartidă coordonată (conform 
+prevederilor Ordinului ANRE nr. 152/2020 cu modificările și completările din Ordinul ANRE nr. 127/2021), având 
+soldul de 0,00 GWh. 
+ 
+ 
+ 
+Notă: 
+Energia electrică angajată include energia electrică aferentă tranzacțiilor cu compensație financiară în afara PE 
+rezultate în urma dispozițiilor de dispecer (creștere/reducere) pentru rezolvarea restricțiilor de rețea, asigurarea 
+siguranței sistemului pri n redispecerizare sau prin comercializare în contrapartidă coordonată (conform 
+prevederilor Ordinului ANRE nr. 152/2020 cu modificările și completările din Ordinul ANRE nr. 127/2021), având 
+soldul de 0,00 GWh. 
+Decembrie 2025
+E nergie de 
+echilibrare 
+angajată                          
+(GWh)
+RRFa 31
+creștere 15
+reducere 16
+RRFm 43
+creștere 22
+reducere 21
+RI 74
+creștere 37
+reducere 37
+TOTAL 74
+creștere 37
+reducere 37
+CONSUM INTE RN 5007
+% volum tranzacționat din consumul intern 1.48%
+ANUL 2025
+E nergie de 
+echilibrare 
+angajată                          
+(GWh)
+RRFa 410
+creștere 191
+reducere 219
+RRFm 460
+creștere 222
+reducere 239
+RI 0.1
+creștere 0.1
+reducere 0
+TOTAL 871
+creștere 413
+reducere 458
+CONSUM INTE RN 55092
+% volum tranzacționat din consumul intern 1.58%
+
+=== PDF PAGE 19 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 19 
+ 
+ 
+În următoarele grafice se prezintă evoluţia lunară a rezervelor de putere achiziţionate de 
+CNTEE Transelectrica S.A., reprezentând obligaţii ale furnizorilor de servicii de echilibrare  de 
+menţinere la dispoziţia dispecerului/ofertare pe PE a capacităţilor de producere contractate și cea 
+a energiei de echilibrare angajată pe fiecare tip de reglaj pentru perioada iulie 2005 – decembrie 
+2025. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+Începând cu raportul lunii iulie 2024, structura energiei de echilibrare pe fiecare tip de 
+reglaj se referă la energia de echilibrare angajată, motivat de modificările introduse prin Ordinul 
+ANRE nr. 127/2021, cu aplicare din luna iulie 2024. 
+0
+250,000
+500,000
+750,000
+1,000,000
+1,250,000
+1,500,000
+1,750,000
+2,000,000
+h*MW
+RRFa RRFm RI
+Structura rezervelor achiziționate de CNTEE Transelectrica SA
+
+=== PDF PAGE 20 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 20 
+ 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Determinat de modificările introduse prin Ordinul ANRE nr. 127/2021, începând cu 
+raportul lunii iulie 2024, în următorul grafic se prezintă evoluția energiei de echilibrare angajată 
+pe PE și soldul energiilor angajate pe piața de echilibrare pentru perioada ianuarie 20 21– 
+decembrie 2025. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+-600
+-400
+-200
+0
+200
+400
+600
+800
+1000
+GWh Evoluția lunară a energiei angajată pe piața de echilibrare 
+RRFa creștere RRFa scădere RRFm creștere RRFm scădere RI creștere RI reducere
+-250
+-200
+-150
+-100
+-50
+0
+50
+100
+150
+200
+GWh
+Evoluția lunară a energiei de echilibrare angajată și a soldului rezultat 
+Ianuarie 2021 - Decembrie 2025
+Energia de echilibrare angajată la CREȘTERE
+Energia de echilibrare angajată la REDUCERE
+Soldul energiilor angajate pe piața de echilibrare
+
+=== PDF PAGE 21 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 21 
+ 
+Graficul următor prezintă evoluţia lunară a energiei angajate pentru managementul 
+congestiilor (cantitatea de energie tranzacţionată de OTS pe piaţa de echilibrare și în afara PE cu 
+compensație financiară pentru rezolvarea situaţiilor de congestii în reţeaua de transport), începând 
+cu ianuarie 2021, şi contravaloarea tranzacţiilor efectuate în acest scop de CNTEE Transelectrica 
+S.A.. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Notă: Începând cu luna iulie 2024, datele privind volumele tranzacționate se referă la energia electrică angajată pe PE, 
+determinat de aplicarea prevederilor din Ordinul ANRE nr. 127/2021 cu modificările și completările ulterioare  
+ 
+Începând cu data de 17 decembrie 2021 a avut loc conectarea cu succes a blocului de 
+control RFP – TEL la platforma europeană IGCC  (International Grid Control Cooperation), 
+proiect ales de ENTSO-E pentru procesul de compensare a dezechilibrelor, așa cum este definit 
+în Regulamentul (UE) nr . 2017/1485 al Comisiei din 2 august 2017 de stabilire a unei linii 
+directoare privind operarea sistemului de transport al energiei electrice (art. 22).  
+Platforma IGCC reprezintă o modalitate de optimizare a reglajului secundar de frecvență 
+– putere de schimb,  prin reducerea acțiunilor de sens contrar ale regulatoarelor operatorilor 
+membri operaționali în cadrul proiectului. 
+În tabelul următor este prezentată evoluția lunară a energiei electrice la creștere și la 
+reducere de putere, reprezentând contribuția CNTEE Transelectrica S.A. la mecanismul IGCC de 
+compensare a dezechilibrelor dezvoltat la nivel european. 
+ 
+ 
+ 
+0.00
+400.00
+800.00
+1200.00
+1600.00
+0.0
+2.5
+5.0
+7.5
+10.0
+mii leiGWh
+Evoluția lunară a energiei angajate pe piața de echilibrare pentru managementul congestiilor
+pe liniile interne și a contravalorii acesteia
+Energia angajată pe PE pentru managementul congestiilor Contravaloare aferentă managementului congestiilor
+
+=== PDF PAGE 22 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 22 
+ 
+ 
+2025 
+Contribuția la creștere de putere  
+(MWh) 
+Contribuția la reducere de putere 
+(MWh) 
+La prețuri >=0 La prețuri <0 La prețuri >=0 La prețuri <0 
+Ianuarie 27797 3806 14393 386 
+Februarie 18648 2752 22362 254 
+Martie 21610 5015 23150 1768 
+Aprilie 17443 6486 20169 1999 
+Mai 24636 5899 20112 1091 
+Iunie 24891 5412 15278 967 
+Iulie 23289 3867 19818 1244 
+August 21827 3960 12914 858 
+Septembrie 18794 2267 15212 460 
+Octombrie 25119 1028 16389 331 
+Noiembrie 25049 954 14050 132 
+Decembrie  23657 672 14199 88 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+Tranzacţiile cu energie electrică pe categorii de participanţi la PAN 
+ 
+Producători monitorizați 
+Prezentăm mai jos s tructura obligaţiilor de vânzare  și de achiziție contractate înainte de 
+intervalul de livrare de producătorii monitorizați în conformitate cu prevederile art . 7 din 
+Metodologia PAN (respectiv cei care dețin capacități de producere cu putere instalată mai mare 
+de 5 MW) în luna de livrare decembrie 2025 comparativ cu luna anterioară și respectiv pentru 
+anul 2025 comparativ cu anul anterior. 
+                                                                                                                             - GWh -  
+Structură tranzacţii Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii   
+Contracte import 130,00 125,21 1059,02 1339,23 
+Contracte negociate 526,36 528,65 2863,92 5990,18 
+Piața centralizată a contractelor, din care:  445,83 491,33 2301,76 5095,43 
+− PCCB-LE-flex 235,83 243,89 1738,94 2881,15 
+− PCCB-NC 24,00 34,95 11,26 137,14 
+− PC-OTC 148,41 173,45 438,45 1412,81 
+− PCE-ESRE-CV 0,00 0,00 113,10 15,00 
+− PCT-BRM 37,60 39,04 0,00 649,34 
+        MACEE - - 1824,07 - 
+De la prosumatori 15,42 17,10 264,93 465,05 
+În calitate de client final (contracte furnizare pe 
+PAM) 
+22,70 40,11 121,23 329,16 
+PZU 385,83 408,22 4261,19 5916,35 
+PI 118,06 100,31 669,08 1088,93 
+Total achiziții 1644,21 1710,91 13365,20 20224,33 
+Vânzări   
+Contracte export 15,49 9,02 46,82 194,97 
+Contracte negociate  995,70 1061,35 7327,39 11340,01 
+Piața centralizată a contractelor, din care:  1928,38 2042,10 7813,65 20492,22 
+− PCCB-LE-flex 977,87 1021,73 5803,94 12328,42 
+
+=== PDF PAGE 23 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 23 
+ 
+ 
+Structură tranzacţii Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+− PCCB-NC 232,06 216,14 40,90 988,51 
+− PC-OTC 468,79 541,91 1348,14 4532,17 
+− PCE-ESRE-CV 55,68 61,26 489,59 663,81 
+− PMC-BRM 
+− 
+18,00 18,60 110,94 207,45 
+− PCT-BRM 175,99 182,47 20,15 1771,86 
+MACEE - - 13534,29 - 
+PZU 1171,57 1312,88 13955,11 12875,29 
+PI 75,12 72,82 631,03 1020,49 
+Contracte furnizare pe PAM, către clienţii finali 
+din care: 
+1707,63 1710,92 17033,54* 19642,29 
+casnici 236,07 293,23 1782,79 2392,56 
+noncasnici 1471,56 1417,69 15250,74* 17249,74 
+Total vânzări 5893,89 6209,09 60341,83* 65565,27 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și acei operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care, determinat de faptul că dețin cel 
+puțin o centrală cu capacitate in stalată mai mare de 5 MW și li se aplică tariful de introducere în rețea, sunt 
+monitorizați în calitate de producători 
+ 
+*Diferenţele faţă de Raportul privind rezultatele monitorizării pieţei de energie electrică în luna decembrie 202 4 
+sunt determinate de actualizarea datelor cu corecții transmise de unii operatori economici.  
+ 
+În graficul următor prezentăm volumele tranzacționate și livrate, preţurile minime, medii şi 
+maxime realizate în luna de livrare decembrie 2025 și respectiv în anul 2025 de producătorii 
+monitorizați pe fiecare tip de contract de achiziție/vânzare. Prețurile de v ânzare a  energiei 
+electrice din contractele de furnizare către clienții finali sunt cele prevăzute în condițiile 
+contractuale din contractele de furnizare respective și cuprind componenta de achiziție a energiei 
+electrice (cu tariful de introducere în rețea inclus) și componenta de furnizare. 
+ 
+Sursa: Raportările lunare ale producătorilor monitorizați – prelucrare SMP 
+import negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCT-
+BRM
+prosum
+atori
+in
+calitate
+de
+client
+final
+PZU PI export negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCE-
+ESRE-
+CV
+PMC-
+BRM
+PCT-
+BRM PZU PI clienti
+casnici
+clienti
+noncas
+nici
+Preț mediu ponderat 577.80 508.78 553.46 626.56 562.34 564.80 501.22 705.31 645.05 665.51 598.55 535.08 553.04 621.06 570.11 311.23 552.57 575.51 602.50 566.28 456.84 567.37
+Preț minim 506.57 50.00 520.97 600.00 400.00 515.00 343.41 400.00 473.96 365.73 475.04 193.34 401.96 539.47 449.47 156.97 482.92 515.00 439.17 293.90 310.96 7.64
+Preț maxim 813.99 1,070.6 675.36 650.00 680.00 701.21 1,170.9 1,756.4 833.92 901.86 612.84 1,516.8 877.48 680.00 680.00 490.00 599.01 850.01 968.69 1,248.0 1,415.0 1,654.2
+Volum tranzacționat 125.21 528.65 243.89 34.95 173.45 39.04 17.10 40.11 408.22 100.31 9.02 1,061.3 1,021.7 216.14 541.91 61.26 18.60 182.47 1,312.8 72.82 293.23 1,417.6
+125 GWh
+529 GWh
+244 GWh
+35 GWh
+173 GWh
+39 GWh
+17 GWh
+40 GWh
+408 GWh
+100 GWh
+9 GWh
+1061 GWh
+1022 GWh
+216 GWh
+542 GWh
+61 GWh
+19 GWh
+182 GWh
+1313 GWh
+73 GWh
+293 GWh
+1418 GWh
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de producătorii monitorizați
+- Decembrie 2025-
+ACHIZITII VANZARI
+
+=== PDF PAGE 24 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 24 
+ 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care dețin cel puțin o centrală cu 
+capacitate instalată mai mare de 5 MW și li se aplică tariful de introducere în rețea 
+ 
+ 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care dețin cel puțin o centrală cu 
+capacitate instalată mai mare de 5 MW și li se aplică tariful de introducere în rețea 
+ 
+Furnizori  
+În luna decembrie 2025, pe piaţa angro de energie electrică au activat 9 8 de operatori 
+economici, din care 5 sunt titulari de licență de furnizare desemnați FUI și  49 sunt titulari de 
+licență cu activitate exclusiv pe PAN (o parte dintre aceştia fiind deţinători de licenţă pentru 
+activitatea traderului de energie electrică sau persoane juridice străine cu drept de participare la 
+piața de energie electrică din România). 
+ 
+Furnizori cu activitate exclusivă pe PAN 
+Tabelul următor ilustrează activitatea desfăşurată de furnizorii activi doar pe PAN 
+(inclusiv traderi și persoane juridice străine cu drept de participare la PAN confirmat de ANRE), 
+prezentând structura pe categorii de pieţe a achizițiilor şi vânzărilor to tale pe PAN realizate de 
+aceştia în luna de livrare decembrie 2025 comparativ cu luna anterioară și respectiv pentru anul 
+2025 comparativ cu anul anterior. 
+ 
+ 
+ 
+ 
+import negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCE-
+ESRE-
+CV
+PCT-
+BRM
+prosum
+atori
+in
+calitate
+de
+client
+final
+PZU PI export negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCE-
+ESRE-
+CV
+PMC-
+BRM
+PCT-
+BRM PZU PI clienti
+casnici
+clienti
+noncasn
+ici
+Preț mediu ponderat 573.70 470.05 544.15 595.64 513.28 249.48 517.31 372.78 610.44 545.07 567.26 332.15 505.23 540.04 614.40 539.10 282.34 527.03 538.76 568.12 463.24 421.97 543.99
+Preț minim 370.76 -140.23 429.83 440.00 350.00 249.47 379.00 278.27 121.77 87.63 -721.43 116.33 31.53 399.36 338.00 350.00 100.00 472.14 379.00 -72.28 -387.22 283.21 3.29
+Preț maxim 934.30 1,399.8 675.36 669.47 711.96 420.00 701.21 1,170.9 1,792.0 1,722.8 2,428.5 630.34 1,809.3 877.48 739.47 791.96 579.47 599.01 850.01 1,498.9 3,130.1 1,415.0 1,972.5
+Volum tranzacționat 1,339.2 5,990.1 2,881.1 137.14 1,412.8 15.00 649.34 465.05 329.16 5,916.3 1,088.9 194.97 11,340. 12,328. 988.51 4,532.1 663.81 207.45 1,771.8 12,875. 1,020.4 2,392.5 17,249.
+1339 GWh
+5990 GWh
+2881 GWh
+137 GWh
+1413 GWh
+15 GWh
+649 GWh
+465 GWh 329 GWh
+5916 GWh
+1089 GWh
+195 GWh
+11340 GWh
+12328 GWh
+989 GWh
+4532 GWh
+664 GWh
+207 GWh
+1772 GWh
+12875 GWh
+1020 GWh
+2393 GWh
+17250 GWh
+-6000
+-3000
+0
+3000
+6000
+9000
+12000
+15000
+18000
+21000
+-1000
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de producătorii monitorizați
+- Anul 2025-
+ACHIZITII VANZARI
+
+=== PDF PAGE 25 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 25 
+ 
+                                                                                                                        - GWh- 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare SMP 
+*Diferenţele faţă de Raportul privind rezultatele monitorizării pieţei de energie electrică în luna decembrie 2024 
+sunt determinate de actualizarea datelor cu corecții transmise de unii operatori economici.  
+Prezentăm comparativ nivelul volumelor tranzacționate și livrate, preţurile minime, medii 
+şi maxime realizate în luna de livrare  decembrie 2025 și respectiv în anul 2025 de furnizorii cu 
+activitate exclusivă pe PAN pentru fiecare tip de contract de achiziție/vânzare. 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM
+producție 
+din surse 
+proprii
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM PZU PI
+Preț mediu ponderat 650.78 618.15 558.00 613.08 615.00 638.43 911.41 611.33 631.78 633.87 610.42 541.72 539.42 621.08 575.74 651.54 630.65
+Preț minim 446.39 400.00 452.50 534.47 590.00 585.00 258.50 463.30 549.92 478.56 300.00 524.70 515.47 400.00 516.47 481.23 271.864
+Preț maxim 734.00 1,516.87 637.93 650.00 635.00 655.00 1,895.12 787.17 845.88 1,264.65 1,070.61 762.75 595.00 650.00 645.00 840.27 1,078.00
+Volum tranzacționat 172.46 270.68 13.64 52.12 11.16 23.81 0.36 670.64 85.03 531.18 442.24 43.03 33.48 37.32 7.44 134.86 95.06
+172 GWh
+271 GWh
+14 GWh
+52 GWh
+11 GWh
+24 GWh
+0.36 GWh
+671 GWh
+85 GWh
+531 GWh
+442 GWh
+43 GWh
+33 GWh
+37 GWh
+7 GWh
+135 GWh
+95 GWh
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concuențiali cu activitate exclusivă pe piața angro
+- Decembrie 2025-
+ACHIZITII VANZARI
+Structură tranzacţii furnizori cu 
+activitate exclusivă pe PAN 
+Noiembrie 
+2025 
+Decembrie 
+ 2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii   
+Contracte import 219,89 172,46 1813,81 3246,65 
+Contracte negociate  212,40 270,68 800,05* 2177,67 
+Piața centralizată a contractelor, din care: 123,94 100,73 397,82 458,98 
+− PCCB-LE-flex 13,20 13,64 274,81 152,94 
+− PCCB-NC 80,54 52,12 5,76 215,07 
+− PC-OTC 7,19 11,16 117,24 44,16 
+− PCT-BRM 23,01 23,81 0,00 46,82 
+     Producție din surse proprii 0,36 0,36 12,22* 9,74 
+PZU 549,68 670,64 1785,45* 5387,06 
+PI 70,86 85,03 433,43 907,56 
+Total achiziții 1177,13 1299,89 5242,77* 12187,65 
+Vânzări     
+     Contracte export 424,35 531,18 1853,90 4205,56 
+Contracte negociate  433,33 442,24 844,27 3887,35 
+Piața centralizată a contractelor, din care: 145,43 121,27 1016,70 1502,62 
+− PCCB-LE-flex 41,64 43,03 930,86 520,36 
+− PCCB-NC 32,40 33,48 8,93 439,92 
+− PC-OTC 64,20 37,32 76,91 491,23 
+− PCT-BRM 7,20 7,44 0,00 51,11 
+PZU 111,98 134,86 1180,40* 1822,57 
+PI 65,42 95,06 386,73* 902,83 
+Total vânzări 1180,50 1324,60 5281,99* 12320,93 
+
+=== PDF PAGE 26 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 26 
+ 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+ 
+Furnizori cu activitate pe PAM  
+În tabelul următor sunt prezentate datele aferente lunii decembrie 2025, comparativ cu 
+luna anterioară și respectiv pentru anul 2025 comparativ cu anul anterior , care caracterizează 
+structura pe categorii de pieţe a achizițiilor şi vânzărilor totale, realizate de toți furnizorii care au 
+furnizat energie electrică clienților finali în regim concurențial și în regim de serviciu universal.                  
+   - GWh - 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim concurențial și regim SU) 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii     
+Contracte import 114,20 191,82 2012,25 1531,49 
+Contracte negociate 924,80 958,37 6275,46* 9634,30 
+Piața centralizată a contractelor, din care: 1364,12 1463,12 6662,72 15597,84 
+− PCCB-LE-flex  722,28 751,12 5096,75 9415,19 
+− PCCB-NC  117,48 122,37 133,31 1066,46 
+− PC-OTC  385,57 442,64 953,36 3608,12 
+− PMC-BRM 0,00 0,00 - 32,35 
+− PCE-ESRE-CV  61,79 67,05 425,72 713,68 
+− PCT-BRM 77,00 79,94 20,15 762,04 
+Producție din surse proprii 18,38 15,70 753.69* 170,91 
+De la prosumatori 35,81 26,88 874,37* 1280,28 
+MACEE - - 8439,09 - 
+În calitate de client final (contracte furnizare pe PAM) 113,50 115,60 1044,63 1019,21 
+PZU 331,76 363,21 7512,76* 4903,76 
+PI 21,21 23,31 188,37 194,07 
+Total achiziții 2923,78 3158,01 33763,33* 34331,87 
+ 
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM
+producție 
+din surse 
+proprii
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM PZU PI
+Preț mediu ponderat 576.54 484.20 526.37 606.61 631.87 636.48 569.78 572.14 527.93 576.17 574.36 543.12 536.37 569.24 534.14 557.59 536.33
+Preț minim 7.63 -75.23 414.34 534.47 590.00 585.00 258.50 -94.12 0.00 5.57 116.40 394.47 440.00 400.00 516.47 -16.78 -506.437
+Preț maxim 1,464.10 2,176.25 668.50 719.47 791.96 655.00 1,895.12 1,137.33 1,201.10 1,471.00 1,844.14 762.75 736.47 695.00 645.00 998.29 2,235.21
+Volum tranzacționat 3,246.65 2,177.67 152.94 215.07 44.16 46.82 9.74 5,387.06 907.56 4,205.56 3,887.35 520.36 439.92 491.23 51.11 1,822.57 902.83
+3247 GWh
+2178 GWh
+153 GWh
+215 GWh
+44 GWh
+47 GWh
+10 GWh
+5387 GWh
+908 GWh
+4206 GWh
+3887 GWh
+520 GWh
+440 GWh
+491 GWh
+51 GWh
+1823 GWh
+903 GWh
+-1000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+-600
+0
+600
+1200
+1800
+2400
+3000
+3600
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concuențiali cu activitate exclusivă pe piața angro
+- Anul 2025-
+ACHIZITII VANZARI
+
+=== PDF PAGE 27 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 27 
+ 
+ 
+Structură tranzacţii furnizori cu activitate pe PAM 
+(regim concurențial și regim SU) 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Vânzări   
+Contracte export 25,76 32,15 473,98 535,96 
+Contracte negociate  235,70 274,53 1027,93 2124,17 
+Piața centralizată a contractelor, din care: 136,57 199,79 973,35 1658,06 
+− PCCB-LE-flex  64,58 67,40 686,98 784,29 
+− PCCB-NC  25,92 26,78 104,17 410,56 
+− PC-OTC  46,07 105,61 182,20 430,75 
+− PCT-BRM 0,00 0,00 0,00 32,46 
+     MACEE - - 15,07 - 
+PZU 158,60 189,04 794,41* 1549,90 
+PI 9,16 10,43 176,84* 154,29 
+Contracte furnizare pe PAM, către clienţii finali din care: 2285,46 2363,16 29479,91* 27873,35 
+casnici 933,49 990,08 12111,52 11758,17 
+noncasnici 1351,97 1373,08 17368,40* 16115,18 
+Total vânzări 2851,24 3069,09 32941,49* 33895,72 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare SMP 
+ 
+*Diferenţele faţă de Raportul privind rezultatele monitorizării pieţei de energie electrică în luna decembrie 2024 
+sunt determinate de actualizarea datelor cu corecții transmise de unii operatori economici.  
+ 
+Defalcarea pe tipuri de surse/destinaţii a volumelor tranzacţionate și livrate,  a preţurilor 
+minime, medii şi maxime realizate în luna de livrare  decembrie 2025 și respectiv anul 2025 de 
+furnizorii cu activitate pe PAM este reprezentată în graficul  următor. Prețurile de v ânzare a  
+energiei electrice din contractele de furnizare către clienții finali sunt cele prevăzute în condițiile 
+contractuale din contractele de furnizare respective și cuprind componenta de achiziție a energiei 
+electrice (cu tariful de introducere în rețea inclus) și componenta de furnizare. 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+import negociate PCCB-
+LE-flex PCCB-NC PC-OTC PCE-
+ESRE-CV PCT-BRM
+producție 
+din surse 
+proprii
+prosumato
+ri
+in calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex PCCB-NC PC-OTC PZU PI clienti
+casnici
+clienti
+noncasnici
+Preț mediu ponderat 604.64 572.74 546.37 598.65 578.10 314.53 568.91 353.50 599.55 555.63 690.10 630.85 587.51 617.93 446.75 551.36 599.20 554.79 552.46 821.27 662.60
+Preț minim 518.88 50.00 389.47 495.47 449.47 156.97 515.00 151.00 178.37 400.00 456.90 562.35 536.48 380.00 389.47 495.47 517.47 420.33 365.81 250.00 315.11
+Preț maxim 889.81 901.20 877.48 680.00 665.00 490.00 850.01 1,395.73 861.00 624.78 778.42 1,967.52 689.27 769.50 593.59 630.00 663.00 916.84 981.00 1,000.00 1,196.67
+Volum tranzacționat 191.82 958.37 751.12 122.37 442.64 67.05 79.94 15.70 26.88 115.60 363.21 23.31 32.15 274.53 67.40 26.78 105.61 189.04 10.43 990.08 1,373.08
+192 MWh
+958 GWh
+751 GWh
+122 GWh
+443 GWh
+67 GWh
+80 GWh
+16 GWh 27 GWh
+116 GWh
+363 GWh
+23 GWh 32 GWh
+275 GWh
+67 GWh
+27 GWh
+106 GWh
+189 GWh
+10 GWh
+990 GWh
+1373 GWh
+0
+150
+300
+450
+600
+750
+900
+1050
+1200
+1350
+1500
+1650
+0
+300
+600
+900
+1200
+1500
+1800
+2100
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concurențiali cu activitate pe piața angro și pe piața cu amănuntul 
+-Decembrie 2025-
+ACHIZIȚII VÂNZĂRI
+
+=== PDF PAGE 28 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 28 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+ 
+ 
+Furnizori desemnați ca furnizori de ultimă instanță (FUI) 
+În conformitate cu prevederile Regulamentului privind furnizarea de ultimă instanţă a 
+energiei electrice  aprobat prin Ordinul președintelui ANRE nr. 91/2022 cu modificările și 
+completările din Ordinul ANRE nr. 11/2025, ANRE publică o listă de nominalizare FUI pentru 
+fiecare perioadă de rotație. Astfel, fiecărui FUI îi este alocată o lună calendaristică în care acesta 
+are obligația preluării locurilor de consum care ajung în situația de a nu avea asigurată furnizarea 
+energiei electrice. 
+Lista nominalizărilor pentru fiecare perioadă de rotație este publicată pe site -ul ANRE la 
+adresa https://anre.ro/consumatori/energie-electrica/fui-ee/. Pentru luna decembrie 2025, FUI 
+nominalizat a fost PPC Energie S.A.. 
+Structura tranzacțiilor de energie electrică de pe PAN ale furnizorilor desemnați ca 
+furnizori de ultimă instanță pentru alimentarea clienților finali în regim de UI este prezentată în 
+tabelul următor pentru luna decembrie 2025 comparativ cu luna anterioară și respectiv pentru anul 
+2025 comparativ cu anul anterior.                                                                     
+                                                                                                                            - GWh - 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim UI) 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii     
+Contracte import 0,34 0,32 17,81 2,01 
+Contracte negociate 8,02 7,66 281,44 115,16 
+Piața centralizată a contractelor, din care: 2,36 2,25 160,00 70,05 
+− PCCB-LE-flex  0,45 0,43 139,24 21,54 
+− PCCB-NC 0,00 0,00 0,00 1,28 
+− PC-OTC  1,91 1,82 14,14 47,24 
+− PCE-ESRE-CV 0,00 0,00 6,61 0,00 
+− PCT-BRM 0,00 0,00 0,00 0,0002 
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC
+PCE-
+ESRE-
+CV
+PMC-
+BRM
+PCT-
+BRM
+producți
+e din 
+surse 
+proprii
+prosuma
+tori
+in
+calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM PZU PI clienti
+casnici
+clienti
+noncasni
+ci
+Preț mediu ponderat 595.92 545.92 536.47 569.87 554.17 285.31 514.47 553.57 342.30 569.24 545.84 667.41 673.51 473.95 592.07 453.78 542.04 588.74 454.42 453.79 424.11 720.13 657.86
+Preț minim 363.34 50.00 389.47 338.00 400.00 100.00 514.47 440.01 100.00 81.13 400.00 140.84 21.77 8.03 233.29 389.47 440.00 500.00 381.00 -143.05 -291.70 245.55 246.05
+Preț maxim 1,137.91 1,844.14 877.48 1,675.76 865.00 641.00 514.47 850.01 1,407.37 1,200.00 785.03 1,197.75 2,788.65 954.72 951.61 849.27 1,675.76 865.00 600.00 1,028.89 1,138.25 1,676.60 2,034.37
+Volum tranzacționat 1,531.49 9,634.30 9,415.19 1,066.46 3,608.12 713.68 32.35 762.04 170.91 1,280.28 1,019.21 4,903.76 194.07 535.96 2,124.17 784.29 410.56 430.75 32.46 1,549.90 154.29 11,758.17 16,115.18
+1531 GWh
+9634 GWh
+9415 GWh
+1066 GWh
+3608 GWh
+714 GWh
+32 GWh
+762 GWh
+171 GWh
+1280 GWh
+1019 GWh
+4904 GWh
+194 GWh 536 GWh
+2124 GWh
+784 GWh
+411 GWh
+431 GWh
+32 GWh
+1550 GWh
+154 GWh
+11758 GWh
+16115 GWh
+-2000
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concurențiali cu activitate pe piața angro și pe piața cu amănuntul 
+-Anul 2025-
+ACHIZIȚII VÂNZĂRI
+
+=== PDF PAGE 29 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 29 
+ 
+ 
+Structură tranzacţii furnizori cu activitate pe PAM 
+(regim UI) 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+De la prosumatori 0,24 0,14 74,43 26,70 
+MACEE - - 238,82 - 
+PZU 27,28 24,35 914,70 572,02 
+PI 0,00 0,00 20,82 15,99 
+Total achiziții 38,23 34,73 1708,01 801,93 
+Vânzări     
+     Contracte negociate 0,00 0,00 0,19 0,0002 
+PZU 0,62 0,42 12,22 6,88 
+PI 0,00 0,00 3,07 2,04 
+Contracte furnizare pe PAM, către clienţii finali din care: 37,80 34,38 1672,18 729,50 
+casnici 1,09 0,99 13,00 14,19 
+noncasnici 36,71 33,39 1659,18 715,31 
+Total vânzări 38,42 34,80 1687,67 738,42 
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare SMP 
+Notă: furnizarea pe PAM include și furnizarea în regim de UI realizată de SPEEH Hidroelectrica S.A.  
+ 
+Detalierea volumelor tranzacţionate și livrate, a nivelelor de preț minim, maxim și mediu 
+ponderat pentru tranzacțiile de energie electrică ale furnizorilor de ultimă instanță realizate în 
+vederea alimentării clienților finali în regim UI pentru luna analizată este reprezentată în graficul 
+următor. În luna noiembrie 2025, prețurile pentru clienții în regim UI s-au stabilit în conformitate 
+cu prevederile art. 19 din Regulamentul privind furnizarea de ultimă instanță a energiei electrice, 
+aprobat prin Ordinul ANRE nr. 91/2022 cu modificările și completările din Ordinul ANRE nr. 
+11/2025.  
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare SMP 
+ 
+import negociate PCCB-LE-flex PC-OTC prosumatori PZU PZU clienti casnici clienti
+noncasnici
+Pret mediu ponderat 593.00 584.20 550.54 552.69 706.91 615.16 473.51 785.02 814.40
+Pret minim 572.00 341.01 526.26 449.47 320.77 581.89 437.03 645.26 645.26
+Pret maxim 622.00 850.00 575.19 650.00 748.29 725.73 491.62 831.93 944.43
+Volum tranzactionat 0.32 7.66 0.43 1.82 0.14 24.35 0.42 0.99 33.39
+0.32 GWh
+8 GWh
+0.43 GWh
+2 GWh
+0.14 GWh
+24 GWh
+0.42 GWh 1 GWh
+33 GWh
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii de ultimă instanță pentru alimentarea în regim UI 
+- Decembrie 2025-
+ACHIZITII VANZARI
+
+=== PDF PAGE 30 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 30 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare SMP 
+ 
+ 
+Operatori de rețea 
+Structura tranzacțiilor de energie electrică ale operatorilor serviciului public de distribuție 
+a energiei electrice (denumiți în continuare operatori de distribuție concesionari), în calitate de 
+participanți la piață, în vederea acoperirii pierderilor din reţelele de distribuţie în luna decembrie 
+2025 comparativ cu luna anterioară și respectiv pentru anul 2025 comparativ cu anul anterior.                
+                                                                                                                                                   - GWh - 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari – prelucrare SMP 
+ 
+import negociate PCCB-LE-
+flex PCCB-NC PC-OTC PCT-BRM prosumatori PZU PI negociate PZU PI clienti
+casnici
+clienti
+noncasnici
+Preț mediu ponderat 548.56 572.34 625.60 448.10 535.65 517.38 595.38 684.78 716.46 609.47 360.32 448.05 555.78 627.91
+Pret minim 476.01 200.00 450.03 338.00 420.00 517.38 320.77 396.23 463.50 609.47 -143.05 241.52 275.40 465.12
+Pret maxim 622.00 1,051.69 744.75 550.00 771.96 517.38 866.34 928.69 2,788.65 609.47 642.93 718.96 870.28 989.87
+Volum tranzacționat 2.01 115.16 21.54 1.28 47.24 0.0002 26.70 572.02 15.99 0.0002 6.88 2.04 14.19 715.31
+2 GWh
+115 GWh
+22 GWh 1 GWh
+47 GWh
+0.0002 GWh
+27 GWh
+572 GWh
+16 GWh 0.0002 GWh
+7 GWh
+2 GWh 14 GWh
+715 GWh
+-1000
+0
+1000
+2000
+3000
+4000
+5000
+-600
+0
+600
+1200
+1800
+2400
+3000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii de ultimă instanță pentru alimentarea în regim UI 
+- Anul 2025-
+ACHIZITII VANZARI
+Structură tranzacţii  
+operatori distribuție concesionari 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii     
+     Contracte negociate 39,59 52,07 178,94 522,31 
+Piața centralizată a contractelor, din care: 257,27 287,78 335,89 2199,52 
+−  PCCB-LE-flex 100,17 110,48 197,89 1012,98 
+− PCCB-NC 61,16 59,53 3,67 331,44 
+− PC-OTC 35,98 55,78 56,80 341,83 
+− PMC-BRM 18,00 18,60 77,52 175,10 
+− PCT-BRM 41,98 43,40 0.00 338,18 
+    MACEE - - 2482,52 - 
+    PZU 125,80 229,90 1747,05 1818,07 
+    PI 2,79 4,61 11,59 40,81 
+Total achiziții 425,45 574,35 4755,99 4580,71 
+Vânzări     
+    PZU 1,82 0,00 3,31 4,65 
+ PI 0,52 0,14 1,40 2,90 
+Total vânzări 2,34 0,14 4,71 7,56 
+
+=== PDF PAGE 31 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 31 
+ 
+Structura achiziţiei de energie electrică a operatorului de transport și sistem pentru 
+acoperirea pierderilor din rețeaua de transport în luna decembrie 2025 comparativ cu luna 
+anterioară și respectiv pentru anul 2025 comparativ cu anul anterior.  
+                                                                                                                                                    - GWh - 
+Structură tranzacţii  
+operator de transport și sistem 
+Noiembrie 
+2025 
+Decembrie 
+2025 
+Anul 
+2024 
+Anul 
+2025 
+Achiziţii     
+     Contracte negociate 21,60 22,32 73,20 226,19 
+Piața centralizată a contractelor, din care: 25,20 26,04 0,00 321,83 
+−  PCCB-LE-flex 14,40 14,88 0,00 175,18 
+− PCCB-NC 7,20 7,44 0,00 87,59 
+− PCT-BRM 3,60 3,72 0,00 59,06 
+     MACEE - - 564,85 - 
+PZU 24,58 30,16 215,16 239,53 
+PI 3,14 2,38 24,31 25,67 
+Total achiziții 74,52 80,90 877,52 813,22 
+Vânzări     
+PI 0,24 0,34 3,91 4,49 
+Total vânzări 0,24 0,34 3,91 4,49 
+ 
+Sursa: Raportările lunare ale operatorului de transport și sistem – prelucrare SMP 
+ 
+Comparația dintre structura de achiziţie a celor 4 operatori de distribuție concesionari și a 
+operatorului de transport și sistem în luna decembrie 2025 și respectiv pentru anul 2025 este 
+reprezentată în graficul următor. 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari și operatorului de transport și sistem – 
+prelucrare SMP 
+ 
+DEER DELGAZ GRID DISTRIBUȚIE ENERGIE 
+OLTENIA
+REȚELE ELECTRICE 
+ROMANIA TRANSELECTRICA
+Negociate 0.00 0.00 18.60 33.47 22.32
+PCCB-LE-flex 55.06 18.23 0.00 37.20 14.88
+PCCB-NC 26.06 11.16 18.60 3.72 7.44
+PC-OTC 14.88 3.72 14.87 22.32 0.00
+PMC-BRM 7.44 3.72 0.00 7.44 0.00
+PCT-BRM 26.04 6.20 3.72 7.44 3.72
+Achiziție neta PZU 79.31 22.14 23.19 105.25 30.16
+Achiziție neta PI 4.46 0.00 0.001 0.00 2.04
+-1
+50
+100
+150
+200
+250
+GWh
+Structura achizitiilor de energie electrica ale OD concesionari si OTS
+pentru acoperirea consumului propriu tehnologic in retele
+- Decembrie 2025 -
+
+=== PDF PAGE 32 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 32 
+ 
+ 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari și operatorului de transport și sistem – 
+prelucrare SMP 
+ 
+ 
+4. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale 
+ 
+Structura pieţei la nivelul energiei electrice produsă și livrată în rețele  oferă o bază 
+iniţială pentru aprecierile privind gradul de competitivitate posibil pe piaţa energiei electrice.  
+În continuare sunt prezentați indicatorii de concentrare (cote de piață, cota primilor 3 și 
+HHI) care caracterizează luna decembrie 2025 și respectiv anul 2025 în ceea ce privește cantitatea 
+de energie electrică produsă și livrată în rețele de producătorii monitorizați (titulari ai licenței de 
+exploatare comercială a capacităților de producere, având cel puțin o centrală electrică cu putere 
+instalată > 5 MW). 
+ 
+Indicatori de concentrare           
+- Decembrie 2025 - C1 (%) C3 (%) HHI 
+Valoare 29,31 61,79 1551 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEER DELGAZ GRID DISTRIBUȚIE ENERGIE 
+OLTENIA
+REȚELE ELECTRICE 
+ROMANIA TRANSELECTRICA
+Negociate 0.00 0.00 258.47 263.85 226.19
+PCCB-LE-flex 389.90 236.33 0.02 386.74 175.18
+PCCB-NC 139.48 54.59 133.65 3.72 87.59
+PC-OTC 124.90 29.41 34.07 153.45 0.00
+PMC-BRM 108.86 22.08 0.00 44.16 0.00
+PCT-BRM 284.44 31.80 7.32 14.63 59.06
+Achiziție neta PZU 682.92 141.37 147.60 841.53 239.53
+Achiziție neta PI 36.43 0.00 0.95 0.53 21.19
+-1
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+GWh
+Structura achizitiilor de energie electrica ale OD concesionari si OTS
+pentru acoperirea consumului propriu tehnologic in retele
+- Anul 2025 -
+
+=== PDF PAGE 33 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 33 
+ 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+PZU oferă tuturor participanților posibilitatea realizării echilibrului la nivel orar între 
+obligațiile contractuale, prognoza de consum și disponibilitatea tehnică a segmentului de 
+producere a energiei electrice. Astfel, surplusul sau deficitul de energie electrică se poate echilibra 
+la nivel orar pentru a doua zi, prin participarea la vânzarea sau cumpărarea energiei pe PZU, în 
+funcție de necesități și indiferent de licența deținută de un participant la piață.  
+Indicatorii de concentrare pe această piaţă reflectă gradul de concurenţă manifestat între 
+vânzători, respectiv cumpărători, dinamica acestora putând influenţa nivelul preţului. 
+PZU-OPCOM: Pentru toate tranzacțiile de vânzare/cumpărare încheiate de participanții 
+la această piață, OPCOM S.A. este contraparte. 
+PZU-BRM: Pentru toate tranzacțiile de vânzare/cumpărare încheiate de participanții la 
+această piață, BRM S.A. este contraparte. 
+Tabelele următoare prezintă C1, C3 şi HHI la vânzare, respectiv la cumpărare, determinaţi 
+pe baza cantităţilor tranzacţionate de participanţii pe PZU administrate de OPCOM și BRM. 
+Indicatori de concentrare 
+PZU–OPCOM 
+-Decembrie 2025- 
+C1 (%) C3 (%) HHI 
+                  Vânzare 22,19 50,03 1000 
+Cumpărare 12,00 34,13 639 
+Sursa:  Raportările lunare ale  OPCOM S.A.  
+ 
+ 
+ 
+ 
+Hidroelectrica
+26.02%
+Nuclearelectrica
+21.95%OMV Petrom
+12.54%
+CE Oltenia
+11.37%
+Elcen
+3.29%
+EDPR România
+2.31%
+PPC Renewables Romania
+2.11%
+Romgaz
+1.51%
+Societatea Electrocentrale 
+Craiova
+1.34%
+Tomis Team
+1.14%
+Verbund Wind Power 
+România
+0.88%
+Ovidiu Development
+0.86%
+Ingka Investments Renewable 
+Energy Romania
+0.74%
+CET Govora
+0.57%
+Alții
+13.37%
+Cotele de piață ale producătorilor monitorizați în funcție de energia livrată în rețele
+Ianuarie -Decembrie 2025
+Energie electrică livrată în rețele - 46082,15 GWh
+C1 - 26,02%
+C3 - 60,51%
+HHI - 1476
+Categoria "Alții" include 156 producători ale căror 
+cote de piață individuale se situează sub 0,50%
+
+=== PDF PAGE 34 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 34 
+ 
+ 
+Indicatori de concentrare 
+PZU–BRM 
+- Decembrie 2025- 
+C1 (%) C3 (%) HHI 
+                  Vânzare 19,64 46,79 1042,35 
+Cumpărare 20,71 47,02 1089,74 
+Sursa:  Raportările lunare ale  BRM S.A.  
+O componentă a pieţei angro de energie electrică pe care se manifestă direct concurenţa 
+între furnizorii de servicii de echilibrare este PE. Valorile indicatorilor de concentrare la nivelul 
+acestei pieţe în luna decembrie 2025 și respectiv anul 2025, determinaţi pe baza energiei angajate, 
+pentru fiecare din cele 3 tipuri de reglaje sunt prezentate în tabelul următor.  
+ Indicatori de concentrare 
+PE 
+-Decembrie 2025- 
+Reglaje 
+RRFa RRFm RI 
+creștere reducere creștere reducere creștere reducere 
+C1 (%) 37 30 64 24 - - 
+C3 (%) 69 63 81 68 - - 
+HHI 2062 1655 4349 1754 - - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+Indicatori de concentrare 
+PE 
+-Anul 2025- 
+Reglaje 
+RRFa RRFm RI 
+creștere reducere creștere reducere creștere reducere 
+C1 (%) 34 30 66 42 100 - 
+C3 (%) 68 61 82 81 100 - 
+HHI 1929 1659 4547 2611 10000 - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+În tabelul următor sunt prezentaţi indicatorii de concentrare pe tip de rezerve de putere 
+achiziționate de CNTEE T ranselectrica S.A. de la furnizorii de servicii de echilibrare  calificați, 
+în urma organizării licitațiilor pentru luna decembrie 2025 și respectiv anul 2025 pentru rezerve 
+de restabilire a frecvenței cu activare automată (RRFa) , cu activare manuală (RRFm) și de 
+înlocuire (RI). Pentru rezerva de înlocuire (RI) nu s-au organizat licitații. 
+Indicatori de concentrare 
+ Piaţa serviciilor de sistem  
+-Decembrie 2025- 
+RRFa RRFm RI 
+Cantitate contractată 
+(h*MW) 259430 411302 - 
+C1 (%) 27,35 22,47 - 
+C3 (%) 63.47 57,50 - 
+HHI 1782 1410 - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 35 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 35 
+ 
+ 
+Indicatori de concentrare 
+ Piaţa serviciilor de sistem  
+-Anul 2025- 
+RRFa RRFm RI 
+Cantitate contractată 
+(h*MW) 3370667 6174971 - 
+C1 (%) 24,59 46,71 - 
+C3 (%) 61,05 71,90 - 
+HHI 1655 2628 - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+5. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică 
+Începând din 19 noiembrie 2014, piaţa pentru ziua următoare din România a funcţionat în 
+regim cuplat cu pieţele spot din Ungaria, Slovacia şi Republica Cehă, în proiectul 4M MC – 
+mecanismul de cuplare prin preţ a pieţelor pentru ziua următoare, pe baza algoritmului de cuplare 
+recomandat de ACER (Euphemia). 
+Din data de 17 iunie 2021, a devenit operațional proiectul Interim Coupling prin care piaţa 
+pentru ziua următoare din România a trecut la funcționarea în regim cuplat la nivel European prin 
+extinderea mecanismului de cuplare pe 6 noi granițe (PL -DE, PL-CZ, PL-SK, CZ-DE, CZ-AT, 
+HU-AT).  
+În data de 27 octombrie 2021, au fost finalizate operaţiunile de cuplare a graniţei RO-BG 
+în SDAC, permițând, astfel, conectarea piețelor pentru ziua următoare din Grecia și Bulgaria în 
+cadrul proiectului pan-european SDAC (Single Day-ahead Coupling). 
+Începând cu data de 08 iunie 2022, piaţa pentru ziua următoare din România a trecut la 
+următoarea etapă prevăzută de Regulamentul (UE) 2015/1222 al Comisiei din 24 iulie 2015 de 
+stabilire a unor linii directoare privind alocarea capacităților și gestionare a congestiilor 
+(Regulamentul CACM), prin implementarea proiectului CORE FB MC (cuplare pe bază de 
+fluxuri). 
+În graficul următor este prezentată evoluția preţurilor medii lunare începând cu luna 
+noiembrie 2014 (momentul cuplării în proiectul 4M MC ) înregistrate pe PZU de țările membre 
+ale proiectului pan-european SDAC. 
+
+=== PDF PAGE 36 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 36 
+ 
+ 
+Sursa: Informaţii publicate pe platforma ENTSO-E (EMFIP) – prelucrare SMP 
+Prezentăm grafic evoluţia la nivel orar pentru luna decembrie 2025, a diferenţei dintre 
+preţurile de închidere a PZU cuplat pe zona România -Ungaria corelată cu fluxurile 
+transfrontaliere rezultate pe graniţa România -Ungaria, pe ambele direcţii și diferenţa dintre 
+preţurile de închidere a PZU cuplat pe zona România -Bulgaria corelată cu fluxurile 
+transfrontaliere rezultate pe graniţa România-Bulgaria pe ambele direcţii. 
+ 
+Sursa: Date publice OPCOM S.A. și platforma ENTSO-E (EMFIP) – prelucrare SMP 
+16
+56
+96
+136
+176
+216
+256
+296
+336
+376
+416
+456
+496
+536
+Euro/MWh
+Evolutie prețuri PZU cuplat în țările din proiectul 4M MC și în țările cuplate după integrarea în SDAC
+Noiembrie 2014 - Decembrie 2025
+PIP Ungaria PIP România PIP Slovacia PIP Cehia PIP Austria PIP Germania PIP Polonia
+SDAC
+-100.00
+-50.00
+0.00
+50.00
+100.00
+150.00
+200.00
+250.00
+300.00
+-1000.00
+-500.00
+0.00
+500.00
+1000.00
+1500.00
+2000.00
+2500.00
+3000.00
+1 24 47 70 93 116 139 162 185 208 231 254 277 300 323 346 369 392 415 438 461 484 507 530 553 576 599 622 645 668 691 714 737
+Flux RO-HU Flux HU-RO Δ =PIP RO-PIP HU
+Euro/MWhMWh
+Evoluția orară a ecartului dintre PIP România și PIP Ungaria și a fluxurilor 
+transfrontaliere rezultate
+- Decembrie 2025-
+intervalele orare aferente lunii analizate
+
+=== PDF PAGE 37 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 37 
+ 
+ 
+ 
+Sursa: Date publice OPCOM S.A. și platforma ENTSO-E (EMFIP)– prelucrare SMP 
+Începând cu data de 19 noiembrie 2024, ca dată de tranzacționare, a devenită operațională 
+și PZU organizată de BRM. 
+Din data de 19 noiembrie 2019, piața intrazilnică din România a funcționat în regim cuplat 
+cu piețele din celelalte state membre UE participante la proiectul european SIDC (Single Intra-
+Day Coupling), din 29 noiembrie 2022 numărul de țări participante extinzându -se la 25.  Noile 
+reguli de tranzacționare au fost elaborate și aprobate de toate autoritățile de reglementare din țările 
+participante și de ACER în conformitate cu prevederile Regulamentului CACM.  
+În graficul următor sunt prezentate volumul tranzacționat lunar și preţul mediu ponderat 
+pe piața intrazilnică organizată de OPCOM începând cu luna ianuarie 2021.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-400.00
+0.00
+400.00
+800.00
+1200.00
+1600.00
+2000.00
+2400.00
+2800.00
+-400.00
+0.00
+400.00
+800.00
+1200.00
+1600.00
+2000.00
+2400.00
+2800.00
+1 24 47 70 93 116 139 162 185 208 231 254 277 300 323 346 369 392 415 438 461 484 507 530 553 576 599 622 645 668 691 714 737
+Flux RO-BG Flux BG-RO Δ =PIP RO-PIP BG
+Euro/MWhMWh
+Evoluția orară a ecartului dintre PIP România și PIP Bulgaria și a fluxurilor 
+transfrontaliere rezultate  
+- Decembrie 2025-
+intervalele orare aferente lunii analizate
+
+=== PDF PAGE 38 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 38 
+ 
+ 
+                  
+Sursa: Date publice OPCOM S.A. – prelucrare SMP 
+Din data de 13 iunie 2024, ca dată de tranzacționare, OPCOM a lansat tranzacționarea 
+prin licitații intra-zilnice (IDA). Prin Decizia 04/2020, ACER a adoptat Metodologia de Algoritm, 
+care încorporează licitațiile intrazilnice (IDA) pentru a respecta cerința de stabilire a prețului 
+capacității interzonale în Cuplarea unică a piețelor intrazilnice (SIDC) prevăzută la articolul  55 
+din Regulamentul CACM, precum și dispozițiile Metodologiei de stabilire a prețului capacității 
+transfrontaliere în intervalul de timp intrazilnic. Astfel, cerințele algoritmului pentru piața 
+intrazilnică includ atât cerințele pentru algoritmul de corelare continuă , cât și cerințele pentru 
+algoritmul IDA. Ca urmare, începând cu această dată, Piața Intrazilnică organizată de OPCOM 
+include două mecanisme de tranzacționare în cadrul SIDC: mecanismul de corelare continuă 
+(IDCT) și mecanismul de licitații intrazilnice (IDA).  
+Începând cu data de 22 mai 2024, ca dată de tranzacționare, PI organizată de BRM a 
+devenit operațională, în urma deciziei ANRE nr. 1739 din 04.07.2023  prin care BRM a primit 
+calitatea de OPEED al PZU și PI pe o perioadă de 4 ani.  
+În graficul următor sunt prezentate volumul tranzacționat lunar și preţul mediu ponderat 
+pe piața intrazilnică organizată de BRM începând cu luna iunie 2024, când PI organizată de BRM 
+a devenit operațională.  
+ 
+ 
+ 
+ 
+ 
+0
+280
+560
+840
+1120
+1400
+1680
+1960
+2240
+2520
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+Ian Mar Mai Iul Sep Nov Ian Mar Mai Iul Sep Nov Ian Mar Mai Iul Sep Nov Ian Mar Mai Iul Sep Nov Ian Mar Mai Iul Sep Nov
+2021 2022 2023 2024 2025
+Evoluţie Piaţă Intrazilnică România* cuplată în proiectul  european SIDC
+Ianuarie 2021 - Decembrie 2025
+Volum tranzacționat Preț mediu ponderat
+* Date aferente tranzacționării pe platforma OPCOM 
+
+
+=== PDF PAGE 39 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 39 
+ 
+ 
+ 
+Sursa: Date publice BRM S.A. – prelucrare SMP 
+Pentru acoperirea diferenţelor dintre valorile planificate/contractate ale consumului şi 
+respectiv producţiei şi valorile acestora apărute în timp real, operatorul de sistem (CNTEE 
+Transelectrica S.A.) operează piaţa de echilibrare (PE), “cumpărând” sau “vânzând” energie la 
+preţurile marginale determinate de ofertele producătorilor participanți la PE. 
+Începând cu data de 1 februarie 2021, au intrat în vigoare modificări referitoare la 
+funcționarea PE și la decontarea dezechilibrelor, dintre care enumerăm:  
+• Trecerea la intervalul de decontare de 15 minute; 
+• Utilizarea prețului unic de dezechilibru ca metodă de decontare a dezechilibrelor PE; 
+• Utilizarea unei metode de calcul pentru prețuri duale de dezechilibru (preț de deficit și 
+preț de excedent) în intervalele de decontare în care zona de dezechilibru este aproape 
+echilibrată și pentru care s-a apreciat că metoda prețului unic de dezechilibru nu este cea 
+mai eficientă metodă de decontare a dezechilibrelor PE din punct de vedere economic. 
+ 
+Valorile prețurilor pe intervale de decontare pentru deficit şi excedent au fost utilizate 
+pentru prezentarea preţurilor medii lunare ale fiecărui interval de decontare comparativ cu 
+consumul mediu intern brut realizat în luna curentă, precum și a evoluției prețurilor medii lunare 
+realizate pe PE comparativ cu PIP PZU. În luna decembrie 2025, au fost calculate prețuri duale 
+de dezechilibru pentru 592 intervale de decontare. 
+Mai
+24 Iun Iul Aug Sep Oct Nov Dec Ian
+25 Feb Mar Apr Mai Iun Iul Aug Sep Oct Nov Dec
+Volum tranzacționat 0.005 1 9 10 70 108 100 129 121 127 145 163 197 258 256 250 217 203 165 220
+Preț mediu ponderat 468 791 896 637 421 427 720 684 650 763 488 421 443 453 539 376 499 660 655 618
+0
+75
+150
+225
+300
+375
+450
+525
+600
+675
+750
+825
+900
+975
+1050
+1125
+1200
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+lei/MWhGWh
+Evoluţie Piaţă Intrazilnică România** cuplată în proiectul  european SIDC
+Mai 2024 - Decembrie 2025
+**Date aferente tranzacționării pe platforma BRM 
+
+=== PDF PAGE 40 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 40 
+ 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi CNTEE Transelectrica S.A.  
+ – prelucrare SMP 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi CNTEE Transelectrica S.A.  
+ – prelucrare SMP 
+-2000
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+-400
+-200
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2200
+2400
+2600
+2800
+3000
+3200
+1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96
+MWhlei/MWh Valori medii pe interval de decontare - preturi dezechilibre si consum intern brut realizat
+Decembrie 2025
+Pret de excedent Pret de deficit Pret PZU Consum intern brut realizat
+-1500
+-1000
+-500
+0
+500
+1000
+1500
+2000
+2500
+lei/MWh
+Preturi medii lunare inregistrate pe PZU si PE
+Ianuarie 2021 - Decembrie 2025
+Pret mediu pe PZU Pret mediu de deficit Pret mediu de excedent
+Poly. (Pret mediu pe PZU) Poly. (Pret mediu de deficit) Poly. (Pret mediu de excedent)
+
+=== PDF PAGE 41 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 41 
+ 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ  
+Piața cu amănuntul de energie electrică reprezintă, conform Legii, cadrul în care energia 
+electrică este cumpărată de clienţii finali, în vederea satisfacerii consumului propriu. Pe această 
+piață, furnizorii vând energie electrică clienților finali prin contracte de furnizare la prețuri 
+negociate sau stabilite prin oferte-tip. 
+Dimensiunea pieței cu amănuntul este dată de energia electrică furnizată clienților casnici 
+și clienților finali noncasnici, pe tipuri de regim de furnizare: concurențial, serviciu universal sau 
+ultimă instanță.  
+În ceea ce privește furnizarea energiei electrice în regim de serviciu universal, menționăm 
+că începând cu data de 1 ianuarie 2022, potrivit prevederilor Legii, furnizorilor de energie 
+electrică care au încheiate contracte în piața concurențială cu clienții casnici le revine obligația 
+publicării de oferte pentru furnizarea în regim de serviciu universal și încheierii contractelor de 
+furnizare pentru acest tip de serviciu, dacă primesc o solicitare în acest sens. 
+În conformitate cu prevederile Metodologiei de monitorizare a pieței cu amănuntul de 
+energie electrică aprobată prin Ordinul președintelui ANRE nr. 17/2023 ( Metodologia PAM), 
+participantul la PAM este atât titularul unei licențe pentru furnizare de energie electrică care 
+furnizează energie electrică clienților casnici sau clienților finali noncasnici în baza acestei 
+licențe, cât și producătorul monitorizat PAN care nu deține licență de furnizare dar care furnizează 
+energie electrică clienților finali alimentați direct din instalațiile electrice proprii în baza dreptului 
+complementar din licența pentru exploatarea capacităților de producere a energiei electrice. De 
+asemenea, datele din prezentul Raport lunar cuprind și energia aferentă consumului furnizorilor 
+la propriile locuri de consum, indiferent de modalitatea de asigurare a acesteia: prin achiziție pe 
+contracte de furnizare în calitate de client final, achiziție de pe piața angro sau din producție 
+proprie.  
+Din aceste motive, între lista de participanți activi pe PAM, așa cum rezultă din 
+monitorizarea în baza Metodologiei PAM și lista furnizorilor de energie electrică care introduc 
+oferte-tip de energie electrică destinate clienților casnici și finali noncasnici pot exista diferențe. 
+Sursa tuturor indicatorilor prezentați în acest capitol o constituie raportările lunare ale 
+participanților la PAM, conform obligațiilor de raportare din Metodologia PAM. 
+În concordanță cu prevederile Regulamentului (UE) 1952/2016 al Parlamentului 
+European şi al Consiliului  și ale Metodologiei PAM, indicatorii din cuprinsul Raportului lunar 
+caracterizează clienții finali și nu se referă la locurile de consum ale acestora.  
+Structura pe tranșe de consum pe categoriile de clienţi finali este în conformitate cu 
+intervalele de consum anual prevăzute pentru fiecare tranșă în Regulamentul (UE) 1952/2016 al 
+Parlamentului European şi al Consiliului:  
+ 
+ 
+
+
+=== PDF PAGE 42 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 42 
+ 
+1. Participanții la piața cu amănuntul de energie electrică 
+În tabelul următor sunt prezentați participanţii la piaţa cu amănuntul de energie electrică, 
+activi în luna decembrie 2025. 
+ 
+* furnizori desemnați FUI, în conformitate cu prevederile Ordinului ANRE nr. 91/2022 cu modificările și 
+completările ulterioare.  
+ 
+1 A6 Impex 35 Hermes Energy International SRL
+2 Alive Capital SA 36 ICCO Energ SRL
+3 Alro SA 37 ICPE Electrocond Technologies SA
+4 Anchor Grup SA 38 Ingka Investiments Renewable Energy Romania SRL
+5 Auchan Renewable Energy SRL 39 ISPH
+6 Best Energy SRL 40 Liberty Galati
+7 Complexul Energetic Oltenia SA 41 Luxten Lighting Company SA
+8 Cooperativadeenergie Furnizare SRL 42 Mar-Tin Solar Energy SRL
+9 Cotroceni Park SA 43 Mazarine Energy Romania SRL
+10 Crest Energy SRL 44 MET Romania Energy SA
+11 Dacia Energy Solutions SRL 45 Monsson Trading SRL
+12 DIGI Romania SA 46 MVM Future Energy Technology SRL
+13 E.ON Energie Romania SA* 47 New Energy Management
+14 East Wind Farm SRL 48 Next Energy Parteners SRL
+15 EFT Power SRL 49 Nova Power&Gas SRL
+16 Elcata MHC SRL 50 OMV Petrom SA
+17 Electric Planners SRL 51 Photovoltaic Green Project SRL
+18 Electrica Furnizare SA* 52 Plenerg SRL
+19 Electricom SA 53 PPC Energie SA*
+20 EM Power 54 Power Peak Trading
+21 Energy Core Development SRL 55 Premier Energy Furnizare SA*
+22 Energy Distribution Services SRL 56 Renovatio Trading SRL
+23 Energy Tech Entera SRL 57 Renewa Power SRL
+24 Enevo Power 58 Rig Biomass
+25 Engie România SA 59 SNGN Romgaz SA
+26 Entrex Services SRL 60 Solprim SRL
+27 Eol Energy SRL 61 SPEEH Hidroelectrica SA*
+28 Eye Mall SRL 62 Tinmar Energy SA
+29 Gan Energy SRL 63 Tinmar Green Energy SRL
+30 Ges Furnizare SRL 64 Uzinsider General Contractor SA
+31 Getica 95 Com SRL 65 Veolia România Soluții Integrate SA 
+32 Green Vision Seven SRL 66 Verbund Wind Power Romania SRL
+33 Grenerg SRL 67 Vimetco Management Romania SRL
+34 Harghita Energy Broker SRL 68 Werk Energy SRL
+1 AOT Energy SRL 16 Modern Calor SA
+2 Azomures SA 17 Monsson SRL
+3 Bepco SRL 18 Petrotel-Lukoil SA
+4 CET Govora SA 19 Romelectro Bucuresti SA
+5 Chimcomplex Borzesti SA 20 Rulmenti SA
+6 Compania Locala de Termoficare Colterm SA 21 Skybase Energy SRL
+7 Contour Global Solutions SRL 22 SN Nuclearelectrica SA
+8 EGGER Romania SRL 23 Societatea Complexul Energetic Valea Jiului SA
+9 Electrocarbon 24 Societatea Electrocentrale Craiova SA
+10 Electrocentrale Bucureşti SA 25 Termo Ploiesti SRL
+11 Electroutilaj SA 26 Vienna Energy Forta Naturala SRL
+12 Elsid SA 27 Warehouses De Pauw Romania SRL
+13 Electrificare CFR SA 28 ZG Timber Sebes SRL
+14 HS Timber Productions Reci SRL
+15 HS Timber Productions SRL
+TITULARI LICENȚĂ DE FURNIZARE ENERGIE ELECTRICĂ CU CLIENȚI FINALI,
+ ACTIVI ÎN LUNA DECEMBRIE 2025
+Titulari licenta care comercializeaza energie electrica doar la clientii finali alimentati direct din instalatiile electrice aferente 
+unitatilor de producere/retelele electrice proprii sau care raporteaza doar autoconsum (consum propriu)
+ACTIVI IN LUNA DECEMBRIE 2025
+
+=== PDF PAGE 43 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 43 
+ 
+2. Numărul de clienți finali  
+Numărul clienților casnici și al clienților finali noncasnici, cărora li se furnizează energie electrică 
+în luna decembrie 2025, sunt prezentați în funcție de tranșele de consum și regimurile de furnizare 
+pe care apar înregistrați la sfârșitul lunii de analiză. 
+Număr clienți finali noncasnici  
+Tranşă de  consum 
+-Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 235.384 231.092 4.292 
+IB 54.378 52.278 2.100 
+IC 6.845 6.679 166 
+ID 2.443 2.413 30 
+IE 171 171  
+IF 29 29  
+IG 32 32  
+Total 299.282 292.694 6.588 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+În următorul grafic prezentăm evoluția lunară din perioada  ianuarie 2024 – decembrie 
+2025 a numărului de clienți finali noncasnici în funcție de regimul de furnizare. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+Număr clienți casnici  
+Tranşă de  consum 
+-Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 4.176.537 2.857.035 1.314.571 4.931 
+DB 3.144.396 2.232.524 908.785 3.087 
+DC 1.094.692 839.368 254.828 496 
+DD 332.584 281.421 51.062 101 
+DE 42.761 37.011 5.738 12 
+Total 8.790.970 6.247.359 2.534.984 8.627 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+nr. clienți Evoluția numărului de clienți finali noncasnici pe regimuri de furnizare
+noncasnici - regim concurențial noncasnici - regim UI
+
+=== PDF PAGE 44 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 44 
+ 
+Evoluția numărului de clienți casnici, defalcat pe regimuri de furnizare, în perioada 
+ianuarie 2024 – decembrie 2025 este prezentată lunar în următorul grafic. 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+La sfârșitul lunii de analiză, numărul clienților casnici alimentați în regim de UI reprezintă 
+0,1% din numărul total de clienți casnici, iar al clienților finali noncasnici în regim de UI 
+reprezintă 2,2% din numărul total de clienți finali noncasnici. Datele aferente regimului UI pentru 
+ambele tipuri de clienți, reflectă atât situația clienților intrați în regim UI (preluați automat sau la 
+cerere) în luna de raportare, cât și a celor intrați anterior şi care au rămas în acest regim, la nivelul 
+tuturor furnizorilor de ultimă instanță (indiferent dacă au fost nominalizați sau nu pentru luna de 
+raportare).  
+3.  Consumul de energie electrică al clienților finali 
+În următoarele tabele este prezentat consumul de energie electrică al clienților finali, 
+structurat pe tip de client, tranșe de consum și pe regimuri de furnizare,  pentru luna decembrie 
+2025, respectiv pentru anul 2025. 
+Consumul clienților finali noncasnici  
+pe tranșe de consum și regimuri de furnizare în luna decembrie 2025 
+             - GWh - 
+Tranșă de consum 
+-Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 239,21 234,33 4,89 
+IB 535,29 523,16 12,13 
+IC 296,78 288,40 8,38 
+ID 610,04 602,05 7,99 
+IE 358,91 358,91  
+IF 134,74 134,74  
+IG 649,19 649,19  
+Total 2.824,16 2.790,77 33,39 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP  
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+7,000,000
+8,000,000
+9,000,000
+nr. clienți Evoluția numărului de clienți casnici pe regimuri de furnizare
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+
+=== PDF PAGE 45 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 45 
+ 
+ 
+Consumul clienților finali noncasnici pe tranșe de consum  
+și regimuri de furnizare în anul 2025 
+          - GWh – 
+Tranșă de consum 
+-Anul 2025- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 2.470,01 2.399,87 70,14 
+IB 5.780,43 5.524,87 255,56 
+IC 3.399,29 3.207,00 192,30 
+ID 7.299,59 7.129,40 170,19 
+IE 4.542,04 4.515,00 27,04 
+IF 2.105,45 2.105,45   
+IG 8.483,43 8.483,34 0,08 
+Total 34.080,23 33.364,92 715,31 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP  
+ 
+Consumul clienților finali casnici  
+pe tranșe de consum și regimuri de furnizare în luna decembrie 2025 
+      - GWh - 
+Tranșă de consum 
+- Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 229,24 179,99 48,91 0,34 
+DB 497,79 370,94 126,46 0,38 
+DC 337,22 267,83 69,18 0,21 
+DD 168,38 144,84 23,50 0,04 
+DE 51,68 47,03 4,63 0,02 
+Total 1.284,31 1.010,63 272,68 0,99 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Consumul clienților finali casnici  
+pe tranșe de consum și regimuri de furnizare în anul 2025 
+      - GWh - 
+Tranșă de consum 
+- Anul 2025- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 2.418,45 1.730,73 682,60 5,13 
+DB 5.639,85 4.104,98 1.529,51 5,35 
+DC 3.778,64 2.957,32 818,69 2,63 
+DD 1.775,27 1.500,18 274,37 0,72 
+DE 552,71 492,22 60,14 0,35 
+Total 14.164,92 10.785,43 3.365,30 14,19 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+În tabelul următor este prezentat numărul de clienți finali și consumul de energie electrică 
+defalcate pe tipuri de clienți și regimuri de furnizare pentru luna decembrie 2025, respectiv anul 
+2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 46 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 46 
+ 
+ 
+Structura numărului de clienți finali și a consumului clienților finali  
+defalcat pe tip client/regim de furnizare în luna decembrie 2025 
+ 
+Tip client 
+- Decembrie 2025- 
+Clienți Consum 
+Număr  Pondere 
+(%) 
+Cantitate 
+(MWh) 
+Pondere 
+(%) 
+Total din care: 9.090.252 100,00% 4.108.465,02 100,00% 
+Casnic  8.790.970 96,71% 1.284.305,30 31,26% 
+- concurențial 6.247.359 68,73% 1.010.632,26 24,60% 
+- SU 2.534.984 27,89% 272.680,03 6,64% 
+- UI 8.627 0,09% 993,01 0,02% 
+Noncasnic  299.282 3,29% 2.824.159,71 68,74% 
+- concurențial 292.694 3,22% 2.790.769,20 67,93% 
+- UI 6.588 0,07% 33.390,51 0,81% 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Structura consumului clienților finali în anul 2025 
+defalcat pe tip client/regim de furnizare 
+ 
+Tip client 
+ 
+Consum – Anul 2025 
+Cantitate 
+(MWh) 
+Pondere 
+(%) 
+Total din care: 48.245.147,33 100,00% 
+Casnic  14.164.918,79 29,36% 
+- concurențial 10.785.426,19 22,36% 
+- SU 3.365.302,68 6,98% 
+- UI 14.189,91 0,03% 
+Noncasnic  34.080.228,54 70,64% 
+- concurențial 33.364.917,68 69,16% 
+- UI 715.310,86 1,48% 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+În cazul clienților finali care în cursul lunii de analiză au trecut dintr-un regim de furnizare 
+în altul, consumul pe fiecare din regimuri corespunde perioadei din lună în care clientul final a 
+fost încadrat în regimul de furnizare respectiv. 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația clienților 
+intrați în regim UI (preluați automat sau la cerere) în luna de raportare, cât și a celor intrați 
+anterior, dar care au rămas în acest regim, la nivelul tuturor  furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare).  
+În luna decembrie 2025, ponderea consumului de energie electrică aferent clienților 
+casnici în regim concurențial din consumul total aferent clienților casnici a fost de cca. 79%. 
+Evoluţia lunară pe ultimele 24  de luni a cantităţilor de energie electrică furnizate clienţilor 
+finali, detaliat pe tipuri de client și regimuri de furnizare, este prezentată în următorul grafic, iar 
+
+=== PDF PAGE 47 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 47 
+ 
+în cel de -al doilea grafic este prezentată comparativ, pentru aceeași perioadă, evoluția lunară a 
+consumului de energie electrică defalcat pe categorii de clienți finali. 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+GWh
+Evoluția consumului de energie electrică al clienților finali
+casnici - regim concurențial noncasnici - regim concurențial casnici - regim SU noncasnici - regim UI casnici - regim UI
+1,246 1,321 1,112 1,218 1,161 1,242 1,063 1,157 1,042 1,116 1,075 1,086 1,240 1,189 1,204 1,157 1,078 1,068 1,139 1,156 1,197 1,171 1,351 1,284
+2,891 2,846
+2,614
+2,769 2,885 2,778
+2,682 2,630 2,694 2,748 2,914 2,862
+3,169 3,110 2,884 2,934
+2,689 2,819 2,784 2,899 2,924 2,860
+2,823 2,824
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025
+ianuarie februarie martie aprilie mai iunie iulie august septembrie octombrie noiembrie decembrie
+GWh Comparația cu luna similară din anul anterior
+a consumului de energie electrică pe piața cu amănuntul, pe categorii de clienți finali
+Consum clienți casnici Consum clienți noncasnici
+
+=== PDF PAGE 48 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 48 
+ 
+ 
+4. Prețuri medii de furnizare la clienții finali  
+ 
+Prețurile medii de furnizare a energiei electrice s -au determinat ca medii ponderate între 
+prețurile prevăzute în condițiile contractuale din contractele de furnizare  încheiate cu clienții 
+finali încadrați pe respectiva tranșă de consum și cantitățile de energie electrică furnizate acestora.  
+Acestea includ prețul energiei electrice active conform contractului încheiat cu clienții 
+finali încadrați pe respectiva tranșă de consum (format din componenta de achiziție a energiei 
+electrice care include tariful de introducere în rețea și componenta de  furnizare) și tarifele 
+reglementate pentru serviciile de rețea prestate. Prețul mediu de furnizare NU include taxele 
+(certificate verzi, cogenerare de înaltă eficiență, contribuția aferentă contractelor de diferență, 
+acciză) sau TVA. 
+În conformitate cu prevederile Metodologiei PAM, prețurile medii de furnizare raportate 
+de participanții la PAM pe fiecare categorie de clienți și tranșă de consum corespund energiei 
+consumate în luna de raportare și reflectă condițiile contractuale, care începând cu luna iulie 2025 
+reprezintă prețurile facturate clienților finali.  
+Pentru clienții finali (casnici, noncasnici) preluați de FUI în regim UI după data intrării în 
+vigoare a Regulamentului privind furnizarea de ultimă instanță a energiei electrice, aprobat prin 
+Ordinul președintelui ANRE nr. 91/2022 cu modificările și completările din Ordinul ANRE nr. 
+11/2025, furnizarea energiei electrice se realizează în baza contractelor de furnizare a energiei 
+electrice încheiate în conformitate cu prevederile Contractului-cadru de furnizare a energiei 
+electrice la clienții finali prelua ți de către furnizorul de ultimă instanță  (aprobat prin același 
+Ordin).  
+În următoarele tabele se prezintă agregat pe tranșe de consum și regimuri de furnizare 
+prețul mediu de furnizare al energiei electrice către clienții finali, detaliat pe tip de client pentru 
+pentru luna decembrie 2025, respectiv pentru anul 2025. 
+Prețul mediu de furnizare 
+pe tranșe de consum și regimuri de furnizare 
+clienți finali noncasnici în luna decembrie 2025 
+ 
+            lei/MWh 
+Tranșă de consum 
+- Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 1008,59 1006,44 1111,63 
+IB 995,35 992,10 1135,80 
+IC 871,92 864,36 1132,38 
+ID 800,30 796,16 1112,33 
+IE 757,42 757,42   
+IF 658,07 658,07   
+IG 621,26 621,26   
+Total 809,05 805,26 1125,79 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 49 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 49 
+ 
+ 
+Prețul mediu de furnizare 
+pe tranșe de consum și regimuri de furnizare 
+clienți finali noncasnici în anul 2025 
+            lei/MWh 
+Tranșă de 
+consum 
+- Anul 2025- 
+Total 
+PAM 
+Regim  
+concurențial 
+Regim  
+UI 
+IA 1014,35 1017,02 922,91 
+IB 1019,24 1023,10 935,84 
+IC 852,95 849,21 915,24 
+ID 770,26 767,20 898,40 
+IE 717,31 716,94 778,95 
+IF 640,33 640,33   
+IG 606,399 606,395 1012,780 
+Total 782,56 779,73 914,20 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Prețul mediu de furnizare  
+pe tranșe de consum și regimuri de furnizare  
+clienți casnici în luna decembrie 2025 
+    lei/MWh 
+Tranșă de consum 
+     -Decembrie 2025- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 1130,09 1100,08 1240,50 1136,48 
+DB 1163,10 1138,73 1234,60 1158,94 
+DC 1114,35 1083,95 1231,94 1159,66 
+DD 1016,63 981,95 1230,17 1166,75 
+DE 960,54 934,10 1228,03 1152,67 
+Total 1117,06 1085,34 1234,49 1151,54 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Prețul mediu de furnizare  
+pe tranșe de consum și regimuri de furnizare  
+clienți casnici în anul 2025 
+    lei/MWh 
+Tranșă de consum 
+     - Anul 2025- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 1060,98 1054,73 1078,06 894,36 
+DB 1075,96 1069,94 1092,75 892,74 
+DC 1047,50 1030,76 1108,22 961,81 
+DD 968,43 943,97 1102,06 1011,21 
+DE 910,41 887,57 1096,83 1000,73 
+Total 1045,87 1030,91 1094,37 914,86 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Evoluţia lunară a prețului mediu de furnizare al energiei electrice vândute clienților finali 
+detaliat pe tipuri de clienți și regimuri de furnizare este prezentată în următoarele grafice. 
+ 
+ 
+ 
+
+=== PDF PAGE 50 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 50 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+lei/MWh Evoluția prețurilor medii de furnizare a energiei electrice la clienții finali noncasnici 
+noncasnici - regim concurențial noncasnici - regim UI
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+lei/MWh Evoluția prețurilor medii de furnizare a energiei electrice la clienții finali casnici 
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+
+=== PDF PAGE 51 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 51 
+ 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația clienților 
+intrați în regim UI (preluați automat sau la cerere) în luna de raportare, cât și a celor intrați 
+anterior, dar care au rămas în acest regim, la nivelul tuturor  furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare). 
+ 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică 
+Gradul de concentrare depinde de numărul participanților la PAM și de dimensiunea 
+activității de furnizare pe fiecare segment de clienți sau regim de furnizare. Indicatorii de 
+concentrare sunt de natură să indice existența eventualei posibilități de exerci tare a puterii de 
+piață.  
+Prezentăm în continuare, sub formă grafică, cotele de piață  ale participanților activi pe 
+PAM în luna decembrie 2025, respectiv pentru anul 2025  (furnizori concurențiali, furnizori de 
+ultimă instanţă, producători) din cantitatea totală de energie electrică furnizată clienţilor casnici 
+și finali noncasnici, pentru toate tipurile de regimuri de furnizare (concurențial, SU, UI). 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 79 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților finali
+- Decembrie 2025 -
+Consum final: 4108,47 GWh 
+
+=== PDF PAGE 52 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 52 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Cotele de piață ale participanților activi în  luna decembrie 2025, respectiv pentru anul 
+2025 (furnizori concurențiali, furnizorii de ultimă instanţă, producători) pe piața concurențială 
+din cantitatea totală de energie electrică furnizată clienţilor casnici și finali noncasnici în regim 
+concurențial sunt prezentate în graficul de mai jos. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 89 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților finali
+- An 2025 -
+Consum final: 48245,15 GWh 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute în regim concurențial clienților finali
+- Decembrie 2025 -
+Consum final: 3801,40 GWh 
+Indicatori concentrare piață: C1 - 18,62%; C3 - 45,83%; HHI - 880,85 Categoria "Alții" include 79 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+
+=== PDF PAGE 53 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 53 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+În graficele următoare sunt prezentate cotele de piață ale furnizorilor activi pe PAM în 
+funcție de numărul de clienți finali deserviți în luna decembrie 2025 și de cantitatea de energie 
+electrică furnizată clienților casnici și clienților finali noncasnici în luna decembrie 2025 și în 
+anul 2025. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute în regim concurențial clienților finali
+- AN 2025 -
+Consum final: 44150,34 GWh 
+Indicatori concentrare piață: C1 - 16,22%; C3 - 42,69%; HHI - 782,69 Categoria "Alții" include 88 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+31.96%
+27.12%
+16.23%
+11.70%
+9.83%
+1.95% 1.20%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Cotele de piață ale participanților activi pe PAM în funcție de numărul de clienți finali
+- Decembrie 2025 -
+Categoria "Alții" include 90 de participanți la piață ale căror cote de piață individuale sunt sub 1%. În această categorie nu sunt incluși acei 
+participanți la piață care au fost activi pe PAM pe parcursul lunii de raportare, dar până la sfârșitul lunii au rămas fără c lienți. 
+
+=== PDF PAGE 54 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 54 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27.72% 25.89%
+20.60%
+12.64%
+9.92%
+3.23%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Categoria "Alții" include 24 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților casnici
+- Decembrie 2025 -
+Consum final: 1284,31 GWh 
+29.98% 28.56%
+14.87%
+12.53% 10.94%
+1.66% 1.45%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Categoria "Alții" include 25 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților casnici
+- An 2025 -
+Consum final: 14164,92 GWh 
+
+=== PDF PAGE 55 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 55 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Precizăm că, în calculul de determinare a valorilor indicatorilor de piaţă, nu s-a ţinut cont 
+de principiul dominanţei, fiind evidențiată cota fiecărui furnizor în parte, indiferent de apartenența 
+acestuia la un grup de societăți afiliate. Cantitatea de energie electrică furnizată pe baza căreia s-
+a stabilit cota de piaţă a fiecărui furnizor include consumul la locurile de consum proprii ale 
+marilor clienţi industriali care deţin şi licenţă de furnizare şi care au decis să -şi achiziţioneze 
+energia de pe piaţa angro, în calitate de furnizori concurenţiali.  
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 75 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute clienților finali noncasnici
+- Decembrie 2025 -
+Consum final: 2824,16 GWh 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 85 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute clienților finali noncasnici
+- An 2025 -
+Consum final: 34079,96 GWh 
+
+=== PDF PAGE 56 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 56 
+ 
+Valorile indicatorilor de concentrare şi numărul furnizorilor activi în  luna decembrie 
+2025, respectiv pentru anul 2025 , la nivelul întregii cantități de energie furnizate pe PAM sunt 
+prezentate în tabelele următoare, defalcat pe tipuri de clienți finali (noncasnici/casnici) și pe tranşe 
+de consum. 
+Indicatori de 
+concentrare  
+Total PAM 
+- Decembrie 2025- 
+Tranșe consum 
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 41 26 15 12 16 19 33 16 
+C3 (%) 72 57 38 29 41 52 55 35 
+HHI 2328 1417 794 568 819 1207 1558 646 
+Consum (GWh) 239 535 297 610 359 135 649 2824 
+Nr. furnizori activi 61 72 56 52 30 15 23 95 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de 
+concentrare  
+Total PAM 
+- Anul 2025- 
+Tranșe consum 
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 41 26 17 11 17 18 30 15 
+C3 (%) 75 58 41 28 41 46 50 33 
+HHI 2464 1445 842 524 812 997 1329 592 
+Consum (GWh) 2470 5780 3399 7300 4542 2105 8483 34080 
+Nr. furnizori activi 67 81 61 59 32 17 27 107 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de concentrare  
+Total PAM 
+- Decembrie 2025- 
+Tranșe consum  
+Clienți casnici  
+ DA DB DC DD DE Total 
+C1 (%) 30 32 31 44 55 28 
+C3 (%) 70 74 77 86 87 74 
+HHI 2086 2226 2236 2924 3560 2125 
+Consum (GWh) 229 498 337 168 52 1284 
+Nr. furnizori activi 26 24 24 21 21 29 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de concentrare  
+Total PAM 
+- Anul 2025- 
+Tranșe consum  
+Clienți casnici  
+ DA DB DC DD DE Total 
+C1 (%) 33 33 32 38 49 30 
+C3 (%) 77 77 76 85 86 73 
+HHI 2342 2378 2277 2632 3139 2216 
+Consum (GWh) 2418 5640 3779 1775 553 14165 
+Nr. furnizori activi 28 26 25 23 23 31 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+În mod similar, prezentăm indicatorii de concentrare şi numărul furnizorilor activi în luna 
+decembrie 2025, respectiv pentru anul 2025 , la nivelul componentei concurențiale a energiei 
+electrice furnizate clienților finali noncasnici/casnici. 
+ 
+
+=== PDF PAGE 57 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 57 
+ 
+ 
+Indicatori de 
+concentrare 
+Regim Concurențial 
+-Decembrie 2025- 
+Tranșe consum 
+Clienți noncasnici 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 42 26 16 12 16 19 33 16 
+C3 (%) 72 56 38 29 41 52 55 35 
+HHI 2373 1417 794 574 819 1207 1558 647 
+Consum (GWh) 234 523 288 602 359 135 649 2791 
+Nr. furnizori activi 61 72 56 52 30 15 23 95 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de 
+concentrare 
+Regim Concurențial 
+-Anul 2025- 
+Tranșe consum 
+Clienți noncasnici 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 41 26 17 11 17 18 30 15 
+C3 (%) 75 57 40 29 41 46 50 33 
+HHI 2486 1416 825 531 814 997 1329 589 
+Consum (GWh) 2400 5525 3207 7129 4515 2105 8483 33365 
+Nr. furnizori activi 68 80 61 59 32 17 26 107 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de  
+concentrare 
+ Regim Concurențial 
+- Decembrie 2025- 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 31 32 31 51 60 30 
+C3 (%) 71 68 77 88 88 75 
+HHI 2110 2096 2250 3408 4065 2157 
+Consum (GWh) 180 371 268 145 47 1011 
+Nr. furnizori activi 26 24 24 21 21 29 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Indicatori de  
+concentrare 
+ Regim Concurențial 
+- Anul 2025- 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 36 36 34 44 55 34 
+C3 (%) 72 73 77 86 87 74 
+HHI 2245 2269 2291 3027 3650 2189 
+Consum (GWh) 1731 4105 2957 1500 492 10785 
+Nr. furnizori activi 28 26 25 23 23 31 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 58 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 58 
+ 
+ 
+IV. STRUCTURA PE TIPURI DE SURSE PRIMARE DE ENERGIE A PRODUCȚIEI DE 
+ENERGIE ELECTRICĂ DIN ROMÂNIA ȘI VALORILE INDICATORILOR DE MEDIU 
+ASOCIAȚI ENERGIEI ELECTRICE PRODUSE LA NIVEL NAȚIONAL, PENTRU 
+FIECARE TIP DE SURSĂ PRIMARĂ 
+ 
+În conformitate cu prevederile Regulamentului de etichetare a energiei electrice,  aprobat prin 
+Ordinul președintelui ANRE nr. 61/2016, cu modificările și completările ulterioare, pe baza 
+declarațiilor producătorilor de energie electrică referitoare la cantitatea totală de energie electrică 
+produsă s-a calculat structura pe tipuri de surse primare de energie a producției de energie electrică 
+din România, prezentată mai jos. 
+În anul 2025,  valorile specifice medii la nivel național ale emisiilor de CO 2 și ale deșeurilor 
+radioactive rezultate din producerea energiei electrice au fost de 170,01 g/kWh, respectiv de 0,005 
+g/kWh. Prin raportarea la aceste valori, furnizorii de energie electrică  vor specifica în etichetele 
+pe care le vor elabora dacă energia electrică pe care au furnizat -o clienților finali în anul 2025  a 
+avut impact asupra mediului înconjurător sub/peste media națională.    
+                      
+ 
+  
+
+
+=== PDF PAGE 59 ===
+Raport monitorizare piaţă de energie electrică – luna decembrie 2025 
+ 59 
+ 
+ 
+Valorile specifice medii ale emisiilor de CO2 pe tipuri de surse primare de energie, prezentate în 
+tabelul următor, sunt determinate ca medie ponderată a emisiei specifice realizate și a energiei 
+electrice produse de fiecare producător pe fiecare tip de sursă primară: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sursă primară de energie 
+ 
+Emisii specifice CO2 
+[g/kWh] 
+ 
+Cărbune 720,95 
+Gaze naturale 370,65 
+Păcură 849,41 
+Alte surse convenţionale 412,35 
+Surse regenerabile 0 
+Media sectorială 170,01 

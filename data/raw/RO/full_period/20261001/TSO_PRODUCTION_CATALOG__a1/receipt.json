@@ -1,0 +1,21 @@
+{
+  "id": "TSO_PRODUCTION_CATALOG",
+  "dataset": "D09-D10",
+  "publisher": "Transelectrica",
+  "title": "Production / available and installed capacity",
+  "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:27.254674+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_PRODUCTION_CATALOG__a1/original.html",
+  "sha256": "62749e8132db35965cbe55b0d1acd23f589f942f16b996a165bde802f3fa1c36",
+  "bytes": 57093,
+  "detected_format": "html"
+}

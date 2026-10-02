@@ -1,0 +1,17 @@
+{
+  "id": "DAMAS_USERGATE_JS",
+  "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/public/4.23.3/userGate.js",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:18:02.236637+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/public/4.23.3/userGate.js",
+  "content_type": "application/javascript; charset=UTF-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_USERGATE_JS__a1/original.html",
+  "sha256": "e51fd1661841cb10bfa3fc2bb97578f766f314ea8233bde1cc542ff313381686",
+  "bytes": 376110,
+  "detected_format": "html"
+}

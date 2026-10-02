@@ -1,0 +1,17 @@
+{
+  "id": "TSO_STS_INFO_NET",
+  "url": "https://www.transelectrica.ro/web/tel/295",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:11:54.742495+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/web/tel/295",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO_NET__a1/original.html",
+  "sha256": "26fa5f08a1ec5b7bf3fd39a45997f3e37c4604b025ab49870c32a70d6a8dede6",
+  "bytes": 5749704,
+  "detected_format": "html"
+}

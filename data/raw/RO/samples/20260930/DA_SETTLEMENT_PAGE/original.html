@@ -1,0 +1,1072 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>OPCOM: Tranzactii rezultate</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/tranzactii-rezultate/ro/10">
+			<img src="https://www.opcom.ro/pcs/ro.jpg" />
+		</a>
+		
+		
+	
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniven.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026en.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniven.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5en.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitareen.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5en.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:700px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/en" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/14.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/en">&nbsp;<img src="https://www.opcom.ro//pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/en/136">Trades - results</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/en/137">Trading - Products</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/en/138">Announcements - News</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/en/139">Company</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->        
+<div id="men_left"><div class="menu"><h3>Trades - Results</h3>
+			  <ul>
+				<li><a href="#url" class="level11" ><p>Day-Ahead Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pzu-limita-scala-pret/en">Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportAtc/en">Available Transfer Capacity-ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/grafice-ip-raportPIP-si-volumTranzactionat/en" >RO Trading results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportMarketResults/en">Market Coupling Results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-preturi-blocuri/en">Block prices</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en">Aggregated Curves</a></li>
+						
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market&nbsp;&raquo;</p></a>
+                    <ul>
+						<li><a href="#url" class="level21" ><p>Continuous Trading <br />(IDCT)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >Market Coupling Results IDCT</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+							</ul>
+					    </li>
+						<li><a href="#url" class="level2n" ><p>Intra-Day Auctions<br />(IDA)&nbsp;&raquo;</p></a>	
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-ida-limite-scala-pret/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-raport-atc/en" ><p>Available Transfer Capacity - ATC</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en" >RO Trading Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-cuplare/en" >Market Coupling Results IDA</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-pret-blocuri/en" >Blocks Prices</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-ida-curbe-agregate/en">Aggregated Curves</a></li>
+							</ul>
+					    </li>
+					</ul>
+                    <!--
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >ID Market Coupling Results SIDC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+					</ul>
+                    -->
+				</li>
+	
+	
+	       		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market with double continuous negociation for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CM-OTC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-otc-raport-rez-otc/en">Daily Results</a></li>
+ 								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc50/en"><p>Full details of transactions exceeding 50MW</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc10/en"><p>Full details of transactions with the closing price variation greater than 10%</p></a></li> 
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc-date-zilnice-agregate2/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-otc-statistici-otc/en"><p>Statistics</p></a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralised Market for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level21"><p>Flexible Extended Auctions Mechanism (CMBC-EA-flex)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-le-flex-of-rez-pcccb-le-flex/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-rez-pccb-le-flex/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-neconforme-le-flex/en">Inconsistent Offers</a></li>
+ 							    <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/316">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/317">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pccb-le-flex-statistici-flex/en">Statistics</a></li>								
+								</ul>
+					   </li>
+					   <li><a href="#url" class="level21"><p>Continuous Negotiation Mechanism<br/>(CMBC-CN)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-nc-rezultate-pccbnc/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-imgpccbnc/en">Trading Sistem Display</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/215">Inconsistent Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/304">Cancelled Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/216">Cancelled Transactions</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-raport-pccbnc-date-zilnice-agregate/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-nc-statistici/en">Statistics</a></li>								
+							</ul>
+                       </li>
+					   <li><a href="#url" class="level21"><p>Archive Results (CMBC-EA)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-oferte-rezultate-pccb-le/en"><p>Announcements-Offers</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-neconforme/en">Inconsistent Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/303">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/211">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-statisticiPCCBLE/en">Statistics</a></li>
+							</ul>
+					   </li>
+                       <li><a href="#url" class="level21" ><p>Archive Results CMBC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-raport-ofertePCCB/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/157">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/101">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/94">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/96">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/97">Results 2007</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/98">Results 2006</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-raportCentralizatorRezultatePCCB/en">Summary Report</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-raportStatisticiPCCB/en">Statistics</a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n"><p>Archive Results CMBC-CN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC2011/en">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/93">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/115">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/116">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/117">Results 2007</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/118">Statistics</a></li>
+							</ul>
+					  </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralized Market for Electricity from Renewable Energy Sources Supported by Green Certificates&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level2n"><p>CME-RES-GC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pce-esre-cv-rapoarte-oferte-rezultate/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-neconforme/en">Inconsistent Offers</a></li>
+ 	        				    <li><a class="subm" href="https://www.opcom.ro/pccb-tranzactii-rezultate/en/309">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pce-esre-cv-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+						
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for Universal Service&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/pcsu-raport/en/286">Auction Opening Prices</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcsu-raport-rezultate/en/287">Monthly Results</a></li>
+						<li><a href="#url" class="level2n" ><p>PCSU 2015-2017 Archive&nbsp;&raquo;</p></a>
+						<ul>
+							<li><a class="level21" href="https://www.opcom.ro/pcsu-raport-oferte/en/232">Announcements-Specifications</a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/pcsu-raport-rezultate/en/233">Results</a></li>
+						</ul>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Electricity market for large consumers&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>LMC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/199">Announcements - Results</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--PCTL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for awarding Long Term Electricity Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CMLT Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/338">Announcements</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/339">Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/334">Inconsistent Contracts</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+<!--GAZE-->						
+				<li><a href="#url" class="nivel_intermediar" ><p>Day Ahead Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pzu-gn-raport/en">Daily Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pzu-gn-tranzactii-rezultate/en/329"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>										
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pi-gn-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/330"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/331"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>
+		
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralised Market for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-rezultate/en">Offers and Results</a></li>
+							    <li><a class="subm" href="https://www.opcom.ro/pcgnln-rapoarte-obligatie-ofertare/en"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/323"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 143/17.07.2020</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/324"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LP&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Announcements, Offers and Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/325"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/326"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n" ><p>Trading mechanism PCGN-OTC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgn-otc-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/327"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/328"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--Gaze Flex PPF-TL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Market for Flexible Medium and Long Term Products for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/345">Announcements, Offers </a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/346">Results</a></li>
+					</ul>
+				</li>
+
+				<li><a href="#url" class="nivel_intermediar"><p>Green Certificates Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized spot market (GCACSM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcscv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcv-pcscv-rapoarte-oferte/en">Offers GCACSM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Archive of Centralised Green certificates Market (CGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/54">Session Results CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/64">Archive of Aggregate Curves CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/174"><p>Archive of Weighted Average Market Price CGCM</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/254">Monthly Reports CGCM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized term market (GCACTM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pctcv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcv-pctcv-rapoarte-oferte/en">Offers GCACTM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/266">Invalid Contracts</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21" href="#url"><p>Archive of Centralised Bilateral Contracts of GC Market (CBCGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcbcv-rapoarte/en">Offers and Results CBCGCM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/53">Monthly Reports CBCGCM</a></li>
+						    </ul>
+						</li>
+						<li><a href="#url" class="level21"><p>List of economic operators who have not fulfilled the obligation to acquire GCs&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/267">Quarter</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/268">Year</a></li>
+							</ul>
+						</li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-lunare/en/269"><p>Monthly reports GCM&nbsp;&raquo;</p></a>
+						</li>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar"><p>Settlement&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/10">Day-Ahead Market</a></li>
+						<!-- <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Intra-Day Market</a></li> -->
+						<li><a href="#url" class="level21" >Intra-Day Market</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Continuous trading (IDCT)</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/383">Intra-Day Auctions (IDA)</a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/292">Day Ahead Market for Natural Gas</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/16">Balancing Market 2011-Jan.2021</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/234">Balancing Market 2005-2010</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/26">Redistribution Incomes/Costs</a></li>		
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n"><p>Market Surveillance&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21">Reports&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/21">Annual Reports</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/22">Monthly Reports</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/25">Weekly Reports</a></li>
+							</ul>	
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/ropexfm/en">ROPEX_FM and Delivery Quantity</a></li>	
+						<li><a href="#url" class="level2n">Concentration Indices&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/grafice-ip-indicatori-pzu/en"><p>DAM Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pi/en"><p>ID Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pcotc/en"><p>CM-OTC Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccble/en"><p>CMBC-EA-Flex indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-le-flex/en"><p>CMBC-EA Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccbnc/en"><p>CMBC-CN Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-esre/en"><p>CME-RES-GC indices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/grafice-ip-indicatori-pcscv/en"><p>GCACSM Indices</p></a></li>
+							</ul>	
+						</li>
+					</ul>
+				</li>
+			
+				
+			</ul></div></div><!--meniu stanga-->
+<div id="contp">
+	<title>&nbsp;OPCOM:&nbsp;DAM Settlement Results</title><b>This page is available in Romanian only</b>
+<div class="titlu"> REZULTATE Decontare, încasări şi plăţi pe PZU </div>
+<p>&nbsp;</p>
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2026</font></strong>
+<br/>
+<span style="color: darkgreen">Septembrie:</span><br />
+
+În data de 30 septembrie 2026 au fost emise 69 Ordine de plata in valoare de 30.980.065,00 lei pentru livrările de energie electrică din data de 30 septembrie 2026.
+Pentru livrările de energie electrică din luna septembrie 2026 au fost emise în total 1.975 Ordine de plată în valoare de 838.492.374,94 lei.
+
+
+<br/>
+<span style="color: darkgreen">August:</span><br />
+Pentru luna august 2026 au fost emise în total 2.085 Ordine de plată în valoare de 747.055.661,82 lei.
+<br/>
+<span style="color: darkgreen">Iulie:</span><br />
+Pentru luna iulie 2026 au fost emise în total 2.064 Ordine de plată în valoare de 578.886.444,18 lei.
+<br/>
+<span style="color: darkgreen">Iunie:</span><br />
+Pentru luna iunie 2026 au fost emise în total 2.084 Ordine de plată în valoare de 536.704.327,67 lei.
+<br/>
+<span style="color: darkgreen">Mai:</span><br />
+Pentru luna mai 2026 au fost emise în total 2.286 Ordine de plată în valoare de 537.619.218,08 lei .
+<br/>
+<span style="color: darkgreen">Aprilie:</span><br />
+Pentru luna aprilie 2026 au fost emise în total 2.119 Ordine de plată în valoare de 528.510.790,36 lei .
+<br />		
+<span style="color: darkgreen">Martie:</span><br />
+Pentru luna martie 2026 au fost emise în total 1.954 Ordine de plată în valoare de 682.854.381,67 lei.
+</br>
+<span style="color: darkgreen">Februarie:</span><br />
+Pentru luna februarie 2026 au fost emise în total 1.755 Ordine de plată în valoare de 713.962.189,89 lei.
+</br>
+<span style="color: darkgreen">Ianuarie:</span><br />
+Pentru luna ianuarie 2026 au fost emise în total 1.841 Ordine de plată în valoare de 1.103.844.185,48 lei.
+
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2025</font></strong>
+<br/>
+<span style="color: darkgreen">Decembrie:</span><br />Pentru luna decembrie 2025 au fost emise în total 1.954 Ordine de plată în valoare de 815.543.506,87 lei.
+<br/>
+<span style="color: darkgreen">Noiembrie:</span><br />Pentru luna noiembrie 2025 au fost emise în total 1.955 Ordine de plată în valoare de 712.633.430,22 lei.<br/>
+<span style="color: darkgreen">Octombrie:</span><br/>
+Pentru luna octombrie 2025 au fost emise în total 2.046 Ordine de plată în valoare de 773.581.919,14 lei.
+<br/>
+<p><span style="color: darkgreen">Septembrie:</span><br/>
+Pentru luna septembrie 2025 au fost emise în total 1.972 Ordine de plată în valoare de 469.230.889,74 lei.
+<br/>
+<p><span style="color: darkgreen">August:</span><br/>
+Pentru luna august 2025 au fost emise în total 2.029 Ordine de plată în valoare de 398.798.197,96 lei.
+<br/>
+<p><span style="color: darkgreen">Iulie:</span><br/>
+Pentru luna iulie 2025 au fost emise în total 2.294 Ordine de plată în valoare de 561.715.152,55 lei.
+<br/>
+<span style="color: darkgreen">Iunie:</span><br/> 
+Pentru luna iunie 2025 au fost emise în total 2.385 Ordine de plată în valoare de 446.567.931,94 lei.
+<br/>
+<span style="color: darkgreen">Mai:</span><br/> 
+Pentru luna mai 2025 au fost emise în total 2.361 Ordine de plată în valoare de 458.569.220,31 lei.
+<br/>
+<span style="color: darkgreen">Aprilie:</span><br/> 
+Pentru luna aprilie 2025 au fost emise în total 2.451 Ordine de plată în valoare de 480.330.081,80 lei.<br/>
+<span style="color: darkgreen">Martie:</span><br/> 
+Pentru luna martie 2025 au fost emise în total 2.546 Ordine de plată în valoare de 645.404.083,52 lei.<br/>
+<span style="color: darkgreen">Februarie:</span><br/> 
+  Pentru luna februarie 2025 au fost emise în total 2.146 Ordine de plată în valoare de 960.799.022,99 lei.<br/>
+<span style="color: darkgreen">Ianuarie:</span><br />Pentru luna ianuarie 2025 au fost emise în total 2.358 Ordine de plată în valoare de 1.121.222.991,30 lei.<br/></p>
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2024</font></strong><br/>
+<span style="color: darkgreen">Decembrie:</span><br />Pentru luna decembrie 2024 au fost emise în total 2.514 Ordine de plată în valoare de 1.202.102.230,81 lei.<br/>
+<span style="color: darkgreen">Noiembrie:</span><br />Pentru luna noiembrie 2024 au fost emise în total 2.505 Ordine de plată în valoare de 1.396.375.247,80 lei.<br/>
+<span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie 2024 au fost emise în total 2.707 Ordine de plată în valoare de 667.005.034,70 lei.<br/>
+<span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie 2024 au fost emise în total 2.484 Ordine de plată în valoare de 756.927.699,88 lei.<br/>
+<span style="color: darkgreen">August:</span><br/>Pentru luna august 2024 au fost emise în total 2.619 Ordine de plată în valoare de 985.975.774,61 lei.<br/>
+<span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie 2024 au fost emise în total 2.522 Ordine de plată în valoare de 1.420.895.820,06 lei.<br/>
+<span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie 2024 au fost emise în total 2.536 Ordine de plată în valoare de 628.653.059,86 lei.<br/>
+<span style="color: darkgreen">Mai:</span><br/>Pentru luna mai 2024 au fost emise în total 2.616 Ordine de plată în valoare de 615.434.488,66 lei.<br/>
+<span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie 2024 au fost emise în total 2.648 Ordine de plată în valoare de 519.229.045,24 lei.<br/>
+<span style="color: darkgreen">Martie:</span><br/>Pentru luna martie 2024 au fost emise în total 2.856 Ordine de plată în valoare de 683.989.170,06 lei.<br/>
+<span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie 2024 au fost emise în total 2.889 Ordine de plată în valoare de 530.995.588,00 lei.<br/>
+<span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie 2024 au fost emise în total 2.927 Ordine de plată în valoare de 876.488.705,82 lei.<br/>
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2023</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie 2023 au fost emise în total 3.001 Ordine de plată în valoare de 607.069.061,73 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie 2023 au fost emise în total 2.958 Ordine de plată în valoare de 725.747.940,72 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie 2023 au fost emise în total 3.185 Ordine de plată în valoare de 495.087.719,74 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie 2023 au fost emise în total 2.879 Ordine de plată în valoare de 511.191.098,58 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august 2023 au fost emise în total 2.921 Ordine de plată în valoare de 609.313.109,05 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie 2023 au fost emise în total 3.026 Ordine de plată în valoare de 630.512.730,57 lei.<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie 2023 au fost emise în total 3.005 Ordine de plată în valoare de 559.845.760,34 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai 2023 au fost emise în total 3.202 Ordine de plată în valoare de 494.685.141,85 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 3.153 Ordine de plată în valoare de 712.274.952,27 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 3.042 Ordine de plată în valoare de 734.637.091,27 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 2.876 Ordine de plată în valoare de 969.349.560,79 lei.<br/>
+
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 2.958 Ordine de plată în valoare de 1.374.456.514,68 lei.
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2022</font></strong><br />
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise în total 2.834 Ordine de plată în valoare de 1.916.629.220,52 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 2.897 Ordine de plată în valoare de 1.616.621.202,85 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 3.539 Ordine de plată în valoare de 1.258.767.633,70 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 3.931  Ordine de plată în valoare de 2.550.701.955,08 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 4.144 Ordine de plată în valoare de 4.296.105.633,97 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 4.044 Ordine de plată în valoare de 3.369.476.522,35 lei.<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise în total 4.063 Ordine de plată în valoare de 2.059.532.145,14 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise în total 4.228 Ordine de plată în valoare de 1.750.959.828,37 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 3.958 Ordine de plată în valoare de 1.515.369.748,17 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 4.022 Ordine de plată în valoare de 2.660.731.026,55 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 3.717 Ordine de plată în valoare de 1.578.711.817,65 lei.<br/>
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 4.376 Ordine de plată în valoare de 1.995.395.054,77 lei.
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2021</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise în total 4.488 Ordine de plată în valoare de 2.270.807.233,36 lei.<br />
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 4.257 Ordine de plată în valoare de 1.831.751.470,87 lei.<br />
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 4.496 Ordine de plată în valoare de 1.630.244.916,81 lei.<br />
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 4.121 Ordine de plată în valoare de 1.034.392.717,00 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 4.165 Ordine de plată în valoare de 904.712.047,64 lei.<br />
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 4.265 Ordine de plată în valoare de 837.134.504,84 lei.<br />
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise în total 4.596 Ordine de plată în valoare de 736.170.075,70 lei.<br />
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise în total 5.155 Ordine de plată în valoare de 630.620.584,94 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 5.275 Ordine de plată în valoare de 709.819.665,05 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 5.802 Ordine de plată în valoare de 602.655.139,99 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 5.092 Ordine de plată în valoare de 479.129.783,39 lei.<br/>
+<span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 5.677 Ordine de plată în valoare de 603.048.139,98 lei.
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2020</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise în total 5.739 Ordine de plată în valoare de 541.880.632,18 lei.<br />
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 5.540 Ordine de plată în valoare de 378.407.354,27 lei.<br />
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 5.749 Ordine de Plată în valoare de 371.397.298,78 lei.<br />
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 5.359 Ordine de Plată în valoare de 323.439.529,12 lei.<br />
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 5.679 Ordine de plată în valoare de 288.706.793,53 lei.<br />
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 5.861 Ordine de plată în valoare de 281.089.762,08 lei.<br />
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise în total 5.590 Ordine de plată în valoare de 270.918.722,44 lei.<br />
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise în total 6.178 Ordine de plată în valoare de 215.200.225,07 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 6.121 Ordine de plată în valoare de 209.497.664,42 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 5.916 Ordine de plată în valoare de 323.038.411,28 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 5.321 Ordine de plată în valoare de 379.170.574,38 lei.<br/>
+<span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 5.573 Ordine de plată în valoare de 603.002.525,67 lei.
+<p><strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2019</font></strong><br/>
+  <span style="color: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie au fost emise în total 5.892 Ordine de Plata in valoare de 317.207.907,78 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 5.725 Ordine de Plata in valoare de 295.498.970,71 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 5.402 Ordine de Plata in valoare de 391.807.693,60 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 5079 Ordine de Plata in valoare de 431.716.465,68 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 5.344 Ordine de Plata in valoare de 438.525.476,24 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 5.336 Ordine de Plata in valoare de 402.574.903,00 lei.<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise in total 5.340 Ordine de Plata in valoare de 288.511.494,36 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise in total 5.631 Ordine de Plata in valoare de 297.824.949,05 lei.<br/>
+  
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise in total 5.693 Ordine de Plata in valoare de 367.105.719,35 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise in total 5.978 Ordine de Plata in valoare de 296.247.887,01 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise in total 5.368 Ordine de Plata in valoare de 384.031.308,33 lei.<br/>
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise in total 5.673 Ordine de Plata in valoare de 665.946.706,33 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2018</font></strong><br/>	
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise in total 5.942 Ordine de Plata in valoare de 511.730.418,44 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 5.803 Ordine de Plata in valoare de 431.476.642,10 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 6.079 Ordine de Plata in valoare de 387.906.618,69 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 5.758 Ordine de Plata in valoare de 352.951.640,32 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 6.204 Ordine de Plata in valoare de 305.778.128,67 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 6.183 Ordine de Plata in valoare de 269.944.097,13 lei<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise în total 6.374 Ordine de Plata in valoare de 327.063.033,38 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise în total 6.727 Ordine de Plata in valoare de 304.056.923,07 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 6.488 Ordine de Plata in valoare de 214.973.839,42 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 6.398 Ordine de Plata in valoare de 310.219.828,42 lei.<br/>
+  
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 5.564 Ordine de Plata in valoare de 297.545.353,35 lei<br/>
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 6.144 Ordine de Plata in valoare de 291.012.063,40 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2017</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise în total 6.318 Ordine de Plata in valoare de 282.154.638,08 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie au fost emise în total 6.033 Ordine de Plata in valoare de 362.257.668,82 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie au fost emise în total 6.370 Ordine de Plata in valoare de 313.108.056,74 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie au fost emise în total 5.576 Ordine de Plata in valoare de 339.319.444,10 lei.<br/>
+  
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august au fost emise în total 5.547 Ordine de Plata in valoare de 485.717.603,05 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie au fost emise în total 5.340 Ordine de Plată în valoare de 462.885.946,97 lei.<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie au fost emise în total 5.148 Ordine de Plata in valoare de 303.558.578,36 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise în total 5.080 Ordine de Plata in valoare de 328.484.001,75 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie au fost emise în total 4.798 Ordine de Plata in valoare de 359.560.427,03 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie au fost emise în total 4.993 Ordine de Plata in valoare de 312.276.634,09 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie au fost emise în total 4.204 Ordine de Plata in valoare de 453.438.386,63 lei.<br/>
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie au fost emise în total 4.112 Ordine de Plata in valoare de 721.829.184,73 lei.<br/><br/> 
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2016</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie au fost emise în total 4.483 Ordine de Plata in valoare de 364.705.819,66 lei.<br/>
+  <span style="color: darkgreen">Noiembrie:</span><br/>Pentru luna noimbrie au fost emise în total 4.234 Ordine de Plata in valoare de 319.845.867,88 lei.<br/>
+  <span style="color: darkgreen">Octombrie:</span><br/>Pentru luna octombrie, au fost emiseîn total 4.277 Ordine de Plată, în valoare de 364.525.730,28 lei.<br/>
+  <span style="color: darkgreen">Septembrie:</span><br/>Pentru luna septembrie, au fost emise in total 3.685 Ordine de Plată, în valoare de 265.250.246,88 lei.<br/>
+  <span style="color: darkgreen">August:</span><br/>Pentru luna august, au fost emise în total 4.035 Ordine de Plată, în valoare de243.927.154,77 lei.<br/>
+  <span style="color: darkgreen">Iulie:</span><br/>Pentru luna iulie,au fost emise în total 4.306 Ordine de Plată, în valoare de 218.915.239,85 lei.<br/>
+  <span style="color: darkgreen">Iunie:</span><br/>Pentru luna iunie, au fost emise în total 4.218 Ordine de Plată, în valoare de 249.882.514,94 lei.<br/>
+  <span style="color: darkgreen">Mai:</span><br/>Pentru luna mai au fost emise in total 4.354 Ordine de Plata in valoare de 230.741.197,92 lei.<br/>
+  <span style="color: darkgreen">Aprilie:</span><br/>Pentru luna aprilie, au fost emise în total 4.183 Ordine de Plată, în valoare de243.769.415,12 lei.<br/>
+  <span style="color: darkgreen">Martie:</span><br/>Pentru luna martie, au fost emise în total 4.317 Ordine de Plată, în valoare de 232.157.225,13 lei.<br/>
+  <span style="color: darkgreen">Februarie:</span><br/>Pentru luna februarie, au fost emise în total 3.931 Ordine de Plată, în valoare de 221.813.807,63 lei.<br/>
+  <span style="color: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie, au fost emise în total 4.092 Ordine de Plată, în valoare de 369.729.166,30 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2015</font></strong><br/>
+  <span style="color: darkgreen">Decembrie:</span><br/>Pentru luna decembrie, au fost emise în total 3.670 Ordine de Plată, în valoare de 306.317.332,83 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie, au fost emise în total 3.495 Ordine de Plată, în valoare de 252.796.979,26 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie:</span><br/>Pentru luna octombrie, au fost emise în total 3.606 Ordine de Plată, în valoare de 247.419.814,43 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie:</span><br/>Pentru luna septembrie, au fost emise în total 3.269 Ordine de Plată, în valoare de 271.755.649,95 lei.<br/>
+  <span style="COLOR: darkgreen">August:</span><br/>Pentru luna august,au fost emise în total 3.378 Ordine de Plată, în valoare de 268.185.960,33 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie:</span><br/>Pentru luna iulie, au fost emise în total 3.384 Ordine de Plată, în valoare de 304.535.270,33 lei.<br/>
+  <span style="COLOR: darkgreen">Iunie:</span><br/>Pentru luna iunie, au fost emise în total 3.374 Ordine de Plată, în valoare de 276.650.733,10 lei.<br/>
+  <span style="COLOR: darkgreen">Mai:</span><br/>Pentru luna mai, au fost emise în total 3.539 Ordine de Plată, în valoare de 209.762.733,42 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie:</span><br/>Pentru luna aprilie, au fost emise în total 3434 Ordine de Plată, în valoare de 202.992.708,84 lei.<br/>
+  <span style="COLOR: darkgreen">Martie:</span><br/>Pentru luna martie, au fost emise în total 3.176 Ordine de Plată, în valoare de 305.239.645.93 lei.<br/>
+  <span style="COLOR: darkgreen">Februarie:</span><br/>Pentru luna februarie, au fost emise in total 2.739 Ordine de Plată, în valoare de 313.710.712,00 lei.<br/> 
+  <span style="COLOR: darkgreen">Ianuarie:</span><br/>Pentru luna ianuarie, au fost emise in total2.808 Ordine de Plată, în valoare de 391.875.605,84 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2014</font></strong><br/>
+  <span style="COLOR: darkgreen">Decembrie:</span><br/>Pentru luna decembrie, au fost emise în total 2255 Ordine de Plată, în valoare de 392.428.934,65 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie:</span><br/>Pentru luna noiembrie, au fost emise în total 2191 Ordine de Plată, în valoare de 355.919.594,06 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie:</span><br/>Pentru luna octombrie, au fost emise în total 2.274 Ordine de Plată, în valoare de 343.666.069,16 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie:</span><br/>Pentru luna septembrie, au fost emise în total 2.110 Ordine de Plată, în valoare de 196.128.335,06 lei.<br/>
+  <span style="COLOR: darkgreen">August:</span><br/>Pentru luna august, au fost emise în total 2.270 Ordine de Plată, în valoare de 235.210.957,69 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie:</span><br/>Pentru luna iulie, au fost emise în total 2.605 Ordine de Plată, în valoare de 232.989.604,97 lei.<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie, au fost emise în total 2.669 Ordine de Plată, în valoare de 228.018.557,90 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai, au fost emise în total 2.850 Ordine de Plată, în valoare de 225.696.170,25 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie, au fost emise în total 2.763 Ordine de Plată, în valoare de 293.898.902,10 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie, au fost emise în total 2.821 Ordine de Plată, în valoare de 239.722.388,19 lei.<br/>
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie, au fost emise în total 2.494 Ordine de Plată, în valoare de 216.226.786,48 lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie, au fost emise în total 2.652 Ordine de Plată, în valoare de 265.858.224,36 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2013</font></strong><br/>
+  
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie, au fost emise în total 2471 Ordine de Plată, în valoare de 380.867.912,00 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie, au fost emise în total 2.264 Ordine de Plată, în valoare de 231.906.624,84 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie, au fost emise în total 2.022 Ordine de Plată, în valoare de 235.434.608,78 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie, au fost emise în total 1.964 Ordine de Plată, în valoare de 204.669.428,72 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august, au fost emise în total 1.871 Ordine de Plată, în valoare de 311.579.864,16 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru luna iulie, au fost emise în total 1.880 Ordine de Plată, în valoare de 267.404.341,85 lei.<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie, au fost emise in total 1.880 Ordine de Plată, în valoare de 177.737.680,78 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai, au fost emise în total 1.964 Ordine de Plată, în valoare de 189.763.324,09 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie, au fost emise în total 1.970 Ordine de Plată, în valoare de 256.722.093,51 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie, au fost emise în total 1.961 Ordine de Plată, în valoare de 198.195.438,82 lei.<br/>
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie, au fost emise în total 1.658 Ordine de Plată, în valoare de 177.109.636,92 lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie, au fost emise în total 1.782 Ordine de Plată, în valoare de 253.947.346,02 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2012</font> </strong><br/>
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie, au fost emise în total 1524 Ordine de Plată, în valoare de 219.179.918,71 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie, au fost emise în total 1305 Ordine de Plată, în valoare de 218.131.973,78 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie, au fost emise în total 1.250 Ordine de Plată, în valoare de 243.077.467,31 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie, au fost emise în total 1.343 Ordine de Plată, în valoare de 203.659.515,97 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august, au fost emise în total 1.415 Ordine de Plată, în valoare de 278.764.220,83 lei.<br/>
+  
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru luna iulie, au fost emise în total 1.225 Ordine de Plată, în valoare de 234.626.315,46 lei<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie, au fost emise în total 1.280 Ordine de Plată, în valoare de 174.161.391,85 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai, au fost emise în total 1.473 Ordine de Plată, în valoare de 174.197.612,16 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie, au fost emise în total 1.619 Ordine de Plată, în valoare de 196.732.680,55 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie, au fost emise în total 1.615 Ordine de Plată, în valoare de 238.030.398,81 lei<br/>
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie, au fost emise în total 1.381 Ordine de Plată, în valoare de 342.206.426,72 lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie, au fost emise în total 1.435 Ordine de Plată, în valoare de 258.940.144,66 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2011</font></strong><br/>
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie, au fost emise în total 1.416 Ordine de Plată, în valoare de 257.032.285,36 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie, au fost emise in total 1.188 Ordine de Plată, în valoare de 248.025.523,09lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie, au fost emise în total 1.130 Ordine de Plată, în valoare de 214.244.273,79 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie, au fost emise în total 1.252 Ordine de Plată, în valoare de 200.957.170,25 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august, au fost emise în total 1.082 Ordine de Plată, în valoare de 182.550.177,74 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru luna iulie, au fost emise în total 1.110 Ordine de Plată, în valoare de 190.417.550,55lei.<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie, au fost emise în total 1.071 Ordine de Plată, în valoare de 150.681.349,88 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai, au fost emise în total 1.181 Ordine de Plată, în valoare de 137.244.317,04 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie, au fost emise in total 1.120 Ordine de Plată, în valoare de 157.063.798,60 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie, au fost emise în total 1012 Ordine de Plată, în valoare de 208.993.365,68 lei.<br/>
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie, au fost emise în total 901 Ordine de Plată, în valoare de 179.694.486,13lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie, au fost emise în total 985 Ordine de Plată, în valoare de 189.226.556,92 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2010</font></strong><br/>
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie, au fost emise în total 979 Ordine de Plată, în valoare de 142.585.829,49 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie, au fost emise în total 1.120 Ordine de Plată, în valoare de 144.374.836,78 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie, au fost emise în total 997 Ordine de Plată, în valoare de 170.708.264.69 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie, au fost emise în total 858 Ordine de Plată, în valoare de 134.276.593,53 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august, au fost emise în total 742 Ordine de Plată, în valoare de 147.503.183,88 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru luna iulie, au fost emise în total 758 Ordine de Plată, în valoare de 155.809.542,60 lei.<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie, au fost emise în total 709 Ordine de Plată, în valoare de 93.583.132,44 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai, au fost emise în total 809 Ordine de Plată, în valoare de 113.219.997,11 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie, au fost emise în total 853 Ordine de Plată, în valoare de 111.458.331,73 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie, au fost emise în total 946 Ordine de Plată, în valoare de 116.629.810,12 lei.<br/> 
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie, au fost emise în total 870 Ordine de Plată, în valoare de 102.660.529,39 lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie, au fost emise în total 879 Ordine de Plată, în valoare de 138.993.979,34 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2009</font> </strong><br/>
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie au fost emise în total 915 Ordine de Plata în valoare de 105.262.771,49 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie au fost emise în total 898 Ordine de Plată în valoare de 65.536.930,46 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie au fost emise în total 1054 Ordine de Plată în valoare de 110.269.811,30 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie au fost emise în total 854 Ordine de Plată în valoare de 88.245.121,88 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august au fost emise în total 860 Ordine de Plată în valoare de 89.577.608,61 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru luna iulie au fost emise în total 924 Ordine de Plată în valoare de 118.219.546,04 lei.<br/>
+  <span style="COLOR: darkgreen">Iunie</span>:<br/>Pentru luna iunie au fost emise în total 761 Ordine de Plată în valoare de 106.797.376,60 lei.<br/>
+  <span style="COLOR: darkgreen">Mai</span>:<br/>Pentru luna mai au fost emise în total 756 Ordine de Plată în valoare de 98.646.136,48 lei.<br/>
+  <span style="COLOR: darkgreen">Aprilie</span>:<br/>Pentru luna aprilie au fost emise în total 747 Ordine de Plată în valoare de 63.502.902,34 lei.<br/>
+  <span style="COLOR: darkgreen">Martie</span>:<br/>Pentru luna martie au fost emise în total 907 Ordine de Plată în valoare de 91.001.040,39 lei.<br/>
+  <span style="COLOR: darkgreen">Februarie</span>:<br/>Pentru luna februarie au fost emise în total 926 Ordine de Plată în valoare de 76.881.032,54 lei.<br/>
+  <span style="COLOR: darkgreen">Ianuarie</span>:<br/>Pentru luna ianuarie au fost emise în total 1036 Ordine de Plată în valoare de 86.415.804,77 lei.<br/><br/>
+  <strong><font style="COLOR: darkgreen" size=+1 face=Georgia>2008</font> </strong><br/>
+  <span style="COLOR: darkgreen">Decembrie</span>:<br/>Pentru luna decembrie au fost emise în total 1098 Ordine de Plată în valoare de 90.201.029,20 lei.<br/>
+  <span style="COLOR: darkgreen">Noiembrie</span>:<br/>Pentru luna noiembrie au fost emise în total 1094 Ordine de Plată în valoare de 112.915.339,08 lei.<br/>
+  <span style="COLOR: darkgreen">Octombrie</span>:<br/>Pentru luna octombrie au fost emise în total 983 Ordine de Plată în valoare de 105.886.225,61 lei.<br/>
+  <span style="COLOR: darkgreen">Septembrie</span>:<br/>Pentru luna septembrie au fost emise în total 947 Ordine de Plată în valoare de 102.470.421,77 lei.<br/>
+  <span style="COLOR: darkgreen">August</span>:<br/>Pentru luna august au fost emise în total 991 Ordine Plată în valoare de 92.989.538,82 lei.<br/>
+  <span style="COLOR: darkgreen">Iulie</span>:<br/>Pentru tranzacţiile de vânzare/cumpărare energie electrică pe Piaţa pentru Ziua Următoare, cu livrare în perioada 2-31 iulie 2008, au fost emise şi încasate 789 de Instrucţiuni de Direct Debit şi au fost emise 820 Ordine de Plată. Valoarea totală a încasărilor, respectiv a plăţilor aferente tranzacţiilor a fost de 80.858,84 mii lei.<br/>
+
+</p>	
+
+	</div>
+    <div id="dreapta">  <!--stiri opcom, comunicate, anunturi piete-->
+		
+		<div id="stiri_piete">
+    	  <div class="titlustiri"><span class="tit2"> Announcements</span>
+		  </div>
+
+		 <!-- &emsp;<a href="/pp/img/bradfelicitareen.jpg" target="new"><img src="/pp/img/lma_site_anunt_en.png" /></a> --> 
+		<div class="scrollbar">
+		
+		<table width="94%" height="100%" id="an_piete" cellspacing="0" cellpadding="0" >
+      <tr align="left" ></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">23/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for providind additional account for access to the M7 Trading (ComTrader) system for the coupling Intraday Electricity Market (IDM) as of 01.10.2026. Invoicing and payment terms of the IntraDay Continuous Trading (IDCT) additional account tariff.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/en/1">In accordance with the provisions of ANRE Order no. 15/2022, OPCOM publishes the weighted average price of the Day Ahead Market for August 2026 amounting to 793.19 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">12/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/en/4"><a href="/tranzactii-rezultate-home/en/267">
+List of economic operators who have not fulfilled the obligation to acquire GC 2<sup>nd</sup> quarter 2026
+</a></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">05/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/en/4"><p><a href="/tranzactii-rezultate-home/en/267">
+List of economic operators who have not fulfilled the obligation to acquire GC second quarter 2026
+</a></p></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">16/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API-ID tariff) for the coupling Intraday Electricity Market (IDM) for the period 01.08-31.12.2026. Invoicing and payment terms of the API-ID tariffs.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">10/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pzu/en/2">OPCOM submit to public consultation the <em>Operational procedure regarding functioning of the Day-Ahead electricity Market</em>, updated in the context of the implementation of the volume allocation mechanism at the SDAC price</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">26/06/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API tariff) for the coupling Intraday Electricity Market (IDM) for July 2026. Invoicing and payment terms of the API tariffs.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">29/05/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API tariff) for the coupling Intraday Electricity Market (IDM) for June 2026. Invoicing and payment terms of the API tariffs.</a></div></td></tr></table><script>
+// var table = jQuery("#stiri_piete .scrollbar table tr a:nth-child(2)");
+
+// jQuery(table).each(function(index, z){
+// 	//console.log(index + " / "+ jQuery(z).attr("href") );
+// // 	console.log(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php") );
+// 	if(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php")){
+// 		console.log(jQuery(z).attr("href"));
+		
+		
+// 	}
+	
+// 	//tranzactii-rezultate/
+// // 	return false;
+// });
+
+
+</script></div></div> <!--stiri_piete-->
+        
+        <div id="com">
+			
+		<div class="titlustiri">
+            <span class="tit2"> Press Releases </span>
+          </div>
+<div class="scrollbar" style="height: 125px;"><table width="94%" border="0" cellspacing="0" cellpadding="2" align="left"><tr><td class="stire1"><div class="capstire1">28/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1477/1">Trading record on the Day-Ahead Market - 62,552 MWh traded for the delivery day September 28, 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">07/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1474/1">New participants in August</a></div></td></tr><tr><td class="stire1"><div class="capstire1">21/08/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1472/1">Trading Record on OPEM’s Day-Ahead Market (DAM) operated by OPEM</a></div></td></tr></table></div>		<div id="stiri_der">
+        <div class="titlustiri"><span class="tit2">News</span></div>         
+<div class="scrollbar" style="height: 120px;"><table width="250px" border="0" cellspacing="0" cellpadding="2" align="left">			<tr><td class="stire1"><div class="capstire1">01/04/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1152/en">Europex Study: The Fundamental Drivers Of Wholesale Electricity Prices in Europe</a></div></td></tr>			<tr><td class="stire1"><div class="capstire1">13/03/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1151/en">Europex Position Paper on “Marginal Pricing Works - The Most Efficient Foundation for Electricity Markets”</a></div></td></tr></table></div></div><!--stiri_der-->
+         
+
+<div id="rapp">
+<div class="titlustiri"><span class="tit2">Reports</span></div>		 
+
+
+<table width="250" border="0" cellpadding="0" cellspacing="0" id="rap" >
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/opcomrap.png" ></td>
+    <td>
+    <a href="/uploads/doc/rapoarte/saptaminal/RSS_2026_39_EN.pdf" target=new>Weekly</a>/<a href="/uploads/doc/rapoarte/lunar/R_2608_EN.pdf" target=new>Monthly</a>/<a href="/uploads/doc/rapoarte/Anual/RS_2025_EN.pdf" target=new>Annual</a><br/> Market Report</td>
+  </tr>  
+  <tr width="195" height="5"></tr>
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/eu.png" ></td>
+    <td width="195" height="10"><a href="http://ec.europa.eu/energy/en/statistics/market-analysis">
+     Market Analysis Reports</a></td>
+  </tr>
+  <tr height="5"></tr>
+  <tr>
+    <td rowspan="2" width="60" height="50" align="left"><a href="https://www.acer.europa.eu/"><img style="vertical-align:baseline" src="https://www.opcom.ro/pcs/acer2.png" /></a></td>
+    <td height="30"><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Electricity-Key-Developments.pdf">
+     Key developments in EU electricity and gas markets, 16 March 2026</a></td>
+  </tr>
+  <tr>
+    <td height="30"><a href="https://www.acer.europa.eu/remit-documents">
+     REMIT - ACER Documents</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="25" align="left"><a href="https://www.opcom.ro/uploads/doc/REMIT/Promovare servicii raportare REMIT_27.07.2015.pdf" target=new><img src="https://www.opcom.ro/pcs/thing7.png" /></a></td>
+    <td height="10">
+    
+     <a href="https://www.opcom.ro/tranzactii-produse/en/225">REMIT - OPCOM Documents</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="20" align="left"><a href="https://www.opcom.ro/tranzactii-produse/en/250"><img src="https://www.opcom.ro/pcs/logo_pcr.png"></a></td>
+    <td height="10">
+    <a href="https://www.opcom.ro/tranzactii-produse/en/250"> 	Price Coupling of Regions</a></td>
+  </tr>
+  <tr height="5"></tr>
+</table>	
+</div> 
+
+</div>   
+    </div><!--dreapta-->
+<!---------------------------------------------------------------- END CONTENT --------------------------------------------------------------->
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/en">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/en/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/en/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>New entries: JWM ENERGIA (DAM, IDM), CHIMCOMPLEX BORZESTI (CMBC-EA-flex, CMBC-CN), NEXTE ASSET MANAGEMENT (CMBC-EA-flex, CME-RES-GC, CM-OTC), SPRING ADVERTISING (GCM), EDPR SOLAR ENERGY (CME-RES-GC, GCM) and EDPR WIND ENERGY (CME-RES-GC, GCM) joined OPCOM in September.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/en">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/en/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="y4xHp8DyY2smsnjlZun6UD1kNFLu00G1fDsDWpBK" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': 'y4xHp8DyY2smsnjlZun6UD1kNFLu00G1fDsDWpBK'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+   

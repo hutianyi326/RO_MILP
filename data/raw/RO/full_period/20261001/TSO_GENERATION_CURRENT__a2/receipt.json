@@ -1,0 +1,21 @@
+{
+  "id": "TSO_GENERATION_CURRENT",
+  "dataset": "D09",
+  "publisher": "Transelectrica",
+  "title": "Actual production official linked file/archive",
+  "url": "https://www.transelectrica.ro/documents/10179/45094/7productie17/fb9e938a-5577-469a-8008-52161ac8b7f5",
+  "scope": "probe and native sample validation before any time-series use",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:04:06.001194+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/45094/7productie17/fb9e938a-5577-469a-8008-52161ac8b7f5",
+  "content_type": "application/vnd.ms-excel",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_GENERATION_CURRENT__a2/original.html",
+  "sha256": "363a275fd7214db6c2d88c6e9028292a788cbc5234a0b09c42dccb673a754485",
+  "bytes": 1208320,
+  "detected_format": "html"
+}

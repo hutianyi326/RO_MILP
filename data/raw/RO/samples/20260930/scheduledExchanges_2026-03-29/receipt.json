@@ -1,0 +1,17 @@
+{
+  "id": "scheduledExchanges_2026-03-29",
+  "dataset": "D11",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-03-28T23%3A00%3A00Z&timeInterval.to=2026-03-29T22%3A00%3A00Z&pageInfo.pageSize=3000",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2026-03-29 native CET/CEST day; public route; commercial plans not physical flows",
+  "retrieved_utc": "2026-09-30T09:42:51.5557104Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/scheduledExchanges_2026-03-29/original.json",
+  "bytes": 149231,
+  "sha256": "a2bef2d49b83d5d6adb59ecc9b33cc291ac4d9871e021e9391f3f3c14966e5f7"
+}

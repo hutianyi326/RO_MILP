@@ -1,0 +1,3 @@
+﻿comparison,paired_intervals,changed_effective_cost_intervals,total_effective_cost_change_lei,largest_absolute_interval_change_lei,not_imbalance_price_change
+SETTLEMENT_SAMPLE_1 vs SETTLEMENT_SAMPLE_2,2976,700,-497220.7100000001,6420.0,True
+SETTLEMENT_SAMPLE_1 vs SETTLEMENT_SAMPLE_3,2976,2967,-719748.1699999999,83629.19,True

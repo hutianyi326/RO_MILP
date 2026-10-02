@@ -1,0 +1,37 @@
+{
+  "scada_native_rows": 14567,
+  "scada_utc_pair_hours_under_A": 14496,
+  "scada_negative_technology_rows_retained": 111,
+  "provider_native_filtered_rows": 564677,
+  "provider_hour_sum_checks": 69327,
+  "provider_hour_sum_match": 57202,
+  "cost_samples": [
+    {
+      "source_id": "SETTLEMENT_SAMPLE_1",
+      "date_label_not_publication": "27.02.2025",
+      "parsed_native_intervals": 2976,
+      "schema": "system amounts LEI, no LEI/MWh deficit/surplus price"
+    },
+    {
+      "source_id": "SETTLEMENT_SAMPLE_2",
+      "date_label_not_publication": "14.03.2025",
+      "parsed_native_intervals": 2976,
+      "schema": "system amounts LEI, no LEI/MWh deficit/surplus price"
+    },
+    {
+      "source_id": "SETTLEMENT_SAMPLE_3",
+      "date_label_not_publication": "15.01.2026",
+      "parsed_native_intervals": 2976,
+      "schema": "system amounts LEI, no LEI/MWh deficit/surplus price"
+    },
+    {
+      "source_id": "SETTLEMENT_SAMPLE_4",
+      "date_label_not_publication": "21.09.2026",
+      "parsed_native_intervals": 2976,
+      "schema": "system amounts LEI, no LEI/MWh deficit/surplus price"
+    }
+  ],
+  "cost_amount_max_identity_diff_lei": 0.010000000023865141,
+  "no_market_price_inferred_from_costs": true,
+  "overall_step3_complete": false
+}

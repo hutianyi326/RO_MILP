@@ -1,0 +1,19 @@
+{
+  "id": "OPCOM_ANNUAL2025",
+  "dataset": "D12",
+  "url": "https://www.opcom.ro/opcom/uploads/doc/Compania/1.%20Raport%20anual%20OPCOM%20S.A._2025.pdf",
+  "title": "Raport anual OPCOM 2025",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:23.882167+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/opcom/uploads/doc/Compania/1.%20Raport%20anual%20OPCOM%20S.A._2025.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_ANNUAL2025__a1/original.pdf",
+  "sha256": "ae79472aba48d24169e89ac36459b7305890ae1bc592cb6066bf6e906404667f",
+  "bytes": 1511866,
+  "detected_format": "pdf"
+}

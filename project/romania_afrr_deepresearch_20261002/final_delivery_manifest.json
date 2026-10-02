@@ -1,0 +1,1079 @@
+{
+  "date": "2026-10-02",
+  "review": "PASS_WITH_RESTRICTIONS",
+  "scope": "This supplemental research only; no model or backtest approval",
+  "local_document_links": [
+    {
+      "document": "research_report.md",
+      "target": "scope_and_sources.md",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "afrr_price_energy_sample_202508.csv",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "sample_month_summary.json",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "activation_uncomputable_50.csv",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "missing_quarter_recheck.csv",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "capacity_detail_rechecks.csv",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "capacity_excel_crosschecks.csv",
+      "exists": true
+    },
+    {
+      "document": "research_report.md",
+      "target": "activation_diagnostic_monthly.csv",
+      "exists": true
+    },
+    {
+      "document": "review_final.md",
+      "target": "research_report.md",
+      "exists": true
+    },
+    {
+      "document": "review_final.md",
+      "target": "scope_and_sources.md",
+      "exists": true
+    }
+  ],
+  "files": [
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/activation_diagnostic_all.csv",
+      "bytes": 37625235,
+      "sha256": "cbef36dffa915455aeeeb9c7ed8b813177728f7d1041bc7c33548380fce8914f"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/activation_diagnostic_monthly.csv",
+      "bytes": 1867,
+      "sha256": "3cbc5a0f1b262569675fb7f0a068666896ec94658cbb5d52d6311f24a56960cd"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/activation_diagnostic_summary.json",
+      "bytes": 2830,
+      "sha256": "e4ce64f534deb1c415db8e4061cdc852f2b34915c4a4dd3c30c2375b7d7c28a1"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/activation_exceeds_one.csv",
+      "bytes": 1120566,
+      "sha256": "53e828a3f81af25f110732b8a8ab7c0659b5fb709cfd02af1e1bfb7d2c1d65c3"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/activation_uncomputable_50.csv",
+      "bytes": 28700,
+      "sha256": "d09bcd75c693750e25cce2c859c3cc86c48016dfade5fd178623b9100e2ad924"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/afrr_price_energy_sample_202508.csv",
+      "bytes": 1272259,
+      "sha256": "4ca29c7e872a049a3a26ba773ea8de68fd6aa5b448195753d385af5ae35465b2"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/CAP_XLSX_01.08.2025__a1_cells.json",
+      "bytes": 15575,
+      "sha256": "9ac4d1b52b6a73bd90211b7548ddc622aa82f61a734fcff93e7829209a5e83ba"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/CAP_XLSX_15.02.2026__a1_cells.json",
+      "bytes": 12578,
+      "sha256": "3a92de5b9378053c965f86c5c368bf1a06bfe934083a1a41299d16deace6eb98"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/CAP_XLSX_15.08.2025__a1_cells.json",
+      "bytes": 15850,
+      "sha256": "31d0e5682e7da0b6e76636cdbfc8a0e142f4b33de1b93472d9677ad3b47254c2"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/CAP_XLSX_26.10.2025__a1_cells.json",
+      "bytes": 19144,
+      "sha256": "8385e9106a9704a1224157fa362e2ac896571408869e687f95b9fcd4c2d415ea"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/CAP_XLSX_31.08.2025__a1_cells.json",
+      "bytes": 15356,
+      "sha256": "11e77dbb21a4f8ecf4385217dc76b3c2658eaef8789ee26097104ea412a24f99"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/capacity_daily_export_directory.csv",
+      "bytes": 103938,
+      "sha256": "58b49123c4995e3c8f236d6532750253a8e1ce6cf2818ef0956a097f55312b4a"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/capacity_detail_rechecks.csv",
+      "bytes": 1387,
+      "sha256": "5147cb2c6479cd52a55258f76ea7a449e7ca41260e8808f404ce5c9a46d44d90"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/capacity_excel_crosschecks.csv",
+      "bytes": 4152,
+      "sha256": "b16251ef9354200ddb718fae02ab022babf94506ba89b538bac1f2595bacd2b8"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/checks.json",
+      "bytes": 19019,
+      "sha256": "bce49c367d9a4da82a2046783ac0348ace9b0f4875b45ec4279023e20fbeec48"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/DAMAS_PUBLIC_HOME_NET__a1.txt",
+      "bytes": 17266,
+      "sha256": "67bbd1157f3b1e2843a8cdafd73c9c8e774452093fdf6121d69ece2952147aca"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/DAMAS_PUBLIC_HOME_NET__a1_links.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/damas_public_report_routes.json",
+      "bytes": 3422,
+      "sha256": "7d37935b8f300d6b066612e28af1ae8977dbb0dd305b9e7b6649486960c2f5b3"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/delivery_checks.json",
+      "bytes": 734,
+      "sha256": "7951dd8009829ee4c01461a649ffcd364bb66a26a9c4df85bd46a08b060477de"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/document_checks.json",
+      "bytes": 1137,
+      "sha256": "d6fc847e5716ddcd03b18ec5c2ad78282af7a6cff27f1e053dcfcaa0ec87dce2"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/hypothetical_clipping_diagnostic.json",
+      "bytes": 533,
+      "sha256": "893b369a90a883f16f90cf637768fb93f173cf3552607dbeae59080b1d7cfb22"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/independent_raw_verification.json",
+      "bytes": 10518,
+      "sha256": "34f413de8dac4c559ec7543856415c279176cd098455ee1a8e5e38d27c4baf1b"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/missing_quarter_recheck.csv",
+      "bytes": 8941,
+      "sha256": "3d0eaa37e537f48d0b417afcbf409f5f7fa5c87ea7444f537e26264f3341ecff"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/monitoring_procedure.txt",
+      "bytes": 39124,
+      "sha256": "f46439495c95384c76720f1a2ac454f4697b2a4197eb75ec30b052a1e81e256e"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/new_raw_manifest.json",
+      "bytes": 76770,
+      "sha256": "3347205306f04f37572c84b75ddf4f5e04f0211c694b0239bbb808753d336054"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/participant_webservice_guide.txt",
+      "bytes": 104310,
+      "sha256": "d309c566e5d32f5f82ba7c85d88bf144a3ea198dc64bacc577734d0f9ead41e8"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/procedure_links.json",
+      "bytes": 1989,
+      "sha256": "19234c7ad7a1e0755136932ed70c3a59a885a3478615d550069d2eb3f463e6b8"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_anomaly_rechecks.json",
+      "bytes": 11635,
+      "sha256": "17992ef2d928fb889674dcb0b4dc80a3763a36026fad044d63f01ee51e244dbd"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_anomaly_rechecks_results.json",
+      "bytes": 37967,
+      "sha256": "5c676db6f6bfe91d5679b5a43905f2f755787c35cf156cf88984e7e6212c86f7"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_capacity_sources.json",
+      "bytes": 1777,
+      "sha256": "be368be820fa1a4993acaf0314bd4c9be93e11dbdbf39dea77c30b2c8f82afa8"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_capacity_sources_results.json",
+      "bytes": 8536,
+      "sha256": "3fddb2c037f9e7f25bfa7ee4596fe713bdc18be3ff2c7ae39f47bed93394e05a"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_discovery_final.json",
+      "bytes": 343,
+      "sha256": "545086853c67803e08209ee64202ae5d01af372bdb9c2e913894ba453e2500e8"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_discovery_final_results.json",
+      "bytes": 1610,
+      "sha256": "52b99fce9b74bb8bea39c61b7ed3b46252f899b620602ddf3a9d891739aee18b"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_guides.json",
+      "bytes": 476,
+      "sha256": "cdc500a14ec36c1c3e107588743f044b6bd70ffe7942bf5817903a40d12aae58"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_guides_results.json",
+      "bytes": 2403,
+      "sha256": "6309c1c8a886d4033c0d7f7cbb76118958048b32446059d29bfaff00c20737c0"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_initial.json",
+      "bytes": 1915,
+      "sha256": "af50a0f01cd3552eca911d7134e3e6e519edd5f5eafaece2e2265ebd64cde1f4"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_initial_network.json",
+      "bytes": 1951,
+      "sha256": "e7275ff17b70ec3a50e7cae94ef84b4dc918b3dfd7cd07c5cbf86698730c13f7"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_initial_network_results.json",
+      "bytes": 7715,
+      "sha256": "1735b1dbbd0036bd36873ca91ec68685704f0bc57937dae27ed34196ca0d2743"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_initial_results.json",
+      "bytes": 4813,
+      "sha256": "f1c852489af295f4aeb191db2f64cc449b665109283b559f6d3966f5f67d672a"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_public_page_definitions.json",
+      "bytes": 596,
+      "sha256": "78713e8f07b856bedf6ae91a336a84bee736898dfc608461ea4c7cb929fc8ba1"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/requests_public_page_definitions_results.json",
+      "bytes": 2602,
+      "sha256": "af44df053cc28394b3497071a7b4de8aa5b30ec46b468fd73854ae32213570cb"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/research_report.md",
+      "bytes": 15996,
+      "sha256": "9564bc6afb3c8d642e66a251197f38520786520eec15bf361a8c14db905c2461"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/review_final.md",
+      "bytes": 3198,
+      "sha256": "10ec26f1f610fe9bfd5a2d187141e2aa91ec2d7c169d304c885170b369fb60f2"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/run_research.py",
+      "bytes": 14396,
+      "sha256": "589fc6968de82ff397044c7798dc4c521f14a7da4fe480af6ceb497163888c23"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/sample_month_summary.json",
+      "bytes": 17383,
+      "sha256": "0ac9470101fc841dad94160b4a212bb9b3de361f8253b0f33a8a62e40fb05b22"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/scope_and_sources.md",
+      "bytes": 7917,
+      "sha256": "6bdcdb20a637c4117be6a951cdb3f587577bb296fa58f5bf421c6f0e331980cf"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/TSO_BIDDING_GUIDE_NET__a1.txt",
+      "bytes": 12516,
+      "sha256": "e1ffcac6b73a15e6b2c108c37c4b110e92732af0a5d596ee48bd41bcb41dbc7f"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/TSO_BIDDING_GUIDE_NET__a1_links.json",
+      "bytes": 551,
+      "sha256": "5df89ca1d6e77b364e44ed54396149792cc11b91dc351d6b1f5ca4a53dd0df95"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/TSO_STS_INFO_NET__a1.txt",
+      "bytes": 1589109,
+      "sha256": "3c2d5d53a24be8134b1e5c740cf24aa075141e14a78a857cb5fc2118252b7661"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/TSO_STS_INFO_NET__a1_links.json",
+      "bytes": 403267,
+      "sha256": "f2485c8e62be34724da08926d3ea036caf7cd43a3b32bd9de57943fbbea0ca4b"
+    },
+    {
+      "path": "project/romania_afrr_deepresearch_20261002/verify_raw.py",
+      "bytes": 3458,
+      "sha256": "44eabbb9c98d0b3e2b3b3efc7af4192edf42d4a9c9dbdc9bad6e8da821339aab"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-01-31__a1/original.json",
+      "bytes": 21062,
+      "sha256": "6931c275706778e7177d3b784b2bc8ba326207fc5f794de14f3f9463d00681d6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-01-31__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "ed8b659a65cbd1e63b771b2ae6eee8243de9ba12ecbc320a84a85e4864a373c0"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-02-02__a1/original.json",
+      "bytes": 21092,
+      "sha256": "6de9a177183b27f518be933d60eeee3c61289f5954ba04c450f6c9f279985b68"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-02-02__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "3688f93f35d43add7ce451fdd7467f26224429d16573a3d32dc5498818e2611f"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-03-28__a1/original.json",
+      "bytes": 21023,
+      "sha256": "8287fb8088845cbc2abb3992e94ac76fe341c9b000270d6e316c0306a102cc51"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-03-28__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "3d5dda3ad6eb17f346f07fce4f25f643ba83e86bc970954337e3adc5c15bb4ed"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-03-31__a1/original.json",
+      "bytes": 21076,
+      "sha256": "37ecfa0b94007889f8f5eb993c1f11749577b3c607c4759a42facf4ad113065b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-03-31__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "c2936c3c8a18dcf3adcec8b31ab8be39834e900d09242cfa60212385ca8e16d6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-03__a1/original.json",
+      "bytes": 21168,
+      "sha256": "7529b975e76934b4f7dbcb8edaaf2b3bc6eaddbfde88dad1d7011fc6f0110285"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-03__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "4ea2d270d95254e0e6a119dc806acdead1c75d47d2e4a6c863159538c15ae7ba"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-17__a1/original.json",
+      "bytes": 21018,
+      "sha256": "043759903cffd2930db6f96d4f8036dc370e8f22b46b553a28b314ae4dc6e4a3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-17__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "766f63b55cec3e75d58d2c6c9d0c61f02d7f788519d265928c7a70e2e142a6b2"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-28__a1/original.json",
+      "bytes": 21064,
+      "sha256": "fb90196c7622a2641787550ff61dcd0eb30e3ece5747ce9d4d2163e67c9ab616"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-28__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "975921cbea2808a8c0d02778018c60a490a2e9a98209dda52035b76671a478c0"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-29__a1/original.json",
+      "bytes": 21136,
+      "sha256": "4b80cac255c38108ed86bc1c9abd5c52c47df509a70c65f597429b23d3362dfe"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-04-29__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "1a8d85f794cabefe9e9b9118f43c9ee4d590c2d9549fc47232cea4d2b7317661"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-05-08__a1/original.json",
+      "bytes": 21127,
+      "sha256": "c46cd071e10a509c6edfbdf8c12ea4b778b512c38986828c94b359ccf18e930b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-05-08__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "2cc9399ee70cbbcef4de00aa19bef0a0a2879f13b3de0f8261afc6cf61a3afc6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-12__a1/original.json",
+      "bytes": 20966,
+      "sha256": "c2039eea06ef24d75f88861b6a0eb52fa6127393fafadb31e023dbec12eb8420"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-12__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "0a1b29533e47dec9ca4538f2976b6092e6c8e18ce6d273b340af7c243ed4189c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-14__a1/original.json",
+      "bytes": 21090,
+      "sha256": "c2de0c9101e9065b4223b120deebecb1fb32e38041084e78338a9b2ca27afc97"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-14__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "c9ee2d1a981259f939e413d2eab5289b84a5128d2bf684d97296f4c9dcb29da4"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-17__a1/original.json",
+      "bytes": 21117,
+      "sha256": "3bd003d57e0aa9eba406664e78e1bcee52248f9511b210bf04f4aac3eece23e9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-17__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "89282276ab87210a9a414425647b50413c8afed33f754bb2a3c7c989de94f9e9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-24__a1/original.json",
+      "bytes": 21160,
+      "sha256": "01c4d2b2ddcbb73dfa5034558af169f2949c7ca6f6f39ab7fe6b6cfc1f2bcb7d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-06-24__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "625adc8b113390c71a67eb133e4b64a4c0d0b200315ad7ecfc0a97c7ed4883a8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-07-13__a1/original.json",
+      "bytes": 21221,
+      "sha256": "b077ed496756e25810093e88a9ee5a12d8509078c2ddd226fce5ab0b12f74a60"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-07-13__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "7614748cf7a4e9513b8bfec6b161b08fdc419fb5bc935d54a5b4872773eb9a53"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-08-15__a1/original.json",
+      "bytes": 21188,
+      "sha256": "50bfc0dc682d4c82c065d752b277f7fb31ca430c1b03fae89b3b8b19ece9aba1"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-08-15__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "009b90a4e93e3cb8112b0663e270525ab3a2e4ceb267111b3a92b75bb73d3a47"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-10-06__a1/original.json",
+      "bytes": 21029,
+      "sha256": "429124586142214a3a25cc1cf3acd6d75fc3ec23a6f7d008cba38c48c7e4cd0b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-10-06__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "c096702b5fb5f22eeb3524d807ad42d669a7375c5fa630ef2d6cb0678593517b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-10-26__a1/original.json",
+      "bytes": 21892,
+      "sha256": "1173de816a107e08edaadf252239ec38aef70bb6971efd80539833c739cdcd3b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-10-26__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "4950aeb39bf9befa31b267ad38d5ccd53b01657dca1190ff652d87eacfffc405"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-12-06__a1/original.json",
+      "bytes": 20944,
+      "sha256": "93048221328cc7f05d7982c9ce5486b8706fbdfbae92ded3aa9389783b632193"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2025-12-06__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "b37f0211cd215065c88645fcd88c487d14256cdeb1911d437b5f270e32a05144"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-01-14__a1/original.json",
+      "bytes": 21077,
+      "sha256": "4c98f5e92d509cf4fa54ad3384bec32bf9f441781cb21c933629a2a7ae84ab22"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-01-14__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "986485d2f529b9c1c608763bdec2a28ead8e32a112325cbcd44a9fb4e2966d09"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-02-15__a1/original.json",
+      "bytes": 20928,
+      "sha256": "dd948259aa7d953c40e33ea195734a4a0277d201ff1c3c21bde876398d473613"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-02-15__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "31916593b75ca4b2b6e6f79bb0a29cb5726220754e32350e265c1df11783f2f9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-02-17__a1/original.json",
+      "bytes": 21003,
+      "sha256": "7fe327e2d51604ad48b2858954c73e863b11a87b4756f4dd79e09cc9c0a9cea9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-02-17__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "f3e54cd03fbcb5c10a3d3160fb5392202b980547df5bc248ac84c67c61f441c9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-04-06__a1/original.json",
+      "bytes": 20898,
+      "sha256": "965a51a8ea35ee5f44c780cb4826e5909545bc1b28043aa36c9400edd3af144c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-04-06__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "cff718ddfa057c14e9ec322bb4e52961ac2de714f1f7c72162a9ef1cdb3fc3df"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-05-11__a1/original.json",
+      "bytes": 21084,
+      "sha256": "ca8c4ef385612fff79aabc477e239cf4a1e1ed3f3e127f0df4678bc20baa92d8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-05-11__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "88a11d100792027f53c3525a38b8d803187b16d718b56a3a3bcdac93f006dfcb"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-05-23__a1/original.json",
+      "bytes": 21101,
+      "sha256": "71cde0cfe7ba17570248f40ee4b14774fc98c72fcc522dd1af760c01d80fe0c9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-05-23__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "cadde3c2c5c74b50d6cb80a7ed584798291f73194124fa14c4d997f6483b530d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-07-07__a1/original.json",
+      "bytes": 21166,
+      "sha256": "64144f535754acb510ceb65fcfe2dcd7a0aed2d8fba9d6ba00dc934c55a46648"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-07-07__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "27b0938c731d927c3a1ffb10f4330a4a7d31d1cd1b87f1a6e9837d782b561375"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-07-23__a1/original.json",
+      "bytes": 20987,
+      "sha256": "82b58ea8c8df2c5f57698bc6f69905415121d7ef0bfea2dc3159af563bbd2fe8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-07-23__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "778f48de570c9681145bb1887f8e7411e74f587309583ebf85e8583d1568f0f4"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-14__a1/original.json",
+      "bytes": 21247,
+      "sha256": "9affb9c87fb1ef3f25202f395d703f08687d9ba67f2c65af46be6920ec7d696d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-14__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "7cacae1ac1c8f800133478a1481341cddfde964ce32065b8147a99ca9f9956d6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-22__a1/original.json",
+      "bytes": 20950,
+      "sha256": "70ff33d143e9886b42732ed47ddb3476752ef9f8b81f1d0d65ffb9ebc9691e19"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-22__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "7f44cf1c11f0c9723e7f7df9ed870b65d38b805ab2270631b3e9d210fd0ee812"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-27__a1/original.json",
+      "bytes": 21169,
+      "sha256": "ebcc89393888981ac091c008225222d9c67ee6569ca9115850c954b58c1c11ab"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-27__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "790407b0d35fa235b268d541b8db5d951ff1d803268ed45ca6fdda22a9f9b41f"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-29__a1/original.json",
+      "bytes": 21135,
+      "sha256": "a3cf30e0d231898d5660ca6001310f6a3ec2a76354554587f63ea5c79e7e07ff"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-08-29__a1/receipt.json",
+      "bytes": 1100,
+      "sha256": "7fb16e1453ea189711f9474a27718a2cc5812c387c3eb22e5e61bc42c5dc2eb8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_2025-08__a1/receipt.json",
+      "bytes": 713,
+      "sha256": "570fdfa74c25df0d645af2ee3de51e411d8ec6eb808bc069ee9732cbaaf92e61"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_2025-08__a2/receipt.json",
+      "bytes": 713,
+      "sha256": "152bd2312b08b46f15a15193faa0e734526fef52671f3d33d7db04db28bbe8ba"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_2025-08__a3/receipt.json",
+      "bytes": 713,
+      "sha256": "2c604aebac73767168c2f8e794a55acb5b1c730990d3d13f59368c3826e6f417"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_2025-08_NET__a1/original.json",
+      "bytes": 652723,
+      "sha256": "8093de688ed5b203d199ae9b3dfaf9ed7aea690e44807870aca22428844a1d34"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_2025-08_NET__a1/receipt.json",
+      "bytes": 1210,
+      "sha256": "da144e6b2e7f1bb87d4213d6e16e1ff50ccb9bf861c1f3bbb38b23d30dbaf8e0"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_metadata__a1/receipt.json",
+      "bytes": 544,
+      "sha256": "bb55eec9efec1e643be8f75f244c43129692d43bcbc7244784495e1d0260018a"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_metadata__a2/receipt.json",
+      "bytes": 544,
+      "sha256": "31296698e2eaed286ada92b059c3ca7b5bf3568fdb4ac20aa5d67da818dc68c7"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_metadata__a3/receipt.json",
+      "bytes": 544,
+      "sha256": "9885155481a2a865b5c280192658d034b548673ca16446f875cbcb774562461e"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_metadata_NET__a1/original.json",
+      "bytes": 241,
+      "sha256": "bfdc5b904f8e5f24ad7dde17c9db68f07db54b7cfad04a3fc79bf1cc00d47d1b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/activatedBalancingEnergyOverview_metadata_NET__a1/receipt.json",
+      "bytes": 935,
+      "sha256": "9a495ea52ba81c3c06e303290295e39af5642e49098d6c074ff0684a2bb379ed"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/APP_JS_0__a1/original.html",
+      "bytes": 664899,
+      "sha256": "8272d12b7454307abc9687918d9cef465e75bf2b51904d9b34a9f0afd61f8123"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/APP_JS_0__a1/receipt.json",
+      "bytes": 695,
+      "sha256": "1a79f67f7f89521606c927d22222d01d6abac292c1d657e6ae2af8699ce140b5"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_01.08.2025__a1/original.zip",
+      "bytes": 16535,
+      "sha256": "3926cedca62defa33083e228d003aeb31dbb599410bdc52b337017fdfee509ed"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_01.08.2025__a1/receipt.json",
+      "bytes": 835,
+      "sha256": "5f4bc1bbeaf90731c1873e459425aab58a12fefcabac06a2aea84c0b9ca75816"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_15.02.2026__a1/original.zip",
+      "bytes": 15924,
+      "sha256": "36f8bfe6bec2606a14c3802b61d02900521317b95b4b7ef76cc0f9c4a3eebdc5"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_15.02.2026__a1/receipt.json",
+      "bytes": 835,
+      "sha256": "693fb05986ab68e485414f336266d61250be57da95259ccbf17050056cb844dc"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_15.08.2025__a1/original.zip",
+      "bytes": 16728,
+      "sha256": "70e8f67f5b8e68b531bedbda976144744f167cb41ba725926e85d104d9eb4cb8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_15.08.2025__a1/receipt.json",
+      "bytes": 835,
+      "sha256": "0a7d449569e5b5dc2546d07b9625637a6404502b7bfeac58e2f5d507b34a3b13"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_26.10.2025__a1/original.zip",
+      "bytes": 17435,
+      "sha256": "8f7b147d72b51f2b92475c1ce77cc02c9da7ab892429c4bbadc390dc7801ddd4"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_26.10.2025__a1/receipt.json",
+      "bytes": 835,
+      "sha256": "5994999f7a1b4fbba066cc0a8817f6d3ba2f359a52d3a0f020eac22001333c28"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_31.08.2025__a1/original.zip",
+      "bytes": 16554,
+      "sha256": "39dcbc8f4bd0cea395de621a9d697ebf43bb6dfc7172523bac668c7301f87036"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_31.08.2025__a1/receipt.json",
+      "bytes": 835,
+      "sha256": "457567073719ec89a1f3d641ec75f93a33f07d8e89fe3a87e1c07797de5f766d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XML_TEMPLATE__a1/original.xml",
+      "bytes": 2473,
+      "sha256": "6f44965321ff552224daa29c50747b8052ec2516bdcc4b60d49f5a0dc3e3dfd6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/CAP_XML_TEMPLATE__a1/receipt.json",
+      "bytes": 725,
+      "sha256": "9236533589bf4aaa9bbb1601a18a96c51219718d2f2bb4274df3285e44468b30"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME__a1/receipt.json",
+      "bytes": 392,
+      "sha256": "ddde8612a117f13a24448e5e9d226418d239eb2d5fc9febe287c95cc63aa385c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME__a2/receipt.json",
+      "bytes": 392,
+      "sha256": "d44bf3e0e0624c55f0d1e1eb8ad1661033d69d0815a114f072610434e464e17c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME__a3/receipt.json",
+      "bytes": 392,
+      "sha256": "a111e9bdf07563c285c1e6540b1ead1429609d0a82be039861e1d161e0c19bc9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME_NET__a1/original.html",
+      "bytes": 22997,
+      "sha256": "51a2c247077e6531fccd9b502717bf8aea11e29303beca3751a55ec6fd2aa69d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME_NET__a1/receipt.json",
+      "bytes": 676,
+      "sha256": "d1fd219ebd192ea7ac09a60a535f1cd2ffe7ef05cf99d917531f89dd59fce3aa"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_WEBSITE_CONFIG__a1/original.json",
+      "bytes": 11394,
+      "sha256": "cf9556ae6f282a386ea9f31184be6fb0bde35e9dbc39027b4a16d290f5a7bec6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_WEBSITE_CONFIG__a1/receipt.json",
+      "bytes": 769,
+      "sha256": "034dd4121643cd3ccee6924f269a99f49ec5accb5164acc159014858bf32a1c3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_USERGATE_JS__a1/original.html",
+      "bytes": 376110,
+      "sha256": "e51fd1661841cb10bfa3fc2bb97578f766f314ea8233bde1cc542ff313381686"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_USERGATE_JS__a1/receipt.json",
+      "bytes": 784,
+      "sha256": "5e5fa8f4ee6b67cf85169f2910d1ef53b7b57b34939382e04fb2f865bb373b2c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ENTSO_ENERGY_BIDS_SPEC__a1/original.html",
+      "bytes": 33903,
+      "sha256": "18ff9a60a310ec91643eede92858a2a2f70e20dad295c8769b4cd20b7f09d792"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ENTSO_ENERGY_BIDS_SPEC__a1/receipt.json",
+      "bytes": 774,
+      "sha256": "9710462bfe776bb2878fc2c4cd593091b82eef07429524dcbe9e5e262624ee27"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ENTSO_PROCURED_SPEC__a1/original.html",
+      "bytes": 29892,
+      "sha256": "f42d16de9b435b6dd2ac9e1005841a592204b4d2db749fdd6b1f9418d75a0286"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/ENTSO_PROCURED_SPEC__a1/receipt.json",
+      "bytes": 775,
+      "sha256": "9547b540028a7554c087372178634390559560b0074779f3d0fe88d3bc46ecc6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_2025-08__a1/receipt.json",
+      "bytes": 693,
+      "sha256": "864b3a158a9296fba3b2bf578789766d5ce4d4838ea1dbd9f616c2e1328d1f6e"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_2025-08__a2/receipt.json",
+      "bytes": 693,
+      "sha256": "30496d06e8eed95621a42601033b63a9707e2ba63fb5fa7373acaa84c9bbb901"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_2025-08__a3/receipt.json",
+      "bytes": 693,
+      "sha256": "f3047e32dd9842d62afc0197bc6bb33dcf5f4c67e52afde46b6125bb6096d0fb"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_2025-08_NET__a1/original.json",
+      "bytes": 950654,
+      "sha256": "2433a4396385cb391461d3be8bc806708fe687b2bc9c4f51145f67fe19d991e6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_2025-08_NET__a1/receipt.json",
+      "bytes": 1170,
+      "sha256": "05222dd5130d15326f0f040ede20e46fdf2ae8ddbef09079cade687f68334bb6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata__a1/receipt.json",
+      "bytes": 524,
+      "sha256": "46f52d9f40a8fb99c0b2cd6e8be65415578cca968bd72113ebf37566f49d2fcd"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata__a2/receipt.json",
+      "bytes": 524,
+      "sha256": "752482706f7a6f1590256723523ea54f1d92037fb1f33cffe584043ae8da1f32"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata__a3/receipt.json",
+      "bytes": 524,
+      "sha256": "cb2d912064f2cb89fc09616d5c58ce54bd9cbd2b703a6bc8c37961e8cc4f04c6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata_NET__a1/original.json",
+      "bytes": 231,
+      "sha256": "fb3bdd6fd4a16d14be2dab0245329041e6850143884abe2fb70476d923fb14d3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata_NET__a1/receipt.json",
+      "bytes": 895,
+      "sha256": "ad4d370123e9cda333c525946e4e6b88a3d496e1aac94925c46c6d404d0789ab"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_activatedBalancingEnergyOverview__a1/original.json",
+      "bytes": 1686,
+      "sha256": "6f3d552086c09807dcd62c098d1738286d543fac5ac28427f4f2524562157fc9"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_activatedBalancingEnergyOverview__a1/receipt.json",
+      "bytes": 864,
+      "sha256": "cf897377546a18ba58973eccda1871d977b9dfb391f813563e8fd8596db52e48"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_marginalPricesOverview__a1/original.json",
+      "bytes": 1613,
+      "sha256": "68c9742e0837507a06d139dc67874aa3198040608d3a6a4b8ed43df1b9a949b3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_marginalPricesOverview__a1/receipt.json",
+      "bytes": 824,
+      "sha256": "ec4043b7a61074f762badf9ce16f9cb020d930e7c19405d36281fcf0642c2592"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_tenderStatistics__a1/original.json",
+      "bytes": 1620,
+      "sha256": "30914db3d78c29cd569982c515ceb17c6ca8a9f75192c8570221b0f286fea2f1"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PAGE_tenderStatistics__a1/receipt.json",
+      "bytes": 800,
+      "sha256": "42d65c8e7cbc68f776d62d5cc281a4b1f9391b16628848bac87f3f7756bd8c56"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PRICE_DAILY_CROSSCHECK_2025-08-15__a1/original.json",
+      "bytes": 30728,
+      "sha256": "782aff7fa20a75023d070b7103803312e92c6c08c29c59ebfc55516f2c6e40b3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/PRICE_DAILY_CROSSCHECK_2025-08-15__a1/receipt.json",
+      "bytes": 1059,
+      "sha256": "e508bd1f1857a117203da4406cf61af375dd93c43ac8da87bf72686ce34ee7dd"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/REG_127_ALTERNATE__a1/receipt.json",
+      "bytes": 355,
+      "sha256": "71b06b7b405208e71e2cd207351f56624790c9fb0b0fd441af843e6fbaf53d3d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/REG_127_ALTERNATE__a2/receipt.json",
+      "bytes": 355,
+      "sha256": "4cf1d07d15950cb5bd788b4df96ab22d5d577cb1f3179e1d4e0c948d093c54cf"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/REG_127_ALTERNATE__a3/receipt.json",
+      "bytes": 355,
+      "sha256": "d0d795a01557dfe2fdc4b8f641426dd5efd2fcaa309de1ed7ed9601b5de5272e"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127__a1/receipt.json",
+      "bytes": 408,
+      "sha256": "9e9844731ae14ff5b73eec26a0ede6b21f1043e7bbbf30278a70d6cd8d34a0c5"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127__a2/receipt.json",
+      "bytes": 408,
+      "sha256": "1b4f4d195ea19f042558eb63a1b4eff3bd8cc6f4748cc06510c60ea75eae49ef"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127__a3/receipt.json",
+      "bytes": 408,
+      "sha256": "628ece03657c2d035956c811f824612388779955ec1c7640d6a248802ff58bf3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127_NET__a1/receipt.json",
+      "bytes": 356,
+      "sha256": "51e31ba4709296ba27ec1df1760a238c57d2490f1b6a8fc9654a22a8786c4317"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127_NET__a2/receipt.json",
+      "bytes": 356,
+      "sha256": "9d13bd1d1b5628a1c6b7766fa5b501beecb2cffe309af7e40a53973eb3170d4f"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/RO_REG_127_NET__a3/receipt.json",
+      "bytes": 356,
+      "sha256": "08f0157e2e51aae67e60a9f2d5e1e268929a2ccb7c98462518f1ea3f35ba63a0"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_310_2025__a1/original.json",
+      "bytes": 128781,
+      "sha256": "6177c2fc7f7f1af7c84c5f280ddba709268be52ecbf61efd59494d8de42dcb9b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_310_2025__a1/receipt.json",
+      "bytes": 864,
+      "sha256": "f7c4a4f7b24fc758b95578eee06e000ccc039e2bec9ca2b8cf0319466ca999f2"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_469_2025__a1/original.json",
+      "bytes": 135874,
+      "sha256": "016632ca39fcbcb16f6281256227427a261106a73fcd5c1adf438c01bedcb430"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_469_2025__a1/receipt.json",
+      "bytes": 864,
+      "sha256": "414e3380248df165a76270494fdc11ba2a290cb7b543f9d0836312bb6377ffed"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_90_2026__a1/original.json",
+      "bytes": 88016,
+      "sha256": "970ab1ac39b3b9e46ce85b907be1f21fb21c7600b22424132a9ac46dc1f6da8c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_90_2026__a1/receipt.json",
+      "bytes": 859,
+      "sha256": "0061c92014541efd7ade941048cf3cc0fc46bff99e8c4439db8ee21071f39b2c"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/tenderStatistics_metadata__a1/receipt.json",
+      "bytes": 512,
+      "sha256": "fa235827c0e81cda8789be70498a6b7f1390134d2dfa3000f054e79ec9da60a3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/tenderStatistics_metadata__a2/receipt.json",
+      "bytes": 512,
+      "sha256": "0eae4d07b6478faed15cd7a4b5f74c5c9abc68fc0394678f2bc791908aec69dd"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/tenderStatistics_metadata__a3/receipt.json",
+      "bytes": 512,
+      "sha256": "6da6cb5284e5b116d844180f058d206cd6d37f8a147d6710f5c8936aa44b9c60"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/tenderStatistics_metadata_NET__a1/original.json",
+      "bytes": 225,
+      "sha256": "8c533b0a4f6f3c0039603ac43660fcdd6efc2c25605e7083a74810abbb80c59b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/tenderStatistics_metadata_NET__a1/receipt.json",
+      "bytes": 871,
+      "sha256": "b4d60b163a916d71f6ac5de8f3c21b38430ae3690b3284563f2358eee8072a6a"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE__a1/receipt.json",
+      "bytes": 404,
+      "sha256": "19623b6e9e48406420aa7a62745dd95c584d02f05c2b54a3be681b2bb83fbb4e"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE__a2/receipt.json",
+      "bytes": 404,
+      "sha256": "eef4ff213ab30398944c239246ceef0712ef273a4717adaa1db1585924f9fe49"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE__a3/receipt.json",
+      "bytes": 404,
+      "sha256": "cec3102837df292701992a0589126e752ad19cfe18d94ac3622a485f8e12c14a"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE_NET__a1/original.html",
+      "bytes": 40876,
+      "sha256": "111c33a6ff9d6b3f68c232d395b0b9b8f8d16c3575e4e6e277377b84677d7b1d"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE_NET__a1/receipt.json",
+      "bytes": 649,
+      "sha256": "da44a9ef7b4b3c8c7498c31a7b8187d0cad0fd1d97afad3aa311971d50c51fe8"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_ENG_GUIDE__a1/original.html",
+      "bytes": 41267,
+      "sha256": "d890a89cac0dfc7909eb4c41556887c9fe9033db89f9c673894e9075996c48a3"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_ENG_GUIDE__a1/receipt.json",
+      "bytes": 633,
+      "sha256": "effef7cc8347b93b765abdd02edb5f0ac2b04a6a5fc77a5f16dcdb5e54fb3d5b"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_MONITORING_PROCEDURE__a1/original.pdf",
+      "bytes": 529222,
+      "sha256": "6cc9b23b747651d8b7af10551ef762ced6777a8ee3266ebcdad5324c91d2b14e"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_MONITORING_PROCEDURE__a1/receipt.json",
+      "bytes": 764,
+      "sha256": "0aca2feea78782166c79d1ccde2c7ffc092697ce2dae63d623991b6a7fb83469"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_PUBLIC_WS_GUIDE__a1/original.zip",
+      "bytes": 418765,
+      "sha256": "a5e8a085e0be1bb8d89041a0ff100b80b4d63390a1de2055111c7320110cf118"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_PUBLIC_WS_GUIDE__a1/receipt.json",
+      "bytes": 872,
+      "sha256": "cbb37865602f2c21e64ca3ad2d00314c4c42f29975859aa5e1c04e8e512872c0"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO__a1/receipt.json",
+      "bytes": 391,
+      "sha256": "75ff8297ecb8b76733b96f8838c895271b6edf120b5302ab23cfbb496d96c5d6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO__a2/receipt.json",
+      "bytes": 391,
+      "sha256": "c1bb3e272f4f10c8332555f697fdc215b5a12fa5b920f8becb07c8ea7b906459"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO__a3/receipt.json",
+      "bytes": 391,
+      "sha256": "ef55a4cb4a24c622d0462b904fbe8acaaa44b6d0a7c08c48df88a065348cdf99"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO_NET__a1/original.html",
+      "bytes": 5749704,
+      "sha256": "26fa5f08a1ec5b7bf3fd39a45997f3e37c4604b025ab49870c32a70d6a8dede6"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_INFO_NET__a1/receipt.json",
+      "bytes": 625,
+      "sha256": "bfa891e64ad07bea2ec0ae13a3b43cac0feee63638645b392d850375ea803281"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_PROCEDURES__a1/original.html",
+      "bytes": 43805,
+      "sha256": "901e7a649d99ad4bd6457bbd13315a37c86a6d73f67c0d458f055462c6763ca5"
+    },
+    {
+      "path": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_PROCEDURES__a1/receipt.json",
+      "bytes": 639,
+      "sha256": "12dca2640feb7bc8af6064a32405fd5e7f367386b28d1a3e64ec8b8eedbadc9b"
+    }
+  ]
+}

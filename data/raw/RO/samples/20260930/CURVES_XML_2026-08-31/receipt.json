@@ -1,0 +1,17 @@
+{
+  "id": "CURVES_XML_2026-08-31",
+  "dataset": "D18",
+  "url": "https://www.opcom.ro/order_book/curbe_agregate_RO_20260831.xml",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2026-08-31 aggregated curves; download button observed in selected-date official page",
+  "retrieved_utc": "2026-09-30T14:12:51.8885094Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/xml",
+  "raw_file": "data/raw/RO/samples/20260930/CURVES_XML_2026-08-31/original.xml",
+  "bytes": 4376754,
+  "sha256": "f72c5fabce7c35fddc402831e12dcfa8777d7f066e506cb081da7bccd7024287"
+}

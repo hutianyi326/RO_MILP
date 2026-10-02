@@ -1,0 +1,21 @@
+{
+  "id": "BNR_XML_CATALOG",
+  "dataset": "D14",
+  "publisher": "BNR",
+  "title": "Dedicated exchange-rate XML server instructions",
+  "url": "https://curs.bnr.ro/",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:27.254674+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://curs.bnr.ro/",
+  "content_type": "text/html",
+  "raw_file": "data/raw/RO/full_period/20261001/BNR_XML_CATALOG__a1/original.html",
+  "sha256": "e67624e03a3bab93fa9664e61c47e22f9e9e22f8942e78bb7929789b5fb4cf27",
+  "bytes": 5418,
+  "detected_format": "html"
+}

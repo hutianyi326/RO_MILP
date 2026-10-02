@@ -1,0 +1,19 @@
+{
+  "id": "TSO_TARIFF_CATALOG",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/ro/web/tel/tarife",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T23:35:57.290417+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/tarife",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_TARIFF_CATALOG__a1/original.html",
+  "sha256": "f21906c60d993ebed097f25a211dc47f498dbd7aa16a2d2e6e123c5d2a58e08e",
+  "bytes": 84465,
+  "detected_format": "html"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "TSO_STS_INFO",
+  "url": "https://www.transelectrica.ro/web/tel/295",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:10:48.799773+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+}

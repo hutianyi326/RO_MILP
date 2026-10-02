@@ -1,0 +1,53 @@
+[
+  {
+    "id": "DAMAS_USERGATE_JS",
+    "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/public/4.23.3/userGate.js",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:18:02.236637+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/public/4.23.3/userGate.js",
+    "content_type": "application/javascript; charset=UTF-8",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_USERGATE_JS__a1/original.html",
+    "sha256": "e51fd1661841cb10bfa3fc2bb97578f766f314ea8233bde1cc542ff313381686",
+    "bytes": 376110,
+    "detected_format": "html"
+  },
+  {
+    "id": "TSO_ENG_GUIDE",
+    "url": "https://www.transelectrica.ro/en/web/tel/info-sts",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:18:02.236637+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://www.transelectrica.ro/en/web/tel/info-sts",
+    "content_type": "text/html;charset=UTF-8",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_ENG_GUIDE__a1/original.html",
+    "sha256": "d890a89cac0dfc7909eb4c41556887c9fe9033db89f9c673894e9075996c48a3",
+    "bytes": 41267,
+    "detected_format": "html"
+  },
+  {
+    "id": "TSO_PUBLIC_WS_GUIDE",
+    "url": "https://www.transelectrica.ro/documents/10191/16424922/DUROM-Web_+Services_v01.02_Participanti_22.docx/01d4e2f4-a785-41e8-a87e-1c5540094c85",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:18:02.237638+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://www.transelectrica.ro/documents/10191/16424922/DUROM-Web_+Services_v01.02_Participanti_22.docx/01d4e2f4-a785-41e8-a87e-1c5540094c85",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_PUBLIC_WS_GUIDE__a1/original.zip",
+    "sha256": "a5e8a085e0be1bb8d89041a0ff100b80b4d63390a1de2055111c7320110cf118",
+    "bytes": 418765,
+    "detected_format": "zip"
+  }
+]

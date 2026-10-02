@@ -1,0 +1,17 @@
+{
+  "id": "S011",
+  "dataset": "D08-D11-D16",
+  "url": "https://www.transelectrica.ro/en/web/tel/rapoarte-zilnice",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official daily report handover and public source routes",
+  "retrieved_utc": "2026-09-30T09:24:08.5970143Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S011/original.html",
+  "bytes": 58291,
+  "sha256": "54aac81de55fdf386eb15b61e5ba4a25b939206cbe34ad145fe6fa1ee4f72edb"
+}

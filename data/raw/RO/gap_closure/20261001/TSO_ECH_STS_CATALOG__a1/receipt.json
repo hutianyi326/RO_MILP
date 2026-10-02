@@ -1,0 +1,19 @@
+{
+  "id": "TSO_ECH_STS_CATALOG",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/ro/web/tel/echilibrare-si-sts",
+  "title": "Echilibrare si STS transparency catalogue",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:26.066608+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/echilibrare-si-sts",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_ECH_STS_CATALOG__a1/original.html",
+  "sha256": "cc02bf990be4ee498d45a58af14f135cda1d34710723212e8f01591c8b1052e5",
+  "bytes": 68710,
+  "detected_format": "html"
+}

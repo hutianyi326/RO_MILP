@@ -1,0 +1,22 @@
+{
+  "id": "OPCOM_FEE_ARCHIVE_35_QUOTED",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/uploads/doc/FPA/Procedura privind tarifele practicate de OPEED_12.06.2024.pdf",
+  "title": "Procedura",
+  "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+  "scope": "historical fee body, effective dates and actual applies to verify",
+  "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:05:38.157004+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/uploads/doc/FPA/Procedura%20privind%20tarifele%20practicate%20de%20OPEED_12.06.2024.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_FEE_ARCHIVE_35_QUOTED__a1/original.pdf",
+  "sha256": "797c92e3a3cbad991b50080acb45c92cd9e1c54fef13f9cc9662eb02389eb14a",
+  "bytes": 163760,
+  "detected_format": "pdf"
+}

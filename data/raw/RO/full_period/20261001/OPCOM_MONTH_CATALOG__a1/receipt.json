@@ -1,0 +1,21 @@
+{
+  "id": "OPCOM_MONTH_CATALOG",
+  "dataset": "D12",
+  "publisher": "OPCOM",
+  "title": "Monthly Market Reports",
+  "url": "https://www.opcom.ro/tranzactii-rezultate/en/22",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:27.253573+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/tranzactii-rezultate/en/22",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/OPCOM_MONTH_CATALOG__a1/original.html",
+  "sha256": "6502e7c099a0d566021f505ee0a8ce5dfc736fb87b6834d5631844b75cfdfe6c",
+  "bytes": 78501,
+  "detected_format": "html"
+}

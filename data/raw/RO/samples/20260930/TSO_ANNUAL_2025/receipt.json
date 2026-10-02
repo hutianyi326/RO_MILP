@@ -1,0 +1,17 @@
+{
+  "id": "TSO_ANNUAL_2025",
+  "dataset": "D09-D10-D17",
+  "url": "https://www.transelectrica.ro/documents/10179/21722492/2.+Raport+Anual+2025+Transelectrica_RO_clean.V3+final.pdf/3fa66025-fba4-442d-88f3-0d55f1c6f3c4",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2025 official annual report; annual sample not native timeseries",
+  "retrieved_utc": "2026-09-30T09:42:59.3978541Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/TSO_ANNUAL_2025/original.pdf",
+  "bytes": 4147428,
+  "sha256": "d0574c4ad97d38fa09a1508ecc8cf92f4149ef437f20c8968096580142ba5637"
+}

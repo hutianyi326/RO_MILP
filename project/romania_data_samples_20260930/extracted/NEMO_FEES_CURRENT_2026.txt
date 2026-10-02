@@ -1,0 +1,475 @@
+=== PDF PAGE 1 ===
+The Gas and Electricity Market Operator “OPCOM” S.A. 
+Summary/Procedure regarding the tariffs applied by the Nominated Electricity Market Operator (NEMO) for the services provided to participants in the Short-Term Electricity Markets 
+(Day-Ahead Market and Intraday Market – Continuous Trading (IDCT) and Auction Trading (IDA)) in 2026. Invoicing and payment deadlines of the tariffs applied by NEMO. 
+1 
+ 
+Name of 
+Tariffs applied 
+by NEMO 
+ 
+U/M 
+ 
+Tariffs applied, rules of application 
+  
+Tariff value 
+ 
+Invoice 
+type 
+ 
+Invoicing of the NEMO tariff 
+ 
+Payment term 
+ 
+Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Administration 
+tariff 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lei/ 
+participant/ 
+year 
+ 
+ 
+NEMO applies to each participant of the organized and 
+administrated markets a single tariff of administration, 
+regardless of the number of markets in which they 
+participate. 
+ 
+The administration tariff is calculated using the formula: 
+Tadmin = Vadmin /Nr. participants [lei/participant/year] 
+ 
+where: 
+Vadmin = Administration revenue estimated to be 
+achieved during the tariff period t 
+No. of participants = The number of participants 
+considered in setting the administration tariff for tariff 
+period t, which is the number of participants estimated 
+in December of each year, at the date of submission of 
+the tariff proposal for approval by the Board of 
+Administration 
+ 
+ 
+The administration tariff is set separately for two 
+categories of participants: A and B. For participants 
+classified in category A, the administration tariff applied 
+represents 60% of the tariff  applicable to participants in 
+category B. 
+ 
+ 
+1. Annual classification of participants into category 
+A or category B as of 01.12.(t-1), for the purpose of 
+setting tariffs for the following year (t): 
+-Categories A and B are determined based on the total 
+quantity of electricity traded, cumulated for both sale and 
+purchase, by the participant in the Day-Ahead Market (DAM) 
+and/or Intraday Market (IDCT and/or IDA), during the period 
+from December 1 of tariff period t-2 until November 30 of 
+tariff period t-1. 
+-Classification into category A or B of a participant 
+registered in DAM and/or Intraday Market during the period 
+December 1 (t-2) – November 30 (t-1) is based on the 
+average monthly quantity of electricity traded, cumulated 
+for both sale and purchase, on the markets in which the 
+participant is active, as follows: 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- category A: 
+26.268 lei/ 
+participant/ 
+year 
+- category B: 
+43.776 lei/ 
+paticipant/year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Electronic 
+invoice 
+ 
+1.  The invoice related to the 
+administration activity for tariff 
+period t is issued: 
+-  annually; 
+-  upon the registration of the 
+participant in DAM and/or IDM; 
+-  on the occasion of 
+reconsidering the classification 
+from category A to category B 
+ 
+2.  The invoice related to the 
+administration activity for tariff 
+period t (to which VAT is added, 
+where applicable) for each 
+participant registered in DAM 
+and/or IDM (IDCT and/or IDA) is 
+issued by NEMO within a 
+maximum of 5 working days from 
+the date of approval by the Board 
+of Directors of the tariffs applied 
+by NEMO, and is  electronically 
+transmitted to SPV-ANAF within 5 
+working days from the date of  
+invoice issuing . 
+ 
+3. For participants who register in 
+DAM and/or IDM (IDCT and/or 
+IDA) during tariff period t, the 
+invoice (to which VAT is added, 
+where applicable) is issued within 
+a maximum of 5 working days 
+from the date of registration in the 
+ 
+Payment of the 
+invoice shall be 
+made by the 
+participant via 
+bank transfer, by 
+payment order, 
+within 5 working 
+days from the 
+date of issuance. 
+ 
+The invoice shall 
+be considered 
+paid on the date 
+the payment is 
+recorded in the 
+bank statement of 
+OPCOM SA. 
+ 
+The situation of withdrawal / revocation 
+of the participant from DAM and / or 
+IDM: 
+- NEMO issue the storno  invoice related 
+to the administration tariff in proportion 
+to the period between the 1st of the 
+month following the date of entry into 
+force of the withdrawal/revocation and 
+the end of the year. 
+ 
+The value related to storno invoice, in 
+case that this was  paid, will be returned 
+within maximum 5 (five) working days 
+from the date of transmission of the 
+storno invoice in SPV-ANAF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 2 ===
+The Gas and Electricity Market Operator “OPCOM” S.A. 
+Summary/Procedure regarding the tariffs applied by the Nominated Electricity Market Operator (NEMO) for the services provided to participants in the Short-Term Electricity Markets 
+(Day-Ahead Market and Intraday Market – Continuous Trading (IDCT) and Auction Trading (IDA)) in 2026. Invoicing and payment deadlines of the tariffs applied by NEMO. 
+2 
+ 
+Name of 
+Tariffs applied 
+by NEMO 
+ 
+U/M 
+ 
+Tariffs applied, rules of application 
+  
+Tariff value 
+ 
+Invoice 
+type 
+ 
+Invoicing of the NEMO tariff 
+ 
+Payment term 
+ 
+Other information 
+a) Category A: if the average monthly traded quantity is less 
+than or equal to 833 MWh; 
+b) Category B: if the average monthly traded quantity is 
+greater than 833 MWh. 
+ 
+2. Classification and reclassification of participants from 
+category A to category B during tariff period t – general 
+rules: 
+ 
+-Participants registered during tariff period t in at least 
+one market organized and administered by NEMO are 
+classified in category A and pay the administration tariff 
+corresponding to category A. 
+ 
+-For participants who register in DAM and/or Intraday Market 
+(IDCT and/or IDA) during tariff period t, the administration 
+tariff is weighted according to the duration (in months) 
+for which the participant is registered in the markets 
+organized and administered by NEMO within the 
+respective tariff period. 
+ 
+- The quantity of electricity traded by participants 
+registered during tariff period t is evaluated monthly by 
+NEMO, in order to reconsider classification into category B, 
+if applicable, based on the average monthly traded quantity 
+cumulated for both sale and purchase. 
+ 
+- Classification into category B is applied starting with the 
+month following the one in which the condition from point 
+1(b) was met. 
+ 
+- A participant whose category was reconsidered during the 
+year, from category A to category B, remains classified in 
+category B throughout the entire tariff period t. 
+market and is transmitted 
+electronically to SPV-ANAF within 
+5 working days from the date of 
+issuing the invoice. 
+ 
+ 
+
+=== PDF PAGE 3 ===
+The Gas and Electricity Market Operator “OPCOM” S.A. 
+Summary/Procedure regarding the tariffs applied by the Nominated Electricity Market Operator (NEMO) for the services provided to participants in the Short-Term Electricity Markets 
+(Day-Ahead Market and Intraday Market – Continuous Trading (IDCT) and Auction Trading (IDA)) in 2026. Invoicing and payment deadlines of the tariffs applied by NEMO. 
+3 
+ 
+Name of 
+Tariffs applied 
+by NEMO 
+ 
+U/M 
+ 
+Tariffs applied, rules of application 
+  
+Tariff value 
+ 
+Invoice 
+type 
+ 
+Invoicing of the NEMO tariff 
+ 
+Payment term 
+ 
+Other information 
+-The category of participants who were also active in the 
+previous year is evaluated monthly during tariff period t 
+based on: 
+- the average monthly quantity of electricity traded in the 
+last 12 months; 
+- the average monthly quantity of electricity traded during 
+the period in which they held participant status (for 
+participants registered in the previous year, calculated 
+for a maximum of 12 months) 
+cumulated for both sale and purchase, on the markets in 
+which they participate. 
+ 
+ 
+ 
+ 
+ 
+ 
+Trading tariff  
+ 
+ 
+ 
+ 
+ 
+ 
+Lei/Mwh 
+ 
+ 
+ 
+ 
+The trading tariff  is calculated using the formula: 
+   Ttranz = Vtranz/(2 x Qtranz)    [lei/MWh] 
+    unde: 
+where: 
+-Vtranz = Trading revenue estimated to be achieved 
+during tariff period t 
+-Qtranz = Estimated quantity of electricity to be traded, 
+reduced by the estimated electricity quantities related 
+to the default participant 
+ 
+The trading tariff applies both to sale transactions and to 
+purchase transactions carried out by participants in the 
+Day-Ahead Market (DAM/PZU) and/or Intraday Market (IDCT 
+and/or IDA), with delivery in the tariff month. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0,125 lei/MWh 
+traded. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Electronic 
+invoice 
+ 
+For transactions carried out by 
+participants on the DAM and/or 
+IDM markets (IDCT and/or IDA) for 
+delivery during the month, the 
+electronic invoice (to which VAT is 
+added, where applicable) is 
+transmitted electronically to 
+SPV-ANAF within the first 5 
+working days from the date of 
+issuing the invoice, in the month 
+following the delivery month for 
+which the electricity sale and 
+purchase transactions were 
+carried out. 
+ 
+The trading tariff is applied, 
+invoiced, and paid separately for 
+each of the trading mechanisms 
+made available to participants by 
+ 
+The invoice shall 
+be paid by the 
+participants 
+within 5 working 
+days from the 
+date of receipt of 
+the invoice in 
+SPV-ANAF. 
+The invoice shall 
+be deemed paid 
+on the date the 
+payment is 
+recorded in the 
+bank statement of 
+OPCOM SA. 
+ 
+ 
+ 
+
+=== PDF PAGE 4 ===
+The Gas and Electricity Market Operator “OPCOM” S.A. 
+Summary/Procedure regarding the tariffs applied by the Nominated Electricity Market Operator (NEMO) for the services provided to participants in the Short-Term Electricity Markets 
+(Day-Ahead Market and Intraday Market – Continuous Trading (IDCT) and Auction Trading (IDA)) in 2026. Invoicing and payment deadlines of the tariffs applied by NEMO. 
+4 
+ 
+ 
+ 
+ 
+Name of 
+Tariffs applied 
+by NEMO 
+ 
+U/M 
+ 
+Tariffs applied, rules of application 
+  
+Tariff value 
+ 
+Invoice 
+type 
+ 
+Invoicing of the NEMO tariff 
+ 
+Payment term 
+ 
+Other information 
+OPCOM, namely: DAM; IDM IDCT; 
+IDM IDA. 
+ 
+General provisions:  
+1.  The tariffs applied by NEMO are: 
+     a)  administration tariff, Tadmin [lei/participant/year]; and 
+     b)  trading tariff, Ttranz [lei/MWh]. 
+2.  The tariffs applied by NEMO for tariff period t shall be established and approved by the Board of Directors during December of tariff period t-1 or during tariff period t, as applicable. 
+3.  OPCOM shall publish on its own website the tariffs applicable in the following year or those modified during the application period, at least 15 days prior to their application (before the date of entry into force of the new 
+tariffs). 
+4.  Modification of tariffs during tariff period t: 
+4.1. OPCOM may modify the value of the tariffs applied within tariff period t, in accordance with the approval decision of the Board of Directors. The established tariffs shall be published at least 15 days prior to their 
+application (before the date of entry into force of the new tariffs). 
+4.2. OPCOM shall apply the modification of the tariffs starting from the first day of the month following the month in which the modification occurred. In this case, OPCOM shall issue adjustment invoices for the 
+administration tariff corresponding to tariff period t, reflecting the modification. The difference resulting from the adjustment shall be settled within a maximum of 5 (five) working days from the date of receipt of the 
+invoice, as follows: 
+-  if the adjustment results in a positive amount, it shall be paid by the participant; 
+-  if the adjustment results in a negative amount, it shall be paid by OPCOM. 
+5.  Invoices shall be issued and transmitted in electronic format, in accordance with the applicable legal provisions. The authenticity of origin, integrity of content, and readability of invoices issued in electronic format shall 
+be guaranteed by OPCOM S.A. through electronic signature and the assignment of a specific internal series and number, in accordance with the law. 
+6.  Suspension, withdrawal, or revocation of a participant from the organized forward electricity markets shall not exempt the parties from fulfilling the obligations undertaken up to that date. 
+ 
+Legal Basis: 
+-  ANRE Order no. 100/14.11.2023; 
+-  Decision of the Board of Directors of OPCOM S.A. no. 79/12.12.2025; 
+-  Law no. 227/2015 on the Fiscal Code, with subsequent modifications and completions; 
+-  Government Emergency Ordinance (GEO) no. 120/2021 on the administration, operation, and implementation of the national system regarding the electronic invoice RO e-Factura  and electronic invoicing in Romania,  with 
+subsequent modifications and completions. 

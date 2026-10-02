@@ -1,0 +1,79 @@
+[
+  {
+    "source_id": "STS_DOC_1",
+    "source_sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_1/Anexa 1 REZERVE CAPACITATE.docx",
+    "sha256": "c8aff932a8f5399c5bac94741029566885fb3db04f7911927ed45e45bfd1c6b3",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_1",
+    "source_sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_1/Anexa 2 REZERVE CAPACITATE.docx",
+    "sha256": "63719ede4e61e0c7fe99b4ad38f4b68ab5900f2336351410331fa9c9f882c559",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_1",
+    "source_sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_1/Anexa 3  REZERVE CAPACITATE.docx",
+    "sha256": "ed009ea1c5ca6101c4e42e586cbc547797edb602d884860f0cc6a95c45f2a883",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_1",
+    "source_sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_1/PO CAPACITATE ECHILIBRARE 2024 ED1 REV 2 .pdf",
+    "sha256": "dbf707f875aacccb6725fa32150cb246e5fd9d4113efe9314097820144795df3",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_2",
+    "source_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/09 10 2024 REVIZIA 1 PO RSF 2022.docx",
+    "sha256": "4ea930d9d47692e220db30daf25a305fa886b20faad0917928c2e96eab38d1f6",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_2",
+    "source_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/FORMLAR TEL 1.docx",
+    "sha256": "be39477b833624c12695e40f27379c1198ccd82127cd5ca318ec8ee166681fe9",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_2",
+    "source_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/FORMLAR TEL 2.docx",
+    "sha256": "b61769ccedeb3737dd4621b287ae93112002e008eec45dc8fe1495c9edeb9711",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_2",
+    "source_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/FORMLAR TEL 3.docx",
+    "sha256": "448ad38ddd44dc1023804659be8838f4761a79e02921f79289ac23a205e968eb",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_2",
+    "source_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/FORMULAR  TEL 4 CONTRACT RSF 2022.doc",
+    "sha256": "be85f9b67c7021031b8ecb2ae2f388818ca43c139c3c5823bc14e3954e4269a7",
+    "derivation": "unpacked original RAR5; archive source misclassified by generic downloader; raw untouched"
+  },
+  {
+    "source_id": "STS_DOC_3",
+    "source_sha256": "e04042681117b73670abe3999ccd4884ecb241b09854e898cac235fb2811c538",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_3.doc",
+    "sha256": "e04042681117b73670abe3999ccd4884ecb241b09854e898cac235fb2811c538",
+    "derivation": "byte-identical DOC staging copy; raw OLE Word misclassified as XLS; no source modification"
+  },
+  {
+    "source_id": "STS_DOC_4",
+    "source_sha256": "88f68509358091ae284f0d6c7e0173c5967a69a1322dbb1ddd757b37db625093",
+    "file": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_4.doc",
+    "sha256": "88f68509358091ae284f0d6c7e0173c5967a69a1322dbb1ddd757b37db625093",
+    "derivation": "byte-identical DOC staging copy; raw OLE Word misclassified as XLS; no source modification"
+  }
+]

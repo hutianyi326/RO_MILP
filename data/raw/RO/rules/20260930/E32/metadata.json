@@ -1,0 +1,14 @@
+{
+  "id": "E32",
+  "title": "Transelectrica selection PO240",
+  "url": "https://www.transelectrica.ro/documents/10191/0/PO+240_Selectarea_08.12.2023_clean1.docx/9793160c-9c32-4226-9d71-96b60138b83a",
+  "resolved_url": "https://www.transelectrica.ro/documents/10191/0/PO+240_Selectarea_08.12.2023_clean1.docx/9793160c-9c32-4226-9d71-96b60138b83a",
+  "retrieved_utc": "2026-09-30T07:53:58.0997511Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "path": "data\\raw\\RO\\rules\\20260930\\E32\\original.docx",
+  "bytes": 156384,
+  "sha256": "bb3f8526ce405902d53803c47c161549118ce63374873de729128ac237236628",
+  "extracted_characters": 52862
+}

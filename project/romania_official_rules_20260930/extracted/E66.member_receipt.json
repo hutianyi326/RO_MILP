@@ -1,0 +1,16 @@
+{
+  "evidence_id": "E66",
+  "raw_content_type": "RAR archive; original.html extension incorrect but immutable bytes retained",
+  "original_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+  "selected_member": "09 10 2024 REVIZIA 1 PO RSF 2022.docx",
+  "derived_path": "project\\romania_official_rules_20260930\\extracted\\E66\\09 10 2024 REVIZIA 1 PO RSF 2022.docx",
+  "member_sha256": "4ea930d9d47692e220db30daf25a305fa886b20faad0917928c2e96eab38d1f6",
+  "characters": 34449,
+  "archive_members": [
+    "FORMULAR  TEL 4 CONTRACT RSF 2022.doc",
+    "09 10 2024 REVIZIA 1 PO RSF 2022.docx",
+    "FORMLAR TEL 1.docx",
+    "FORMLAR TEL 2.docx",
+    "FORMLAR TEL 3.docx"
+  ]
+}

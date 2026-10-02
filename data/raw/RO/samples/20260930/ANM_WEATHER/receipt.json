@@ -1,0 +1,17 @@
+{
+  "id": "ANM_WEATHER",
+  "dataset": "D17",
+  "url": "https://www.meteoromania.ro/",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official meteorological source discovery; historical weather route",
+  "retrieved_utc": "2026-09-30T09:38:52.6890251Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/ANM_WEATHER/original.html",
+  "bytes": 552622,
+  "sha256": "67cde1ad76681bc37c401c6deb693271e1cf18913a8967fffb135344e68bbdda"
+}

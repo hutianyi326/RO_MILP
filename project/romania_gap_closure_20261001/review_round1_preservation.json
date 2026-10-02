@@ -1,0 +1,7 @@
+{
+  "manifest_sha256": "a6a1ceb6baca57364054c70cfc3c7eaad65f2bd535855754277ca2f8fd1b0d57",
+  "snapshot_sha256": "52758f77438cd84228cd9e29a5cd3d86d1510fbaaf89bba27e6136127a151a76",
+  "snapshot_bytes": 14773153,
+  "review_opinion_sha256": "4fa3db69b18a2871029420fca76b922a9d9e73abbcf0473c88a6859391b8338d",
+  "preservation": "first review files immutable in snapshot; original raw and prior delivery unchanged; working supplemental files now repaired in round2"
+}

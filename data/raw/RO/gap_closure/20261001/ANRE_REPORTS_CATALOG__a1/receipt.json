@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_REPORTS_CATALOG",
+  "dataset": "D12",
+  "url": "https://anre.ro/despre/rapoarte/",
+  "title": "ANRE official monthly reporting catalog",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:05:38.613627+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/despre/rapoarte/",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_REPORTS_CATALOG__a1/original.html",
+  "sha256": "12258e99d46474051a01a3655d6bfbd9d122f7dbf21a5f3eac45233df80cbac8",
+  "bytes": 336732,
+  "detected_format": "html"
+}

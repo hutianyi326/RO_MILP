@@ -1,0 +1,14 @@
+{
+  "id": "E50",
+  "title": "DSO Oltenia stored-energy exemption operating procedure2025",
+  "url": "https://www.distributieoltenia.ro/resources/ckfinder/core/connector/php/connector.php?command=Proxy&currentFolder=%2FDO%2FCERTIFICARI+SI+PREVEDERI+LEGALE%2FMasurarea+energiei+electrice%2F2025%2F&fileName=Ordin+ANRE+56_2025+-+Procedur%C4%83+operationala+scutire+tarifelor+reglementate+energie+stocat%C4%83.pdf&hash=24460cc7b9aefcd5&lang=en&type=Files",
+  "resolved_url": "https://www.distributieoltenia.ro/resources/ckfinder/core/connector/php/connector.php?command=Proxy&currentFolder=%2FDO%2FCERTIFICARI+SI+PREVEDERI+LEGALE%2FMasurarea+energiei+electrice%2F2025%2F&fileName=Ordin+ANRE+56_2025+-+Procedur%C4%83+operationala+scutire+tarifelor+reglementate+energie+stocat%C4%83.pdf&hash=24460cc7b9aefcd5&lang=en&type=Files",
+  "retrieved_utc": "2026-09-30T07:58:00.1601135Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E50\\original.pdf",
+  "bytes": 126163,
+  "sha256": "5729d7db66b363ebb946f174589580b111a80991d5b33eb7c6bfe388e0db73d4",
+  "extracted_characters": 28406
+}

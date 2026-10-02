@@ -1,0 +1,3217 @@
+PDF PAGE 1
+                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                               
+ 
+   Str. Constantin Nacu, nr. 3, Sector 2, Bucureşti, Cod poştal: 020995   
+                                           Tel: (021) 327 8100. Fax: (021) 312 4365. E-mail: anre@anre.ro. Web: www.anre.ro  
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI 
+DIRECȚIA REGLEMENTĂRI PIAȚĂ CU AMĂNUNTUL DE ENERGIE ȘI MONITORIZARE 
+  
+ȘI MONITORIZARE  
+ 
+ 
+ 
+ 
+……….. 
+ 
+ 
+și 
+        
+ 
+ 
+ 
+                                                                                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAPORT PRIVIND REZULTATELE MONITORIZĂRII  
+PIEŢEI DE ENERGIE ELECTRICĂ  
+ÎN LUNA DECEMBRIE 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANRE depune toate eforturile pentru a prezenta în mod cât mai clar, în acest document, informaţii bazate pe raportările operatorilor 
+economici. Acest document publicat de ANRE are numai scop informativ şi educaţional; ANRE  nu este şi nu va fi legal responsabilă, în nicio 
+circumstanţă, pentru eventualele inadvertenţe cu privire la informaţiile prezentate şi nici pentru folosirea improprie a acestora de către 
+utilizatori. 
+ 
+PDF PAGE 2
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 2 
+ 
+ 
+ 
+CUPRINS 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE ELECTRICĂ DIN 
+ROMÂNIA .................................................................................................................................. 3 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ .............................................................. 4 
+1. Participanţii la piaţa angro de energie electrică ......................................................................................... 5 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de producătorii 
+monitorizați........................................................................................................................................................... 6 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică ...................................................................... 10 
+4. Tranzacţiile cu energie electrică pe categorii de participanţi la PAN ...................................................... 22 
+5. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale  ....................... 32 
+6. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică .............................................................. 34 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ .......................................... 39 
+1. Participanții la piața cu amănuntul de energie electrică.......................................................................... 40 
+2. Numărul de clienți finali ........................................................................................................................... 41 
+3. Consumul de energie electrică al clienților finali ..................................................................................... 43 
+4. Prețuri medii de furnizare la clienții finali ............................................................................................... 45 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică .................................................... 48 
+IV. STRUCTURA PE TIPURI DE SURSE PRIMARE DE ENERGIE A PRODUCȚIEI 
+DE ENERGIE ELECTRICĂ DIN ROMÂNIA ȘI VALORILE INDICATORILOR DE 
+MEDIU ASOCIAȚI ENERGIEI ELECTRICE PRODUSE LA NIVEL NAȚIONAL, 
+PENTRU FIECARE TIP DE SURSĂ PRIMARĂ ................................................................ 52 
+ 
+ 
+ 
+  
+ 
+PDF PAGE 3
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 3 
+ 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE ELECTRICĂ DIN 
+ROMÂNIA 
+Piața de energie electrică funcționează conform regulilor instituite prin legislația primară, 
+în principal Legea energiei electrice şi a gazelor naturale nr. 123/2012 , cu modificările și 
+completările ulterioare (Legea), prin regulamentele europene ca acte de directă aplicabilitate și 
+prin cadrul de reglementare elaborat de ANRE. 
+ANRE monitorizează funcţionarea pieţei angro și a pieței cu  amănuntul de energie 
+electrică în vederea evaluării nivelului de eficienţă, transparenţă şi concurenţă, în temeiul OUG 
+nr. 33/2007 privind organizarea și funcționarea ANRE, aprobată cu modificări și completări prin 
+Legea nr. 160/2012, cu modificările şi completările ulterioare. Monitorizarea  pieței de energie 
+electrică se realizează pe bază de reglementări proprii, respectiv Metodologia de monitorizare a 
+pieţei angro de energie electrică (Metodologia PAN), aprobată prin Ordinul preşedintelui ANRE 
+nr. 18/2023 , și Metodologia de monitorizare a pieţei cu amănuntul de energie electrică  
+(Metodologia PAM) , aprobată prin Ordinul preşedintelui ANRE nr. 17/2023.  Participanţii la 
+piaţa de energie electrică raportează  lunar către ANRE date de tranzacționare specifice pieței 
+angro de energie electrică și, după caz, date tehnice și informații specifice pieței cu amănuntul 
+de energie electrică, potrivit prevederilor din cele două metodologii de monitorizare.  
+Din perspectiva activității desfășurate pe fiecare din componentele pieței de energie 
+electrică, categoriile de participanți cu obligații de raportare sunt producătorii din surse clasice 
+și regenerabile monitorizați în temeiul Metodologiei PAN în vigoare, entitățile agregate și 
+agregatorii pentru producere sau pentru consum comandabil , operatorii instalațiilor de stocare, 
+furnizorii și traderii de energie electrică, părțile responsabile cu echilibrarea, operatorul de 
+transport și sistem și operatorii de distribuție concesionari (pentru energia electrică necesară 
+acoperirii consumului propriu tehnologic în rețelele de transport și de distribuție). Datele lunare 
+raportate de participanți sunt corelate cu datele și informațiile de tranzacționare transmise de 
+operatorii pieței de energie electrică, operatorul de transport și sistem și operatorii de distribuție 
+concesionari. 
+Raportul lunar de monitorizare a pieței de energie electrică prezintă, în sinteză , 
+rezultatele activității de monitorizare la nivelul lunii analizate, dar și comparativ cu alte perioade, 
+prin intermediul unor indicatori agregați ce caracterizează componentele pieței angro și a pieței 
+cu amănuntul de energie electrică din punct de vedere al structurii și funcționării acestora.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF PAGE 4
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 4 
+ 
+ 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ 
+În conformitate cu prevederile legale, pe piața angro de energie electrică se derulează 
+tranzacții cu energie electrică în urma desfășurării de licitații pe piețele organizate aflate în 
+administrarea operatorilor pieței de energie electrică, tranzacții cu energie electrică pe bază de 
+contracte bilaterale negociate direct și tranzacții de import și de export al energiei electrice. 
+Dimensiunea pieţei angro de energie electrică este dată de totalitatea tranzacţiilor 
+realizate de participanţii la piață, în care sunt incluse și revânzările realizate în scopul ajustării 
+poziţiei contractuale sau obţinerii de beneficii financiare, depăşin d în acest fel cantitatea de 
+energie electrică transmisă fizic de la producere la consum.  
+În prezent, titulari ai unei licențe pentru activitatea operatorului pieței de energie electrică 
+în conformitate cu prevederile Legii sunt:  
+❖ din decembrie 2001 societatea Operatorul Pieței de Energie Electrică și de Gaze 
+Naturale “OPCOM” SA (denumită în continuare OPCOM) și  
+❖ din martie 2022, societatea Bursa Română de Mărfuri (Romanian Commodities 
+Exchange) SA (denumită în continuare BRM). 
+Piețele organizate aflate în administrarea OPCOM sunt piețele centralizate de contracte 
+la termen: modalitatea de tranzacționare prin licitație extinsă şi utilizarea produselor care să 
+asigure flexibilitatea tranzacţionării (PCCB -LE-flex), modalitatea de t ranzacționare a 
+contractelor prin negociere continuă (PCCB -NC), cadrul organizat de tranzacţionare pe piața 
+centralizată cu negociere dublă continuă (PC -OTC), modalitatea de încheiere a contractelor de 
+procesare a combustibilului (PCCB -PC), piaţa de energi e electrică pentru clienţii finali mari 
+(PMC), piaţa centralizată pentru serviciul universal (PCSU), piaţa centralizată pentru energie 
+electrică din surse regenerabile susţinută prin certificate verzi (PCE -ESRE-CV), piața 
+centralizată destinată atribuirii contractelor de energie electrică pentru perioade lungi de livrare 
+(PCTL).  
+De asemenea, OPCOM are calitatea de operator al pieței de energie electrică desemnat 
+(OPEED) pentru Piaţa pentru ziua următoare (PZU), care din iunie 2021 funcționează în 
+mecanism cuplat în proiectul european SDAC și din iunie 2022 prin cuplare pe bază de fluxuri 
+precum și pentru Piaţa intrazilnică (PI), care din noiembrie 2019 funcționează în regim cuplat cu 
+piețele din celelalte țări participante în proiectul european SIDC.  
+La acestea se adaugă Mecanismul de achiziție centralizată de energie electrică (MACEE) 
+instituit prin prevederile OUG nr. 153/2022 pentru modificarea și completarea OUG nr. 27/2022, 
+în care OPCOM are calitatea de achizitor unic pe piața de energie electrică. 
+BRM organizează și administrează următoarele piețe centralizate de contracte la termen: 
+Piața Marilor Consumatori (PMC), Piața Contractelor la termen de energie electrică (PCT) și 
+Piața de energie electrică OTC. 
+Prin decizia ANRE nr. 1739 din 04.07.2023, BRM a primit și calitatea de operator al 
+pieței de energie electrică desemnat (OPEED) al Pieței cuplate pentru ziua următoare (PZU) și 
+al Pieței cuplate intrazilnice (PI) pe o perioadă de 4 ani. 
+ 
+PDF PAGE 5
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 5 
+ 
+1. Participanţii la piaţa angro de energie electrică 
+În tabelul următor sunt prezentați participanţii la piaţa angro de energie electrică activi* 
+în luna decembrie 2023 alături de operatorii pieței de energie electrică: 
+ 
+*Participanții activi sunt participanți la piață , în sensul art. 7 din Metodologia de 
+monitorizare a pieței angro de energie electrică, aprobată prin Ordinul președintelui ANRE nr. 
+18/2023, care în luna de raportare au desfășurat activitate pe piața angro de energie electrică. 
+ 
+ 
+1 A6 Impex SA 73 Energy Gate  SRL 145 Photovoltaic Green Project SRL
+2 Alegfurnizorul Consulting SRL 74 Energy Tech Entera SRL 146 Plenerg SRL
+3 Alive Capital SA 75 Energy Trade Activ SRL 147 Power L.I.V.E. One SRL
+4 Alive Sun Power One SRL 76 Enery Optimizarea Portofolului 148 Powerhouse Trading SRL
+5 Alizeu Eolian SA 77 Enet Focsani SA 149 PPC Energie SA
+6 Alro SA 78 Enex Nalbant Renewable SRL  150 PPC Energie Muntenia SA
+7 Anchor Grup SA 79 Engie România SA 151 PPC Renewables Romania SRL
+8 AOT Energy SRL 80 Entrex Services SRL 152 Prefab SA
+9 Axpo Energy Romania SRL 81 Eol Energy SRL 153 Premier Energy SRL
+10 Azomures SA 82 Eolian Project SRL 154 QMB Energ SRL
+11 B&D World Trading SRL 83 Eolica Dobrogea One SRL 155 RCS&RDS SA
+12 Bepco SRL 84 EP Wind Project (ROM) SIX SA 156 Renovatio Trading SRL
+13 Best Energy SRL 85 Espe Energia SRL 157 Repsan Energy SRL
+14 Bioenergy Suceava SRL 86 Eviva Nalbant SRL 158 RES Energy Solutions SA
+15 Blue Line Energy SRL 87 Eye Mall SRL 159 Restart Energy One SRL
+16 Blue Sand Investment SRL 88 Fondul de Dezvoltare S.C.E. cu Raspundere Limitata SRL 160 Rețele Electrice Banat SA
+17 Braila Winds SRL 89 Fort Green Energy SRL 161 Rețele Electrice Dobrogea SA
+18 Caracal Solar Alpha SRL 90 Freepoint Commodities Europe Ltd 162 Rețele Electrice Muntenia SA
+19 Casa Crang SRL 91 Gama & Delta Energy SRL 163 Romelectro Bucuresti SA
+20 Casori SRL 92 Getica 95 COM SRL 164 Romenergy Trading SRL
+21 Catalan Electric SRL 93 GPSB Solaris 48 SRL 165 Romkumulo SRL
+22 CET Govora SA 94 Green Vision Seven SRL 166 Rulmenti SA
+23 CEZ as 95 Greenlight Solution SRL 167 Skybase Energy SRL
+24 CEZ Vanzare SA 96 Grenerg SRL 168 SN Nuclearelectrica SA
+25 Clue Solar SRL 97 Ground Investment Corp SRL 169 SNGN Romgaz SA
+26 CNTEE Transelectrica SA 98 Helpvolt Instal S.R. 170 Societatea Complexul Energetic Valea Jiului SA
+27 Compania Locala de Termoficare COLTERM SA 99 Hermes Energy International SRL 171 Societatea de Administrare a Participațiilor în Energie SA
+28 Complexul Energetic Oltenia SA 100 Holrom Renewable Energy SRL 172 Societatea Electrocentrale Craiova SA
+29 Contour Global Solutions SRL 101 HS Timber Productions Reci SRL 173 Solar Electric Frasinet SRL
+30 Cooperativadeenergie Furnizare SRL 102 HS Timber Productions SRL 174 Solaria Green Energy SRL
+31 Corabia Solar SRL 103 ICCO Energ SRL 175 Solprim SRL
+32 Corni Eolian SRL 104 ICPE Electrocond Technologies SA 176 Spectrum Tech SRL
+33 Cotroceni Park SA 105 Industrial Energy SA 177 SPEEH Hidroelectrica SA
+34 Crest Energy SRL 106 Ingka Investiments Renewable Energy Romania SRL 178 Stock Energy SRL
+35 D.Trading D.O.O. 107 Izvor de lumină SRL 179 Sun Challenge SRL
+36 Dacia Energy Solutions SRL 108 Kelavent Charlie SRL 180 Sun Energy Complet SA
+37 Delgaz Grid SA 109 Kelavent Echo SRL 181 Termo Ploiesti SRL
+38 Delta & Zeta Energy SRL 110 Kentax Energy SRL 182 Termoficare Oradea SA
+39 Distribuție Energie Electrică România SA 111 Kompact Grid SRL- Agregator 183 Thermoenergy Group SA
+40 Distribuție Energie Oltenia SA 112 Land Power SRL 184 Three Farm SRL
+41 E.ON Energie Romania SA 113 Lemar Grup SRL 185 Tinmar Energy SA
+42 East Wind Farm SRL 114 Liberty Galați SA 186 Tinmar Green Energy SRL
+43 Eco Power Wind SRL 115 LJG Green Source Energy Alpha SA 187 Tis Energy SRL
+44 Ecoenergia SRL 116 LJG Green Source Energy Beta SRL 188 TMK Hydroenergy Power SRL
+45 Ecosfer Energy SRL 117 LJG Green Source Energy Gamma SRL 189 Tomis Team SRL
+46 EDPR Romania SRL 118 Lord Energy SRL 190 Trade Motion SRL
+47 EFT Furnizare SRL 119 Luxten Lighting Company SA 191 Transenergo COM SA
+48 EGGER Romania SRL 120 Mar-Tin Solar Energy SRL 192 Transenergo Microhidro SRL
+49 E-Infra SA 121 Mazarine Energy Romania SRL 193 Uzinsider General Contractor SA
+50 Elcata MHC SRL 122 Megalodon Storage SRL 194 Varokub Energy Development SRL
+51 Electica Energie Verde 1 SRL 123 MET Romania Energy SA 195 Vatech Consulting STL
+52 Electric Planners SRL 124 MHC Water Power 196 Veolia Energie România SA
+53 Electrica Furnizare SA 125 Mira Green Planet SRL 197 Verbund Wind Power Romania SRL
+54 Electrica Serv SRL 126 Mireasa Energies SRL 198 Veroniki Wind SRL
+55 Electricom SA 127 Modern Calor SA 199 Vest Energo SA
+56 Electrificare CFR SRL 128 Monsson Trading SRL 200 Vienna Energy Forta Naturala SRL
+57 Electro Energy Sud SRL 129 Municipiul Iași SA 201 Vimetco Management Romania SRL
+58 Electrocarbon SA 130 MVM Future Technology SRL 202 VIS Solaris 2011 SRL
+59 Electrocentrale Bucureşti SA 131 MVM Partner Zrt 203 Vrish Pro Investments SRL
+60 Electrogrup (CJ) 132 Neptun SA 204 Warehouses De Pauw Romania SRL
+61 Electromagnetica SA 133 Next Energy Parteners SRL 205 WE Power Team SRL
+62 Electroutilaj SA 134 Nicolae Balcescu Regenerabile SRL 206 Werk Energy SRL
+63 Elektra Green Power SRL 135 Nis Petrol SRL 207 Wind Energy Service East Europe SRL
+64 Elektra Wind Power SRL 136 Nova Power&Gas SRL 208 Wind Park Invest SRL
+65 Elsid SA 137 Nova Power&Gas Solar Production SRL 209 Windfarm MV I SRL
+66 Encon Prime SRL 138 Nova Power Solar 30 SRL 210 Xalandine Energy SRL
+67 Energi Danmark A/S 139 Nova Power Solar 50 SRL 211 XPV SRL
+68 Energia Verde Ventuno SRL 140 NRX Wind SRL 212 ZG Timber Sebes SRL
+69 Energocom SA 141 OMV Petrom SA OPERATORI PIATA ENERGIE ELECTRICA
+70 Energy Core Development SRL 142 Ovidiu Development SRL 1 BRM SA
+71 Energy Deta SRL 143 Petrol, Slovenska energetska druzba 2 OPCOM SA
+72 Energy Distribution Services SRL 144 Petrotel-Lukoil SA
+A PARTICIPANTI ACTIVI 
+PE PIATA ANGRO DE ENERGIE ELECTRICA
+PDF PAGE 6
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 6 
+ 
+Precizăm că în categoria producătorilor de energie electrică monitorizați în baza 
+Metodologiei PAN  sunt cuprinși acei titulari de licență pentru exploatarea capacităților de 
+producere a energiei electrice, cu sau fără instalații de stocare, cărora OTS le aplică tariful pentru 
+serviciul de transport – componenta de introducere în rețea (TG) și anume car e dețin capacități 
+de producere cu putere instalată mai mare de 5 MW, chiar dacă aceștia dețin și licență pentru 
+activitatea de furnizare a energiei electrice. 
+Lista actualizată a părţilor resposabile cu echilibrare a (PRE) este publicată pe site -ul 
+operatorului pieţei de echilibrare (CNTEE Transelectrica SA). 
+ 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de 
+producătorii monitorizați  
+Prezentăm în continuare structura pe tipuri de surse primare a energiei electrice produse 
+și livrate în reţele de producătorii monitorizați pentru luna decembrie 2023, respectiv pentru anul 
+2023 și evoluția structurii lunare în ultimii 5 ani. 
+ 
+Sursa:Raportările lunare ale  producătorilor monitorizați – prelucrare CMPEE 
+hidro
+28.91%
+gaz
+24.29%
+nuclear
+18.78%
+eolian
+13.92% carbune
+12.71%
+solar
+0.70%
+biomasa
+0.54%
+pacura
+0.11%
+deseuri
+0.03%
+stocare
+0.01%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Structura pe tipuri de surse a energiei electrice livrate în rețele 
+de producătorii monitorizați
+- Decembrie 2023 -
+PDF PAGE 7
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 7 
+ 
+ 
+Sursa:Raportările lunare ale  producătorilor monitorizați – prelucrare CMPEE 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare CMPEE 
+hidro
+33.47%
+nuclear
+19.36%
+gaz
+16.81% eolian
+14.13% carbune
+13.44%
+solar
+1.88% biomasa
+0.56%
+pacura
+0.31%
+deseuri
+0.03%
+stocare
+0.01%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Structura pe tipuri de surse a energiei electrice livrate în rețele 
+de producătorii monitorizați
+- Anul 2023 -
+0.00
+1,000.00
+2,000.00
+3,000.00
+4,000.00
+5,000.00
+6,000.00
+Evoluția structurii energiei electrice livrate în rețele de producătorii monitorizați 
+pe tipuri de surse primare 
+carbune pacura gaz nuclear hidro eolian solar biomasa deseuri stocare
+GWh
+PDF PAGE 8
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 8 
+ 
+În graficul următor este prezentată în evoluție lunară energia electrică produsă din surse 
+regenerabile și livrată în rețea de producătorii monitorizați și cota de piață a acesteia din totalul 
+energiei electrice livrate.  
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați PAN – prelucrare CMPEE 
+Unul din factorii de influență ai p roducţiei de energie electrică în centrale le 
+hidroelectrice, alături de debitul Dunării , îl reprezintă rezerva de energie din marile amenajări 
+hidroenergetice ale României. Evoluţia nivelului zilnic al acesteia în anul 202 3, comparativ cu 
+valorile zilnice din ultimii 4 ani şi cu minima, maxima şi mediana aferente fiecărei zile  din 
+perioada 2000 - 2018, sunt prezentate în graficul următor:  
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+0
+500
+1000
+1500
+2000
+2500
+3000
+Evoluția structurii energiei electrice din surse regenerabile livrate în rețele 
+de producătorii monitorizați 
+biomasa
+ solar
+ eolian
+ hidro
+ % SRE
+%GWh
+PDF PAGE 9
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 9 
+ 
+ 
+Sursa: Raportările lunare ale SPEEH Hidroelectrica S.A.  –  prelucrare CMPEE 
+ 
+Prezentăm câțiva indicatori de sinteză ce caracterizează bilanţul fizic al energiei electrice 
+pentru luna decembrie 2023 comparativ cu luna anterioar ă și respectiv  pentru anul 2023  
+comparativ cu anul anterior. 
+ 
+      - GWh - 
+Nr. 
+crt. 
+ 
+INDICATOR 
+ 
+Noiembrie  
+2023 
+Decembrie  
+2023 2022 2023 
+1 Energia electrică produsă (Pi > 5MW)1 4613,12 5250,38 53536,74 56034,13 
+2 Energia electrică livrată în rețea (Pi > 5MW)1 4386,41 4983,37 50626,43 53171,31 
+3 Schimburi comerciale pe direcția import (includ tranzite)2 1084,12 1342,68 8653,14 10088,60 
+4 Schimburi comerciale pe direcția export (includ tranzite)2 1102,98 1015,10 7406,52 13079,53 
+5 Consum intern realizat SEN3 4611,22 4930,32 57009,00 54258,00 
+6 Consumul clienţilor casnici4: 1145,12 1323,81 13494,41 13092,00 
+6.1 - în regim concurențial  818,98 953,69 9271,29 9338,34 
+6.2 - în regim de SU  325,03 368,94 4217,84 3740,68 
+6.3 - în regim de UI 1,11 1,18 5,29 12,97 
+7 Consumul clienților finali noncasnici4: 2767,15 2749,38 33695,97 33002,75 
+7.1 - în regim concurențial  2556,20 2538,14 31845,79 29372,76 
+7.2 - în regim de SU - - 11,04 - 
+7.3 - în regim de UI 210,95 211,24 1839,14 3629,99 
+8 CPT transport5 95,66 92,08 958,94 998,89 
+9 CPT distribuție5 418,64 567,86 4848,94 4795,69 
+ 
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+1.01
+13.01
+25.01
+6.02
+18.02
+2.03
+14.03
+26.03
+7.04
+19.04
+1.05
+13.05
+25.05
+6.06
+18.06
+30.06
+12.07
+24.07
+5.08
+17.08
+29.08
+10.09
+22.09
+4.10
+16.10
+28.10
+9.11
+21.11
+3.12
+15.12
+27.12
+GWh
+Evoluţia comparativă pe durata unui an a rezervei zilnice de energie
+în principalele lacuri de acumulare
+Rez min 2000-2018 Rez mediana 2000-2018 Rez max 2000-2018 Rezerva energie 2019
+Rezerva energie 2020 Rezerva energie 2021 Rezerva energie 2022 Rezerva energie 2023
+2019
+2023
+2020
+2021
+2022
+PDF PAGE 10
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 10 
+ 
+ 
+Note: 
+1. Conținutul indicatorilor Energia electrică produsă (Pi > 5MW) şi Energia electrică livrată (Pi > 
+5MW) pentru lunile din anul 2023 se referă la energia electrică livrată în SEN de toți producătorii 
+care dețin cel puțin o centrală de producere cu capacitate instalată mai mare de 5 MW, racordată 
+la reţelele electrice de transport şi distribuţie (în conformitate cu Metodologia PAN aprobată prin 
+Ordinul ANRE nr. 18/2023)  în timp ce  pentru lunile din anul 2022  (în conformitate cu 
+Metodologia PAN în vigoare în anul 2022, aprobată prin Ordinul ANRE nr. 67/2018), aceiași 
+indicatori corespund energiei electrice produse şi energiei electrice livrate în SEN doar de 
+producătorii dispecerizabili; 
+2. Conținutul indicatorilor Schimburi comerciale pe direcția import (inclusiv tranzite) și Schimburi 
+comerciale pe direcția export (inclusiv tranzite) diferă față de cel al indicatorilor Import și Export 
+publicați în Raportul de monitorizare al pieței de energie electrică - luna decembrie 2022 prin 
+faptul că includ și energia electrică care tranzitează România (tranzitele notificate de participanții 
+la piață și tranzitele prin mecanismele cuplate PZU și PI);  
+3. Pentru a asigura comparabilitatea datelor din tabelul de mai sus, pentru anul 2022 a fost utilizat 
+indicatorul Consum intern realizat SEN, cu conținut diferit de cel al indicatorului Consum intern 
+publicat pentru anul 2022 în Raportul de monitorizare a pieței de energie electrică - luna 
+decembrie 2022; 
+Indicatorul Consum intern realizat SEN (utilizat începând cu luna ianuarie 2023 în Raportele de 
+monitorizare a pieței de energie electrică) reprezintă consumul lunar realizat la nivelul întregului 
+SEN și a fost determinat prin agregarea datelor cu granularitate de 15 minute publicate zilnic de 
+CNTEE Transelectrica SA pe site-ul propriu; la nivel de an, datele agregate cuprind și corecțiile 
+finale raportate de CNTEE Transelectrica SA în baza Metodologiei PAN; 
+Indicatorul Consum intern , publicat lunar în Rapoartele de monitorizare a pieței de energie 
+electrică din anul 2022, nu a mai fost publicat în Rapoartele de monitorizare a pieței de energie 
+electrică din anul 2023; 
+4. Consumul  clienților casnici și al clienților noncasnici reprezintă energia furnizată în luna de 
+raportare clienților finali de furnizorii/producătorii monitorizați și autoconsumul acestora; nu este 
+inclus consumul prosumatorilor din producția proprie, datele privind prosumatorii  făcând 
+obiectul unui raport distinct al ANRE ; la nivelul anului 2022, consumul clienților noncasnici 
+pentru energia electrică furnizată în regim de SU corespunde exclusiv lunii ianuarie 2022 
+(conform OUG nr. 143/2021). 
+5. CPT pentru acoperirea pierderilor în rețeaua de transport și CPT pentru acoperirea pierderilor 
+în rețeaua de distribuție au fost calculate pe baza achizițiilor de energie electrică realizate de 
+operatorii de rețea în calitate de participanți la piață cu luarea în calcul a dezechilibrelor 
+înregistrate la nivelul Părții Responsabile cu Echilibrarea din care fac parte. 
+ 
+ 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică 
+În tabelul următor sunt prezentate volumele de energie electrică livrate lunar pe 
+contractele aflate în derulare în luna de raportare şi preţurile medii realizate pe fiecare 
+componentă a pieţei angro în luna de raportare, comparativ cu luna anterioară, calculate pe baza 
+raportărilor lunare ale participanților la piață . Prețurile medii prezentate pentru componentele 
+pieței angro sunt prețuri medii ponderate realizate în luna de raportare. 
+ 
+PDF PAGE 11
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 11 
+ 
+Volumele de energie electrică livrate au fost raportate la Consumul intern realizat SEN 
+pentru a o feri o referinţă în aprecierea dimensiunii pieței angro și a componentelor sale . Spre 
+deosebire de procentele aferente anului 2022 publicate în Raportul de monitorizare a pieței de 
+energie electrică – luna decembrie 2022  care au fost calculate raportat la Consumul intern, în 
+tabelul următor, sunt prezentate procentele bazate pe indicatorul Consum intern realizat SEN , 
+utilizat în Rapoartele lunare de monitorizare a pieței de energie electrică din anul 2023. 
+Datele din tabel s unt prezentate doar pentru piețele pe care au fost raportate volume 
+livrate în luna analizată ; precizăm că toate volumele sunt raportate în ore RO , toate pr eţurile 
+includ componenta TG. 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Noiembrie  
+2023 
+Decembrie 
+2023 2022 2023 
+1. PIAŢA CONTRACTELOR BILATERALE NEGOCIATE DIRECT   
+volum livrat (GWh) 734 
+720,82 
+15,9 
+743 
+693,80 
+15,1 
+7794 8347 
+preţ mediu (lei/MWh) 1007,90 867,60 
+% din consumul intern realizat SEN 13,7 15,4 
+1.1. Vânzare pe contracte negociate1     
+volum livrat (GWh) 705 
+732,02 
+15,3 
+713 
+703,96 
+14,5 
+7461 8047 
+preţ mediu (lei/MWh) 1036,22 883,35 
+% din consumul intern realizat SEN 13,1 14,8 
+1.2.Vânzare pe contracte negociate în entitate agregată/agregator 
+volum livrat (GWh) 29 
+445,8 
+0,6 
+29 
+445,80 
+0,6 
+333 300 
+preţ mediu (lei/MWh) 373,37 444,53 
+% din consumul intern realizat SEN 0,6 0,6 
+2. PIAȚA CONTRACTELOR DE EXPORT2   
+volum livrat (GWh) 235 
+662,24 
+5,1 
+343 
+553,02 
+7,0 
+2867 2303 
+preţ mediu (lei/MWh) 1165,49 603,54 
+% din consumul intern realizat SEN 5,0 4,2 
+3. PIEŢE CENTRALIZATE  DE  CONTRACTE BILATERALE     
+volum livrat (GWh) 1275 
+904,67 
+27,6 
+1315 
+906,07 
+26,7 
+43379 16426 
+preţ mediu (lei/MWh) 598,53 941,27 
+% din consumul intern realizat SEN 76,1 30,3 
+3.1. Modalitatea de tranzacţionare PCCB-LE-flex3     
+volum livrat (GWh) 908 
+823,89 
+19,7 
+932 
+826,66 
+18,9 
+20562 11801 
+preţ mediu (lei/MWh) 523,30 858,79 
+% din consumul intern realizat SEN 36,07 21,7 
+3.2. Modalitatea de tranzacţionare PCCB-NC     
+volum livrat (GWh) 31 
+1055,17 
+0,7 
+37 
+1003,99 
+0,7 
+2609 481 
+preţ mediu (lei/MWh) 586,98 1148,31 
+% din consumul intern realizat SEN 4,6 0,9 
+3.3. Modalitatea de tranzacţionare PC-OTC     
+volum livrat (GWh) 262 
+1212,60 
+5,7 
+271 
+1212,60 
+5,5 
+19948 3386 
+preţ mediu (lei/MWh) 678,82 1229,51 
+% din consumul intern realizat SEN 35,0 6,2 
+3.4. Modalitatea de tranzacţionare PCE-ESRE-CV     
+volum livrat (GWh) 31 
+397,85 
+0,7 
+31 
+384,94 
+0,6 
+256 291 
+preţ mediu (lei/MWh) 500,04 519,62 
+% din consumul intern realizat SEN 0,4 0,5 
+3.5. Modalitatea de tranzacţionare PMC8     
+volum livrat (GWh) 43 45 4 467 
+preţ mediu (lei/MWh) 984,61 982,65 790,00 984,89 
+% din consumul intern realizat SEN 0,9 0,9 0,01 0,9 
+ 
+ 
+ 
+ 
+PDF PAGE 12
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 12 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Noiembrie  
+2023 
+Decembrie 
+2023 2022 2023 
+4. MECANISMUL DE ACHIZIȚIE CENTRALIZATĂ     
+volum livrat (GWh) 1385 
+450,00 
+30,0 
+1656 
+450,00 
+33,6 
+ 16087 
+preţ mediu (lei/MWh) - 450,00 
+% din consumul intern realizat SEN  29,6 
+5. PIAŢA PENTRU ZIUA URMĂTOARE     
+volum livrat4 (GWh) 1503 
+527,20 
+32,6 
+1566 
+423,01 
+31,8 
+25577 17033 
+preţ mediu5 (lei/MWh) 1333,75 536,23 
+% din consumul intern realizat SEN 44,9 31,4 
+6. PIAŢA INTRAZILNICĂ     
+volum livrat4 (GWh) 185 
+561,46 
+4,0 
+146 
+426,95 
+3,0 
+1128 1489 
+preţ mediu6 (lei/MWh) 1329,26 524,97 
+% din consumul intern realizat SEN 2,0 2,7 
+7. PIAŢA DE ECHILIBRARE     
+volum tranzacţionat (GWh) 
+% din consumul intern realizat SEN 
+volum tranzacţionat la creştere (GWh) 
+preţ mediu de deficit7 (lei/MWh) 
+volum tranzacţionat la scădere (GWh) 
+preţ mediu de excedent7 (lei/MWh) 
+162 
+3,5 
+115 
+917,64 
+48 
+767,55 
+164 
+3,3 
+74 
+597,47 
+90 
+438,01 
+1967 
+3,4 
+685 
+1057,46 
+1282 
+867,09 
+1959 
+3,6 
+558 
+483,90 
+1401 
+354,76 
+CONSUMUL INTERN REALIZAT SEN9 (GWh)  4611 4930 57009 54258 
+ 
+ 
+Note: 
+1. Contracte de vânzare-cumpărare a energiei electrice încheiate în conformitate cu art. 23 alin. (2) 
+din Legea nr. 123/2012 a energiei electrice și gazelor naturale , cu modificările și completările 
+ulterioare; volumele agregate și prețurile medii rezultă din declarațiile pe propria răspundere ale 
+partenerilor contractuali; 
+2. Tranzacțiile lunare realizate pe baza contractelor de export raportate de participanţii la piaţa 
+angro; cantitățile livrate sunt cele notificate de participanți către CNTEE Transelectrica  SA în 
+platforma DAMAS.  
+Nu sunt incluse tranzitele (cele notificate de participanți și cele prin mecanismele cuplate PZU și 
+PI ) sau cantităţile exportate prin intermediul agentului de transfer (CNTEE Transelectrica  SA) 
+pe piețele cuplate PZU și PI; 
+3. Sunt incluse și cantitățile livrate în luna de raportate în baza tranzacțiilor încheiate prin 
+mecanismul de tranzacționare PCCB -LE (valabil până în iunie 2020 , când a intrat în vigoare 
+PCCB-LE-flex);  
+4. Cantitățile tranzacționate lunar pe PZU și PI sunt cele publicate de OPCOM; acestea cuprind și 
+cantitățile exportate prin intermediul agentului de transfer (CNTEE Transelectrica SA) pe piețele 
+cuplate PZU și PI; 
+5. Preţul mediu lunar pe PZU prezentat în tabel este calculat ca medie ponderată a preţurilor orare 
+de închidere a pieţei cu volumele orare din luna respectivă (ore RO);  
+Preţul mediu ponderat lunar pe PZU publicat de OPCOM  este calculat ca medie ponderată a 
+preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă  (ore CET) - în luna 
+decembrie 2023 acest preț este 422,75 lei/MWh; 
+Prețul mediu lunar pe PZU publicat de OPCOM  este calculat ca medie aritmetică a prețurilor 
+orare de închidere a pieței din luna respectivă (ore CET) – în luna decembrie 2023 acest preț este 
+402,35 lei/MWh; 
+6. Preţul mediu lunar pe PI  prezentat în tabel  este calculat ca medie ponderată a preţurilor de 
+închidere a pieţei cu volumele  trancţionate în intervalele de decontare  din luna respectivă (ore 
+RO); 
+PDF PAGE 13
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 13 
+ 
+Prețul mediu ponderat lunar pe PI publicat de OPCOM este calculat ca medie ponderată a 
+preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă ( ore CET) - în luna 
+decembrie 2023 acest preț este 426,61 lei/MWh; 
+7. Preţul mediu de deficit și prețul mediu de excedent sunt calculate ca medie aritmetică a preţurilor 
+de decontare a pieţei de echilibrare cu precizarea că în intervalele cu preţ unic de decontare 
+valoarea acestuia a fost atribuită atât ca deficit, cât şi ca excedent; 
+8. Volumele livrate în anul 2022 corespund tranzacțiilor încheiate pe Piața de energie electrică 
+pentru clienții finali mari (PMC) organizată la OPCOM, iar cele livrate în anul 2023, tranzacțiilor 
+încheiate pe Piața de energie electrică pentru clienții finali mari (PMC) organizată la BRM; 
+9. Datele aferente Consumului intern realizat SEN  pentru anul 2022 diferă față de cele publicate 
+pentru Consum intern 2022 în Raportul de monitorizare al pieței de energie electrică – luna 
+decembrie 2022, deoarece conținutul celor doi indicatori este diferit;  Consumul intern realizat 
+SEN (utilizat în Rapoartele lunare de monitorizare a pieței de energie electrică  din 2023) este 
+cel raportat de CNTEE Transelectrica SA și se referă la consumul realizat la nivelul întregului 
+SEN, în timp ce Consumul intern (utilizat în Rapoartele lunare de monitorizare a pieței de 
+energie electrică din 2022) a fost determinat prin formulă de calcul, pe baza indicatorilor Energia 
+electrică livrată în SEN de producătorii dispecerizabili, a Importului și a Exportului.  
+Evoluţia relaţiei între volumele lunare aflate în livrare pe fiecare din componentele pieței 
+angro de energie electrică şi Consumul intern  realizat SEN, în perioada  ianuarie 2019 – 
+decembrie 2023, este reprezentată în graficul următor: 
+ 
+Sursa: Raportările lunare ale participanţilor la piaţa angro, OPCOM S.A. şi CNTEE Ttranselectrica S.A.  
+– prelucrare CMPEE - 
+Notă: începând cu luna decembrie 2022, datele lunare privind consumul intern  prezentate în grafic  
+reprezintă Consumul realizat la nivelul întregului SEN și sunt cele publicate CNTEE Transelectrica SA pe site -ul 
+propriu  
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+GWh
+Evoluția lunară a volumelor livrate pe componentele pieței angro 
+comparativ cu consumul intern realizat SEN
+PIATA CONTRACTELOR REGLEMENTATE MECANISMUL DE ACHIZITIE CENTRALIZATA
+PIATA CONTRACTELOR NEGOCIATE PIETE CENTRALIZATE DE CONTRACTE
+PIATA PENTRU ZIUA URMATOARE PIATA INTRAZILNICA
+PIATA DE ECHILIBRARE Consum intern realizat SEN
+PDF PAGE 14
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 14 
+ 
+Prezentăm detalii privind  tranzacţiile de export şi de import comercial  realizate pe baza 
+contractelor încheiate de participanții la piață la care se adaugă energia exportată și cea importată 
+prin mecasnimele cuplate PZU și PI prin intermediul agentului de transfer CNTEE Transelectrica 
+SA (pe granițele României cu Ungaria și Bulgaria).  
+Datele sunt prezentate pentru luna de raportare și luna anterioară și  nu includ tranzitele 
+(notificate de participanți sau cele prin piețele cuplate PZU și PI) . Datele tabelare sunt însoțite 
+de reprezentarea grafică a evoluției cantitative a exportului, importului și a soldului export -
+import începând din luna ianuarie 2019: 
+ 
+TRANZACŢII IMPORT/EXPORT Noiembrie 
+2023 
+Decembrie 
+2023 2022 2023 
+1. EXPORT COMERCIAL     
+volum livrat (GWh) 688 
+468,26 
+14,9 
+876 
+392,72 
+17,8 
+4639 8705 
+preţ mediu (lei/MWh) 1088,23 494,63 
+% din consumul intern realizat SEN 8,1 16,4 
+din care, prin PZU cuplat     
+volum livrat (GWh) 394 
+341,61 
+8,5 
+477 
+280,38 
+9,7 
+1228 5633 
+preţ mediu (lei/MWh) 865,54 432,72 
+% din consumul intern realizat SEN 2,2 10,4 
+din care, prin PI cuplat     
+volum livrat (GWh) 60 56 544 770 
+preţ mediu (lei/MWh) 540,21 368,27 1196,06 489,60 
+% din consumul intern realizat SEN 1,3 1,1 1,0 1,4 
+2. IMPORT COMERCIAL     
+volum livrat (GWh) 670 
+677,49 
+14,5 
+548 
+616,41 
+11,1 
+5886 5713 
+preţ mediu (lei/MWh) 1613,53 803,98 
+% din consumul intern realizat SEN 10,3 10,5 
+din care, prin PZU cuplat     
+volum livrat (GWh) 173 
+733,37 
+3,8 
+138 
+654,03 
+2,8 
+3788 1482 
+preţ mediu (lei/MWh) 1635,79 720,11 
+% din consumul intern realizat SEN 6,6 2,7 
+din care, prin PI cuplat     
+volum livrat (GWh) 115 
+567,29 
+25,0 
+83 
+460,89 
+16,9 
+497 654 
+preţ mediu (lei/MWh) 1471,03 564,95 
+% din consumul intern realizat SEN 0,9 1,2 
+Sursa: Raportările lunare ale participanților la piață și CNTEE Transelectrica S.A. – prelucrare  CMPEE 
+ 
+PDF PAGE 15
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 15 
+ 
+ 
+Sursa: Raportările lunare ale participanților la piață și CNTEE Transelectrica S.A. – prelucrare  CMPEE 
+ 
+În figura următoare sunt prezentate volumele şi preţurile medii  ponderate lunare 
+corespunzătoare tranzacţiilor încheiate pe PZU (ore RO), începând cu ianuarie 2006:  
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi CNTEE Transelectrica S.A. – prelucrare CMPEE 
+-1.20
+-1.00
+-0.80
+-0.60
+-0.40
+-0.20
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+2019 2020 2021 2022 2023
+TWh
+Evolutia lunara a exportului si importului comercial de energie electrica
+(tranzactii participanti si agent de transfer)
+Export comercial Import comercial Sold export-import
+export
+import
+0
+300
+600
+900
+1200
+1500
+1800
+2100
+2400
+2700
+3000
+0
+150
+300
+450
+600
+750
+900
+1050
+1200
+1350
+1500
+1650
+1800
+1950
+2100
+2250
+2400
+2550
+GWhlei/MWh
+Evolutia lunară a prețului mediu și a volumului tranzacționat pe PZU 
+Volum tranzactionat pe PZU Pretul mediu PZU
+PDF PAGE 16
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 16 
+ 
+ 
+În baza datelor contractuale raportate de participanții la piață conform art. 15 alin. (3) din 
+OUG nr. 27/2022 cu modificările și completările ulterioare, în luna decembrie 2023 s-au încheiat 
+285 contracte bilaterale negociate direct de vânzare-cumpărare a energiei electrice (contracte noi 
+sau acte adiționale la contracte încheiate anterior). În toate aceste contracte, cumpărătorii au fost 
+producători, furnizori și distribuitori de energie electrică.  
+Datele sunt prezentate începând cu luna septembrie 2022, determinat de faptul că de la 1 
+septembrie 2022 a intrat în vigoare obligativitatea raportării către ANRE a încheierii contractelor 
+bilaterale negociate direct de ambii parteneri în termen de 2 zile lucrătoare de la data încheierii.   
+Variația lunară a numărului de contracte bilaterale negociate direct încheiate în perioada 
+septembrie 2022 – decembrie 2023 sau pentru care în această perioadă au fost semnate acte 
+adiționale (de modificare a cantității, prețului sau a perioadei de livrare) este prezentată în 
+graficul următor.  
+ 
+Sursa:  Raportările participanților la piață, în baza art.15 alin(3) din OUG 27/2022 
+ – prelucrare CMPEE - 
+ 
+  
+99 101
+80
+143
+68 57 51
+29 32 36 37 42 45 52 49
+148
+13
+45 80
+92
+45
+31 30
+30 20 25 24
+35
+12
+15
+62
+137
+0
+50
+100
+150
+200
+250
+300
+sept.-22 oct.-22 nov.-22 dec.-22 ian.-23 feb.-23 mar.-23 apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-23 oct.-23 nov.-23 dec.-23
+Nr. contracte
+Evoluția numărului de contracte bilaterale negociate direct încheiate 
+pe piața angro de energie electrică începând cu luna septembrie 2022
+contracte noi
+ acte adiționale ale contractelor în vigoare
+PDF PAGE 17
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 17 
+ 
+Reprezentarea grafică următoare indică frecvența de apariție a prețurilor înregistrate pe cele 285 
+contracte raportate în luna decembrie 2023 (noi sau acte adiționale) de participanții la piață. 
+ 
+Sursa:  Raportările participanților la piață, în baza art.15 alin(3) din OUG 27/2022 
+ – prelucrare CMPEE - 
+Dispoziţiile de dispecer (oferte acceptate) primite de producători determină energia 
+angajată pe PE. După efectuarea calculelor de decontare, pe baza valorilor măsurate (aprobate) 
+se determină energia efectiv livrată de producători pe PE. Relaţia dintre energia angajată şi cea 
+efectiv livrată, în luna  decembrie 2023 și respectiv în anul 2023 , sunt prezentate în tabel ele 
+următoare: 
+ 
+Decembrie 2023 
+Energie de 
+echilibrare 
+angajată  
+(GWh) 
+Energie de 
+echilibrare 
+efectiv livrată  
+(GWh) 
+Abatere 
+(%) 
+ 
+Reglaj secundar 42 42 0 
+creștere 15 15 0 
+scădere 26 26 0 
+Reglaj terțiar rapid 127 122 3 
+creștere 60 59 2 
+scădere 67 64 5 
+Reglaj terțiar lent 0 0 0 
+creștere 0 0 0 
+scădere 0 0 0 
+TOTAL 168 164 3 
+creștere 75 74 1 
+scădere 93 90 3 
+CONSUM INTERN REALIZAT SEN  4930  
+% volum tranzacționat din consumul 
+intern realizat SEN  3,3  
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+16.5%
+68.1%
+11.9%
+2.5%
+0.0% 1.1%
+0.0%
+10.0%
+20.0%
+30.0%
+40.0%
+50.0%
+60.0%
+70.0%
+80.0%
+0
+50
+100
+150
+200
+0-250 251-500 501-750 751-1000 1001-1250 >1250
+Nr. contracte
+interval de preț contractual (lei/MWh)
+Histograma numărului de contracte bilaterale negociate direct 
+în funcție de prețul de contract
+- Decembrie 2023  -
+PDF PAGE 18
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 18 
+ 
+ 
+ 
+Notă: energia electrică angajată și cea efectiv livrată includ  energia electrică aferentă tranzacțiilor cu 
+compensație financiară în afara PE rezultate în urma dispozițiilor de dispecer (creștere/reducere) pentru 
+rezolvarea restricțiilor de rețea, asigurarea siguranței sistemului prin redispecerizare sau prin comercializare 
+în contrapartidă coordonată (conform prevederilor Ordinului ANRE nr . 152/2020), cu următoarele solduri: 
+energie electrică angajată 0,00 GWh și energie electrică  efectiv livrată 0,00 GWh 
+ 
+ 
+ANUL 2023 
+Energie de 
+echilibrare 
+angajată  
+(GWh) 
+Energie de 
+echilibrare 
+efectiv livrată  
+(GWh) 
+Abatere 
+(%) 
+ 
+Reglaj secundar 537 537 0 
+creștere 165 165 0 
+scădere 372 372 0 
+Reglaj terțiar rapid 1471 1422 3 
+creștere 402 393 2 
+scădere 1069 1029 4 
+Reglaj terțiar lent 0 0 0 
+creștere 0 0 0 
+scădere 0 0 0 
+TOTAL 2008 1959 2 
+creștere 568 558 2 
+scădere 1440 1401 3 
+CONSUM INTERN REALIZAT SEN  54258  
+% volum tranzacționat din consumul 
+intern realizat SEN  3,6  
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+Notă: energia electrică angajată și cea efectiv livrată includ  energia electrică aferentă tranzacțiilor cu 
+compensație financiară în afara PE rezultate în urma dispozițiilor de dispecer (creștere/reducere) pentru 
+rezolvarea restricțiilor de rețea, asigurarea siguranței sistemului prin redispecerizare sau prin comercializare 
+în contrapartidă coordonată (conform prevederilor Ordinului ANRE nr. 152/2020), cu următoarele solduri  
+anuale: energie electrică angajată 8,08 GWh și energie electrică  efectiv livrată 7,95 GWh 
+ 
+În următoarele grafice se prezintă evoluţia lunară a rezervelor de putere achiziţionate de 
+CNTEE Transelectrica SA, reprezentând obligaţii ale producătorilor de menţinere la dispoziţia 
+dispecerului/ofertare pe PE a capacităţilor de producere contractate și cea a energiei de 
+echilibrare efectiv livrată pe fiecare tip de reglaj pentru perioada iulie 2005 – decembrie 2023: 
+PDF PAGE 19
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 19 
+ 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+Structura energiei de echilibrare efectiv livrată pe fiecare tip de reglaj este prezentată în 
+figura următoare, în evoluţie, pentru perioada iulie 2005 – decembrie 2023: 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+0
+250,000
+500,000
+750,000
+1,000,000
+1,250,000
+1,500,000
+1,750,000
+2,000,000
+h*MW
+Rezerva reglaj secundar Rezerva reglaj tertiar rapid Rezerva reglaj tertiar lent
+Structura rezervelor achiziționate de CNTEE Transelectrica SA
+-400
+-200
+0
+200
+400
+600
+800
+GWh
+Evolutia lunara a energiei efectiv livrata pe piata de echilibrare 
+RS crestere RS scadere
+RTR crestere RTR scadere
+RTL crestere RTL scadere
+PDF PAGE 20
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 20 
+ 
+Evoluția energiei de echilibrare efectiv livrată pe PE și soldul energiilor efectiv livrate 
+pe piața de echilibrare pentru perioada ianuarie 2019 – decembrie 2023 se prezintă astfel: 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. şi OPCOM S.A. – prelucrare CMPEE  
+ 
+Graficul următor prezintă evoluţia lunară a energiei utilizate pentru managementul 
+congestiilor (cantitatea de energie tranzacţionată de OTS pe piaţa de echilibrare pentru 
+rezolvarea situaţiilor de congestii în reţeaua de transport), începând cu i anuarie 2019, şi 
+contravaloarea tranzacţiilor efectuate în acest scop de CNTEE Transelectrica SA. 
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+GWh
+Evoluția lunară a energiei de echilibrare efectiv livrată și a soldului rezultat 
+Ianuarie 2019 - Decembrie 2023
+Energia de echilibrare efectiv livrata la CRESTERE
+Energia de echilibrare efectiv livrata la SCADERE
+Soldul energiilor efectiv livrate pe piata de echilibrare
+PDF PAGE 21
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 21 
+ 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+Începând cu data de 17 decembrie 2021 a avut loc conectarea cu succes a blocului de 
+control RFP – TEL la platforma europeană IGCC  (International Grid Control Cooperation), 
+proiect ales de ENTSO-E pentru procesul de compensare a dezechilibrelor, așa cum este definit 
+în Regulamentul (UE) nr , 2017/1485 al Comisiei din 2 august 2017 de stabilire a unei linii 
+directoare privind operarea sistemului de transport al energiei electrice (art. 22).  
+Platforma IGCC reprezintă o modalitate de optimizare a reglajului secundar de frecvență 
+– putere de schimb,  prin reducerea acțiunilor de sens contrar ale regulatoarelor operatorilor 
+membri operaționali în cadrul proiectului. 
+În tabelul următor este prezentată evoluția lunară a energiei electrice la creștere și la 
+reducere de putere, reprezentând contribuția CNTEE Transelectrica SA la mecanismul IGCC de 
+compensare a dezechilibrelor dezvoltat la nivel european: 
+2023 
+Contribuția la creștere de putere  
+(MWh) 
+Contribuția la reducere de putere 
+(MWh) 
+La prețuri >=0 La prețuri <0 La prețuri >=0 La prețuri <0 
+Ianuarie 17847 1684 17940 133 
+Februarie 15841 404 20486 42 
+Martie 28504 281 20178 103 
+Aprilie 34458 373 17969 138 
+Mai 44778 272 19403 100 
+Iunie 35383 297 16973 139 
+Iulie 38103 3598 23259 150 
+August 30611 1762 17567 292 
+Septembrie 29969 2157 16707 182 
+Octombrie 31142 4601 21332 289 
+Noiembrie 29494 5425 31102 234 
+Decembrie 23631 8984 21225 281 
+0
+400
+800
+1200
+1600
+2000
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+mii leiGWh
+Evoluția lunară a energiei efectiv livrată pe piața de echilibrare pentru managementul congestiilor
+pe liniile interne și a contravalorii acesteia
+Energia efectiv livrata pe PE platita ca management al congestiilor
+Contravaloare aferenta managementului congestiilor
+PDF PAGE 22
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 22 
+ 
+ 
+4. Tranzacţiile cu energie electrică pe categorii de participanţi la PAN 
+ 
+Producători monitorizați 
+Structura obligaţiilor de achiziție și de vânzare contractate înainte de intervalul de livrare 
+de producătorii monitorizați în conformitate cu prevederile art . 7 din Metodologia PAN  
+(producătorii care dețin capacități de producere cu putere instalată mai mare de 5 MW) în luna 
+de livrare decembrie 2023 comparativ cu luna anterioară și respectiv  pentru anul 2023 
+comparativ cu anul anterior, a fost următoarea:  
+                                                                                                  - GWh -  
+Structură tranzacţii Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii   
+Contracte import 213,42 178,49 15,52 1354,36 
+Contracte negociate 324,58 281,09 1743,42 3291,91 
+Piața centralizată a contractelor, din care:  239,35 242,74 3579,33 3026,97 
+− PCCB-LE-flex 210,05 211,72 2054,10 2688,43 
+− PCCB-NC 2,88 3,72 313,36 76,04 
+− PC-OTC 12,24 12,65 1211,87 192,70 
+− PCE-ESRE-CV 14,18 14,66 0,00 69,80 
+MACEE 184,46 218,19 - 2115,20 
+De la prosumatori 0,95 1,01 0,79 22,43 
+În calitate de client final (contracte furnizare pe PAM) 19,29 16,83 - 157,83 
+PZU 305,47 258,06 6322,79 3666,90 
+PI 93,73 58,36 255,35 394,81 
+Vânzări   
+Contracte export 4,97 2,60 - 186,73 
+Contracte negociate  633,55 691,15 4280,16 7056,08 
+Piața centralizată a contractelor, din care:  1085,72 1127,89 32516,05 13971,97 
+− PCCB-LE-flex 844,79 875,48 19532,38 11101,20 
+− PCCB-NC 11,52 16,36 1058,94 144,49 
+− PC-OTC 155,52 160,70 11665,08 1968,46 
+− PCE-ESRE-CV 30,69 30,71 255,93 290,85 
+− PMC clienții finali mari 43,20 44,64 3,72 466,98 
+MACEE 1383,98 1653,78 - 16026,25 
+PZU 1125,00 1253,96 15682,28 13223,07 
+PI 40,61 33,75 372,86 483,45 
+Contracte furnizare pe PAM, către clienţii finali din 
+care: 
+1329,33 1374,02 8888,85 15384,07 
+        casnici 137,04 161,53 591,86 1540,79 
+noncasnici 1192,29 1212,49 8296,99 13843,70 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare CMPEE 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și acei operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare , dar care, determinat de faptul că dețin 
+cel puțin o centrală cu capacitate instalată mai mare de 5 MW și li se aplică tariful de introducere în rețea , 
+sunt monitorizați în calitate de producători 
+ 
+ 
+ 
+PDF PAGE 23
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 23 
+ 
+În graficul următor prezentăm nivelul preţurilor minime, medii şi maxime realizate în 
+luna de livrare decembrie 2023 și respectiv în anul 2023 de producătorii monitorizați pe fiecare 
+tip de contract de achiziție/vânzare . Prețurile de vânzare a energiei electrice din contractele de 
+furnizare către clienții finali sunt cele  prevăzute în condițiile contractuale din contractele de 
+furnizare respective  și cuprind componenta de achiziție  a energiei electrice (cu tariful de 
+introducere în rețea inclus) și componenta de furnizare: 
+ 
+Sursa: Raportările lunare ale producătorilor monitorizați – prelucrare CMPEE 
+ 
+Sursa: Raportările lunare ale producătorilor monitorizați – prelucrare CMPEE 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care dețin cel puțin o centrală cu 
+capacitate instalată mai mare de 5 MW și li se aplică tariful de introducere în rețea 
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCE-
+ESRE-CV MACEE prosumat
+ori
+in calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCE-
+ESRE-CV
+PMC-
+BRM MACEE PZU PI clienti
+casnici
+clienti
+noncasnic
+i
+Pret minim 406.56 62.53 272.83 615.00 487.74 200.00 450.00 422.75 420.68 369.29 47.28 46.54 62.53 167.49 437.74 352.74 156.51 949.97 450.00 120.46 -8.73 188.18 239.71
+Pret mediu ponderat 476.21 589.47 755.51 1,168.05 1,438.05 266.59 450.00 489.30 734.81 472.13 465.18 137.35 693.29 820.40 684.11 1,597.52 384.94 982.65 450.00 403.99 361.57 200.26 626.70
+Pret maxim 803.40 3,651.51 1,901.51 1,526.51 1,981.51 515.88 450.00 718.77 2,031.18 740.69 723.48 541.78 3,651.51 2,487.57 1,251.51 3,601.51 1,101.51 1,000.63 450.00 617.70 618.57 1,415.09 1,489.04
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+lei/MWh
+Valorile medii, maxime si minime ale preturilor tranzactiilor realizate de 
+producatorii monitorizati
+- Decembrie 2023 -
+ACHIZITII VANZARI
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCE-
+ESRE-CV MACEE prosumat
+ori
+in calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCE-
+ESRE-CV
+PMC-
+BRM MACEE PZU PI clienti
+casnici
+clienti
+noncasnic
+i
+Pret minim 406.56 62.53 2.98 175.23 259.23 194.39 450.00 266.06 274.43 10.00 8.45 46.54 62.53 167.48 175.23 241.23 156.51 948.15 450.00 -0.46 -61.98 188.18 234.80
+Pret mediu ponderat 571.29 657.62 780.90 1,427.50 1,444.22 312.91 450.00 590.87 769.95 550.16 569.44 528.01 814.58 856.76 734.38 1,603.95 519.62 984.89 450.00 523.92 467.94 272.27 651.10
+Pret maxim 1,695.23 3,651.51 2,501.71 1,631.51 2,835.00 515.88 450.00 1,460.39 2,031.18 974.08 1,934.08 977.57 4,250.00 3,970.48 1,301.51 3,950.00 2,400.00 1,002.08 450.00 1,014.11 1,163.26 7,820.07 1,489.05
+-1000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+lei/MWh
+Valorile medii, maxime si minime ale preturilor tranzactiilor realizate de 
+producatorii monitorizati
+- Anul 2023 -
+ACHIZITII VANZARI
+PDF PAGE 24
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 24 
+ 
+ 
+Furnizori  
+În luna decembrie 2023, pe piaţa angro de energie electrică au activat 74 de operatori 
+economici a căror activitate principală o constituie furnizarea de energie electrică; dintre aceştia, 
+25 sunt furnizori care îşi desfăşoară activitatea doar pe PAN (o parte dintre aceştia fiind deţinători 
+de licenţă pentru activitatea traderului de energie electrică sau persoane juridice străine cu drept 
+de participare la piața de energie electrică din România) şi 49 sunt furnizori care au activitate şi 
+pe PAM. 
+ 
+Furnizori cu activitate exclusivă pe PAN 
+Tabelul următor ilustrează activitatea desfăşurată de furnizorii activi doar pe PAN  
+(inclusiv traderi și persoane juridice străine cu drept de participare la PAN confirmat de ANRE), 
+prezentând structura pe categorii de pieţe  a achizițiilor şi vânzărilor totale pe PAN realizate de 
+aceştia în luna de livrare decembrie 2023 comparativ cu luna anterioară și respectiv pentru anul 
+2023 comparativ cu anul anterior: 
+                                                                - GWh- 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare CMPEE 
+ 
+ 
+  
+Structură tranzacţii furnizori cu 
+activitate exclusivă pe PAN 
+Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii   
+Contracte import 85,32 59,53 867,26 606,51 
+Contracte negociate  76,99 116,19 3391,70 560,44 
+Contracte pe alte platforme - - 0,003 - 
+Piața centralizată a contractelor, din care: 33,84 34,97 3941,69 409,86 
+− PCCB-LE-flex  29,52 30,50 1459,98 352,70 
+− PCCB-NC 0,00 0,00 217,53 4,36 
+− PC-OTC  4,32 4,46 2264,18 52,80 
+Producție din surse proprii 0,22 0,20 34,00 5,69 
+PZU 53,60 88,47 2775,72 433,45 
+PI 12,85 17,27 78,93 170,10 
+Vânzări 
+Contracte export 91,02 172,95 2517,79 944,81 
+Contracte negociate  2,26 0,84 43,32 17,71 
+Piața centralizată a contractelor, din care: 40,32 41,66 4528,50 490,87 
+− PCCB-LE-flex 0,00 0,00 131,40 0,02 
+− PCCB-NC  2,16 2,23 844,97 26,35 
+− PC-OTC  38,16 39,43 3552,13 464,50 
+PZU 105,73 86,88 3954,89 574,07 
+PI 15,26 16,03 73,45 172,54 
+PDF PAGE 25
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 25 
+ 
+Prezentăm comparativ nivelul preţurilor minime, medii şi maxime realizate în luna de 
+livrare decembrie 2023 și respectiv în anul 2023 de furnizorii cu activitate exclusivă pe PAN 
+pentru fiecare tip de contract de achiziție/vânzare: 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare CMPEE 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare CMPEE 
+import negociate PCCB-LE-
+flex PC-OTC
+producție 
+din surse 
+proprii
+PZU PI export negociate PCCB-NC PC-OTC PZU PI
+Pret minim 350.31 335.23 167.49 412.74 258.50 195.45 294.67 71.40 449.01 767.55 351.40 258.43 289.24
+Pret mediu ponderat 634.75 417.02 297.69 942.37 1,707.54 368.09 408.95 399.13 466.46 822.55 783.34 418.10 440.74
+Pret maxim 994.42 584.82 710.00 2,001.51 2,042.49 552.12 701.14 579.13 630.49 932.55 1,017.74 514.40 698.83
+0
+500
+1000
+1500
+2000
+2500
+lei/MWh
+Valorile medii, maxime și minime ale prețurilortranzacțiilor realizate de 
+furnizorii cu activitate exclusiv pe piața angro
+- Decembrie 2023 -
+ACHIZITII VANZARI
+import negociate PCCB-
+LE-flex PCCB-NC PC-OTC
+producție 
+din surse 
+proprii
+PZU PI export negociate PCCB-
+LE-flex PCCB-NC PC-OTC PZU PI
+Pret minim 75.09 -45.93 167.49 257.23 266.23 258.50 1.51 2.53 64.62 253.19 489.65 393.23 271.22 10.00 -137.09
+Pret mediu ponderat 691.44 451.28 289.68 705.99 939.40 660.08 507.90 515.51 427.89 483.38 489.87 821.29 783.00 512.13 589.87
+Pret maxim 1,369.97 1,229.27 710.00 708.74 2,530.00 2,042.49 1,103.71 846.38 1,095.71 630.49 490.17 976.04 2,630.00 957.49 1,188.34
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+lei/MWh
+Valorile medii, maxime și minime ale prețurilortranzacțiilor realizate de 
+furnizorii cu activitate exclusiv pe piața angro
+- Anul 2023 -
+ACHIZITII VANZARI
+PDF PAGE 26
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 26 
+ 
+ 
+Furnizori cu activitate pe PAM  
+În tabelul următor sunt prezentate informaţii agregate cu privire la structura pe categorii 
+de pieţe a achizițiilor şi vânzărilor totale realizate de toți furnizorii care au furnizat energie 
+electrică clienților finali în regim concurențial sau regim de serviciu universal, determinat de 
+faptul că de la 1 ianuarie 2022 serviciul universal destinat clienților casnici se asigură de toți 
+furnizorii care au încheiate contracte în piața concurențială. 
+Datele prezentate pentru luna decembrie 2023 comparativ cu luna anterioară și respectiv 
+pentru anul 2023 comparativ cu anul anterior, cuprind și activitatea pe segmentul concurențial și 
+segmentul de serviciu universal al furnizorilor desemnați drept furnizori de ultimă instanță.
+                        
+- GWh - 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare CMPEE  
+Defalcarea pe tipuri de surse/destinaţii a preţurilor minime, medii şi maxime realizate în 
+luna de livrare  decembrie 2023 și respectiv anul 2023 de furnizorii cu activitate pe PAM este 
+reprezentată în graficul  următor. Prețurile de v ânzare a  energiei electrice din contractele de 
+furnizare către clienții finali sunt cele prevăzute în condițiile contractuale din contractele de 
+furnizare respective și cuprind componenta de achiziție a energiei electrice (cu tariful de 
+introducere în rețea inclus) și componenta de furnizare: 
+ 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim concurențial și regim SU) 
+Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii     
+Contracte import 82,57 88,32 691,40 1547,46 
+Contracte negociate 355,87 363,39 1940,00 4877,67 
+Contracte pe alte platforme - - 0,004 - 
+Piața centralizată a contractelor, din care: 910,78 947,83 33360,44 11569,52 
+− PCCB-LE-flex  635,71 656,63 16147,34 8026,19 
+− PCCB-NC  21,24 25,66 1565,37 298,91 
+− PC-OTC  191,75 201,64 15227,85 2510,60 
+− PCE-ESRE-CV  18,89 19,26 419,87 266,84 
+− PMC-BRM 43,20 44,64 - 466,98 
+Producție din surse proprii 11,80 14,83 402.47 229,41 
+De la prosumatori 22,90 17,26 94,98 447,77 
+MACEE 755,49 888,94 - 9057,61 
+În calitate de client final (contracte furnizare pe PAM) 38,16 26,39 - 330,57 
+PZU 642,00 613,50 12481,90 5552,64 
+PI 13,91 10,86 195,37 109,24 
+Vânzări   
+Contracte export 138,75 167,20 322,29 1171,24 
+Contracte negociate  97,85 50,68 3470,92 1273,08 
+Piața centralizată a contractelor, din care: 148,87 145,66 6334,20 1963,25 
+− PCCB-LE-flex  62,83 56,75 898,46 699,77 
+− PCCB-NC  17,64 18,23 704,94 310,65 
+− PC-OTC  68,40 70,68 4730,79 952,84 
+MACEE 1,36 1,78 - 60,86 
+PZU 55,77 55,36 1438,04 1377,67 
+PI 13,72 12,29 137,88 168,27 
+Contracte furnizare pe PAM, către clienţii finali din care: 2370,88 2486,76 36457,10 27067,30 
+casnici 1006,97 1161,10 12897,26 11538,24 
+noncasnici 1363,91 1325,65 23559,84 15529,06 
+PDF PAGE 27
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 27 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare CMPEE  
+ 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare CMPEE  
+ 
+ 
+ 
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC
+PCE-
+ESRE-
+CV
+PMC-
+BRM
+producție 
+din surse 
+proprii
+prosumat
+ori MACEE
+in
+calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC MACEE PZU PI clienti
+casnici
+clienti
+noncasni
+ci
+Pret minim 409.41 100.00 272.75 382.74 274.24 156.51 949.97 125.00 308.09 450.00 562.38 134.09 223.85 290.74 400.00 455.08 382.74 274.24 450.00 99.23 -12.11 250.00 302.88
+Pret mediu ponderat 975.46 769.17 823.72 924.80 1,082.01 489.83 982.65 335.89 676.05 450.00 725.26 498.03 517.52 718.64 704.61 923.25 1,313.34 576.89 450.00 351.97 362.88 1,017.96 975.33
+Pret maxim 1,958.70 2,437.13 2,487.57 1,272.51 3,601.51 1,101.51 1,000.63 708.14 858.87 450.00 751.99 635.89 664.16 805.33 1,301.51 1,986.51 1,951.51 2,436.51 450.00 555.61 825.98 2,432.92 1,980.77
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+lei/MWh
+Valorile medii, maxime și minime ale prețurilor tranzacțiilor realizate de 
+furnizorii cu activitate pe piața cu amănuntul
+- Decembrie 2023 -
+ACHIZITII VANZARI
+import negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC
+PCE-
+ESRE-
+CV
+PMC-
+BRM
+producție 
+din surse 
+proprii
+prosumat
+ori MACEE
+in
+calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC MACEE PZU PI clienti
+casnici
+clienti
+noncasni
+ci
+Pret minim 372.80 100.00 235.17 237.23 241.23 90.00 948.15 125.00 308.09 450.00 55.37 87.02 40.55 285.00 -45.93 238.33 256.23 250.23 450.00 10.00 -47.36 234.93 203.95
+Pret mediu ponderat 1,232.19 897.40 844.70 1,029.94 1,109.33 580.56 984.89 327.42 724.32 450.00 732.21 611.04 577.06 757.27 1,166.79 891.04 1,368.57 673.64 450.00 492.91 466.87 1,336.52 1,267.74
+Pret maxim 3,949.76 2,951.51 3,970.48 2,590.00 3,950.00 2,400.00 1,002.08 709.43 1,200.00 450.00 783.59 941.47 1,953.67 805.33 1,630.00 2,751.41 2,591.51 2,436.51 450.00 1,017.85 1,084.45 3,531.23 3,221.96
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+lei/MWh
+Valorile medii, maxime și minime ale prețurilor tranzacțiilor realizate de 
+furnizorii cu activitate pe piața cu amănuntul
+- Anul 2023 -
+ACHIZITII VANZARI
+PDF PAGE 28
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 28 
+ 
+ 
+Furnizori desemnați ca furnizori de ultimă instanță (FUI) 
+ 
+În conformitate cu prevederile Regulamentului de desemnare a furnizorilor de ultimă 
+instanță aprobat prin Ordinul președintelui ANRE nr. 91/2022 (în vigoare din 24 iunie 2022), 
+pentru fiecare lună, ANRE nominalizează câte un FUI din lista celor desemnați să presteze 
+serviciul de ultimă instanță. FUI nominalizat are obligația preluării automate, d in orice zonă de 
+rețea, a tuturor clienților finali pentru care data de preluare (în situația în care aceștia nu mai au 
+asigurată furnizarea energiei electrice de la furnizorul actual) intervine în luna pentru care acest 
+FUI este nominalizat. Excepție fac clienții care se adresează unui alt FUI pentru prestarea 
+aceluiași serviciu de ultimă instanță.  
+Lista nominalizărilor pentru fiecare lună este publicată pe site -ul ANRE la adresa 
+https://anre.ro/consumatori/energie-electrica/fui-ee/. Pentru luna decembrie 2023, FUI 
+nominalizat a fost Enel Energie Muntenia S.A.. 
+Structura tranzacțiilor de energie electrică pe PAN ale furnizorilor de ultimă instanță 
+realizată pentru alimentarea clienților finali în regim  de UI este prezentată în tabelul următor 
+pentru luna decembrie 2023 comparativ cu luna anterioară și respectiv  pentru anul 2023 
+comparativ cu anul anterior:    
+                                                                                                                        -GWh - 
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare CMPEE 
+ 
+Detalierea nivelelor de preț minim, maxim și mediu ponderat pentru tranzacțiile de 
+energie electrică ale furnizorilor de ultimă instanță realizate în vederea alimentării clienților 
+finali în regim UI pentru luna decembrie 2023 si respectiv pentru anul 2023 este reprezentată în 
+graficul următor . Prețurile de v ânzare a  energiei electrice din contractele de furnizare către 
+clienții finali sunt cele prevăzute în condițiile contractuale din contractele de furnizare respective 
+și cuprind componenta de achiziție a energiei electrice (cu tariful de introducere în rețea inclus) 
+și componenta de furnizare: 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim UI) 
+Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii     
+Contracte import 0,00 0,00 - 68,56 
+Contracte negociate 19,16 15,69 105,38 469,19 
+Piața centralizată a contractelor, din care: 87,62 86,99 297,25 1400,90 
+− PCCB-LE-flex  33,84 34,92 77,40 755,69 
+− PCCB-NC  3,60 3,72 27,87 58,31 
+− PCE-ESRE-CV 0,00 0,00 2,23 1,07 
+− PC-OTC  50,17 48,34 189,75 585,82 
+De la prosumatori 0,29 0,35 0,12 10,23 
+MACEE 55,64 47,92 - 717,64 
+PZU 46,00 30,69 992,26 881,14 
+PI 1,61 2,12 26,53 21,09 
+Vânzări     
+PZU 3,40 3,09 4,19 70,94 
+PI 0,16 0,07 0,06 2,62 
+Contracte furnizare pe PAM, către clienţii finali din care: 212,07 212,41 1844,43 3642,96 
+casnici 1,11 1,18 5,29 12,97 
+noncasnici 210,95 211,24 1839,14 3629,99 
+PDF PAGE 29
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 29 
+ 
+  
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare CMPEE 
+ 
+ 
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare CMPEE 
+ 
+ 
+ 
+negociate PCCB-
+LE-flex PCCB-NC PC-OTC prosumato
+ri
+cumparare
+prin
+MACEE
+PZU PI clienti
+noncasnici
+clienti
+casnici PZU PI
+Pret minim 447.50 283.97 1,951.51 380.74 604.89 450.00 459.84 523.64 587.08 431.87 143.21 413.63
+Pret mediu ponderat 1,415.42 1,767.75 1,951.51 1,783.11 697.16 450.00 483.61 525.48 763.96 591.31 245.30 595.40
+Pret maxim 2,951.51 2,411.96 1,951.51 2,436.51 1,003.40 450.00 667.14 615.01 874.16 857.23 288.38 825.77
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+lei/MWh
+Valorile medii, maxime și minime ale prețurilortranzacțiilor 
+realizate de furnizorii de ultimă instanță pentru alimentarea în regim UI
+- Decembrie 2023 -
+ACHIZITII VANZARI
+negociate import PCCB-
+LE-flex
+PCCB-
+NC PC-OTC
+PCE-
+ESRE-
+CV
+prosumat
+ori
+cumparar
+e prin
+MACEE
+PZU PI
+clienti
+noncasnic
+i
+clienti
+casnici PZU PI
+Pret minim 445.83 729.00 267.00 270.23 265.23 268.01 492.44 450.00 421.60 471.62 467.29 315.80 10.00 413.63
+Pret mediu ponderat 1,142.30 822.13 1,553.82 1,957.74 1,759.58 711.60 699.50 450.00 620.23 642.61 809.38 647.14 369.19 596.39
+Pret maxim 2,951.51 1,152.21 2,474.84 2,591.51 3,915.00 1,434.34 1,606.50 450.00 872.35 976.00 1,183.20 1,337.84 535.85 1,073.05
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+lei/MWh
+Valorile medii, maxime și minime ale prețurilortranzacțiilor 
+realizate de furnizorii de ultimă instanță pentru alimentarea în regim UI
+- Anul 2023 -
+ACHIZITII VANZARI
+PDF PAGE 30
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 30 
+ 
+ 
+Operatori de rețea 
+Structura tranzacțiilor de energie electrică ale operatorilor serviciului public de distribuție 
+a energiei electrice (denumiți în continuare operatori de distribuție concesionari), în calitate de 
+participanți la piață, în vederea acoperirii pierderilor din reţelele de distribuţie în luna decembrie 
+2023 comparativ cu luna anterioară și respectiv pentru anul 2023 comparativ cu anul anterior a 
+fost următoarea: 
+                 - GWh - 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari – prelucrare CMPEE 
+ 
+Structura achiziţiei de energie electrică a operatorului de transport și sistem pentru 
+acoperirea pierderilor din rețeaua de transport în decembrie 2023 comparativ cu luna anterioară 
+și respectiv pentru anul 2023 comparativ cu anul anterior a fost următoarea:                 
+- GWh - 
+Structură tranzacţii  
+operator de transport și sistem 
+Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii     
+Contracte negociate 0,00 0,00 339,67 7,52 
+Piața centralizată a contractelor, din care: 0,00 0,00 291,59 0,03 
+− PCCB-LE-flex 0,00 0,00 116,37 0,01 
+− PCCB-NC 0,00 0,00 175,22 0,02 
+MACEE 63,51 66,92 - 714,40 
+PZU 18,86 17,13 290,41 160,02 
+PI 3,06 1,14 17,48 21,67 
+Vânzări     
+PI 0,15 0,48 30,12 5,52 
+ 
+Sursa: Raportările lunare ale operatorului de transport și sistem – prelucrare CMPEE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Structură tranzacţii  
+operatori distribuție concesionari 
+Noiembrie 
+2023 
+Decembrie 
+2023 
+Anul 
+ 2022 
+Anul 
+ 2023 
+Achiziţii     
+Contracte negociate 24,63 34,21 1316,21 378,99 
+Piața centralizată a contractelor, din care: 7,20 7,44 2095,65 87,82 
+− PCCB-LE-flex 0,00 0,00 694,10 0,09 
+− PCCB-NC  3,60 3,72 310,64 43,83 
+− PC-OTC  3,60 3,72 1087,19 43,89 
+− PMC 0,00  3,72 0,00 
+MACEE 326,25 433,60 - 3482,25 
+PZU 42,89 80,88 1424,33 691,05 
+PI 0,18 0,24 8,81 2,10 
+Vânzări     
+     PZU 27,85 18,96 113,58 135,22 
+PI 0,19 0,15 2,39 2,01 
+PDF PAGE 31
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 31 
+ 
+Comparația dintre structura de achiziţie a celor 6 operatori de distribuție concesionari și 
+a operatorului de transport și sistem în luna decembrie 2023 și respectiv pentru anul 2023 este 
+reprezentată în graficul următor: 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari și operatorului de transport și sistem – 
+prelucrare CMPEE 
+ 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari și operatorului de transport și sistem – 
+prelucrare CMPEE 
+ 
+ 
+ 
+ 
+ 
+DEO DELGAZ GRID Retele Electrice Banat Retele Electrice
+Dobrogea
+Retele Electrice
+Muntenia DEER TRANSELECTRICA
+Negociate 7.43 0.74 6.70 6.70 12.65 0.00 0.00
+PCCB-NC 3.72 0.00 0.00 0.00 0.00 0.00 0.00
+PC-OTC 0.00 3.72 0.00 0.00 0.00 0.00 0.00
+MACEE 54.70 46.89 33.91 39.06 63.15 195.87 66.92
+Achizitie neta PZU 18.22 15.77 7.93 -6.39 12.48 13.91 17.13
+Achizitie neta PI 0.02 0.00 0.021 0.011 0.04 0.00 0.66
+-50
+0
+50
+100
+150
+200
+250
+GWh
+Structura achizitiilor de energie electrica ale OD concesionari si OTS
+pentru acoperirea consumului propriu tehnologic in retele
+- Decembrie 2023 -
+DEO DELGAZ GRID Retele Electrice Banat Retele Electrice
+Dobrogea
+Retele Electrice
+Muntenia DEER TRANSELECTRICA
+Negociate 83.45 16.76 67.66 68.05 125.24 17.85 7.52
+PCCB-NC 43.80 0.003 0.00 0.00 0.01 0.03 0.02
+PC-OTC 0.02 43.81 0.01 0.01 0.00 0.05 0.00
+MACEE 454.23 375.59 328.43 315.56 529.69 1,478.75 714.40
+Achizitie neta PZU 63.40 97.44 49.44 21.38 96.66 227.51 160.02
+Achizitie neta PI -0.06 0.00 0.061 0.043 0.04 0.00 16.15
+-200
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+GWh
+Structura achizitiilor de energie electrica ale OD concesionari si OTS
+pentru acoperirea consumului propriu tehnologic in retele
+- Anul 2023 -
+PDF PAGE 32
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 32 
+ 
+ 
+ 
+5. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale 
+ 
+Structura pieţei la nivelul energiei electrice produsă și livrată în rețele  oferă o bază 
+iniţială pentru aprecierile privind gradul de competitivitate posibil pe piaţa energiei electrice.  
+În continuare sunt prezentați indicatorii de concentrare (cote de piață, cota primilor 3 și 
+HHI) care caracterizează luna decembrie 2023 și respectiv anul  2023 în ceea ce privește 
+cantitatea de energie electrică produsă și livrată în rețele de producătorii monitorizați (titulari ai 
+licenței de exploatare comercială a capacităților de producere, având cel puțin o centrală electrică 
+cu putere instalată > 5 MW). 
+ 
+Indicatori de concentrare           
+- Decembrie 2023 - C1 (%) C3 (%) HHI 
+Valoare 29,08 61,18 1550 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare CMPEE 
+ 
+  
+Hidroelectrica
+33.44%
+Nuclearelectrica
+19.36%CE Oltenia
+11.41%OMV Petrom
+9.69%
+Elcen
+2.98%
+Enel Green Power Romania
+2.42%
+EDPR România
+2.41%
+Romgaz
+1.69%
+Tomis Team
+1.53%
+Societatea Electrocentrale 
+Craiova
+1.15%
+Ovidiu Development
+1.12%
+Verbund Wind Power 
+Romania
+1.00%
+Ingka Investiments 
+Renewable Energy Romania
+0.83% CET Govora
+0.57%
+Altii
+10.41%
+Cotele de piata ale producatorilor monitorizati in functie de energia livrata in retele
+Ianuarie - Decembrie 2023
+Energie electrica livrata in retele - 53171 GWh
+C1 - 33,44%
+C3 - 64,21%
+HHI - 1750
+Categoria "Altii" include 120 producatori ale caror cote 
+de piata individuale se situeaza sub 0,50%
+PDF PAGE 33
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 33 
+ 
+PZU oferă tuturor participanților posibilitatea realizării echilibrului la nivel orar între 
+obligațiile contractuale, prognoza de consum și disponibilitatea tehnică a segmentului de 
+producere a energiei electrice. Astfel, surplusul sau deficitul de energie el ectrică se poate 
+echilibra la nivel orar pentru a doua zi, prin participarea la vânzarea sau cumpărarea energiei pe 
+PZU, în funcție de necesități și indiferent de licența deținută de un participant la piață. Pentru 
+toate tranzacțiile de v ânzare/cumpărare încheiate de participanții la PZU, OPCOM SA este 
+contraparte. 
+Indicatorii de concentrare pe această piaţă reflectă gradul de concurenţă manifestat între 
+vânzători, respectiv cumpărători, dinamica acestora putând influenţa nivelul preţului. Tabelul 
+următor prezintă C1, C3 şi HHI la cumpărare, respectiv la vânzare, det erminaţi pe baza 
+cantităţilor tranzacţionate de participanţi pe această piaţă: 
+ 
+Indicatori de concentrare 
+PZU 
+             -Decembrie 2023- 
+C1 (%) C3 (%) HHI 
+Vânzare 22,96 50,77 1042 
+Cumpărare 17,85 31,92 612 
+ 
+Sursa:  Raportările lunare ale  OPCOM S.A.  
+O componentă a pieţei angro de energie electrică pe care se manifestă direct concurenţa 
+între producători este PE. Valorile indicatorilor de concentrare la nivelul acestei pieţe în luna  
+decembrie 2023 și respectiv anul 2023, determinaţi pe baza energiei efectiv livrate, pentru fiecare 
+din cele 3 tipuri de reglaje sunt prezentate în tabelul următor:  
+Indicatori de concentrare  
+PE 
+ -Decembrie 2023- 
+Reglaje 
+Secundar Terțiar rapid Terțiar lent 
+creștere reducere creștere reducere creștere reducere 
+C1 (%) 61 59 88 40 - - 
+C3 (%) 99 99 97 87 - - 
+HHI 4530 4343 7729 3060 - - 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+Indicatori de concentrare  
+PE 
+ -Anul 2023- 
+Reglaje 
+Secundar Terțiar rapid Terțiar lent 
+creștere reducere creștere reducere creștere reducere 
+C1 (%) 69 68 81 49 100 - 
+C3 (%) 99 99 92 93 100 - 
+HHI 5289 5177 6683 3995 10000 - 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+În tabelul următor sunt prezentaţi indicatorii de concentrare pe tip de rezerve de putere 
+achiziționate de CNTEE T ranselectrica SA de la producătorii calificați, în urma organizării 
+licitațiilor pentru luna decembrie 2023 și respectiv anul 2023pentru rezerve de reglaj secundar, 
+terţiar rapid la creștere și scădere de putere. Pentru rezerva de reglaj terţiar lent nu s-au organizat 
+licitații. 
+PDF PAGE 34
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 34 
+ 
+Indicatori de concentrare 
+ Piaţa serviciilor de sistem  
+-Decembrie 2023 - 
+Rezerva reglaj 
+secundar 
+Rezerva terţiară 
+rapidă 
+Rezerva 
+terţiară lentă 
+Cantitate contractată 
+(h*MW) 283072 611886 - 
+C1 (%) 63,16 46,86 - 
+C3 (%) 98,44 86,68 - 
+HHI 4840 3083 - 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+Indicatori de concentrare 
+ Piaţa serviciilor de sistem  
+-Anul 2023 - 
+Rezerva reglaj 
+secundar 
+Rezerva terţiară 
+rapidă 
+Rezerva 
+terţiară lentă 
+Cantitate contractată 
+(h*MW) 3531614 6817677 - 
+C1 (%) 69,29 61,11 - 
+C3 (%) 99,26 89,53 - 
+HHI 5435 4369 - 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare CMPEE 
+ 
+ 
+6. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică 
+Începând din 19 noiembrie 2014, piaţa pentru ziua următoare din România a funcţionat 
+în regim cuplat cu pieţele spot din Ungaria, Slovacia şi Republica Cehă, în proiectul 4M MC – 
+mecanismul de cuplare prin preţ a pieţelor pentru ziua următoare, pe baza algoritmului de cuplare 
+recomandat de ACER (Euphemia). 
+Din data de 1 7 iunie 2021, a devenit operațional proiectul Interim Coupling  prin care 
+piaţa pentru ziua următoare  din România a trecut la funcționarea în regim cuplat la n ivel 
+European prin extinderea mecanismului de cuplare pe 6 noi granițe (PL -DE, PL-CZ, PL-SK, 
+CZ-DE, CZ-AT, HU-AT).  
+În data de 27 octombrie 2021, au fost finalizate operaţiunile de cuplare a graniţei RO-BG 
+în SDAC, permițând, astfel, conectarea piețelor pentru ziua următoare din Grecia și Bulgaria în 
+cadrul proiectului pan-european SDAC (Single Day-ahead Coupling). 
+Începând cu data de 08 iunie 2022, piaţa pentru ziua următoare din România a trecut la 
+următoarea etapă prevăzută de Regulamentul (UE) 2015/1222 al Comisiei din 24 iulie 2015 de 
+stabilire a unor linii directoare privind alocarea capacităților și gestionarea congestiilor 
+(Regulamentul CACM) , prin implementarea proiectului CORE FB MC  (cuplare pe bază de 
+fluxuri). 
+În graficele următoare este prezentată evoluția preţurilor spot medii lunare  începând cu 
+luna noiembrie 2014 (momentul cuplării în proiectul 4M MC), respectiv evoluția prețurilor spot 
+medii zilnice  înregistrate pe PZU de țările membre ale proiectului Interim Coupling după 
+momentul cuplării în cadrul proiectului pan-european SDAC. 
+PDF PAGE 35
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 35 
+ 
+ 
+Sursa: Informaţii publicate pe platforma ENTSO-E (EMFIP) – prelucrare CMPEE 
+ 
+Sursa: Informaţii publicate pe platforma ENTSO-E (EMFIP) – prelucrare CMPEE 
+ 
+16
+56
+96
+136
+176
+216
+256
+296
+336
+376
+416
+456
+496
+536
+Euro/MWh
+Evolutie prețuri PZU cuplat în țările din proiectul 4M MC și în țările cuplate după integrarea în SDAC
+Noiembrie 2014 - Decembrie 2023
+HUPX  Ungaria OPCOM PIP Slovacia PIP Cehia PIP Austria PIP Germania PIP Polonia
+SDAC
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Evoluție prețuri medii zilnice PZU cuplat în România și țările din proiectul SDAC
+Iunie 2021 - Decembrie 2023
+HUPX Opcom PIP SK PIP CZ PIP AT PIP DE PIP PL PIP GR PIP BG
+Euro/MWh
+PDF PAGE 36
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 36 
+ 
+Prezentăm grafic evoluţia la nivel orar pentru luna decembrie 2023, a diferenţei dintre 
+preţurile de închidere a PZU cuplat pe zona România-Ungaria corelată cu fluxurile 
+transfrontaliere rezultate pe graniţa România -Ungaria, pe ambele direcţii  și diferenţa dintre 
+preţurile de închidere a PZU cuplat pe zona România-Bulgaria corelată cu fluxurile 
+transfrontaliere rezultate pe graniţa România-Bulgaria pe ambele direcţii. 
+ 
+Sursa: Date publice OPCOM S.A. – prelucrare CMPEE 
+ 
+Sursa: Date publice OPCOM S.A. – prelucrare CMPEE  
+-250.00
+-200.00
+-150.00
+-100.00
+-50.00
+0.00
+50.00
+100.00
+150.00
+200.00
+250.00
+-2500.00
+-2000.00
+-1500.00
+-1000.00
+-500.00
+0.00
+500.00
+1000.00
+1500.00
+2000.00
+2500.00
+1 24 47 70 93 116 139 162 185 208 231 254 277 300 323 346 369 392 415 438 461 484 507 530 553 576 599 622 645 668 691 714 737
+Flux RO-HU Flux HU-RO Δ =PIP RO-PIP HU
+Euro/MWhMWh
+Evoluția orară a ecartului dintre PIP România și PIP Ungaria și a fluxurilor 
+transfrontaliere rezultate
+- Decembrie 2023 -
+intervalele orare aferente lunii analizate
+-100.00
+-50.00
+0.00
+50.00
+100.00
+150.00
+200.00
+250.00
+-1000.00
+-500.00
+0.00
+500.00
+1000.00
+1500.00
+2000.00
+2500.00
+1 24 47 70 93 116 139 162 185 208 231 254 277 300 323 346 369 392 415 438 461 484 507 530 553 576 599 622 645 668 691 714 737
+Flux RO-BG Flux BG-RO Δ =PIP RO-PIP BG
+Euro/MWhMWh
+Evoluția orară a ecartului dintre PIP România și PIP Bulgaria și a fluxurilor 
+transfrontaliere rezultate  
+- Decembrie 2023-
+intervalele orare aferente lunii analizate
+PDF PAGE 37
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 37 
+ 
+Din data de 19 noiembrie 2019, piața intrazilnică din România funcționează în regim 
+cuplat cu piețele din alte 23 de state membre UE participante la proiectul european SIDC (Single 
+Intra-Day Coupling) , Noile reguli de tranzacționare  au fost elaborate și aprobate  de toate 
+autoritățile de reglementare din țările participante și de ACER în conformitate cu prevederile 
+Regulamentului CACM. 
+În graficul următor sunt prezentate volumul  tranzacționat lunar și preţul mediu ponderat 
+pe piața intrazilnică începând cu luna noiembrie 2019, odată cu aderarea României la proiectul 
+european SIDC. 
+ 
+Sursa: Date publice OPCOM S.A. – prelucrare CMPEE 
+Pentru acoperirea diferenţelor dintre valorile planificate/contractate ale consumului şi 
+respectiv producţiei şi valorile acestora apărute în timp real, operatorul de sistem (CNTEE 
+Transelectrica S,A,) operează piaţa de echilibrare (PE), “cumpărând” sau “vânzând” energie la 
+preţurile marginale determinate de ofertele producătorilor participanți la PE. 
+Începând cu data de 1 februarie 2021 , au intrat în vigoare modificări referitoare la 
+funcționarea PE și la decontarea dezechilibrelor, dintre care enumerăm:  
+• Trecerea la intervalul de decontare de 15 minute; 
+• Utilizarea prețului unic de dezechilibru ca metodă de decontare a dezechilibrelor PE; 
+• Utilizarea unei metode de calcul pentru prețuri duale de dezechilibru (preț de deficit și 
+preț de excedent) în intervalele de decontare în care zona de dezechilibru este aproape 
+echilibrată și pentru care s -a apreciat că metoda prețului unic de dezechilibru nu este 
+cea mai eficientă metodă de decontare a dezechilibrelor PE din punct de vedere 
+economic. 
+No
+v
+19
+Dec Ian
+20 Feb Ma
+r Apr Mai Iun Iul Aug Sep Oct No
+v Dec Ian
+21 Feb Ma
+r Apr Mai Iun Iul Aug Sep Oct No
+v Dec Ian
+22 Feb Ma
+r Apr Mai Iun Iul Aug Sep Oct No
+v Dec Ian
+23 Feb Ma
+r Apr Mai Iun Iul Aug Sep Oct No
+v Dec
+Volum 35 59 63 57 56 33 40 30 38 52 45 52 45 73 83 62 94 99 124 103 116 97 104 102 99 116 101 96 119 109 90 78 79 102 98 95 74 89 98 87 88 98 114 110 142 150 139 131 185 146
+PMP 151 140 198 211 180 117 118 158 179 209 233 201 240 332 276 238 276 327 297 386 474 568 660 960 109 130 101 886 146 859 953 106 175 231 193 113 117 133 724 705 531 505 414 453 485 519 506 553 561 427
+0
+415
+830
+1245
+1660
+2075
+2490
+0
+25
+50
+75
+100
+125
+150
+175
+200
+lei/MWhGWh
+Evoluţie Piaţă Intrazilnică România cuplată în proiectul  european SIDC
+Noiembrie 2019 - Decembrie 2023
+PDF PAGE 38
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 38 
+ 
+Valorile prețurilor pe intervale de  decontare pentru deficit şi  excedent au fost utilizate 
+pentru prezentarea preţurilor medii lunare ale fiecărui interval de decontare comparativ cu  
+consumul mediu intern brut realizat în luna curentă, precum și a evoluției prețurilor medii lunare 
+realizate pe PE comparativ cu PIP PZU. În luna decembrie 2023, au fost calculate prețuri duale 
+de dezechilibru pentru 248 intervale de decontare. 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi informațiile publicate de CNTEE Transelectrica S.A. pe platforma 
+EMFIP – prelucrare CMPEE 
+ 
+ 
+Sursa: Raportările zilnice/lunare  ale OPCOM S.A.– prelucrare CMPEE  
+-6000
+-4000
+-2000
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+-600
+-400
+-200
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96
+MWhlei/MWh Valori medii pe interval de decontare - preturi dezechilibre si consum intern brut realizat
+Decembrie 2023
+Pret de excedent Pret de deficit Pret PZU Consum intern brut realizat
+-500
+0
+500
+1000
+1500
+2000
+2500
+lei/MWh
+Preturi medii lunare inregistrate pe PZU si PE
+Ianuarie 2019 - Decembrie 2023
+Pret mediu pe PZU Pret mediu de deficit Pret mediu de excedent
+Poly. (Pret mediu pe PZU) Poly. (Pret mediu de deficit) Poly. (Pret mediu de excedent)
+PDF PAGE 39
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 39 
+ 
+ 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ  
+ 
+Piața cu amănuntul de energie electrică reprezintă, conform Legii, cadrul în care energia 
+electrică este cumpărată de clienţii finali, în vederea satisfacerii consumului propriu. Pe această 
+piață, furnizorii vând energie electrică clienților finali prin contracte de furnizare la prețuri 
+negociate sau stabilite prin oferte-tip. 
+Dimensiunea pieței cu amănuntul este dată de energia electrică furnizată clienților casnici 
+și clienților finali noncasnici, pe tipuri de regim de furnizare: concurențial, serviciu universal sau 
+ultimă instanță. 
+În ceea ce privește furnizarea energiei electrice în regim de serviciu universal, menționăm 
+că începând cu data de 1 ianuarie 2022, potrivit prevederilor Legii, furnizorilor de energie 
+electrică care au încheiate contracte în piața concurențială cu clienții casnici le revine obligația 
+publicării de oferte pentru furnizarea în regim de serviciu universal și încheierii contractelor de 
+furnizare pentru acest tip de serviciu, dacă primesc o solicitare în acest sens. 
+În conformitate cu prevederile Metodologiei de monitorizare a pieței cu amănuntul de 
+energie electrică aprobată prin Ordinul președintelui ANRE nr. 17/2023 ( Metodologia PAM), 
+participantul la PAM este atât titularul unei licențe pentru furnizare de energie electrică care 
+furnizează energie electrică clienților casnici sau clienților finali noncasnici în baza acestei 
+licențe cât și producătorul monitorizat PAN care nu deține licență de furnizare dar care 
+furnizează energie electrică clienților finali alimentați direct din instalațiile electrice proprii în 
+baza dreptului complementar din licența pentru exploatarea capacităților de producere a energiei 
+electrice. De asemenea, datele din prezentul Raport lunar cuprind și energia aferentă consumului 
+furnizorilor la propriile locuri de consum, indiferent de modalitatea de asigurare a acesteia: prin 
+achiziție pe contracte de furnizare în calitate de client final, achiziție de pe piața angro sau din 
+producție proprie.  
+Din aceste motive, între lista de participanți activi pe PAM, așa cum rezultă din 
+monitorizarea în baza Metodologiei PAM și lista furnizorilor de energie electrică care introduc 
+oferte-tip de energie electrică destinate clienților casnici și finali noncasnici pot exista diferențe. 
+Sursa tuturor indicatorilor prezentați în acest capitol o constituie raportările lunare ale 
+participanților la PAM, conform obligațiilor de raportare din Metodologia PAM. 
+În concordanță cu prevederile Regulamentului (UE) 1952/2016 al Parlamentului 
+European şi al Consiliului și ale Metodologiei PAM, indicatorii din cuprinsul Raportului lunar 
+caracterizează clienții finali și nu se referă la locurile de consum ale acestora.  
+Structura pe tranșe de consum pe categoriile de clienţi finali este în conformitate cu 
+intervalele de consum anual prevăzute pentru fiecare tranșă în Regulamentul (UE) 1952/2016 al 
+Parlamentului European şi al Consiliului:  
+PDF PAGE 40
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 40 
+ 
+ 
+1. Participanții la piața cu amănuntul de energie electrică 
+În tabelul următor sunt prezentați participanţii la piaţa cu amănuntul de energie electrică, 
+activi în luna decembrie 2023*: 
+ 
+1 A6 Impex SA 46 ICPE Electrocond Technologies SA
+2 Alive Capital SA 47 Industrial Energy SA
+3 Alro SA 48 Ingka Investiments Renewable Energy Romania SRL
+4 Anchor Grup SA 49 Liberty Galați SA
+5 AOT Energy SRL 50 Luxten Lighting Company SA
+6 Axpo Energy Romania SRL 51 Mazarine Energy Romania SRL
+7 Azomures SA 52 MET Romania Energy SA
+8 Bepco SRL 53 Modern Calor SA
+9 Best Energy SRL 54 Monsson Trading SRL
+10 CET Govora SA 55 MVM Future Energy Technology SRL
+11 CEZ Vanzare SA** 56 Next Energy Parteners SRL
+12 Compania Locala de Termoficare Colterm SA 57 Nova Power&Gas SRL
+13 Complexul Energetic Oltenia SA 58 OMV Petrom SA
+14 Contour Global Solutions SRL 59 PPC Energie SA**
+15 Cooperativadeenergie Furnizare SRL 60 PPC Energie Muntenia SA**
+16 Cotroceni Park SA 61 Petrotel-Lukoil SA
+17 Crest Energy SRL 62 Photovoltaic Green Project SRL
+18 Dacia Energy Solutions SRL 63 Plenerg SRL
+19 E.ON Energie Romania SA** 64 Prefab SA
+20 East Wind Farm SRL 65 Premier Energy SRL
+21 EFT Furnizare SRL 66 QMB Energ SRL
+22 EGGER Romania SRL 67 RCS&RDS SA
+23 Electric Planners SRL 68 Renovatio Trading SRL
+24 Electrica Furnizare SA** 69 RES Energy Solutions SA
+25 Electricom SA 70 Restart Energy One SRL
+26 Electrificare CFR SRL 71 Romelectro Bucuresti SA
+27 Electrocarbon SA 72 Rulmenti SA
+28 Electrocentrale Bucureşti SA 73 Skybase Energy SRL
+29 Electromagnetica SA 74 SN Nuclearelectrica SA
+30 Elsid SA 75 SNGN Romgaz SA
+31 Energy Core Development SRL 76 Solprim SRL
+32 Energy Distribution Services SRL 77 SPEEH Hidroelectrica SA
+33 Energy Tech Entera SRL 78 Termo Ploiesti SRL
+34 Engie România SA 79 Transenergo COM SA
+35 Entrex Services SRL 80 Transenergo Microhidro SRL
+36 Eol Energy SRL 81 Tinmar Energy SA
+37 Eye Mall SRL 82 Uzinsider General Contractor SA
+38 Fondul de Dezvoltare S.C.E. cu Raspundere Limitata SRL 83 Veolia Energie România SA
+39 Getica 95 Com SRL 84 Verbund Wind Power Romania SRL
+40 Green Vision Seven SRL 85 Vienna Energy Forta Naturala SRL
+41 Grenerg SRL 86 Vimetco Management Romania SRL
+42 Hermes Energy International SRL 87 Warehouses De Pauw Romania SRL
+43 HS Timber Productions SRL 88 Werk Energy SRL
+44 HS Timber Productions Reci SRL 89 ZG Timber Sebes SRL
+45 ICCO Energ SRL
+PARTICIPANTI ACTIVI 
+PE PIATA CU AMANUNTUL DE ENERGIE ELECTRICA
+PDF PAGE 41
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 41 
+ 
+*furnizori care au raportat energie electrică furnizată clienților finali din portofoliu (casnici, noncasnici) sau 
+consum la propriile locuri de consum, indiferent de tipul de licență deținută (furnizare, producere);  
+** furnizori desemnați FUI, în conformitate cu prevederile Ordinului ANRE nr. 91/2022.  
+ 
+2. Numărul de clienți finali  
+Numărul clienților casnici și cel al clienților finali noncasnici, cărora li se furnizează 
+energie electrică în luna decembrie 2023, sunt prezentați în funcție de tranșa de consum și 
+regimul de furnizare pe care apar înregistrați la sfârșitul lunii de analiză. 
+Număr clienți finali noncasnici  
+Tranşă de  consum 
+-Decembrie 2023- 
+Total PAM 
+din care: Regim concurențial Regim UI 
+IA 238485 232188 6297 
+IB 54709 47712 6997 
+IC 6627 6153 474 
+ID 2325 2250 75 
+IE 155 155 - 
+IF 23 23 - 
+IG 32 32 - 
+Total 302356 288513 13843 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+În următorul grafic prezentăm evoluția lunară din perioada ianuarie 2022 – decembrie 
+2023 a numărului de clienți noncasnici în funcție de regimul de furnizare.  
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+ian-22 feb.-22 mar.-
+22
+apr.-22 mai-22 iun.-22 iul.-22 aug.-22 sept.-
+22
+oct.-22 nov.-
+22
+dec.-22 ian.-23 feb.-23 mar.-
+23
+apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-
+23
+oct.-23 nov.-
+23
+dec.-23
+nr.clienți
+Evoluția numărului de clienți finali noncasnici pe regimuri de furnizare
+noncasnici - regim concurențial noncasnici - regim UI noncasnici - regim SU
+PDF PAGE 42
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 42 
+ 
+Notă: determinat de faptul că începând cu 1 ianuarie 2022, ofertarea în regim SU a devenit posibilă doar 
+pentru clienții casnici, clienții noncasnici care erau alimentați în acest regim au fost trecuți pe parcursul lunii 
+ianuarie 2022 în regim concurențial. 
+ 
+Număr clienți casnici  
+Tranşă de  consum 
+-Decembrie 2023- 
+Total PAM 
+din care: Regim concurențial Regim SU Regim UI 
+DA 4094617 2545093 1544169 5355 
+DB 3169522 2068772 1097054 3696 
+DC 1045952 749757 295908 287 
+DD 336307 263272 72972 63 
+DE 46210 37846 8360 4 
+Total 8692608 5664740 3018463 9405 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Evoluția numărului de clienți casnici defalcat pe regim de furnizare în perioada ianuarie 
+2022 – decembrie 2023 este prezentată lunar, în următorul grafic: 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+La sfârșitul lunii decembrie 2023, numărul clienților casnici alimentați în regim de UI se 
+situează sub 0,1% din numărul total de clienți casnici, iar al celor noncasnici în regim de UI sub 
+5% din numărul total de clienți noncasnici. 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația 
+clienților intrați în regim UI (preluați automat sau la cerere) în luna de raportare cât și a celor 
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+7,000,000
+8,000,000
+9,000,000
+10,000,000
+ian-22 feb.-22 mar.-
+22
+apr.-22 mai-22 iun.-22 iul.-22 aug.-22 sept.-
+22
+oct.-22 nov.-22dec.-22 ian.-23 feb.-23 mar.-
+23
+apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-
+23
+oct.-23 nov.-23dec.-23
+nr. clienți
+Evoluția numărului de clienți casnici pe regimuri de furnizare
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+PDF PAGE 43
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 43 
+ 
+intrați anterior, dar care au rămas în acest regim, la nivelul tuturor furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare). 
+3. Consumul de energie electrică al clienților finali 
+În următoarele tabele este prezentat consumul de energie electrică al clienților finali, 
+structurat pe tip de client, tranșe de consum și pe regim de furnizare, pentru luna decembrie 2023, 
+respectiv pentru anul 2023. 
+Consum clienți finali noncasnici  
+pe tranșă de consum și regim de furnizare 
+(GWh) 
+Tranșă de consum 
+-Decembrie 2023- 
+Total PAM 
+din care: 
+Regim concurențial Regim UI 
+IA 197,28 159,32 37,96 
+IB 502,75 401,54 101,21 
+IC 290,91 253,82 37,09 
+ID 599,59 564,61 34,98 
+IE 358,72 358,72 - 
+IF 146,72 146,72 - 
+IG 653,41 653,41 - 
+Total 2749,38 2538,14 211,24 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Consum clienți finali noncasnici  
+pe tranșă de consum și regim de furnizare 
+(GWh) 
+Tranșă de consum 
+-Anul 2023- 
+Total PAM 
+din care: 
+Regim concurențial Regim UI 
+IA 2377,67 1744,21 633,46 
+IB 6000,42 4439,39 1561,03 
+IC 3408,37 2806,18 602,19 
+ID 7545,75 6841,04 704,71 
+IE 4439,51 4332,06 107,45 
+IF 1911,30 1890,16 21,14 
+IG 7319,73 7319,71 0,01 
+Total 33002,75 29372,76 3629,99 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Consum clienți casnici  
+pe tranșă de consum și regim de furnizare 
+(GWh) 
+Tranșă de consum 
+-Decembrie 2023- 
+Total PAM 
+din care: 
+Regim concurențial Regim SU Regim UI 
+DA 211,36 133,84 76,93 0,59 
+DB 495,18 332,55 162,21 0,42 
+DC 305,44 217,87 87,48 0,09 
+DD 124,16 89,58 34,53 0,05 
+DE 187,67 179,85 7,80 0,03 
+Total 1323,81 953,69 368,94 1,18 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+PDF PAGE 44
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 44 
+ 
+ 
+Consum clienți casnici  
+pe tranșă de consum și regim de furnizare 
+(GWh) 
+Tranșă de consum 
+-Anul 2023- 
+Total PAM 
+din care: 
+Regim concurențial Regim SU Regim UI 
+DA 2107,82 1315,20 787,30 5,32 
+DB 5258,89 3586,74 1666,44 5,72 
+DC 3306,16 2441,83 863,33 1,01 
+DD 1510,60 1165,53 344,54 0,53 
+DE 908,53 829,06 79,08 0,39 
+Total 13092,00 9338,34 3740,68 12,97 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Consum clienți finali  
+pe tip de client și regim de furnizare 
+(GWh) 
+Tip client 
+-Decembrie 2023- 
+Total PAM 
+din care: Regim concurențial Regim SU Regim UI 
+casnic 1323,81 953,69 368,94 1,18 
+noncasnic 2749,38 2538,14 - 211,24 
+Total 4073,19 3491,83 368,94 212,41 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Consum clienți finali  
+pe tip de client și regim de furnizare 
+(GWh) 
+Tip client 
+-Anul 2023- 
+Total PAM 
+din care: Regim concurențial Regim SU Regim UI 
+casnic 13092,00 9338,34 3740,68 12,97 
+noncasnic 33002,75 29372,76 - 3629,99 
+Total 46094,75 38711,10 3740,68 3642,96 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+În cazul clienților finali care în cursul lunii de analiză au trecut dintr -un regim de 
+furnizare în altul, consumul pe fiecare din regimuri corespunde perioadei din lună în care clientul 
+final a fost încadrat în regimul de furnizare respectiv. 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația 
+clienților intrați în regim UI (preluați automat sau la cerere) în luna de raportare cât și a celor 
+intrați anterior, dar care au rămas în acest regim, la nivelul tuturor furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare). 
+În luna decembrie 2023, ponderea consumului de energie electrică aferent clienților 
+casnici în regim concurențial din consumul total aferent clienților casnici a fost de 72,04%.   
+Evoluţia lunară, începând cu luna ianuarie 2022 a cantităţilor de energie electrică 
+furnizate clienţilor finali, detaliat pe tipuri de client și regimuri de furnizare, este prezentată în 
+următorul grafic: 
+PDF PAGE 45
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 45 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+ 
+4. Prețuri medii de furnizare la clienții finali  
+ 
+Prețul mediu de furnizare al energiei electrice s -a determinat ca medie ponderată dintre 
+prețurile prevăzute în condițiile contractuale din contractele de furnizare  încheiate cu clienții 
+finali încadrați pe respectiva tranșă de consum și cantitățile de energie electrică furnizate 
+acestora.  
+Acesta include prețul energiei electrice active conform contractului încheiat cu clienții 
+finali încadrați pe respectiva tranșă de consum (format din componenta de achiziție a energiei 
+electrice care include tariful de introducere în rețea  și componenta de furnizare) și tarifele 
+reglementate pentru serviciile de rețea prestate.  Prețul mediu de furnizare NU include taxe 
+(certificate verzi, cogenerare de înaltă eficiență, acciză) sau TVA. 
+În conformitate cu prevederile Metodologiei PAM, prețurile medii de furnizare raportate 
+de participanții la PAM pe fiecare categorie de clienți și tranșă de consum corespund energiei 
+consumate în luna de raportare și reflectă condițiile contractuale și nu prețul final facturat 
+plafonat, plătit de clienți conform schemei de sprijin aplicate la un moment dat pentru o categorie 
+de clienți. 
+Pentru clienții finali (casnici, noncasnici) preluați de FUI în regim UI după data intrării 
+în vigoare a Regulamentului privind furnizarea de ultimă instanță a energiei electrice  aprobat 
+prin Ordinul președintelui ANRE nr. 91/2022, furnizarea energiei electrice se realizează în baza 
+contractelor de furnizare a energiei electrice încheiate în conformitate cu prevederile 
+Contractului-cadru de furnizare a energiei electrice la clienț ii finali preluați de către furnizorul 
+de ultimă instanță (aprobat prin același Ordin ANRE nr. 91/2022).  
+În luna decembrie 2023, prețurile pentru clienții în regim UI s-au stabilit în conformitate 
+cu prevederile art. 18 alin. (3) din Regulamentul privind furnizarea de ultimă instanță a energiei 
+electrice aprobat prin Ordinul ANRE nr. 91/2022.  
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+ian-22 feb.-22 mar.-
+22
+apr.-22 mai-22 iun.-22 iul.-22 aug.-22 sept.-
+22
+oct.-22 nov.-
+22
+dec.-22 ian.-23 feb.-23 mar.-
+23
+apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-
+23
+oct.-23 nov.-
+23
+dec.-23
+GWh Evoluția consumului de energie electrică al clienților finali 
+casnici - regim concurențial noncasnici - regim concurențial casnici - regim SU
+noncasnici - regim UI casnici - regim UI
+PDF PAGE 46
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 46 
+ 
+În următoarele tabele se prezintă agregat pe tranșe de consum și regim de furnizare prețul 
+mediu de furnizare al energiei electrice furnizate clienților finali, detaliat pe tip de client pentru 
+luna decembrie 2023, respectiv pentru anul 2023. 
+Preț mediu furnizare clienți finali noncasnici (lei/MWh) 
+Tranșă de consum 
+-Decembrie 2023- 
+Total PAM Regim 
+concurențial 
+Regim UI 
+IA 1272,45 1336,31 1004,40 
+IB 1431,68 1558,78 927,43 
+IC 999,17 991,49 1051,67 
+ID 898,42 889,35 1044,82 
+IE 788,70 788,70 - 
+IF 862,76 862,76 - 
+IG 674,46 674,46 - 
+Total 963,99 962,44 982,52 
+ 
+ Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE 
+ 
+Preț mediu furnizare clienți finali noncasnici (lei/MWh) 
+Tranșă de consum 
+-Anul 2023- 
+Total PAM Regim 
+concurențial 
+Regim UI 
+IA 1633,49 1844,64 1052,11 
+IB 1644,76 1885,32 960,61 
+IC 1326,22 1384,30 1055,56 
+ID 1061,33 1066,25 1013,52 
+IE 869,11 862,43 1138,46 
+IF 839,13 837,28 1005,02 
+IG 712,67 712,67 1017,73 
+Total 1119,93 1133,75 1008,12 
+ 
+ Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE 
+ 
+Preț mediu furnizare clienți casnici (lei/MWh) 
+Tranșă de consum 
+-Decembrie 2023- 
+Total PAM Regim 
+concurențial 
+Regim SU Regim UI 
+DA 1242,77 1417,68 941,04 904,12 
+DB 1299,55 1462,42 966,89 823,11 
+DC 1384,80 1539,75 999,26 1010,85 
+DD 1447,29 1621,15 996,86 1000,37 
+DE 661,39 646,61 1001,11 1004,81 
+Total 1233,54 1334,87 972,70 889,92 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Preț mediu furnizare clienți casnici (lei/MWh) 
+Tranșă de consum 
+-Anul 2023- 
+Total PAM Regim 
+concurențial 
+Regim SU Regim UI 
+DA 1607,53 1724,30 1416,80 968,24 
+DB 1594,48 1659,72 1456,59 855,78 
+DC 1543,89 1568,75 1474,07 1105,49 
+DD 1392,39 1398,49 1372,21 1085,63 
+DE 912,89 871,29 1348,41 1043,55 
+Total 1513,19 1542,43 1442,19 936,44 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+PDF PAGE 47
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 47 
+ 
+ 
+Evoluţia lunară a prețului mediu de furnizare al energiei electrice furnizate clienților 
+finali detaliat pe tip de client și tip de regim de furnizare este prezentată în următoarele grafice: 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+0
+2000
+4000
+6000
+8000
+10000
+12000
+ian-22 feb.-22 mar.-
+22
+apr.-22 mai-22 iun.-22 iul.-22 aug.-22 sept.-
+22
+oct.-22 nov.-22dec.-22 ian.-23 feb.-23 mar.-
+23
+apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-
+23
+oct.-23 nov.-23dec.-23
+lei/MWh
+Evoluția prețurilor medii de furnizare a energiei electrice la clienții finali noncasnici 
+noncasnici - regim concurențial noncasnici - regim UI
+Ordin ANRE. nr.91/2022
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+ian-22 feb.-22 mar.-
+22
+apr.-22 mai-22 iun.-22 iul.-22 aug.-22 sept.-
+22
+oct.-22 nov.-22 dec.-22 ian.-23 feb.-23 mar.-
+23
+apr.-23 mai-23 iun.-23 iul.-23 aug.-23 sept.-
+23
+oct.-23 nov.-23 dec.-23
+lei/MWh
+Evoluția prețurilor medii de furnizare a energiei electrice la clienții casnici 
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+Ordin ANRE. nr.91/2022
+PDF PAGE 48
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 48 
+ 
+Odată cu intrarea în vigoare a Regulamentului de desemnare a furnizorilor de ultimă 
+instanță aprobat prin Ordinul ANRE nr. 91/2022 (în vigoare din 24 iunie 2022) s -a modificat 
+modul de stabilire a prețului de furnizare al energiei electrice pentru clienți finali preluați în 
+regim de UI. 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația 
+clienților intrați în regim UI (preluați automat sau la cerere) în luna de raportare cât și a celor 
+intrați anterior, dar care au rămas în acest regim, la nivelul tuturor furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare). 
+ 
+ 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică 
+ 
+Gradul de concentrare depinde de numărul participanților la PAM și de dimensiunea 
+activității de furnizare pe fiecare segment de clienți sau regim de furnizare . Indicatorii de 
+concentrare sunt de natură să indice existența eventualei posibilități de exercitare a puterii de 
+piață.  
+Prezentăm în continuare, sub formă grafică, cotele de piață (C1) ale participanților activi 
+pe PAM în perioada ianuarie -decembrie 2023 (furnizori concurențiali , furnizorii de ultimă 
+instanţă, producători) din cantitatea totală de energie electrică furnizată clienţilor casnici și finali 
+noncasnici, pentru toate tipurile de regim de furnizare (concurențial, SU, UI). 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Electrica Furnizare; 16.77%
+Hidroelectrica; 13.09%
+PPC Energie; 9.69%
+E.ON Energie Romania; 9.00%
+PPC Energie Muntenia; 8.18%
+CEZ Vanzare; 5.20%
+Engie Romania; 4.06%
+Getica 95 COM; 3.04%
+Nova Power & Gas; 2.84%
+OMV Petrom; 2.36%
+Alro; 2.25%
+Tinmar Energy; 1.94%
+Eye Mall; 1.86%
+Monsson Trading; 1.70%
+Solprim; 1.53%
+Renovatio Trading; 1.47%
+Electrificare C.F.R.; 1.46%
+CE Oltenia; 1.19%
+Energy Distribution Services; 1.17%
+Verbund Wind Power Romania; 1.13%
+Alive Capital; 1.10%
+Altii; 9.00%
+Categoria "Altii" include 72 de furnizori ale caror cote 
+de piata individuale sunt sub 1%Consum final: 46095 GWh 
+Cotele de piata ale furnizorilor de energie electrică pentru clientii  finali
+IANUARIE - DECEMBRIE 2023
+PDF PAGE 49
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 49 
+ 
+ 
+Cotele de piață (C1) ale participanților activi în perioada ianuarie -decembrie 2023 
+(furnizori concurențiali, furnizorii de ultimă instanţă, producători) pe piața concurențială  din 
+cantitatea totală de energie electrică furnizată clienţilor casnici și finali noncasnici  în regim 
+concurențial este prezentată în graficul de mai jos. 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Precizăm că, în calculul de determinare a valorilor indicatorilor de piaţă nu s-a ţinut cont 
+de principiul dominanţei , fiind evidențiată cota fiecărui furnizor în parte, indiferent de 
+apartenența acestuia la un grup de societăți afiliate. Cantitatea de energie electrică furnizată pe 
+baza căreia s-a stabilit cota de piaţă a fiecărui furnizor include consumul la locurile de consum 
+proprii ale marilor clienţi industriali care deţin şi licenţă de furnizare şi care au decis să -şi 
+achiziţioneze energia de pe piaţa angro, în calitate de furnizori concurenţiali.  
+  
+Hidroelectrica; 15.58%
+Electrica Furnizare; 10.45%
+PPC Energie; 9.28%
+PPC Energie Muntenia; 8.31%
+E.ON Energie Romania; 6.57%
+Engie Romania; 4.83%
+CEZ Vanzare; 4.47%
+Getica 95 COM; 3.61%
+Nova Power & Gas; 3.38%
+OMV Petrom; 2.81%
+Alro; 2.68%
+Tinmar Energy; 2.31%
+Eye Mall; 2.21%
+Monsson Trading; 2.02%
+Solprim; 1.82%
+Renovatio Trading; 1.75%
+Electrificare C.F.R.; 1.74%
+CE Oltenia; 1.42%
+Energy Distribution Services; 1.39%
+Verbund Wind Power Romania; 1.34%
+Alive Capital; 1.31%
+Liberty Galati; 1.13%
+Altii; 9.58%
+Categoria "Altii" include 71 de furnizori ale caror cote 
+de piata individuale sunt sub 1%
+Consum clienti alimentati in regim  concurential: 38711 GWh 
+Indicatori concentrare piata:
+HHI - 670; C3 - 35%; C1 - 16%
+Cotele de piata ale furnizorilor de energie electrică pe piața concurențială
+IANUARIE - DECEMBRIE 2023
+PDF PAGE 50
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 50 
+ 
+Valorile indicatorilor de concentrare şi numărul furnizorilor activi în luna decembrie 
+2023, respectiv în anul 2023 la nivelul întregii cantități de energie furnizate  pe PAM sunt 
+prezentați în tabelele următoare, defalcat pe tip de clienți (noncasnici/casnici) și pentru fiecare 
+tranşă de consum.  
+ 
+Indicatori de concentrare 
+Total PAM 
+-Decembrie 2023- 
+ 
+Tranșe consum  
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 43 25 16 15 15 35 19 13 
+C3 (%) 67 59 38 31 36 68 41 30 
+HHI 2300 1465 847 610 734 1966 880 559 
+Consum (GWh) 197 503 291 600 359 147 653 2749 
+Nr. furnizori activi 62 68 56 52 30 11 23 89 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE 
+ 
+ 
+Indicatori de concentrare 
+Total PAM 
+-Anul 2023- 
+ 
+Tranșe consum  
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 39 23 16 19 15 20 16 14 
+C3 (%) 64 61 41 35 37 51 40 32 
+HHI 2089 1520 971 737 743 1190 812 588 
+Consum (GWh) 2378 6000 3408 7546 4440 1911 7320 33003 
+Nr. furnizori activi 65 73 61 55 35 15 27 93 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE 
+ 
+ 
+Indicatori de concentrare  
+Total PAM 
+-Decembrie 2023- 
+ 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 34 37 39 41 83 33 
+C3 (%) 71 70 71 74 94 62 
+HHI 2224 2302 2401 2528 7012 1945 
+Consum (GWh) 211 495 305 124 188 1324 
+Nr. furnizori activi 26 27 25 22 25 32 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+ 
+Indicatori de concentrare  
+Total PAM 
+-Anul 2023- 
+ 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 31 34 34 32 64 32 
+C3 (%) 68 65 63 69 86 61 
+HHI 2066 2028 2009 2039 4367 1890 
+Consum (GWh) 2108 5259 3306 1511 909 13092 
+Nr. furnizori activi 30 31 30 26 27 34 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+PDF PAGE 51
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 51 
+ 
+În mod similar, prezentăm indicatorii de concentrare şi numărul furnizorilor activi în luna 
+decembrie 2023 respectiv în anul 2023  la nivelul componentei concurențiale a energiei electrice 
+furnizate clienților noncasnici/casnici în luna de raportare. 
+Indicatori de concentrare 
+Regim Concurențial 
+-Decembrie 2023- 
+Tranșe consum  
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 32 25 14 16 15 35 19 14 
+C3 (%) 61 52 35 33 36 68 41 29 
+HHI 1692 1294 774 629 734 1966 880 533 
+Consum (GWh) 159 402 254 565 359 147 653 2538 
+Nr. furnizori activi 62 68 56 52 30 11 23 89 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Indicatori de concentrare 
+Regim Concurențial 
+-Anul 2023- 
+Tranșe consum  
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 25 22 13 21 16 20 16 15 
+C3 (%) 57 52 39 35 38 51 40 29 
+HHI 1486 1260 898 771 758 1215 812 551 
+Consum (GWh) 1744 4439 2806 6841 4332 1890 7320 29373 
+Nr. furnizori activi 65 73 61 55 34 15 26 93 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Indicatori de concentrare 
+Regim Concurențial 
+-Decembrie 2023- 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 26 28 27 29 87 23 
+C3 (%) 70 69 68 72 94 58 
+HHI 2008 1994 2012 2121 7599 1668 
+Consum (GWh) 134 333 218 90 180 954 
+Nr. furnizori activi 26 27 25 22 25 32 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+ 
+Indicatori de concentrare 
+Regim Concurențial 
+-Anul 2023- 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 23 24 22 28 70 21 
+C3 (%) 66 62 60 67 87 57 
+HHI 1874 1715 1685 1917 5076 1638 
+Consum (GWh) 1315 3587 2442 1166 829 9338 
+Nr. furnizori activi 30 31 30 26 27 34 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare CMPEE  
+  
+PDF PAGE 52
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 52 
+ 
+ 
+IV. STRUCTURA PE TIPURI DE SURSE PRIMARE DE ENERGIE A PRODUCȚIEI 
+DE ENERGIE ELECTRICĂ DIN ROMÂNIA ȘI VALORILE INDICATORILOR DE 
+MEDIU ASOCIAȚI ENERGIEI ELECTRICE PRODUSE LA NIVEL NAȚIONAL, 
+PENTRU FIECARE TIP DE SURSĂ PRIMARĂ 
+ 
+În conformitate cu prevederile Regulamentului de etichetare a energiei electrice, aprobat 
+prin Ordinul președintelui ANRE nr. 61/2016, cu modificările și completările ulterioare, 
+prezentăm structura pe tipuri de surse primare de energie a producției de energie electrică din 
+România pentru anul de referință 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PDF PAGE 53
+                                       Raport monitorizare piaţă de energie electrică – luna decembrie 2023 
+ 53 
+ 
+Valorile specifice medii ale emisiilor de CO 2 pe tipuri de surse primare  de energie , 
+prezentate în tabelul următor, sunt determinate ca medie ponderată a emisiei specifice realizate 
+și a energiei electrice produse de fiecare producător pe fiecare tip de sursă primară: 
+ 
+ 
+Sursă primară de energie 
+ 
+Emisii specifice  
+CO2 [g/kWh] 
+Cărbune 827.87 
+Gaze naturale 382.09 
+Păcură 646.92 
+Alte surse convenţionale 467.68 
+Surse regenerabile 0 
+Media sectorială 172.21 
+ 
+ 
+ 
+ 
+ 

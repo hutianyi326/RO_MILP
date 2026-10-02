@@ -1,0 +1,17 @@
+{
+  "id": "TSO_STS_PROCEDURES",
+  "url": "https://www.transelectrica.ro/web/tel/piata-sts",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:14:06.775836+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/web/tel/piata-sts",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_STS_PROCEDURES__a1/original.html",
+  "sha256": "901e7a649d99ad4bd6457bbd13315a37c86a6d73f67c0d458f055462c6763ca5",
+  "bytes": 43805,
+  "detected_format": "html"
+}

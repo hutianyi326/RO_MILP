@@ -1,0 +1,830 @@
+PAGE 1
+ 
+ 
+ 
+Compania Naţională de Transport al Energiei Electrice 
+TRANSELECTRICA SA 
+ 
+Nr. 14831 / 11.04.2019 
+SE APROBĂ, 
+DIRECTORAT 
+ 
+ 
+Preşedinte Directorat Membru Directorat Membru Directorat 
+Marius – Dănuț CARAȘOL Claudia – Gina ANASTASE Adrian SAVU 
+ 
+ 
+ 
+ 
+ 
+PROCEDURĂ OPERAŢIONALĂ 
+ 
+MONITORIZAREA FUNCŢIONĂRII PIEŢELOR DIN RESPONSABILITATEA OTS 
+ 
+COD: TEL-07.V OS – DN/265 
+Ediția: I 
+Revizie: 0 
+ 
+Nr. 
+Crt. 
+Elemente 
+privind 
+responsabilii 
+Prenume și Nume Funcția Data Semnătura 
+1.1 Avizat Constantin 
+SARAGEA 
+Preşedinte CM_SCIM   
+Ion SMEEIANU Director DMIPCEIE   
+Eugen SANDU p. Inspector șef   
+Virgiliu IVAN Director UNO – DEN   
+1.2 Verificat Octavia – Valentina 
+UNGUROIU 
+Manager energetic 
+MP 
+  
+1.1 Elaborat Mihaela – Stanca 
+PETRESCU 
+Ioana CRACIUN 
+Specialist DEN MP 
+ 
+Specialist DEN MP 
+  
+ 
+Drept de proprietate 
+ 
+Prezenta procedură este proprietatea Companiei Naţionale de Transport al Energiei 
+Electrice C.N.T.E.E. Transelectrica S.A. Multiplicarea şi utilizarea parţială sau totală a acestui 
+document este permisă numai cu acordul scris al conducerii C.N.T.E.E. Transelectrica S.A. 
+ 
+ 
+martie 2019 
+PAGE 2
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 2/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+2 SITUAŢIA EDIŢIILOR ŞI A REVIZIILOR 
+PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor din responsabilitatea OTS 
+ 
+Nr. 
+crt. 
+Ediția sau, 
+după caz, 
+revizia în 
+cadrul ediţiei 
+Componența revizuită Modalitatea 
+reviziei 
+Data la care se 
+aplică prevederile 
+ediţiei sau reviziei 
+editiei 
+0 1 2 3 4 
+1 Editia 0,  
+Revizia 0 
+Preluare prevederi Ordin ANRE nr. 
+57/2005 de aprobare a Metodologiei 
+de monitorizare a pieţei angro de 
+energie electrică pentru aprecierea 
+nivelului de concurenţă pe piaţă şi 
+prevenirea abuzului de poziţie 
+dominantă – cod 
+ANRE:35.2.407.0.01.07/12/2006 
+Elaborare 
+inițială 
+Iunie 2006 
+1 Editia 0,  
+Revizia 1 
+Preluare prevederi Ordin ANRE nr. 
+35/2006 de aprobare a Metodologiei 
+de monitorizare a pieţei angro de 
+energie electrică pentru aprecierea 
+nivelului de concurenţă pe piaţă şi 
+prevenirea abuzului de poziţie 
+dominantă – cod 
+ANRE:35.2.407.0.01.07/12/2006 
+(Revizia 1) si a Ordinului ANRE nr. 
+19/2007 de aprobare a Metodologiei 
+de stabilire, implementare şi utilizare 
+a serviciului tehnologic de sistem 
+rezervă de capacitate. 
+Revizie Noiembrie 2007 
+2 Editia 0,  
+Revizia 2 
+Actualizare în conformitate cu: 
+a) prevederile P.O. Elaborarea 
+procedurilor şi instrucţiunilor de 
+lucru COD TEL – 03.01, revizia 7; 
+b) organigrama C.N.T.E.E 
+Transelectrica S.A. în vigoare; 
+c) integrarea pieţelor monitorizate 
+într-o singură platformă 
+informatică (DAMAS), 
+introducerea alocării de 
+capacitate pe liniile de 
+interconexiune cu rezoluţie zilnică 
+şi intrazilnică şi revizuirea 
+cadrului de reglementare privind 
+Revizie Iunie 2015 
+PAGE 3
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 3/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+funcţionarea pieţei de echilibrare. 
+3 Editia I,  
+Revizia 0 
+Preluare prevederi Ordin ANRE nr. 
+67/2018 de aprobare a Metodologiei 
+de monitorizare a pieţei angro de 
+energie electrică 
+Revizie 
+totală 
+Decembrie 2018 
+  
+3 LISTA DE DIFUZARE 
+Document difuzat: Procedura Operaţională 
+Denumire: Monitorizarea funcţionării pieţelor din responsabilitatea OTS 
+Cod: COD: TEL-07.V OS – DN/265 
+Ediția I 
+Revizia 0 
+ 
+Nr. 
+crt. 
+Scopul 
+difuzării 
+Exemplar 
+nr. 
+Compartiment Funcția Numele și 
+prenumele 
+Data 
+primirii 
+Semnătura 
+0 1 2 3 4 5 6 7 
+3.1 Avizare Original +  
+Format 
+electronic 
+ANRE - - - - 
+3.2 Aplicare Format 
+electronic 
+UNO-DEN, 
+MP 
+ 
+Toţi 
+angajaţii 
+ Data 
+postării 
+pe site 
+ 
+3.3 Informare N/A    Data 
+postării 
+pe site 
+N/A 
+3.4  Evidența original DMIPCEIE 
+ 
+IMC  …  
+3.5 Arhivare E1  
+(copie 
+martor) 
+UNO-DEN, 
+MP 
+ 
+ 
+Manager 
+energetic 
+MP 
+ 
+Unguroiu 
+Octavia 
+…  
+3.6 Alte 
+scopuri 
+-      
+ 
+PAGE 4
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 4/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+4 SCOP 
+Procedura are drept scop stabilirea modului de lucru privind monitorizarea şi evaluarea funcţionării 
+pieţelor centralizate administrate de OTS, pentru aprecierea nivelului de eficienţă şi concurenţă pe 
+piaţă şi pentru prevenirea practicilor anticoncurenţiale. 
+5 DOMENIUL DE APLICARE 
+Prezenta procedură se aplică de către C.N.T.E.E. Transelectrica S.A. , în activitatea de monitorizare 
+a funcţionării Pieţei de Echilibrare, Pieţei de Servicii Tehnologice de Sistem şi Pieţei pentru Alocarea 
+Capacităţilor de Interconexiune. 
+6 DOCUMENTE DE REFERINȚĂ 
+6.1  Regulamentul de funcţionare şi de decontare a pieţei de echilibrare şi Regulamentul de calcul 
+şi de decontare a dezechilibrelor părţilor responsabile cu echilibrare şi pentru modificarea, 
+completarea şi abrogarea unor dispoziţii din sectorul energiei elect rice, aprobate prin Ordinul 
+ANRE nr. 31/2018; 
+6.2  Regulamentul de programare a unităţilor de producţie şi a consumatorilor dispecerizabili 
+aprobat prin Ordinul ANRE nr. 32/2013, cu modificările si completările ulterioare; 
+6.3  Legea Energiei nr.123/2012 cu modificările şi completările ulterioare; 
+6.4  Metodologia de monitorizare a pieţei angro de energie electrică aprobată prin Ordinul ANRE 
+nr. 67/2018; 
+6.5 Regulamentul (UE) nr. 1227/2011 al Parlamentului European și al Consiliului din 25 octombrie 
+2011 privind integritatea și transparența pieței angro de energie; 
+6.6 Procedura „Determinarea energiei disponibile pentru echilibrare”, cod TEL-.07.VI ECH-DN/19, 
+versiunea în vigoare; 
+6.7 Procedura „Monitorizarea dezechilibrelor Părţilor Responsabile cu Echilibrarea”, cod         
+TEL-07.VI ECH-DN/17, versiunea în vigoare. 
+7 DEFINIȚII ȘI ABREVIERI 
+7.1 Definiții 
+Termenii definiţi în Documentele de Referinţă menţionate la punctul 6 , au aceeaşi semnificaţie şi în 
+prezenta procedură. În înţelesul prezentei proceduri, termenii folosiţi au semnificaţiile precizate mai 
+jos. 
+7.1.1 Platforma DAMAS = sistem informatic care integrează Piaţa de Echilibrare, Piaţa de Servicii 
+Tehnologice de Sistem şi Piaţa pentru Alocarea Capacităţilor de Interconexiune; 
+7.1.2 Oficiul de licitaţie = entitatea din cadrul OTS care execută procedurile de licitaţie pe PACI; 
+7.1.3 Platforma unică de alocare = platforma europeană înființată de către toți OTS pentru alocarea 
+capacităților de interconexiune pe termen lung; 
+7.1.4 Energia disponibilă pentru echilibrare = energia ce poate fi pusă la dispoziţie pe PE de o UD, 
+determinată conform PO cod TEL -.07.VI ECH -DN/19 versiunea în vigoare, pe tip de reglaj 
+pentru fiecare ID, în funcţie de caracteristicile tehnice şi notificările fizice finale pentru ziua de 
+PAGE 5
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 5/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+livrare. 
+ 
+7.2 Abrevieri 
+Abrevierile utilizate în prezenta procedură au semnificaţiile precizate mai jos. Abrevierile utilizate în 
+Documentele de Referinţă menţionate la punctul 6, au aceeaşi semnificaţie şi în prezenta procedură. 
+7.2.1 MP – entitatea de monitorizare pieţe din cadrul OTS 
+7.2.2 OPSTS – Operatorul Pieţei de Servicii Tehnologice de Sistem 
+7.2.3 OPE – Operatorul Pieţei de Echilibrare 
+7.2.4 OTS – Operatorul de Transport şi de Sistem 
+7.2.5 PACI – Piaţa pentru Alocarea Capacităţilor de Interconexiune 
+7.2.6 PE – Piaţa de Echilibrare 
+7.2.7 PSTS – Piaţa de Servicii Tehnologice de Sistem 
+7.2.8 PZU – Piaţa pentru Ziua Următoare 
+7.2.9 SEN – Sistemul Electroenergetic Naţional 
+7.2.10 RPUPCD – Regulamentul de programare a unităţilor de producţie şi a consumatorilor 
+dispecerizabili aprobat prin Ordinul ANRE nr. 32/2013, cu modificările si completările 
+ulterioare 
+7.2.11 ODPE – operatorul de decontare a pieţei de echilibrare 
+ 
+8 MOD DE LUCRU 
+8.1 Informaţii prelucrate în vederea monitorizării pieţelor 
+8.1.1 Informaţii zilnice preluate din Platforma DAMAS / furnizate, în format electronic, de OPE 
+în vederea monitorizării PE 
+a) ofertele zilnice transmise de participanţii la PE (pe ID/UD); 
+b) declaraţiile de disponibilitate, inclusiv justificările pentru reducerile de disponibilitate: 
+1. transmise în ziua anterioară zilei de livrare înainte de ora limită prevăzută în RPUPCD 
+(ultima comunicată); 
+2. generate automat în Platforma DAMAS conform prevederilor din RPUPCD; 
+3. actualizate de PPE / PRE după ora limită de transmitere din ziua anterioară zilei  de 
+livrare, conform prevederilor RPUPCD; 
+c) ordinele de merit utilizate pe PE, pe tip de reglaj;  
+d) ofertele fixe (pentru fiecare UD calificată pentru reglaj terţiar lent şi pentru fiecare CD); 
+e) producţiile notificate: 
+1. transmise de PRE în ziua anterioară zilei  de livrare înainte de ora limită prevăzută în 
+RPUPCD; 
+2. implicite, generate automat în Platforma DAMAS conform prevederilor RPUPCD; 
+3. rezultate prin modificarea notificărilor fizice aprobate, după ora limită de transmitere din 
+ziua anterioară zilei de livrare, conform prevederilor RPUPCD; 
+PAGE 6
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 6/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+f) schimburile nearmonizate între PRE, separat pentru fiecare zonă de tranzacţionare şi ID şi 
+valorile stabilite prin corectarea automată în Platforma DAMAS conform prevederilor 
+RPUPCD; 
+g) exporturile / importurile notificate separat pentru fiecare graniţă; 
+h) consumul notificat de fiecare PRE; 
+i) consumul planificat, pentru fiecare CD; 
+j) notificările în dezechilibru ale PRE; 
+k) energiile selectate pentru echilibrare şi pentru managementul congestiilor de reţea pentru 
+fiecare tip de reglaj (inclusiv banda de reglaj secundar), pe ID/UD/ agregate pe PPE şi ID; 
+l) preţurile energiilor de echilibrare selectate pe tip de reglaj (pe ID/UD); 
+m) alte informaţii rezultate din procesul de operare a PE, transmise într -un format convenit, 
+necesare pentru efectuarea de către MP a unor analize specifice. 
+Înregistrările vor fi asociate cu:  
+1. codul de identificare al participantului 
+2. ziua de livrare 
+3. intervalul de dispecerizare ID 
+4. marca de timp corespunzatoare intrării în platforma IT 
+8.1.2 Informaţii lunare preluate din Platforma DAMAS / furnizate, în format electronic, de OPE 
+în vederea monitorizării PE 
+a) tranzacţiile angajate pe PE (energii şi preţuri) pentru fiecare UD, pe tip de reglaj , pentru 
+fiecare ID, din care separat tranzacţiile angajate marcate pentru managementul congestiilor , 
+tranzacţiile virtuale şi tranzacţiile marcate ca anulate pentru managementul congestiilor; 
+b) tranzacţiile definitive pe PE (energii efectiv livrate şi preţuri) pentru fiecare UD, pe  tip de 
+reglaj, pentru fiecare ID , din care separat tranzacţiile pentru managementul congestiilor  şi 
+tranzacţiile înlocuitoare ale tranzacţiilor angajate marcate ca anulate; 
+c) alte informaţii rezultate din procesul de operare a PE, transmise într -un format convenit, 
+necesare pentru efectuarea de către MP a unor analize specifice. 
+8.1.3 Informaţii lunare preluate de pe website -ul ODPE / furnizate, în format electronic, de 
+ODPE în vederea monitorizării PE 
+a) costurile / veniturile rezultate din echilibrarea sistemului, separat pentru fiecare ID din luna de 
+livrare; 
+b) surplusul de costuri  / deficitul de venituri rezultat din managementul congestiilor de reţea, 
+separat pentru fiecare ID din luna de livrare; 
+c) costurile pentru managementul congestiilor de reţea în luna de livrare; 
+d) costurile efective pentru echilibrarea sistemului în luna de livrare; 
+e) preţurile de deficit şi excedent pe PE; 
+f) nota de informare pentru decontarea lunară a PPE; 
+g) nota de informare pentru decontarea lunară a dezechilibrelor PRE; 
+h) nota de informare pentru decontarea redistribuirii costurilor / veniturilor suplimentare provenite 
+din echilibrarea sistemului; 
+i) situaţia lunară a dezechilibrelor cantitative şi valorice ale fiecărei PRE , pentru fiecare ID din 
+luna de livrare; 
+j) alte informaţii rezultate din procesul de decontare a PE, transmise într -un format convenit, 
+necesare pentru efectuarea de către MP a unor analize specifice. 
+PAGE 7
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 7/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+8.1.4 Informaţii preluate din Platforma DAMAS / furnizate de OPSTS, în vederea monitorizării 
+PSTS 
+a) cantităţile şi preţurile ofertate de participanţii la licitaţii, pentru fiecare tip de rezervă, pentru 
+fiecare zi de livrare şi ID; 
+b) cantităţile de rezerve contractate pe participant (în regim concurenţial şi distinct, în regim 
+reglementat) şi preţurile de achiziţie,  pentru fiecare tip de rezervă, pentru fiecare zi de livrare 
+şi ID; 
+c) cesionările pentru fiecare tip de rezervă: deţinătorul iniţial al rezervei contractate, deţinătorul 
+final al rezervei contractate, valoarea cesionată şi perioada de cesionare; 
+d) alte informaţii rezultate din procesul de administrare a PSTS, transmise într -un format 
+convenit, necesare pentru efectuarea de către MP a unor analize specifice. 
+8.1.5 Informaţii preluate din Platforma DAMAS / Platforma unică de alocare  (în limita 
+prevederilor contractuale) / furnizate de Oficiul de Licitaţii  / OTS vecin (în limita 
+prevederilor contractuale), în vederea monitorizării PACI (alocări pe termen lung) 
+a) capacitatea de transfer disponibilă şi intervalul de timp corespunzător, pen tru fiecare graniţă, 
+pentru fiecare direcţie (import/export) şi pentru fiecare sesiune de alocare;  
+b) capacitatea solicitată şi preţurile ofertate de fiecare participant la licitaţiile pentru alocarea de 
+capacitate, pentru fiecare graniţă şi pentru fiecare direcţie (import/export), cu precizarea 
+intervalului de timp corespunzător, pentru fiecare sesiune de alocare; 
+c) capacitatea alocată fiecărui participant la licitaţiile pentru alocarea de capacitate, pentru 
+fiecare graniţă şi pentru fiecare direcţie (import/export); 
+d) preţurile de închidere a licitaţiilor pentru fiecare graniţă şi direcţie; 
+e) transferurile de capacitate pentru fiecare graniţă şi pentru fiecare direcţie (import/export): 
+deţinătorul iniţial al capacităţii, deţinătorul final al capacităţii, valoarea capacităţii transferate cu 
+identificarea sursei dreptului de capacitate (ex. licitaţie anuală; licitatie lunară), perioada de 
+transfer; 
+f) remunerare participanţi în baza principiului „utilizează sau vinde” (UIOSI); 
+g) alte informaţii rezultate din procesul de operare a PACI,  transmise într -un format convenit, 
+necesare pentru efectuarea de către MP a unor analize specifice. 
+8.1.6 Informaţii preluate din Platforma DAMAS / furnizate de Oficiul de Licitaţii / OTS vecin (în 
+limita prevederilor contractuale) , în vederea monitorizării PACI (alocări zilnice şi 
+intrazilnice) 
+a) capacitatea de transfer disponibilă/oferită la alocarea zilnică şi intrazilnică de capacitate, 
+pentru fiecare graniţă şi pentru fiecare direcţie (rapoarte cu rezoluţie orară); 
+b) capacităţile solicitate şi preţurile ofertate de fiecare participant la licitaţiile explicite pentru 
+alocarea zilnică şi intrazilnică pe capacitate, pentru fiecare graniţă şi pentru fiecare direcţie 
+(rapoarte cu rezolutie orară); 
+c) capacităţile alocate fiecărui participant la licitaţi ile explicite pentru alocarea zilnică şi 
+intrazilnică de capacitate, pentru fiecare direcţie şi pentru fiecare graniţă (rapoarte cu rezolutie 
+orară); 
+d) preţurile de închidere a licitaţiilor explicite zilnice şi intrazilnice pentru fiecare graniţă şi direcţie 
+(rapoarte cu rezoluţie orară); 
+e) poziţia netă şi preţul congestiei rezultate pe graniţe în cazul alocărilor implicite de capacitate 
+(rapoarte cu rezolutie orară); 
+PAGE 8
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 8/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+f) alte informaţii rezultate din procesul de operare a PACI, transmise într -un format convenit, 
+necesare pentru efectuarea de către MP a unor analize specifice. 
+8.2 Monitorizarea respectării regulilor de piaţă 
+8.2.1 Platforma DAMAS verifică automat din punct de vedere al respectării formei şi conţinutului  
+datele introduse de participanţi , respectiv notificări le fizice, declaraţii le de disponibilitate  şi 
+ofertele (PE, PSTS, PACI), realizându-se astfel o monitorizare proactivă, de tip preventiv, prin 
+validarea / invalidarea datelor introduse de participanţi, anterior momentului de livrare; 
+8.2.2 Mesajele de confirmare /  de eroare rezultate în urma validării sunt transmise participanţilor 
+automat, într-un format standard , pe aceeaşi cale pe care a fost recepţionată informaţia 
+iniţială, fiind stocate în Platforma DAMAS pentru eventuale analize ulterioare; 
+8.2.3 Pe baza informaţiilor de la  art. 8.1., MP verif ică respectarea regulilor de piaţă, urmărind 
+detectarea cauzelor care duc la încălcarea regulilor şi găsirea soluţiilor pentru evitarea lor în 
+viitor. 
+8.3 Monitorizarea funcţionării pieţelor 
+8.3.1 Indicatori de eficienţă / performanţă ai Pieţelor 
+În scopul evaluării eficienţei şi performanţelor pieţelor,  reflectate în principal în nivelul preţurilor 
+rezultate, MP urmăreşte: 
+a) energia disponibilă pentru echilibrare (creştere / reducere), separat pe fiecare tip de reglaj, pe 
+ID şi UD / agregate pe PPE şi ID (interval de procesare zilnic / lunar / anual); 
+b) preţurile de ofertă pe PE: valori minime, maxime, medii ponderate la creştere / reducere 
+(interval de procesare zilnic / lunar / anual); 
+c) volumele tranzacţionate pe PE şi preţurile asociate pentru fiecare tip de reglaj şi fiecare ID: 
+valori minime, maxime, distribuţie statistică, procent din total consum, comparaţie între preţul 
+pe PE şi preţul pe PZU (interval de procesare zilnic / lunar / anual); 
+d) costurile congestiilor raportate la costurile totale ale energiei de echilibrare  (interval de 
+procesare lunar / anual); 
+e) gradul de corelare între preţurile pe PE şi volumele tranzacţionate (interval de procesare lunar 
+/ anual); 
+f) gradul de corelare între preţurile pe PE / deficit / excedent şi consumul intern  (interval de 
+procesare lunar / anual); 
+g) volatilitatea preţurilor de deficit şi excedent (interval de procesare lunar / anual); 
+h) prognoza de consum pe total SEN  comparativ cu valoarea consumului realizat  pentru fiecare 
+ID: diferenţe minime, maxime, distribuţie statistică (interval de procesare zilnic / lunar / anual); 
+i) suma între producţia notificată şi soldul schimburilor programate de energie electrică 
+comparativ cu prognoza de consum / consumul realizat pentru fiecare ID (interv al de 
+procesare zilnic / lunar / anual); 
+j) rezerva de energie la vârful de sarcină a sistemului (interval de procesare zilnic); 
+k) capacitatea de producere disponibilă / indisponibilă în sistem pentru fiecare ID ( interval de 
+procesare zilnic / lunar / anual); 
+l) capacitatea de producere nou instalată în cursul anului de raportare ( interval de procesare  
+anual); 
+PAGE 9
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 9/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+m) capacitatea de producere scoasă din funcţiune în cursul anului de raportare ( interval de 
+procesare anual); 
+n) preţuri pe contractele de servicii tehnologice de  sistem pe tipuri de rezerve  şi participanţi  
+(interval de procesare lunar / anual); 
+o) volumele ofertate / tranzacţionate pe PSTS, pe tipuri de rezerve (interval de procesare lunar / 
+anual); 
+p) capacitatea de transfer pe liniile de interconexiune: valori oferite, solicitate şi alocate, preţurile 
+oferite şi preţurile de închidere a licitaţiilor pentru fiecare graniţă, pentru fiecare direcţie, 
+pentru fiecare interval de alocare, comparaţie cu perioadele anterioare  (interval de procesare 
+zilnic / lunar / anual); 
+q) gradul de utilizare a capacităţii de transfer pe liniile de interconexiune pe direcţie (import / 
+export) şi graniţe (interval de procesare lunar / anual); 
+r) schimburi comerciale de import / export pe graniţe (interval de procesare zilnic / lunar / anual). 
+ 
+8.3.2 Indicatori de structură / concentrare ai Pieţelor 
+Pentru a identifica participanţii care deţin o pozitie dominantă pe piaţă şi gradul de concentrare a 
+pieţelor MP determină şi analizează: 
+ 
+8.3.2.1 Cota de piaţă a celui mai mare participant la piaţă – C1 [%]: 
+ 
+a) se calculează cotele de piaţă ale producătorilor din punct de vedere al capacităţii 
+instalate la nivel de sistem şi se determină cea mai mare valoare, respectiv indicatorul 
+C1 (anual); 
+b) se calculează cota fiecărui participant pe PE, pe tip de reglaj, din punct de vedere al 
+energiei disponibile pentru echilibrare şi al volumului tranzacţionat şi se determină 
+indicatorul C1 pe tip de reglaj (lunar / anual / intervale orare relevante); 
+c) se calculează cota fiecărui participant pe PSTS, pe tip de rezervă, din punct de vedere 
+al rezervei contractate şi se determină indicatorul C1 pe tip de rezervă (lunar / anual / 
+intervale orare relevante); 
+d) se calculează cota fiecărui participant pe PACI, pe gra niţă şi direcţie, din punct de 
+vedere al capacităţii alocate în mod explicit şi se determină indicatorul C1 pe graniţă şi 
+direcţie (pe intervale de alocare / lunar); 
+Semnificaţia valorilor indicatorului C1este: 
+o C1 > 20 %, concentrare îngrijorătoare pentru piaţă; 
+o C1 > 40 %, posibila existenţă a unei poziţii dominante pe piaţă; 
+o C1 > 50 %, indicarea existenţei unei poziţii dominante pe piaţă. 
+ 
+8.3.2.2 Suma cotelor de piaţă ale celor mai mari trei participanţi – C3 [%]: 
+ 
+a) se calculează cotele de piaţă ale producătorilor  din punct de vedere al capacităţii 
+instalate la nivel de sistem şi se determină indicatorul C3 (anual); 
+PAGE 10
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 10/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+b) se calculează cota fiecărui participant pe PE, pe tip de reglaj, din punct de vedere al 
+energiei disponibile pentru echilibrare şi al volumului tranzacţionat şi se determină 
+indicatorul C3 pe tip de reglaj (lunar / anual / intervale orare relevante); 
+c) se calculează cota fiecărui participant pe PSTS, pe tip de rezervă, din punct de vedere 
+al rezervei contractate şi se determină indicatorul C3 pe tip  de rezervă (lunar / anual / 
+intervale orare relevante); 
+d) se calculează cota fiecărui participant pe PACI, pe graniţă şi direcţie, din punct de 
+vedere al capacităţii alocate în mod explicit şi se determină indicatorul C3 pe graniţă şi 
+direcţie (pe intervale de alocare / lunar). 
+Semnificaţia valorilor indicatorului C3 este: 
+o 40 % < C3 < 70 %, concentrare moderată a puterii de piaţă; 
+o 70 % < C3 < 100 %, concentrare ridicată a puterii de piaţă. 
+ 
+8.3.2.3 Indicatorul Hirschman – Herfindahl (HHI): 
+ 
+a) se însumează pătratele co telor de piaţă ale producătorilor calculate din punct de 
+vedere al capacităţii instalate la nivel de sistem şi se determină indicatorul HHI pe 
+capacităţi instalate (anual); 
+b) prin însumarea pătratelor cotelor de piaţă  ale participanţilor pe PE, calculate din punct 
+de vedere al energiei disponibile pentru echilibrare , respectiv al volumelor 
+tranzacţionate pe PE, se determină indicatorul HHI corespunzător pe tip de reglaj  
+(lunar / anual / intervale orare relevante); 
+c) prin însumarea pătratelor cotelo r de piaţă ale participanţilor pe PSTS  calculate din 
+punct de vedere al rezervelor contractate , se determină indicatorul HHI pe tip de 
+rezervă (lunar / anual / intervale orare relevante); 
+d) prin însumarea pătratelor cotelor de piaţă ale participanţilor pe PA CI din punct de 
+vedere al capacităţilor alocate  in mod explicit , se determină indicatorul HHI pe graniţă 
+şi direcţie (pe intervale de alocare / lunar) 
+Semnificaţia valorilor HHI este următoarea: 
+o HHI tinde la 0, concurenţă perfectă; 
+o HHI < 1000, piaţă neconcentrată;  
+o 1000 < HHI < 1800, piaţă moderat concentrată; 
+o HHI > 1800, piaţă cu concentrare ridicată (excesiv concentrată);  
+o HHI = 10000, monopol; 
+ 
+8.3.2.4 Indicatorii producătorului determinant (PSI / RSI): 
+ 
+a) PSI se calculează de către MP pentru fiecare participant la PE, pe baza energiei 
+disponibile pentru echilibrare  pe tip de reglaj  (ofertei disponibile ) a producător ilor 
+participanţi la PE şi a energiei de echilibrare totale efectiv livrate pe tip de reglaj,  
+determinându-se astfel intervalele orare în care un participant a fost absolut necesar 
+acoperirii cererii de energie de echilibrare; 
+PAGE 11
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 11/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+b) indicatorul PSI  se determină orar, pentru fiecare participant la PE, la creştere  / 
+reducere de putere, pentru fiecare tip de reglaj, prin interpretarea rezultatelor obţinute 
+cu următoarea formulă: 
+      
+∑               
+   
+∑        
+   
+ 
+ 
+în care: 
+k, j = indici ai producătorilor / participanţilor la piaţă; 
+N = numărul producătorilor / participanţilor la piaţă; 
+i = intervalul orar; 
+EDk,j (i) = energia disponibilă pentru echilibrare  a producătorului  / participantului la 
+piaţă în ora i; 
+ELk (i) = energia efectiv livrată de producătorul / participantul la piaţă în ora i. 
+ 
+c) PSI este egal cu 1 dacă raportul rj este subunitar şi 0 dacă raportul rj este supraunitar; 
+d) indicatorul RSI este o formă a lui PSI, calculat pentru participantul / producătorul cu 
+cea mai mare ofertă disponibilă în ora i 
+Semnificaţia valorilor PSI/RSI este următoarea:  
+o PSI = 1 producătorul  / participantul la piaţă respectiv este considerat determinant – în 
+acest caz respectivul producător / participant poate controla preţul; 
+o Testul Sheffrin: RSI exprimat procentual trebuie să fie mai mic de 110% pentru mai 
+puţin de 5% din intervalele orare ale  unui an calendaristic, pentru ca pe o piaţă să se 
+manifeste corect concurenţa. 
+ 
+8.3.2.5 Numărul minim al producătorilor reziduali (NPS): 
+ 
+a) se defineşte ca fiind numărul minim al producătorilor / participanţilor (dat de numărul de 
+ordine al ultimului producător / participant det erminant) care împreună sunt strict 
+necesari pentru asigurarea cererii pieţei într-un anumit interval orar. Indicatorul NPS pe 
+PE rezultă după echilibrarea relaţiei: 
+∑   
+ 
+   
+      ∑       ∑   
+ 
+   
+   
+   
+   
+ 
+ în care: 
+k = indice al producătorilor / participanţilor la piaţă; 
+N = numărul producătorilor / participanţilor la piaţă; 
+j = indice al producătorilor / participanţilor la piaţă ordonaţi descrescător după mărime 
+(j=1 fiind cel mai mare); 
+i intervalul orar; 
+PAGE 12
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 12/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+EDk,j (i) = energia disponibilă pentru echilibrare a producătorului / participantului la 
+piaţă în ora i; 
+ELk (i) = energia efectiv livrată de producătorul / participantul la piaţă în ora i. 
+ 
+Semnificaţia valorilor NPS este următoarea:  
+o NPS ≤ 4 oferă informaţii cu privire la posibilitatea existenţei unor înţelegeri între 
+producători / participanţi la piaţă; 
+8.3.3 Indicatori de evaluare a comportamentului participanţilor la piaţă 
+Pentru identificarea eventualelor situaţii de comportament anormal, inadecvat sau anticoncurenţial al 
+participanţilor la piaţă, se monitorizează: 
+ 
+a) evoluţia modului de ofertare a fiecărui participant la piaţă şi schimbările importante în 
+modul de ofertare (oferte la preţuri excesiv de mari / mici, cantităţi neobişnuite ofertate 
+etc.); în cazul PSTS şi PACI (alocări pe termen lung), MP depune eforturi pentru 
+realizarea unei monitorizări proactive, încă din etapa de ofertare, anterioară 
+momentului tranzacţionării / livrării; 
+b) energia disponibilă pentru echilibrare pentru fiecare UD şi ID, comparativ cu rezervele 
+contractate ca servicii tehnologice de sistem; 
+c) schimbările intervenite în programele de funcţionare ale UD; 
+d) realizarea sistematică de notificări fizice în dezechilibru  cu valori semnificative în 
+conformitate cu prevederile PO „Monitorizarea dezechilibrelor Părţilor Responsabile cu 
+Echilibrarea”, cod TEL-.07.VI ECH-DN/17, versiunea în vigoare;  
+e) greşelile frecvente în întocmirea ofertelor / notificărilor; 
+f) curba clasată anuală a valorilor orare ale PSI. 
+8.4 Acţiuni întreprinse de MP ca rezultat al monitorizării pieţelor 
+8.4.1 Dacă MP identifică încălcarea unor reguli  sau suspectează un comportament anormal, 
+inadecvat sau anticoncurenţial al participanţilor la piaţă, întreprinde următoarele acţiuni: 
+a) solicită informaţii şi explicaţii suplimentare de la participantul în cauză şi/sau de la 
+operatorii pieţelor monitorizate; 
+b) informează intern conducerea companiei în vederea analizării situaţiei şi luării 
+măsurilor care se impun , ţinând  cont de cauza neconformităţii (ex. determinate de 
+platforma IT), durata neconformităţii până la soluţionare, efectul cumulativ al mai multor 
+neconformităţi constatate, acţiunile întreprinse de către participant în vederea 
+soluţionării situaţiei; 
+c) atenţionează participantul în cauză sau nu întreprinde nicio acţiune ulterioară, în cazul 
+unor încălcări minore şi întamplătoare , rezultate în urma unor erori sau al lipsei unor 
+proceduri adecvate; 
+d) informează în cel mai scurt timp ANRE, şi dacă situaţia o cere  alte instituţii (de ex. 
+Consiliul Concurenţei, ACER),  în cazul în care neconformitatea constatată poate 
+influenţa semnificativ funcţionarea sau performanţele pieţei  sau există suspiciuni de 
+comportament anormal, inadecvat sau anticoncurenţial al participanţilor la piaţă; 
+PAGE 13
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 13/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+e) propune către ANRE soluţii de remediere a situaţiei constatate (schimbarea unor 
+reguli, aplicarea unor sancţiuni, suspendarea participantului); 
+8.4.2 MP elaborează rapoarte, analize sau informări interne către conducerea companiei care 
+includ, după caz: 
+a) aprecieri cu privire la structura şi performanţele pieţelor supravegheate bazate pe 
+indicatorii precizaţi în prezenta procedură; 
+b) identificarea cazurilor de funcţionare inadecvată a pieţelor şi a cauzelor posibile care 
+le-au provocat; 
+c) analiza cazurilor susceptibile de comportament anormal, inadecvat sau 
+anticoncurenţial al participanţilor la piaţă, împreună cu acţiunile întreprinse / informaţiile 
+culese în scopul analizării situaţiilor semnalate, până la data întocmirii raportului; 
+d) analiza cazurilor susceptibile de posibil abuz de piaţă conform REMIT, realizată 
+conform prevederilor procedurii specifice; 
+e) soluţii posibile pentru remedierea abaterilor constatate , inclusiv comunicarea acestora 
+către ANRE; 
+f) analize pe probleme specifice pieţelor de energie electrică, într-un anumit context. 
+8.4.3 MP transmite săptămânal (în cea de -a doua zi lucrătoare  a săptămânii curente pentru 
+săptămâna anterioară) către ANRE, prin mijloace electronice ( pe adresa de e -mail pusă la 
+dispoziţie de ANRE în acest scop), informări succinte privind: 
+a) evenimentele deosebite care au avut loc pe pieţele supravegheate în săptămâna 
+anterioară;  
+b) evoluţia preţurilor pe pieţele supravegheate, cu precizarea motivelor pe baza datelor 
+deţinute; 
+c) alte elemente considerate importante privind funcţionarea pieţelor supravegheate. 
+8.4.4 MP transmite lunar către ANRE un raport privind funcţionarea pieţelor supravegheate, în care 
+se vor evidenţia, în principal: 
+a) performanţele pieţelor supravegheate bazate pe indicatorii de structură / concentrare şi 
+de comportament precizaţi în prezenta procedură; 
+b) situaţiile de funcţionare deficitară / disfuncţionalitate a pieţelor şi cauzele acestora; 
+c) eventualele comportamente anormale, inadecvate sau acţiuni cu caracter 
+anticoncurenţial ale participanţilor la pieţe, identificate sau suspectate; 
+d) prezentarea în sinteză a cazurilor suspectate  de manipulare de piaţă sau tentativă de 
+manipulare de piaţă; 
+e) apecieri privind situaţiile de neconformitate identificate în cursul monitorizării, observaţii 
+privind modul de ofertar e, greşelile frecvente ale participanţilor, situaţiile de 
+neîndeplinire a obligaţiilor aferente tranzacţiilor încheiate; 
+f) acţiunile întreprinse de OTS în vederea depistării, analizării şi eventual remedierii 
+acestor situaţii , inclusiv informările transmise către alte instituţii naţionale (de ex. 
+Consiliul Concurenţei) şi/sau europene (de ex. ACER), după caz; 
+g) propuneri privind modificarea cadrului de reglementare aplicabil. 
+ 
+8.4.5 Raportul lunar de monitorizare se va transmite către ANRE în format electronic ( pe adresa de 
+PAGE 14
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 14/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+e-mail pusă la dispoziţie de ANRE în acest scop) la sfârşitul lunii curente pentru luna 
+precedentă, fără aspectele / analizele specifice PE, urmând ca acestea să fie cuprinse în 
+forma completă a raportului lunar de monitorizare, având în veder e decalarea prevăzută în 
+cadrul de reglementare aplicabil pentru finalizarea decontărilor pe PE. Forma completă a 
+raportului de monitorizare se transmite către ANRE atât în format electronic cât şi letric. 
+8.4.6 În funcţie de importanţa sau gravitatea evenimentelor constatate în pieţele supravegheate, 
+MP sesizează ANRE în cel mai scurt timp posibil, în afara rapoartelor periodice, în format 
+letric sau electronic (e -mail), cu privire la modificarea semnificativă a preţului pe una dintre 
+pieţele supravegheate, orice suspiciune de comportament anormal, inadecvat sau 
+anticoncurenţial al participanţilor la piaţă  sau care se abate de la reglementările specifice în 
+vigoare. 
+8.4.7 MP publică la adresa www.transelectrica.ro o sin teză lunară a rezultatelor monitorizării 
+pieţelor din responsabilitatea OTS . Indicatorii prezentaţi sunt calculaţi pe baza datelor 
+agregate, cu păstrarea confidenţialităţii informaţiilor sensibile din punct de vedere comercial 
+(pe baza principiului neident ificării integrale a tranzacţiei, cu respectarea reglementărilor 
+europene aplicabile), în măsura în care legislaţia naţională nu prevede altfel. 
+9 RESPONSABILITĂȚI  
+9.1 MP răspunde de: 
+9.1.1 Monitorizarea respectării de către părţile implicate a regulilor de piaţă; 
+9.1.2 Monitorizarea funcţionării pieţelor aflate în responsabilitatea OTS şi a comportamentului 
+participanţilor pe aceste pieţe; 
+9.1.3 Elaborarea de  rapoarte, analize sau informări interne către conducerea companiei  privind 
+funcţionarea pieţelor aflate în responsabilitatea OTS; 
+9.1.4 Întocmirea şi transmiterea la ANRE a rapoartelor de monitorizare săptămânale şi lunare 
+conform termenelor precizate în prezenta procedură; 
+9.1.5 Informarea ANRE cu privire la aspecte care sugerează o funcţionare inadecvată a pieţelor 
+centralizate din responsabilitatea OTS sau care sugerează un comportament anticoncurenţial 
+sau inadecvat al participanţilor la piaţă;  
+9.1.6 Propunerea unor soluţii posibile pentru remedierea situaţiilor constatate de funcţionare 
+inadecvată a pieţelor; 
+9.1.7 Publicarea de rapoarte lun are, atât în limba română cât şi engleză, cuprinzând sinteze 
+rezultate în urma activităţii de monitorizare a pieţelor centralizate din responsabilitatea OTS; 
+9.1.8 Dezvoltarea de sisteme de colectare, stocare, prelucrare şi diseminare a informaţiilor rezultate 
+din procesul de monitorizare a pieţelor aflate în responsabilitatea OTS; 
+ 
+9.2 Operatorii pieţelor aflate în responsabilitatea OTS răspund de: 
+9.2.1 Înregistrarea şi arhivarea pe o perioadă de minim 5 ani a informaţiilor privind operarea PE , 
+PSTS şi PACI  şi punerea la dispoziţia MP a informaţiilor solicitate privind funcţionarea 
+acestora; 
+PAGE 15
+ 
+ PROCEDURĂ OPERAŢIONALĂ 
+Monitorizarea funcţionării pieţelor 
+din responsabilitatea OTS 
+Cod: TEL-07.V OS – DN/265 
+Pag 15/15 
+Ediția I 
+Rev. 0 1 2 3 4 5  
+ 
+ 
+10 ANEXE, ÎNREGISTRĂRI, ARHIVĂRI 
+Arhivarea prezentei proceduri și a celorlalte informații documentate se face conform Nomenclatorului 
+arhivistic în vigoare. 
+ 
+11 CUPRINS 
+ 
+Numarul 
+componentei 
+in cadrul 
+procedurii 
+Denumirea componentei din cadrul procedurii Pagina 
+1. Pagina de Garda  1 
+2. Situaţia ediţiilor şi a reviziilor 2 
+3. Lista de difuzare  3 
+4. Scop  4 
+5. Domeniul de aplicare  4 
+6. Documente de referinţă  4 
+7. Definiţii şi abrevieri  4 
+8. Mod de Lucru  5 
+9. Responsabilităţi 14 
+10. Anexe, inregistrari, arhivari 15 
+11. Cuprins 15 
+ 
+ 

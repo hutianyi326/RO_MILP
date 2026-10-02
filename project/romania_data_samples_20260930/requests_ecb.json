@@ -1,0 +1,7 @@
+[
+ {"id":"ECB_API_DOC","dataset":"D14","url":"https://data.ecb.europa.eu/help/api/data-examples","scope":"official SDMX API documentation"},
+ {"id":"ECB_FX_DOC","dataset":"D14","url":"https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html","scope":"official FX direction/publication/purpose"},
+ {"id":"FX_2025-01","dataset":"D14","url":"https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?startPeriod=2025-01-01&endPeriod=2025-01-31&format=csvdata","scope":"2025-01 ECB RON per EUR reference rate; display conversion only"},
+ {"id":"FX_2025-10","dataset":"D14","url":"https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?startPeriod=2025-10-01&endPeriod=2025-10-31&format=csvdata","scope":"2025-10 ECB RON per EUR reference rate; display conversion only"},
+ {"id":"FX_2026-08","dataset":"D14","url":"https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?startPeriod=2026-08-01&endPeriod=2026-08-31&format=csvdata","scope":"2026-08 ECB RON per EUR reference rate; display conversion only"}
+]

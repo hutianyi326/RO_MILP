@@ -1,0 +1,11 @@
+{
+  "id": "DAMAS_PUBLIC_HOME",
+  "url": "https://newmarkets.transelectrica.ro/",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:10:40.706060+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+}

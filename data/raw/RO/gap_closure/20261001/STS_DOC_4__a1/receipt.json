@@ -1,0 +1,20 @@
+{
+  "id": "STS_DOC_4",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/19000714/CONTRACT+RSF+2024++EX+Transelectrica++doc/9a06a421-9c80-4db4-8d6e-272fcc4845f5",
+  "title": "Contract de furnizare a rezervei pentru stabilizarea frecvenţei, exemplar Transelectrica .",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:28.892631+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/19000714/CONTRACT+RSF+2024++EX+Transelectrica++doc/9a06a421-9c80-4db4-8d6e-272fcc4845f5",
+  "content_type": "application/msword",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_DOC_4__a1/original.xls",
+  "sha256": "88f68509358091ae284f0d6c7e0173c5967a69a1322dbb1ddd757b37db625093",
+  "bytes": 535552,
+  "detected_format": "xls"
+}

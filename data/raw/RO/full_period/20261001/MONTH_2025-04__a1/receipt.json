@@ -1,0 +1,21 @@
+{
+  "id": "MONTH_2025-04",
+  "dataset": "D12",
+  "publisher": "OPCOM",
+  "title": "Monthly Market Report 2025-04",
+  "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2504_EN.pdf",
+  "scope": "official catalog-linked monthly control; not native time-series",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:50:40.497617+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2504_EN.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/full_period/20261001/MONTH_2025-04__a1/original.pdf",
+  "sha256": "a76c06e3ddfdf59876e7d98f32c2d7e793393a5c87ccffe7e30839891baa367e",
+  "bytes": 391131,
+  "detected_format": "pdf"
+}

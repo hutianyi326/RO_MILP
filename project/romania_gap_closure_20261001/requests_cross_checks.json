@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ANRE_MON_Iunie_2026",
+    "dataset": "D12",
+    "url": "https://anre.ro/wp-content/uploads/2026/09/Monit-iun26.pdf",
+    "title": "Raport monitorizare piata energie electrica Iunie 2026"
+  },
+  {
+    "id": "ANRE_MON_Martie_2025",
+    "dataset": "D12",
+    "url": "https://anre.ro/wp-content/uploads/2025/07/Monitmar25.pdf",
+    "title": "Raport monitorizare piata energie electrica Martie 2025"
+  },
+  {
+    "id": "ANRE_MON_Decembrie_2024",
+    "dataset": "D12",
+    "url": "https://anre.ro/wp-content/uploads/2025/03/Monitdec24-cu-eticheta-1.pdf",
+    "title": "Raport monitorizare piata energie electrica Decembrie 2024"
+  },
+  {
+    "id": "ANRE_MON_Decembrie_2023",
+    "dataset": "D12",
+    "url": "https://anre.ro/wp-content/uploads/2024/04/Monitdec23_cu-eticheta.pdf",
+    "title": "Raport monitorizare piata energie electrica Decembrie 2023"
+  },
+  {
+    "id": "TSO_ANNUAL2024_BATTERY",
+    "dataset": "D10",
+    "url": "https://www.transelectrica.ro/documents/10179/19114374/Raport%2BAnual%2B2024%2BTranselectrica_Modificare%2BAGA_RO.pdf/11ba6ab7-90df-4e43-ba57-c347d318c59c",
+    "title": "Raport anual Transelectrica 2024 (storage observation dated 01.02.2025 on PDF p105; not year-end)"
+  },
+  {
+    "id": "ENTSO_TOKEN_GUIDE",
+    "dataset": "D11",
+    "url": "https://transparency.entsoe.eu/content/static_content/download?path=%2FStatic+content%2FAPI-Token-Management.pdf",
+    "title": "IMPORTANT INFORMATION FOR API TOKEN MANAGEMENT"
+  },
+  {
+    "id": "OPCOM_DAM_SETTLEMENT_CATALOG",
+    "dataset": "D14",
+    "url": "https://www.opcom.ro/tranzactii-rezultate/en/10",
+    "title": "OPCOM DAM settlement documents catalog"
+  }
+]

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v28016 -->
+
+
+  <title>Request Endpoint &ndash; Transparency Platform</title>
+
+  
+
+  <meta name="description" content="Production environment endpoint:  https://web-api.tp.entsoe.eu/api  IOP environment endpoint: https://web-api.tp-iop.entsoe.eu/api  Only..." /><meta property="og:image" content="https://transparencyplatform.zendesk.com/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Transparency Platform" />
+<meta property="og:title" content="Request Endpoint" />
+<meta property="og:description" content="Production environment endpoint:  https://web-api.tp.entsoe.eu/api
+
+IOP environment endpoint: https://web-api.tp-iop.entsoe.eu/api
+
+Only https protocol is supported." />
+<meta property="og:url" content="https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint" />
+<link rel="canonical" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint">
+<link rel="alternate" hreflang="en-us" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint">
+<link rel="alternate" hreflang="x-default" href="https://transparencyplatform.zendesk.com/hc/en-us/articles/15696677194644-Request-Endpoint">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-b925b7498ff4356827db8a6064e91e2b.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/36797/10000260229652/style.css?digest=49566937189137">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK">
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<!-- Make the translated search clear button label available for use in JS -->
+<!-- See buildClearSearchButton() in script.js -->
+<script type="text/javascript">window.searchClearButtonLabelLocalized = "Clear search";</script>
+<script type="text/javascript">
+  // Load ES module polyfill only for browsers that don't support ES modules
+  if (!(HTMLScriptElement.supports && HTMLScriptElement.supports('importmap'))) {
+    document.write('<script async src="/hc/theming_assets/01J917TX8PRX5VJJ0Y63MM8QVB"><\/script>');
+  }
+</script>
+<script type="importmap">
+{
+  "imports": {
+    "new-request-form": "/hc/theming_assets/01KXGQT937BJ0QCFCPDCWGT64M",
+    "request-list": "/hc/theming_assets/01KZC4J1VAP3PE7Z90CQCECWB2",
+    "flash-notifications": "/hc/theming_assets/01KXGQT9DARRXE1KS8FMMT85T7",
+    "service-catalog": "/hc/theming_assets/01KZC4J1T0HWSYE4DD4WCK1XWK",
+    "approval-requests": "/hc/theming_assets/01KXGQT9DQNNSAHTFJ3JZ2CZG1",
+    "approval-requests-translations": "/hc/theming_assets/01KXGQT9HKYDSVNJSKX3XS9Q3P",
+    "new-request-form-translations": "/hc/theming_assets/01KXGQT9GGG5EAAEAJHX8EDSES",
+    "request-list-translations": "/hc/theming_assets/01KXGQT9E10SDX059KGRPHHM3D",
+    "service-catalog-translations": "/hc/theming_assets/01KXGQT90HRPECA60S7X5B0JMQ",
+    "shared": "/hc/theming_assets/01KXGQT93GCC924B6DEB1DN40V",
+    "ticket-fields": "/hc/theming_assets/01KZC4J1W2AREQXPH0BMVA0H7G",
+    "wysiwyg": "/hc/theming_assets/01KP91813Z1ZSRYHPG2146VPKD"
+  }
+}
+</script>
+<script type="module">
+  import { renderFlashNotifications } from "flash-notifications";
+
+  const settings = {"brand_color":"#17494D","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD","show_brand_name":true,"favicon":"/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK","homepage_background_image":"/hc/theming_assets/01HZPZ1MKYY6YJH9EFQ7330EF2","community_background_image":"/hc/theming_assets/01HZPZ1NKWKGBHGR2YB1VVMTN4","community_image":"/hc/theming_assets/01HZPZ1PPPFJBWSZAMBGQQ5CYP","service_catalog_hero_image":"/hc/theming_assets/01KEH84K56STRS87K0W8G2NFDQ","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":false,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":false,"show_follow_section":true,"show_follow_post":false,"show_post_sharing":false,"show_follow_topic":false,"show_suggested_articles":true};
+  const baseLocale = "en-us";
+
+  renderFlashNotifications(settings, baseLocale);
+</script>
+
+  
+</head>
+<body class="">
+  
+  
+  
+
+  <a class="skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+<header class="header">
+  <div class="logo">
+    <a title="Home" href="/hc/en-us">
+      <img src="/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD" alt="Transparency Platform Help Center home page" />
+      
+        <span aria-hidden="true">Transparency Platform</span>
+      
+    </a>
+  </div>
+
+  <div class="nav-wrapper-desktop">
+    <nav class="user-nav" id="user-nav" aria-label="User navigation">
+      <ul class="user-nav-list">
+        <li></li>
+        <li></li>
+        <li><a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a></li>
+        
+          <li>
+            <a class="sign-in" role="link" rel="nofollow" data-auth-action="signin" title="Opens a dialog" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F15696677194644-Request-Endpoint">
+              Sign in
+            </a>
+          </li>
+        
+      </ul>
+    </nav>
+          
+    
+  </div>
+
+  <div class="nav-wrapper-mobile">
+    <button class="menu-button-mobile" aria-controls="user-nav-mobile" aria-expanded="false" aria-label="Toggle navigation menu">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+        <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+      </svg>
+    </button>
+    <nav class="menu-list-mobile" id="user-nav-mobile" aria-expanded="false">
+      <ul class="menu-list-mobile-items">
+        
+          <li class="item">
+            <a role="link" rel="nofollow" data-auth-action="signin" title="Opens a dialog" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F15696677194644-Request-Endpoint">
+              Sign in
+            </a>
+          </li>
+          <li class="nav-divider"></li>
+        
+       
+        <li class="item"></li>
+        <li class="item"><a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a></li>
+        <li class="item"></li>
+        <li class="nav-divider"></li>
+        
+       
+      </ul>
+          
+    </nav>
+  </div>
+
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <div class="sub-nav">
+    <nav aria-label="Breadcrumb">
+  <ol class="breadcrumbs">
+    
+      <li>
+        
+          <a href="/hc/en-us">Transparency Platform</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/categories/13771885458964-Guides">Guides</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/sections/12783116987028-Restful-API-integration-guide">Restful API integration guide</a>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+    <div class="search-container">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" focusable="false" viewBox="0 0 12 12" class="search-icon" aria-hidden="true">
+        <circle cx="4.5" cy="4.5" r="4" fill="none" stroke="currentColor"/>
+        <path stroke="currentColor" stroke-linecap="round" d="M11 11L7.5 7.5"/>
+      </svg>
+      <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" /><input type="hidden" name="category" id="category" value="13771885458964" autocomplete="off" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+    </div>
+  </div>
+
+  <div class="article-container" id="article-container">
+    <aside class="article-sidebar" aria-labelledby="section-articles-title">
+      
+        <div class="collapsible-sidebar">
+          <button type="button" class="collapsible-sidebar-toggle" aria-labelledby="section-articles-title" aria-expanded="false">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon chevron-icon">
+              <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5"/>
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon x-icon">
+              <path stroke="currentColor" stroke-linecap="round" d="M3 9l6-6m0 6L3 3"/>
+            </svg>
+          </button>
+          <span id="section-articles-title" class="collapsible-sidebar-title sidenav-title">
+            Articles in this section
+          </span>
+          <div class="collapsible-sidebar-body">
+            <ul>
+              
+                <li>
+                  <a href="/hc/en-us/articles/30262342482961-CurveType-A01-vs-CurveType-A03" 
+                     class="sidenav-item "
+                     >
+                       CurveType=A01 vs CurveType=A03
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15692855254548-Sitemap-for-Restful-API-Integration" 
+                     class="sidenav-item "
+                     >
+                       Sitemap for Restful API Integration
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15885757676308-Area-List-with-Energy-Identification-Code-EIC" 
+                     class="sidenav-item "
+                     >
+                       Area List with Energy Identification Code (EIC)
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12783148966036-API-Rate-Limit-Part-1" 
+                     class="sidenav-item "
+                     >
+                       API Rate Limit Part 1
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12784099471764-Reference-Documentation" 
+                     class="sidenav-item "
+                     >
+                       Reference Documentation
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696677194644-Request-Endpoint" 
+                     class="sidenav-item current-article"
+                     aria-current="page">
+                       Request Endpoint
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/12845911031188-How-to-get-security-token" 
+                     class="sidenav-item "
+                     >
+                       How to get security token?
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696643163924-Request-Methods" 
+                     class="sidenav-item "
+                     >
+                       Request Methods
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15854421431060-Query-via-Web-Browser" 
+                     class="sidenav-item "
+                     >
+                       Query via Web Browser
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/hc/en-us/articles/15696716612372-Request-Parameters" 
+                     class="sidenav-item "
+                     >
+                       Request Parameters
+                  </a>
+                </li>
+              
+            </ul>
+            
+              <a href="/hc/en-us/sections/12783116987028-Restful-API-integration-guide" class="article-sidebar-item">See more</a>
+            
+          </div>
+        </div>
+      
+    </aside>
+
+    <article id="main-content" class="article">
+      <header class="article-header">
+        <h1 title="Request Endpoint" class="article-title">
+          Request Endpoint
+          
+        </h1>
+
+        <div class="article-author">
+          
+          <div class="article-meta">
+            
+
+            <div class="meta-group">
+              
+                <span class="meta-data"><time datetime="2023-06-05T13:05:49Z" title="2023-06-05T13:05:49Z" data-datetime="relative">June 05, 2023 13:05</time></span>
+                <span class="meta-data">Updated</span>
+              
+            </div>
+          </div>
+        </div>
+
+        
+          <div class="article-subscribe"><div data-helper="subscribe" data-json="{&quot;item&quot;:&quot;article&quot;,&quot;url&quot;:&quot;/hc/en-us/articles/15696677194644-Request-Endpoint/subscription.json&quot;,&quot;follow_label&quot;:&quot;Follow&quot;,&quot;unfollow_label&quot;:&quot;Unfollow&quot;,&quot;following_label&quot;:&quot;Following&quot;,&quot;can_subscribe&quot;:true,&quot;is_subscribed&quot;:false}"></div></div>
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><ul>
+<li>Production environment endpoint:&nbsp; <span class="wysiwyg-font-size-x-large">https://web-api.tp.entsoe.eu/api</span></li>
+<li>IOP environment endpoint: <span class="wysiwyg-font-size-x-large">https://web-api.tp-iop.entsoe.eu/api</span></li>
+<li>Only <strong>https</strong> protocol is supported.</li>
+</ul></div>
+
+          
+
+          
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          
+          
+            
+          
+        </div>
+        
+          <div class="article-votes">
+            <h2 class="article-votes-question" id="article-votes-label">Was this article helpful?</h2>
+            <div class="article-votes-controls" role="group" aria-labelledby="article-votes-label">
+              <button type="button" class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="15696677194644" data-upvote-count="20" data-vote-count="28" data-vote-sum="12" data-vote-url="/hc/en-us/articles/15696677194644/vote" data-value="null" data-label="20 out of 28 found this helpful" data-selected-class="button-primary" data-as="button" aria-label="This article was helpful" aria-pressed="false">Yes</button>
+              <button type="button" class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="15696677194644" data-upvote-count="20" data-vote-count="28" data-vote-sum="12" data-vote-url="/hc/en-us/articles/15696677194644/vote" data-value="null" data-label="20 out of 28 found this helpful" data-selected-class="button-primary" data-as="button" aria-label="This article was not helpful" aria-pressed="false">No</button>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="15696677194644" data-upvote-count="20" data-vote-count="28" data-vote-sum="12" data-vote-url="/hc/en-us/articles/15696677194644/vote" data-value="null" data-label="20 out of 28 found this helpful">20 out of 28 found this helpful</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">
+            Return to top
+            <svg xmlns="http://www.w3.org/2000/svg" class="article-return-to-top-icon" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true">
+              <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5"/>
+            </svg>
+          </a>
+        </div>
+      </footer>
+
+      <div class="article-relatives">
+        
+          <div data-recent-articles></div>
+        
+        
+          
+  <section class="related-articles">
+    
+      <h2 class="related-articles-title">Related articles</h2>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJS99uuuCzoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJRL3qpGDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJAL2hjL2VuLXVzL2FydGljbGVzLzEyODQ1OTExMDMxMTg4LUhvdy10by1nZXQtc2VjdXJpdHktdG9rZW4GOwhUOglyYW5raQY%3D--29c6e8217ae5c132ab61dd4b17f288aa58578c02" rel="nofollow">How to get security token?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQH16hGDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJRL3qpGDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI2L2hjL2VuLXVzL2FydGljbGVzLzE1Njk2NjQzMTYzOTI0LVJlcXVlc3QtTWV0aG9kcwY7CFQ6CXJhbmtpBw%3D%3D--f2da1af96d31eeff39fbe9085cfd7e9b9dcfa84e" rel="nofollow">Request Methods</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQeEMdFDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJRL3qpGDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJKL2hjL2VuLXVzL2FydGljbGVzLzE1NjkyODU1MjU0NTQ4LVNpdGVtYXAtZm9yLVJlc3RmdWwtQVBJLUludGVncmF0aW9uBjsIVDoJcmFua2kI--be6b26f10b9f009e6110ee94ceef79f541775942" rel="nofollow">Sitemap for Restful API Integration</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJQxtYegCzoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJRL3qpGDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI%2BL2hjL2VuLXVzL2FydGljbGVzLzEyNzg0MDk5NDcxNzY0LVJlZmVyZW5jZS1Eb2N1bWVudGF0aW9uBjsIVDoJcmFua2kJ--1c67c90d727bbc3c77199ff53c4d960b0c6944db" rel="nofollow">Reference Documentation</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBTDN61GDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJRL3qpGDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI5L2hjL2VuLXVzL2FydGljbGVzLzE1Njk2NzE2NjEyMzcyLVJlcXVlc3QtUGFyYW1ldGVycwY7CFQ6CXJhbmtpCg%3D%3D--a47b9d2eef55f744fd52f4205cb1e6715625e23c" rel="nofollow">Request Parameters</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+        
+      </div>
+      
+        <div class="article-comments" id="article-comments">
+          <section class="comments">
+            <header class="comment-overview">
+              <h2 class="comment-heading">
+                Comments
+              </h2>
+              <p class="comment-callout">0 comments</p>
+              
+            </header>
+
+            <ul id="comments" class="comment-list">
+              
+            </ul>
+
+            
+
+            
+
+            <p class="comment-callout">Article is closed for comments.</p>
+          </section>
+        </div>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="Home" href="/hc/en-us">Transparency Platform</a>
+
+    <div class="footer-language-selector">
+      
+    </div>
+  </div>
+</footer>
+
+
+    <div class="powered-by-zendesk">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" focusable="false" viewBox="0 0 26 26">
+    <path d="M12 8.2v14.5H0zM12 3c0 3.3-2.7 6-6 6S0 6.3 0 3h12zm2 19.7c0-3.3 2.7-6 6-6s6 2.7 6 6H14zm0-5.2V3h12z" />
+  </svg>
+
+  <a target="_blank" rel="nofollow" href="https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=SERVICE+DESK">Powered by Zendesk</a>
+</div>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.b82bf3038927c0c5ec50.js"></script>
+  
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"entsoe","environment":"production","name":"SERVICE DESK"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"external_id":null,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCJRL3qpGDjoKX21ldGF7DDoPYWNjb3VudF9pZGkCvY86E2hlbHBfY2VudGVyX2lkbCsIFIJTXxgJOg1icmFuZF9pZGwrCBRq9V0YCToMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZUOhphbm9ueW1vdXNfdHJhY2tpbmdfaWQw--2a5adb6a6a09bbb2d08c9abf8db410eb2304f818","url":"https://transparencyplatform.zendesk.com/hc/activity"},"current_record_id":"15696677194644","current_record_url":"/hc/en-us/articles/15696677194644-Request-Endpoint","current_record_title":"Request Endpoint","current_text_direction":"ltr","current_brand_id":10000260229652,"current_brand_name":"Transparency Platform Helpdesk.","current_brand_url":"https://transparencyplatform.zendesk.com","current_brand_active":true,"current_path":"/hc/en-us/articles/15696677194644-Request-Endpoint","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"show_at_mentions":true,"embeddables_config":{"embeddables_web_widget":false,"embeddables_help_center_auth_enabled":false,"embeddables_connect_ipms":false},"answer_bot_subdomain":"static","gather_plan_state":"subscribed","has_article_verification":true,"has_gather":true,"has_ckeditor":true,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_garden_modals":false,"has_auth_email_less_sso":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_search_settings_in_plan":true,"theming_api_version":4,"theming_settings":{"brand_color":"#17494D","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZPZ1KARCS74JZ8217B3F3VD","show_brand_name":true,"favicon":"/hc/theming_assets/01HZPZ1KEM1BX1ATHNG5X7EAEK","homepage_background_image":"/hc/theming_assets/01HZPZ1MKYY6YJH9EFQ7330EF2","community_background_image":"/hc/theming_assets/01HZPZ1NKWKGBHGR2YB1VVMTN4","community_image":"/hc/theming_assets/01HZPZ1PPPFJBWSZAMBGQQ5CYP","service_catalog_hero_image":"/hc/theming_assets/01KEH84K56STRS87K0W8G2NFDQ","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":false,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":false,"show_follow_section":true,"show_follow_post":false,"show_post_sharing":false,"show_follow_topic":false,"show_suggested_articles":true},"has_pci_credit_card_custom_field":true,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"en-us","base_locale":"en-us","login_url":"https://entsoe.zendesk.com/access?locale=en-us\u0026brand_id=10000260229652\u0026return_to=https%3A%2F%2Ftransparencyplatform.zendesk.com%2Fhc%2Fen-us%2Farticles%2F15696677194644-Request-Endpoint","has_alternate_templates":true,"has_custom_statuses_enabled":false,"has_hc_generative_answers_setting_enabled":true,"has_suggested_initial_questions_enabled":false,"has_contentful_eap":false,"has_contentful_eap_eligible":false,"has_pdf_ingestion_eap":true,"has_pdf_ingestion_eap_eligible":true,"has_guide_saas_management":false,"has_knowledge_category_translation_modal":false,"has_guide_service_catalog":true,"has_service_catalog_multibranding":true,"has_csat_reverse_2_scale_in_mobile":false,"has_unified_navigation":true,"has_unified_navigation_eap_access":true,"has_knowledge_locale_display_names":true,"has_csat_bet365_branding":false,"has_csat_flora":false,"has_csat_theming_integration_phase_1":false,"has_help_center_gen_search_follow_up_conversation":true,"chat_page_renderable":false,"version":"v28016","dev_mode":false};
+</script>
+
+  
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-78af5281140b77ca7ddc939085b006b7.js"></script>
+  <script type="text/javascript" src="/hc/theming_assets/36797/10000260229652/script.js?digest=49566937189137"></script>
+  
+</body>
+</html>

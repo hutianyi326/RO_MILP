@@ -1,0 +1,17 @@
+{
+  "id": "DAMAS_PUBLIC_HOME_NET",
+  "url": "https://newmarkets.transelectrica.ro/",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:11:54.453933+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100",
+  "content_type": "text/html; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/DAMAS_PUBLIC_HOME_NET__a1/original.html",
+  "sha256": "51a2c247077e6531fccd9b502717bf8aea11e29303beca3751a55ec6fd2aa69d",
+  "bytes": 22997,
+  "detected_format": "html"
+}

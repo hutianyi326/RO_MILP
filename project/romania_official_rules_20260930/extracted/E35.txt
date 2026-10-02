@@ -1,0 +1,83 @@
+=== PDF PAGE 1 ===
+ 
+aFRR-Platform Accession roadmap 
+Version Description Date 
+V15 14th update 26/2/2026 
+ 
+According to Implementation Framework for a European platform for the exchange of balancing energy 
+from frequency restoration reserves with automatic activation (aFRRIF), Article 5, Paragraph 4 (b) 
+member TSOs shall develop accession roadmap within three months after approval of aFRRIF (date of 
+approval 24/1/2020). 
+ 
+The a ccession of member TSOs to aFRR -Platform (PICASSO) is planned in accordance with the 
+following accession roadmap. PICASSO member TSOs and ENTSO -E Share this accession roadmap 
+for informative purposes only and it does not, in any case, represent a firm, binding or definitive position 
+of PICASSO on the content . The content is subject to change as the implementation progresses and 
+new information becomes available. In particular, the feasibility of the present accession roadmap may 
+depend on final detaile d accession planning and possible operational and/or technical constraints that 
+would result in the number of parallel accessions. 
+ 
+This accession roadmap will be updated at least twice a year to give stakeholders current information 
+on the development. 
+ 
+Explanatory notes 
+Member TSOs below include an explanation for all aspects in the accession roadmap according to the 
+aFRRIF: 
+5.4.(b)(i) the adaptation and implementation of terms and conditions for BSPs by each member 
+TSO 
+- Member TSOs deemed relevant to split the development of T&C and their entry into force to 
+provide clarity to stakeholders. Entry into force of T&C in some TSOs does not have to be 
+adherent to the connection and Go-live of such TSOs in aFRR-Platform. In practice, the updated 
+T&C may be applied in advance. 
+ 
+5.4.(b)(ii) the development of the functions of the aFRR-Platform 
+- Member TSOs provide further detail by splitting this point into  the Activation Optimization 
+Function (AOF) development and the TSO-TSO Settlement Function development. 
+ 
+5.4.(b)(iii) the interoperability tests between each TSO and the aFRR-Platform 
+- The interoperability test s between each TSO and the aFRR -Platform (end-to-end integration 
+tests) start as soon as part of the platform, and TSOs are ready and finish by the Go-Live. 
+5.4.(b)(iv) the operational tests 
+- The operational tests provide a period for the TSOs to get acquainted with the new operational 
+paradigm. 
+ 
+5.4.(b)(v) the connection of each TSO to the aFRR-Platform 
+- The connection of a TSO to the aFRR -Platform indicates the effective TSO business Go -Live 
+after the successful performance of the interoperability and operational test. 
+5.4.(b)(vi) making the aFRR-Platform operational 
+- Member TSOs see as one part of this aspect testing of the aFRR-Platform functions and another 
+part of the act of making the aFRR -Platform Go -live itself. That is why it was split in the 
+accession roadmap to give stakeholders a better overview. The legal deadline for the Go -Live 
+is set to 24/7/2022. 
+ 
+5.4.(b)(vii) the connection of all TSOs that have been granted a derogation by their respective 
+regulatory authorities in accordance with Article 62 of EB Regulation 
+- TSOs have the possibility to request a derogation to their respective authorities – in the roadmap 
+TSOs that are considering  such option or already did request are marked in the accession 
+roadmap
+
+=== PDF PAGE 2 ===
+ 
+ 
+'The following TSOs — ČEPS, APG, 50Hz, AMP, TNG, TTG, TenneT BV, Energinet, SEPS, Elia, ESO, Litgrid, 
+ADMIE, Fingrid, Elering, AST, RTE, REE, PSE and Terna — are connected to PICASSO. 
+ 
+1 MAVIR - In order to meet the legal requirements, MAVIR not only has to procure and implement major IT system 
+and business process upgrades but also has to introduce completely new ones as well - including but not limited to 
+its market operation and planning system and settlement system - which takes more time than originally estimated. 
+Additionally, MAVIR needs to provide sufficient time for local BSPs to prepare and implement the necessary 
+changes on their side. The Hungarian NRA requests an updated status from MAVIR every h alf year. 
+2 Transelectrica - Transelectrica sent an official letter to Romanian NRA in order to inform about new accession 
+date, expected in April 2027. 
+2 SVK - have focused on establishing the Nordic mFRR platform (go -live 4 March 2025) before connecting to the 
+European platforms, which, along with challenges in IT development, mean that the planned accession to PICASSO 
+is delayed. An updated Nordic roadmap will be published shortly on https://nordicbalancingmodel.net/roadmap-and-
+projects. 
+6 Statnett - Exact accession date will be coordinated together with the nordic TSO's at a later date  
+7 Swissgrid - The technical readiness of Swissgrid has been acknowledged. The participation of Switzerland in the 
+aFRR-Platform is regulated based on article 1.6 and 1.7 of the EB Regulation and currently the subject of litigation 
+by Swissgrid at the Court of Justice of the European Union.  
+ 
+ 
+ 
+ 

@@ -1,0 +1,21 @@
+﻿month,source_id,locator,volume_mwh,average_price_weighted_eur_mwh,value_eur,share_percent,no_IDA_round_identity,no_intraday_interval_liquidity_inferred
+2025-01,MONTH_2025-01,PDF p2 Intraday Market current-month comparison row,181871.6,132.70,24134354.27,3.83,True,True
+2025-02,MONTH_2025-02,PDF p2 Intraday Market current-month comparison row,208485.1,151.96,31680449.74,4.57,True,True
+2025-03,MONTH_2025-03,PDF p2 Intraday Market current-month comparison row,203607.4,94.94,19329819.77,4.62,True,True
+2025-04,MONTH_2025-04,PDF p2 Intraday Market current-month comparison row,208695.7,70.66,14746206.72,5.35,True,True
+2025-05,MONTH_2025-05,PDF p2 Intraday Market current-month comparison row,201754.9,79.24,15987898.47,5.27,True,True
+2025-06,MONTH_2025-06,PDF p2 Intraday Market current-month comparison row,199982.6,76.28,15255128.99,5.42,True,True
+2025-07,MONTH_2025-07,PDF p2 Intraday Market current-month comparison row,190755.2,99.83,19042677.99,4.42,True,True
+2025-08,MONTH_2025-08,PDF p2 Intraday Market current-month comparison row,163828.5,60.43,9900193.09,4.19,True,True
+2025-09,MONTH_2025-09,PDF p2 Intraday Market current-month comparison row,141185.5,93.84,13248487.76,4.02,True,True
+2025-10,MONTH_2025-10,PDF p2 Intraday Market current-month comparison row,166948.1,126.32,21089634.60,4.01,True,True
+2025-11,MONTH_2025-11,PDF p2 Intraday Market current-month comparison row,190295.7,125.66,23913509.09,4.77,True,True
+2025-12,MONTH_2025-12,PDF p2 Intraday Market current-month comparison row,171298.8,122.83,21041284.65,3.77,True,True
+2026-01,MONTH_2026-01,PDF p2 Intraday Market current-month comparison row,160045.5,160.90,25751493.42,3.37,True,True
+2026-02,MONTH_2026-02,PDF p2 Intraday Market current-month comparison row,133576.7,92.78,12393368.65,2.94,True,True
+2026-03,MONTH_2026-03,PDF p2 Intraday Market current-month comparison row,158095.2,88.02,13915584.34,3.49,True,True
+2026-04,MONTH_2026-04,PDF p2 Intraday Market current-month comparison row,147579.2,56.18,8291626.56,4.10,True,True
+2026-05,MONTH_2026-05,PDF p2 Intraday Market current-month comparison row,135605.8,99.01,13426883.44,4.06,True,True
+2026-06,MONTH_2026-06,PDF p2 Intraday Market current-month comparison row,117391.6,144.87,17006215.37,3.53,True,True
+2026-07,MONTH_2026-07,PDF p2 Intraday Market current-month comparison row,138685.7,102.57,14225337.88,3.57,True,True
+2026-08,MONTH_2026-08,PDF p2 Intraday Market current-month comparison row,120527.9,141.04,16999780.11,3.19,True,True

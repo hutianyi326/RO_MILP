@@ -1,0 +1,2241 @@
+=== PDF PAGE 1 ===
+   
+ 
+OPERATORUL PIEŢEI DE ENERGIE ELECTRICĂ ŞI DE GAZE NATURALE DIN ROMÂNIA 
+INDICATORI SPECIFICI PUBLICAŢI DE OPCOM SA 
+PREŢURI ŞI INDICI DE PREŢ/VOLUM  
+ 
+ 
+Piaţa pentru Ziua Următoare (PZU) 
+ 
+Preţuri interval [lei/MWh] / 
+[euro/MWh] 
+ 
+ 
+Succesiunea celor 96 de valori ale pre ţului de închidere a Pieţei 
+pentru Ziua Următoare: 
+𝑹𝑶𝑷𝑬𝑿_𝑫𝑨𝑴_𝟏𝟓𝒎𝒊𝒏 
+Acest indice de preţ este asociat fiecărui interval de 15 minute al 
+unei zile.  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_DAM_15min pentru 100 de intervale de 15 minute. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_DAM_15min calculat pentru 92 de intervale de 15 
+minute. 
+Preţ bandă [lei/MWh] 
+/[euro/MWh] 
+ 
+ 
+Media aritmetică zilnică a preţurilor de închidere a Pieţei pentru Ziua 
+Următoare: 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+96
+𝑗=1
+96  
+Acest indice de preţ este determinat pentru fiecare zi a anului ca 
+medie aritmetică a preţurilor corespunzătoare celor 96 de intervale 
+de 15 minute (00:00-24:00 CET).  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_DAM_Base calculat pentru 100 de intervale de 15 
+minute (00:00-24:00 CET): 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+100
+𝑗=1
+100  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_DAM_Base calculat pentru 92 de intervale de 15 
+minute (00:00-24:00 CET): 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+92
+𝑗=1
+92  
+ 
+Volum bandă [MWh] Suma volumelor de energie tranzacţionate pe Piaţa pentru Ziua 
+Următoare: 
+
+
+=== PDF PAGE 2 ===
+2/32 
+𝑣𝑜𝑙𝑢𝑚𝑏𝑎𝑛𝑑𝑎 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+96
+𝑗=1
+ 
+Acest volum de energie este determinat pentru fiecare zi a anului 
+ca sumă a volumelor de energie tranzacționată corespunzătoare 
+celor 96 de intervale de 15 minute (00:00-24:00 CET). 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică volumul total de energie calculat pentru 100 de intervale de 
+15 minute (00:00-24:00 CET): 
+𝑣𝑜𝑙𝑢𝑚𝑏𝑎𝑛𝑑𝑎 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+100
+𝑗=1
+ 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică volumul total de energie pentru 92 de intervale de 15 
+minute (00:00-24:00 CET): 
+𝑣𝑜𝑙𝑢𝑚𝑏𝑎𝑛𝑑𝑎 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+92
+𝑗=1
+ 
+ 
+Preţ pentru orele de vârf 
+[lei/MWh]/ [euro/MWh]  
+ 
+ 
+ 
+Media aritmetică a preţurilor de închidere a Pieţei pentru Ziua 
+Următoare corespunzătoare orelor de vârf de sarcină: 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+80
+𝑗=33
+48  
+Acest indice de pre ţ este determinat pentru fiecare zi a anului ca 
+medie aritmetică a preţurilor corespunzătoare celor 48 intervale de 
+15 minute, considerate ore de vârf (inclusiv intervalele 33 şi 80, 
+respectiv orele 08:00-20:00 CET).  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică preţul mediu calculat pentru 48 intervale de 15 minute 
+(inclusiv intervalele 37-84, respectiv orele 08:00-20:00 CET): 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+84
+𝑗=37
+48  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică preţul mediu calculat pentru 48 intervale de 15 minute 
+(inclusiv intervalele 29-76, respectiv orele 08:00-20:00 CET): 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+76
+𝑗=29
+48  
+ 
+Volum pentru orele de vârf 
+[MWh] 
+(volum vârf) 
+Suma volumelor de energie  tranzacţionate pe Piaţa pentru Ziua 
+Următoare corespunzătoare orelor de vârf de sarcină (08:00-20:00 
+CET): 
+𝑣𝑜𝑙𝑢𝑚𝑣â𝑟𝑓 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+80
+𝑗=33
+ 
+
+
+=== PDF PAGE 3 ===
+3/32 
+Acest volum de energie este determinat pentru fiecare zi a anului 
+ca sumă a volumelor de energie corespunzătoare celor 48 intervale 
+de 15 minute , considerate ore de vârf de sarcină (inclusiv 
+intervalele 33 şi 80, respectiv orele 08:00-20:00 CET).  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică volumul total de energie calculat pentru 48 intervale de 15 
+minute ( inclusiv intervalele 37 -84, respectiv orele 08:00 -20:00 
+CET): 
+𝑣𝑜𝑙𝑢𝑚𝑣â𝑟𝑓 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+84
+𝑗=37
+ 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, caz în care 
+OPCOM publică volumul total de energie pentru 48 intervale de 15 
+minute ( inclusiv intervalele 29 -76, respectiv orele 08:00 -20:00 
+CET): 
+𝑣𝑜𝑙𝑢𝑚𝑣â𝑟𝑓 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+76
+𝑗=29
+ 
+ 
+Preţ pentru orele de gol  
+[lei/MWh] / [euro/MWh] 
+ 
+ 
+Media aritmetică a preţurilor de închidere a Pieţei pentru Ziua 
+Următoare corespunzătoare orelor de gol de sarcină: 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑂𝑓𝑓 − 𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+32
+𝑗=1 + ∑ 𝑝𝑗
+96
+𝑗=81
+48  
+Acest indice de preţ este determinat în fiecare zi a anului ca medie 
+aritmetică a celor 48 intervale de 15 minute  corespunzătoare orelor 
+de gol de sarcină (inclusiv intervalele 1-32 şi 81-96, respectiv orele 
+00:00-08:00 și 20:00-24:00 CET). 
+Pentru ziua de trecere de la ora de vară la iarnă, caz în care OPCOM 
+publică preţul mediu calculat pentru 52 intervale de tranzacţionare 
+(inclusiv intervalele 1-36 şi 85-100, respectiv orele 00:00 -08:00 și 
+20:00-24:00 CET):  
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑂𝑓𝑓 − 𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+36
+𝑗=1 + ∑ 𝑝𝑗
+100
+𝑗=85
+52  
+Pentru ziua de trecere de la ora de iarnă la vară, caz în care OPCOM 
+publică preţul mediu calculat pentru 44 intervale de tranzacţionare 
+(inclusiv intervalele 1 -28 şi 77-92, respectiv orele 00:00 -08:00 și 
+20:00-24:00 CET): 
+𝑅𝑂𝑃𝐸𝑋_𝐷𝐴𝑀_𝑂𝑓𝑓 − 𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+28
+𝑗=1 + ∑ 𝑝𝑗
+92
+𝑗=77
+44  
+ 
+Volum pentru orele de gol 
+de sarcină [MWh] 
+(volum gol) 
+Suma volumelor de energie tranzacţionate pe Piaţa pentru Ziua 
+Următoare corespunzătoare orelor de gol de sarcină  (orele 00:00-
+08:00 și 20:00-24:00 CET): 
+
+
+=== PDF PAGE 4 ===
+4/32 
+𝑣𝑜𝑙𝑢𝑚𝑔𝑜𝑙 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+32
+𝑗=1
++ ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+96
+𝑗=81
+ 
+Acest volum de energie este determinat pentru fiecare zi a anului 
+ca suma volumelor de energie corespunzătoare celor 48 intervale 
+de 15 minute (intervalele 1-32 şi 81-96, respectiv orele 00:00-08:00 
+și 20:00-24:00 CET).  
+Pentru ziua de trecere de la ora de vară la iarnă, OPCOM publică 
+volumul total de energie  calculat pentru 52 intervale de 
+tranzacţionare (inclusiv intervalele 1 -36 şi 85-100, respectiv orele 
+00:00-08:00 și 20:00-24:00 CET): 
+𝑣𝑜𝑙𝑢𝑚𝑔𝑜𝑙 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+36
+𝑗=1
++ ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+100
+𝑗=85
+ 
+Pentru ziua de trecere de la ora de iarnă la vară, OPCOM publică 
+volumul total de energie  calculat pentru 44 intervale de 
+tranzacţionare (intervalele 1 -28 şi 77-92, respectiv orele 0 0:00-
+08:00 și 20:00-24:00 CET): 
+𝑣𝑜𝑙𝑢𝑚𝑔𝑜𝑙 = ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+28
+𝑗=1
++ ∑ 𝑣𝑜𝑙𝑢𝑚𝑗
+92
+𝑗=77
+ 
+ 
+Preț mediu 30 min 
+[lei/MWh] / [euro/MWh] 
+Media aritmetică a pre țurilor de închidere a Pie ței pentru Ziua 
+Următoare corespunzătoare intervalelor  de 15 min incluse  in 
+intervalul de timp de 30 min , cele 48 de valori fiind furnizate de 
+algoritmul Euphemia. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică Prețul mediu 30 min calculat pentru fiecare din cele 50 de 
+intervale de 30 minute. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică Prețul mediu 30 min calculat pentru fiecare din cele 46 de 
+intervale de 30 minute. 
+Preț mediu 60 min 
+[lei/MWh] / [euro/MWh] 
+ 
+Media aritmetică a pre țurilor de închidere a Pie ței pentru Ziua 
+Următoare corespunzătoare intervalelor de 15 min incluse in 
+intervalul de timp de 60 min, cele 24 de valori fiind furnizate de 
+algoritmul Euphemia. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică Prețul mediu 60 min calculat pentru fiecare din cele 25 de 
+intervale de 60 minute. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică Prețul mediu 60 min calculat pentru fiecare din cele 23 de 
+intervale de 60 minute. 
+ 
+ 
+ 
+ 190410_Euphemia Public Description version NEMO Committee.pdf 
+
+=== PDF PAGE 5 ===
+5/32 
+ 
+ 
+  
+Piaţa Intrazilnica (PI) - Tranzactionare continua (IDCT) 
+ 
+Preţ orar [euro/MWh] / [lei/MWh]  
+ 
+ 
+ 
+ 
+Media ponderata a preţurilor stabilite pe Piaţa Intrazilnică  
+(IDCT): 
+ 
+ 
+Acest indice de preţ este asociat fiecărui interval orar al unei 
+zile. Nu sunt luate in considerare blocurile. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_ID_H pentru 25 de intervale orare. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_ID_H calculat pentru 23 de intervale orare. 
+Pentru fiecare interval  al unei zile de livrare , preţul mediu în 
+Lei se calculează ca medie ponderată a preţurilor din 
+tranzacțiile orare convertită în Lei la cursul de schimb publicat 
+de Banca Naţională a României cu o zi lucrătoare înainte de 
+ziua de livrare corespunzătoare. Pentru zilele de livrare 
+sambata, duminica si luni, in vederea determinarii valorii 
+indicelui in Lei se va considera cursul de schimb publicat de 
+BNR in ziua de vineri, in timp ce pentru orice alte zile 
+nebancare se va utiliza ultimul curs de schimb publicat de BNR. 
+Preţ zilnic bandă [lei/MWh] / 
+[euro/MWh] 
+ 
+ 
+ 
+Media aritmetică zilnică a preţurilor orare stabilite pentru 
+fiecare interval orar pe Piaţa Intrazilnică (IDCT): 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+24
+𝑗=1
+24  
+Acest indice de preţ este determinat pentru fiecare zi a anului 
+ca medie aritmetică a preţurilor corespunzătoare celor 24 de 
+intervale orare. Nu sunt luate in considerare blocurile. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_ID_Base calculat pentru 25 de intervale orare: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+25
+𝑗=1
+25  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_ID_Base calculat pentru 23 de intervale orare: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝐵𝑎𝑠𝑒 =
+∑ 𝑝𝑗
+23
+𝑗=1
+23  
+Pentru fiecare zi de livrare, preţul mediu în Lei se calculează 
+ca medie a preţurilor corespunzătoare celor 24 (similar 23/25) 
+de intervale orare convertită în Lei la cursul de schimb publicat 
+de Banca Naţională a României cu o zi lucrătoare înainte de 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝐻 = ∑ 𝑝𝐻𝑖 ∗ 𝑞𝐻𝑖
+𝑛
+𝑖=1
+𝑞𝐻𝑖
+ 
+ROPEX_ID_Base  
+
+
+=== PDF PAGE 6 ===
+6/32 
+ziua de livrare corespunzătoare. Pentru zilele de livrare 
+sambata, duminica si luni, in vederea determinarii valorii 
+indicelui in Lei se va considera cursul de schimb publicat de 
+BNR in ziua de vineri, in timp ce pentru orice alte zile 
+nebancare se va utiliza ultimul curs de schimb publicat de BNR. 
+Preţ zilnic pentru orele de vârf 
+[lei/MWh] / [euro/MWh] 
+ 
+Media aritmetică zilnică a preţurilor orare stabilite 
+corespunzătoare orelor de vârf de sarcină pe Piaţa Intrazilnică 
+(IDCT): 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+20
+𝑗=9
+12  
+Acest indice de preţ este determinat pentru fiecare zi a anului 
+ca medie aritmetică a preţurilor corespunzătoare celor 12 
+intervale orare, considerate ore de vârf (inclusiv intervalele 9 
+şi 20). Nu sunt luate in considerare blocurile. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_ID_Peak calculat pentru 12 intervale orare: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+21
+𝑗=10
+12  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_ID_Peak calculat pentru 12 intervale orare: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+19
+𝑗=8
+12  
+Pentru fiecare zi de livrare, preţul mediu în Lei se calculează 
+ca medie a preţurilor corespunzătoare celor 12 intervale orare 
+convertită în Lei la cursul de schimb publicat de Banca 
+Naţională a României cu o zi lucrătoare înainte de ziua de 
+livrare corespunzătoare.  Pentru zilele de livrare sambata, 
+duminica si luni, in vederea determinarii valorii indicelui in Lei 
+se va considera cursul de schimb publicat de BNR in ziua de 
+vineri, in timp ce pentru orice alte zile nebancare se va utiliza 
+ultimul curs de schimb publicat de BNR. 
+ 
+PMP bloc [lei/MWh] / [euro/MWh] 
+ 
+ 
+ 
+Pret mediu ponderat calculat ca medie ponderata (cu volumul 
+tranzactionat) a tuturor tranzactiilor bloc defalcate pe fiecare 
+interval al blocului: 
+𝑃𝑀𝑃_𝑏𝑙𝑜𝑐 = ∑ 𝑝𝑖_𝑏𝑙𝑜𝑐 ∗ 𝑞𝑖_𝑏𝑙𝑜𝑐
+𝑛
+𝑖=1
+𝑞𝑖_𝑏𝑙𝑜𝑐
+ 
+Acest indice de preţ este asociat fiecărui interval orar al unei 
+zile.  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică PMP_bloc pentru pentru 25 de intervale orare. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică PMP_bloc calculat pentru pentru 23 de intervale orare. 
+Pentru fiecare interval al unei zile de livrare, preţul mediu în 
+Lei se calculează ca medie ponderată a preţurilor din 
+ ROPEX_ID_Peak 
+
+
+=== PDF PAGE 7 ===
+7/32 
+tranzacțiile bloc convertită în Lei la cursul de schimb publicat 
+de Banca Naţională a României cu o zi lucrătoare înainte de 
+ziua de livrare corespunzătoare. Pentru zilele de livrare 
+sambata, duminica si luni, in vederea determinarii valorii 
+indicelui in Lei se va considera cursul de schimb publicat de 
+BNR in ziua de vineri, in timp ce pentru orice alte zile 
+nebancare se va utiliza ultimul curs de schimb publicat de BNR. 
+Volum blocuri [MWh] Suma volumelor blocurilor tranzactionate pentru o zi de livrare 
+pe Piaţa Intrazilnică  (IDCT). In cazul unui bloc cu livrare in 
+doua zile diferite se va calcula dupa cum urmeaza: 
+- in prima zi de livrare acoperita de bloc se vor lua in 
+considerare cantitatea corespunzatoare intervalelor 
+orare ale primei zile de livrare acoperita de bloc; 
+- in a doua zi de livrare acoperita de bloc se vor lua in 
+considerare cantitatea corespunzatoare intervalelor 
+orare din cea de-a doua zi de livrare acoperita de bloc. 
+𝑉𝑜𝑙𝑢𝑚 𝑏𝑙𝑜𝑐𝑢𝑟𝑖= ∑ 𝑣𝑜𝑙𝑢𝑚 𝑏𝑙𝑜𝑐𝑖
+𝑛
+𝑖=1
+ 
+Acest volum este determinat pentru fiecare zi de livrare a 
+anului. 
+ 
+PMP 15 min [euro/MWh] / 
+[lei/MWh]  
+ 
+ 
+ 
+ 
+Media ponderata a preţurilor stabilite pe Piaţa Intrazilnică  
+(IDCT) pentru fiecare interval de 15 minute pe Piaţa 
+Intrazilnică: 
+𝑃𝑀𝑃_15 𝑚𝑖𝑛 = ∑ 𝑝𝑖_15𝑚𝑖𝑛 ∗ 𝑞𝑖_15𝑚𝑖𝑛
+𝑛
+𝑖=1
+𝑞𝑖_15𝑚𝑖𝑛
+ 
+Acest indice de preţ este asociat fiecărui interval de 15 minute 
+al unei zile.  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică PMP_15 min pentru 100 de intervale de 15 minute. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică PMP_15 min  calculat pentru 92 de intervale de 15 
+minute. 
+Pentru fiecare interval  al unei zile de livrare , preţul mediu în 
+Lei se calculează ca medie ponderată a preţurilor din 
+tranzacțiile de 15 minute convertită în Lei la cursul de schimb 
+publicat de Banca Naţională a României cu o zi lucrătoare 
+înainte de ziua de livrare corespunzătoare. Pentru zilele de 
+livrare sambata, duminica si luni, in vederea determinarii 
+valorii indicelui in Lei se va considera cursul de schimb publicat 
+de BNR in ziua de vineri, in timp ce pentru orice alte zile 
+nebancare se va utiliza ultimul curs de schimb publicat de BNR. 
+
+=== PDF PAGE 8 ===
+8/32 
+Preţ zilnic bandă [lei/MWh] / 
+[euro/MWh] 
+ 
+ 
+ 
+Media aritmetică zilnică a preţurilor stabilite pentru fiecare 
+interval de 15 minute pe Piaţa Intrazilnică (IDCT): 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐵𝑎𝑠𝑒 (1−96) =
+∑ 𝑝𝑗
+96
+𝑗=1
+96  
+Acest indice de preţ este determinat pentru fiecare zi a anului 
+ca medie aritmetică a preţurilor corespunzătoare celor 96 de 
+intervale de 15 minute ale zilei.  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_ID_Base calculat pentru 100 de intervale de 
+15 minute: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐵𝑎𝑠𝑒 (1−100) =
+∑ 𝑝𝑗
+100
+𝑗=1
+100  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_ID_Base calculat pentru 92 de intervale orare 
+de 15 minute: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐵𝑎𝑠𝑒 (1−92) =
+∑ 𝑝𝑗
+92
+𝑗=1
+92  
+Pentru fiecare zi de livrare, preţul mediu în Lei se calculează 
+ca medie a preţurilor corespunzătoare celor 96 (similar pentru 
+100/92) de intervale de 15 minute convertită în Lei la cursul 
+de schimb publicat de Banca Naţională a României cu o zi 
+lucrătoare înainte de ziua de livrare corespunzătoare. Pentru 
+zilele de livrare sambata, duminica si luni, in vederea 
+determinarii valorii indicelui in Lei se va considera cursul de 
+schimb publicat de BNR in ziua de vineri, in timp ce pentru 
+orice alte zile nebancare se va utiliza ultimul curs de schimb 
+publicat de BNR. 
+Preţ zilnic pentru orele de vârf 
+[lei/MWh] / [euro/MWh] 
+ 
+Media aritmetică zilnică a preţurilor stabilite in intervalele de 
+15 minute corespunzătoare orelor de vârf de sarcină pe Piaţa 
+Intrazilnică (IDCT): 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+80
+𝑗=33
+48  
+Acest indice de preţ este determinat pentru fiecare zi a anului 
+ca medie aritmetică a preţurilor corespunzătoare celor 48 
+intervale de 15 minute, considerate intervale de vârf (inclusiv 
+intervalele 33 şi 80).  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică ROPEX_ ID_Peak calculat pentru 48 intervale de 15 
+minute: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+84
+𝑗=37
+48  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică ROPEX_ ID_Peak calculat pentru 48 intervale de 15 
+minute: 
+ ROPEX_ID_Peak (33-80) 
+ ROPEX_ID_Base (1-96) 
+
+
+=== PDF PAGE 9 ===
+9/32 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷_𝑃𝑒𝑎𝑘 =
+∑ 𝑝𝑗
+76
+𝑗=29
+48  
+Pentru fiecare zi de livrare, preţul mediu în Lei se calculează 
+ca medie a preţurilor corespunzătoare celor 48 intervale de 15 
+minute convertită în Lei la cursul de schimb publicat de Banca 
+Naţională a României cu o zi lucrătoare înainte de ziua de 
+livrare corespunzătoare.  Pentru zilele de livrare sambata, 
+duminica si luni, in vederea determinarii valorii indicelui in Lei 
+se va considera cursul de schimb publicat de BNR in ziua de 
+vineri, in timp ce pentru orice alte zile nebancare se va utiliza 
+ultimul curs de schimb publicat de BNR. 
+ 
+ 
+ 
+Volum total pentru tranzacțiile 
+de 15 min [MWh] 
+Suma volumelor tranzacționate pe Piaţa Intrazilnică (IDCT) in 
+fiecare interval de 15 minute, exprimată în unități orare: 
+𝑣𝑜𝑙𝑢𝑚= ∑ 𝑣𝑜𝑙𝑢𝑚𝑗(𝑝𝑟𝑜𝑑𝑢𝑠15𝑚𝑖𝑛)
+96
+𝑗=1
+∗ 1
+4 
+Acest volum este determinat pentru fiecare zi de livrare a 
+anului ca sumă a volumelor corespunzătoare celor 96 de 
+intervale de 15 minute, exprimată în unități orare. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică volumul total calculat pentru 100 de intervale de 15 
+minute, exprimată în unități orare: 
+𝑣𝑜𝑙𝑢𝑚= ∑ 𝑣𝑜𝑙𝑢𝑚𝑗(𝑝𝑟𝑜𝑑𝑢𝑠15𝑚𝑖𝑛)
+100
+𝑗=1
+∗ 1
+4 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, 
+OPCOM publică volumul total pentru 92 de intervale orare de 
+15 minute, exprimată în unități orare: 
+𝑣𝑜𝑙𝑢𝑚= ∑ 𝑣𝑜𝑙𝑢𝑚𝑗(𝑝𝑟𝑜𝑑𝑢𝑠15𝑚𝑖𝑛)∗ 1
+4
+92
+𝑗=1
+ 
+Volum tranzacții orare[MWh] Suma volumelor tranzac țiilor orare pentru o zi de livrare  pe 
+Piaţa Intrazilnică (IDCT):  
+𝑉𝑜𝑙𝑢𝑚 𝑜𝑟𝑎𝑟= ∑ 𝑣𝑜𝑙𝑢𝑚 𝑜𝑟𝑎𝑟𝑖
+𝑛
+𝑖=1
+ 
+Acest volum este determinat pentru fiecare zi de livrare a 
+anului. 
+ 
+ 
+ 
+  
+
+=== PDF PAGE 10 ===
+10/32 
+Piaţa Intrazilnica (PI) – Licitații intrazilnice (IDA) 
+ 
+Preţuri interval [lei/MWh] / 
+[euro/MWh] 
+ 
+ 
+ 
+ 
+Succesiunea celor 96 de intervale de 15 minute ale preţului de 
+închidere pe Piaţa Intrazilnica (IDA) pentru cele 3 sesiuni de 
+licitație: 
+𝑹𝑶𝑷𝑬𝑿_𝑰𝑫𝑨_𝟏𝟓𝒎𝒊𝒏 
+Acest indice de preţ este asociat fiecărui interval de 15 minute 
+al unei zile, pentru fiecare sesiune de licitație.  
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică pentru sesiunea 1 si 2, ROPEX_IDA_15 min pentru 100 
+de intervale de 15 minute. 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică pentru sesiunile 1 si 2, ROPEX_IDA_15 min calculat 
+pentru 92 de intervale de 15 minute. 
+Pentru sesiunea 3, OPCOM publică ROPEX_IDA_15 min pentru 
+48 de intervale de 15 minute. 
+Preţ zilnic pe sesiune [lei/MWh] / 
+[euro/MWh] 
+ 
+ 
+ 
+Media aritmetică zilnică a preţurilor stabilite pentru fiecare 
+interval de 15 minute  pe Piaţa Intrazilnică  (IDA), pe fiecare 
+sesiune de licitație (N): 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐴(1/2)=
+∑ 𝑝𝑗
+96
+𝑗=1
+96  
+Acest indice de preţ este determinat pentru sesiunea 1 si 2,  
+ca medie aritmetică a preţurilor corespunzătoare celor 96 de 
+intervale de 15 minute.  
+Pentru sesiunea 3, acest indice de preț este calculat ca medie 
+aritmetică a prețurilor corespunzătoare ultimelor 48 de 
+intervale de 15 minute ale zilei de livrare.  
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐴3 =
+∑ 𝑝𝑗
+96
+𝑗=49
+48  
+ 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică pentru sesiunea 1 si sesiunea 2, ROPEX_IDA(1/2) 
+calculat pentru cele 100 de intervale de 15 minute: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐴(1/2)=
+∑ 𝑝𝑗
+100
+𝑗=1
+100  
+Pentru ziua de trecere de la ora de iarnă la ora de vară, OPCOM 
+publică pentru sesiunea 1 si sesiunea 2, 
+ROPEX_IDA(1/2)calculat pentru 92 de intervale de 15 minute: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐴(1/2)=
+∑ 𝑝𝑗
+92
+𝑗=1
+92  
+Pentru sesiunea 3 ROPEX_IDA3 va fi calculat pentru  ulimele 
+48 de intervale de 15 minute ale zilei de livrare. 
+ 
+ROPEX_IDA_15 min 
+ROPEX_IDA(N)  
+
+
+=== PDF PAGE 11 ===
+11/32 
+𝑅𝑂𝑃𝐸𝑋𝐼𝐷𝐴3 =
+∑ 𝑝𝑗
+100
+𝑗=53
+48 , 𝑅𝑂𝑃𝐸𝑋𝐼𝐷𝐴3 =
+∑ 𝑝𝑗
+92
+𝑗=45
+48 ,  
+ 
+Preţ zilnic [lei/MWh] / [euro/MWh] 
+ 
+Media ponderata a celor trei licitatii zilnice  stabilite pentru pe 
+Piaţa Intrazilnică: 
+𝑅𝑂𝑃𝐸𝑋_𝐼𝐷𝐴_𝐷𝑎𝑦 =
+(𝑅𝑂𝑃𝐸𝑋𝐼𝐷𝐴1 ∗ 𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴1)+ (𝑅𝑂𝑃𝐸𝑋𝐼𝐷𝐴2 ∗ 𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴2)+ (𝑅𝑂𝑃𝐸𝑋𝐼𝐷𝐴3 ∗ 𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴3)
+𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴1 + 𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴2 + 𝑉𝑜𝑙𝑢𝑚𝐼𝐷𝐴3
+ 
+Acest indice de preţ este determinat pentru fiecare zi de livrare 
+în care se realizeză minim o tranzacție. 
+Volum_IDA_Day [MWh] Suma volumelor tranzacționate pe Piaţa Intrazilnică (IDA) in 
+fiecare interval de 15 minute, exprimată în unități orare pentru 
+cele 3 sesiuni de licitație: 
+𝑉𝐼𝐷𝐴_𝐷𝑎𝑦 = (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+96
+𝑗=1
+∗ 1
+4)
+𝑆1
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+96
+𝑗=1
+∗ 1
+4)
+𝑆2
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+48
+𝑗=1
+∗ 1
+4)
+𝑆3
+ 
+Acest volum este determinat pentru fiecare zi de livrare a 
+anului ca sumă a volumelor corespunzătoare celor 96, 
+respectiv 48 pentru sesiunea 3,  de intervale de 15 minute, 
+exprimată în unități orare. 
+Pentru ziua de trecere de la ora de vară la ora de iarnă, OPCOM 
+publică volumul total calculat pentru 100 de intervale , 
+respectiv 48 pentru sesiunea 3,  de 15 minute, exprimată în 
+unități orare pentru cele 3 sesiuni de licitație: 
+𝑉𝐼𝐷𝐴_𝐷𝑎𝑦 = (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+100
+𝑗=1
+∗ 1
+4)
+𝑆1
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+100
+𝑗=1
+∗ 1
+4)
+𝑆2
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+48
+𝑗=1
+∗ 1
+4)
+𝑆3
+ 
+Pentru ziua de trecere de la ora de iarnă la ora de vară, 
+OPCOM publică volumul total pentru 92 respectiv 48 pentru 
+sesiunea 3,  de intervale de 15 minute, exprimată în unități 
+orare: 
+𝑉𝐼𝐷𝐴_𝐷𝑎𝑦 = (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+92
+𝑗=1
+∗ 1
+4)
+𝑆1
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+92
+𝑗=1
+∗ 1
+4)
+𝑆2
++ (∑ 𝑣𝑜𝑙𝑢𝑚𝑗(15𝑚𝑖𝑛)
+48
+𝑗=1
+∗ 1
+4)
+𝑆3
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROPEX_IDA_Day  
+
+
+=== PDF PAGE 12 ===
+12/32 
+ 
+ 
+Pieţe la termen (forward market - FM) de energie electrică 
+ 
+Preţ mediu 
+ponderat calculat 
+pentru contractele 
+cu livrare în luna M 
+[lei/MWh] 
+ 
+ 
+ 
+Media ponderată a preţurilor din contractele bilaterale cu livrare în luna M 
+tranzacţionate pe pieţele la termen administrate de OPCOM SA: 
+  
+Începand cu 1 martie 2021, acest indice de preţ este particularizat pentru Piaţa 
+centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare PCCB-LE, Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB -NC, Piata centralizată cu 
+negociere dublă continuă a contractelor bilaterale de energie electrică PC-OTC, 
+Piața Centralizată pentru Serviciul Universal PCSU , Piața de energie electrică 
+pentru clienții finali mari PMC și Piaţa centralizată a contractelor bilaterale de 
+energie electrică - modalitatea de tranzacţionare PCCB -LE-Flex, fiind calculat 
+ca medie ponderată a tuturor contractelor aflate în livrare într-o lună, pe cele 
+șase pieţe. Nu sunt luate în considerare contractele încheiate prin modalitățile 
+de tranzacționare PCCB -LE, PCCB-NC și PCCB-LE-Flex care au fost reziliate/ 
+încetate cu acordul părților și notificate OPCOM  în conformitate cu Ordinul 
+ANRE nr. 50/2019, Ordinul 64/2020 și cu adresele ANRE nr. 19941/02.03.2020 
+și 34453/27.04.2020. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor din contractele bilaterale convertite în Euro la cursul de 
+schimb publicat de Banca Naţională a României în ziua de tranzacţionare. 
+ Actualizarea se face în ziua de tranzacționare a unui nou contract , respectiv 
+în ziua lucrătoare care urmează publicării pe website a contractelor reziliate / 
+încetate cu acordul părților. În zilele în care nu există tranzacții se vor afișa 
+rezultatele corespunzătoare ultimei zile în care au fost stabilite tranzacții. 
+ 
+Preț mediu 
+ponderat calculat 
+pentru contractele 
+cu livrare în anul Y 
+[lei/MWh] 
+ 
+  
+Media ponderată a preţurilor din contractele bilaterale cu livrare în anul Y 
+tranzacţionate pe pieţele la termen administrate de OPCOM SA: 
+  
+Începand cu 1 martie 2021, acest indice de preţ este particularizat pentru Piaţa 
+centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare PCCB-LE, Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB -NC, Pia ța centralizată cu 
+negociere dublă continuă a contractelor bilaterale de energie electrică PC-OTC, 
+Piața Centralizată pentru Serviciul Universal PCSU , Piața de energie electrică 
+pentru clientii finali mari PMC și Piaţa centralizată a contractelor bilaterale de 
+energie electrică - modalitatea de tranzacţionare PCCB -LE-Flex, fiind calculat 
+ca medie ponderată a tuturor contractelor aflate în livrare într-un an pe PCCB-
+LE, PCCB -NC, PC-OTC, PCSU , P MC și PCCB -LE-Flex. Nu sunt luate in 
+considerare contractele încheiate prin modalitățile de tranzacționare PCCB-LE, 
+PCCB-LE-Flex și PCCB-NC care au fost reziliate / încetate cu acordul părților și 
+notificate OPCOM în conformitate cu Ordinul ANRE nr. 50/2019 , Ordinul 
+64/2020 și cu adresele ANRE nr. 19941/ 02.03.2020 și 34453/27.04.2020. 
+𝑅𝑂𝑃𝐸𝑋_𝐹𝑀_𝑀 = ∑ (𝑝 ∗ 𝑞)𝑃𝐶𝐶𝐵_𝐿𝐸 + ∑ (𝑝 ∗ 𝑞)𝑃𝐶𝐶𝐵−𝑁𝐶 + ∑ (𝑝 ∗ 𝑞)𝑃𝐶−𝑂𝑇𝐶 + ∑ (𝑝 ∗ 𝑞)𝑃𝐶𝑆𝑈 + ∑ (𝑝 ∗ 𝑞)𝑃𝑀𝐶 + 𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1 ∑ (𝑝 ∗ 𝑞)𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥
+𝑛
+𝑖=1
+∑ 𝑞(𝑃𝐶𝐶𝐵−𝐿𝐸)+ ∑ 𝑞(𝑃𝐶𝐶𝐵−𝑁𝐶)+ ∑ 𝑞(𝑃𝐶−𝑂𝑇𝐶)+𝑛
+𝑖=1 ∑ 𝑞(𝑃𝐶𝑆𝑈)+ ∑ 𝑞(𝑃𝑀𝐶)𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1 + ∑ 𝑞(𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥 )𝑛
+𝑖=1
+ 
+
+
+=== PDF PAGE 13 ===
+13/32 
+Pentru fiecare an de livrare, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor din contractele bilaterale convertite în Euro  la  cursul 
+de schimb publicat de Banca Naţională a României în ziua de tranzacţionare. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, respectiv 
+în ziua lucrătoare care urmează publicării pe website a contractelor reziliate / 
+încetate cu acordul părților. În zilele în care nu există tranzacții se vor afișa 
+rezultatele corespunzătoare ultimei zile în care au fost stabilite tranzacții. 
+Volum (cantitate) 
+pentru contractele 
+cu livrare în luna M 
+corespunzator 
+ROPEX_FM [MWh]  
+ 
+Volumul total din contractele bilaterale cu livrare în luna M tranzacţionate pe 
+pe pieţele la termen administrate de OPCOM SA: 
+𝑉𝑜𝑙𝑢𝑚𝑅𝑂𝑃𝐸𝑋𝐹𝑀𝑀
+= ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸)
+𝑛
+𝑖=1
++ ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝑁𝐶)+ ∑ 𝑞𝑀𝑖(𝑃𝐶−𝑂𝑇𝐶)+ ∑ 𝑞𝑀𝑖(𝑃𝐶𝑆𝑈)
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1
++ ∑ 𝑞𝑀𝑖(𝑃𝑀𝐶)+ + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥)
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+ 
+Începand cu 1 martie 2021 , acest  indice este particularizat pentru Piaţa 
+centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare PCCB-LE, Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB -NC, Piața centralizată cu 
+negociere dublă continuă a contractelor bilaterale de energie electrică PC-OTC, 
+Piața Centralizată pentru Serviciul Universal PCSU , Piața de energie electrică 
+pentru clientii finali mari PMC și Piaţa centralizată a contractelor bilaterale de 
+energie electrică - modalitatea de tranzacţionare PCCB -LE-Flex fiind calculat 
+ca sumă a volumelor tuturor contractelor aflate în livrare într-o lună pe cele 
+șase pieţe. Nu sunt luate in considerare contractele încheiate prin modalitățile 
+de tranzacționare PCCB-LE, PCCB-LE-Flex și PCCB-NC care au fost reziliate  / 
+încetate cu acordul părților  și notificate OPCOM în conformitate cu Ordinul 
+ANRE nr. 50/2019, Ordinul 64/2020 și cu adresele ANRE nr. 19941/02.03.2020 
+și 34453/27.04.2020. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, respectiv în 
+ziua lucrătoare care urmează publicării pe website a contractelor reziliate / 
+încetate cu acordul părților. În zilele în care nu există tranzacții se vor afișa 
+rezultatele corespunzătoare ultimei zile în care au fost stabilite tranzacții. 
+Volum (cantitate) 
+pentru contractele 
+cu livrare în anul Y 
+corespunzator 
+ROPEX_FM [MWh]  
+ 
+Volumul total din contractele bilaterale cu livrare în anul Y tranzacţionate 
+pe pieţele la termen administrate de OPCOM SA: 
+𝑉𝑜𝑙𝑢𝑚𝑅𝑂𝑃𝐸𝑋𝐹𝑀𝑌
+= ∑ 𝑞𝑌𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸)
+𝑛
+𝑖=1
++ ∑ 𝑞𝑌𝑖(𝑃𝐶𝐶𝐵−𝑁𝐶)+ ∑ 𝑞𝑌𝑖(𝑃𝐶−𝑂𝑇𝐶)+ ∑ 𝑞𝑌𝑖(𝑃𝐶𝑆𝑈)
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+𝑛
+𝑖=1
++ ∑ 𝑞𝑌𝑖(𝑃𝑀𝐶)+ + ∑ 𝑞𝑌𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥)
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+ 
+Începand cu 1 martie 2021, acest indice este particularizat pentru Piaţa 
+centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare PCCB -LE, Piaţa centralizată a contractelor bilaterale de 
+energie electrică – modalitatea de tranzacţionare PCCB -NC, Piața 
+centralizată cu negociere dublă continuă a contractelor bilaterale de energie 
+electrică PC-OTC, Piața Centralizată pentru Serviciul Universal PCSU, Piața 
+de energie electrică pentru clientii finali mari PMC  și Piaţa centralizată a 
+contractelor bilaterale de energie electrică - modalitatea de tranzacţionare 
+PCCB-LE-Flex fiind calculat ca sumă a volumelor tuturor contractelor aflate 
+în livrare  într-un an  pe cele șase pieţe. Nu sunt luate in considerare 
+contractele încheiate prin modalitățile de tranzacționare PCCB-LE, PCCB-LE-
+Flex și sau PCCB -NC care au fost reziliate / încetate cu acordul părților și 
+notificate OPCOM în conformitate cu Ordinul ANRE nr. 50/2019, Ordinul 
+64/2020 și cu adresele ANRE nr. 19941/02.03.2020 și 34453/27.04.2020. 
+
+=== PDF PAGE 14 ===
+14/32 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, respectiv 
+în ziua lucrătoare care urmează publicării pe website a contractelor reziliate/ 
+încetate cu acordul părților. În zilele în care nu există tranzacții se vor afișa 
+rezultatele corespunzătoare ultimei zile în care au fost stabilite tranzacții. 
+ 
+Piaţa centralizată a contractelor bilaterale, Piața de energie electrică 
+pentru clienții finali mari și Piața Centralizată pentru energie electrică din 
+surse regenerabile susținută prin certificate verzi 
+Preţ mediu 
+ponderat calculat 
+pentru contractele 
+cu livrare în luna M 
+pe pieţele PCCB, 
+PMC și PCE-ESRE-
+CV [lei/MWh] 
+ 
+ 
+Media ponderată a preţurilor din contractele bilaterale cu livrare în luna M 
+tranzacţionate pe Piaţa centralizată a contractelor bilaterale  administrată de 
+OPCOM SA: 
+𝑃𝑟𝑒 𝑡𝑃𝐶𝐶𝐵+𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉 = ∑ (𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖)𝑃𝐶𝐶𝐵−𝐿𝐸 + ∑ (𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖)𝑃𝐶𝐶𝐵−𝑁𝐶 + (𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖)𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥 + (𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖)𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉 + (𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖)𝑃𝑀𝐶
+𝑛
+𝑖=1
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝑁𝐶)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝑀𝐶)
+𝑛
+𝑖=1
+ 
+În prezent acest preţ este particularizat pentru Piaţa centralizată a contractelor 
+bilaterale de energie electrică – modalitatea de tranzacţionare PCCB-LE, Piaţa 
+centralizată a contractelor bilaterale de energie electrică – modalitatea de 
+tranzacţionare PCCB-NC, Piaţa centralizată a contractelor bilaterale de energie 
+electrică - modalitatea de tranzacţionare PCCB -LE-Flex, Piața de energie 
+electrică pentru clienții finali mari  PMC și Piața Centralizată pentru energie 
+electrică din surse regenerabile susținută prin certificate verzi  PCE-ESRE-CV, 
+fiind calculat ca medie ponderată a tuturor preţurilor contractelor aflate în 
+livrare într-o lună pe cele patru pieţe. Nu sunt luate in considerare contractele 
+încheiate prin modalitățile de tranzacționare PCCB-LE, PCCB-LE-Flex și PCCB-
+NC care au fost reziliate / încetate cu acordul părtilor  și notificate OPCOM în 
+conformitate cu Ordinul ANRE nr. 50/2019 , Ordinul ANRE nr. 64/2020  și cu 
+adresele ANRE nr. 19941/ 02.03.2020 și 34453/27.04.2020. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor din contractele bilaterale convertite în Euro la cursul de 
+schimb publicat de Banca Naţională a României în ziua de tranzacţionare. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, respectiv în 
+ziua lucrătoare care urmează publicării pe website a contractelor reziliate / 
+încetate cu acordul părților.  
+Volum total pentru 
+contractele cu 
+livrare în luna M pe 
+pieţele PCCB, PMC 
+și PCE-ESRE-CV 
+[MWh]  
+ 
+ 
+ 
+Volumul total din contractele bilaterale cu livrare în luna M tranzacţionate pe 
+Piaţa centralizată a contractelor bilaterale administrate de OPCOM S.A.: 
+𝑉𝑜𝑙𝑢𝑚𝑃𝐶𝐶𝐵+𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉 = ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝑁𝐶)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐶𝐵−𝐿𝐸−𝐹𝑙𝑒𝑥)
+𝑛
+𝑖=1 + ∑ 𝑞𝑀𝑖(𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉)
+𝑛
+𝑖=1 +∑ 𝑞𝑀𝑖(𝑃𝑀𝐶)
+𝑛
+𝑖=1  
+În prezent acest volum este particularizat pentru Piaţa centralizată a 
+contractelor bilaterale de energie electrică – modalitatea de tranzacţionare 
+PCCB-LE, Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC, Piaţa centralizată a contractelor 
+bilaterale de energie electrică - modalitatea de tranzacţionare PCCB-LE-Flex,și 
+Piața de energie electrică pentru clienții finali mari  PMC și Piața Centralizată 
+pentru energie electrică din surse regenerabile susținută prin certificate verzi  
+PCE-ESRE-CV, fiind calculat ca sumă a volumelor tuturor contractelor aflate în 
+livrare într-o lună pe cele patru pieţe. Nu sunt luate in considerare contractele 
+încheiate prin modalitățile de tranzacționare PCCB-LE, PCCB-LE-Flex și PCCB-
+NC care au fost reziliate  / încetate cu acordul părților și notificate OPCOM în 
+
+=== PDF PAGE 15 ===
+15/32 
+conformitate cu Ordinul ANRE nr. 50/2019 , Ordinul 64/2020 și cu adresele 
+ANRE nr. 19941/02.03.2020 și 34453/27.04.2020. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, respectiv în 
+ziua lucrătoare care urmează publicării pe website a contractelor reziliate / 
+încetate cu acordul părților.  
+Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE-Flex 
+ 
+Preţ mediu ponderat calculat 
+pentru contractele cu livrare în 
+luna M [lei/MWh] [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsa şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării pentru luna de livrare (pM) pe Piaţa 
+centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE-Flex: 
+𝑝𝑟𝑒𝑡=
+∑ 𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+aflate în livrare într -o lună, indiferent de momentul atribuirii şi se 
+actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă. Nu sunt luate in considerare contractele 
+încheiate prin modalitatea de tranzacționare PCCB-LE-Flex care au 
+fost reziliate / încetate cu acordul părților și notificate OPCOM în 
+conformitate cu Ordinul ANRE nr. 64/2020, Ordinul ANRE nr. 
+50/2019 și cu adresa ANRE nr. 34453/27.04.2020.  
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+luând în considerare cursul de schimb publicat de Banca Naţională 
+a României în ziua în care se tranzacţionează fiecare contract. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ bandă [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării  pentru luna de livrare pe piaţa 
+centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE-Flex: 
+𝑃𝑟𝑒 𝑡𝑏𝑎𝑛𝑑𝑎 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor tipurilor de 
+contracte cu livrare în bandă în lună, indiferent de momentul 
+atribuirii şi se actualizează ori de câte ori se tranzacţionează un 
+nou contract cu livrare în luna respectivă. Nu sunt luate in 
+considerare co ntractele încheiate prin modalitățile de 
+tranzacționare PCCB -LE-Flex care au fost reziliate / încetate cu 
+acordul părților și notificate OPCOM în conformitate cu Ordinul 
+ANRE nr. 64/2020, Ordinul ANRE nr. 50/2019  și cu adresa ANRE 
+nr. 34453/27.04.2020. 
+
+=== PDF PAGE 16 ===
+16/32 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+ca medie ponderată a preţurilor din contractele bilaterale 
+convertite în Euro la cursul de schimb publicat de Banca Naţională 
+a României în ziua de tranzacţionare. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ vârf [lei/MWh]  Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării  pentru luna de livrare pe piaţa 
+centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE-Flex: 
+𝑃𝑟𝑒 𝑡𝑣â𝑟𝑓 =
+∑ 𝑝𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∗ 𝑞𝑖𝑉𝑗
+∑ 𝑞𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+ 
+unde Vj reprezintă profilul de livrare în vârf 1 de sarcină  (Luni -
+Vineri, 06:00-22:00 CET), vârf 2 de sarcină  (Luni-Duminică, 06:00-
+22:00 CET), vârf de seară S1 ((Luni-Vineri, 17:00-21:00 CET) și 
+vârf de seară S2 (Luni-Duminică, 17:00-21:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor tipurilor de 
+contracte cu livrare la vârf de sarcină j în lună, indiferent de 
+momentul atribuirii şi se actualizează ori de câte ori se 
+tranzacţionează un nou contract cu livrare în luna respectivă. Nu 
+sunt luate in considerare contractele încheiate prin modalitatea de 
+tranzacționare PCCB -LE-Flex care au fost reziliate / încetate cu 
+acordul părților și notificate OPCOM în conformitate cu Ordinul 
+ANRE nr. 64/2020, Ordinul ANRE nr. 50/2019  și cu adresa ANRE 
+nr. 34453/27.04.2020.  
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+ca medie ponderată a preţurilor din contractele bilaterale 
+convertite în Euro la cursul de schimb publicat de Banca Naţională 
+a României în ziua de tranzacţionare. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ gol [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă  şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării  pentru luna de livrare pe piaţa 
+centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE-Flex: 
+𝑃𝑟𝑒 𝑡𝑔𝑜𝑙 =
+∑ 𝑝𝑖𝐺𝑗 ∗ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∑ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+
+=== PDF PAGE 17 ===
+17/32 
+unde Gj reprezintă profilul de livrare în gol 1 de sarcină (Luni -
+Vineri, 00:00 -06:00 și 22:00 -24:00 CET și Sâmbătă -Duminică, 
+00:00-24:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+cu livrare la gol de sarcină j în lună, calculate pe zona intervalelor 
+de gol de sarcină, respectiv 1 -6, 23-24 de luni până vineri, şi 
+intervalele 1 -24 sambată şi duminică, indiferent de momentul 
+atribuirii şi se actualizează ori de câte ori se tranzacţionează un 
+nou contract cu livrare în luna respectivă. Nu sunt luate in 
+considerare contractele încheiate p rin modalitatea de 
+tranzacționare PCCB -LE-Flex care au fost reziliate / încetate cu 
+acordul părților și notificate OPCOM în conformitate cu Ordinul 
+ANRE nr. 64/2020, Ordinul ANRE nr. 50/2019 și cu adresa ANRE 
+nr. 34453/27.04.2020. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+ca medie ponderată a preţurilor din contractele bilaterale 
+convertite în Euro la cursul de schimb publicat de Banca Naţională 
+a României în ziua de tranzacţionare. 
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+ 
+Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-NC  
+ 
+Preţ mediu 
+bandă_instrument 
+[lei/MWh] 
+(preţ bandă _ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în bandă, pentru perioada de livrare (pI) 
+pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑏𝑎𝑠𝑒_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioada de livrare specificată prin tipul instrumentului (zi, săptămână, 
+lună, trimestru, semestru sau an) tranzacţionabil.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite  prin negociere continu ă, 
+pentru energia electrică livrată în bandă . Nu sunt luate in considerare 
+contractele încheiate prin modalitatea de tranzacționare PCCB-NC care 
+au fost reziliate / încetate cu acordul părților și notificate OPCOM în 
+conformitate cu Ordinul ANRE nr. 50/2019  și cu adresa ANRE nr. 
+19941/02.03.2020.  
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro la cursul de schimb publicat 
+
+=== PDF PAGE 18 ===
+18/32 
+de Banca Naţională a României în ziua în care se tranzacţionează 
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract , 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+Preţ mediu vârf 1 
+_instrument [lei/MWh] 
+(preţ vârf 1_ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf 1 de sarcină pentru perioada de 
+livrare (p I) din Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑣â𝑟𝑓1_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖(𝑖𝑛𝑡. 7−22𝐿−𝑉)
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioadă determinată de instrumentele (săptămână, lună, trimestru , 
+semestru sau an) specifice acestei pieţe.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf 1 de sarcină (luni-vineri int. 7-
+22). Nu sunt luate in considerare contractele încheiate prin modalitatea 
+de tranzacționare PCCB-NC care au fost reziliate / încetate prin acordul 
+părților și notificate OPCOM în conformitate cu Ordinul ANRE nr. 
+50/2019 și cu adresa ANRE nr. 19941/02.03.2020.   
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro  la cursul de schimb publicat 
+de Banca Naţională a României în ziua în care se tranzacţionează  
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract , 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+Preţ mediu vârf 2 
+_instrument [lei/MWh] 
+(preţ vârf 2_ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf 2 de sarcină pentru perioada de 
+livrare (p I) din Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑣â𝑟𝑓2_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖(𝑖𝑛𝑡. 7−22𝐿−𝐷)
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioadă determinată de instrumentele (zi, săptămână, lună, trimestru, 
+semestru sau an) specifice acestei pieţe.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf 2 de sarcină (luni-duminică int. 
+7-22).  Nu sunt luate in considerare contractele încheiate prin 
+modalitatea de tranzacționare PCCB-NC care au fost reziliate / încetate 
+cu acordul părților și notificate OPCOM în conformitate cu Ordinul ANRE 
+nr. 50/2019 și cu adresa ANRE nr. 19941/02.03.2020. 
+
+=== PDF PAGE 19 ===
+19/32 
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro la cursul de schimb publicat 
+de Banca Naţională a României în ziua în care se tranzacţionează  
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract , 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ mediu vârf seară 1 
+_instrument [lei/MWh] 
+(preţ vârf S1_ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf S1 de sarcină pentru perioada 
+de livrare (pI) din Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑣â𝑟𝑓𝑆1_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖(𝑖𝑛𝑡. 18−21𝐿−𝑉)
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioadă determinată de instrumentele (zi, săptămână, lună, trimestru, 
+semestru sau an) specifice acestei pieţe.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite prin negociere continu ă, 
+pentru energia electrică livrată în vârf S1 de sarcină (luni-vineri int. 18-
+21).  Nu sunt luate in considerare contractele încheiate prin modalitatea 
+de tranzacționare PCCB-NC care au fost reziliate / încetate cu acordul 
+părților și notificate OPCOM în conformitate cu Ordinul ANRE nr. 
+50/2019 și cu adresa ANRE nr. 19941/02.03.2020. 
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro la cursul de schimb publicat 
+de Banca Naţională a României în ziua în care se tranzacţionează  
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ mediu vârf seară 2 
+_instrument [lei/MWh] 
+(preţ vârf S2_ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în vârf S2 de sarcină pentru perioada 
+de livrare (pI) din Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑣â𝑟𝑓𝑆2_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖(𝑖𝑛𝑡. 18−21𝐿−𝐷)
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioadă determinată de instrumentele (zi, săptămână, lună, trimestru, 
+semestru sau an) specifice acestei pieţe.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite prin negociere continu ă, 
+pentru energia electrică livrată în vârf S1 de sarcină (luni-duminică int. 
+
+=== PDF PAGE 20 ===
+20/32 
+18-21).  Nu sunt luate in considerare contractele încheiate prin 
+modalitatea de tranzacționare PCCB-NC care au fost reziliate / încetate 
+cu acordul părților și notificate OPCOM în conformitate cu Ordinul ANRE 
+nr. 50/2019 și cu adresa ANRE nr. 19941/02.03.2020. 
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro la cursul de schimb publicat 
+de Banca Naţională a României în ziua în care se tranzacţionează  
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ mediu 
+gol_instrument [lei/MWh] 
+(preţ gol _ instrument) 
+Media ponderată a contractelor atribuite  prin negociere continu ă, 
+pentru energia electrică livrată în gol de sarcină, pentru perioada de 
+livrare (p I) din Piaţa centralizată a contractelor bilaterale de energie 
+electrică – modalitatea de tranzacţionare PCCB-NC: 
+𝑝𝑟𝑒𝑡𝑔𝑜𝑙_𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑞𝐼𝑖 ∗ 𝑝𝐼𝑖(𝑖𝑛𝑡. 1−6;23−24,𝐿−𝑉;𝑖𝑛𝑡. 1−24,𝑆−𝐷)
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB -NC se încheie contracte având o 
+perioadă determinată de instrumentele (zi, săptămână, lună, trimestru, 
+semestru sau an) specifice acestei pieţe.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite prin negociere continu ă, 
+pentru energia electrică livrată în gol de sarcină ( luni-vineri int. 1-6 şi 
+23-24 şi sâmbătă şi duminică int. 1-24).  
+Nu sunt luate in considerare contractele încheiate prin modalitatea de 
+tranzacționare PCCB -NC care au fost reziliate / încetate cu acordul 
+părților și notificate OPCOM în conformitate cu Ordinul ANRE nr. 
+50/2019 și cu adresa ANRE nr. 19941/02.03.2020. 
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca medie 
+ponderată a preţurilor convertite în Euro la cursul de schimb publicat 
+de Banca Naţională a României în ziua în care se tranzacţionează 
+fiecare instrument.  
+Actualizarea se face în ziua de tranzacționare a unui nou contract, 
+respectiv în ziua lucrătoare care urmează publicării pe website a 
+contractelor reziliate / încetate cu acordul părților.  
+Volum total pe instrument 
+[MWh]  
+ 
+Volumul total al instrumentelor tranzacţionate pe Piaţa centralizată a 
+contractelor bilaterale de energie electrică – modalitatea de 
+tranzacţionare PCCB-NC: 
+𝑉𝑜𝑙𝑢𝑚𝑃𝐶𝐶𝐵−𝑁𝐶 = ∑ 𝑞𝐼𝑖(𝑃𝐶𝐶𝐵−𝑁𝐶)
+𝑛
+𝑖=1
+ 
+Acest volum este calculat ca sumă a volumelor tranzacționate pe 
+fiecare instrument tranzacționat (I) pe Piaţa centralizată a contractelor 
+bilaterale de energie electrică – modalitatea de tranzacţionare PCCB -
+NC. Nu sunt luate in considerare contractele încheiate prin modalitatea 
+
+=== PDF PAGE 21 ===
+21/32 
+de tranzacționare PCCB-NC care au fost reziliate/  încetate cu acordul 
+părților și notificate OPCOM în conformitate cu Ordinul ANRE nr. 
+50/2019 și cu adresa ANRE nr. 19941/02.03.2020. 
+Piaţa centralizată cu negociere dublă continuă a contractelor bilaterale – 
+PC-OTC 
+ 
+Preţ mediu ponderat 
+calculat pentru contractele 
+cu livrare în luna M 
+[lei/MWh] [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+negociere dublă continuă pentru luna de livrare (p M) pe Piaţa 
+centralizată cu negociere dublă continuă a contractelor bilaterale PC-
+OTC: 
+𝑝𝑟𝑒𝑡=
+∑ 𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+aflate în livrare într -o lună, indiferent de momentul atribuirii prin 
+negociere dublă continuă şi se actualizează ori de câte ori se 
+tranzacţionează un nou contract cu livrare în luna respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+luând în considerare cursul de schimb publicat de Banca Naţională a 
+României în ziua în care se tranzacţionează fiecare contract. 
+Preţ bandă [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+negociere dublă continuă pentru luna de livrare pe piaţa centralizată 
+cu negociere dublă continuă a contractelor bilaterale – PC-OTC: 
+𝑃𝑟𝑒 𝑡𝑏𝑎𝑛𝑑𝑎 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare în bandă în lună, indiferent de momentul 
+atribuirii prin negociere dublă continuă şi se actualizează ori de câte 
+ori se tranzacţionează un nou contract cu livrare în luna respectivă.   
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+Preţ vârf [lei/MWh]  Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+negociere dublă continuă pentru luna de livrare pe piaţa centralizată 
+cu negociere dublă continuă a contractelor bilaterale PC-OTC: 
+𝑃𝑟𝑒 𝑡𝑣â𝑟𝑓 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 7−22𝐿−𝑉)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 7−22𝐿−𝑉)
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare la vârf din lună, calculate pe zona intervalelor 
+de vârf 7-22, de luni până vineri, cu excepţia instrumentelor pentru 
+contracte zilnice calculate pe zona intervalelor de vârf 7 -22, de luni 
+până duminică, indiferent de momentul atribuirii prin negociere dublă 
+continuă şi se actualizează ori de câte ori se tranzacţionează un nou 
+contract cu livrare în luna respectivă.   
+
+=== PDF PAGE 22 ===
+22/32 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+Preţ gol [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+negociere dublă continuă pentru luna de livrare pe piaţa centralizată 
+cu negociere dublă continuă a contractelor bilaterale PC-OTC: 
+𝑃𝑟𝑒 𝑡𝑔𝑜𝑙 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−6𝑠𝑖23−24𝐿−𝑉;1−24𝑆−𝐷)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−6𝑠𝑖23−24𝐿−𝑉;1−24𝑆−𝐷)
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare la gol din lună, calculate pe zona intervalelor 
+de gol 1-6 si 23-24, de luni până vineri, şi intervalele 1-24 sambată şi 
+duminică, cu excepţia instrumentelor pentru contracte zilnice 
+calculate pe zona intervalelor de gol 1 -6 si 23 -24, de luni până 
+duminică, indiferent de momentul atribuirii prin negociere dublă 
+continuă şi se actualizează ori de câte ori se tranzacţionează un nou 
+contract cu livrare în luna respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+ 
+Volum total pentru 
+contractele cu livrare în 
+luna M [MWh]  
+ 
+ 
+ 
+Volumul total din contractele bilaterale cu livrare în luna M 
+tranzacţionate P iaţa centralizată cu negociere dublă continuă a 
+contractelor bilaterale PC-OTC: 
+ 
+În prezent acest volum este calculat ca sumă a volumelor tuturor 
+contractelor aflate în livrare într-o lună pe  Piaţa centralizată cu 
+negociere dublă continuă a contractelor bilaterale PC-OTC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PDF PAGE 23 ===
+23/32 
+ 
+ 
+ 
+Piața de energie electrică pentru clienții finali mari - PMC 
+ 
+Preţ mediu ponderat 
+calculat pentru contractele 
+cu livrare în luna M 
+[lei/MWh] [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitație pentru luna de livrare (pM) pe Piața de energie electrică pentru 
+clienții finali mari - PMC: 
+𝑝𝑟𝑒𝑡= ∑ 𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+aflate în livrare într -o lună, indiferent de momentul atribuirii şi se 
+actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează 
+luând în considerare cursul de schimb publicat de Banca Naţională a 
+României în ziua în care se tranzacţionează fiecare contract. 
+Preţ bandă [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitație pentru luna de livrare pe Piața de energie electrică pentru 
+clienții finali mari - PMC: 
+𝑃𝑟𝑒 𝑡𝑏𝑎𝑛𝑑𝑎 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare în bandă în lună, indiferent de momentul 
+atribuirii prin licitație şi se actualizează ori de câte ori se 
+tranzacţionează un nou contract cu livrare în luna respectivă.   
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+Preţ vârf [lei/MWh]  Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitație pentru luna de livrare pe Piața de energie electrică pentru 
+clienții finali mari - PMC: 
+𝑃𝑟𝑒 𝑡𝑣â𝑟𝑓 =
+∑ 𝑝𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∗ 𝑞𝑖𝑉𝑗
+∑ 𝑞𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+ 
+unde Vj reprezintă profilul de livrare în vârf 1 de sarcină  (Luni-Vineri, 
+06:00-22:00 CET), vârf 2 de sarcină  (Luni-Duminică, 06:00-22:00 
+CET), vârf 3 de sarcină (Luni-Vineri, 08:00- 16:00 CET), vârf 4 de 
+sarcină (Luni-Duminică, 08:00-16:00 CET),  vârf 5 de sarcină (Luni- 
+Duminică, 08:00 -15:00 CET)  și alte profile definite prin consultare 
+publică. 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare la vârf din lună, calculate pe zona intervalelor 
+
+=== PDF PAGE 24 ===
+24/32 
+de vârf, indiferent de momentul atribuirii prin licitație şi se 
+actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă.   
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+Preţ gol [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitație pentru luna de livrare pe Piața de energie electrică pentru 
+clienții finali mari - PMC: 
+𝑃𝑟𝑒 𝑡𝑔𝑜𝑙 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−6𝑠𝑖23−24𝐿−𝑉;1−24𝑆−𝐷)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−6𝑠𝑖23−24𝐿−𝑉;1−24𝑆−𝐷)
+𝑛
+𝑖=1
+ 
+unde gol de sarcina este definit de Luni-Vineri, 00:00-06:00 și 22:00-
+24:00 CET și Sâmbătă-Duminică, 00:00-24:00 CET. 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare la gol din lună, calculate pe zona intervalelor 
+de gol 1-6 si 23-24, de luni până vineri şi intervalele 1-24 sambată şi 
+duminică, indiferent de momentul atribuirii prin licitație şi se 
+actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+ 
+Preţ combinatie_produse_standard 
+[lei/MWh] 
+Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitatie pentru luna de livrare pe Piața de energie electrică pentru 
+clienții finali mari - PMC: 
+𝑃𝑟 𝑒 𝑡𝑐𝑜𝑚𝑏𝑖𝑛𝑎𝑡𝑖𝑒_𝑝𝑟𝑜𝑑𝑢𝑠𝑒_𝑠𝑡𝑎𝑛𝑑𝑎𝑟𝑑 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖
+∑ 𝑞𝑖
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare conform combinației de produse standard, 
+indiferent de momentul atribuirii prin licitație şi se actualizează ori de 
+câte ori se tranzacţionează un nou contract cu livrare în luna 
+respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în 
+Euro la cursul de schimb publicat de Banca Naţională a României în 
+ziua de tranzacţionare. 
+ 
+Volum total pentru 
+contractele cu livrare în 
+luna M [MWh]  
+ 
+ 
+ 
+Volumul total din contractele bilaterale cu livrare în luna M 
+tranzacţionate Piața de energie electrică pentru clienții finali mari - 
+PMC: 
+𝑉𝑜𝑙𝑢𝑚𝑃𝑀𝐶𝑀 = ∑ 𝑞𝑀𝑖(𝑃𝑀𝐶)
+𝑛
+𝑖=1
+ 
+
+=== PDF PAGE 25 ===
+25/32 
+În prezent acest volum este calculat ca sumă a volumelor tuturor 
+contractelor aflate în livrare într-o lună pe Piața de energie electrică 
+pentru clienții finali mari - PMC. 
+ 
+Piaţa centralizată pentru serviciul universal – PCSU 
+ 
+Preţ mediu ponderat 
+calculat pentru 
+contractele cu livrare în 
+luna M [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite în cadrul 
+sesiunilor de licitație pentru luna de livrare (p M) pe Piaţa centralizata 
+pentru serviciul universal PCSU: 
+Mi
+n
+i
+n
+i
+MiMi
+q
+qp
+pret
+
+
+=
+==
+1
+1
+*
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor aflate 
+în livrare în luna M, indiferent de momentul atribuirii și se actualizează ori 
+de câte ori se tranzacţionează un nou contract cu livrare în luna 
+respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează luând în 
+considerare cursul de schimb publicat de Banca Naţională a României în 
+ziua în care se tranzacţionează fiecare contract. 
+ 
+Volum total pentru 
+contractele cu livrare în 
+luna M [MWh]  
+ 
+ 
+ 
+Volumul total din contractele bilaterale cu livrare în luna M tranzacţionate 
+pe Piaţa centralizata pentru serviciul universal PCSU: 
+ 
+În prezent acest volum este calculat ca sumă a volumelor tuturor 
+contractelor aflate în livrare în luna M pe Piaţa centralizata pentru serviciul 
+universal PCSU. 
+ 
+Piaţa centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE, operatională pană la data de 
+08.05.2020 
+Preţ mediu ponderat calculat 
+pentru contractele cu livrare în 
+luna M [lei/MWh] [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsa pentru luna de livrare (pM) pe Piaţa 
+centralizată a contractelor bilaterale de energie electrică – 
+modalitatea de tranzacţionare PCCB-LE: 
+𝑝𝑟𝑒𝑡= ∑ 𝑝𝑀𝑖 ∗ 𝑞𝐿𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+aflate în livrare într -o lună şi se actualizează cu contractele 
+încheiate prin modalitatea de tranzacționare PCCB -LE și care au 
+fost reziliate / încetate cu acordul părților și notificate OPCOM în 
+conformitate cu Ordinul ANRE nr. 50/2019 și a adresei ANRE nr. 
+19941/02.03.2020.  
+
+
+=== PDF PAGE 26 ===
+26/32 
+Actualizarea se face în ziua lucrătoare care urmează publicării pe 
+website a contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ bandă [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă pentru luna de livrare pe piaţa centralizată a 
+contractelor bilaterale de energie electrică – modalitatea de 
+tranzacţionare PCCB-LE: 
+𝑃𝑟 𝑒 𝑡𝑏𝑎𝑛𝑑𝑎 =
+∑ 𝑝𝑖𝐵𝑗 ∗ 𝑞𝑖𝐵𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∑ 𝑞𝑖𝐵𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+unde Bj reprezintă profilul de livrare în bandă 1 (Luni -Vineri, 
+00:00-24:00 CET) și bandă 2 (Luni-Duminică, 00:00-24:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor tipurilor de 
+contracte cu livrare în bandă j în lună şi se actualizează cu 
+contractele încheiate prin modalitatea de tranzacționare PCCB -LE 
+și care au fost reziliate / încetate cu acordul părților și notificate 
+OPCOM în conformitate cu Ordinul ANRE nr. 50/2019 și a adresei 
+ANRE nr. 19941/02.03.2020. 
+Actualizarea se face în ziua lucrătoare care urmează publicării pe 
+website a contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ vârf [lei/MWh]  Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă pentru luna de livrare pe piaţa centralizată a 
+contractelor bilaterale de energie electrică – modalitatea de 
+tranzacţionare PCCB-LE: 
+𝑃𝑟𝑒 𝑡𝑣â𝑟𝑓 =
+∑ 𝑝𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∗𝑞𝑖𝑉𝑗
+∑ 𝑞𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+unde Vj reprezintă profilul de livrare în vârf 1 de sarcină  (Luni -
+Vineri, 06:00 -22:00 CET), vârf 2 de sarcină  (Luni -Duminică, 
+06:00-22:00 CET), vârf EU (Luni-Vineri, 08:00-20:00 CET) și Vârf 
+S1 (Luni-Duminică, 16:00-21:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor tipurilor de 
+contracte cu livrare la vârf de sarcină j în lună și se actualizează 
+cu contractele încheiate prin modalitatea de tranzacționare PCCB-
+LE și care au fost reziliate / încetate cu acordul părților și notificate 
+OPCOM în conformitate cu Ordinul ANRE nr. 50/2019 și a adresei 
+ANRE nr. 19941/02.03.2020.  
+Actualizarea se face în ziua lucrătoare care urmează publicării pe 
+website a contractelor reziliate / încetate cu acordul părților.  
+ 
+Preţ gol [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite 
+prin licitaţie extinsă pentru luna de livrare pe piaţa centralizată a 
+contractelor bilaterale de energie electrică – modalitatea de 
+tranzacţionare PCCB-LE: 
+
+=== PDF PAGE 27 ===
+27/32 
+𝑃𝑟𝑒 𝑡𝑔𝑜𝑙 =
+∑ 𝑝𝑖𝐺𝑗 ∗ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∑ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+unde Gj reprezintă profilul de livrare în gol 1 de sarcină  (Luni -
+Vineri, 00:00 -06:00 și 22:00 -24:00 CET și Sâmbătă -Duminică, 
+00:00-24:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+cu livrare la gol de sarcină j în lună, calculate pe zona intervalelor 
+de gol de sarcină, respectiv 1 -6; 23 -24 de luni până vineri, şi 
+intervalele 1 -24 sambată şi duminică şi se actualizează cu 
+contractele încheiate prin modalitatea de tranzacționare PCCB -LE 
+și care au fost reziliate / încetate cu acordul părților și notificate 
+OPCOM în conformitate cu Ordinul ANRE nr. 50/2019 și a adresei 
+ANRE nr. 19941/02.03.2020. 
+Actualizarea se în ziua lucrătoare care urmează publicării pe 
+website a contractelor reziliate / încetate cu acordul părților.  
+ 
+ 
+ 
+Piaţa centralizată pentru energie electrică din surse regenerabile 
+susținută prin certificate verzi – PCE-ESRE-CV 
+ 
+Preţ mediu ponderat 
+calculat pentru 
+contractele cu livrare în 
+luna M [lei/MWh] 
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite în cadrul 
+sesiunilor de licitație pentru luna de livrare (p M) pe Piaţa centralizata 
+pentru energie electrică susținută prin certificate verzi PCE-ESRE-CV: 
+Mi
+n
+i
+n
+i
+MiMi
+q
+qp
+pret
+
+
+=
+==
+1
+1
+*
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor aflate 
+în livrare în luna M, indiferent de momentul atribuirii și se actualizează 
+ori de câte ori se tranzacţionează un nou contract cu livrare în luna 
+respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează luând 
+în considerare cursul de schimb publicat de Banca Naţională a României 
+în ziua în care se tranzacţionează fiecare contract. 
+ 
+Volum total pentru 
+contractele cu livrare 
+în luna M [MWh]  
+ 
+ 
+ 
+Volumul total din contractele bilaterale cu livrare în luna M tranzacţionate 
+pe Piaţa centralizata pentru energie electrică susținută prin certificate 
+verzi PCE-ESRE-CV: 
+𝑉𝑜𝑙𝑢𝑚𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉 = ∑ 𝑞𝑀𝑖(𝑃𝐶𝐸−𝐸𝑆𝑅𝐸−𝐶𝑉)
+𝑛
+𝑖=1
+ 
+
+=== PDF PAGE 28 ===
+28/32 
+Acest volum este calculat ca sumă a volumelor tuturor contractelor aflate 
+în livrare în luna M pe Piaţa centralizata pentru energie electrică din surse 
+regenerabile susținută prin certificate verzi . 
+ 
+Preţ bandă [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite pe Piața 
+Centralizată pentru energia electrică din surse regenerabile susținută 
+prin certificate verzi: 
+𝑃𝑟 𝑒 𝑡𝑏𝑎𝑛𝑑𝑎 =
+∑ 𝑝𝑖
+𝑛
+𝑖=1 ∗ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+∑ 𝑞𝑖(𝑖𝑛𝑡. 1−24)
+𝑛
+𝑖=1
+ 
+Acest indice de preţ este calculat ca medie ponderată a tuturor 
+contractelor cu livrare în bandă în lună, indiferent de momentul atribuirii 
+şi se actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă. 
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în Euro 
+la cursul de schimb publicat de Banca Naţională a României în ziua de 
+tranzacţionare. 
+ 
+Preţ vârf [lei/MWh]  Media ponderată a preţurilor din contractele bilaterale atribuite pe Piața 
+Centralizată pentru energia electrică din surse regenerabile susținută 
+prin certificate verzi: 
+𝑃𝑟 𝑒 𝑡𝑣â𝑟𝑓 =
+∑ 𝑝𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∗ 𝑞𝑖𝑉𝑗
+∑ 𝑞𝑖𝑉𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+ 
+unde Vj reprezintă profilul de livrare în vârf de sarcină (Luni -Vineri, 
+06:00-22:00 CET) și vârf de seară  (Luni-Duminică, 17:00-22:00 CET). 
+Acest preţ este calculat ca medie ponderată a tuturor tipurilor de 
+contracte cu livrare la vârf de sarcină j în lună, indiferent de momentul 
+atribuirii şi se actualizează ori de câte ori se tranzacţionează un nou 
+contract cu livrare în luna respectivă.  
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în Euro 
+la cursul de schimb publicat de Banca Naţională a României în ziua de 
+tranzacţionare. 
+ 
+Preţ gol [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite pe Piața 
+Centralizată pentru energia electrică din surse regenerabile susținută 
+prin certificate verzi : 
+𝑃𝑟𝑒 𝑡𝑔𝑜𝑙 =
+∑ 𝑝𝑖𝐺𝑗 ∗ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∑ 𝑞𝑖𝐺𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+unde Gj reprezintă profilul de livrare în gol de sarcină (Luni -Vineri, 
+00:00-06:00 și 22:00 -24:00 CET și Sâmbătă -Duminică, 00:00 -24:00 
+CET). 
+
+=== PDF PAGE 29 ===
+29/32 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor cu 
+livrare la gol de sarcină j în lună, calculate pe zona intervalelor de gol 
+de sarcină, respectiv 1-6; 23-24 de luni până vineri, şi intervalele 1 -24 
+sambată şi duminică, indiferent de momentul atribuirii şi se actualizează 
+ori de câte ori se tranzacţionează un nou contract cu livrare în luna 
+respectivă.  
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în Euro 
+la cursul de schimb publicat de Banca Naţională a României în ziua de 
+tranzacţionare. 
+ 
+Preţ alt profil [lei/MWh] Media ponderată a preţurilor din contractele bilaterale atribuite pe Piața 
+Centralizată pentru energia electrică din surse regenerabile susținută 
+prin certificate verzi: 
+𝑃𝑟𝑒 𝑡𝑎𝑙𝑡𝑢𝑙 =
+∑ 𝑝𝑖𝐴𝑗 ∗ 𝑞𝑖𝐴𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+∑ 𝑞𝑖𝐴𝑗1≤ 𝑖 ≤ 𝑚
+1≤𝑗≤𝑛 
+, 
+unde Aj reprezintă alte profile de livrare. 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor avand 
+alte profile de livrare, indiferent de momentul atribuirii şi se actualizează 
+ori de câte ori se tranzacţionează un nou contract cu livrare în luna 
+respectivă.  
+Pentru fiecare lună de livrare, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor din contractele bilaterale convertite în Euro 
+la cursul de schimb publicat de Banca Naţională a României în ziua de 
+tranzacţionare. 
+ 
+ 
+Piaţa Centralizată anonimă spot de Certificate Verzi (PCSCV)   
+Preţ mediu lunar calculat 
+pentru certificatele verzi 
+tranzacționate în luna M 
+[lei/CV] 
+ 
+ 
+ 
+Media ponderată a preţurilor stabilite pe Piaţa Centralizată anonimă 
+spot de Certificate Verzi în sesiunile de tranzacţionare din luna M: 
+ 
+𝑅𝑂𝑃𝐸𝑋_𝐺𝐶_𝑀 = ∑ 𝑝𝑀𝑖 ∗ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+ 
+Pentru fiecare lună, preţul mediu ponderat exprimat in Euro 
+reprezintă media ponderată a preţurilor stabilite pe Piaţa 
+Centralizată anonimă spot de  Certificate Verzi în sesiunile de 
+tranzacţionare din luna M, convertite în euro utilizând cursul mediu 
+de schimb publicat de Banca Naţională a României pentru anul 
+anterior . 
+Pentru luna în care valoarea preţului mediu ponderat, prin 
+rotunjirea la ordinul sutimilor, se situează în afara valorilor-limită de 
+
+
+=== PDF PAGE 30 ===
+30/32 
+tranzacţionare aprobate de ANRE, se va aplica aproximarea prin 
+lipsă sau prin adaos la ordinul sutimilor, în funcţie de sensul de 
+încadrare în limitele admise. 
+Preţ mediu ponderat 
+calculat pentru certificatele 
+verzi tranzacţionate în anul 
+Y  
+ [lei/CV] 
+ 
+ 
+Media ponderată a preţurilor stabilite pe Piaţa Centralizată anonimă 
+spot de Certificate Verzi în sesiunile de tranzacționare din anul Y: 
+𝑅𝑂𝑃𝐸𝑋_𝐺𝐶_𝑌 =
+∑ 𝑝𝑌𝑖 ∗ 𝑞𝑌𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑌𝑖
+𝑛
+𝑖=1
+ 
+Preţul mediu ponderat ROPEX_GC_Y exprimat in Euro reprezintă 
+media ponderată a preţurilor stabilite pe Piaţa Centralizată anonimă 
+spot de Certificate Verzi în sesiunile de tranzacţionare din anul Y, 
+convertite în euro utilizând cursul mediu de schimb publicat de 
+Banca Naţională a României pentru anul anterior . 
+ 
+  
+Piaţa Centralizată de Gaze Naturale (PCGN) 
+ 
+Piața pentru Ziua Următoare de gaze naturale PZU-GN 
+Preţ zilnic [lei/MWh] 
+ 
+ 
+ 
+ 
+ 
+Prețul zilnic stabilit în cadrul sesiunii de licitație pe Piața pentru 
+Ziua Următoare de gaze naturale PZU-GN: 
+ 
+𝑹𝑶𝑷𝑬𝑿_𝑃𝑍𝑈 − 𝐺𝑁 
+ 
+Acest indice de preţ este asociat fiecăr ei zile gaziere ( 07:00 – 
+07:00 – zi gazieră).  
+ 
+Preţ mediu ponderat pentru 
+luna M [lei/MWh] 
+ 
+Media ponderată a preţurilor din cadrul sesiunilor de licitație 
+pentru luna M (pM) pe Piața pentru Ziua Următoare de gaze 
+naturale PZU-GN: 
+Mi
+n
+i
+n
+i
+MiMi
+q
+qp
+pret
+
+
+=
+==
+1
+1
+*
+ 
+Acest preţ este calculat ca medie ponderată a tuturor prețurilor 
+stabilite în cadrul sesiunilor de licitație pentru luna M. 
+ 
+Volum total pentru luna M 
+[MWh]  
+ 
+ 
+ 
+Volumul total din luna M tranzacţionate pe Piața pentru Ziua 
+Următoare de gaze naturale PZU-GN: 
+ 
+ 
+
+
+=== PDF PAGE 31 ===
+31/32 
+În prezent acest volum este calculat ca sumă a tuturor volumelor 
+zilnice din luna M pe  Piața pentru Ziua Următoare de gaze 
+naturale PZU-GN. 
+ 
+Piaţa Centralizată de gaze naturale – modalitatea de tranzacţionare 
+PCGN-LN 
+ 
+Preţ mediu instrument 
+[lei/MWh] 
+(preţ instrument) 
+Media ponderată a contractelor atribuite  prin licitaţii şi negociere 
+continuă, pentru gazele naturale livrate în bandă (07:00 – 07:00 – 
+zi gazieră), pentru perioada de livrare (p I) pe Piaţa centralizată de 
+gaze naturale – modalitatea de tranzacţionare PCGN-LN: 
+𝑝𝑟𝑒𝑡𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡 =
+∑ 𝑝𝐼𝑖 ∗ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝐼𝑖
+𝑛
+𝑖=1
+ 
+Pe Piaţa centralizată de gaze naturale  – modalitatea de 
+tranzacţionare PCGN-LN se încheie contracte având profilul (bandă), 
+perioada de livrare (săptămână, lună, trimestru, semestru gazier, an 
+calendaristic sau an gazier) specificate prin tipul instrumentului.  
+Acest preţ este calculat separat pe fiecare instrument ca medie 
+ponderată a tuturor tranzacțiilor stabilite  prin licitaţii şi negociere 
+continuă, pentru gazele naturale livrate în bandă. 
+Actualizarea se face ori de câte ori se tranzacţionează un nou 
+contract pe acest instrument. 
+Pentru fiecare instrument, preţul mediu în Euro se calculează ca 
+medie ponderată a preţurilor convertite în Euro la cursul de schimb 
+publicat de Banca Naţională a României în ziua în care se 
+tranzacţionează fiecare instrument.  
+ 
+Volum total pe instrument 
+[MWh]  
+ 
+ 
+ 
+Volumul total pe instrumentul tranzacţionat pe Piaţa Centralizată de 
+gaze naturale – modalitatea de tranzacţionare PCGN-LN: 
+𝑉𝑜𝑙𝑢𝑚𝑃𝐶𝐺𝑁−𝐿𝑁 = ∑ 𝑞𝐼𝑖(𝑃𝐶𝐺𝑁−𝐿𝑁)
+𝑛
+𝑖=1
+ 
+ 
+Acest volum este calculat ca sumă a volumelor tranzacționate pe 
+fiecare instrument tranzacționat (I) pe  Piaţa Centralizată de gaze 
+naturale – modalitatea de tranzacţionare PCGN-LN. 
+ 
+Piaţa Centralizată de gaze naturale – modalitatea de tranzacţionare 
+PCGN-LP 
+Preţ mediu ponderat 
+calculat pentru contractele 
+cu livrare în luna M 
+[lei/MWh]  
+ 
+Media ponderată a preţurilor din contractele bilaterale atribuite prin 
+licitaţie publică pentru luna de livrare M (pM) pe Piaţa centralizată a 
+contractelor bilaterale de gaze naturale – modalitatea de 
+tranzacţionare PCGN-LP: 
+
+=== PDF PAGE 32 ===
+32/32 
+𝑝𝑟𝑒𝑡=
+∑ 𝑝𝑀𝑖 ∗ 𝑞𝐿𝑖
+𝑛
+𝑖=1
+∑ 𝑞𝑀𝑖
+𝑛
+𝑖=1
+ 
+Acest preţ este calculat ca medie ponderată a tuturor contractelor 
+aflate în livrare într-o lună, indiferent de momentul atribuirii şi se 
+actualizează ori de câte ori se tranzacţionează un nou contract cu 
+livrare în luna respectivă. 
+ 
+ACTUALIZARI 
+ 
+Nr. 
+Crt. 
+Sinteza actualizarii 
+ 
+Versiunea  
+curenta Data 
+ 
+1 
+Actualizarea indicatorilor Pietei centralizate cu negociere dubla 
+continua a contractelor bilaterale de energie electrica, conform 
+Ordinului ANRE nr.23 din 23.01.2018 
+2 31.01.2018 
+2 Actualizarea definitiei zilei gaziere, conform Ordinului ANRE nr. 161 
+din 01.08.2018 privind Codului rețelei pentru Sistemul național de 
+transport al gazelor naturale 
+3 10.08.2018 
+3 Modificarea modului de calcul al ROPEX_FM, începând cu 1 
+Octombrie 2018 4 01.10.2018 
+4 Actualizarea indicatorilor conform Ordinului ANRE 50/2019 privind 
+modificarea anexei la Ordinul preşedintelui ANRE nr. 78/2014 pentru 
+aprobarea Regulamentului privind modalităţile de încheiere a 
+contractelor bilaterale de energie electrică prin licitaţie extinsă şi 
+negociere continuă şi prin contracte de procesare. 
+5 21.06.2019 
+5 Introducerea modului de calcul pentru preturile si volumele stabilite 
+pe PI, PCSU, PZU-GN 6 12.11.2019 
+6 Introducerea modului de calcul pentru prețurile / volumele stabilite 
+pe PCCB-NC, PCE-ESRE-CV, PCGN-LN și clarificări privind 
+actualizarea indicilor. 
+7 19.03.2020 
+7 Introducerea modului de calcul pentru prețurile/volumele 
+tranzacționate pe produsul cu granularitate 15 minute pe Piața 
+Intrazilnică, conform Ordinului ANRE nr. 63/2020, introducerea 
+modului de calcul pentru prețurile / volumele stabilite pe PCCB-LE-
+Flex și PCE-ESRE-CV, actualizarea modului de calcul al indicelui 
+ROPEX_FM, începând cu 1 Martie 2021. 
+8 01.03.2021 
+8 Actualizarea indicatorilor Pieţei centralizate a contractelor bilaterale 
+de energie electrică – modalitatea de tranzacţionare PCCB-LE, 
+operationala pana la data de 08.05.2020, prin eliminarea 
+contractelor care au fost reziliate / încetate cu acordul părților și 
+notificate OPCOM în conformitate cu Ordinul ANRE nr. 50/2019 și a 
+adresei ANRE nr. 19941/02.03.2020. 
+9 14.05.2021 
+9 Introducerea modului de calcul pentru prețurile și volumele stabilite 
+pe PMC. 10 18.07.2022 
+10 Publicarea rezultatelor (ROPEX_FM) în toate zilele, cu exceptia zilelor 
+nelucratoare. 11 07.10.2022 
+11 Implementarea modului de calcul pentru Piața Intrazilnică – Licitații 
+intrazilnice (IDA) 12 13.06.2024 
+12 Introducerea a două noi profiluri de tranzactionare, respectiv “vârf 
+de seară” de tip 1 și 2, pentru PCCB-LE-flex si PCCB-NC (produse 
+săptămânale) începând cu 01.12.2024 
+13 09.12.2024 
+13 Implementarea granularității de 15 minute la PZU începând cu 
+30.09.2025 14 30.09.2025 
+ 

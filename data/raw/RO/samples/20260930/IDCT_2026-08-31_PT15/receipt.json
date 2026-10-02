@@ -1,0 +1,17 @@
+{
+  "id": "IDCT_2026-08-31_PT15",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "method": "POST",
+  "parameters": {
+    "ziua_eng": "08/31/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "requested_scope": "2026-08-31 PT15 trades",
+  "retrieved_utc": "2026-09-30T09:23:50.9265245Z",
+  "status": "FAILED",
+  "error": "An error occurred while sending the request."
+}

@@ -1,0 +1,526 @@
+ Nr.          /  
+APROBAT
+DIRECTORAT,
+
+Președinte
+Ștefăniță MUNTEANU
+Membru
+Florin Cristian TĂTARU
+Membru
+Cătălin Constantin NADOLU 
+Membru
+Bogdan TONCESCU
+
+PROCEDURĂ OPERAŢIONALĂ
+Selectarea puterii active pe tipuri de produse în piața de echilibrare și în afara pieței de echilibrare
+
+Cod: TEL-.07.VI ECH-DN/240 Ediția: I
+Revizie: 4
+Nr.
+Crt.
+Elemente privind responsabilii
+Prenume și Nume
+Funcția
+Data
+Semnătura
+1.4
+Avizat
+Virgiliu IVAN
+Director DEN
+
+
+
+
+Ion SMEEIANU
+Inspector Șef DMI
+
+
+1.3
+Verificat
+Mihail CREMENESCU
+Director Direcția Operativă
+
+
+1.2
+Verificat
+Mihaela CONDOVICI
+Șef Serviciu OPE
+
+
+1.1
+Elaborat
+Adriana TERENTE
+Expert DEN - OPE
+
+
+ Drept de proprietate
+Prezenta procedură este proprietatea Companiei Naţionale de Transport al Energiei Electrice C.N.T.E.E. Transelectrica S.A. Multiplicarea şi utilizarea parţială sau totală a acestui document este permisă numai cu acordul scris al conducerii C.N.T.E.E. Transelectrica S.A.
+- Decembrie 2023 -
+
+CUPRINS
+
+Numarul componentei în cadrul procedurii
+Denumirea componentei din cadrul procedurii
+Pagina
+1.
+Pagina de gardă 
+1
+2.
+Cuprins 
+2
+3.
+Situaţia ediţiilor şi a reviziilor
+3
+4.
+Scop
+4
+5.
+Domeniul de aplicare
+4
+6.
+Documente de referinţă 
+4
+7.
+Definiţii şi abrevieri 
+5
+8.
+Modul de lucru 
+6
+9.
+Responsabilităţi 
+20
+10.
+Anexe, înregistrări, arhivări
+21
+11.
+Lista de difuzare
+21
+
+
+
+
+
+
+
+SITUAŢIA EDIŢIILOR ŞI A REVIZIILOR
+PROCEDURĂ OPERAŢIONALĂ
+Selectarea pe tipuri de reglaj a energiei de echilibrare
+
+Nr.
+crt.
+Ediția sau, după caz, revizia în cadrul ediţiei
+Componența revizuită
+Modalitatea
+reviziei
+Data la care se aplică prevederile ediţiei sau reviziei editiei
+0
+1
+2
+3
+4
+1
+Editia 0, Revizia 0
+Selectarea pe tipuri de reglaj a energiei de echilibrare
+Elaborare
+inițială
+Noiembrie 2005
+2
+Editia I, Revizia 0
+Preluare prevederi Ordinul ANRE nr. 31/2018.
+Integrare prevederi PO TEL-.07.VI ECH-DN/235 „Conținutul și formatul cadru a confirmarilor de tranzacții încheiate pe Piața de Echilibrare”
+Integrare prevederi PO TEL-.07.VI ECH-DN/259 „Selectarea pentru oprire a unităților dispecerizabile”
+Integrare prevederi PO TEL-.07.VI ECH-DN/72„Compensarea dezechilibrelor la nivel SEN în procesul de programare pe piața de echilibrare în ziua D-1”
+Revizie totală
+Septembrie 2018
+3
+Ediția I, Revizia 1
+Preluarea prevederilor Ordinului ANRE nr. 61/31.03.2020
+Revizie parțială
+Septembrie 2020
+4
+Ediția I, Revizia 2
+Preluarea prevederilor Ordinului ANRE nr. 152/24.08.2020
+Revizie parțială
+Septembrie 2020
+5
+Ediția I, Revizia 3
+Preluarea prevederilor Ordinelor ANRE nr. 213/25.11.2020, nr. 230/16.12.2020 și nr. 231/16.12.2020
+Revizie parțială
+Ianuarie 2021
+6
+Ediția I, Revizia 4
+Preluarea prevederilor Ordinului ANRE nr. 127/08.12 2021
+Revizie parțială
+Decembrie 2023
+
+
+
+SCOP
+Prezenta procedură prezintă: 
+Criteriile și modul de activare a ofertelor de preț din Piața de Echilibrare  prin intermediul platformei informatice locale, respectiv platformelor europene dedicate;
+Criteriile și modul de selecție pentru dispoziții de creștere sau de reducere a puterii active în afara pieței de echilibrare în scopul rezolvării congestiilor interne sau al asigurării siguranței sistemului prin redispecerizare sau prin comercializare în contrapartidă coordonată;
+Conținutul și formatul cadru pentru documentul folosit la confirmarea tranzacțiilor angajate pe Piața de Echilibrare și/sau în afara Pieței de Echilibrare cu compensație.
+
+DOMENIUL DE APLICARE
+Procedura se aplică de către Operatorul de Transport şi de Sistem în cadrul procesului de selecție a energiei de echilibrare, a selecției puterii active în afara Pieței de Echilibrare și de confirmare a tranzacțiilor angajate pe PE și/sau în afara PE cu compensație.
+
+DOCUMENTE DE REFERINTA
+6.1Regulamentul (UE) 2017/2195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică;
+6.2Hotărârea ACER nr 02/2020 din 24 ianuarie 2020 privind cadrul de implementare a platformei europene pentru schimb de energie de echilibrare din rezervele de restabilire a frecvenţei cu activare automată;
+6.3Hotărârea ACER nr 03/2020 din 24 ianuarie 2020 privind cadrul de implementare a platformei europene pentru schimb de energie de echilibrare din rezervele de restabilire a frecvenţei cu activare manuală;
+6.4Legea energiei electrice și a gazelor naturale nr. 123/2012 cu modificările și completările ulterioare;
+Regulamentul (UE) 2017/2195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică
+6.5Ordinul ANRE nr. 127/08.12 2021 pentru aprobarea Regulamentului privind clauzele și condițiile pentru furnizorii de servicii de echilibrare și pentru furnizorii de rezervă de stabilizare a frecvenței și a Regulamentului privind clauzele și condițiile pentru părțile responsabile cu echilibrarea și pentru modificarea și abrogarea unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei;
+6.6Manualul sistemului de magement integrat, calitate, mediu și securitate în muncă, codTEL-MSI-ISO;
+6.7Convenția de participare la piața de echilibrare.
+Toată legislația invocată în cuprinsul Procedurii, va fi luată în considerare în forma existentă la momentul aplicării, ținând cont de toate modificările, completările, abrogările parțiale sau totale ulterioare adoptării și înlocuirile cu alte acte normative, lista nefiind exhaustivă.
+DEFINIȚII SI ABREVIERI
+Definiții
+
+7.1.1Activare programată – o activare programată poate avea loc doar la momentul activării programate a rezervelor de restabilire a frecvenței în mod manual, pentru fiecare interval de decontare;
+7.1.2  Activare directă – o activare directă poate avea loc în orice moment în timpul celor 15 minute după momentul activării programate a rezervelor de restabilire a frecvenței în mod manual;
+7.1.3 Moment activare programată  – momentul de la care se măsoară timpul complet de activare pentru activarea programată și este cu 7,5 minute înainte de începutul intervalului de decontare pentru care FSE transmite oferta pentru produsul standard de echilibrare RRFm. FSE primește cerere de activare cu 12,5 minute înainte de activarea completă estimată;
+7.1.4 OTS deconectat de platforma RRFm – procesul de optimizare și selectare a ofertelor locale ale unui OTS se face de către platforma RRFm, separat de optimizarea comună; Rezultatele au doar caracter local pentru OTS în cauză;
+7.1.5 OTS decuplat de platforma RRFm – procesul de optimizare și selectare a ofertelor locale ale unui OTS se face în propriul sistem informatic, fără comunicare de date între OTS și platforma RRFm; Rezultatele au caracter local pentru OTS în cauză.
+
+Abrevieri
+7.2.1 Platforma RRFm – platforma europeană dedicată tranzacționării rezervelor pentru restabilirea frecvenței activate în mod manual;
+7.2.2 Platforma RRFa – platforma europeană dedicată tranzacționării rezervelor pentru restabilirea frecvenței activate în mod automat;
+7.2.3 MCD – mecanismul de compensare a dezechilibrelor (IGCC) calendaristice);
+7.2.4 ID – Interval de decontare (Intervalul de decontare este 15 minute, de la începutul fiecărei zile calendaristice);
+7.2.5  T – momentul de începere al unui ID;
+7.2.6  RFP – Reglaj Frecvență Putere;
+7.2.7  UFR/GFR – Unitate de Furnizare a Rezervelor / Grup de Furnizare a Rezervelor;
+7.2.8RI – rezerve de înlocuire;
+7.2.9RRFm – rezerve de restabilire a frecvenței activată în mod manual;
+7.2.10RRFa – rezerve de restabilire a frecvenței activată în mod automat;
+
+MOD DE LUCRU
+8.1. Selectarea Energiei de Echilibrare
+8.1.1Selectarea energiei de echilibrare în vederea activării, se face separat pe fiecare tip de de produs standard din Ordinea de Merit comună la nivel european în cazul RRFm și RRFa, sau din Ordinea de Merit locală în cazul RI și pentru RRFm, RRFa, în perioadele în care TEL nu este conectat la platformele europene pentru tranzacționarea produselor RRFm și RRFa.
+8.1.2.  Orice Ordine de merit comună este formată din ofertele transmise de OTS conectoare în platformele informatice dedicate piețelor Europene de echilibrare; Transmiterea ofertelor PE de către TEL se face conform prevederilor din PO 138 -  “Conţinutul, formatul cadru, transmiterea şi validarea Ofertelor pe Piaţa de Echilibrare”.
+8.1.3. Orice Ordine de Merit locală pentru fiecare din produsele: RI, RRFm și RRFa, este formată din ofertele PE validate de TEL, din care sunt excluse ofertele a căror activare/inactivare ar conduce la congestii interne.
+8.1.4 Fiecare platformă PE europeană va crea Ordine de Merit comune pe baza ofertelor primite de la toate OTS conectate pentru fiecare tip de produs PE tranzacționat, iar  platforma locală va crea Ordine de Merit locale pentru fiecare produs standard tranzactionat și pentru fiecare mod de activare, pe baza ofertelor PE primite de TEL, pentru fiecare ID, astfel:
+(a) Ordine de Merit comună / locală pentru creștere de putere în care ofertele valide sunt sortate în ordine crescătoare a prețului;
+(b) Ordine de Merit comună / locală pentru reducere de putere în care ofertele valide sunt sortate în ordine descrescătoare a prețului.
+
+8.1.5 Selectarea ofertelor RI în scopul activării
+8.1.5.1 Activarea produsului RI se face pentru un întreg ID, iar selectarea ofertelor RI se realizează de către platforma PE locală.
+8.1.5.2 După T - 50 minute, platforma PE afișează volumul total al ofertelor RI, respectiv prețurile minime și maxime a acestora, pe fiecare direcție, pentru un anumit ID.
+8.1.5.3 OTS poate introduce una sau mai multe cereri de energie de echilibrare la creștere și/sau reducere de putere cu granularitate de 1MW, în intervalul: T – 50 minute și T – 35 minute, pentru un anumit ID.
+8.1.5.4 Caracteristicile cererii RI sunt:
+- volumul unei cereri este intotdeauna complet divizibil;
+- o cerere are întotdeauna o direcție: pentru creștere de putere sau pentru reducere de putere;
+- dacă OTS dorește să actualizeze o cerere, atunci se va introduce o nouă cerere, iar platforma PE locală va include o serie temporală corespunzătoare într-un document cu o versiune superioară și cererea inițială este înlocuită;
+- dacă OTS dorește să retragă o cerere, atunci se va introduce o nouă cerere cu valoare “zero”.
+8.1.5.5 In intervalul T – 35 minute și T – 32 minute, platforma PE locală rulează un algoritm de selectare a ofertelor RI pentru ID respectiv.
+8.1.5.6 Algoritmul de selectare a ofertelor RI respectă următoarele condiții și priorități:
+- Stabilește starea de disponibilitate a ofertelor în funcție de legăturile tehnice și economice dintre acestea;
+- Preţul oricărei oferte acceptate la creștere de putere este mai mic decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RI de creștere de putere şi care nu a fost acceptată;
+- Preţul oricărei oferte acceptate la scădere de putere este mai mare decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RI de reducere de putere şi care nu a fost acceptată;
+- Toate ofertele valide cu un preţ mai mic decât cel mai mare preţ al ultimei oferte RI acceptate pentru creștere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Toate ofertele cu un preţ mai mare decât cel mai mic preţ al ultimei oferte RI acceptate pentru reducere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Prioritizează selectarea ofertelor valide finale, la același preț, astfel:
+Ofertele complet divizibile, divizibile, exclusive, multipart, indivizibile;
+Pentru același tip de ofertă se aplică prioritizarea conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021;
+În cazul în care mai multe oferte au același tip de prioritate conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, se selectează din acestea volume parțiale proporţionale cu volumul total ofertat, cu granularitate de 0,1 MW; 
+Pentru ofertele la care nu se aplică prioritizarea conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, se aplică criteriul de prioritate a mărcii de timp;
+Din ofertele cu aceeași marcă de timp se selectează volume parțiale/integrale proporţional cu volumul total ofertat, cu granularitate de 0,1 MW.
+
+8.1.5.7  După rularea algoritmului de selectare oferte, platforma PE locală afișează selectiv următoarele date:
+- ofertele selectate pentru activare atunci când volumul de energie de echilibrare cerut este acoperit în întregime de acestea;
+- volumele de energie de echilibrare posibil a fi activate și posibilele prețuri marginale, cu sau fără ultima ofertă atunci când aceasta este o ofertă indivizibilă sau divizibilă cu un minim indivizibil care depășește volumul cerut; OTS va confirma unul dintre volumele propuse și ofertele selectate vor fi afișate;
+- ofertele selectate pentru activare, atunci când nu sunt suficiente oferte care să acopere volumul de energie de echilibrare cerut, insoțite de un mesaj care să atenționeze o activare RI incompletă. 
+8.1.5.8 Pentru fiecare interval de dispecerizare, prețul ultimei oferte acceptată integral sau parțial va determina preţul marginal pentru ofertele RI activate pentru creştere de putere, respectiv preţul marginal pentru RI activate pentru reducere de putere. 
+8.1.5.9 Imediat după selectarea ofertelor RI pentru activare, acestea sunt disponibile pentru FSE prin webservice.
+
+
+8.1.6 Selectarea ofertelor RRFm în scopul activării
+8.1.6.1 Activarea produsului RRFm se poate face progamat pentru un ID întreg, sau direct în orice moment în timpul celor 15 minute după momentul activării programate, parțial ca durată, în ID al activării și pentru întreg ID+1.
+8.1.6.2 După T – 25 minute, platforma PE locală afișează volumul total al ofertelor RRFm, respectiv prețurile minime și maxime a acestora, pe fiecare direcție, pentru un anumit ID.
+8.1.6.3 Selecția ofertelor se poate realiza pe platforma RRFm, sau pe platforma PE locală în perioadele în care TEL nu este conectat la platforma europeană.
+
+8.1.6.4 Selectarea ofertelor RRFm pe platforma europeană dedicată
+8.1.6.4.1 Cererile OTS pentru activarea unui anumit volum de energie de echilibrare, acceptate de platforma RRFm europeană sunt:
+ - Cereri pentru activarea programată, care pot fi:
+Cereri elastice, sau
+Cereri inelastice;
+- Cereri pentru activarea directă, care pot fi doar cereri inelastice;
+- Cereri pentru constrângeri de sistem (constrângere de sistem cauzată de congestii pe liniile de interconexiune); aceste cereri sunt întotdeauna inelastice.
+8.1.6.4.2 Caracteristicile cererilor RRFm sunt:
+- Volumul unei cereri este intotdeauna complet divizibil;
+- O cerere are întotdeauna o direcție; pentru creștere de putere sau pentru reducere de putere;
+- O cerere poate fi elastică sau inelastică;
+- O cerere inelastică nu are un preț și corespunde unei cereri care trebuie satisfăcută „cu orice preț”;
+- Pentru cereri elastice, trebuie introdus un preț cu granularitatea de 0,01 EUR/MWh. Prețurile pot fi negative, pozitive sau zero. Prețul la care o cerere RRFm este satisfăcută va fi exprimat cu aceeași granularitate.
+8.1.6.4.3 Pentru transmiterea catre platforma europeana, OTS introduce în platforma PE locală, una sau mai multe cereri de energie de echilibrare la creștere și/sau reducere de putere din produsul RRFm, pentru activarea programată, în intervalul: T - 120 și T – 11 minute, pentru un anumit ID cu următoarele condiții:
+- cereri elastice sau inelastice
+- dacă OTS dorește să actualizeze o cerere, platforma PE locală va include o serie temporală corespunzătoare într-un document cu o versiune superioară și cererea inițială este înlocuită;
+- dacă OTS dorește să anuleze o cerere, OTS va introduce o nouă cerere cu valoare “zero” în platforma PE locală;
+- cererile vor fi marcate separat pentru Echilibrare și pentru Constrângere;
+- o cerere pentru Constrângere pe liniile de interconexiune este primită doar adițional, împreună cu o cerere marcată pentru Echilibrare.
+8.1.6.4.4 Platforma PE locală transmite automat cererile pentru activarea programată către platforma RRFm europeană, respectând ca termen limită de transmitere a cererilor, T – 10 minute.
+8.1.6.4.5 În cazul în care nu există cerere pentru activarea programată pentru un anumit ID, până la T - 11, platforma PE va genera o cerere inelastică cu valoare “zero” care va fi transmisă imediat către platforma RRFm europeană.
+8.1.6.4.6 Cererile pentru activarea directă sunt cereri inelastice și fiecare cerere transmisă de către OTS în platforma RRFm este unică. 
+8.1.6.4.7 Cererile pentru activarea directă sunt introduse de către OTS în platforma PE locală, de unde sunt transmise automat către platforma RRFm.
+8.1.6.4.8 Introducerea în platforma PE locală și transmiterea cererilor către platforma RRFm pentru activarea directă pentru un anumit ID se poate face în orice moment între T – 7,5 minute și T + 10 minute; 
+8.1.6.4.9 Procesarea cererilor pentru activarea directă are loc în fiecare minut, iar modificarea unei astfel cereri este posibilă numai până la momentul când funcția de optimizare a platformei RRFm începe procesarea.
+ 8.1.6.4.10 Cele mai importante obiective ale algoritmului de optimizare implementat în platforma RRFm europeană, sunt:
+- maximizarea surplusului economic prin tranzacționarea energiei de echilibrare RRFm ca produs standard, respectând regulile Regulamentul (UE) 2017/2195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică;
+- minimizarea schimburilor de energie de echilibrare RRFm pe fiecare graniță, între statele membre în proiect.
+8.1.6.4.11 Între T - 9 minute și T - 8.5 minute, platforma RRFm selectează ofertele care vor fi activate pentru acoperirea cererilor pentru activările programate, determină prețurile marginale transfrontaliere și calculează fluxurile transfrontaliere. 
+8.1.6.4.12 Algoritmul de selectare a ofertelor RRFm respectă următoarele condiții și priorități principale:
+- Stabilește starea de disponibilitate a ofertelor în funcție de legăturile tehnice și economice dintre acestea;
+- Stabilește cerererile finale pentru activarea RRFm programată prin aplicarea inițială a compensarii cererilor pentru creștere de putere cu cele pentru reducere de putere, transmise de OTS-uri;
+- Procesează cererile pentru activarea directă așteaptă până când funcția de optimizare a platformei RRFm finalizează selecțiile pentru activările programate. De asemenea, dacă funcția de optimizare procesează una sau mai multe cereri pentru activări directe, orice solicitare ulterioară pentru activare directă va trebui să aștepte până când funcția de optimizare termină procesul deja în derulare la momentul primirii noii solicitări.
+8.1.6.4.13  În algoritmul de selectare a platformei RRFm este implementată regula pentru “respingerea paradoxală a ofertelor”; ofertele respinse fiind oferte al căror preț de ofertă este egal sau sub/peste prețul marginal transfrontalier, pe direcție, dar sunt total sau parțial respinse, dacă această respingere este necesară din următoarele motive:
+acceptarea unei astfel de oferte ar crește/scădea prețul marginal transfrontalier, pe direcție;
+pentru ca algoritmul să găsească o soluție fezabilă pentru acoperirea cererilor;
+pentru ca algoritmul să satisfacă integral cererile RRFm inelastice.
+8.1.6.4.14  Respingerea paradoxală a ofertelor indivizibile este prioritară față de respingerea paradoxală a
+ofertelor divizibile. 
+8.1.6.4.15  Între T - 8.5 minute și T – 8 minute, platforma RRFm transmite către OTS pozițiile nete rezultate ca sold la graniță, fluxurile transfrontaliere, capacitatea pe liniile de interconexiune rămasă, prețurile marginale transfrontaliere și ofertele selectate pentru activare, respectiv cererile acoperite integral sau parțial.
+8.1.6.4.16 La T – 8 minute începe faza de activare programată în timpul căreia ofertele selectate de platforma RRFm sunt disponibile pentru FSE prin webservice; la T - 7.5 minute, activarea programată a UFR/GFR este inițiată.
+8.1.6.4.17 Livrarea energiei de echilibrare pentru activările programate pentru un ID, inclusiv variațiile de sarcină, are loc între T – 5 minute și T + 20 minute. 
+8.1.6.4.18  Timpul de procesare în platforma RRFm, a unei cereri pentru activarea directă este de 5 secunde și timpul de transmitere către OTS a fluxurilor transfrontaliere, capacitatea rămasă pe liniile de interconexiune, ofertele selectate pentru activare, respectiv cererile acoperite integral sau parțial, este 30 secunde. 
+8.1.6.4.19 Ofertele selectate de platforma RRFm sunt disponibile pentru FSE prin webservice imediat după primirea rezultatelor.
+8.1.6.4.20 Livrarea energiei de echilibrare pentru activările directe, inclusiv variațiile de sarcină, pot începe în orice moment între T - 5 minute și T + 10 minute, în funcție de momentul în care cererea (cererile) au ajuns pe platforma RRFm; livrarea se va încheia la T + 35 minute. 
+8.1.6.4.21 Momentul de la care se măsoară timpul complet de activare pentru o activare directă este la 7,5 minute după momentul când dispoziția de dispecer rezultată în urma selecției pentru respectiva activare directă devine disponibilă pentru FSE. FSE primește cererea de activare cu 12,5 minute înainte de activarea completă estimată.
+8.1.6.4.22 Toate informațiile necesare unui OTS, incluzând prețuri maxime și minime ale tuturor ofertelor RRFm transmise de OTS-uri și rezultatele solicitărilor de energie de echilibrare transmise prin cererile pentru activare programată și/sau directă ale OTS respectiv, se găsesc în interfața grafică a platformei RRFm.
+8.1.6.4.23 În cazul în care rezultatele unei solicitări de energie de echilibrare transmise prin cerere pentru activare programată nu se primesc până la T – 8 minute sau pentru activare directă în două minute de la transmiterea cererii, se consideră valide selecțiile afișate în interfața grafică a platformei RRFm.
+8.1.6.4.24 În cazul unor deconectări planificate sau intempestive anunțate ale platformei RRFm, se va alege modul local de selecție în interfața de cereri a platformei locale PE, până la ID anunțat de repunere în funcțiune a platformei RRFm;
+8.1.6.4.24 În cazul în care după T - 10 minute nu există nici o cerere în platforma RRFm de la OTS, ofertele AP și AD ale acestuia sunt considerate indisponibile pentru algoritmul RRFm AP și OTS este anunțat imediat de lipsa cererii și indisponibilizarea ofertelor.
+8.1.6.4.25 Până la T + 5 minute, OTS poate introduce o solicitare de deconectare sau decuplare de platforma RRFm, pentru unul sau mai multe ID, din motive interne. 
+
+8.1.6.5 Selectarea ofertelor RRFm pe platforma PE locală
+8.1.6.5.1 OTS poate introduce una sau mai multe cereri de energie de echilibrare la creștere și/sau reducere de putere cu granularitate de 1MW, în intervalul: T – 120 minute și T – 12 minute, pentru un anumit ID.
+8.1.6.5.2 Cererile OTS pentru activarea unui anumit volum RRFm prin platforma PE locală pot fi: cereri inelastice pentru activarea programată și/sau pentru activarea directă, pentru un anumit ID.
+8.1.6.5.3 Caracteristicile cererii RRFm sunt:
+- volumul unei cereri este intotdeauna complet divizibil;
+- o cerere are întotdeauna o direcție; pentru creștere de putere sau pentru reducere de putere;
+- dacă OTS dorește să actualizeze o cerere, atunci se va introduce o nouă cerere și platforma PE locală va include o serie temporală corespunzătoare într-un document cu o versiune superioară și cererea inițială este înlocuită;
+- dacă OTS dorește să retragă o cerere, se va introduce o nouă cerere cu valoare “zero”.
+8.1.6.5.4 În intervalul T – 9 minute și T – 8 minute, platforma PE locală rulează un algoritm de selectare a ofertelor RRFm pentru activarea programată, pentru un anumit ID.
+8.1.6.5.5 Introducerea în platforma PE locală și transmiterea cererilor pentru activarea directă pentru un anumit ID se poate face în orice moment între T – 8 minute și T + 5 minute; o cerere pentru activarea directă trebuie confirmată în maxim un minut  pentru a putea fi procesată de platformă, altfel aceasta este anulată automat de sistem.
+8.1.6.5.6 Procesarea cererilor pentru activarea directă are loc imediat după confirmarea acestora în platforma PE locală.
+8.1.6.5.7 Algoritmul de selectare a ofertelor RRFm respectă următoarele condiții și priorități:
+- Stabilește starea de disponibilitate a ofertelor în funcție de legăturile tehnice și economice dintre acestea;
+- Preţul oricărei oferte acceptate la creștere de putere este mai mic decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RRFm de creștere de putere şi care nu a fost acceptată;
+- Preţul oricărei oferte acceptate la scădere de putere este mai mare decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RRFm de reducere de putere şi care nu a fost acceptată;
+- Toate ofertele valide cu un preţ mai mic decât cel mai mare preţ al ultimei oferte RRFm acceptate pentru creștere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Toate ofertele cu un preţ mai mare decât cel mai mic preţ al ultimei oferte RRFm acceptate pentru reducere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Prioritizează selectarea ofertelor valide finale, la același preț, astfel:
+Ofertele complet divizibile, divizibile, exclusive, multipart, indivizibile;
+Pentru același tip de ofertă se aplică prioritizarea conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, până la conectarea oficială cu platforma RRFm;
+În cazul în care mai multe UFR/GFR cu același tip de prioritate conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, se selectează din acestea volume parțiale proporţionale cu volumul total ofertat, cu granularitate de 0,1 MW; 
+Pentru ofertele la care nu se aplică prioritizarea conform art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, se aplică criteriul de prioritate a mărcii de timp;
+Din ofertele cu aceeași marcă de timp se selectează volume parțiale/integrale proporţional cu volumul total ofertat, cu granularitate de 0,1 MW.
+8.1.6.5.8 După rularea algoritmului de selectare oferte, platforma PE locală afIșează selectiv următoarele date:
+- ofertele selectate pentru activare atunci când volumul de energie de echilibrare cerut este acoperit în întregime de acestea;
+- volumele de energie de echilibrare posibil a fi activate și posibilele prețuri marginale, cu sau fără ultima ofertă atunci când aceasta este o ofertă indivizibilă sau divizibilă cu un minim indivizibil care depășește volumul cerut; OTS va confirma unul dintre volumele propuse și ofertele selectate vor fi afișate;
+- ofertele selectate pentru activare, atunci când nu sunt suficiente oferte care să acopere volumul de energie de echilibrare cerut, insoțite de un mesaj care să atenționeze o activare RRFm incompletă; în funcție de starea SEN, OTS va decide activarea unui volum mai mare din rezerva  produsul RRFa, și/sau va apela la activarea unor volume de energie suplimentare în afara Ordinei de Merit, cu compensații financiare. Pentru intervalele urmatoare OTS va solicita oferte suplimentare RRFm, și va folosi rezerva RI pentru completare.   
+8.1.6.5.9 Pentru fiecare interval de dispecerizare, prețul ultimei oferte acceptată integral sau parțial va determina preţul marginal pentru ofertele RRFm activate pentru creştere de putere, respectiv preţul marginal pentru ofertele RRFm activate pentru reducere de putere. 
+8.1.6.5.10 Imediat după selectarea ofertelor RRFm pentru activare, acestea sunt disponibile ca dispoziții de dispecer prin webservice pentru FSE.
+8.1.6.5.11 La T - 7.5 minute, activarea programată a UFR/GFR este inițiată.
+8.1.6.5.12 Livrarea energiei de echilibrare pentru activările programate pentru un ID, inclusiv variațiile de sarcină, au loc între T – 7,5 minute și T + 20 minute. 
+8.1.6.5.13 Livrarea energiei de echilibrare pentru activările directe, inclusiv variațiile de sarcină, pot începe în orice moment între T – 7,5 minute și T + 10 minute; livrarea se va încheia la T + 35 minute. 
+8.1.6.5.14 Momentul de la care se măsoară timpul complet de activare pentru o activare directă este la 7,5 minute după momentul când dispoziția de dispecer rezultată în urma selecției pentru respectiva activare directă devine disponibilă pentru FSE. FSE primește cerere de activare cu 12,5 minute înainte de activarea completă estimată.
+8.1.7 Selectarea ofertelor RRFa în scopul activării
+8.1.7.1 Activarea produsului RRFa se face pentru fiecare subinterval de 4 secunde al unui ID, iar selectarea ofertelor RRFa se realizează în sistemul EMS SCADA.
+8.1.7.2 După T – 25 minute, platforma PE afișează volumul total al ofertelor RRFa, respectiv prețurile minime și maxime a acestora, pe fiecare direcție, pentru un anumit ID.
+8.1.7.3 Platforma PE transmite la momentul de timp T – 12 minute, fișierul de oferte RRFa către sistemul EMS SCADA  și către platforma RRFa in cazul in care se functioneaza in stare cuplat,.
+8.1.7.5 Sistemul EMS SCADA rulează ordinea de merit la fiecare interval de 4 secunde începând cu ora 0:00 a fiecărei zile, urmată de activarea specifică RRFa, în funcție de necesarul de energie de echilibrare din această rezervă.
+8.1.7.6 Algoritmul de selectare a ofertelor RRFa respectă următoarele condiții:
+- Preţul oricărei oferte acceptate la creștere de putere este mai mic decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RRFa de creștere de putere şi care nu a fost acceptată;
+- Preţul oricărei oferte acceptate la scădere de putere este mai mare decât preţul oricărei oferte care face parte din ordinea de merit corespunzătoare RRFa de reducere de putere şi care nu a fost acceptată;
+- Toate ofertele valide cu un preţ mai mic decât cel mai mare preţ al ultimei oferte RRFa acceptate pentru creștere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Toate ofertele cu un preţ mai mare decât cel mai mic preţ al ultimei oferte RRFa acceptate pentru reducere de putere, sunt acceptate cu întreaga cantitate ofertată;
+- Selectarea la creștere / reducere de putere din ordinea de merit locală se va face fără luarea în considerare a vitezelor de creștere / reducere de putere ale UFR/GFR.
+- Dacă există mai multe oferte finale cu același preț, se selectează volume parțiale/integrale proporţional cu volumul total ofertat, cu granularitate de 0,1 MW.
+8.1.7.7 În situația în care OTS este conectat la platforma RRFa, principiile de bază ale modelului cererii RRFa sunt enumerate mai jos:
+• Sistemul EMS-SCADA calculează în fiecare ciclu de 4 secunde cererea RRFa pentru zona proprie de reglaj frecvență-putere. Cererea RRFa transmisă automat către platforma RRFa reprezintă necesarul de energie de echilibrare dinaintea oricărei activări RRFa luând în considerare toate procesele anterioare, inclusiv activarea RRFm. Cererea de RRFa se determină de către sistemul EMS SCADA prin adăugarea contribuției RFP măsurată, necorectată și RRFa deja activat. Cantitatea de RRFa deja activată este determinată fie pe baza volumelor solicitate.
+• Cererea RRFa transmisă către platforma RRFa este furnizată întâi ca dată de intrare în mecanismul de compensare a dezechilibrelor, rezultând o primă valoare de corecție a cererii. Volumul rămas din cerere după compensarea dezezechilibrelor între OTS-uri, este procesat de funcția de optimizare secvențială a platformei RRFa pentru a determina valoarea de corecție RRFa pentru fiecare zonă de reglaj frecvență-putere, pe baza ordinei de merit comune și în limita de capacitate transfrontalieră RRFa disponibilă. Corecția RRFa este egală cu schimbul automat de putere de restabilire a frecvenței din zona LFC.
+• Valorile de corecție RRFa (Pcorr RRFa) și MCD (Pcorr MCD) rezultate sunt transmise de catre sistemele europene dedicate in sistemul EMS-SCADA, fără a ține cont de eventuale constrângeri legate de vitezele de încărcare/descărcare ale UFR/GFR activate local. 
+• Valorile de corecție RRFa și MCD sunt incluse direct în bucla de control RRFa a regulatorului central, în conformitate cu articolul 147 alineatul (4a) din Regulamentul (UE) 2017/1485 al Comisiei din 2 august 2017 de stabilire a unei linii directoare privind operarea sistemului de transport al energiei electrice. Suma algebrică a cererii RRFa inițiale transmise și a valorilor de corecție RRFa și MCD este așa-numita cerere RRFa corectată și reflectă cantitatea de RRFa pe care trebuie să o furnizeze zona LFC individuală.
+• Cererea RRFa corectată este în cele din urmă activată local în conformitate cu ordinea de merit locală încărcată în regulatorul central, respectând condițiile de la pct. 8.7.1.6. Pentru a activa în mod continuu cele mai economice oferte RRFa, este necesar ca ordinea de merit comună și ordinea de merit locală să fie sincronizate în permanență cu aceleași oferte disponibile pentru perioada de valabilitate curentă.• OTS transmite în timp real către platforma RRFa, cantitățile activate de către fiecare UFR/GFR determinate pe baza volumelor solicitate, ca date necesare pentru procesul de decontare.
+
+8.2 Managementul congestiilor
+8.2.1 Dacă  activarea unei/unor oferte RI, RRFm sau RRFa, a unui/unor UFR/GFR, determină apariţia unei congestii interne, punând în pericol siguranţa şi stabilitatea funcţionării SEN, atunci OTS filtrează ordinea de merit locală a respectivului tip de produs, marcând oferta(le) PE ca indisponibilă(e) pentru activarea locală/comună pe PE, din cauza unei congestii interne, înainte de a transmite ordinea de merit locală către platformele RRFm și RRFa. 
+8.2.2 În cazul în care ofertele PE a căror activare poate conduce la o congestie internă aparțin mai multor UFR/GFR dintr-o anumită zonă a SEN, aceste oferte se marchează ca indisponibile în ordinea crescătoare sau descrescătoare a prețurilor de ofertă, în funcție de direcția de activare.
+8.2.3 În cazul în care OTS constată că într-un ID va apărea o congestie internă care pune în pericol siguranţa şi stabilitatea funcţionării SEN și consideră că această congestie poate fi evitată prin activarea anumitor UFR/GFR care sunt deja ofertate pe PE, OTS procedează astfel:
+  1. RI 
+– în intervalul T – 50 și T – 35, se selectează din lista locală de oferte RI, oferta/ofertele care vor fi activate pentru managementul congestiilor;
+ - în cazul în care ofertele a căror activare este neapărat necesară pentru evitarea unei congestii interne, aparțin mai multor UFR/GFR dintr-o anumită zonă a SEN, aceste oferte se selectează în ordinea crescătoare sau descrescătoare a prețurilor de ofertă, în funcție de direcția de activare;
+- imediat după selectarea ofertelor RI pentru activare, dispozițiile de dispecer rezultate sunt disponibile pentru FSE prin webservice;
+- activarea ofertelor se face cel mai devreme de la T - 30 minute respectând aceleși condiții de livrare ca în cazul activării pentru echilibrare;
+- în cazul în care prețul ofertelor activate pentru managementul congestiilor este mai mic sau egal decât prețul marginal pentru energia de echilibrare activată la creștere sau mai mare sau egal decât prețul marginal pentru energia de echilibrare activată la reducere, în același ID, atunci starea dispoziției de dispecer se modifică și oferta respectivă se consideră selectată pentru echilibrare și energia activată din această ofertă se platește cu prețul marginal aferent.
+- în cazul în care prețul ofertelor activate pentru managementul congestiilor este mai mare sau egal decât prețul marginal pentru energia de echilibrare activată la creștere sau mai mic decât prețul marginal pentru energia de echilibrare activată la reducere, în același ID, oferta respectivă se consideră selectată pentru prevenirea/ rezolvarea unei congestii și energia activată din aceaste oferte se platește la prețul de ofertă.
+2. RRFm 
+a) Filtrarea listei de oferte locale înaintea transmiterii către platforma RRFm:
+- în situația unor congestii interne, care pot apărea doar în apropierea ID și care impun selectarea anumitor UFR/GFR pentru creștere sau reducere de putere, OTS marchează ofertele acestor UFR/GFR, integral sau parțial, ca indisponibile pentru platforma RRFm;
+- în cazul în care ofertele a căror activare este neapărat necesară pentru evitarea unei congestii interne, aparțin mai multor UFR/GFR dintr-o anumită zonă a SEN, aceste oferte sunt filtrate în ordinea crescătoare sau descrescătoare a prețurilor de ofertă, în funcție de direcția de activare.
+b) Condiții de selectare locală a ofertelor  activate pentru managementul congestiilor: 
+- în intervalul T – 25 și T – 10, se selectează din lista locală de oferte RRFm, oferta/ofertele care vor fi activate pentru managementul congestiilor;
+- imediat după selectarea ofertelor RRFm pentru activare, dispozițiile de dispecer rezultate sunt disponibile pentru FSE prin webservice;
+- activarea ofertelor începe cel mai devreme de la T – 7,5 minute respectând aceleși condiții de livrare ca în cazul activării programate pentru echilibrare;
+- în cazul în care prețul ofertelor activate pentru managementul congestiilor este mai mic sau egal decât prețul marginal pentru energia de echilibrare activată la creștere sau mai mare sau egal decât prețul marginal pentru energia de echilibrare activată la reducere, în același ID, atunci starea dispoziției de dispecer se modifică și oferta respectivă se consideră selectată pentru echilibrare și energia activată din această ofertă se platește cu prețul marginal aferent.
+- în cazul în care prețul ofertelor activate pentru managementul congestiilor este mai mare sau egal decât prețul marginal pentru energia de echilibrare activată la creștere sau mai mic decât prețul marginal pentru energia de echilibrare activată la reducere, în același ID, oferta respectivă se consideră selectată pentru prevenirea/ rezolvarea unei congestii și energia activată din aceaste oferte se platește cu prețul la prețul de ofertă.
+3. RRFa
+În situația unor congestii interne, care pot apărea doar în apropierea ID și care impun selectarea anumitor UFR/GFR pentru creștere sau reducere de putere și constată după închiderea porții de transmitere a ofertelor de către FSE că respectivele UFR/GFR sunt ofertate numai pentru RRFa, OTS procedează astfel:
+- OTS marchează ofertele acestor UFR/GFR, integral sau parțial, ca indisponibile pentru platforma RRFa, respectiv către sistemul EMS SCADA
+- selectează volumele necesare a fi activate de către UFR/GFR respective pentru managementul congestiilor, din ordinea de merit pentru compensații financiare;
+- imediat după selecțiile făcute, OTS anunță FSE de indisponibilizarea ofertelor RRFa, iar dispozițiile de dispecer rezultate pentru managementul congestiilor, vor fi  disponibile prin webservice.
+8.2.4 Toate dispozițiile de dispecer care au ca scop managementul congestiilor sunt marcate corespunzător în platforma PE locală.
+8.2.5 La selectarea pentru rezolvarea congestiilor interne, OTS reține toate informațiile care trebuie incluse în raportul prevăzut la art. 13, alin. (4) din Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică.
+8.2.6 În cazul unui GFR cu entități componente aflate în zona congestionată și altele în afara zonei congestionate, OTS solicită o redistribuire a producției/consumului în cadrul GFR pentru evitarea unei congestii de rețea.
+8.2.7 În cazul apariției unei congestii de rețea, UFR/GFR din zonă sunt activate la creștere de putere/reducere de putere în ordinea de merit a ofertelor UFR/GFR care asigură eliminarea congestiei. În cazul selectării energiei pentru managementul congestiilor ofertate la acelaşi preţ, se selectează volume parțiale/integrale proporţional cu volumul total ofertat, cu granularitate de 0,1 MW.
+8.2.8 După epuizarea tuturor ofertelor la reducere de putere ale UFR/GFR, din zona congestionată, în cazul în care în această zonă sunt UFR/GFR regenerabile sau UFR/GFR agregate care au în componență centrale regenerabile care funcționează peste puterea notificată, OTS solicită reducerea de putere până la puterea notificată, corespunzătoare cu necesarul de energie pentru evitarea congestiei de rețea.
+8.2.9 Dacă într-o zonă congestionată sunt doar UFR/GFR regenerabile sau UFR/GFR agregate care au în componență centrale regenerabile care funcționează peste puterea notificată OTS solicită reducerea de putere până la puterea notificată, corespunzătoare cu necesarul de energie pentru evitarea congestiei de rețea.
+
+
+8.3Reguli privind activarea unor rezerve de energie disponibile, în afara pieței de echilibrare în scopul managementului congestiilor
+8.3.1 În situațiile în care, în pofida îndeplinirii de către OTS a tuturor atribuțiilor și acțiunilor necesare în vederea asigurării pe bază de mecanisme de piață a resurselor de echilibrare necesare, acestea nu sunt suficiente pentru asigurarea siguranței sistemului și prevenirea unor congestii interne, acesta utilizează în afara pieței de echilibrare, cu compensație și restul capacităților disponibile ale UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR , aflate necondiționat la dispoziția sa și capabile să răspundă dispozițiilor de dispecer. Se vor respecta regulile de dispecerizare prioritară și redispecerizare care nu se bazează pe piață, prevăzute în art.10, Anexa1 din Ordinul ANRE nr. 127/08.12.2021, iar în cazul aceluiași tip de prioritate, prin asimilarea compensațiilor unitare cu prețuri de ofertă în piața de echilibrare, considerate cu semn pozitiv în cazul creșterii de putere și cu semn negativ în cazul reducerii de putere.
+8.3.2 În cazul UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR pentru care participanții la piața de echilibrare nu au transmis informații, valoarea compensației financiare va fi determinată conform modului de calcul prevăzut în Ordinul ANRE nr. 127/08.12.2021.
+8.3.3 Participanții la piață responsabili de UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR primesc și duc la îndeplinire dispozițiile de creștere sau de reducere a puterii active în afara pieței de echilibrare în scopul rezolvării congestiilor interne sau al asigurării siguranței sistemului prin redispecerizare sau prin comercializare în contrapartidă coordonată.
+8.3.4 Conformarea cu dispozițiile de dispecer emise de OTS este obligatorie pentru participanții la PE/participanții la piață responsabili de UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR în cauză.
+8.3.5 Instalațiile de producere a energiei electrice care utilizează cogenerare de înaltă eficiență sau surse regenerabile de energie, fac obiectul selecțiilor la reducere de putere în afara pieței de echilibrare, numai dacă nu există alte alternative sau numai dacă alte soluții ar conduce la costuri disproporționate semnificativ sau la riscuri severe în ceea ce privește siguranța rețelei. 
+
+8.4 Determinarea prețurilor marginale
+8.4.1 RI
+- Pentru fiecare ID în care au fost selectate oferte RI se determină prețul marginal pe fiecare direcție de activare, determinând astfel un preț RI marginal la creștere sau un preț RI marginal la reducere. 
+- Prețul RI marginal la creștere este dat de prețul ultimei oferte pentru creștere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RI, pentru un anumit ID.
+- Prețul RI marginal la reducere este dat de prețul ultimei oferte pentru reducere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RI, pentru un anumit ID.
+
+
+8.4.2. RRFm
+8.4.2.1 RRFm activare programată
+1. Selectare locală
+- Pentru fiecare ID în care au fost selectate oferte RRFm se determină prețul marginal pentru activarea programată (AP) pe fiecare direcție de activare, determinând astfel un preț RRFm marginal la creștere (AP) sau un preț RRFm marginal la reducere (AP). 
+- Prețul RRFm marginal la creștere (AP) este dat de prețul ultimei oferte pentru creștere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RRFm, pentru un anumit ID.
+- Prețul RRFm marginal la reducere (AP) este dat de prețul ultimei oferte pentru reducere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RRFm, pentru un anumit ID.
+2. Selectare pe platforma RRFm
+Platforma RRFm stabilește prețul marginal transfrontalier pentru activarea programată (AP), astfel:
+a) într-o anumită zonă necongestionată, prețul marginal transfrontalier la creștere (AP) este cel mai mare preț dintre prețul de închidere al pieței după procesarea cererilor elastice în sens ascendent și prețul ultimei oferte RRFm la creștere de putere, selectată pentru acoperirea cererilor inelastice;
+ b) într-o anumită zonă necongestionată, prețul marginal transfrontalier la reducere (AP) este cel mai mic preț dintre prețul de închidere al pieței după procesarea cererilor elastice în sens descendent și prețul ultimei oferte RRFm la reducere selectată pentru acoperirea cererilor inelastice;
+c) același preț în două zone conectate atunci când nu există congestie la graniță;
+d) prețuri diferite în două zone conectate, atunci când există congestie la graniță;
+e) într-o zonă de programare în care nu sunt activate oferte și are loc doar compensarea unei cereri inelastice cu alte cereri de sens contrar ale altor OTS, prețul marginal transfrontalier la creștere/reducere (AP) va fi considerat zero.
+
+8.4.2.1 RRFm activare directă
+1. Selectare locală
+În cazul activarilor directe unor oferte RRFm dedicate acestui tip de activare, se stabilesc prețuri RRFm marginale pentru activarea directă (AD), pentru ID în care s-a dispus activarea și pentru următorul ID (ID+1).
+ Etapele și condițiile de stabilire a prețurilor RRFm marginale (AD), în funcție de direcția de selectare, sunt următoarele:
+a) Se determină un preț RRFm marginal la creștere (AD), inițial, pentru ID, acesta fiind prețul de ofertă cel mai ridicat, din ofertele selectate din ordinea de merit locală, pentru activarea directă la creștere de putere, în ID.
+b) Se determină un preț RRFm marginal la reducere (AD), inițial, pentru ID, acesta prețul de ofertă cel mai scăzut, din ofertele selectate din ordinea de merit locală pentru activarea directă la reducere de putere, în ID.
+c) Se determină prețul RRFm marginal la creștere (AD) pentru ID, ca fiind cel mai mare dintre prețul RRFm marginal la creștere (AP) și prețul RRFm marginal la creștere (AD) inițial, determinat pentru ID.
+d) Se determină prețul RRFm marginal la reducere (AD) pentru ID, ca fiind cel mai mic dintre prețul RRFm marginal la reducere (AP) și prețul RRFm marginal la reducere (AD) inițial determinate pentru ID.
+e) Se determină prețul RRFm marginal la creștere (AD) pentru ID+1, ca fiind cel mai mare dintre prețul RRFm marginal la creștere (AP) determinat pentru ID+1 și prețul RRFm marginal la creștere (AD) inițial, determinat pentru ID.
+d) Se determină prețul RRFm marginal la reducere (AD) pentru ID+1, ca fiind cel mai mic dintre prețul RRFm marginal la reducere (AP) determinat pentru ID+1 și prețul RRFm marginal la reducere (AD) inițial determinat pentru ID.
+2. Selectare pe platforma RRFm
+În cazul activarilor directe unor oferte RRFm dedicate acestui tip de activare, se stabilesc prețuri marginale transfrontaliere pentru activarea directă (AD), pentru ID în care s-a dispus activarea și pentru următorul ID (ID+1).
+ Etapele și condițiile de stabilire a prețurilor marginale transfrontaliere (AD), în funcție de direcția de selectare, sunt următoarele:
+a) Se determină un preț marginal transfrontalier la creștere (AD), inițial, pentru ID, acesta fiind prețul de ofertă cel mai ridicat, din ofertele selectate din ordinea de merit comună pentru activarea directă la creștere de putere, în ID.
+b) Se determină un preț marginal transfrontalier la reducere (AD), inițial, pentru ID, acesta prețul de ofertă cel mai scăzut, din ofertele selectate din ordinea de merit comună pentru activarea directă la reducere de putere, în ID.
+c) Se determină prețul marginal transfrontalier la creștere (AD) pentru ID, ca fiind cel mai mare dintre prețul marginal transfrontalier la creștere (AP) și prețul marginal transfrontalier la creștere (AD) inițial, determinat pentru ID.
+d) Se determină prețul marginal transfrontalier la reducere (AD) pentru ID, ca fiind cel mai mic dintre prețul marginal transfrontalier la reducere (AP) și prețul marginal transfrontalier la reducere (AD) inițial determinate pentru ID.
+e) Se determină prețul marginal transfrontalier la creștere (AD) pentru ID+1, ca fiind cel mai mare dintre prețul marginal transfrontalier la creștere (AP) determinat pentru ID+1 și prețul marginal transfrontalier la a creștere (AD) inițial, determinat pentru ID.
+d) Se determină prețul marginal transfrontalier la reducere (AD) pentru ID+1, ca fiind cel mai mic dintre prețul marginal transfrontalier la reducere (AP) determinat pentru ID+1 și prețul marginal transfrontalier la reducere (AD) inițial determinat pentru ID.
+8.4.3 RRFa
+1. Selectare locală pe platforma RRFa
+- Pentru fiecare subinterval de 4 secunde al unui ID, în care sunt selectate oferte RRFa se stabilește un preț marginal pentru acest produs, stabilit pe direcția de activare.
+-  Prețul RRFa marginal la creștere este dat de prețul ultimei oferte pentru creștere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RRFa, pentru un anumit subinterval de 4 secunde al unui ID. 
+-  Prețul RRFa marginal la reducere este dat de prețul ultimei oferte pentru creștere de putere, selectată în ordinea de merit locală pentru acoperirea cererii RRFa, pentru un anumit subinterval de 4 secunde al unui ID. 
+2. Selectare pe platforma RRFa
+Platforma RRFa stabilește prețul marginal transfrontalier pentru produsul RRFa, astfel:
+a) într-o anumită zonă necongestionată, prețul marginal transfrontalier la creștere este prețul ultimei oferte RRFa la creștere de putere, selectată pentru un anumit subinterval de 4 secunde al unui ID;
+ b) într-o anumită zonă necongestionată, prețul marginal transfrontalier la reducere este prețul ultimei oferte RRFm la reducere de putere, selectată pentru un anumit subinterval de 4 secunde al unui ID;
+c) același preț în două zone conectate atunci când nu există congestie la graniță;
+d) prețuri diferite în două zone conectate, atunci când există congestie la graniță.
+RESPONSABILITĂȚI 
+9.1 FSE, participanții la piață care au în exploatare UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR, respectiv PRE sunt responsabile pentru exactitatea informațiilor pe care au obligatia sa le transmită la OTS şi OPE, inclusiv modificarea NP/DD în cazul apariției unor indisponibilități, schimbări în structura lor de producție, informațiile necesare determinării compensațiilor financiare unitare.
+9.3 OTS determină ordinile de merit locale pentru Energia de Echilibrare corespunzătoare produselor RI, RRFm, RRFa, și ordinea de merit creată pe baza compensațiilor financiare estimate și emite dispozițiile de dispecer corespunzătoare ofertelor activate pe platforma RRFm, respectiv pe platforma PE locală pentru produsele RI si RRFm. Dispozitiie de dispecer pentru produsul RRFa sunt transmise automat de catre  sistemul EMS SCADA. 
+9.4 OTS răspunde de analiza și evaluarea rezervelor pentru fiecare ID la nivel SEN.
+9.5 FSE și participanții la piață care au în exploatare UFR/GFR, respectiv unități de producție de clasă C sau D care nu fac parte din UFR/GFR, răspund de conformarea cu dispozițiile de dispecer emise de OTS. 
+9.6 Operatorul Pieţei de Echilibrare răspunde de emiterea confirmărilor de tranzacții angajate pe PE și/sau în afara PE cu compensație.
+9.10 În cazul în care sistemul informatic al pieței de echilibrare este indisponibil accidental sau în perioada de mentenanță planificată pentru selectarea energiei de echilibrare OTS va aplica procedurile operaționale specifice (Disfunctionalitati in procesul de selectare pe PE COD:TEL-.07.VI ECH-DN/258 sau Procedură de urgenţă pentru piaţa de echilibrare privind transmiterea, validarea şi selectarea ofertelor zilnice și emiterea dispoziţiilor de dispecer COD:TEL-.07.VI ECH-DN/228). 
+ANEXE, ÎNREGISTRĂRI, ARHIVĂRI
+10.1 ANEXE –
+10.2 ÎNREGISTRĂRI Toate operaţiile descrise în procedură sunt înregistrate în platforma DAMAS cu eticheta de timp;
+10.3 ARHIVĂRI Arhivarea prezentei proceduri se face conform Nomenclatorului arhivistic în vigoare și prevederilor PO cod TEL-03.24 Activitatea de arhivă în C.N.T.E.E. „Transelectrica” S.A.
+
+LISTA DE DIFUZARE
+Document difuzat: Procedura Operaţională
+Denumire: Selectarea pe tipuri de reglaj a energiei de echilibrare
+Cod: TEL-.07.VI ECH-DN/240
+Ediția I
+Revizia 4
+Nr. crt.
+Scopul difuzării
+Exemplar nr.
+Compartiment
+Funcția
+Numele și prenumele
+Data primirii
+Semnătura
+0
+1
+2
+3
+4
+5
+6
+7
+11.1
+Avizare
+Original + 
+Format electronic
+Toate entităţile organizatorice ale CNTEE Transelectrica SA.
+-
+-
+-
+-
+11.2
+Aplicare
+Format electronic
+FSE, 
+DEN
+
+
+Data postării pe site
+
+11.3
+Informare
+ANRE
+
+
+
+Data postării pe site
+N/A
+11.4 
+Evidența
+original
+DMI – SMACM
+
+IMC
+
+…
+
+11.5
+Arhivare
+E1 
+(copie martor)
+OPE, Serviciu Operare
+
+Șef serv.
+
+Mihaiela – Gabriela CONDOVICI
+…
+
+11.6
+Alte scopuri
+-
+
+
+
+
+

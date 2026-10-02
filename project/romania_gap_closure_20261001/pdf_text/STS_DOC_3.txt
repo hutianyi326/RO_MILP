@@ -1,0 +1,933 @@
+PDF PAGE 1
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+CONTRACT DE FURNIZARE A REZERVEI PENTRU STABILIZAREA FRECVENŢEI
+Nr. … / …
+1. Părţile contractante
+Acest contract de furnizare a rezervei pentru stabilizarea frecvenţei (“Contract”) este încheiat la data  
+de ................. între:
+..................................................................................  cu  sediul  social  
+în  ....................................................Str.  ..................................................................................  nr......,  
+Etaj  .....,  Județ,  ........................................  Cod  de  înregistrare  fiscala  .........................,  
+J...................................,  înregistrată  la  Registrul  Comerţului  de  pe  langă  Tribunalul  sub  
+nr..............................................,  cont  bancar  nr............................................................................ , 
+deschis  la  ................................................................ ,  reprezentată  
+de........................................................................., în  calitate de vânzător.
+Şi
+COMPANIA NAȚIONALĂ DE TRANSPORT AL ENERGIEI ELECTRICE "TRANSELECTRICA"  
+SA, societate administrată în sistem dualist, cu sediul în București, Sectorul 3, str. Olteni, Nr. 2-4,  
+CLADIREA   „PLATINUM  CENTER”,  înregistrată  la  Oficiul  Registrului  Comerţului  sub  numărul  
+J2000008060404, Cod de înregistrare fiscală RO13328043, cont de virament IBAN RO52 RZBR  
+0000  0600  2152  0653,  deschis  la  Raiffeisen  BANK,  reprezentată  de  Directorat,  în  calitate  de 
+cumpărător,
+ambele denumite în continuare părţi.
+Având în vedere:
+• Cererea nr. ............................... privind încheierea Contractului de furnizare a rezervei pentru  
+stabilizarea frecvenţei.
+Părţile au convenit următoarele:
+Definiţii și documente de referință
+Art. 1. Termenii utilizaţi în prezentul contract sunt definiţi în cadrul reglementărilor în vigoare,  
+parte dintre acestea fiind enumerate în cadrul Anexei nr.1;
+Art. 2. Documentele de referință ale Contractului sunt prezentate în Anexa nr.1.
+2.  Obiectul Contractului
+Art. 3. Obiectul Contractului constă în vânzarea de către vânzător şi cumpărarea de către  
+cumpărător a capacităţii de RSF în condiţiile aplicării Procedurii operaţionale „Achiziţia  
+1/17
+PDF PAGE 2
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+prin licitaţie a rezervei pentru stabilizarea frecvenţei”, prevăzută la punctul 9 din Anexa 1, 
+numitǎ  în  continuare  Procedura,  şi  reglementarea  raporturilor  dintre  părţi  privind  
+obligaţiile financiare şi modalităţile de plată a rezervei pentru stabilizarea frecvenţei.
+Art. 4. Vânzătorul înţelege şi acceptă că dreptul de a vinde capacitate de RSF poate fi acordat  
+numai dacă acesta are în portofoliu unităţi de furnizare a rezervelor/ grupuri de furnizare  
+a rezervelor calificate de cumpărător pentru RSF şi este înscris la Piaţa de Echilibrare  
+conform Procedurii PRE.
+Art. 5. Cantităţile orare, preţurile orare şi contravalorile lunare a capacităţii de RSF contractate  
+în condiţiile Procedurii sunt prezentate în Anexele 3 şi 4.
+3. Condiţii de desfăşurare a tranzacţiilor
+Art. 6. Vânzătorul  va  vinde  către  cumpărător  cantităţile  capacităţii  de  RSF  contractate  în  
+condiţiile Procedurii, conform programelor din Anexele 3 şi 4 la Contract. 
+Art. 7. Cantităţile contractate la Art. 6 vor fi asigurate de vănzător prin portofoliul de unităţi de 
+furnizare a rezervelor/ grupuri de furnizare a rezervelor calificate pentru furnizarea RSF.
+Art. 8. Vânzătorul are obligaţia de a furniza fizic energia electrică corepunzătoare capacităţii de  
+RSF contractate conform Procedurii.
+Art.9 Cantităţile de capacităţi de RSF realizate faţă de cele contractate se determină conform  
+Procedurii Operaţionale „Determinarea volumului de capacităţi de RSF realizată faţă de  
+cele contractate” prevăzută la punctul 11 din Anexa 1 a Contractului. 
+Art.10 Energia corespunzătoare capacităţii de RSF contractate de la vânzător este utilizată de  
+cumpărător pentru asigurarea stabilităţii SEN în conformitate cu variaţia de frecvenţă din  
+ID-ul repectiv şi caracteristicile RSF calificate.
+Art.11 (1) Pentru capacitatea de RSF contractată şi neasigurată prin notificare, vânzătorul se  
+obligă să plătească cumpărătorului o penalizare corespunzătoare unei valori de 100%  
+din prețul de contract determinat ca raport între valoarea cantităților de RSF contractate  
+și nerealizate, şi cantitățile de RSF contractate și nerealizate după aplicarea prevederilor  
+Art. 9.
+(2) Pentru cazul în care capacitatea de RSF contractată este asigurată, însă UFR/GFR  
+nu răspunde la variaţia de frecvenţă, vânzătorul se obligă să plătească cumpărătorului o  
+penalizare corespunzătoare unei valori de 100% din prețul de contract determinat ca  
+raport între valoarea cantităților de RSF contractate și nerealizate, şi cantitățile de RSF  
+contractate și nerealizate după aplicarea prevederilor Art. 9.
+4. Obligaţiile vânzătorului
+Art.12 Vânzătorul are următoarele obligaţii:
+a) să respecte reglementările ANRE privind achiziţia în regim concurenţial conform  
+prevederilor Procedurii;
+b) să furnizeze fizic energia electrică corepunzătoare capacităţii de RSF contractate  
+conform Procedurii;
+c) are obligaţia de a furniza în mod continuu întreaga cantitate de RSF contractată,  
+atâta timp cât abaterea de frecvenţă persistă, dar nu mai puţin de 15 minute şi nu  
+mai mult de 30 de minute;
+d) să obţină şi să menţină deţinerea certificatului de furnizor de capacităţi de RSF;
+e) să informeze UNO-DEN despre orice eveniment produs în instalaţiile proprii care  
+2/17
+PDF PAGE 3
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+are consecinţe asupra siguranţei în funcţionarea SEN;
+f) să asigure menţinerea în funcţiune a echipamentelor proprii necesare legăturilor  
+de telecomunicaţii operative directe ale treptelor de dispecer;
+g) să  se  asigure  că  se  poate  realiza  monitorizarea  activării  RSF  la  nivelul  
+vănzatorului, dar şi la nivelul UFR sau GFR şi transmiterea în timp real către OTS  
+a datelor /înregistrărilor solicitate;
+h) vânzătorul are obligaţia monitorizării RSF ex post/şi sau în timp real, necesar a fi  
+activate şi a celei activate.
+i) să  efectueze  lucrările  de  exploatare  şi  întreţinere  pentru  instalaţiile  proprii  şi 
+staţiile de transformare, aflate în gestiunea proprie;
+j) să plătească cumpărătorului penalizarea specificată în Art.11 pentru cantităţile de  
+capacităţi pentru de RSF contractate şi nerealizate, pentru cantităţile de capacitati 
+de RSF contractată este asigurată, însă pentru care UFR/GFR nu a răspuns la  
+variaţia de frecvenţă.
+5. Drepturile vânzătorului
+Art.13 Vânzătorul are următoarele drepturi:
+a) să factureze contravaloarea capacităţii de RSF realizate la prețurile prevăzute în  
+Anexa 3 şi majorări de întârziere conform Art.18 dacă este cazul;
+b) să încaseze la termenul stabilit contravaloarea facturilor emise conform lit. a);
+c) să iniţieze modificarea şi/sau completarea Contractului sau a anexelor la acesta  
+ori de câte ori părţile convin acest lucru;
+d) în situaţii justificate, notificate de către vânzător, acesta are dreptul să cesioneze  
+drepturile şi obligaţiile acestui Contract către un alt furnizor semnatar de contract  
+de furnizare a rezervei pentru stabilizarea frecvenţei;
+e) notificarea prevăzută la lit. d) conţine prevederi privind;
+(i)motivul cesiunii;
+(ii)perioada de timp pentru care se realizează cesiunea;
+(iii)cantitatea de capacitate de RSF cesionată, pentru fiecare zi şi ID din perioada 
+de timp pentru care se realizează cesiunea;
+f) cesiunea drepturilor şi obligaţiilor privind cantităţile contractate a capacităţii de  
+RSF, conform Procedurii, se realizeazã prin semnarea anexelor de cesionare de  
+către cedent, cesionar și Transelectrica SA prin mijloace electronice (fișier tip  
+pdf), în care preţul  capacităţii de RSF rămâne nemodificat. Anexele de cesionare  
+sunt transmise prin e-mail la adresele electronice de corespondență precizate în  
+Anexa 2;
+6. Obligaţiile Cumpărătorului
+Art.14 Cumpărătorul are următoarele obligaţii:
+a) să respecte prevederile Procedurii;
+b) să  respecte  prevederile  Procedurii  Operaţionale  „Determinarea  volumului  de  
+capacităţi de RSF realizate faţă de cele contractate” prevăzută la punctul 11 din  
+Anexa 1;
+c) să plătească vânzătorului capacităţile de RSF realizate la preţurile prevăzute în  
+anexa  3 în  condiţiile  prevederilor  Art.11,  pentru  fiecare  ID  al  perioadelor  de 
+3/17
+PDF PAGE 4
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+livrare;
+d) să  asigure  dezvoltarea,  exploatarea  şi  întreţinerea  infrastructurii  de  
+telecomunicaţii  şi  aplicarea  programelor  software  necesare  achiziţionării  şi  
+prelucrării datelor de proces şi a datelor obţinute din măsurători;
+e) cumparătorul are obligaţia monitorizării RSF ex post/şi sau în timp real, necesar a  
+fi activate şi a celei activate;
+f) să pună la dispoziţia vânzătorului în termen de 3 zile lucrătoare de la sfârşitul lunii 
+de livrare a Notei lunare de regularizare care cuprinde defalcat volumele de  
+capacitate de RSF contractată realizată şi preţurile rezultate din licitaţie;
+g) să respecte reglementările stabilite în prescripţiile şi normele în vigoare, necesare 
+pentru funcţionarea normală a SEN;
+h) să  obţină  şi  să  menţină  toate  autorizaţiile  şi  licenţele  necesare  îndeplinirii  
+obligaţiilor proprii.
+7. Drepturile cumpărătorului
+Art.15 Cumpărătorul are următoarele drepturi:
+a) să beneficieze de  capacităţi de RSF  asigurate de  vânzător, în conformitate cu  
+prevederile prezentului contract, prevederile Codului Tehnic al Reţelei Electrice  
+de Transport menţionat în Anexa 1 şi prevederile Procedurii;
+b) să  stabilească cantităţile  realizate  ale  capacităţii  de  RSF,  în  conformitate  cu  
+reglementările în vigoare;
+c) să solicite vânzătorului o penalizare  specifică în conformitate cu Art.11, pentru  
+cantităţile de capacităţi de RSF contractate şi nerealizate.
+8. Termene şi condiţii de plată 
+Art.16 Contravaloarea  capacităţii de RSF  realizate ce urmează a fi facturată şi încasată de  
+către vânzător de la cumpărător, conform acestui contract, în fiecare lună contractuală  
+se determină pentru cantităţile de capacităţi de RSF realizate, la preţurile din Anexa nr.3 
+în condiţiile prevăzute în Art.9.
+Art.17 Pe întreaga durată a contractului, în termen de 10 (zece) zile lucrătoare de la începutul  
+lunii  calendaristice  care  urmează  lunii  de  prestație,  după  aplicarea  prevederilor  
+Procedurii Operaţionale „Determinarea cantităţilor de capacităţi de RSF realizate faţă de  
+cele  contractate”  vânzătorul  va  emite  o  factură  către  cumpărător,  întocmită  în  
+conformitate cu prevederile Art.16.
+Factura se emite și se transmite prin mijloace electronice (e-mail) fișier tip pdf. Adresa  
+de e-mail este cea precizată în cadrul Anexei nr.2. Data e-mailului este considerată data  
+primirii facturii. Un exemplar tipărit al facturii se poate transmite și prin serviciul de  
+curierat rapid, contravaloarea serviciului de curierat fiind suportată de către emitent.
+Art.18 Pe întreaga durată a contractului,  începând cu prima zi lucrătoare după  punerea la  
+dispoziţie a Notei de regularizare sau a Notei de regularizare revizuite, pentru luna de  
+contract în care a fost furnizată capacitatea de RSF contractată, cumpărătorul va întocmi 
+o  factură  pentru  penalizări  stabilite  în  conformitate  cu  Art.11  pentru  cantităţile  de  
+capacităţi de RSF contractate şi neasigurate conform Art.11.
+Factura se emite şi se transmite prin mijloace electronice (e-mail) fisier tip pdf. Adresa  
+de e-mail este cea precizată în cadrul Anexei nr.1c. Data e-mailului este considerată  
+4/17
+PDF PAGE 5
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+data primirii facturii. Un exemplar tipărit al  facturii se poate transmite și prin serviciul de  
+curierat rapid, contravaloarea serviciului de curierat fiind suportată de către emitent.
+Art.19 În termen de 5 (cinci) zile lucrătoare de la primirea facturii pentru capacităţile de RSF  
+realizate  în  luna  contractuală,  cumpărătorul  va  plăti  către  vânzător  contravaloarea  
+capacităţiilor de RSF facturate pentru luna contractuală respectivă.
+Art.20 În termen de 5 (cinci) zile lucrătoare de la primirea facturii pentru penalităţile referitoare  
+la luna contractuală, vânzătorul va plăti către cumpărător contravaloarea penalităţilor  
+facturate pentru luna contractuală respectivă.
+Art.21 Părţile confirmă că au agreat reciproc băncile prin care să se desfăşoare derularea  
+plăţilor. Acestea sunt cele menţionate la capitolul 1 din prezentul contract sau în cazul  
+vânzătorului, banca specificată în facturile emise de acesta în baza prezentului contract.
+Art.22 În cazul neîndeplinirii în termen de 30 de zile de la data scadenţei a obligaţiilor prevăzute 
+la Art. 20, cumpărătorul va plăti în afara sumei datorate, majorări de întârziere la această 
+sumă, corespunzǎtoare ca procent al majorării de întârziere datorate pentru neplata la  
+termen a obligaţiilor cǎtre bugetul de stat, pentru fiecare zi de întârziere, până în ziua  
+plăţii (exclusiv). Valoarea totală a penalităţilor nu poate depăşi valoarea sumei datorate. 
+Art.23 (1) În cazul în care o sumă facturată este contestată integral sau parţial de cumpărător  
+acesta va efectua plata sumei necontestate şi va înainta, în termen de 5 zile lucrătoare  
+de  la  primirea  facturii,  o  notă  explicativă  către  vânzător  cuprinzând  obiecţiile  sale.  
+Vânzătorul analizează contestaţia primită şi în termen de 5 zile lucrătoare de la primirea  
+ei transmite cumpărătorului punctul său de vedere privind contestaţia.
+(2) Eventualele corecţii sau regularizări rezultate prin rezolvarea contestaţiei pe cale  
+amiabilă sau prin hotărâre judecătorească definitivă vor fi efectuate în termen de 5 zile  
+lucrătoare de la rezolvare. 
+Art.24 Plata facturilor enumerate conform capitolului 8 va fi efectuată prin orice mijloc legal de  
+plată. Corespunzător modului de plată convenit, factura se consideră achitată de către  
+cumpărător la data înregistrării plăţii în extrasul bancar al vânzătorului, la data preluării  
+cecului de către vânzător sau la data considerată de reglementările în vigoare, pentru  
+celelalte mijloace legale de plată.
+9. Obligaţii şi garanţii
+Art.25 Părţile  se  obligă  una  faţă  de  cealaltă  să  obţină  şi  să  păstreze  pe  toată  durata  
+Contractului toate aprobările necesare fiecăreia pentru îndeplinirea obligaţiilor cuprinse  
+în contract, conformându-se în acelaşi timp tuturor cerinţelor legale.
+Art.26 Părţile garantează una celeilalte că prezentul Contract reprezintă o obligaţie validă,  
+legală, opozabilă în justiţie în termenii acestui Contract.
+10. Modificarea circumstanţelor
+Art.27 În contextul acestui Contract modificările de circumstanţă semnifică: o nouă prevedere  
+legală, modificarea textului sau modificarea interpretării privind orice cerinţă legală sau  
+reglementare  (inclusiv  încetarea  valabilităţii  unei  cerinţe  legale,  retragerea  sau  
+reînnoirea acesteia) sau aplicarea unei noi cerinţe legale care nu era în vigoare la data  
+semnării acestui contract. Aceasta include introducerea unui nou impozit sau taxe, sau o  
+schimbare a cuantumului oricăreia din taxele existente.
+Art.28 Dacă  la  un  moment  dat,  după  data  întrării  în  vigoare,  apare  o  modificare  de  
+5/17
+PDF PAGE 6
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+circumstanţe, părţile vor modifica în mod corespunzător, prin act adiţional prevederile  
+prezentului Contract.
+11. Legea aplicabilă – litigii
+Art.29 Acest Contract este supus şi interpretat potrivit legii româneşti.
+Art.30 Părțile convin că limba de comunicare contractuală este limba română
+Art.31 (1) Litigiile care decurg din interpretarea prezentului Contract, care nu pot fi rezolvate pe  
+cale amiabilă înaintea perfectării Contractului de furnizare a rezervei pentru stabilizarea  
+frecvenţei, vor fi supuse spre soluţionare ANRE, în conformitate cu prevederile legislaţiei  
+în vigoare.
+(2) În celelalte cazuri, litigiile care decurg din executarea Contractului, care nu pot fi  
+rezolvate  pe  cale  amiabilă,  vor  fi  supuse  spre  soluţionare  instanţei  judecătoreşti  
+competente.
+Art.32 Dacă orice prevedere a acestui Contract sau a anexelor sale intră în conflict cu o  
+prevedere  a  Regulamentului  FSE/FRSF  sau  a  Regulamentului  PRE  va  prevala  
+prevederea aplicabilă Regulamentului FSE/FRSF; Regulamentului PRE.
+Art.33 Rezultatul unei licitaţii pentru achiziţionarea capacităţii de RSF poate fi contestat la  
+ANRE de către Vânzător în cazul în care prevederile Procedurii nu sunt aplicate.
+12. Documentele Contractului
+Art.34  Anexele 1, 2, 3, şi 4 fac parte integrantă din prezentul Contract.
+13. Comunicări şi notificări
+Art.35 Persoanele de contact autorizate pentru derularea acestui Contract sunt menţionate în  
+Anexa 1c.
+Art.36 Părţile trebuie să se asigure că persoanele de contact nominalizate în Anexa 2 pot fi  
+contactate telefonic sau în alt mod, aşa cum este specificat în anexă. 
+Art.37 Fiecare parte trebuie să notifice celeilalte părţi în format scris orice schimbare care a  
+apărut în informaţiile de contact specificate în Anexa 2 cu cel puţin şapte (7) zile înainte  
+ca schimbarea să intre în vigoare.
+14. Durata Contractului
+Art.38 Prezentul Contract intră în vigoare odată cu semnarea sa de către părţi şi rămâne în  
+vigoare până la .................... sau până la rezilierea de către oricare dintre părţi, în conformitate cu  
+prevederile din capitolul 16.
+15. Revizuirea Contractului
+Art.39 Contractul  încheiat  de  părţi  se  poate  prelungi,  modifica  sau  completa  prin  acte  
+adiţionale,  inclusiv  pentru  includerea  prevederilor  legislative  şi  de  reglementare  
+ulterioare încheierii Contractului, la propunerea oricărei părţi. 
+Art.40 Părţile sunt de acord să revizuiască acest Contract la cererea scrisă a oricǎreia dintre  
+Pǎrţi  dacă  siguranţa  în  funcţionare  a  SEN  este  afectată  în  mod  nefavorabil  de  
+îndeplinirea continuă a acestui Contract.
+6/17
+PDF PAGE 7
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+16. Încetarea Contractului
+Art.41 Părţile pot, fără a-şi prejudicia vreunul din drepturi, să iniţieze rezilierea acestui Contract  
+prin notificare înregistrată, efectivă în  treizeci  (30) de zile calendaristice de la  data  
+exprimării notificării în următoarele situaţii: 
+a) suspendarea sau retragerea oricărei autorizaţii, licenţe sau aprobări necesare  
+vânzătorului  pentru  a  continua  în  mod  legal  activităţile  sale  comerciale  în  
+conformitate cu capitolul 2 din acest Contract; 
+b) pierderea  statutului  de  Participant  la  Licitaţie  al  vânzătorului,  în  condiţiile  
+Procedurii;
+Art.42 Orice  culpă  a  uneia  dintre  părţi  referitoare  la  oricare  obligaţie  rezultată  din,  sau  
+prevăzută în acest Contract, va îndreptăţi cealaltă parte, fără a-i fi prejudiciat nici unul  
+din  drepturile  sale,  fie  să  denunţe  unilateral  acest  Contract  în  treizeci  (30)  de  zile  
+calendaristice după data notificării, fie să o supună părţii în culpă pentru a remedia lipsa,  
+în treizeci (30) de zile calendaristice de la termenul de notificare.
+17. Forţa majoră
+Art.43 (1) Părţile sunt absolvite de orice răspundere pentru neîndeplinirea în totalitate sau în  
+parte a obligaţiilor ce decurg din acest Contract, dacă acest lucru este rezultatul acţiunii  
+forţei majore, dovedită conform legii. Circumstanţele de forţă majoră sunt acelea care  
+pot apărea pe perioada de valabilitate a prezentului Contract, în urma producerii unor  
+evenimente extraordinare, de exemplu calamităţi naturale, război, embargo, care nu au  
+putut fi luate în considerare de părţi la încheierea Contractului şi care sunt în afara  
+voinţei şi controlului părţilor.
+(2) Partea care invocă forţa majoră trebuie să notifice acest lucru în scris celeilalte părţi  
+în decurs de 48 de ore de la apariţia acesteia, apreciind şi perioada în care urmările ei  
+încetează, cu confirmarea în termen de 5 (cinci) zile lucrătoare a autorităţii abilitate să  
+constate forţa majoră de la locul producerii evenimentului ce constituie forţă majoră.
+(3) Neîndeplinirea obligaţiei de comunicare a forţei majore nu înlătură efectul exonerator  
+de răspundere al acesteia, dar antrenează obligaţia părţii care trebuia să o comunice de  
+a repara pagubele cauzate părţii contractante prin faptul necomunicării. 
+18. Confidenţialitate
+Art.44 Părţile  vor  considera  confidenţiale  prevederile  acestui  Contract,  la  fel  ca  şi  orice  
+document şi/sau orice informaţie schimbată de părţi în contextul acestui Contract. Fac  
+excepţie de la aceste prevederi:
+a) informaţiile solicitate de autorităţile competente, în conformitate cu reglementările  
+în vigoare;
+b) informaţiile care au fost făcute publice până la încheierea Contractului.
+19. Daune
+Art.45 Nici una dintre părţi nu este responsabilă pentru pierderi sau daune provocate celeilalte  
+părţi cu excepţia cazurilor în care a acţionat cu premeditare sau cu neglijenţă dovedită.
+Art.46 Pentru  neexecutarea,  în  totalitate  sau  în parte, a  obligaţiilor prevăzute  în  prezentul  
+Contract, părţile răspund conform prevederilor legale în vigoare.
+20. Nulitatea unei clauze
+Art.47 Nulitatea sau invaliditatea uneia sau mai multor prevederi ale acestui Contract nu vor  
+afecta validitatea celorlalte prevederi rămase. 
+7/17
+PDF PAGE 8
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Art.48 Prezentul Contract intră în vigoare la data semnării.
+Art.49 Prezentul Contract a fost redactat şi semnat în două exemplare deopotrivă originale,  
+câte unul pentru fiecare parte, la data de .........
+.....................
+INGKA RENEWABLE 
+ENERGY ROMANIA S.R.L
+COMPANIA NAȚIONALĂ DE TRANSPORT AL 
+ENERGIEI ELECTRICE "TRANSELECTRICA" SA
+8/17
+PDF PAGE 9
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Ioana MARINESCU 
+Administrator 
+Ştefăniţă MUNTEANU
+Președinte al Directoratului
+prin
+Gheorghe VIŞAN
+Director DPE
+Cf. Procură nr. 55669/14.11.2024
+Cătălin Constantin NADOLU
+Membru al Directoratului
+prin
+Marian OBRETIN
+Şef Serviciu Pieţe Administrate
+Cf.Procură nr.55471/14.11.2024
+Anexa nr.1
+Reglementările  în  vigoare  privind  derularea  Contractului  de  furnizare  a  rezervei  pentru  
+stabilizarea frecvenţei şi documente de referință care stau la baza prezentului Contract
+1) Regulamentul  (UE)  2195/2017  de  stabilire  a  unei  linii  directoare  privind  echilibrarea  
+sistemului de energie electrică (numit în continuare Regulamentul (UE) 2195/2017.
+2) Regulamentul  (UE)  nr.  1485/2017  de  stabilire  a  unei  linii  directoare  privind  operarea  
+9/17
+PDF PAGE 10
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+sistemului de transport al energiei electrice;
+3) Legea Energiei și a gazelor naturale nr.123/2012, cu modificările și completările ulterioare;
+4) Regulamentul privind clauzele și condițiile pentru furnizorii de servicii de echilibrare și pentru  
+furnizorii de rezervă de stabilizare a frecvenței aprobat prin Ordinul președintelui Autorității  
+Naționale  de  Reglementare  în  Domeniul  Energiei  nr.127  din  08.12.2021,  publicat  în  
+Monitorul  Oficial  al  României  nr.1196/17.12.2021,  denumit  în  continuare  Regulament  
+FSE/FRSF;
+5) Regulamentul  privind  clauzele  și  condițiile  pentru  părțile  responsabile  cu  echilibrarea,  
+aprobat prin Ordinul Preşedintelui ANRE nr. 127 din 08.12 2021, publicat în Monitorul Oficial  
+al României nr.1196/17.12.2021, denumit în continuare ”,Regulament PRE;
+6) Codul Tehnic al Reţelei Electrice de Transport, ediția în vigoare;
+7) Ordinul președintelui ANRE nr. 45/13.06.2017 publicat în Monitorul Oficial al României nr.  
+442 din 14 iunie 2017 privind aprobarea “Metodologiei de stabilire a tarifelor pentru serviciul  
+de sistem”, cu modificările și completările ulterioare;
+8) Procedura de calificare tehnică pentru furnizarea serviciilor de sistem, aprobată prin Ordinul  
+Preşedintelui ANRE nr. 89/2021, ediţia în vigoare, denumită în continuare Procedură de  
+calificare tehnică;
+9) Procedura  Operațională  „Achiziția  prin  licitaţie  a  rezervei  pentru  stabilizarea  frecvenţei", 
+numită în Contract „Procedura”;
+10) Înregistrarea, transferarea responsabilităţii echilibrării, actualizarea, retragerea şi revocarea  
+unei Părți Responsabile cu Echilibrarea”, numită în cadrul Convenției PO PRE
+11) Procedura Operaţională „Determinarea cantităţilor de capacităţi de RSF realizate faţă de  
+cele contractate”, ediția în vigoare;
+12) Cererea nr.          ;
+13) Certificatul de calificare al vânzătorului pentru furnizarea capacităţii de RSF.
+Anexa nr. 2
+Persoane de contact şi informaţii comerciale
+I.Date de contact ale vânzătorului
+10/17
+PDF PAGE 11
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Nume : 
+sediul social furnizor de RSF 
+telefon: 
+fax: 
+e-mail ale titularului de licenţă: 
+codul de indentificare al al furnizorului de RSF: 
+Licenţa nr. 
+COD EIC : 
+Convenţia de Asumare a Responsabilităţii Echilibrării  Nr.
+1) Contact tehnic
+Datele de contact ale persoanelor care sunt responsabile împuternicite să acționeze în numele  
+solicitantului:
+ E- mail: 
+ Tel: 
+ Fax: 
+ Mobil: 
+2) Contact facturare
+Datele de contact ale persoanelor care sunt responsabile cu derularea comercială a contractului
+ E- mail: 
+ Tel: 
+ Fax: 
+ E- mail: 
+11/17
+PDF PAGE 12
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+II.Date de contact ale cumpărătorului
+1) Contact Platforma informatică PE - OPE
+Blvd. Hristo Botev nr. 16-18
+Bucureşti, sector 3
+RO-030236
+TEL: 0213035824
+0213035854
+0213035823
+FAX: 0213035630
+Email: tsoplan@transelectrica.ro
+2).Contact  Comercial Transelectrica 
+Str. Olteni 2-4, Sector 3
+030786 Bucuresti 
+Tel. 021.3035641
+       021.3035806
+Fax. 021.3035847
+e.mail comercial.servicii.tehnologice@transelectrica.ro
+12/17
+PDF PAGE 13
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Anexa: 3
+Cantităţile contractate pentru fiecare ID pentru capacitatea de RSF contractată - Luna/ Anul
+RSF Furnizor
+IBD Cantităţi pentru fiecare ID  (h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Total 
+zilnic 
+(h*MW)
+Total  cantitate  lunară  
+contractată (h*MW)
+Vânzător [Operator de transport şi de sistem]
+13/17
+PDF PAGE 14
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Preţurile pentru ficare ID şi contravaloarea lunară pentru capacitatea de RSF contractată - Luna/ Anul
+RSF Furnizor
+IBD Preţuri  pentru ficare ID (lei/h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Contravaloare  lunara  
+serviciu (Lei)
+TV
+A 
+14/17
+PDF PAGE 15
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+(Lei
+)
+TOTAL 
+(Lei)
+Vânzător [Operator de transport şi de sistem]
+RSF Furnizor
+IBD Valori  pentru ficare ID  (lei/h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Contravaloare  lunara  
+serviciu (Lei)
+TV
+15/17
+PDF PAGE 16
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+A 
+(Lei
+)
+TOTAL 
+(Lei)
+Vânzător [Operator de transport şi de sistem]
+16/17
+PDF PAGE 17
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Anexa 4: Cantităţile pentru fiecare ID pentru capacitatea de RSF cesionată  Luna/ Anul
+RSF........................
+IBD Cantităţi  pentru ficare ID (h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Total 
+zilnic 
+(h*MW)
+Total  cantitate  lunară  
+contractată (h*MW)
+(CEDENT] ( CESIONAR) [Operator de transport şi de sistem]
+17/17
+PDF PAGE 18
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+Preţurile pentru ficare ID şi contravaloarea lunară pentru capacitatea de RSF cesionată- Luna/ Anul
+RSF...............................
+.
+IBD Preţuri pentru ficare ID (lei/h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Contravaloare  lunara  
+serviciu (Lei)
+TV
+A 
+18/17
+PDF PAGE 19
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+(Lei
+)
+TOTAL 
+(Lei)
+[CEDENT] ( CESIONAR) [Operator de transport şi de sistem]
+RSF...............................
+.
+IBD Valori  pentru ficare ID (lei/h*MW)
+De 
+la
+Pân
+ă
+1 2 3 4 5 6 7 8 9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+15 16 1
+7
+1
+8
+1
+9
+2
+0
+2
+1
+22 23 2
+4
+2
+5
+2
+6
+2
+7
+2
+8
+29 3
+0
+31
+M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J V S D L M
+a
+M
+c
+J
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+. .
+. .
+. .
+20 21
+21 22
+22 23
+23 24
+Contravaloare  lunara  
+serviciu (Lei)
+19/17
+PDF PAGE 20
+                                                                                                                      Contract de furnizare a rezervei pentru stabilizarea frecvenţei
+TV
+A 
+(Lei
+)
+TOTAL 
+(Lei)
+[CEDENT] ( CESIONAR) [Operator de transport şi de sistem]
+20/17

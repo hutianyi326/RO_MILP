@@ -1,0 +1,32 @@
+{
+  "id": "tenderStatistics_2025-06",
+  "dataset": "D05",
+  "publisher": "Transelectrica / DAMAS II",
+  "title": "tenderStatistics",
+  "report": "tenderStatistics",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2025-05-31T21:00:00Z",
+    "timeInterval.to": "2025-06-30T21:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "month": "2025-06",
+  "source_timezone": "Europe/Bucharest",
+  "requested_start_utc": "2025-05-31T21:00:00Z",
+  "requested_end_utc": "2025-06-30T21:00:00Z",
+  "scope": "native monthly public report; unversioned ex-post snapshot",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:45:58.180395+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/full_period/20261001/tenderStatistics_2025-06__a1/original.json",
+  "sha256": "839c0eea0dffd6997759eeb1f61ab1ff1b499a45a7cd29c90f78e2d5fa617880",
+  "bytes": 3693372,
+  "detected_format": "json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "TSO_ANNUAL2024_BATTERY",
+  "dataset": "D10",
+  "url": "https://www.transelectrica.ro/documents/10179/19114374/Raport%2BAnual%2B2024%2BTranselectrica_Modificare%2BAGA_RO.pdf/11ba6ab7-90df-4e43-ba57-c347d318c59c",
+  "title": "Raport anual Transelectrica 2024 (storage observation dated 01.02.2025 on PDF p105; not year-end)",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:53.675684+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/19114374/Raport%2BAnual%2B2024%2BTranselectrica_Modificare%2BAGA_RO.pdf/11ba6ab7-90df-4e43-ba57-c347d318c59c",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_ANNUAL2024_BATTERY__a1/original.pdf",
+  "sha256": "807861e1fa036f968db1c46f1cad27d6a92bcff431ad3994f9792cafa8bc6296",
+  "bytes": 9924854,
+  "detected_format": "pdf"
+}

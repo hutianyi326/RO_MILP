@@ -1,0 +1,17 @@
+{
+  "id": "S008",
+  "dataset": "D08-D11-D16",
+  "url": "https://transparency.entsoe.eu/",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official public transparency access",
+  "retrieved_utc": "2026-09-30T09:16:41.1429727Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html",
+  "raw_file": "data/raw/RO/samples/20260930/S008/original.html",
+  "bytes": 14498,
+  "sha256": "ce3095395e09db7e250becef435e20ddc00680dc04b0706acb2d22d3eeaf1b95"
+}

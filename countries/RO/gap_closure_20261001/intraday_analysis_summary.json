@@ -1,0 +1,18 @@
+{
+  "ida_dates": 608,
+  "idct15_dates": 608,
+  "idct60_dates": 608,
+  "ida_rows": 175092,
+  "ida_numeric_pairs": 69,
+  "idct_occurrences": 3741324,
+  "idct15_occurrences": 2180829,
+  "idct60_occurrences": 1560495,
+  "idct_product_groups": 129792,
+  "errors": [],
+  "model_approved": false,
+  "asof_approved": false,
+  "complete_intraday_market_coverage": false,
+  "identity_policy": "source cell occurrence, no deduplication; no trade_id/trade_time provided",
+  "query_date_semantics": "IDCT raw caption states Trades concluded in; full delivery date remains unverified",
+  "extraction_control": "complete cell stream including loose td; independent rowspan and consumption controls"
+}

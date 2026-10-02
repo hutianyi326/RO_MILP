@@ -1,0 +1,32 @@
+{
+  "id": "dailyConsumptionOverview_2025-01",
+  "dataset": "D08-D16",
+  "publisher": "Transelectrica / DAMAS II",
+  "title": "dailyConsumptionOverview",
+  "report": "dailyConsumptionOverview",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2024-12-31T22:00:00Z",
+    "timeInterval.to": "2025-01-31T22:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "month": "2025-01",
+  "source_timezone": "Europe/Bucharest",
+  "requested_start_utc": "2024-12-31T22:00:00Z",
+  "requested_end_utc": "2025-01-31T22:00:00Z",
+  "scope": "native monthly public report; unversioned ex-post snapshot",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:43:33.457903+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/full_period/20261001/dailyConsumptionOverview_2025-01__a1/original.json",
+  "sha256": "60a773406c6cace9f4a0a86807639942abc98fc4fad708793515e5426f44ac28",
+  "bytes": 1033852,
+  "detected_format": "json"
+}

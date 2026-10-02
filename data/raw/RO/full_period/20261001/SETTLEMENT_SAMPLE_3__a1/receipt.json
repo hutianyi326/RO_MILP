@@ -1,0 +1,17 @@
+{
+  "id": "SETTLEMENT_SAMPLE_3",
+  "dataset": "D07",
+  "publisher": "Transelectrica",
+  "title": "Anexa 2 Costuri Efective Per ID",
+  "url": "https://www.transelectrica.ro/documents/10179/20927729/Anexa_2_CosturiEfectivePerID_EchSEN_202501/fb07ef77-944d-41e1-b004-5d82b5c2e3b4",
+  "scope": "Ianurarie 2025 VMA Corectie 15.01.2026",
+  "official_label": "Ianurarie 2025 VMA Corectie 15.01.2026",
+  "url_month": "202501",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:02:49.238371+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "TimeoutError: The read operation timed out"
+}

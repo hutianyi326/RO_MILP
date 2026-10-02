@@ -1,0 +1,19 @@
+{
+  "id": "OPCOM_DAM_SETTLEMENT_CATALOG",
+  "dataset": "D14",
+  "url": "https://www.opcom.ro/tranzactii-rezultate/en/10",
+  "title": "OPCOM DAM settlement documents catalog",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:57.607313+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/tranzactii-rezultate/en/10",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_DAM_SETTLEMENT_CATALOG__a1/original.html",
+  "sha256": "d744e046b1d0c6539f80d18defe4a42193ae9d1dc5678b32fbd3e111b068e589",
+  "bytes": 80990,
+  "detected_format": "html"
+}

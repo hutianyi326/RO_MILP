@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "dailyConsumptionOverview_2025-01",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-01",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-01",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2024-12-31T23%3A00%3A00Z&timeInterval.to=2025-01-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T23:00:00Z",
+      "timeInterval.to": "2025-01-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2024-12-31T23:00:00Z",
+    "requested_end_utc": "2025-01-31T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-01",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-02",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-01-31T22%3A00%3A00Z&timeInterval.to=2025-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-01-31T22:00:00Z",
+      "timeInterval.to": "2025-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-01-31T22:00:00Z",
+    "requested_end_utc": "2025-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-02",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-01-31T22%3A00%3A00Z&timeInterval.to=2025-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-01-31T22:00:00Z",
+      "timeInterval.to": "2025-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-01-31T22:00:00Z",
+    "requested_end_utc": "2025-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-02",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-01-31T23%3A00%3A00Z&timeInterval.to=2025-02-28T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-01-31T23:00:00Z",
+      "timeInterval.to": "2025-02-28T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-02",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-01-31T23:00:00Z",
+    "requested_end_utc": "2025-02-28T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-02",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-01-31T22%3A00%3A00Z&timeInterval.to=2025-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-01-31T22:00:00Z",
+      "timeInterval.to": "2025-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-01-31T22:00:00Z",
+    "requested_end_utc": "2025-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-03",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-02-28T22%3A00%3A00Z&timeInterval.to=2025-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-02-28T22:00:00Z",
+      "timeInterval.to": "2025-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-02-28T22:00:00Z",
+    "requested_end_utc": "2025-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-03",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-02-28T22%3A00%3A00Z&timeInterval.to=2025-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-02-28T22:00:00Z",
+      "timeInterval.to": "2025-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-02-28T22:00:00Z",
+    "requested_end_utc": "2025-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-03",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-02-28T23%3A00%3A00Z&timeInterval.to=2025-03-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-02-28T23:00:00Z",
+      "timeInterval.to": "2025-03-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-03",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-02-28T23:00:00Z",
+    "requested_end_utc": "2025-03-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-03",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-02-28T22%3A00%3A00Z&timeInterval.to=2025-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-02-28T22:00:00Z",
+      "timeInterval.to": "2025-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-02-28T22:00:00Z",
+    "requested_end_utc": "2025-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-04",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-03-31T21%3A00%3A00Z&timeInterval.to=2025-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-03-31T21:00:00Z",
+      "timeInterval.to": "2025-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-03-31T21:00:00Z",
+    "requested_end_utc": "2025-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-04",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-03-31T21%3A00%3A00Z&timeInterval.to=2025-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-03-31T21:00:00Z",
+      "timeInterval.to": "2025-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-03-31T21:00:00Z",
+    "requested_end_utc": "2025-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-04",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-03-31T22%3A00%3A00Z&timeInterval.to=2025-04-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-03-31T22:00:00Z",
+      "timeInterval.to": "2025-04-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-04",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-03-31T22:00:00Z",
+    "requested_end_utc": "2025-04-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-04",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-03-31T21%3A00%3A00Z&timeInterval.to=2025-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-03-31T21:00:00Z",
+      "timeInterval.to": "2025-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-03-31T21:00:00Z",
+    "requested_end_utc": "2025-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-05",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-04-30T21%3A00%3A00Z&timeInterval.to=2025-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-04-30T21:00:00Z",
+      "timeInterval.to": "2025-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-04-30T21:00:00Z",
+    "requested_end_utc": "2025-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-05",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-04-30T21%3A00%3A00Z&timeInterval.to=2025-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-04-30T21:00:00Z",
+      "timeInterval.to": "2025-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-04-30T21:00:00Z",
+    "requested_end_utc": "2025-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-05",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-04-30T22%3A00%3A00Z&timeInterval.to=2025-05-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-04-30T22:00:00Z",
+      "timeInterval.to": "2025-05-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-05",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-04-30T22:00:00Z",
+    "requested_end_utc": "2025-05-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-05",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-04-30T21%3A00%3A00Z&timeInterval.to=2025-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-04-30T21:00:00Z",
+      "timeInterval.to": "2025-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-04-30T21:00:00Z",
+    "requested_end_utc": "2025-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-06",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-05-31T21:00:00Z",
+      "timeInterval.to": "2025-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-05-31T21:00:00Z",
+    "requested_end_utc": "2025-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-06",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-05-31T21:00:00Z",
+      "timeInterval.to": "2025-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-05-31T21:00:00Z",
+    "requested_end_utc": "2025-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-06",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-05-31T22%3A00%3A00Z&timeInterval.to=2025-06-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-05-31T22:00:00Z",
+      "timeInterval.to": "2025-06-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-06",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-05-31T22:00:00Z",
+    "requested_end_utc": "2025-06-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-06",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-05-31T21:00:00Z",
+      "timeInterval.to": "2025-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-05-31T21:00:00Z",
+    "requested_end_utc": "2025-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-07",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-06-30T21%3A00%3A00Z&timeInterval.to=2025-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-06-30T21:00:00Z",
+      "timeInterval.to": "2025-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-06-30T21:00:00Z",
+    "requested_end_utc": "2025-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-07",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-06-30T21%3A00%3A00Z&timeInterval.to=2025-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-06-30T21:00:00Z",
+      "timeInterval.to": "2025-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-06-30T21:00:00Z",
+    "requested_end_utc": "2025-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-07",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-06-30T22%3A00%3A00Z&timeInterval.to=2025-07-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-06-30T22:00:00Z",
+      "timeInterval.to": "2025-07-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-07",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-06-30T22:00:00Z",
+    "requested_end_utc": "2025-07-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-07",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-06-30T21%3A00%3A00Z&timeInterval.to=2025-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-06-30T21:00:00Z",
+      "timeInterval.to": "2025-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-06-30T21:00:00Z",
+    "requested_end_utc": "2025-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-08",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-07-31T21:00:00Z",
+      "timeInterval.to": "2025-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-07-31T21:00:00Z",
+    "requested_end_utc": "2025-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-08",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-07-31T21:00:00Z",
+      "timeInterval.to": "2025-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-07-31T21:00:00Z",
+    "requested_end_utc": "2025-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-08",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-07-31T22%3A00%3A00Z&timeInterval.to=2025-08-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-07-31T22:00:00Z",
+      "timeInterval.to": "2025-08-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-08",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-07-31T22:00:00Z",
+    "requested_end_utc": "2025-08-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-08",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-07-31T21:00:00Z",
+      "timeInterval.to": "2025-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-07-31T21:00:00Z",
+    "requested_end_utc": "2025-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-09",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-08-31T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-08-31T21:00:00Z",
+      "timeInterval.to": "2025-09-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-09",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-08-31T21:00:00Z",
+    "requested_end_utc": "2025-09-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-09",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-08-31T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-08-31T21:00:00Z",
+      "timeInterval.to": "2025-09-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-09",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-08-31T21:00:00Z",
+    "requested_end_utc": "2025-09-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-09",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-08-31T22%3A00%3A00Z&timeInterval.to=2025-09-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-08-31T22:00:00Z",
+      "timeInterval.to": "2025-09-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-09",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-08-31T22:00:00Z",
+    "requested_end_utc": "2025-09-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-09",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-08-31T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-08-31T21:00:00Z",
+      "timeInterval.to": "2025-09-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-09",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-08-31T21:00:00Z",
+    "requested_end_utc": "2025-09-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-10",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-09-30T21:00:00Z",
+      "timeInterval.to": "2025-10-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-10",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-09-30T21:00:00Z",
+    "requested_end_utc": "2025-10-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-10",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-09-30T21:00:00Z",
+      "timeInterval.to": "2025-10-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-10",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-09-30T21:00:00Z",
+    "requested_end_utc": "2025-10-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-10",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-09-30T22%3A00%3A00Z&timeInterval.to=2025-10-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-09-30T22:00:00Z",
+      "timeInterval.to": "2025-10-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-10",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-09-30T22:00:00Z",
+    "requested_end_utc": "2025-10-31T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-10",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-09-30T21:00:00Z",
+      "timeInterval.to": "2025-10-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-10",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-09-30T21:00:00Z",
+    "requested_end_utc": "2025-10-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-11",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-10-31T22%3A00%3A00Z&timeInterval.to=2025-11-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-10-31T22:00:00Z",
+      "timeInterval.to": "2025-11-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-11",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-10-31T22:00:00Z",
+    "requested_end_utc": "2025-11-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-11",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-10-31T22%3A00%3A00Z&timeInterval.to=2025-11-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-10-31T22:00:00Z",
+      "timeInterval.to": "2025-11-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-11",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-10-31T22:00:00Z",
+    "requested_end_utc": "2025-11-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-11",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-10-31T23%3A00%3A00Z&timeInterval.to=2025-11-30T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-10-31T23:00:00Z",
+      "timeInterval.to": "2025-11-30T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-11",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-10-31T23:00:00Z",
+    "requested_end_utc": "2025-11-30T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-11",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-10-31T22%3A00%3A00Z&timeInterval.to=2025-11-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-10-31T22:00:00Z",
+      "timeInterval.to": "2025-11-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-11",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-10-31T22:00:00Z",
+    "requested_end_utc": "2025-11-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-12",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-11-30T22:00:00Z",
+      "timeInterval.to": "2025-12-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-12",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-11-30T22:00:00Z",
+    "requested_end_utc": "2025-12-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-12",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-11-30T22:00:00Z",
+      "timeInterval.to": "2025-12-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-12",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-11-30T22:00:00Z",
+    "requested_end_utc": "2025-12-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-12",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-11-30T23%3A00%3A00Z&timeInterval.to=2025-12-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-11-30T23:00:00Z",
+      "timeInterval.to": "2025-12-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-12",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-11-30T23:00:00Z",
+    "requested_end_utc": "2025-12-31T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-12",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-11-30T22:00:00Z",
+      "timeInterval.to": "2025-12-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-12",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-11-30T22:00:00Z",
+    "requested_end_utc": "2025-12-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-01",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-12-31T22%3A00%3A00Z&timeInterval.to=2026-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-12-31T22:00:00Z",
+      "timeInterval.to": "2026-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-12-31T22:00:00Z",
+    "requested_end_utc": "2026-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-01",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-12-31T22%3A00%3A00Z&timeInterval.to=2026-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-12-31T22:00:00Z",
+      "timeInterval.to": "2026-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-12-31T22:00:00Z",
+    "requested_end_utc": "2026-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-01",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-12-31T23%3A00%3A00Z&timeInterval.to=2026-01-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-12-31T23:00:00Z",
+      "timeInterval.to": "2026-01-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-01",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2025-12-31T23:00:00Z",
+    "requested_end_utc": "2026-01-31T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-01",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2025-12-31T22%3A00%3A00Z&timeInterval.to=2026-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-12-31T22:00:00Z",
+      "timeInterval.to": "2026-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2025-12-31T22:00:00Z",
+    "requested_end_utc": "2026-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-02",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-01-31T22%3A00%3A00Z&timeInterval.to=2026-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-01-31T22:00:00Z",
+      "timeInterval.to": "2026-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-01-31T22:00:00Z",
+    "requested_end_utc": "2026-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-02",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-01-31T22%3A00%3A00Z&timeInterval.to=2026-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-01-31T22:00:00Z",
+      "timeInterval.to": "2026-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-01-31T22:00:00Z",
+    "requested_end_utc": "2026-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-02",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-01-31T23%3A00%3A00Z&timeInterval.to=2026-02-28T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-01-31T23:00:00Z",
+      "timeInterval.to": "2026-02-28T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-02",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-01-31T23:00:00Z",
+    "requested_end_utc": "2026-02-28T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-02",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-01-31T22%3A00%3A00Z&timeInterval.to=2026-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-01-31T22:00:00Z",
+      "timeInterval.to": "2026-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-02",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-01-31T22:00:00Z",
+    "requested_end_utc": "2026-02-28T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-03",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-02-28T22:00:00Z",
+      "timeInterval.to": "2026-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-02-28T22:00:00Z",
+    "requested_end_utc": "2026-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-03",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-02-28T22:00:00Z",
+      "timeInterval.to": "2026-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-02-28T22:00:00Z",
+    "requested_end_utc": "2026-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-03",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-02-28T23%3A00%3A00Z&timeInterval.to=2026-03-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-02-28T23:00:00Z",
+      "timeInterval.to": "2026-03-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-03",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-02-28T23:00:00Z",
+    "requested_end_utc": "2026-03-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-03",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-02-28T22:00:00Z",
+      "timeInterval.to": "2026-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-03",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-02-28T22:00:00Z",
+    "requested_end_utc": "2026-03-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-04",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-03-31T21%3A00%3A00Z&timeInterval.to=2026-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-03-31T21:00:00Z",
+      "timeInterval.to": "2026-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-03-31T21:00:00Z",
+    "requested_end_utc": "2026-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-04",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-03-31T21%3A00%3A00Z&timeInterval.to=2026-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-03-31T21:00:00Z",
+      "timeInterval.to": "2026-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-03-31T21:00:00Z",
+    "requested_end_utc": "2026-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-04",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-03-31T22%3A00%3A00Z&timeInterval.to=2026-04-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-03-31T22:00:00Z",
+      "timeInterval.to": "2026-04-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-04",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-03-31T22:00:00Z",
+    "requested_end_utc": "2026-04-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-04",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-03-31T21%3A00%3A00Z&timeInterval.to=2026-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-03-31T21:00:00Z",
+      "timeInterval.to": "2026-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-04",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-03-31T21:00:00Z",
+    "requested_end_utc": "2026-04-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-05",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-04-30T21%3A00%3A00Z&timeInterval.to=2026-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-04-30T21:00:00Z",
+      "timeInterval.to": "2026-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-04-30T21:00:00Z",
+    "requested_end_utc": "2026-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-05",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-04-30T21%3A00%3A00Z&timeInterval.to=2026-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-04-30T21:00:00Z",
+      "timeInterval.to": "2026-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-04-30T21:00:00Z",
+    "requested_end_utc": "2026-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-05",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-04-30T22%3A00%3A00Z&timeInterval.to=2026-05-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-04-30T22:00:00Z",
+      "timeInterval.to": "2026-05-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-05",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-04-30T22:00:00Z",
+    "requested_end_utc": "2026-05-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-05",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-04-30T21%3A00%3A00Z&timeInterval.to=2026-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-04-30T21:00:00Z",
+      "timeInterval.to": "2026-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-05",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-04-30T21:00:00Z",
+    "requested_end_utc": "2026-05-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-06",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-05-31T21%3A00%3A00Z&timeInterval.to=2026-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-05-31T21:00:00Z",
+      "timeInterval.to": "2026-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-05-31T21:00:00Z",
+    "requested_end_utc": "2026-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-06",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-05-31T21%3A00%3A00Z&timeInterval.to=2026-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-05-31T21:00:00Z",
+      "timeInterval.to": "2026-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-05-31T21:00:00Z",
+    "requested_end_utc": "2026-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-06",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-05-31T22%3A00%3A00Z&timeInterval.to=2026-06-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-05-31T22:00:00Z",
+      "timeInterval.to": "2026-06-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-06",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-05-31T22:00:00Z",
+    "requested_end_utc": "2026-06-30T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-06",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-05-31T21%3A00%3A00Z&timeInterval.to=2026-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-05-31T21:00:00Z",
+      "timeInterval.to": "2026-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-06",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-05-31T21:00:00Z",
+    "requested_end_utc": "2026-06-30T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-07",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-06-30T21%3A00%3A00Z&timeInterval.to=2026-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-06-30T21:00:00Z",
+      "timeInterval.to": "2026-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-06-30T21:00:00Z",
+    "requested_end_utc": "2026-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-07",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-06-30T21%3A00%3A00Z&timeInterval.to=2026-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-06-30T21:00:00Z",
+      "timeInterval.to": "2026-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-06-30T21:00:00Z",
+    "requested_end_utc": "2026-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-07",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-06-30T22%3A00%3A00Z&timeInterval.to=2026-07-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-06-30T22:00:00Z",
+      "timeInterval.to": "2026-07-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-07",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-06-30T22:00:00Z",
+    "requested_end_utc": "2026-07-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-07",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-06-30T21%3A00%3A00Z&timeInterval.to=2026-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-06-30T21:00:00Z",
+      "timeInterval.to": "2026-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-07",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-06-30T21:00:00Z",
+    "requested_end_utc": "2026-07-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-08",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-07-31T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-07-31T21:00:00Z",
+      "timeInterval.to": "2026-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-07-31T21:00:00Z",
+    "requested_end_utc": "2026-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-08",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-07-31T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-07-31T21:00:00Z",
+      "timeInterval.to": "2026-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-07-31T21:00:00Z",
+    "requested_end_utc": "2026-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-08",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-07-31T22%3A00%3A00Z&timeInterval.to=2026-08-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-07-31T22:00:00Z",
+      "timeInterval.to": "2026-08-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-08",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2026-07-31T22:00:00Z",
+    "requested_end_utc": "2026-08-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2026-08",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-07-31T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-07-31T21:00:00Z",
+      "timeInterval.to": "2026-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2026-08",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2026-07-31T21:00:00Z",
+    "requested_end_utc": "2026-08-31T21:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  }
+]

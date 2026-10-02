@@ -1,0 +1,14 @@
+{
+  "id": "E56",
+  "title": "ANRE December2025 electricity monitoring report",
+  "url": "https://anre.ro/wp-content/uploads/2026/03/Monit-dec25-cu-eticheta.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/03/Monit-dec25-cu-eticheta.pdf",
+  "retrieved_utc": "2026-09-30T08:16:40.3303618Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E56\\original.pdf",
+  "bytes": 4629005,
+  "sha256": "06d2769b69776f66b35f810135f9dbe1f08005a643d92318ef97a91ed707a4c8",
+  "extracted_characters": 125664
+}

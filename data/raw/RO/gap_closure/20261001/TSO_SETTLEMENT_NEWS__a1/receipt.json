@@ -1,0 +1,19 @@
+{
+  "id": "TSO_SETTLEMENT_NEWS",
+  "dataset": "D07-D16",
+  "url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+  "title": "TSO dated settlement and correction notices",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:20:51.267157+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+  "content_type": "text/html; charset=utf-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_SETTLEMENT_NEWS__a1/original.html",
+  "sha256": "cd560c5ce248df8a457727dc19a4e9aa11737e0e0e633727915ed39896f2caac",
+  "bytes": 183241,
+  "detected_format": "html"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "TSO_INSTALLED_2026_0",
+  "dataset": "D10",
+  "publisher": "Transelectrica",
+  "title": "Installed/available capacity aggregate updated 01.09.2026",
+  "url": "https://www.transelectrica.ro/documents/10179/45094/7productie23.xls/4ed0d546-a1b7-4bde-a25f-656057902e3d",
+  "scope": "20 Capacitatea totală de producere instalată şi disponibilă în SEN diferenţiată pe surse primare de energie. Suma puterilor aferente unitatilor dispecerizabile si nedispecerizabile aflate la punctele 12 si 13. Baza de date actualizata pentru 01.09.2026.",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:50:54.097428+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/45094/7productie23.xls/4ed0d546-a1b7-4bde-a25f-656057902e3d",
+  "content_type": "application/vnd.ms-excel",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_INSTALLED_2026_0__a1/original.html",
+  "sha256": "ab51bca39f32321e91c7101b3350e61a3f499d70b7ec8ff3efe526a34000224a",
+  "bytes": 156672,
+  "detected_format": "html"
+}

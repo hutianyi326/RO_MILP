@@ -1,0 +1,17 @@
+{
+  "id": "FX_2025-01",
+  "dataset": "D14",
+  "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?startPeriod=2025-01-01&endPeriod=2025-01-31&format=csvdata",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2025-01 ECB RON per EUR reference rate; display conversion only",
+  "retrieved_utc": "2026-09-30T09:34:31.9635139Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/csv",
+  "raw_file": "data/raw/RO/samples/20260930/FX_2025-01/original.html",
+  "bytes": 6595,
+  "sha256": "1f52645122a8fac0b6c84bd5d4b4590516700babf471f2fde129960e5c756fa5"
+}

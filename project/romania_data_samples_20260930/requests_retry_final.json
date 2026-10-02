@@ -1,0 +1,14 @@
+[
+  {
+    "id": "marginalPricesOverview_2025-01-15_R1",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-01-14T22%3A00%3A00Z&timeInterval.to=2025-01-15T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-01-15 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2026-08-31_R1",
+    "dataset": "D11",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2026-08-30T22%3A00%3A00Z&timeInterval.to=2026-08-31T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-31 native CET/CEST day; public route; commercial plans not physical flows"
+  }
+]

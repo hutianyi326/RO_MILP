@@ -1,0 +1,1011 @@
+{
+  "scope": "full step3 analysis record and limitations; live data frozen by hashes; selected light files copied",
+  "generated_utc": "2026-09-30T18:08:52.205526+00:00",
+  "files": [
+    {
+      "file": "countries/RO/full_period_20261001/activatedBalancingEnergyOverview.csv",
+      "sha256": "d22dc835a1bd6ffe3a1fcdf7bc9d0c7b3a055308f3832f85add316b2a80fc1c3",
+      "bytes": 17142876
+    },
+    {
+      "file": "countries/RO/full_period_20261001/activation_continuous_events.csv",
+      "sha256": "2f1f8dc90d74214828a31ce6cecf718ff764a97f9787549c3016c17a9b2b6c61",
+      "bytes": 1154990
+    },
+    {
+      "file": "countries/RO/full_period_20261001/activation_monthly_statistics.csv",
+      "sha256": "b31d41ac835584425b487e23a5631d9045d7553ab6f0c72e7e1ddf81a865657f",
+      "bytes": 7291
+    },
+    {
+      "file": "countries/RO/full_period_20261001/afrr_both_directions.csv",
+      "sha256": "252abf7625838860a1bb23846acd174f3c70269ab1e1485bdd4eba628c3f96b2",
+      "bytes": 2168695
+    },
+    {
+      "file": "countries/RO/full_period_20261001/analysis_report.md",
+      "sha256": "cb2e659dd0960d3e6255eb4aa30abc79dd3d859457d377df6dd51d8af4396beb",
+      "bytes": 18561
+    },
+    {
+      "file": "countries/RO/full_period_20261001/analysis_summary.json",
+      "sha256": "4ae61a91a615ad5aac555c3361d05db4d44457b456c4b203686378d522aa0909",
+      "bytes": 1115
+    },
+    {
+      "file": "countries/RO/full_period_20261001/bnr_reference_rates.csv",
+      "sha256": "46fcc4245b37787b7fc8efefd1531914d151b68645fd361430fd7f0f3df53762",
+      "bytes": 50469
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_DA_descriptive_correlations.csv",
+      "sha256": "1f78e3d4a57d0a746dd1be94a77efdbabb74eee86f88df2838234bf8df92ad5c",
+      "bytes": 4880
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_monthly_statistics.csv",
+      "sha256": "02af3c62586c5cf0abdc6a844c5da1388463eaa8d9a0cb3ed973e7543adeb4d6",
+      "bytes": 11024
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_product_days.csv",
+      "sha256": "212dc656821ca594677e93586838a677575de0e5f1495219f9586f9b41023c43",
+      "bytes": 199810
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_provider_label_concentration.csv",
+      "sha256": "b24bcf8d6e9e6a3e80694d94af32c60f55133454b70e20d0ba04d1b8bd2f2f1b",
+      "bytes": 5001
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_provider_label_shares.csv",
+      "sha256": "4464ba0c4d6741e8b7dc50f771cb3818a13f8bda88e2bb9e9273d696f528d749",
+      "bytes": 59406
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_provider_native_filtered.csv",
+      "sha256": "7df1399c82ffa37b913d05cb5384a6fa88dcb7ad4727df54984128c81e02b741",
+      "bytes": 68988949
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_provider_structures.json",
+      "sha256": "ed42325ea6ca6a909be504ed2634765feb9370703ed08d7e4d5f0241f7722f3c",
+      "bytes": 115646909
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_provider_sum_checks.csv",
+      "sha256": "c2544de23392c1dbb5892daebce830ff84633e8a01275070f69c473b9f947e45",
+      "bytes": 4905715
+    },
+    {
+      "file": "countries/RO/full_period_20261001/capacity_statistics.csv",
+      "sha256": "f21825b69c4f67e6afa7abbcd97ef90d9216092c654b64f2f4e0a6fa2216a0e9",
+      "bytes": 20416127
+    },
+    {
+      "file": "countries/RO/full_period_20261001/commercial_exchange_monthly.csv",
+      "sha256": "a4115e3a16f3eaa0cc6fff25a5a5a57e52c1df4ebb878b087a239df759938ab5",
+      "bytes": 13529
+    },
+    {
+      "file": "countries/RO/full_period_20261001/commercial_net_import.csv",
+      "sha256": "2c8b600551abcdda36d48d27f4b3d0e89d2ae7c97438a22d21523064d3e5062a",
+      "bytes": 3340904
+    },
+    {
+      "file": "countries/RO/full_period_20261001/continuous_descriptive_segments.csv",
+      "sha256": "74077c70a8153ca3b6883e670b84777136222be40421f8e87d37010d920b1e0e",
+      "bytes": 6878
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_daily_checks.csv",
+      "sha256": "0168628972e8830d68ddbeeca2b88e00007a6f5b1ee1591ba7d469ede854349d",
+      "bytes": 46641
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_hourly_heatmap_values.csv",
+      "sha256": "47e32a3eb93cf73599ab997c60c15d1dbd43d1fa517e7bc4652d3ccd8e50495b",
+      "bytes": 15939
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_monthly_statistics.csv",
+      "sha256": "caf7b605fa637cbd9f11aa9d7297b4e8d16d7e727e416516f9343e17d169f029",
+      "bytes": 2968
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_native.csv",
+      "sha256": "7fa2315c5e8b5c6e8dc8901af51ad6909ea76188a1c0ebdb4864a764be5e0134",
+      "bytes": 12173009
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_qh_descriptive_alignment.csv",
+      "sha256": "118846706e616922c8898b2532da812da48883b597660d060a2b83441de7f349",
+      "bytes": 14920037
+    },
+    {
+      "file": "countries/RO/full_period_20261001/da_weekday_weekend.csv",
+      "sha256": "8e1bd93a653356ab706db2481b8a1cc16be48805bb5e92488a0821da7b23674b",
+      "bytes": 2003
+    },
+    {
+      "file": "countries/RO/full_period_20261001/dailyConsumptionOverview.csv",
+      "sha256": "72860c67e3ef970700f15e4ade5a0024d42055a0f47c8a29fa7f9683551ba5d4",
+      "bytes": 17845586
+    },
+    {
+      "file": "countries/RO/full_period_20261001/data_dictionary.md",
+      "sha256": "87573603fb7b8b04a96e46021f99f2f9c0842d8ce296f02bc0949e97ae39bed4",
+      "bytes": 6407
+    },
+    {
+      "file": "countries/RO/full_period_20261001/descriptive_correlations.csv",
+      "sha256": "9de441565c048a771938bc7f35ceff5df0d9f7fef49907d39b542d79294a409f",
+      "bytes": 2489
+    },
+    {
+      "file": "countries/RO/full_period_20261001/deterministic_event_cards.csv",
+      "sha256": "621377969a57df8d0bcb8b7d506d4cdb1a8068017ba7f511a9ae816c648bf835",
+      "bytes": 729
+    },
+    {
+      "file": "countries/RO/full_period_20261001/event_context_qh.csv",
+      "sha256": "33183612f8918e047170df992e00da5a320e267fb2f297a605ec89a7d66c71a1",
+      "bytes": 62616
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/01_da_monthly.png",
+      "sha256": "320ff5109d4827fb82bfeb767774aea2107f77bcd93652f505d273939944374c",
+      "bytes": 138403
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/01_da_monthly.svg",
+      "sha256": "605dd09f30dab5cc36e3b62111205efd2bb513a3526b3c690539dbf84ffaa48f",
+      "bytes": 89435
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/02_da_heatmap.png",
+      "sha256": "3b083f6fbc1942f5a7a947b7f5d0ca8f7877559860d555e09ce19ebf4e483241",
+      "bytes": 102353
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/02_da_heatmap.svg",
+      "sha256": "ff799143a86951ff418dd67f29a9218695f45adb234f18de314b7d33e0c38631",
+      "bytes": 88785
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/03_price_windows.png",
+      "sha256": "54010aa78502b3a3a57e72501494d6c6a4167f712075fa67c722da34a1cf34e7",
+      "bytes": 132820
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/03_price_windows.svg",
+      "sha256": "adfc1335e33bc1513bb61d88599908dcda8d96c334c67c826d2f79a09913ca47",
+      "bytes": 59109
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/04_load.png",
+      "sha256": "80fa6806e833430278752221ce99a4a0d0a405659d5b267206c5453b53acc8b1",
+      "bytes": 158423
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/04_load.svg",
+      "sha256": "003d0d2deee29ab66cf3c1e0e1de0d9766c153dfeaf5753113485e2fdcc7d154",
+      "bytes": 81539
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/05_scada_mix.png",
+      "sha256": "1bd247061e401a6261c9dc2e3fdb8d1c7ba430de5e07d22503cb486322d2d3a9",
+      "bytes": 175007
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/05_scada_mix.svg",
+      "sha256": "1390f1ddd8a745f93f1f71d9b14e22b5a4de69b874cca6d803cd6ffb2506df63",
+      "bytes": 95575
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/06_scada_residual.png",
+      "sha256": "697f6577b5eacaa5e32c1bc5fbc17c6a1f38b042f151915ed4627ae6da051c83",
+      "bytes": 142171
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/06_scada_residual.svg",
+      "sha256": "5bcd571cc16df2b8c8f1d9f53bddd74fbebc23f1aa6ca49cfa748507e2a90ad6",
+      "bytes": 146624
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/07_capacity_raw.png",
+      "sha256": "bdbe080e4b25967436accb5bd6f3bad9f4641c5dd1d56b56bfedb99d2b34cdb7",
+      "bytes": 194560
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/07_capacity_raw.svg",
+      "sha256": "af1db7437429bcd4865d3acc30d828fefdbbb85b20e42c54d2d14986f4d24155",
+      "bytes": 123733
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/08_activation.png",
+      "sha256": "50d7789cc02ed90bc2116c35e7421eb9e456520f08272bf8b68fec5e4f150320",
+      "bytes": 254694
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/08_activation.svg",
+      "sha256": "88016a628b4cfefb1345a7b68bedd3727be7d822da3f702cadff0fc3c5e153ed",
+      "bytes": 104150
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/09_commercial_schedule.png",
+      "sha256": "0939761b4749f613519ef88187f331d295967f5333865515533bea1fac60beb8",
+      "bytes": 68908
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/09_commercial_schedule.svg",
+      "sha256": "2199c4544abf388b5822df9cbf03f384e6cd37bd8acc4f9f2baf08763c1dccb6",
+      "bytes": 57838
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/10_coverage.png",
+      "sha256": "c6d7e675255020aa9ee0527bdfd3bdf0c21abae3a2421370db7cf862559e25b7",
+      "bytes": 142245
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/10_coverage.svg",
+      "sha256": "87ac53e4caabf30a89f870d678b2a0727fece71f5b29805d5fa8b84e1c960872",
+      "bytes": 109793
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/11_installed.png",
+      "sha256": "687699ec66d04280f48a9d45febef47eadf275397f75c7ae5aff61d6f31e9479",
+      "bytes": 115958
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/11_installed.svg",
+      "sha256": "fb8f52d94960e5f1423b0630992ecf45c757e5e8cd4458a52f04130d94cf4dc3",
+      "bytes": 84538
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/12_event_context.png",
+      "sha256": "ed72acc510e674676b3c3ec01fad3205ec04b5b1ead3437e866b19124ea4d971",
+      "bytes": 909420
+    },
+    {
+      "file": "countries/RO/full_period_20261001/figures/12_event_context.svg",
+      "sha256": "1d3f1f07cd768b28f8db6154ecd0f3cdf244b8a1f4899f2f9476253a6f4cb701",
+      "bytes": 287396
+    },
+    {
+      "file": "countries/RO/full_period_20261001/installed_2026_source_cells.csv",
+      "sha256": "b24aa87038ad6839dc53e13161c99d83af21398fd5eec09249968cb55f1bd7c9",
+      "bytes": 206618
+    },
+    {
+      "file": "countries/RO/full_period_20261001/intraday_monthly_aggregate.csv",
+      "sha256": "6f2938888f67c31bfc6d1a9c97d18447331f31d1d02a0ce7ce1c6e206a6398d1",
+      "bytes": 2503
+    },
+    {
+      "file": "countries/RO/full_period_20261001/joint_descriptive_price_load_exchange.csv",
+      "sha256": "e2e00443533bfcece7d006f05d3ca537f66b755f6005efaa6795f68bab7a53a9",
+      "bytes": 3116833
+    },
+    {
+      "file": "countries/RO/full_period_20261001/joint_sample_counts.csv",
+      "sha256": "8fd9c834d1f1d1b2ab9ba51a9b0b347c43eccf84c8da3b05ee18409705052587",
+      "bytes": 1056
+    },
+    {
+      "file": "countries/RO/full_period_20261001/load_duration_curve.csv",
+      "sha256": "4c2cfcc0190e4101f531551b350752e0d990d00f1c3945df1f9517c79fb0540d",
+      "bytes": 1360380
+    },
+    {
+      "file": "countries/RO/full_period_20261001/load_hourly_profile.csv",
+      "sha256": "8c14fe569b68e15316fd7fd7257e439bb0d860460bf468f92b7ffbec62a29a9a",
+      "bytes": 15775
+    },
+    {
+      "file": "countries/RO/full_period_20261001/load_monthly_statistics.csv",
+      "sha256": "4af10a3ac140fdd93f80910e96c51734148cd6684e735dbabea67e8dc60ff311",
+      "bytes": 1551
+    },
+    {
+      "file": "countries/RO/full_period_20261001/load_ramps.csv",
+      "sha256": "1d345e575b0528280cac1c6905540574fb486f1f596532bf9bea5a991267fe2f",
+      "bytes": 2891189
+    },
+    {
+      "file": "countries/RO/full_period_20261001/load_weekday_weekend.csv",
+      "sha256": "51ba1bb19389d1d92965b0cfb0d9bcb5eff923647dc229f71a17ee0b8f20044d",
+      "bytes": 2182
+    },
+    {
+      "file": "countries/RO/full_period_20261001/monthly_coverage.csv",
+      "sha256": "a8c6fce73f535f41d599ba89de8abfd2f4b4bcd4115c75c33e7ed39e2bf0f119",
+      "bytes": 275325
+    },
+    {
+      "file": "countries/RO/full_period_20261001/monthly_official_reconciliation.csv",
+      "sha256": "c6f71b87462a08bdd6a0d815152ac0c2b5fdecf2cef64ee2425716734353c52b",
+      "bytes": 7150
+    },
+    {
+      "file": "countries/RO/full_period_20261001/monthly_pdf_control_text.csv",
+      "sha256": "ac574bd0f6af8a97235981d0019a92cf27109c9733fc6f82c12071b37e855a7b",
+      "bytes": 44153
+    },
+    {
+      "file": "countries/RO/full_period_20261001/negative_price_events.csv",
+      "sha256": "c3a8261110a7e6593083aeca593ce4321c48315dc7b9ed13a261a361f35bb743",
+      "bytes": 9150
+    },
+    {
+      "file": "countries/RO/full_period_20261001/official_settlement_cost_samples.csv",
+      "sha256": "044dd47d2913f3c806c85898ef0c14b9b686986837ad7fabf41ba31a943b5980",
+      "bytes": 1217927
+    },
+    {
+      "file": "countries/RO/full_period_20261001/pdf_index.csv",
+      "sha256": "bc660ce4682acc7872ca5579dce8f7228a89745a55555ba407b4caf79797909a",
+      "bytes": 5572
+    },
+    {
+      "file": "countries/RO/full_period_20261001/price_windows_2h_4h_daily.csv",
+      "sha256": "118ad6c5d9403a3ab85e67ba463f6dec6971b1cbab45d3ec64154f73a5820b0a",
+      "bytes": 132822
+    },
+    {
+      "file": "countries/RO/full_period_20261001/price_windows_2h_4h_full.csv",
+      "sha256": "b2a1ef893a32e2d3242795b09ecd74a3fb93d9af328d73a4b596e17dd8c81d08",
+      "bytes": 445
+    },
+    {
+      "file": "countries/RO/full_period_20261001/raw_manifest.json",
+      "sha256": "879f70af0ccbc334c25b6a6565844b6efbf40860859e78c8238fab8a5d163e57",
+      "bytes": 1147247
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_archive_members.csv",
+      "sha256": "c07bde6285dc2e58d57101e6d9f8a4537d5bafee5ac244fd5cb05073f70cbb48",
+      "bytes": 3416
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_clock_issues.csv",
+      "sha256": "569f8e8fa5e6bb17fadc8c627293b885eed54353eaadd316f5047bab0e0e0621",
+      "bytes": 1157
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_day_coverage.csv",
+      "sha256": "e93e07aeb396cb69165ae10fd95f388ad8eee8464df582816fd57459f1e9e8df",
+      "bytes": 40572
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_excluded_date_records.csv",
+      "sha256": "224ec2d711c22fb08bf141cf24c3bcee93eaef7a4b96ba7b05a2470eb124d09e",
+      "bytes": 8839
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_hourly_profiles.csv",
+      "sha256": "3bc2e3805ed0b0d80e68546e7c7510401432d1640ab1fd62d3cba2cc0d7d27d7",
+      "bytes": 104398
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_monthly_statistics.csv",
+      "sha256": "07c37a94c1217672a7ecef641d67abe89a00b3e72243055e0bc4fe6dde1cbad6",
+      "bytes": 41598
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_native_hourly.csv",
+      "sha256": "d889dca3a585fedd7fbafac8bd9464b03676f236669429de64f06883b4acc293",
+      "bytes": 7624483
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_negative_source_values.csv",
+      "sha256": "6aad0f6fdc1f7ecea9b2f216a288b1c6e2e7b3b8e8bfc9258d58b1881346abd0",
+      "bytes": 60770
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_parse_summary.json",
+      "sha256": "f89e36610e3e2ccfa777d55d626bf4219ca5a7197d8660f8265ec0a4885c5ff3",
+      "bytes": 268
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_price_joint_under_clock_A.csv",
+      "sha256": "76495cf3a6edc4898afec9ef75b5674605e70e36a704966c7fa542a4ce500dd6",
+      "bytes": 7844928
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_residual_clock_sensitivity.csv",
+      "sha256": "9ac0a5b7690f35d64c0780300b0038e2a11432cb73fd0ad206fcb1e04b6c9f45",
+      "bytes": 2448
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_residual_price_bins.csv",
+      "sha256": "7d409a3a353554245b449e7642988a10cfc054c7a2358de3a3528db2391a2192",
+      "bytes": 7436
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_residual_price_correlations.csv",
+      "sha256": "2aebc730a728432f718f62f882a8e3db13beaf51a903bf03a99462b0ec9c94fb",
+      "bytes": 924
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scheduledExchanges.csv",
+      "sha256": "19c69cd87eb153ecb50867cedbb7bc0bd481321f47ddf34d1c7516bd638dc207",
+      "bytes": 27462488
+    },
+    {
+      "file": "countries/RO/full_period_20261001/settlement_cost_sample_checks.csv",
+      "sha256": "7de102f31287fbb7d1cc0406a811f26ed9743ce1372a55b8a093538997a6ce8e",
+      "bytes": 440
+    },
+    {
+      "file": "countries/RO/full_period_20261001/settlement_revision_demonstration.csv",
+      "sha256": "2c9cbc3831f1a57f16f22db008e07522d24008298dbb5765443cc490cb2f95fb",
+      "bytes": 332
+    },
+    {
+      "file": "countries/RO/full_period_20261001/source_anomalies.csv",
+      "sha256": "c50eb27d620cbaede334c3e768f7214f9c913ee2a45c0c83b5a103f69739c7e0",
+      "bytes": 2183
+    },
+    {
+      "file": "countries/RO/full_period_20261001/source_anomalies_supplement.csv",
+      "sha256": "4bd2aa121d2998df0176a4e62544a1330198601ba0c36e539b9364347a1e60f1",
+      "bytes": 2284
+    },
+    {
+      "file": "countries/RO/full_period_20261001/source_attempts.csv",
+      "sha256": "2cd7ce8dc06d9747a8e4b04702527520a10405d06d366b53a6a37585ef47f85e",
+      "bytes": 502016
+    },
+    {
+      "file": "countries/RO/full_period_20261001/source_directory.md",
+      "sha256": "469981e57e126fd604407a53874497bc79e1d1c72358ecd2bb362d47dee7455a",
+      "bytes": 7423
+    },
+    {
+      "file": "countries/RO/full_period_20261001/source_parse_registry.csv",
+      "sha256": "7a74679c25f08a8e63e71a42626dd09939a0eb692994eb8e0434bd6682f673f1",
+      "bytes": 588204
+    },
+    {
+      "file": "countries/RO/full_period_20261001/stage_completion_and_gaps.md",
+      "sha256": "694bc55b28076e9bb4eb15c5276530da7d44df6d11f798002b2028433e7676e6",
+      "bytes": 9746
+    },
+    {
+      "file": "countries/RO/full_period_20261001/supplement_summary.json",
+      "sha256": "e586f0232500999015c2257f426fd130852592cee680109b17cc48d1326190b2",
+      "bytes": 1302
+    },
+    {
+      "file": "countries/RO/full_period_20261001/supplement_verification.json",
+      "sha256": "b5983c9645d3458a79423865b42abe66267167adc6cc1d784392b4c9024723ea",
+      "bytes": 110303
+    },
+    {
+      "file": "countries/RO/full_period_20261001/verification.json",
+      "sha256": "e327e8ab2f617ba12bf3c2b9574a1afef767037aa458d6cb89e5b60a3e6bad07",
+      "bytes": 30159886
+    },
+    {
+      "file": "project/country_status.yaml",
+      "sha256": "52d572f822ddbd2e765499fa1b9c533ac7752a9ae729846accf34fa279f154c9",
+      "bytes": 15942
+    },
+    {
+      "file": "project/romania_full_period_20261001/analyze_full_period.py",
+      "sha256": "ff60ea956a96c4969fb48ee0307d48f7e4851904508f20ffa6b7d058912ec075",
+      "bytes": 24457
+    },
+    {
+      "file": "project/romania_full_period_20261001/authorization.md",
+      "sha256": "c68fa2050696f683e47afe217c5f4ee2f575d70b96a9b9e771cc7c1d3e36651d",
+      "bytes": 2262
+    },
+    {
+      "file": "project/romania_full_period_20261001/collect_public.py",
+      "sha256": "f6f13073cbaaf17407bda56098177f4e86d268c573c63de6f548a566e7d13dc1",
+      "bytes": 3380
+    },
+    {
+      "file": "project/romania_full_period_20261001/final_supplements.py",
+      "sha256": "d52769177224a826356425c460983d5a1333af38727cde1c674145717bb5ca3f",
+      "bytes": 3263
+    },
+    {
+      "file": "project/romania_full_period_20261001/freeze_review.py",
+      "sha256": "92a41990aca0ab268e5a94a4295fdab515673024c2be8e5d1f7ee7e5fe0c5946",
+      "bytes": 1375
+    },
+    {
+      "file": "project/romania_full_period_20261001/inspect_official_files.py",
+      "sha256": "ad42af5c68fc8d3072b9bf33491ecc3a8f62a9c89850201c0fbe442a6e06fbbe",
+      "bytes": 2019
+    },
+    {
+      "file": "project/romania_full_period_20261001/make_figures.py",
+      "sha256": "71736aedf0b2118153474cd51b855e37e488863cbcc0f6102edd329c0946f3f6",
+      "bytes": 10581
+    },
+    {
+      "file": "project/romania_full_period_20261001/make_requests.py",
+      "sha256": "05183ed63b12ca05493a40acbe9caabd0534a92ef86b67e2855ccd1ea2d7f8c3",
+      "bytes": 2954
+    },
+    {
+      "file": "project/romania_full_period_20261001/official_binary_inspection.json",
+      "sha256": "86227d1c1fc19cfe968377ba9e4dbdbcefcd84d885773e4dddf58024a88242ba",
+      "bytes": 1821474
+    },
+    {
+      "file": "project/romania_full_period_20261001/parse_controls.py",
+      "sha256": "b9e241dc63a0b0b42436b9d164ec803682aad5d388fc799535ce6e90e23bbb37",
+      "bytes": 4478
+    },
+    {
+      "file": "project/romania_full_period_20261001/parse_scada.py",
+      "sha256": "dff8b860dfa68472058c0150d8662a53fa2ab76ff986ea2a3836a1cb3d50cc57",
+      "bytes": 7078
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-01.txt",
+      "sha256": "1583f9d1dd4f36302ce5536af7e8d6ba72e1fb0745676180164a51717879aee3",
+      "bytes": 12083
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-02.txt",
+      "sha256": "6892ee5b7b2f676f34c54b65e1904ef57fd30577ece0641cc631e4bb960c62cd",
+      "bytes": 12034
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-03.txt",
+      "sha256": "cb6ebd49d22bb7d417f0d5342b3e8fceb4c538d76da6b7ca040f56ac0c740128",
+      "bytes": 12035
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-04.txt",
+      "sha256": "8c9364ddbe44ece405f649b94bec2b02da879671396ff883af27d7f142884844",
+      "bytes": 11773
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-05.txt",
+      "sha256": "ccbfc9572323b6b36653f84e7738ae8bb7bf1ea54c93dee180e9f85c56d75c96",
+      "bytes": 11879
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-06.txt",
+      "sha256": "f659e7c15e4995f5e0346ace5812d8725dc714bc0ab0954751b20bfb33c6ad90",
+      "bytes": 11945
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-07.txt",
+      "sha256": "526cba4395a856c1f6695c5827ca6a8912af7b88035840ae9ad4bfae9f9edcc6",
+      "bytes": 11761
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-08.txt",
+      "sha256": "cf177c52ab09a94b28ef8024976cef9f12eb6402057266a65caa22acece63fad",
+      "bytes": 11854
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-09.txt",
+      "sha256": "8a076ea7496632717393e065102893ce22c376fa952219e4f4cbd0aa09fb7c21",
+      "bytes": 12207
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-10.txt",
+      "sha256": "a614fa3b07cbea82c21cacef457b6c13d14ff33d5e5d857c7bdc6dc28a0ea0c7",
+      "bytes": 11922
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-11.txt",
+      "sha256": "abd0587b3b7ac66f0c05c9cdd82bf6df95f160109b341122dedacb67f67bae73",
+      "bytes": 11981
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2025-12.txt",
+      "sha256": "b722a63071bb3cbdea0db50525872d9898729797a8f29bff867dbe12035a62e7",
+      "bytes": 11996
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-01.txt",
+      "sha256": "05ea3bca43e127e5f04c11961fe4b1cdb3b63597a51aefadd81acf065001385e",
+      "bytes": 12110
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-02.txt",
+      "sha256": "65487bfdb8dd6088685f217856d2ab309ba942ce47b843844f94d5df6b3a1c76",
+      "bytes": 12071
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-03.txt",
+      "sha256": "dbd1646000d57c194dc3800e35ba4dd930695520645be5a29179fed4b06cc1a0",
+      "bytes": 12017
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-04.txt",
+      "sha256": "162ebe3759eb98f352c107b49dad965aa693eedc7ca6028082fa01d855548a84",
+      "bytes": 12009
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-05.txt",
+      "sha256": "e69d6479ebc6242ad08845584727efdc3f83d72630430e8f98b0793ea621ffa5",
+      "bytes": 11902
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-06.txt",
+      "sha256": "b8e72a9fbd5a96c7612fb2bd8d3a93799cf10e255c81a739f215bfdcda90f2fa",
+      "bytes": 11987
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-07.txt",
+      "sha256": "0777a8fee1ad5fc4db56744e248cf42b5a6c008c196e22d2707b3f7b6cce7ac6",
+      "bytes": 11874
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/MONTH_2026-08.txt",
+      "sha256": "32fa11cbe3590dd54afefab8ecd0ad7482ce61ddca974a8fed8a7e3cddb29d2b",
+      "bytes": 11991
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/SETTLEMENT_SAMPLE_1.txt",
+      "sha256": "78b594d8702d2c6a6d9e6a085f329ba83d69bfc863a0d93a09048781e76b21a3",
+      "bytes": 191598
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/SETTLEMENT_SAMPLE_2.txt",
+      "sha256": "26f87a3abae6d27f421c3b6ef37f1e3a41356085c193302721da7f1d6567ad7b",
+      "bytes": 191555
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/SETTLEMENT_SAMPLE_3.txt",
+      "sha256": "f264644e9af1b321784d46bad0ca8b947ff6f72ee0e3c32b5b38cf2db13cf2c2",
+      "bytes": 191589
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/SETTLEMENT_SAMPLE_4.txt",
+      "sha256": "b5b3c064487c23ee24b650edcba2d3f749efe9b16d458c736a980a1bed0dfb9f",
+      "bytes": 193099
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/TSO_H1_2026.txt",
+      "sha256": "9e85ca794b2d16e3fc2eae72908ec5805fe9d792fc6be38437d3710242ec4dd4",
+      "bytes": 225520
+    },
+    {
+      "file": "project/romania_full_period_20261001/pdf_text/TSO_Q1_2026.txt",
+      "sha256": "01b35fb0e53767f5f399873dc2e08bd029252955da7fb65e17e4ac89749b75a5",
+      "bytes": 212943
+    },
+    {
+      "file": "project/romania_full_period_20261001/register_and_qa.py",
+      "sha256": "0e18fa5441674e69411a105d6adf6665d8bc381dae1f45fce61cef9096d5004e",
+      "bytes": 9165
+    },
+    {
+      "file": "project/romania_full_period_20261001/render_source_checks.py",
+      "sha256": "6db31f7d8c93c35837f96b15ddbbcdb845b58082158edc1654c5b117a19e9aca",
+      "bytes": 679
+    },
+    {
+      "file": "project/romania_full_period_20261001/reproducibility.md",
+      "sha256": "ff69c44af10fdf3ef9bfa8ecf2deafc44c6364b86ecf96f262dd85f2ea82fa6e",
+      "bytes": 2210
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_da.json",
+      "sha256": "b60c6d9142e6ba831e3b286c208304a4c093da00d936337e2b564db51204af6d",
+      "bytes": 205697
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_da_results.json",
+      "sha256": "33d2e074bd85fe928c2cff4ea3747d2835a8510818a91a6b50f9a29fe75f0860",
+      "bytes": 509393
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_documents.json",
+      "sha256": "e639899c93d8188084ca9418741aaf486fd0ea52ac980f0a0ed77899971a37ff",
+      "bytes": 7452
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_documents_results.json",
+      "sha256": "b17aa58b3d8e5463571f461c54530a054dcee5f1ec29cae5fd1de225a68d7ed4",
+      "bytes": 21073
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_gap_samples.json",
+      "sha256": "05ed07acc1a7b7912e7a65e19e42657dc207d52fa412f02eb8baf443a89a0cb1",
+      "bytes": 2501
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_gap_samples_results.json",
+      "sha256": "bdc0f9b7ed09290eca40ea1447cee368f29173c04e0a7160d0f022971a9b381b",
+      "bytes": 6362
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_last_references.json",
+      "sha256": "7564868f5d0ad00d7a03635e16173540cae6cdb0da83badab74b18b6f942a854",
+      "bytes": 595
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_last_references_results.json",
+      "sha256": "0280966fbaab294ff7975c94bff83425ab0200585d3f1dd8befde6e361d1f923",
+      "bytes": 1884
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_pilot.json",
+      "sha256": "92fdd350094e8edaf7f5e76342f600cdb86367d4cf146b8fba51a2feff208bc2",
+      "bytes": 4111
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_pilot_results.json",
+      "sha256": "dcd3c3651c836225a77fc5affd20f524454a9a3f51ca746750034337abed4ca0",
+      "bytes": 7898
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_references.json",
+      "sha256": "d78087752a3639acb3c112f76b9aa2f106657b3b123f36f1cc2b8b31d69df6a2",
+      "bytes": 2738
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_references_results.json",
+      "sha256": "143234ee89fb4a09b087eb0e2e60337a74bef34e4c584f9af03c7d2826bcbcd4",
+      "bytes": 6972
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_system.json",
+      "sha256": "07ac50e8d57a936b2d5cc7bec37e5f8fdf124e74ccb690ce63f73917594cf6fd",
+      "bytes": 74143
+    },
+    {
+      "file": "project/romania_full_period_20261001/requests_system_results.json",
+      "sha256": "ee71ca18ca32b87a52ef301d63f49a535480977f9fc2aca8ef25031a06963ee3",
+      "bytes": 138041
+    },
+    {
+      "file": "project/romania_full_period_20261001/reused_samples.json",
+      "sha256": "afd5d4a68f724192bcd745fd3f37394dbee8bb2f9d5bbc2eedcb3f940da6d9c3",
+      "bytes": 119791
+    },
+    {
+      "file": "project/romania_full_period_20261001/review_invocation.json",
+      "sha256": "15257044552a70a8779e55733e9de449cf325588dfeb8925c622dc80148f41f0",
+      "bytes": 657
+    },
+    {
+      "file": "project/romania_full_period_20261001/review_preflight_and_directed_check.md",
+      "sha256": "ae66a34b3d597d30219a8adefa652b4653631204cfeb7ff2fb216c009cac0dfd",
+      "bytes": 1580
+    },
+    {
+      "file": "project/romania_full_period_20261001/review_request.md",
+      "sha256": "4c17482d7b648f7195722e4cd849fd7ed51229ddacde913d381c47e5c119bc87",
+      "bytes": 2345
+    },
+    {
+      "file": "project/romania_full_period_20261001/SETTLEMENT_SAMPLE_1_text.txt",
+      "sha256": "c3ae6c2a8b5167140dc0e82fd626bc9bfaba027f896f3052b14ec9c1d91f41d3",
+      "bytes": 191538
+    },
+    {
+      "file": "project/romania_full_period_20261001/SETTLEMENT_SAMPLE_2_text.txt",
+      "sha256": "adac7fcbd1717ca68330085d2606ef958e1336d40a343c52f201ed6bfb66944b",
+      "bytes": 191495
+    },
+    {
+      "file": "project/romania_full_period_20261001/SETTLEMENT_SAMPLE_3_text.txt",
+      "sha256": "5772c4125424845ba5f61a954ae4ec2116c51285718d0c2b4d7a82bb373ba84c",
+      "bytes": 191529
+    },
+    {
+      "file": "project/romania_full_period_20261001/SETTLEMENT_SAMPLE_4_text.txt",
+      "sha256": "f95534ff4dcd0c01acae5a28208414071e6c8a8c41cfb8387720af17a0acd8cf",
+      "bytes": 193039
+    },
+    {
+      "file": "project/romania_full_period_20261001/settlement_version_catalog.json",
+      "sha256": "291712388c33f0cb8b859900ea46bc793740be541e03366db759258b2b07267a",
+      "bytes": 17981
+    },
+    {
+      "file": "project/romania_full_period_20261001/supplement_statistics.py",
+      "sha256": "c83970e1848239672f0de53560a8a55ac5090d051472164696aa366030e80713",
+      "bytes": 11065
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_2026_CATALOG_links.json",
+      "sha256": "1357587435508ce091a19e0687313b9ab6315965800dc1ebf3ea91e375816bc5",
+      "bytes": 6146
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_FINAL_SETTLEMENT_followup_links.json",
+      "sha256": "11f72a6dd9080f532e6639f82f052fdc456b79678e2c6f30416c5184ca959b65",
+      "bytes": 186421
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__0_cells.json",
+      "sha256": "0850beb20741c20334ceea929e57b045bc4a6407b04958a50ec270a90b405ecc",
+      "bytes": 32595
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__10_cells.json",
+      "sha256": "0f77b0450b22298fbcaf0545b62feb5ab9a97120d3582f54ee6137d8ea5e2a85",
+      "bytes": 32493
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__11_cells.json",
+      "sha256": "f52bbdb82f41d137465871ea3c2d7e490811e96d93798ab6b87d4f0625f9bdd7",
+      "bytes": 32396
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__12_cells.json",
+      "sha256": "f1061e2b572db4e2ae02c82b32395f0611cf702c221ab7f4822e091323eae7b8",
+      "bytes": 32568
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__13_cells.json",
+      "sha256": "a7dee6e72d5c274328132351d3d7795e6039a311fc91f5f416d47bebdf89229f",
+      "bytes": 32399
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__14_cells.json",
+      "sha256": "99a7197daf1d869f188310bdf631a54feb0123c6ec519219dcbe84bdc2cb81ee",
+      "bytes": 32498
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__15_cells.json",
+      "sha256": "c6a2ddd647c0669b75be1b79eb0cfcca97ed059f6dac7cdb0fe773c98eb19953",
+      "bytes": 32336
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__16_cells.json",
+      "sha256": "c9c71d39e641ff1cb878e99764ab78bc291255befcc5fb351591e633d586ecdd",
+      "bytes": 32615
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__17_cells.json",
+      "sha256": "35afd7ece94bceb0af0e44eed8467e92555f24a908d46079204289f5a408d55e",
+      "bytes": 32391
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__18_cells.json",
+      "sha256": "d09b00443514795738e6d4430fd757109c946bc51c915073f582da70b3f77c45",
+      "bytes": 32285
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__19_cells.json",
+      "sha256": "0491dff25f6a0db60f223cc8d916486455b7d2586e487dca9ae2ba0464197391",
+      "bytes": 32350
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__1_cells.json",
+      "sha256": "79f879994f8d95173331604580b0b1dc788927a893d82dfbc60c6a620412bc0d",
+      "bytes": 32507
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__20_cells.json",
+      "sha256": "9f2ecb30b9696c5514038e1ec15771f586f84fc11b6bc64f5dc40b4c0356abc1",
+      "bytes": 32432
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__21_cells.json",
+      "sha256": "fc04845c5f83b9c3734244a4f784cedcdfafa8af97309a57b0fe8795bdfe55cc",
+      "bytes": 32630
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__22_cells.json",
+      "sha256": "417f9a54205e5d96c8ab390688d4c7b1821cba556632360430ee2335f037b63c",
+      "bytes": 32428
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__23_cells.json",
+      "sha256": "0e2d3b11073fd5526d3f40483c75791f735dbed04178e7e34f25be817ff0c3da",
+      "bytes": 32645
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__24_cells.json",
+      "sha256": "c8c2b66a644b7394a9da6b29ad39bbd2a0ad3f9ef8b8e619656e2d21ca5dd8d2",
+      "bytes": 32701
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__25_cells.json",
+      "sha256": "c350797241345bbf2784c1d561b39028b6da17647bd736d41c62da35da79d229",
+      "bytes": 32520
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__26_cells.json",
+      "sha256": "ea1b10781fdb3bb33136af89507c5cd2be625e74cf32b41b3ada263b4c6faf6c",
+      "bytes": 32406
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__27_cells.json",
+      "sha256": "0c1150991d4ee1d0a1229d3ffda4f747847df9bb81ff010f18849e551533f6a0",
+      "bytes": 32550
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__28_cells.json",
+      "sha256": "07c89e2805d7d2d937c950b6b0bee1f3c8424dfa7945114d05d9eb020bf82166",
+      "bytes": 32449
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__29_cells.json",
+      "sha256": "0eea06b6f2e9fb954ca48083ad1727c7fc7dc54b3d891c55bb18544ae4f9ac4f",
+      "bytes": 9887
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__2_cells.json",
+      "sha256": "636a21e5ee769b4d5fc119190b4eabf37a83c37c4022f506714917048e5792c0",
+      "bytes": 32488
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__3_cells.json",
+      "sha256": "56b6a3459b23de2a980045fc2524406afabc4e2bcba3e65036c2bfe8061ded9d",
+      "bytes": 32669
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__4_cells.json",
+      "sha256": "3be1b00b56405d79bfa31044f861b47139ea0c29e927e9897bcb1eed2c92eb0d",
+      "bytes": 32473
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__5_cells.json",
+      "sha256": "b4fd345d14b89ad7f7037b3cb77e9e442518da4e36b793c26a77650113136a65",
+      "bytes": 32480
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__6_cells.json",
+      "sha256": "53ec087ac8f42043fdca57872158e893cba6e4c199f32d132f6d9a75af473dda",
+      "bytes": 32471
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__7_cells.json",
+      "sha256": "e35a279f2151a4ac390b30e021aba554e9786fe9967817de139d11f6b8db2645",
+      "bytes": 32497
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__8_cells.json",
+      "sha256": "a71835d7f1344dd7439fe96db0a6a074c696a72afac140378cca87332e03ff34",
+      "bytes": 32580
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_GENERATION_CURRENT__9_cells.json",
+      "sha256": "5ebc242a530f5cb2c8cd1ab68a831b61610694112df15fb72854fdd1581dd685",
+      "bytes": 32557
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_INSTALLED_2026_0__0_cells.json",
+      "sha256": "a56385a51afa0aabc12c0affacc25a21591c659330085b0f03816a715f6ed9ef",
+      "bytes": 6594
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_INSTALLED_2026_0__1_cells.json",
+      "sha256": "c9e1b7bc0e51d3f6382c407418c50ada298d0a4ab6163e7cf5ab0ae75a734927",
+      "bytes": 4445
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_INSTALLED_2026_0__2_cells.json",
+      "sha256": "9cf33667316e09396e3592526a23efe5b7f41115f067188350ff79b73d1d6255",
+      "bytes": 43350
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_INSTALLED_2026_0__3_cells.json",
+      "sha256": "dd54cbc71a519e24d17ba749ebff0f15cfc010ab6f677963371503e050960139",
+      "bytes": 3538
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_followup_links.json",
+      "sha256": "c46d806102e4d4994d0d7174cf5732e389909ca69a5b5fd4fe886e8f17be605c",
+      "bytes": 373
+    },
+    {
+      "file": "project/romania_full_period_20261001/TSO_PRODUCTION_CATALOG_links.json",
+      "sha256": "7dc43af1772fe7ec6ad766cda7a240a6719133fa353b49e3dad5f6ef2878c536",
+      "bytes": 5238
+    },
+    {
+      "file": "project/romania_full_period_20261001/visual_validation.md",
+      "sha256": "c6272866aee5b92e3e4dbe2a3649dec79e1625336375b14124d5438c870a4316",
+      "bytes": 1680
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_24",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/17632826/Actualizare+site+-Tarif+serviciul+de+sistem+-+01.09.2024/6f3a56c3-03a5-4570-aebe-8248e5cfac42",
+  "title": "Tarif serviciu de sistem 01.09.2024",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:11.551093+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/17632826/Actualizare+site+-Tarif+serviciul+de+sistem+-+01.09.2024/6f3a56c3-03a5-4570-aebe-8248e5cfac42",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_24__a1/original.pdf",
+  "sha256": "6665c3113e1a843ab137c4384bcc5f92e95906c2bdebeac24acebd3ddaa69cbb",
+  "bytes": 104147,
+  "detected_format": "pdf"
+}

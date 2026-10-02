@@ -1,0 +1,25 @@
+{
+  "scope": "P2 repair before-images; round1 formal manifest unchanged",
+  "files": [
+    {
+      "file": "countries/RO/full_period_20261001/scada_native_hourly.csv",
+      "preserved_file": "project/romania_full_period_20261001/round1_before_fix/scada_native_hourly.csv",
+      "sha256": "d889dca3a585fedd7fbafac8bd9464b03676f236669429de64f06883b4acc293"
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_price_joint_under_clock_A.csv",
+      "preserved_file": "project/romania_full_period_20261001/round1_before_fix/scada_price_joint_under_clock_A.csv",
+      "sha256": "76495cf3a6edc4898afec9ef75b5674605e70e36a704966c7fa542a4ce500dd6"
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_negative_source_values.csv",
+      "preserved_file": "project/romania_full_period_20261001/round1_before_fix/scada_negative_source_values.csv",
+      "sha256": "6aad0f6fdc1f7ecea9b2f216a288b1c6e2e7b3b8e8bfc9258d58b1881346abd0"
+    },
+    {
+      "file": "countries/RO/full_period_20261001/scada_hourly_profiles.csv",
+      "preserved_file": "project/romania_full_period_20261001/round1_before_fix/scada_hourly_profiles.csv",
+      "sha256": "3bc2e3805ed0b0d80e68546e7c7510401432d1640ab1fd62d3cba2cc0d7d27d7"
+    }
+  ]
+}

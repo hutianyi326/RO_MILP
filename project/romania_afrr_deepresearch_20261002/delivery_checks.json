@@ -1,0 +1,25 @@
+{
+  "raw_attempts": 93,
+  "successes": 60,
+  "failed_attempts": 33,
+  "all_success_hashes_verified": true,
+  "directory_ANS_export_links": 825,
+  "clipping": [
+    {
+      "direction": "up",
+      "matched_numeric_quarters": 58315,
+      "matched_energy_mwh": 324610.431,
+      "hypothetical_removed_mwh": 12094.743,
+      "hypothetical_removed_pct": 3.725925554129837,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_MODEL"
+    },
+    {
+      "direction": "down",
+      "matched_numeric_quarters": 58314,
+      "matched_energy_mwh": 364216.841,
+      "hypothetical_removed_mwh": 10686.389,
+      "hypothetical_removed_pct": 2.934073276419417,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_MODEL"
+    }
+  ]
+}

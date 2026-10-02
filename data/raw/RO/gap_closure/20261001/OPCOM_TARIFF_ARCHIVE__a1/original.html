@@ -1,0 +1,825 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Anunturi - Stiri</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">
+			<img src="https://www.opcom.ro/pcs/en.jpg" />
+		</a>
+		
+		
+		
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniv.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026ro.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniv.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitare.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:760px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/ro" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/20.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/ro">&nbsp;<img src="https://www.opcom.ro/pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/ro/136">Tranzac&#355;ii - Rezultate</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/ro/137">Tranzac&#355;ionare - Produse</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/ro/138">Anun&#355;uri - &#350;tiri</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/ro/139">Compania</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->    
+        
+		<div id="men_left"><div class="menu"><h3>Anun&#355;uri - &#350;tiri</h3>
+			<ul>
+				<li><a href="#url" class="level11">Mesaje opera&#355;ionale&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-pp/ro/1" >OPCOM</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pzu/ro/2" >Pia&#355;a pentru Ziua Urm&#259;toare</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pi/ro/8" >Pia&#355;a Intrazilnic&#259;</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcotc/ro/13"><p>Pia&#355;a Centralizat&#259; cu negociere dubl&#259; continu&#259; a contractelor bilaterale de energie electric&#259</p></a></li>
+						<li><a href="#url" class="subm"><p>Pie&#355;e Centralizate Contracte Bilaterale&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-pccble/ro/15" ><p>Modalitatea de tranzac&#355;ionare PCCB-LE-Flex</p></a>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcbnc/ro/9" ><p>Modalitatea de tranzac&#355;ionare PCCB-NC</p></a></li>
+							    <li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri-pccbpc/ro/16" ><p>Modalitatea de tranzac&#355;ionare PCCB-PC</p></a></li>								
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcsu/ro/20"><p>Pia&#355;a Centralizat&#259; pentru energia electric&#259; din surse regenerabile sus&#355;inut&#259; prin certificate verzi&nbsp;&raquo;</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcsu/ro/17"><p>Pia&#355;a Centralizat&#259; pentru Serviciul Universal</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pctl/ro/30"><p>Pia&#355;a Centralizat&#259; destinat&#259; atribuirii contractelor de energie electric&#259; pentru perioade lungi de livrare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pzugn/ro/18"><p>Pia&#355;a pentru Ziua Urm&#259;toare de gaze naturale</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcgn/ro/12"><p>Pia&#355;a centralizat&#259; de gaze naturale</p></a></li>
+<!--PPFTL				<li><a class="subm" href="https://www.opcom.ro/anunturi_stiri/anunturi_ppftl.php?lang=ro&id_piata=31"><p>Pia&#355;a Produselor Flexibile pe Termen Mediu &#x15F;i Lung de Gaze Naturale</p></a></li>	-->
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><p>Pia&#355;a Certificatelor Verzi</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-ptce/ro/6"><p>Platforma de Tranzac&#355;ionare Certificate de Emisii</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10"><p>Facturare - pie&#355;e administrate</p></a></li>
+						<li><a href="#url" class="level2n" >Decontare&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/65">Pia&#355;a pentru Ziua Urm&#259;toare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/15">Pia&#355;a de Echilibrare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/18">Dezechilibre de la notificare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/20">Dezechilibre PRE</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/24">Redistribuire Venituri/Costuri</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/288">Consultare public&#259;</a>
+							</ul>
+						</li> 
+
+					</ul>
+				</li>
+				
+				<li><a class="nivel_intermediar" href="https://www.opcom.ro/anunturi-stiri/ro/55">Programe retrageri din exploatare</a></li>
+				<li><a href="#url" class="nivel_intermediar">Comunicate &#x15F;i informa&#355;ii de pres&#259;&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/1" >OPCOM</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/2" >Guvern, Minister</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/3" >Comisia European&#259;</a>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar">Grupuri de produs&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/125">Derivative &#x15F;i Forward</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/175"><p>Platforma pentru tranzac&#355;ii tip OTC</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/169">Pia&#355;a Certificatelor Verzi</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/124"><p>Platforma de Tranzac&#355;ionare Certificate de Emisii</p></a>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/173"><p>Pia&#355;a Centralizat&#259; de Gaze Naturale</p></a>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar">Func&#355;ionare experimental&#259;, teste&nbsp;&raquo;</a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Pia&#355;a Intra-zilnic&#259;<br/>(PI)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/121">Funcționare experimentală – local</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/171">Funcționare experimentală – SIDC</a>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Pia&#355;a Centralizat&#259; a Contractelor Bilaterale de Energie Electric&#259; - Modalitatea de Tranzac&#355;ionare<br/>(PCCB-NC)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/119">Program</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/120">Ghid de Utilizare</a>
+							</ul>
+						</li>
+						<li><a href="#url" class="level2n"><p>Pia&#355;a Centralizat&#259; a gazelor naturale<br/>(PCGN)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/176">Program</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/177">Ghid de Utilizare</a>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n">Comunitatea energetic&#259;&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/147">Rapoarte Consiliu Consultativ</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/32">Evenimente</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-presa/0/ro">Presa intern&#259; &#x15F;i interna&#355;ional&#259;</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/35">Documente de referin&#355;&#259;</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/36">Legisla&#355;ie european&#259;</a></li>
+					</ul>
+				</li>
+			</ul>
+
+</div>
+ 
+</div><!--meniu stanga-->
+<div id="contp">
+<ul><li><p><strong>23.09.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza tarif pentru cont suplimentar CT M7 aplicabil din 01.10.2026_RO.pdf" target="_blank">Sinteza/Procedura</a> privind tariful practicat de „OPCOM” SA pentru alocarea de cont suplimentar de acces la sistemului M7 Trading (ComTrader) pentru Piața Intrazilnică de energie electrică începând cu data de 01.10.2026. Facturarea și termenele de plată ale tarifului aferent unui cont suplimentar PI.</p></li></br><li><p><strong>16.07.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza API_PI_romana_01.08-31.12.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului M7 Trading pentru Piața Intrazilnică de energie electrică API (tarif API-PI) în perioada 01.08.2026-31.12.2026. Facturarea și termenele de plată a tarifului API-PI.</p></li></br><li><p><strong>29.06.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza API _PZU_romana_16.07.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului PZU ALSTOM pentru Piața pentru Ziua Următoare de Energie Electrică API de tip webservices (tarif API-PZU) în perioada 01.08.2026-31.12.2026. Facturarea și termenele de plată a tarifului API-PZU</p></li></br><li><p><strong>26.06.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza API _lb romana_26.06.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) pentru Iulie 2026. Facturarea și termenele de plată a tarifelor API.</p>
+</li></br><li><p><strong>29.05.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza API _lb romana28.05.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) pentru Iunie 2026. Facturarea și termenele de plată a tarifelor API.</p>
+</li></br><li><p><strong>31.03.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Sinteza API _31.03.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul  desemnat al pieței de energie electrică si de gaze naturale &bdquo;OPCOM&rdquo; SA pentru  serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de  programe – API ( Application Programming Interface) în anul 2026, perioada  01.04.2026 – 31.05.2026. Facturarea și termenele de plată a tarifelor API.</p>
+</li></br><li><p><strong>27.02.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/Lb.rom._Procedura OPEED_27.02.2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor practicate de OPEED.
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Procedura fact.REMIT.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate participantilor in 2026. Facturarea si termenele de plata.
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Lb.rom._Procedura OPEED_.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor practicate de OPEED.
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Lb.romana_Procedura PCB.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețele organizate de energie electrică la termen administrate de OPCOM S.A. in 2026. Facturare si termene de plata.
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Lb.romana_Procedura PCV.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețele de certificate verzi administrate de OPCOM S.A. in 2026. Facturarea si termenele de plata a tarifelor practicate de OPCOM SA.
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Lb.romana_Procedura PGN.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM S.A. pentru serviciile prestate participantilor la pietele centralizate de gaze naturale in 2026. Facturarea si termene de plata
+ </p>
+</li></br><li><p><strong>19.01.2026</strong><br/>
+<p><a href="/uploads/doc/FPA/1Sinteza API _30.12.2025.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) în anul 2026, trimestrul I. Facturarea și termenele de plată a tarifelor API.
+ </p>
+</li></br><li> <p><strong>30.12.2025</strong><br/>
+<p><a href="/uploads/doc/FPA/2026_Sinteza API .pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) în anul 2026, trimestrul I. Facturarea și termenele de plată a tarifelor API.
+ </p>
+</li></br><li> <p><strong>30.12.2025</strong><br/>
+<p><a href="/uploads/doc/FPA/2026_Lb.romana_Procedura CfD.pdf" target="_blank">Sinteza</a> informatiilor privind aplicarea Metodologiei de determinare si colectare a contributiei aferente contractelor pentru diferenta (CfD) in 2026. 
+Valoarea Contributiei CfD, facturarea si termenele de plata.
+ </p>
+</li></br><li> <p><strong>15.12.2025</strong><br/>
+<p><p><strong>Proceduri privind tarifele practicate de OPCOM pentru serviciile prestate participanților la piețe în anul 2026</strong></p>
+<p><a href="/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED_2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor practicate de OPEED.</p>
+<p><a href="/uploads/doc/FPA/R3_Lb.romana_Procedura PCB_2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețele organizate de energie electrică la termen administrate de OPCOM S.A. in 2026. Facturare si termene de plata</p>
+<p><a href="/uploads/doc/FPA/R3_Lb.romana_Procedura PGN_2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM S.A. pentru serviciile prestate participantilor la pietele centralizate de gaze naturale in 2026. Facturarea si termene de plata</p>
+<p><a href="/uploads/doc/FPA/R3_Procedura fact.REMIT_2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate participantilor in 2026. Facturarea si termenele de plata.</p>
+<p><a href="/uploads/doc/FPA/R6_Lb.romana_Procedura PCV_2026.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețele de certificate verzi administrate de OPCOM S.A. in 2026. Facturarea si termenele de plata a tarifelor practicate de OPCOM SA</p></li></br><li><p><strong>28.10.2025</strong><br/>
+  <a href="/uploads/doc/FPA/Sinteza API _an 2025.pdf" target="_blank">Sinteza/Procedura</a> privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) în anul 2025. Facturarea și termenele de plată a tarifelor API.
+Revizia 1 
+ </p>
+</li></br><li><p><strong>30.07.2025</strong><br/>
+  <a href="/uploads/doc/FPA/Sinteza API_clean.pdf" target="_blank">SINTEZA</a> privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului M7 Trading pentru Piața Intrazilnică de energie electrică API (tarif API) în perioada august - octombrie 2025. Facturarea și termenele de plată a tarifului API.
+ </p>
+</li></br><li><p><strong>31.03.2025</strong><br/>
+  <a href="/uploads/doc/FPA/R1_Lb.romana_Procedura CfD.pdf" target="_blank">SINTEZA</a> informatiilor privind aplicarea Metodologiei de determinare si colectare a contributiei aferente contractelor pentru diferenta (CfD) in anul 2025.  <br>
+Valoarea Contributiei CfD, facturarea si termenele de plata.  <br>
+Revizia nr. 2
+ </p>
+</li></br><li><p><strong>Proceduri privind tarifele practicate de OPCOM pentru serviciile prestate participanților la piețe în anul 2025</strong></p>
+<p><a href="/uploads/doc/FPA/R3_Lb.romana_Procedura PCB.pdf" target="_blank">Sinteza</a> privind tarifele practicate de OPCOM pentru  serviciile prestate participanților la piețele organizate de energie electrică  la termen administrate de OPCOM S.A. în anul 2025. Facturare și termene de  plată<br>
+Revizia nr. 3 </p>
+<p><a href="/uploads/doc/FPA/R6_Lb.romana_Procedura PCV.pdf" target="_blank">Sinteza</a>&nbsp;privind tarifele practicate de OPCOM pentru serviciile  prestate participanților la piețele de certificate verzi administrate de OPCOM  S.A. în anul 2025. Facturarea și termenele de plată a tarifelor practicate de  OPCOM SA<br>
+Revizia nr. 6</p>
+<p><a href="/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED.pdf" target="_blank">Sinteza</a> privind tarifele practicate de Operatorul  desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate  participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru  Ziua Următoare și Piaţa Intrazilnică - Tranzacţionare continuă (IDCT) și Tranzacţionare prin licitaţii (IDA)) în anul 2025. Facturarea și termenele de  plată a tarifelor practicate de OPEED.
+<br>
+Revizia nr. 3</p>
+<p><a href="/uploads/doc/FPA/R3_Lb.romana_Procedura PGN.pdf" target="_blank">Sinteza</a> privind tarifele practicate de OPCOM S.A. pentru serviciile  prestate participanților la piețele centralizate de gaze  naturale în anul 2025. Facturarea și termene de plată<br>
+Revizia nr.3 </p>
+<p><a href="/uploads/doc/FPA/R3_Procedura fact.REMIT.pdf" target="_blank">Sinteza</a> privind tarifele practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate participanților  în anul 2025. Facturarea și termenele de plată.<br/>
+Revizia nr.3 </p></li></br><li><p><strong>01.10.2024</strong><br/>
+  <a href="/uploads/doc/FPA/Lb.romana_Procedura CfD_01.10.2024.pdf" target="_blank">SINTEZA</a> informatiilor privind aplicarea Metodologiei de determinare si colectare a  contributiei aferente contractelor pentru diferenta (CfD) in anul 2024,  incepand cu 01.10.2024. <br>
+  Valoarea  Contributiei CfD, facturarea si termenele de plata. </p>
+</li></br><li><p><strong>Proceduri privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețe valabilitate cu 01.07.2024</strong></p>
+<p><a href="/uploads/doc/FPA/01.07.2024_Lb.romana_Procedura PCB_R2.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM pentru serviciile  prestate participantilor la piețele organizate de energie electrică la termen  administrate de OPCOM S.A. in anul 2024. Facturare si termene de plata<br/>Revizia nr. 2</p>
+<p><a href="/uploads/doc/FPA/01.07.2024_Lb.romana_Procedura MACEE_R2.pdf" target="_blank">Procedura</a> privind tarifele practicate pentru activitățile  desfășurate de OPCOM S.A. în calitate de achizitor unic în Mecanismul de  achiziție centralizată de energie electrică (MACEE) in anul 2024. Facturarea si  termene de plata. <br/>Revizia nr. 2</p>
+<p><a href="/uploads/doc/FPA/01.07.2024_Lb.rom._Procedura OPEED_R2.pdf" target="_blank">Procedura</a> privind tarifele practicate de Operatorul  desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate  participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru  Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și  Tranzactionare prin licitatii (IDA)) în anul 2024. Facturarea și termenele de  plată a tarifelor practicate de OPEED.<br>Revizia 2.</p>
+<p><a href="/uploads/doc/FPA/01.07.2024_Lb.romana_Procedura PGN_R2.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM S.A.  pentru serviciile prestate participantilor la pietele centralizate de gaze  naturale in anul 2024. Facturarea si termene de plata<br/>Revizia nr.2</p>
+<p><a href="/uploads/doc/FPA/01.07.2024_Procedura fact.REMIT_R2.pdf" target="_blank">Procedura</a> privind tarifele  practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate  participantilor in anul 2024. Facturarea si termenele de plata<br/>Revizia nr.2</p>
+<p> <a href="/uploads/doc/FPA/01.07.2024_Lb.romana_Procedura PCV_R5.pdf" target="_blank">Procedura</a> privind tarifele practicate de  OPCOM pentru serviciile prestate participantilor la piețele de certificate  verzi administrate de OPCOM S.A. in anul 2024. Facturarea si termenele de plata  a tarifelor practicate de OPCOM SA<br/>Revizia nr. 5</p>
+<p>&nbsp;</p>
+</li></br><li><p><a href="/uploads/doc/FPA/Procedura privind tarifele practicate de OPEED_12.06.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate de Operatorul desemnat al pietei de energie electrica (OPEED) pentru serviciile prestate participantilor la Pietele pe Termen Scurt de Energie Electrica (Piata pentru Ziua Urmatoare si Piata Intrazilnica - Tranzactionare Continua (IDCT) si Trancationare prin licitatii (IDA) in anul 2024.<br/>
+Facturarea  si termenele de plata a tarifelor practicate de OPEED.</br>
+Revizia 1.</p></li></br><li><p><strong>Proceduri privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețe</strong></p>
+<p><a href="/uploads/doc/FPA/Lb.romana_Procedura PCB_v1_01.01.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM pentru  serviciile prestate participantilor la piețele organizate de energie electrică  la termen administrate de OPCOM S.A. in anul 2024. Facturare si termene de  plata<br>
+  Revizia nr. 1 </p>
+<p><a href="/uploads/doc/FPA/Lb.romana_Procedura PCV_v4_01.01.2024.pdf" target="_blank">Procedura</a>&nbsp;privind tarifele practicate de OPCOM pentru serviciile  prestate participantilor la piețele de certificate verzi administrate de OPCOM  S.A. in anul 2024. Facturarea si termenele de plata a tarifelor practicate de  OPCOM SA<br>
+Revizia nr. 4</p>
+<p><a href="/uploads/doc/FPA/Lb.romana_Procedura MACEE_v1_01.01.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate pentru activitățile  desfășurate de OPCOM S.A. în calitate de achizitor unic în Mecanismul  de achiziție centralizată de energie electrică (MACEE) in anul 2024. Facturarea si termene de plata. <br>
+Revizia nr. 1 </p>
+<p><a href="/uploads/doc/FPA/Lb.rom._Procedura OPEED_01.01.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate de Operatorul  desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate  participanților la Pieţele pe Termen Scurt de Energie Electrică (Piața pentru  Ziua Următoare și Piaţa Intrazilnică) în anul 2024. Facturarea și termenele de  plată a tarifelor practicate de OPEED. </p>
+<p><a href="/uploads/doc/FPA/Lb.romana_Procedura PGN_v1_01.01.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM S.A. pentru serviciile  prestate participantilor la pietele centralizate de gaze  naturale in anul 2024. Facturarea si  termene de plata<br>
+Revizia nr.1 </p>
+<p><a href="/uploads/doc/FPA/Procedura fact.REMIT_v1_01.01.2024.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate participantilor  in anul 2024. Facturarea si termenele de plata<br/>
+Revizia nr.1 </p></li></br><li><p><a href="/uploads/doc/FPA/Procedura tarife si facturare activitati  OPEED__01.07.2023_R2.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPEED pentru serviciile prestate participantilor la piata cuplata pentru ziua urmatoare de energie electrica (PZU) si piata cuplata intrazilnica de energie electrica (PI). Facturarea si termenele de plata a tarifelor practicate de OPEED.<br/>Baza legala: OANRE nr.97/2022<br/>Revizia 2 din data de 01.07.2023</p>
+<p><a href="/uploads/doc/FPA/Ordinul ANRE nr.76 din 28.06.2023.pdf" target="_blank">Ordinul</a> ANRE nr.76/28.06.2023</p>
+
+
+<!--
+<p><a href="/uploads/doc/FPA/Lb.rom._Procedura tarife si facturare activitati  OPEED__28.04.2023_R1 cu anexa.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPEED pentru serviciile prestate participantilor la  piata cuplata pentru ziua urmatoare de energie electrica (PZU) si piata cuplata  intrazilnica de energie electrica (PI) pentru anul 2023. Facturarea si  termenele de plata a tarifelor practicate de OPEED.<br/>Baza legala: OANRE nr.97/2022<br/>Revizia 1 din data de  28.04.2023</p>
+
+<p><a href="/uploads/doc/FPA/Lb.rom._Procedura tarife si facturare activitati  OPEED__21.12.2022.pdf" target="_blank">PROCEDURA</a> privind tarifele practicate de Operatorul desemnat al pietei de energie  electrica (OPEED) pentru serviciile prestate participantilor la piata cuplata  pentru ziua urmatoare de energie electrica (PZU) si piata cuplata  intrazilnica de energie electrica (PI). Facturarea si termenele de plata a  tarifelor practicate de OPEED.<br/>
+  Baza  legala: Ordinul ANRE nr.97/2022</p>
+<p><a href="/uploads/doc/FPA/Ordin 139 din 21.12.2022.pdf" target="_blank">Ordinul</a> ANRE nr.139/21.12.2022</p>
+--></li></br><li><p><a href="/uploads/doc/FPA/Lb.romana_Procedura PCB_28.04.2023_pentru 2023.pdf" target="_blank">Procedura</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor la piețele organizate de energie electrică la termen administrate de OPCOM S.A. pentru anul 2023. Facturarea si termene de plata.
+<br/>Revizia 1 din  28.04.2023</p>
+
+<!--<p><a href="/uploads/doc/FPA/Lb.romana_Procedura PCB_21.12.2022_pentru 2023.pdf" target="_blank">PROCEDURA</a> privind tarifele practicate de OPCOM pentru serviciile prestate participantilor  la pietele  organizate de energie electrica la termen administrate de OPCOM S.A. in anul  2023.<br/>
+Facturarea si termenele de plata.</p>--></li></br><li><p><a href="/uploads/doc/FPA/Lb.romana_Procedura PCV_01.01.2023_v2.pdf" target="_blank">PROCEDURA</a> privind tarifele  practicate de OPCOM pentru serviciile prestate participantilor la pietele de  certificate verzi administrate de OPCOM S.A. in anul 2023<br/>Facturarea si termenele de plata a tarifelor practicate de OPCOM S.A.</p>
+</li></br><li><p><a href="/uploads/doc/FPA/Procedura fact.REMIT_23.12.2022.pdf" target="_blank">Procedura</a> privind tarifele  practicate de OPCOM SA pentru serviciile de raportare conform REMIT prestate  participantilor. <br/>
+  Facturare si termen  de plata.</p></li></br><li><p><a href="/uploads/doc/FPA/Lb.romana_Procedura MACEE_23.12.2022_LL.pdf" target="_blank">Procedura</a> privind tarifele practicate pentru activitățile desfășurate de  OPCOM S.A. în calitate de achizitor unic în Mecanismul de achiziție  centralizată de energie electrică (MACEE). <br/>
+  Facturarea  si termene de plata.</p>
+</li></br><li><p><a href="/uploads/doc/FPA/Lb.romana_SINTEZA  Procedura fact.- en el_gaz_REMIT-REVIZIA din 01.02.2022 cu nota PMC.pdf" target="new">SINTEZA</a> procedurilor privind facturarea si  plata tarifului reglementat practicat de Operatorul pietei de energie electrica  si de gaze naturale &bdquo;OPCOM&rdquo; SA pentru serviciile prestate participantilor la  pietele centralizate de energie electrica si de certificate verzi, la pietele  de gaze naturale si pentru serviciile de raportare catre ACER.</p>
+<p>  Revizia din <strong>01.02.2022</strong> </p></li></br><li><p><a href="/uploads/doc/FPA/Lb.romana_SINTEZA  Procedura fact.- en el_gaz_REMIT-REVIZIA din dec.2021.pdf" target="new">SINTEZA:</a> procedurilor privind facturarea si plata tarifului reglementat practicat de Operatorul pietei de energie electrica si de gaze naturale „OPCOM” SA pentru serviciile prestate participantilor la pietele centralizate de energie electrica si de certificate verzi, la pietele de gaze naturale si pentru serviciile de raportare catre ACER.<br/> 
+Revizia din 16.12.2021 </p>
+<p><a href="/uploads/doc/FPA/Ordin 130 2021 din e-monitor.pdf" target="new">Ordinul ANRE nr.130/15.12.2021</a> pentru aprobarea venitului reglementat aferent activitatii reglementate desfasurate de catre operatorul pietei de energie electrica.</p>
+</li></br><li><p><a href="/uploads/doc/FPA/SINTEZA  Procedura fact.- en el_gaz_REMIT-REVIZIA din dec.2020.pdf" target="new">SINTEZA:</a> procedurilor privind facturarea si plata tarifului reglementat practicat de Operatorul pietei de energie electrica si de gaze naturale „OPCOM” SA pentru serviciile prestate participantilor la pietele centralizate de energie electrica si de certificate verzi, la pietele de gaze naturale si pentru serviciile de raportare catre ACER.<br/> Revizia din 17.12.2020 </p>
+<p><a href="/uploads/doc/FPA/Ordinul ANRE nr.234 din 16.12.2020.pdf" target="new">Ordinul ANRE nr.234 din 16.12.2020</a></p>
+</li></br><li><p><a href="/uploads/doc/FPA/SINTEZA  Procedura fact.- en el_gaz_REMIT-REVIZIA din 01.10.2020.pdf" target="new">SINTEZA:</a> procedurilor privind  facturarea si plata tarifului reglementat practicat de Operatorul pietei de  energie electrica si de gaze naturale &bdquo;OPCOM&rdquo; SA pentru serviciile prestate  participantilor la pietele centralizate de energie electrica si de certificate  verzi, la pietele de gaze &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naturale si pentru  serviciile de raportare catre ACER.<br/> Revizia din 01.10.2020 </p>
+</li></br><li><p><a href="/uploads/doc/FPA/FINAL lb romana_SINTEZA  Procedura fact.- en el_gaz_REMIT-REVIZIA din 28.08.2020.pdf" target="new">SINTEZA</a> procedurilor  privind facturarea si plata tarifului reglementat practicat de Operatorul  pietei de energie electrica si de gaze naturale „OPCOM” SA pentru serviciile prestate  participantilor la pietele centralizate de energie electrica si de certificate  verzi, la pietele de gaze naturale si pentru serviciile de raportare catre  ACER.<br/>Revizia din 28.08.2020</p></li></br><li><p><strong>17.12.2019</strong>:<br />
+  &#8226; <em><a href="/uploads/doc/FPA/4Informare valoare tarife OPCOM 2020 site.pdf" target="new"><strong>INFORMARE</strong></a>  privind TARIFUL REGLEMENTAT pentru activitatea reglementata desfasurata de operator in pietele centralizate de energie electrica si de certificate verzi in anul 2020, stabilit in conformitate cu prevederile <a href="/uploads/doc/FPA/Ordin 231 din 16 12 2019.pdf" target="new">Ordinului</a> ANRE nr.231/16.12.2019.</em><br/>
+  &#8226; 
+  <em><a href="/uploads/doc/FPA/5SINTEZA rev.5 Procedura fact.- en el_lb romana16.12.2020.pdf" target="new"><strong>SINTEZA</strong></a>  Procedurii privind facturarea si plata tarifului reglementat practicat de operatorul pietei de energie electrica pentru serviciile prestate participantilor la pietele centralizate de energie electrica si de certificate verzi, Revizia din 16.12.2019. </em></p>
+</li></br><li><p><strong>10.12.2019</strong>:<br />
+ &ldquo;<em><a href="/uploads/doc/FPA/0000Rev.5 PROC facturare 25.11.2019 final.pdf" target="new">Procedura</a> privind facturarea si plata tarifului reglementat practicat de operatorul pietei de energie electrica pentru serviciile prestate participantilor la pietele centralizate de energie electrica si de certificate verzi”, in proces de avizare de catre Autoritatea Nationala de Reglementare in Domeniul Energiei&rdquo;</em></p>
+</li></br><li><p><strong>03.12.2019</strong>:<br />
+ &ldquo;<em><a href="/uploads/doc/FPA/Procedura mod de calcul tarif 03.12.2019 final.pdf" target="new">Procedura</a> privind modul de calcul al componentelor tarifului reglemenat practicat de operatorul pietei de energie electrica&rdquo;</em>
+</li></br><li><p><strong>26.11.2019</strong><br>
+ <strong>Informare</strong>: Opcom supune consultarii publice urmatorul document:<br />
+ &ldquo;<em><a href="/uploads/doc/FPA/0000Rev.5 PROC. facturare 25.11.2019 final.pdf" target="new">Procedura</a> privind facturarea si plata tarifului reglementat practicat de operatorul pietei de energie electrica pentru serviciile prestate participantilor la pietele centralizate de energie electrica si de certificate verzi;&rdquo;</em>
+<p>Așteptăm observațiile și/sau propunerile dumneavoastră la adresa de e-mail laura.toma@opcom.ro și nicoleta.cojan@opcom.ro pâna la data de <strong>02.12.2019</strong>.</p>
+</li></br><li><p><strong>25.11.2019</strong><br>
+ <strong>Informare</strong>: Opcom supune consultarii publice urmatorul document in conformitate cu Ordinul ANRE nr.192/23.09.2019:<br />
+ &ldquo;<em><a href="/uploads/doc/FPA/Procedura mod de calcul tarif 25.11.2019 final.pdf" target="new">Procedura</a> privind modul de calcul al componentelor tarifului reglemenat practicat de operatorul pietei de energie electrica;&rdquo;</em>
+<p>Așteptăm observațiile și/sau propunerile dumneavoastră la adresa de e-mail silvia.fediuc@opcom.ro și laura.toma@opcom.ro pâna la data de <strong>02.12.2019</strong>.</p>
+</li></br><li><p><strong>30.09.2019</strong><br/>
+  <a href="/uploads/doc/FPA/Ordinul ANRE nr.192 din 23.09.2019.pdf" target="new">Ordinul</a> ANRE Nr.192/23.09.2019-pentru  aprobarea Metodologiei de stabilire a venitului reglementat aferent activitatii  reglementate desfasurate de catre operatorul pietei de energie electrica.</li></br><li><p><strong>27.08.2019</strong><br/><a href="/uploads/doc/FPA/SINTEZA procedura- en el si gaz- REVIZIA din 27.08.2019 - facturare OPCOM-fara REMIT_lb romana.pdf" target="new">SINTEZA</a>: tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari
+<ul>
+  <li>Piete centralizate reglementate de energie electrica si de certificate verzi,</li>
+  <li>Piete centralizate de gaze naturale.</li>
+</ul>
+Revizia din 27.08.2019</p>
+</li></br><li><p><strong>04.07.2019</strong><br/><a href="/uploads/doc/FPA/SINTEZA procedura-en el si gaz- REVIZIA din 03.07.2019 - facturare OPCOM-fara REMIT_lb romana.pdf" target="new">SINTEZA</a>: tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari
+<ul>
+  <li>Piete centralizate reglementate de energie electrica si de certificate verzi,</li>
+  <li>Piete centralizate de gaze naturale.</li>
+</ul>
+Revizia din 03.07.2019</p></li></br><li><p><strong>27.06.2019</strong><br/><a href="/uploads/doc/FPA/Ordinul ANRE nr.153 din data de 24.06.2019.pdf" target="new">Ordinul ANRE</a> nr.153/24.06.2019 privind modificarea anexei la Ordinul presedintelui ANRE nr.202/2018 pentru aprobarea tarifului reglementat practicat de OPCOM SA.</p></li></br><li><p><strong>07.05.2019</strong><br/><a href="/uploads/doc/FPA/SINTEZA procedura- en el si gaz- REVIZIA din 07.05.2019 - facturare OPCOM-fara REMIT_lb romana.pdf" target="new">SINTEZA</a>: tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari
+<ul>
+  <li>Piete centralizate reglementate de energie electrica si de certificate verzi,</li>
+  <li>Piete centralizate de gaze naturale.</li>
+</ul>
+Revizia din 07.05.2019</p></li></br><li><p><strong>20.12.2018</strong><br/><a href="/uploads/doc/FPA/OANRE nr.202 din 14.12.2018.pdf" target="new">Ordin ANRE</a> nr.202 din data de 14.12.2018</p></li></br><li><p><strong>20.12.2018</strong><br/><a href="/uploads/doc/FPA/FINAL- SINTEZA procedura- en el si gaz- REVIZIA din 20.12.2018- facturare OPCOM-fara REMIT_lb romana.pdf" target="new">SINTEZA</a>: tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari.
+<ul>
+  <li>Piete centralizate reglementate de energie electrica si de certificate verzi,</li>
+  <li>Piete centralizate de gaze naturale </li>
+</ul>
+Revizia din 20.12.2018</p></li></br><li><p><strong>01.10.2018</strong><br/><a href="/uploads/doc/FPA/SINTEZA-REMAnexa Nota CA Sinteza Tarife REMIT_OCTOMBRIE 2018_lb romana.pdf" target="new">SINTEZA</a>: Servicii de raportare catre ACER - tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari.</p><p>
+Revizia din 01.10.2018</p></li></br><li><p><strong>27.08.2018</strong><br/><a href="/uploads/doc/FPA/FINAL- Procedura SINTEZA- REVIZIA din 27.08.2018- facturare OPCOM-fara REMIT.pdf" target="new">SINTEZA</a>: tipuri de tarife si valoare tarife practicate de OPCOM SA, mod de facturare, termene de plata, alte precizari.
+<ul>
+  <li>Piete centralizate reglementate de energie electrica si de certificate verzi,</li>
+  <li>Piete centralizate de gaze naturale </li>
+</ul>
+Revizia din 27.08.2018</p></li></br><li><p><strong>02.07.2018<br/>IMPORTANT</strong>: ANRE a avizat <em><a href="/uploads/doc/Decontare/PROCEDURA tarif PZU PI si AVIZ ANRE.pdf" target="new">Procedura</a> privind modalitatea și termenele de plată ale tarifului reglementat practicat de Operatorul Pieței de Energie Electrică – revizia 3; </em>prevederile procedurii  se vor aplica pentru tranzacțiile realizate pe PZU și PI, începând cu data de 01.08.2018 – zi de livrare<em>&rdquo;.</em></p></li></br><li><p><strong>09.03.2018<br />IMPORTANT</strong>: Stimați participanți, vă supunem atenției în vederea transmiterii de observații/propuneri, &bdquo;Procedura privind modalitatea si termenele de plată ale tarifului reglementat practicat de Operatorul Pieței de Energie Electrică&rdquo;, actualizată. Modificările propuse au fost efectuate luând în considerare următoarele aspecte:</p>
+<ul type="disc">
+ <li>Modificarea modului de plată al tarifului reglementat-componenta de tranzacționare pe piețele centralizate de energie electrică în care OPCOM S.A. este contraparte, respectiv valorile facturilor aferente se vor încasa lunar de către OPCOM S.A. prin ordine de plată emise de participanții la PZU și PI, similar modului de încasare al facturilor pentru tariful reglementat-componenta de tranzacționare pe piețele centralizate de energie electrică în care OPCOM S.A. nu este contraparte, în vederea: </li>
+</ul>
+<ul>
+ <li>uniformizării modului de tarifare pentru toate componentele de tranzacționare a tarifului reglementat practicat de OPCOM S.A.</li>
+ <li>utilizării în ofertare pentru cumpărare pe PZU și PI a întregii valori a garanției constituite de participanții la PZU și PI (fără grevarea garanției de validare de valoarea tarifului aplicată ofertelor de cumpărare)</li>
+</ul>
+<p>În acest sens regăsiți propunerea de revizuire pentru:</p>
+<ul type="disc">
+ <li><a href="/uploads/doc/Decontare/Consultare/1 Procedura tarifare avizata ANRE 10.12.2014 modif.LL_DTTC 2017.pdf" target="new">Procedura</a> privind modalitatea și termenele de plată a tarifului reglementat practicat de Operatorul Pieței de Energie Electrică;</li>
+</ul>
+Vă rugăm să transmiteți propuneri/observații la documentul supus consultării, la adresa <strong>decontare@opcom.ro</strong> pâna la data de <strong>22.03.2018</strong>.</li></br><li><b>22.12.2017</b><br/>
+<ul>
+  <li><a href="/uploads/doc/FPA/Procedura SINTEZA REVIZIA 9 facturare OPCOM_22.12.2017.pdf" target="new">SINTEZA procedurii</a> privind modalitatea si termenele de plata ale componentelor tarifului reglementat practicat de OPCOM SA in pieţele centralizate de energie electrică şi de certificate verzi - REVIZIA 9</li>
+  <li><a href="/uploads/doc/FPA/Ordinul ANRE nr.125 din 20.12.2017.pdf" target="new">Ordinul ANRE</a> nr.125/20.12.2017 pentru aprobarea tarifului reglementat practicat de operatorul pieţei de energie electrică</li>
+</ul></li></br><li><b>06.10.2017</b><br>
+<p><a href="/uploads/doc/PCGN/Tarife 2017 (06.10).pdf" target="new"><b>Tarife</b></a> percepute de către OPCOM SA în calitate de Operator al Pieței centralizate de gaze naturale</p></li></br><li><b>30.08.2017</b><br/>
+<ul>
+  <li><a href="/uploads/doc/FPA/revizia 8 lb romana.pdf" target="new">SINTEZA procedurii</a> privind modalitatea si termenele de plata ale componentelor tarifului reglementat practicat de OPCOM SA in pietele centralizate de energie electrica si de certificate verzi - REVIZIA 8</li>
+  <li><a href="/uploads/doc/FPA/OANRE 77 din data de 18.08.2017.pdf" target="new">Ordinul ANRE</a> nr.77/18.08.2017 pentru aprobarea Regulamentului de organizare si functionare a pietei de certificate  verzi</li>
+</ul></li></br><li><b>22.03.2017</b><br>
+<p><b>Tarife</b> percepute de către OPCOM SA în calitate de Operator al Pieței centralizate de gaze naturale</p></li></br><li><b>16.12.2016</b><br/>
+<ul>
+  <li><a href="/uploads/doc/FPA/Procedura SINTEZA facturare OPCOM_15.12.2016.pdf" target="new">SINTEZA procedurii</a> privind modalitatea si termenele de plata ale componentelor tarifului reglementat practicat de OPCOM SA in pietele centralizate de energie electrica si de certificate verzi<strong> </strong>- <strong>REVIZIA 7</strong></li>
+  <li><a href="/uploads/doc/FPA/Ordinul ANRE nr.87 din 22.11.2016.pdf" target="new">Ordinul ANRE</a> nr.87/22.11.2016 pentru modificarea si  completarea Metodologiei de stabilire a tarifului reglementat practicat de operatorul pietei de energie electrica aprobata prin Ordinul Presedintelui ANRE nr.67/2013</li>
+  <li><a href="/uploads/doc/FPA/Ordinul ANRE nr.106 din 14.12.2016.pdf" target="new">Ordinul ANRE</a> nr.106/14.12.2016 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie electrica</li>
+</ul></li></br><li><b>18.11.2016</b><br>
+<p><a href="/uploads/doc/PCGN/Tarife 2016_3.pdf" target="new"><b></b></a>Tarife percepute de catre OPCOM SA în calitate de Operator al Pie?ei centralizate de gaze naturale</p></li></br><li><b>20.09.2016</b><br/>
+<p><b>ANUNT</b><br/>
+Referitor la anuntul publicat pe site-ul OPCOM in data de 31.08.2016 prin care adresam participantilor la piata solicitarea de a nominaliza pana la data de 07 septembrie 2016 persoanele care vor face parte din grupul de lucru constituit in vederea revizuirii Metodologiei de stabilire a tarifului reglementat practicat de operatorul pietei de energie electrica, aprobata prin Ordinul ANRE nr.67/2013, cu modificarile si completarile ulterioare, va informam ca pana la data stabilita nu a fost înregistrata nicio propunere.</p>
+<p> </p>
+<b>31.08.2016</b><br/>
+<p><b>ANUNT</b><br/>
+In vederea punerii in aplicare a discutiilor din cadrul Consiliului Consultativ al Pietei Angro de Energie Electrica cu privire la revizuirea Metodologiei de stabilire a tarifului reglementat practicat de operatorul pietei de energie electrica, aprobata prin Ordinul ANRE nr.67/2013, cu modificarile si completarile ulterioare, adresam solicitarea participantilor la piata sa nominalizeze pana la data de 07 septembrie 2016 persoanele care vor face parte din grupul de lucru constituit in acest scop. Scopul grupului de lucru este agrearea de catre participantii la piata a propunerii de revizuire a Metodologiei de stabilire a tarifului reglementat practicat de operatorul pietei de energie electrica, aprobata prin Ordinul ANRE nr. 67/2013, elaborata de OPCOM. </p>
+<p> </p>
+<b>03.08.2016</b><br/>
+<ul>
+  <li><a href="/uploads/doc/FPA/Ordinul ANRE nr.37 din 27.07.2016.pdf" target="new">Ordinul ANRE</a> nr.37/27.07.2016 privind modificarea anexei la Ordinul presedintelui Autoritatii Nationale de Reglementare in Domeniul Energiei nr. 167/2015 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie electrica</li>
+  <li><a href="/uploads/doc/FPA/Procedura SINTEZA facturare OPCOM_02.08.2016 final.pdf" target="new">SINTEZA procedurii</a> privind modalitatea si termenele de plata ale componentelor tarifului reglementat practicat de OPCOM SA in pietele centralizate de energie electrica si de certificate verzi - REVIZIA 6</li>
+</ul></li></br><li><b>13.05.2016</b><br/><a href="/uploads/doc/FPA/Procedura SINTEZA facturare OPCOM_13.05.2016 final.pdf" target="new">SINTEZA procedurii</a> privind modalitatea si termenele de plata ale componentelor tarifului reglementat practicat de OPCOM SA in pietele centralizate de energie electrica si de certificate verzi - REVIZIA 5</li></br><li><b>18.04.2016</b><br>
+<ul>
+  <li>Va rugam ca de la data de 18.04.2016 orice modificare a datelor de contact, respectiv a adreselor de e-mail la care urmeaza sa fie transmise facturile privind componentele tarifului reglementat, sa fie efectuata prin adresa oficiala, semnata de reprezentantul legal al societatii, transmisa pe fax la OPCOM SA (0213071400) sau prin posta.
+</li>
+</ul></li></br><li><b>21.12.2015</b><br>
+<ul>
+  <li><a href="/uploads/doc/FPA/ORDIN 167 14.12.2015.pdf" target="new">Ordinul</a> ANRE Nr.167/14.12.2015 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie electrica;</li>
+  <li>Sinteza <a href="/uploads/doc/FPA/Procedura SINTEZA facturare OPCOM_21 12 2015 FINAL.pdf" target="new">Procedurii</a> privind modalitatea si termenele de plata ale tarifului reglementat practicat de operatorul pietei de energie electrica – REVIZIA 4.</li>
+</ul></li></br><li><p><strong>04.12.2015</strong></p>
+<p><a href="/uploads/doc/REMIT/1 Procedura tarifare REMIT 02 12 2015 final.pdf">PROCEDURA</a> privind modalitatea si termenele de  plata a tarifelor practicate de Operatorul Pietei de Energie Electrica si de Gaze  Naturale &bdquo;OPCOM&rdquo; SA pentru seviciile de raportare catre ACER</p></li></br><li><b>31.07.2015</b><br>
+
+<p><a href="/uploads/doc/PCGN/Tarife PCGN 01.08.2015_ro.pdf" target="new"><b></b></a>Tarife percepute de catre OPCOM SA în calitate de Operator al Pie?ei centralizate de gaze naturale începând cu data de 01.08.2015</p></li></br><li><b>01.07.2015</b><br>
+<ul>
+  <li><a href="/uploads/doc/pg1/Ordin ANRE nr.94_2015.pdf" target="new">Ordinul</a> ANRE nr.94/25.06.2015 privind modificarea anexei la Ordinul presedintelui ANRE nr.140/2014 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie electrica;</li>
+  <li>Sinteza <a href="/uploads/doc/pg1/Sinteza procedurii Rev.3.pdf" target="new">Procedurii</a> privind modalitatea si termenele de plata ale tarifului reglementat practicat de operatorul pietei de energie electrica – REVIZIA 3.</li>
+</ul></li></br><li><b>12.12.2014</b><br><b>Documente facturare Tarif Reglementat</b><ul>
+  <li><a href="/uploads/doc/FPA/Ordinul ANRE nr.117din 19.11.2014.pdf" target="new">Ordinul</a> ANRE nr. 117/19.11.2014 pentru  modificarea si completarea Metodologiei de stabilire a tarifului reglementat  practicat de operatorul pietei de energie electrica, aprobata prin Ordinul  presedintelui Autoritatii Nationale de Reglementare in Domeniul Energiei nr.  67/2013;</li>
+  <li> <a href="/uploads/doc/FPA/Ordinul ANRE nr.140din 03.12.2014.pdf" target="new">Ordinul</a> ANRE nr.140/03.12.2014 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie  electrica;</li>
+  <li> <a href="/uploads/doc/FPA/Aviz_Procedura modalitatea si termenele de plata tarif regl.Rev.2.pdf" target="new">Avizul</a> ANRE nr. 56/10.12.2014 pentru Procedura privind modalitatea si termenele de  plata ale tarifului reglementat practicat de operatorul pietei de energie  electrica – REVIZIA 2;</li>
+  <li> <a href="/uploads/doc/FPA/Procedura modalitatea si termenele de plata tarif Rev. 2.pdf" target="new">Procedura</a> privind modalitatea si termenele de plata ale tarifului reglementat  practicat de operatorul pietei de energie electrica – REVIZIA 2;</li>
+  <li> <a href="/uploads/doc/FPA/SINTEZA procedura facturare tarif 12.12.2014.pdf" target="new">Sinteza</a>  Procedurii privind modalitatea si termenele de plata ale tarifului reglementat  practicat de operatorul pietei de energie electrica – REVIZIA 2.</li>
+</ul></li></br><li><b>13.08.2014</b><br><b>În atenția participanților la piață</b><p>Va rugam sa  consultati <a href="/uploads/doc/pg1/Sinteza-procedura-tarife_6_RO.pdf" target="new">tabelul</a> “Componentele tarifului aplicat in pietele centralizate de  energie electrica si certificate verzi” care reprezinta un foarte scurt rezumat  al urmatoarelor  documente:</p>
+<ul>
+  <li><a href="http://www.anre.ro/download.php?f=g6x%2F&t=sduuuurdn8CZosDfsMPV">Ordinul</a> ANRE nr.67/2013 privind aprobarea Metodologiei de stabilire a tarifului reglementat practicat de operatorul pietei de energie electrica;</li>
+  <li>Ordinul ANRE cu nr.88/11.12.2013 pentru aprobarea tarifului reglementat practicat de operatorul pietei de energie electrica, cu modificarile ulterioare;</li>
+  <li><a href="/uploads/doc/pg1/Procedura-tarifului-reglementat.pdf" target="new">Procedura</a> privind modalitatea si termenele de plata a tarifului reglementat practicat de operatorul pietei de energie electrica - Revizia 1, avizata de ANRE cu Avizul nr. 43/06.08.2014.</li>
+</ul></li></br><li><b>17.12.2013</b><p><u>Avand  in vedere prevederile</u>:<br>
+  ◊  <a href="http://www.anre.ro/download.php?id=5889">Ordinului ANRE nr. 67/2013</a> privind aprobarea Metodologiei de stabilire a tarifului reglementat practicat  de operatorul pietei de energie electrica;<br>
+  <strong>◊ <a href="http://anre.ro/download.php?id=6146">Ordinului ANRE cu nr. 88/11.12.2013</a> pentru aprobarea tarifului reglementat practicat de  operatorul pietei de energie electrica;</strong><br>
+  ◊  Procedurii privind modalitatea si termenele de plata a tarifului reglementat  practicat de operatorul pietei de energie electrica, avizata de ANRE cu Avizul  nr. 52/11.12.2013, art.7.3;</p>
+<p><strong>Va rugam sa transmiteti de  urgenta</strong> persoana/persoanele de contact si adresele corespunzatoare de e-mail in vederea  aplicarii procedurii mentionate, respectiv pentru transmiterea facturilor  (pentru plata tarifului de administrare si a tarifului de tranzactionare) in  format electronic.<br>
+  Datele se vor transmite in urmatorul format (de preferat, trebuie sa fie comunicate  min. doua persoane):</p>
+<table class="border_table">
+  <tr>
+    <td width="234">Nume, prenume persoana de contact desemnata sa primeasca facturile </td>
+    <td width="130">Numar telefon mobil/fix</td>
+    <td width="196">Adresa de e-mail</td>
+  </tr>
+</table>
+<p>Informatiile solicitate vor fi transmise fie la numarul de fax 021 30 71 400, fie la adresa  de e-mail <a href="mailto:facturare@opcom.ro">facturare@opcom.ro</a> si la adresa de e-mail <a href="mailto:secretariat@opcom.ro">secretariat@opcom.ro</a>.</p>
+<p>Pentru completarea bazei de date dar mai ales pentru corectarea unor eventuale plati  eronate, va rugam sa transmiteti si denumirea <u>bancii si contul bancar curent  al societatii (codul IBAN)</u>.<br>
+  Cu  multumiri,</p>
+<p>OPCOM  SA – Directia economica</p></li></br><li><b>13.12.2013</b><p>În conformitate cu prevederile <a href="/uploads/doc/pg1/Procedura_Tarife_si_Aviz.pdf" title="documentul pdf" target="new">Procedurii</a> privind modalitatea si termenele de plata ale  tarifului reglementat practicat de operatorul pietei de energie electrica,  art.7.3, rugam participantii la pietele centralizate de energie  electrica sa comunice persoana/persoanele de contact si adresele de e-mail la  care vor fi transmise facturile emise in format electronic, la adresa de e-mail <a href="mailto:facturare@opcom.ro">facturare@opcom.ro</a> si adresa de e-mail <a href="mailto:secretariat@opcom.ro">secretariat@opcom.ro</a>.<br/>
+  <!--
+<p>În data de 24.10.2013 a fost publicat pe website documentul de discuție «Procedura privind modalitatea și termenele de plată a tarifului reglementat pentru fiecare dintre piețele centralizate de energie electrică și certificate verzi administrate de „OPCOM” S.A.», ce poate fi descărcat <a href="/uploads/doc/pg1/Procedura V2 23 10 2013 final.pdf" title="documentul pdf" target="new">aici</a><br/>
+Rugăm participanții la piețele centralizate de energie electrică și de certificate verzi să transmită observații și propuneri până la data de 30.10.2013.</p>
+-->
+</p></li></br></ul>	
+	</div>
+    <div id="dreapta">  <!--stiri opcom, comunicate, anunturi piete-->
+		
+		<div id="stiri_piete">
+    	  <div class="titlustiri"><span class="tit2"> Anun&#x163;uri</span>
+		  </div>
+ 
+		<!-- &emsp;&emsp;&emsp;<a href="/pp/img/bradfelicitare.jpg" target="new"><img src="/pp/img/lma_site_anunt.png" /></a> --> 
+		<div class="scrollbar">
+		
+		<table width="94%" height="100%" id="an_piete" cellspacing="0" cellpadding="0" >
+      <tr align="left" ></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/10/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1">În conformitate cu prevederile Ordinului ANRE nr. 15/2022, OPCOM publică prețul mediu ponderat înregistrat pe Piața pentru Ziua Următoare pentru luna septembrie 2026, în valoare de 917,36 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">23/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru alocarea de cont suplimentar de acces la sistemului M7 Trading (ComTrader) pentru Piața Intrazilnică de energie electrică începând cu data de 01.10.2026. Facturarea și termenele de plată ale tarifului aferent unui cont suplimentar PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1">În conformitate cu prevederile Ordinului ANRE nr. 15/2022, OPCOM publică prețul mediu ponderat înregistrat pe piața pentru ziua următoare pentru luna august 2026, în valoare de 793,19 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">12/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">05/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><p><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></p></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">31/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1"><b>IMPORTANT!</b> A fost publicata <em>Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru PZU și PI actualizată cu introducerea posibilității constituirii garanției sub forma unui depozit în numerar</em></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">16/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului M7 Trading pentru Piața Intrazilnică de energie electrică API (tarif API-PI) în perioada 01.08.2026-31.12.2026. Facturarea și termenele de plată a tarifului API-PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">10/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pzu/ro/2">OPCOM supune consultării publice <em>Procedura operațională privind funcționarea Pieței pentru Ziua Următoare de energie electrică</em>, modificată în contextul implementarii mecanismului de Alocare a volumelor la prețul SDAC</a></div></td></tr></table><script>
+// var table = jQuery("#stiri_piete .scrollbar table tr a:nth-child(2)");
+
+// jQuery(table).each(function(index, z){
+// 	//console.log(index + " / "+ jQuery(z).attr("href") );
+// // 	console.log(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php") );
+// 	if(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php")){
+// 		console.log(jQuery(z).attr("href"));
+		
+		
+// 	}
+	
+// 	//tranzactii-rezultate/
+// // 	return false;
+// });
+
+
+</script></div></div> <!--stiri_piete-->
+        
+        <div id="com">
+			
+		<div class="titlustiri">
+            <span class="tit2"> Comunicate de presă</span>
+          </div>
+<div class="scrollbar" style="height: 125px;"><table width="94%" border="0" cellspacing="0" cellpadding="2" align="left"><tr><td class="stire1"><div class="capstire1">28/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1476/1">Record de tranzacționare pe Piața pentru Ziua Următoare - 62.552 MWh tranzacționați pentru ziua de livrare 28 septembrie 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">07/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1475/1">Participanti noi in luna august</a></div></td></tr><tr><td class="stire1"><div class="capstire1">21/08/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1473/1">Record de tranzacționare pe Piața pentru Ziua Următoare (PZU), operată de OPEM</a></div></td></tr></table></div>		<div id="stiri_der">
+        <div class="titlustiri"><span class="tit2">&#x15E;tiri</span></div>         
+<div class="scrollbar" style="height: 120px;"><table width="250px" border="0" cellspacing="0" cellpadding="2" align="left">
+		<!--<tr><td class="stire1"><div class="capstire1">06.09.2010</div></td></tr>
+		 <tr><td class="stire1"><div class="stire1"><a href="/uploads/doc/Comunicate/6_sept_RO-BG_energie_060910.pdf">Lucrarile Grupei de lucru romano-bulgare in domeniul energetic - cuplarea pietelor de energie electrica</a></div></td></tr>-->			<tr><td class="stire1"><div class="capstire1">01/04/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1153/ro">Studiu Europex: Factorii fundamentali ai prețurilor angro la energia electrică în Europa</a></div></td></tr>			<tr><td class="stire1"><div class="capstire1">13/03/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1150/ro">Documentul de poziție al Europex privind “Prețul marginal funcționează – cea mai eficientă bază pentru piețele de energie electrică”</a></div></td></tr></table></div></div><!--stiri_der-->
+         
+
+<div id="rapp">
+<div class="titlustiri"><span class="tit2">Rapoarte</span></div>		 
+
+
+<table width="250" border="0" cellpadding="0" cellspacing="0" id="rap" >
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/opcomrap.png" ></td>
+    <td>
+    Raport de pia&#355;&#259; <br/><u><a href="https://www.opcom.ro/uploads/doc/rapoarte/saptaminal/RSS_2026_39_RO.pdf" target=new>S&#259;pt&#259;m&#226;nal</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_RO.pdf" target=new>Lunar</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/Anual/RS_2025_RO.pdf" target=new>Anual</a></u></td>
+  </tr>  
+  <tr width="195" height="5"></tr>
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/eu.png" ></td>
+    <td width="195" height="10"><a href="http://ec.europa.eu/energy/en/statistics/market-analysis">
+     Rapoarte de analiz&#259; a pie&#355;ei</a></td>
+  </tr>
+  <tr height="5"></tr>
+  <tr>
+    <td rowspan="2" width="60" height="50" align="left"><a href="https://www.acer.europa.eu/"><img style="vertical-align:baseline" src="https://www.opcom.ro/pcs/acer2.png" /></a></td>
+    <td height="30"><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Electricity-Key-Developments.pdf">
+     Evolu&#355;ii cheie pe pie&#355;ele de energie electric&#259; &#537;i gaze naturale din UE, 16 martie 2026</a></td>
+  </tr>
+  <tr>
+    <td height="30"><a href="https://www.acer.europa.eu/remit-documents">
+     Documente REMIT - ACER</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="25" align="left"><a href="https://www.opcom.ro/uploads/doc/REMIT/Promovare servicii raportare REMIT_27.07.2015.pdf" target=new><img src="https://www.opcom.ro/pcs/thing7.png" /></a></td>
+    <td height="10">
+    
+     <a href="https://www.opcom.ro/tranzactii-produse/ro/225"> Documente REMIT - OPCOM</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="20" align="left"><a href="https://www.opcom.ro/tranzactii-produse/ro/250" target="new"><img src="https://www.opcom.ro/pcs/logo_pcr.png"></a></td>
+    <td height="10">
+    <a href="https://www.opcom.ro/tranzactii-produse/ro/250"> 	Cuplarea prin Preț a Regiunilor</a></td>
+  </tr>
+  <tr height="5"></tr>
+</table>	
+</div> 
+
+</div>   
+    </div><!--dreapta-->
+
+
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/ro">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/ro/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/ro/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>Noi participanti: JWM ENERGIA sp. z.o.o. (PZU, PI), CHIMCOMPLEX S.A. BORZESTI (PCCB-LE-Flex, PCCB-NC), NEXTE ASSET MANAGEMENT S.R.L. (PCCB-LE-Flex, PCE-ESRE-CV, PC-OTC), SPRING ADVERTISING S.R.L. (PCV), EDPR SOLAR ENERGY S.R.L.  (PCE-ESRE-CV, PCV) si EDPR WIND ENERGY S.R.L. (PCE-ESRE-CV, PCV) s-au alaturat OPCOM in luna septembrie.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/ro">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/ro/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="xbIbMqXZ9MRudewbz5NBJ1XAT4Aal8iE4Hdfy7au" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': 'xbIbMqXZ9MRudewbz5NBJ1XAT4Aal8iE4Hdfy7au'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+   
+

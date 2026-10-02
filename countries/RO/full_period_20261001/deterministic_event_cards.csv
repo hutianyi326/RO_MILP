@@ -1,0 +1,6 @@
+﻿kind,anchor_utc,anchor_value,unit,source_id,selection,end_utc
+DA minimum,2025-05-01T12:00:00Z,-100.63,EUR/MWh,DA_2025-05-01,global first-occurring extreme,
+DA maximum,2026-06-30T16:45:00Z,1015.65,EUR/MWh,DA_2026-06-30,global first-occurring extreme,
+gross load maximum,2026-01-21T07:15:00Z,9297.336,MW,dailyConsumptionOverview_2026-01,global first-occurring maximum,
+longest negative-price run,2026-06-14T05:30:00Z,9.0,hours,DA_2026-06-14,global first-occurring longest continuous run; gaps/zero cut runs,2026-06-14T14:30:00Z
+longest positive system aFRR run,2026-07-24T13:45:00Z,50.75,hours,activatedBalancingEnergyOverview_2026-07,global first-occurring longest continuous run; gaps/zero cut runs,2026-07-26T16:30:00Z

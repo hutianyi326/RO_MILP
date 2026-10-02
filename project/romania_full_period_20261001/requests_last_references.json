@@ -1,0 +1,4 @@
+[
+ {"id":"TSO_SCADA_UNIT_REFERENCE","dataset":"D09","publisher":"Transelectrica","title":"SENGrafic native table field units","url":"https://www.transelectrica.ro/en/widget/web/tel/sen-grafic/-/SENGrafic_WAR_SENGraficportlet","scope":"unit cross-reference only; instantaneous widget not hourly archive substitute"},
+ {"id":"OPCOM_IDA_CURRENT_PROBE","dataset":"D03","publisher":"OPCOM","title":"IDA public result template recheck","url":"https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en","scope":"controlled GET template probe; not historical date request or proof of no transactions"}
+]

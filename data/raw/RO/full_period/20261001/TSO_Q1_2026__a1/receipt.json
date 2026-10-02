@@ -1,0 +1,21 @@
+{
+  "id": "TSO_Q1_2026",
+  "dataset": "D10",
+  "publisher": "Transelectrica",
+  "title": "Quarterly report January-March 2026",
+  "url": "https://www.transelectrica.ro/documents/10179/22616687/Raport_ASF_T1_2026_RO.pdf/4174a663-c542-4b89-90d1-646b6bb5114a",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:31.200153+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/22616687/Raport_ASF_T1_2026_RO.pdf/4174a663-c542-4b89-90d1-646b6bb5114a",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_Q1_2026__a1/original.pdf",
+  "sha256": "f4245adc7a517fe7105310e4c85d4e7f1e1cafcdaad10d96b4dd36ae6a25d2db",
+  "bytes": 1799250,
+  "detected_format": "pdf"
+}

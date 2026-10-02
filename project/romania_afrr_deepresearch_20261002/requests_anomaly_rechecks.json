@@ -1,0 +1,168 @@
+[
+  {
+    "id": "ACT_RECHECK_2025-01-31",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-01-30T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-01-31 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-02-02",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-02-01T22%3A00%3A00Z&timeInterval.to=2025-02-02T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-02-02 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-03-28",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-03-27T22%3A00%3A00Z&timeInterval.to=2025-03-28T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-03-28 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-03-31",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-03-30T21%3A00%3A00Z&timeInterval.to=2025-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-03-31 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-04-03",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-04-02T21%3A00%3A00Z&timeInterval.to=2025-04-03T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-04-03 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-04-17",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-04-16T21%3A00%3A00Z&timeInterval.to=2025-04-17T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-04-17 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-04-28",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-04-27T21%3A00%3A00Z&timeInterval.to=2025-04-28T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-04-28 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-04-29",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-04-28T21%3A00%3A00Z&timeInterval.to=2025-04-29T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-04-29 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-05-08",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-05-07T21%3A00%3A00Z&timeInterval.to=2025-05-08T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-05-08 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-06-12",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-06-11T21%3A00%3A00Z&timeInterval.to=2025-06-12T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-06-12 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-06-14",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-06-13T21%3A00%3A00Z&timeInterval.to=2025-06-14T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-06-14 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-06-17",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-06-16T21%3A00%3A00Z&timeInterval.to=2025-06-17T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-06-17 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-06-24",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-06-23T21%3A00%3A00Z&timeInterval.to=2025-06-24T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-06-24 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-07-13",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-07-12T21%3A00%3A00Z&timeInterval.to=2025-07-13T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-07-13 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-08-15",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-08-14T21%3A00%3A00Z&timeInterval.to=2025-08-15T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-08-15 Europe/Bucharest"
+  },
+  {
+    "id": "PRICE_DAILY_CROSSCHECK_2025-08-15",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-08-14T21%3A00%3A00Z&timeInterval.to=2025-08-15T21%3A00%3A00Z&pageInfo.pageSize=3000"
+  },
+  {
+    "id": "ACT_RECHECK_2025-10-06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-10-05T21%3A00%3A00Z&timeInterval.to=2025-10-06T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-06 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-10-26",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-10-25T21%3A00%3A00Z&timeInterval.to=2025-10-26T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-26 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2025-12-06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-12-05T22%3A00%3A00Z&timeInterval.to=2025-12-06T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-12-06 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-01-14",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-01-13T22%3A00%3A00Z&timeInterval.to=2026-01-14T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-01-14 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-02-15",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-02-14T22%3A00%3A00Z&timeInterval.to=2026-02-15T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-02-15 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-02-17",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-02-16T22%3A00%3A00Z&timeInterval.to=2026-02-17T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-02-17 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-04-06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-04-05T21%3A00%3A00Z&timeInterval.to=2026-04-06T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-04-06 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-05-11",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-05-10T21%3A00%3A00Z&timeInterval.to=2026-05-11T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-05-11 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-05-23",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-05-22T21%3A00%3A00Z&timeInterval.to=2026-05-23T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-05-23 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-07-07",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-07-06T21%3A00%3A00Z&timeInterval.to=2026-07-07T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-07-07 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-07-23",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-07-22T21%3A00%3A00Z&timeInterval.to=2026-07-23T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-07-23 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-08-14",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-08-13T21%3A00%3A00Z&timeInterval.to=2026-08-14T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-14 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-08-22",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-08-21T21%3A00%3A00Z&timeInterval.to=2026-08-22T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-22 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-08-27",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-08-26T21%3A00%3A00Z&timeInterval.to=2026-08-27T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-27 Europe/Bucharest"
+  },
+  {
+    "id": "ACT_RECHECK_2026-08-29",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-08-28T21%3A00%3A00Z&timeInterval.to=2026-08-29T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-29 Europe/Bucharest"
+  },
+  {
+    "id": "TENDER_DETAIL_469_2025",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=469_2025"
+  },
+  {
+    "id": "TENDER_DETAIL_90_2026",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=90_2026"
+  },
+  {
+    "id": "TENDER_DETAIL_310_2025",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=310_2025"
+  }
+]

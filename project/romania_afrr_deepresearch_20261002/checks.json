@@ -1,0 +1,912 @@
+[
+  {
+    "check": "marginalPricesOverview_2025-08_NET sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "marginalPricesOverview_2025-08_NET pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "marginalPricesOverview_2025-08_NET error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "marginalPricesOverview_2025-08_NET no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "marginalPricesOverview_2025-08_NET duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "activatedBalancingEnergyOverview_2025-08_NET sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "activatedBalancingEnergyOverview_2025-08_NET pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "activatedBalancingEnergyOverview_2025-08_NET error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "activatedBalancingEnergyOverview_2025-08_NET no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "activatedBalancingEnergyOverview_2025-08_NET duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "prices complete August UTC grid",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "energy complete August UTC grid",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "August energy unchanged aFRR_Up",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "August energy unchanged aFRR_Down",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "PRICE_DAILY_CROSSCHECK_2025-08-15 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "PRICE_DAILY_CROSSCHECK_2025-08-15 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "PRICE_DAILY_CROSSCHECK_2025-08-15 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "PRICE_DAILY_CROSSCHECK_2025-08-15 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "PRICE_DAILY_CROSSCHECK_2025-08-15 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "monthly versus daily price aFRR_Up",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "monthly versus daily price aFRR_Down",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-01-31 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-01-31 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-01-31 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-01-31 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-01-31 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-02-02 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-02-02 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-02-02 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-02-02 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-02-02 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-28 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-28 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-28 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-28 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-28 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-31 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-31 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-31 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-31 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-03-31 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-03 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-03 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-03 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-03 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-03 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-17 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-17 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-17 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-17 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-17 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-28 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-28 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-28 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-28 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-28 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-29 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-29 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-29 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-29 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-04-29 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-05-08 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-05-08 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-05-08 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-05-08 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-05-08 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-12 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-12 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-12 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-12 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-12 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-14 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-14 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-14 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-14 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-14 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-17 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-17 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-17 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-17 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-17 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-24 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-24 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-24 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-24 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-06-24 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-07-13 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-07-13 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-07-13 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-07-13 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-07-13 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-08-15 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-08-15 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-08-15 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-08-15 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-08-15 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-06 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-06 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-06 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-06 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-06 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-26 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-26 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-26 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-26 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-10-26 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-12-06 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-12-06 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-12-06 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-12-06 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2025-12-06 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-01-14 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-01-14 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-01-14 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-01-14 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-01-14 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-15 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-15 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-15 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-15 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-15 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-17 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-17 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-17 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-17 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-02-17 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-04-06 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-04-06 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-04-06 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-04-06 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-04-06 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-11 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-11 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-11 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-11 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-11 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-23 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-23 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-23 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-23 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-05-23 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-07 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-07 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-07 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-07 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-07 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-23 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-23 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-23 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-23 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-07-23 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-14 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-14 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-14 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-14 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-14 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-22 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-22 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-22 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-22 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-22 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-27 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-27 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-27 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-27 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-27 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-29 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-29 pagination",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-29 error map empty",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-29 no duplicate UTC",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "ACT_RECHECK_2026-08-29 duration 15min",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "all 50 missing quarters rechecked",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "all rechecked energy values unchanged aFRR_Up",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "all rechecked energy values unchanged aFRR_Down",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "TENDER_DETAIL_469_2025 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "TENDER_DETAIL_90_2026 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "TENDER_DETAIL_310_2025 sha256",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "CAP_XLSX_01.08.2025 no offered MW column",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "CAP_XLSX_15.02.2026 no offered MW column",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "CAP_XLSX_15.08.2025 no offered MW column",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "CAP_XLSX_26.10.2025 no offered MW column",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "check": "CAP_XLSX_31.08.2025 no offered MW column",
+    "pass": true,
+    "detail": null
+  }
+]

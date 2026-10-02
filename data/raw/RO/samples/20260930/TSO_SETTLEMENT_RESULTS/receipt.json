@@ -1,0 +1,11 @@
+{
+  "id": "TSO_SETTLEMENT_RESULTS",
+  "dataset": "D07",
+  "url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official settlement-results page linked from prior E08 balancing-market original; follow-up to failed DAMAS final price route",
+  "retrieved_utc": "2026-09-30T14:45:28.4711722Z",
+  "status": "FAILED",
+  "error": "The request was canceled due to the configured HttpClient.Timeout of 35 seconds elapsing."
+}

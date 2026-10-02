@@ -1,0 +1,17 @@
+{
+  "id": "DA_SETTLEMENT_PAGE",
+  "dataset": "D13-D14",
+  "url": "https://www.opcom.ro/tranzactii-rezultate/en/10",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official DAM settlement procedures catalogue; identify accounting FX and tariffs sources",
+  "retrieved_utc": "2026-09-30T14:12:59.3213651Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/DA_SETTLEMENT_PAGE/original.html",
+  "bytes": 81099,
+  "sha256": "a5710efa1293f506be47f32a7e10ab04de9816162a328d2d91a0156bc2ec4c39"
+}

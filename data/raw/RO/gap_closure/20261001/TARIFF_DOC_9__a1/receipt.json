@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_9",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Anexa+Macheta+costuri+la+Decizia+610_Trim_+I+2026.pdf/2a8c2be9-3d83-417f-8983-1fb303abd84a",
+  "title": "Anexa la Decizia ANRE nr. 610 din 2022 Trim I 2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:45.956838+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Anexa+Macheta+costuri+la+Decizia+610_Trim_+I+2026.pdf/2a8c2be9-3d83-417f-8983-1fb303abd84a",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_9__a1/original.pdf",
+  "sha256": "88758a043647bd17dedae18f853a157c9d79aade2edcc51a4eb2ba3cf2dc9ffb",
+  "bytes": 139532,
+  "detected_format": "pdf"
+}

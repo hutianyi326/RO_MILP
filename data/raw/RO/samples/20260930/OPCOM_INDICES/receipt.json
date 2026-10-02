@@ -1,0 +1,17 @@
+{
+  "id": "OPCOM_INDICES",
+  "dataset": "D02-D12",
+  "url": "https://www.opcom.ro/uploads/doc/pg1/Definitii_indicatori_RO%20Versiunea%2014.pdf",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official definitions of DAM volume and indices",
+  "retrieved_utc": "2026-09-30T09:38:38.9661994Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/OPCOM_INDICES/original.pdf",
+  "bytes": 705964,
+  "sha256": "1229d60faf2d7cb0e5f5f56cbd9bf8caf00111d701a73ccbb3fd1b25eaa33444"
+}

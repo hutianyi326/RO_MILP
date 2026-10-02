@@ -1,0 +1,13 @@
+{
+  "id": "FRR_RULE_282874",
+  "dataset": "D01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282874",
+  "title": "Regulament 08/12/2021 historical consolidation; history date to verify in body",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:30.549051+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "RemoteDisconnected: Remote end closed connection without response"
+}

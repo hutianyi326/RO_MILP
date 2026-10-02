@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_15",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+pentru+extragerea+energiei+electrice+din+re%C5%A3ele/85eacf15-9416-4fe5-998d-21fd4223bb8c",
+  "title": "pentru energie reactivă începând cu 1 ianuarie 2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:00.633620+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+pentru+extragerea+energiei+electrice+din+re%C5%A3ele/85eacf15-9416-4fe5-998d-21fd4223bb8c",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_15__a1/original.pdf",
+  "sha256": "24f597217e9bf282b73f252deca58214cbc4bf0e9ebf183e92f7639938446b83",
+  "bytes": 185265,
+  "detected_format": "pdf"
+}

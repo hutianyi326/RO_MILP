@@ -1,0 +1,17 @@
+{
+  "id": "CAP_FCR_488_2026",
+  "dataset": "D05",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=488_2026",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "observed official public-page backing GET; FCR delivery 2026-08-31",
+  "retrieved_utc": "2026-09-30T09:30:03.9919327Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/CAP_FCR_488_2026/original.json",
+  "bytes": 12817,
+  "sha256": "f3ca272934cdb15628bcc2672fbb607d417857148046dc326442468c1f69c55c"
+}

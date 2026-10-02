@@ -1,0 +1,17 @@
+{
+  "id": "TENDER_DETAIL_469_2025",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=469_2025",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:15:31.941430+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=469_2025",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TENDER_DETAIL_469_2025__a1/original.json",
+  "sha256": "016632ca39fcbcb16f6281256227427a261106a73fcd5c1adf438c01bedcb430",
+  "bytes": 135874,
+  "detected_format": "json"
+}

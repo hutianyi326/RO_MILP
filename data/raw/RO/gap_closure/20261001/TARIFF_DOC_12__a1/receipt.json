@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_12",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Tarif+sistem/bc07b1a7-9901-4f34-af50-20783de5805b",
+  "title": "Ordinul pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.01.2026) - Ordinul ANRE nr. 73_2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:49.915075+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Tarif+sistem/bc07b1a7-9901-4f34-af50-20783de5805b",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_12__a1/original.pdf",
+  "sha256": "d1be84b6a71125f4c24e688a22cedf1e753d0004fc785550e3bda24fe1311ef3",
+  "bytes": 365257,
+  "detected_format": "pdf"
+}

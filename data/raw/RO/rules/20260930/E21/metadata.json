@@ -1,0 +1,14 @@
+{
+  "id": "E21",
+  "title": "ANRE Order16/2026 licensing amendment",
+  "url": "https://anre.ro/wp-content/uploads/2026/05/Ord-16-2026.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/05/Ord-16-2026.pdf",
+  "retrieved_utc": "2026-09-30T07:53:04.9911277Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E21\\original.pdf",
+  "bytes": 38710,
+  "sha256": "2a5ba7055dd7e946ea790ab553270ca7e11af3743fe7fd02126d0e51732f29ed",
+  "extracted_characters": 16038
+}

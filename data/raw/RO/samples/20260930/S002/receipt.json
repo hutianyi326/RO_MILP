@@ -1,0 +1,17 @@
+{
+  "id": "S002",
+  "dataset": "D03",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "public IDA page and form",
+  "retrieved_utc": "2026-09-30T09:16:25.8539852Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S002/original.html",
+  "bytes": 70029,
+  "sha256": "40837215328e5a84c19ac2de3eed3ff40e70a0c8f31a07bfdc401f1c8166b043"
+}

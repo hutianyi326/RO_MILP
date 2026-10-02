@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ANRE_LICENSE_ARCHIVE_20230110",
+    "dataset": "D01-U01",
+    "url": "https://arhiva.anre.ro/download.php?f=fqmBg6U%3D&t=vdeyut7dlcecrLbbvbY%3D",
+    "title": "ANRE-hosted CTCE consolidated Order12/2015 as at 2023-01-10",
+    "scope": "reference copy explicitly non-official CTCE compilation; not proof of whole 2025 law chain",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-01T13:47:20.198088+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://arhiva.anre.ro/download.php?f=fqmBg6U%3D&t=vdeyut7dlcecrLbbvbY%3D",
+    "content_type": "application/pdf",
+    "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_LICENSE_ARCHIVE_20230110__a1/original.pdf",
+    "sha256": "f835abf8635d4cfc33744b98e7973fb7cbb5a91eecc714eace168f72db073336",
+    "bytes": 1832008,
+    "detected_format": "pdf"
+  }
+]

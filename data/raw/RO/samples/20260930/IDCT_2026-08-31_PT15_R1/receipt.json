@@ -1,0 +1,23 @@
+{
+  "id": "IDCT_2026-08-31_PT15_R1",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "method": "POST",
+  "parameters": {
+    "ziua_eng": "08/31/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "requested_scope": "2026-08-31 PT15 retry",
+  "retrieved_utc": "2026-09-30T09:30:31.7801799Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/IDCT_2026-08-31_PT15_R1/original.html",
+  "bytes": 334911,
+  "sha256": "53cfbb11a55e29ae11bc1c93eb0bcceb45b1bc09b90640037772bc81d938aeca"
+}

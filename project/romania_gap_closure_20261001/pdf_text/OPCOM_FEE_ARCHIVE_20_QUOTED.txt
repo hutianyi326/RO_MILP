@@ -1,0 +1,151 @@
+PDF PAGE 1
+Operatorul Pietei de Energie Electrica si de Gaze Naturale „OPCOM” SA  
+ 
+Sinteza/Procedura privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI 
+utilizand aplicatii de programe – API ( Application Programming Interface) în anul 2025. Facturarea și termenele de plată a tarifelor API. 
+Revizia 1 
+1 
+ 
+ 
+ 
+Denumire 
+Tarife 
+practicate de 
+OPCOM 
+ 
+U/M 
+ 
+Tarifele practicate, reguli de aplicare  
+  
+Valoare tarif 
+ 
+Tip factura 
+ 
+Facturarea tarifului API 
+ 
+Termen de plata 
+ 
+Alte informatii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tariful 
+API 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      EUR/ 
+participant/ 
+luna 
+ 
+ 
+ 
+ 
+ 
+OPCOM S.A. oferă Participantilor acces la interfața de mesaje a 
+sistemului M7 Trading pentru Piața Intrazilnică de energie 
+electrică („API” - Application Programming Interface) pentru a 
+permite acestora să devină utilizatori API, respectiv să acceseze 
+sistemul de tranzacționare al Pieței Intrazilnice utilizând aplicații 
+de programare 
+ 
+ 
+Tariful API este perceput lunar; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 150 euro/luna 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Factura 
+electronica 
+ 
+ 
+OPCOM S.A. va factura 
+lunar,  către Participant 
+tariful aplicabil și va 
+transmite factura 
+electronică (la care se 
+adaugă TVA, după caz) în 
+SPV-ANAF în 5 zile 
+calendaristice de la data 
+emiterii, în conformitate cu 
+legislația în vigoare și cu cel 
+putin cu șapte (7) zile 
+lucrătoare anterior 
+acordării accesului la API.   
+ 
+ 
+ 
+ 
+ 
+ 
+Plata facturii se efectuează 
+de către participanţi în 
+termen de trei (3) zile 
+lucrătoare de la data 
+primirii facturii în SPV-
+ANAF, factura fiind 
+considerată achitată la data 
+înregistrării plății în extrasul 
+bancar al OPCOM SA. 
+Ulterior înregistrării plății se 
+va acorda accesul 
+participantului la API  
+ 
+ 
+ 
+Accesul la API este condiționat de plata 
+tarifelor aplicabile, așa cum sunt acestea 
+publicate pe website-ul OPCOM S.A. 
+OPCOM S.A. are dreptul de a ajusta 
+tarifele în perioada de aplicare, 
+condiționat de publicarea cu cel puțin trei 
+(3) zile lucrătoare în avans a noilor tarife.  
+ 
+OPCOM S.A. aplică modificarea tarifelor 
+practicate începând cu data de întâi a lunii 
+următoare celei în care a avut loc 
+modificarea; 
+ 
+ 
+ 
+Suma achitată de participant pentru luna 
+calendaristică de utilizare nu se 
+rambursează dacă accesul participantului 
+prin API la sistemul de tranzacționare se 
+revocă, indiferent de motiv (retragere sau 
+revocare). 
+ 
+ 
+Baza legala: 
+- Decizia Consiliului de administratie al OPCOM SA nr. 36/21.07.2025. 
+- Decizia Consiliului de administratie al OPCOM SA nr. 59/27.10.2025. 
+ 
+Revizii: 
+1) Tarif an 2025, perioada noiembrie-decembrie 2025. 

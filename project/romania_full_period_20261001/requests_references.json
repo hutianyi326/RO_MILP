@@ -1,0 +1,69 @@
+[
+  {
+    "id": "OPCOM_MONTH_CATALOG",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Reports",
+    "url": "https://www.opcom.ro/tranzactii-rezultate/en/22",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "BNR_XML_CATALOG",
+    "dataset": "D14",
+    "publisher": "BNR",
+    "title": "Dedicated exchange-rate XML server instructions",
+    "url": "https://curs.bnr.ro/",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "TSO_PRODUCTION_CATALOG",
+    "dataset": "D09-D10",
+    "publisher": "Transelectrica",
+    "title": "Production / available and installed capacity",
+    "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "TSO_2026_CATALOG",
+    "dataset": "D10",
+    "publisher": "Transelectrica",
+    "title": "Reports 2026",
+    "url": "https://www.transelectrica.ro/ro/web/tel/rapoarte-2026",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "TSO_FINAL_SETTLEMENT",
+    "dataset": "D07",
+    "publisher": "Transelectrica",
+    "title": "Balancing market settlement results",
+    "url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "TSO_Q1_2026",
+    "dataset": "D10",
+    "publisher": "Transelectrica",
+    "title": "Quarterly report January-March 2026",
+    "url": "https://www.transelectrica.ro/documents/10179/22616687/Raport_ASF_T1_2026_RO.pdf/4174a663-c542-4b89-90d1-646b6bb5114a",
+    "scope": "official reference discovery; not native time-series approval"
+  },
+  {
+    "id": "scheduledExchanges_2024-12-31",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2024-12-30T23%3A00%3A00Z&timeInterval.to=2024-12-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-30T23:00:00Z",
+      "timeInterval.to": "2024-12-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "boundary",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2024-12-30T23:00:00Z",
+    "requested_end_utc": "2024-12-31T23:00:00Z",
+    "scope": "adjacent source day for Bucharest target first hour"
+  }
+]

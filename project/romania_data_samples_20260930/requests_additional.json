@@ -1,0 +1,7 @@
+[
+ {"id":"OPCOM_INDICES","dataset":"D02-D12","url":"https://www.opcom.ro/uploads/doc/pg1/Definitii_indicatori_RO%20Versiunea%2014.pdf","scope":"official definitions of DAM volume and indices"},
+ {"id":"AGG_CURVES_PAGE","dataset":"D18","url":"https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en","scope":"official aggregated curve page and historical form"},
+ {"id":"TSO_REPORTS_2025","dataset":"D09-D10-D17","url":"https://www.transelectrica.ro/ro/web/tel/rapoarte-2025","scope":"official annual reporting source for installed and actual generation statistics"},
+ {"id":"BNR_XML_PAGE_R1","dataset":"D14","url":"https://www.bnr.ro/23988-cursurile-pietei-valutare-in-format-xml","scope":"retry official current XML catalogue; no TLS weakening"},
+ {"id":"ANM_WEATHER","dataset":"D17","url":"https://www.meteoromania.ro/","scope":"official meteorological source discovery; historical weather route"}
+]

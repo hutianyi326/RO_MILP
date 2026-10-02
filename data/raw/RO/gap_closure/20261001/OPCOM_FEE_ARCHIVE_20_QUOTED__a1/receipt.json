@@ -1,0 +1,22 @@
+{
+  "id": "OPCOM_FEE_ARCHIVE_20_QUOTED",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/uploads/doc/FPA/Sinteza API _an 2025.pdf",
+  "title": "Sinteza/Procedura",
+  "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+  "scope": "historical fee body, effective dates and actual applies to verify",
+  "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:05:36.445141+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/uploads/doc/FPA/Sinteza%20API%20_an%202025.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_FEE_ARCHIVE_20_QUOTED__a1/original.pdf",
+  "sha256": "ceebe0e8b0819d3fd2fd940cc8139f29d3456600ebfc413b5f8554294db844f1",
+  "bytes": 178950,
+  "detected_format": "pdf"
+}

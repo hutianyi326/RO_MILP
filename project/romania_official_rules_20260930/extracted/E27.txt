@@ -1,0 +1,1687 @@
+=== PDF PAGE 1 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 1 / 30 
+Rev. 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+ 
+privind încasările și plăţile aferente tranzacţiilor cu energie electrică 
+înregistrate pe  
+Piaţa pentru Ziua Următoare și pe Piața Intrazilnică de energie electrică 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Întocmit:    Societatea Operatorul Pieței de Energie Electrică și de Gaze Naturale 
+OPCOM S.A. 
+ 
+Septembrie 2025 
+ 
+ 
+ 
+
+=== PDF PAGE 2 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 2 / 30 
+Rev. 0 
+ 
+ 
+ 
+LISTA DE CONTROL A REVIZIILOR 
+Documentul revizuit: 
+Nr. crt. Rev. Data Revizia se referă la: 
+1. 0 Septembrie 
+2025 
+Unificarea procedurii privind încasările și plățile aferente 
+tranzacțiilor pe Piața pentru Ziua Următoare  și Piața 
+Intrazilnică de energie electrică  
+    
+    
+    
+     
+ 
+                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 3 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 3 / 30 
+Rev. 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C U P R I N S 
+ 
+ 
+ 
+ 
+                                                                                       Pag. 
+1.  Scop ............................................................................................               4 
+2.  Domeniu de aplicare ....................................................................               4 
+3.  Abrevieri .....................................................................................               4 
+4.  Definiții  ......................................................................................               5 
+5.  Documente de referință ...............................................................               8 
+6.  Mod de lucru ................................................................................               9 
+7.  Contestații ................................................................................... 21 
+8.  Drepturile Participantului la PZU/PI-IDCT/PI-IDA.....................          22 
+9.  Obligatiile Participantului la PZU/PI-IDCT/PI-IDA ...................                         23 
+10.  Drepturile OPCOM S.A. ..............................................................         24 
+11. Obligațiile OPCOM S.A. ..............................................................         25 
+12. Anexa 1: Model Mandat SEPA Direct Debit B2B  …………………. 26 
+13. Anexa 2 : Nota de decontare  zilnică  pe PZU  .............................           27 
+14. Anexa 3 : Nota de decontare  zilnică  pe PI-IDCT .......................  28 
+15. Anexa 4 : Nota de decontare  zilnică  pe PI-IDA  ........................ 29 
+16. Anexa 5 : Centralizator lunar ...................................................... 30 
+17. Anexa 6 : Solicitare de compensare  ........................................... 31 
+  
+
+=== PDF PAGE 4 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 4 / 30 
+Rev. 0 
+ 
+1. SCOP 
+ 
+Prezenta procedură stabilește: 
+1.1. Conținutul notei de decontare zilnice; 
+1.2. Modul de lucru privind efectuarea încasărilor şi plăţilor zilnice aferente  obligaţiilor de plată 
+şi drepturilor de încasare ale Participanţilor la Piaţa pentru Ziua Următoare/Piața Intrazilnică 
+de energie electrică și ale OPCOM S.A., în calitate de OPEED; 
+1.3. Conținutul facturilor pentru tranzactiile inregistrate la prețuri pozitive/negative, precum și  
+pentru prestare de servicii de achiziţie energie electrică la preturi negative; 
+1.4. Modalitățile de efectuare a plăților lunare de regularizare; 
+1.5. Notificarea și rezolvarea contestațiilor. 
+ 
+2. DOMENIU DE APLICARE 
+ 
+Procedura se aplică de către OPCOM S.A. , în calitate de OPEED  şi de către Participanţii la piețele pe 
+termen scurt de energie electrică, pentru efectuarea încasărilor şi plăţilor aferente, precum și în vederea 
+emiterii și transmiterii facturilor în sistemul național privind factura electronică RO e -factura pentru 
+tranzacţiile realizate pe aceste pieţe, în conformitate cu reglementările în vigoare. 
+ 
+3. ABREVIERI 
+ 
+ANRE - Autoritatea Naţională de Reglementare în domeniul Energiei 
+IDD - Instrucțiune de debitare directă 
+MDD  - Mandat SEPA Direct Debit  
+OP  - Ordin de plată  
+OPCOM S.A. 
+ 
+OPEED 
+- Societatea Operatorul Pieţei  de Energie Electrică și de Gaze Naturale 
+OPCOM S.A., având calitatea de OPEED 
+ 
+- Operator al Pieţei de Energie Electrică Desemnat 
+OTS - Operatorul de Transport și de Sistem 
+PZU - Piaţa pentru Ziua Următoare de energie electrică 
+PI - Piața Intrazilnică de energie electrică  
+PI-IDCT - Piața Intrazilnică de energie electrică - Tranzacționarea prin corelare 
+continuă 
+PI-IDA - Piața Intrazilnică de energie electrică - Tranzacționarea prin licitații 
+RUM       -   Registrul Unic al Mandatelor 
+SGB - Scrisoare de Garanție Bancară de Plată 
+  SEPA                     -    Single Euro Payment Area -Zona unică de plăți în Euro 
+ 
+ 
+ 
+
+=== PDF PAGE 5 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 5 / 30 
+Rev. 0 
+ 
+4. DEFINIȚII  
+ 
+Termenii utilizaţi în prezenta procedură au semnificaţiile definite în Legea energiei electrice și gazelor 
+naturale nr. 123/2012 cu modificările și completările ulterioare. 
+Suplimentar, se definesc următorii termeni: 
+ 
+4.1.  Acceptarea unei Instrucţiuni de debitare directă – procedura prin care Banca cont central recunoaşte 
+ca fiind validă o instrucţiune de debitare directă primită de la  OPCOM S.A. şi prin care Banca cont 
+central se obligă să introducă respectiva instrucţiune de debitare directă în casa de compensare 
+automată; 
+ 
+4.2.  Agregator - participant la piață implicat în agregare, așa cum este definită la art. 2 pct. 43 din 
+Regulamentul (UE) 943/2019; 
+ 
+4.3.  Banca cont central - bancă comercială, la care OPCOM S.A. are deschis contul central al PZU/contul 
+central al PI-IDCT/contul central al PI-IDA care urmează a fi creditat cu sumele prevăzute în 
+instrucțiunile de debitare directă, aferente decontării tranzacțiilor pe PZU/PI-IDCT/PI-IDA; 
+ 
+4.4.  Bancă de decontare - banca comercială la care Participantul la PZU /PI-IDCT/PI-IDA şi-a deschis 
+contul care urmează a fi debitat cu sumele prevăzute în instrucțiunile de debitare directă aferente 
+decontării tranzacţiilor pe PZU/PI-IDCT/PI-IDA; 
+ 
+4.5.  Bancă garantă -  bancă comercială care emite , la ordinul clientului său Participant la PZU /PI-
+IDCT/PI-IDA, o scrisoare de garanție bancară de plată în favoarea OPCOM S.A.; 
+ 
+4.6.  Compensare - stingerea obligaţiilor de plată, egale, reciproce, între două persoane juridice, până 
+la concurenţa obligaţiei celei mai mici, prin ordine de compensare; 
+ 
+4.7.   Cont creditat  - contul în care a fost virată suma de încasat; 
+ 
+4.8.   Cont debitat - contul din care a fost virată suma de plată; 
+ 
+4.9.  Convenţie de participare la piețele pe termen scurt de energie electrică sau Convenție  – Contract 
+standardizat stabilit de OPCOM S.A. încheiat între OPCOM S.A. și un participant la PZU și/sau PI, 
+care cuprinde drepturile şi obligaţiile reciproce ale OPCOM S.A. şi ale participantului la PZU și/sau 
+PI; 
+ 
+4.10. Data finalizării – ziua bancară lucrătoare în care suma prevăzută în instrucţiunea de debitare  
+directă este creditată în contul  central al PZU/ contul  central al PI-IDCT/ contul  central al PI-IDA 
+al OPCOM S.A., de către Banca cont central . Data finalizării aferente instrucțiunilor de debitare 
+directă interbancare este aceeași cu data decontării intrabancare; 
+ 
+
+=== PDF PAGE 6 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 6 / 30 
+Rev. 0 
+ 
+4.11. Direct Debit - modalitate de plată a unei sume de bani convenite între Participantul la PZU /PI-
+IDCT/PI-IDA şi OPCOM S.A., care constă în debitarea preautorizată a contului Participantului la 
+PZU/PI-IDCT/PI-IDA de către Banca de decontare  în baza prevederilor Mandatului de debitare 
+directă, la solicitarea  OPCOM S.A. și creditarea corespunzătoare a contului central al PZU/ contului 
+central al PI-IDCT/ contului central al PI-IDA al OPCOM S.A. de către Banca cont central pentru 
+PZU/PI-IDCT/PI-IDA în baza Angajamentului privind debitarea directă, modalitate de plată care nu 
+necesită autorizarea prealabilă de către Participantul la PZU/PI-IDCT/PI-IDA  a fiecărei instrucţiuni 
+de debitare directă trasă asupra contului său; 
+ 
+4.12. Instrucţiune de debitare directă - instrucțiune de plată prin debitare directă formulată de OPCOM 
+S.A. către Banca cont central, pentru creditarea contului central al PZU / contului central al  PI-
+IDCT/ contului central al  PI-IDA de către Banca de decontare la care Participantul la PZU /PI-
+IDCT/PI-IDA are deschis contul care urmează a fi debitat cu suma prevăzută în i nstrucțiunea de 
+debitare directă; 
+ 
+4.13.Instrucţiune de debitare directă int rabancară (IDD int rabancară) – instrucţiune de plată prin 
+debitare directă în cadrul căreia Banca cont central la care OPCOM S.A. are deschis contul central 
+al PZU/ contului central al  PI-IDCT/ contului central al  PI-IDA care urmează a fi creditat este 
+aceeași cu Banca de decontare  la care Participantul la PZU /PI-IDCT/PI-IDA are deschis contul 
+curent care urmează a fi debitat cu suma prevăzută în instrucţiunea de debitare directă; 
+ 
+4.14. Instrucţiune de debitare directă interbancară (IDD interbancară) – instrucţiune de plată prin 
+debitare directă în cadrul căreia Banca cont central la care OPCOM S.A. are deschis contul central 
+al PZU/ contului central al PI-IDCT/ contului central al PI-IDA care urmează a fi creditat este diferită 
+de Banca de decontare la care Participantul la PZU/PI-IDCT/PI-IDA are deschis contul curent care 
+urmează a fi debitat cu suma prevăzută în instrucţiunea de debitare directă; 
+ 
+4.15. Mandat SEPA Direct Debit (MDD)  - document care satisface cerințele legale și prin care un 
+Participant la PZU /PI-IDCT/PI-IDA acordă o autorizare permanentă, dar revocabilă OPCOM S.A. 
+pentru a emite instrucţiuni de debitare directă asupra contului său deschis la Banca de decontare 
+şi respectiv, dreptul Bancii de decontare pentru a-i debita contul cu suma prevăzută în instrucţiunile 
+de debitare directă emise de OPCOM S.A., conform Schemei de debitare directă  Business to 
+Bussines (SDD B2B) – persoane juridice/ Schemei de debitare directă CORE – persoane fizice (SDD 
+CORE). Un MDD poate fi asociat unui singur cont central aferent unuia din cele trei mecanisme de 
+tranzacționare – PZU, PI-IDCT și PI-IDA; 
+ 
+4.16. Notă de decontare zilnică – document emis zilnic  în cadrul sistemului informatic post tranzacționare 
+pentru fiecare Participant la PZU/PI-IDCT/PI-IDA, în care sunt specificate, la nivel de interval de 
+livrare și cumulat, la nivel de zi de livrare, cantitățile de energie electrică tranzacționate la vânzare 
+și/sau cumpărare, prețurile de închidere a pieței  pentru PZU și PI-IDA/ prețul fiecărei tranzacții 
+încheiate pentru PI -IDCT, pentru fiecare interval de livrare , valorile totale şi nete aferente 
+drepturilor de încasare/obligațiilor de plată, inclusiv contravaloarea TVA, dacă este aplicabil; 
+ 
+
+=== PDF PAGE 7 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 7 / 30 
+Rev. 0 
+ 
+4.17. Număr unic de înregistrare a mandatului (UMR)  – identificator unic al mandatului la nivel 
+interbancar; 
+ 
+4.18. Operator al Pieței de Energie Electrică Desemnat – Entitate desemnată de autoritatea competentă 
+pentru a îndeplini sarcini referitoare la cuplarea unică a PZU / PI -IDCT / PI -IDA (conform 
+Regulamentului (UE) 2015/1222). OPCOM S.A. este OPEED în zona de ofertare România; 
+ 
+4.19. Participant la PZU/PI-IDCT/PI-IDA –  participant la piață, în înțelesul art. 2 pct. 25 din Regulamentul 
+(UE) 943/2019, care se înscrie la piețele pe termen scurt de energie electrică și respectă convenția 
+de participare aferentă acestei modalități de tranzacționare, precum și reglementările aplicabile . 
+În cadrul prezentei proceduri se folosește și termenul Participant la PI, cu referire la ambele 
+mecanisme de tranzacționare, PI-IDCT și PI-IDA;   
+ 
+4.20. Participant Implicit al PZU/PI-IDCT/PI-IDA – participant la PZU/PI-IDCT/PI-IDA care îndeplinește 
+rolul de agent de transfer în mecanismul de cuplare și care nu are dreptul să transmită oferte în 
+această calitate; 
+ 
+4.21. Piața Intrazilnică de energie electrică (PI)  – Piaţa centralizată de energie electrică, organizată şi 
+administrată de operatorul pieţei de energie electrică, care oferă participanţilor la piaţă posibilitatea 
+de a-şi îmbunătăţi echilibrarea portofoliului pentru o zi de livrare prin tranzacţii efectuate în sesiuni 
+desfăşurate după încheierea tranzacţiilor pe Piaţa pentru Ziua Următoare. PI include două 
+mecanisme: Tranzacționarea prin corelare continuă (PI-IDCT) și Tranzacționarea prin licitații (PI-
+IDA). Orice referire la PI înseamnă că se aplică ambelor mecanisme, exceptând cazurile în care se 
+precizează expres mecanismul la care se referă; 
+ 
+4.22. PI – Tranzacționarea prin corelare continuă (PI-IDCT) – Mecanism al PI prin care corelarea ofertelor 
+se realizează continuu de la deschiderea sesiunii de tranzacționare şi până cu o oră înainte de 
+începutul livrării, de îndată ce se îndeplinește condiția de corelare; 
+ 
+4.23. PI – Tranzacționarea prin licitații (PI-IDA) – Mecanism al PI reprezentat prin organizarea a 3 licitații 
+închise după modelul celei de la PZU, din care două în ziua anterioară zilei de livrare și una în ziua 
+de livrare și care permite stabilirea unui preț al congestiei de capacitate  în tranzacționarea pe 
+orizontul intrazilnic; 
+ 
+4.24. Registrul Unic al Mandatelor  – bază unică de mandate la nivel național gestionată de către 
+Transfond, conform legislației și regulilor stabilite și/sau agreate la nivel interbancar; 
+ 
+4.25. Schema de debitare directă  - schemă de plăți care definește  un set comun de reguli și procese 
+aplicabile operațiunilor de debitare directă; schema de debitare directă poate fi: 
+  
+4.25.1.Schema de debitare directă Business to Business (SDD B2B)  – schemă de debitare directă 
+accesibilă doar clien ților plătitori persoane juridice ( și conform căreia rambur sarea unei 
+instrucţiuni de debitare directă  nu este permisă); 
+
+=== PDF PAGE 8 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 8 / 30 
+Rev. 0 
+ 
+ 
+4.25.2.Schema de debitare  directă (SDD CORE)  – schemă de debitar e directă accesibilă  atât 
+clienților plătitori persoane juridice cât și plătitorilor persoane fizice; 
+ 
+4.26. Scrisoare de garanţie bancară de plată - document prin care banca garantă se angajează în mod 
+irevocabil şi necondiţionat să plătească, la prima solicitare scrisă a OPCOM S.A. orice sumă până 
+la concurenţa unei sume maxime stabilite de către Participantul la PZU/PI-IDCT/PI-IDA, în calitate 
+de ordonator al garanţiei. Este emisă pe o perioadă limitată de timp, conform modelului agreat de 
+comunitatea bancară; 
+ 
+4.27. SEPA - set de reguli utilizate  în spațiul european și implementate la nivel național pentru 
+operațiunile naționale de direct debit interbancar; 
+ 
+4.28. SEPA Direct Debit (SDD)  – modalitate de plată a unei sume de bani prin Direct Debit care se 
+supune regulilor stabilite prin Convenția privind schemele naționale de plăți; 
+ 
+4.29. Tranzacţie la preț negativ – livrare gratuită de energie electrică din partea participantului la PZU/PI-
+IDCT/PI-IDA când v inde energie electrică la pre ţuri negative c ătre OPCOM S.A. și din partea 
+OPCOM S.A. când revinde c ătre participantul la PZU /PI-IDCT/PI-IDA cumpărător de energie 
+electrică la pre ţuri negative, asociată cu o prestare de servicii (de debarasare/ îndepărtare) 
+efectuată de OPCOM S.A. când achiziţionează energie electrică la preturi negative de la participanții 
+la PZU/PI-IDCT/PI-IDA vânzatori și de către participanții la PZU/PI-IDCT/PI-IDA cumpărători când 
+achiziţionează energie electrică la preţuri negative de la OPCOM S.A. ;  
+ 
+4.30. Zi bancară lucrătoare - acea parte a unei zile pe parcursul căreia o bancă comercială recepţionează, 
+acceptă sau refuză executarea, modificarea şi revocarea ordinelor de plată/instrucţiunilor de 
+debitare directă, emite scrisori de garanţie  bancară de plată , efectuează operaţiuni în contul 
+clienţilor săi; 
+ 
+4.31. Zi de livrare  – ziua calendaristică în ore CET pentru care a fost încheiată o tranzacţie;   
+ 
+4.32. Zi de tranzacţionare  - ziua în care are loc licitația pe PZU /PI-IDA, respectiv în care se încheie 
+tranzacții prin PI-IDCT. 
+ 
+ 
+5. DOCUMENTE DE REFERINŢĂ 
+ 
+5.1. Legea energiei electrice și a gazelor naturale nr. 123/2012 , cu modific ările și completările 
+ulterioare. 
+5.2. Legea 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare. 
+
+=== PDF PAGE 9 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 9 / 30 
+Rev. 0 
+ 
+5.3. OUG nr. 120/04.10.2021 privind administrarea, funcţionarea şi implementarea sistemului naţional 
+privind factura electronică RO e -Factura şi factura electronică în România, cu modificările și 
+completările ulterioare, aprobată prin Legea nr.139/17.05.2022 
+5.4. Decizia Președintelui ANRE nr. 2085 din 11.12.2019 privind modificarea Deciziei nr. 2515 din 
+14.12.2015, prin care s-a aprobat desemnarea societățíi Operatorul Pieţei de Energie Electrică şi 
+de Gaze Naturale “OPCOM” S.A. ca "Operator al Pieţei de Energie Electrică Desemnat (OPEED)" 
+5.5. Regulamentul BNR nr.2/11.08.2016 privind operațiunile de transfer credit și debitare directă. 
+5.6. Ordinul Președintelui ANRE nr.178/13.08.2019 privind modificarea, completarea și abrogarea unor 
+dispoziții din sectorul energiei electrice. 
+5.7. Ordinul Președintelui ANRE nr.65/31.03.2020 privind modificarea și completarea unor ordine ale 
+președintelui ANRE. 
+5.8. Ordinul ANRE nr.63/ 31.03.2020 privind aprobarea programului de implementare a măsurilor 
+necesare în scopul asigurării condițiilor de decontare la un interval de 15 minute. 
+5.9. Ordinul ANRE nr.230/16.1 2.2020 privind prorogarea unor termene prevăzute în ordine ale 
+presedintelui ANRE. 
+5.10. Procedura operațională privind funcționarea Pieței pentru Ziua Următoare de energie electrică. 
+5.11. Procedura operațională privind funcționarea Pieței Intrazilnice de energie electrică : 
+Tranzacționarea continuă (IDCT) și Tranzacționarea prin licitații (IDA). 
+5.12. Procedura operațională privind constituirea, verificarea și utilizarea garanțiilor financiare pentru 
+participarea la Piaţa pentru Ziua Următoare și Piața Intrazilnică de energie electrică. 
+ 
+6. MOD DE LUCRU 
+ 
+6.1. Participantul la PZU /PI-IDCT/PI-IDA care dorește să transmită oferte de cumpărare cu pre țuri 
+pozitive/de vânzare cu prețuri negative, precum și OTS în calitate de Participant Implicit, trebuie 
+să deschidă un cont în numerar (lei) la o bancă comercială  din România, denumită în continuare 
+Bancă de decontare și să încheie un MDD cu banca respectivă,  prin care autorizează ca: 
+ 
+ 6.1.1. OPCOM S.A. să emită ori de cate ori este necesar o IDD asupra contului său deschis la  
+Banca de decontare;  
+ 6.1.2. Banca de decontare să debiteze contul său cu sumele prevăzute în IDD emise de  OPCOM 
+S.A. 
+ 
+În Anexa 1 este prezentat modelul de MDD unic pentru toate Băncile de decontare, în care se vor 
+completa obligatoriu următoarele câmpuri: 
+ 
+a) Detalii mandat 
+- Schema: persoanele juridice bifează „B2B”, iar persoanele fizice bifează „ CORE 
+persoane fizice”, 
+- Referință mandat: se generează automat codul UMR alocat MDD 
+
+=== PDF PAGE 10 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 10 / 30 
+Rev. 0 
+ 
+- Tip plată: se bifează „recurentă” 
+- Sumă/valută - Fixă/Limită maximă – NU SE VA COMPLETA! 
+- Data ultimei colectări: NU SE VA COMPLETA! 
+ 
+b) Detalii plătitor (Debitor – Participant PZU/PI-IDCT/PI-IDA): 
+- IBAN: se completează codul IBAN al contului care se debitează 
+- Denumire: se înscrie numele Participantului la PZU 
+- CUI: 
+- Adresa: 
+ 
+c) Detalii beneficiar (creditor – OPCOM S.A.) 
+- Identificator creditor: RO62ZZZ0013278352 
+- Denumire/Nume: OPERATORUL PIETEI DE ENERGIE ELECTRICA SI DE GAZE 
+NATURALE OPCOM SA 
+- CUI: 13278352 
+- Adresa: B-dul Hristo Botev nr. 16-18 Sector 3 București 
+- Cod Postal: 030236 
+- Cod tara: RO 
+ 
+6.2. Lista băncilor comerciale care au adoptat Schema de debitare directa B2B SEPA RON se poate 
+accesa pe pagina de web a  OPCOM S.A., la adresa: http://www.arb.ro/institutii-de-credit-din-
+romania-care-au-aderat-la-schemele-sepa/ 
+ 
+6.3. Participantul la PZU/PI-IDCT/PI-IDA va transmite la OPCOM S.A., pe email, MDD scanat, pentru a 
+putea fi urmărită introducerea acestuia de către Banca cont central în sistemul informatic. 
+ 
+6.4. OPCOM S.A. accesează zilnic aplicația Băncii cont central pentru a lua la cunoștință de înregistrarea 
+în RUM a noilor MDD, pentru care OPCOM S.A. introduce datele necesare în sistemul propriu 
+informatic.  
+          
+6.5. Participantul la PZU /PI-IDCT/PI-IDA comunică în scris la OPCOM S.A. datele de identificare ale 
+contului care urmează a fi creditat cu valorile cuprinse în OP emise de OPCOM S.A., cont deschis 
+la o bancă comercială din România. 
+ 
+6.6. OPCOM S.A. elaborează în fiecare zi , la nivelul zilei de livrare, pentru care tranzacţionarea s -a 
+încheiat, Notele de Decontare zilnice aferente fiecărui mecanism de tranzacționare și le pune la 
+dispoziția fiecărui Participant la PZU/PI-IDCT/PI-IDA care a înregistrat tranzacții de vânzare și/sau 
+de cumpărare energie electrică pentru ziua de livrare respectivă considerată în ore CET (întocmită 
+conform modelelor prezentate în Anexele 2, 3 și 4). Fiecare Participant la PZU/PI-IDCT/PI-IDA va 
+avea acces, în sistemul informatic post tranzacționare, la o Nota de decontare zilnică conținând 
+prețurile și valorile în Lei ale tranzacțiilor încheiate, după cum urmează: 
+ 
+
+=== PDF PAGE 11 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 11 / 30 
+Rev. 0 
+ 
+➢    Pentru PZU Notele de decontare zilnice pentru fiecare zi de livrare (în ore CET ) în format 
+xml și xlsx sunt puse la dispoziția acestora în ziua de tranzacționare și cuprind următoarele 
+informații (Anexa 2): 
+- cantitățile de energie electrică corespunzătoare tranzacțiilor încheiate aferente fiecărui 
+interval din ziua de livrare, separat pentru vânzare și cumpărare (în MWh cu 3 zecimale); 
+- prețul de închidere a pieței pentru fiecare interval al zilei de livrare (Lei/MWh  cu 2 
+zecimale); 
+- valoarea tranzacției realizate pentru fiecare interval al zilei de livrare, separat pentru 
+vânzare, cu semnul (+) și pentru cumpărare, cu semnul (-), (Lei cu 2 zecimale); 
+- valoarea TVA, dacă este aplicabil, pentru tranzacția realizată pentru fiecare interval al 
+zilei de livrare separat pentru vânzare (corespunzătoare prestării de servcii pentru achiziția 
+energiei electrice la preț negativ), cu semnul (+) și pentru cumpărare cu semnul (-), (Lei cu 
+2 zecimale); 
+- valoarea totală pentru tranzacția realizată pentru fiecare interval al zilei de livrare, 
+calculată ca sumă a valorii tranzacției realizate și a valorii aferente a TVA, dacă este aplicabil, 
+separat pentru vânzare, cu semnul (+) și pentru cumpărare, cu semnu l ( -), (Lei  cu 2 
+zecimale); 
+- cantitatea netă de energie electrică tranzacționată, cumulat la nivel de zi de livrare, 
+calculată ca sumă algebrică  a cantității totale  vândute și a celei cumpărate  (în MWh cu 3 
+zecimale); 
+- valoarea netă a energiei electrice tranzacționată, cumulat la nivel de zi de livrare,  
+calculată ca sumă algebrică a valorilor cumulate aferente tranzacțiilor de  vânzare și a 
+valorilor cumulate aferente tranzacțiilor de cumpărare (Lei cu 2 zecimale) 
+- valoarea netă a TVA, dacă este aplicabilă, la nivel de zi de livrare, calculată ca sumă 
+algebrică a valorii totale a TVA aferentă tranzacțiilor de  vânzare  și a valorii totale a TVA 
+aferentă tranzacțiilor de cumpărare (Lei cu 2 zecimale). 
+- valoarea totală netă calculată ca sumă algebrică a valorii totale aferente tranzacțiilor de 
+vânzare și a valorii totale aferente tranzacțiilor de cumpărare (Lei cu 2 zecimale) 
+ 
+➢    Pentru PI-IDCT Notele de decontare zilnice pentru fiecare zi de livrare (în ore CET) în 
+format csv sunt puse la dispoziția acestora  după ora 06:15 din ziua urm ătoare zilei de 
+livrare și  cuprind următoarele informații (Anexa 3): 
+- cantitățile de energie electrică aferente fiecărei tranzacții realizate, pe fiecare contract, 
+separat pentru vânzare și cumpărare (în MWh cu 3 zecimale); 
+- prețul fiecărei tranzacții realizate (Euro/MWh cu 2 zecimale, respectiv în Lei/MWh  cu 2 
+zecimale); 
+- valoarea fiecărei tranzacții realizate, separat pentru vânzare, cu semnul (+) și pentru 
+cumpărare, cu semnul (-), (în Euro cu 2 zecimale, respectiv în Lei  cu 2 zecimale); 
+
+=== PDF PAGE 12 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 12 / 30 
+Rev. 0 
+ 
+- valoarea TVA, dacă este aplicabil, pentru fiecare tranzacție orară realizată separat pentru 
+vânzare, cu semnul (+) și pentru cumpărare cu semnul (-), (în Euro cu 2 zecimale, respectiv 
+în Lei cu 2 zecimale); 
+- valoarea totală a fiecărei tranzacții realizate, calculată ca sumă a valorii fiecărei tranzacții 
+realizate și a valorii aferente a TVA, dacă este aplicabil, separat pentru vânzare, cu semnul 
+(+) și pentru cumpărare, cu semnul ( -), (în Euro cu 2 zecimale,  respectiv în Lei  cu 2 
+zecimale); 
+- cantitatea totală de energie electrică tranzacționată, cumulat la nivel de zi, la vânzare, 
+respectiv la cumpărare, precum și cantitatea netă (în MWh cu 3 zecimale); 
+- valoarea totală a energiei electrice tranzacționată, inclusiv valoarea TVA, dacă este 
+aplicabilă, cumulat la nivel de zi, la vânzare, respectiv la cumpărare, precum și valoarea netă 
+(în Euro cu 2 zecimale, respectiv în Lei cu 2 zecimale). 
+ 
+➢    Pentru PI-IDA Notele de decontare zilnice pentru fiecare zi de livrare (în ore CET) sunt 
+puse la dispoziția acestora  în format csv  după ora 12:00 din ziua de livrare  și cuprind 
+următoarele informații separat pentru fiecare sesiune de tranzacționare IDA1, IDA2, IDA3 
+(Anexa 4): 
+- cantitățile de energie electrică corespunzătoare tranzacțiilor încheiate aferente fiecărui 
+interval din ziua de livrare, separat pentru vânzare și cumpărare (în MWh cu 3 zecimale); 
+- prețul de închidere a pieței pentru fiecare interval al zilei de livrare (Lei/MWh cu 2 
+zecimale); 
+- valoarea tranzacției realizate pentru fiecare interval al zilei de livrare, separat pentru 
+vânzare, cu semnul (+) și pentru cumpărare, cu semnul (-), (Lei cu 2 zecimale); 
+- valoarea TVA, dacă este aplicabil, pentru tranzacția realizată pentru fiecare interval al 
+zilei de livrare  separat pentru vânzare, cu semnul (+) și pentru cumpărare cu semnul ( -), 
+(Lei cu 2 zecimale); 
+- valoarea totală pentru tranzacția realizată pentru fiecare interval al zilei de livrare, 
+calculată ca sumă a valorii tranzacției realizate și a valorii aferente a TVA, dacă este aplicabil, 
+separat pentru vânzare, cu semnul (+) și pentru cumpărare, cu semnu l ( -), (Lei cu 2 
+zecimale); 
+- pentru toate cele 3 sesiuni de tranzacționare IDA1, IDA2, IDA3  cantitatea totală de 
+energie electrică tranzacționată, cumulat la nivel de zi de livrare, la vânzare, respectiv la 
+cumpărare, precum și cantitatea netă (în MWh cu 3 zecimale); 
+- pentru toate cele 3 sesiuni de tranzacționare IDA1, IDA2, IDA3 valoarea totală a energiei 
+electrice tranzacționată, inclusiv valoarea TVA, dacă este aplicabilă, cumulat la nivel de zi de 
+livrare, la vânzare, respectiv la cumpărare, precum și valoarea netă (Lei cu 2 zecimale). 
+ 
+6.7. Valoarea zilnică a IDD şi a OP pentru fiecare mecanism de tranzacționare în parte (PZU/PI-IDCT/PI-
+IDA), se determină pe baza datelor din Nota de Decontare zilnică aferentă, și anume pe baza  
+
+=== PDF PAGE 13 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 13 / 30 
+Rev. 0 
+ 
+valorii nete totale a tranzacțiilor (Vnet tot) calculată ca sumă algebrică a valorii totale cumulate, la 
+nivel de zi de livrare, a  tranzacțiilor de vânzare și a valorii totale cumulate, la nivel de zi de livrare, 
+a  tranzacțiilor de cumpărare . 
+ 
+          Pentru:   
+Vnet tot <0 Participantul la PZU/PI-IDCT/PI-IDA are obligații nete de plată, la nivelul 
+zilei de livrare, iar OPCOM S.A. emite IDD pentru valoarea netă totală a 
+tranzacțiilor, la nivel de zi de livrare, respectivă. 
+ Vnet tot >0 Participantul la PZU /PI-IDCT/PI-IDA are drepturi nete de încasare , la 
+nivelul zilei de livrare , iar OPCOM S.A. emite OP pentru valoarea netă  
+totală a tranzacțiilor, la nivel de zi de livrare, respectivă. 
+ 
+6.8. OPCOM S.A. emite și transmite la Banca cont central, pentru fiecare mecanism de tranzacționare 
+în parte (PZU/PI-IDCT/PI-IDA), în fiecare zi bancară lucrătoare, IDD pentru valoarea netă totală a 
+tranzacțiilor, dacă aceasta este negativă, la nivel de zi de livrare, conform prevederilor pct.6.7., cu 
+data finalizării în prima zi bancară lucrătoare care urmează  zilei  bancare lucrătoare în care au 
+fost  transmise IDD, atât pentru IDD intrabancare, cât și pentru IDD interbancare. 
+ 
+6.9.     Orarul transmiterii IDD este, după caz, următorul: 
+6.9.1. pentru tranzacţiile încheiate pe PZU,  
+a) la ora 15:00 a fiecărei zile bancare lucrătoare pentru ziua de livrare următoare pentru care 
+s-a încheiat tranzacționarea; în cazul apariției unei situaţii excepţionale și IDD nu au putut fi 
+transmise pâna la ora 16:00 (după anunțarea acestei situații la ora 15:00 la BCR), procesul 
+de transmitere a IDD  se amână cu o zi bancară lucrătoare  și OPCOM S.A. va publica pe 
+pagina proprie web motivele depăşirii orei limită; 
+b) la ora 10:00 a primei zile bancare lucrătoare care urmează după ziua/zilele de 
+tranzacționare care nu sunt zile bancare lucrătoare, pentru tranzacţiile încheiate în ziua/zilele 
+de livrare următoare pentru care s-a încheiat tranzacționarea; 
+ 
+6.9.2. pentru tranzacţiile încheiate pe PI-IDCT, la ora 10:00 a primei zile bancare lucrătoare  
+care urmează după ziua/zilele de livrare, pentru tranzacţiile încheiate pentru ziua/zilele de livrare 
+anterioară/anterioare (inclusiv aferente zilelor de weekend și sărbători legale anterioare); 
+ 
+6.9.3. pentru tranzacţiile încheiate pe PI-IDA, după ora 12:00 a fiecărei zile bancare lucrătoare, 
+pentru tranzacțiile aferente zilei de livrare pentru care tranzacționarea pe PI-IDA s-a încheiat 
+(după sesiunea IDA3 din cadrul zilei de livrare), respectiv  până la ora 10:00 a primei zile bancare 
+lucrătoare care urmează după ziua/zilele de livrare anterioare, pentru tranzacțiile aferente zilelor 
+de weekend și sărbători legale, pentru care tranzacționarea pe PI- IDA s-a încheiat. 
+ 
+6.10.  Participantul la PZU /PI-IDCT/PI-IDA are obligaţia asigurării disponibilităţilor necesare în contul 
+curent (aferent fiecărei piețe) deschis la Banca de decontare, în vederea debitării sumelor aferente 
+valorii obligațiilor nete de plată.  
+
+=== PDF PAGE 14 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 14 / 30 
+Rev. 0 
+ 
+ 
+6.11. In fiecare zi bancară lucr ătoare, Banca cont central transmite către OPCOM S.A. rapoartele de 
+refuzuri, datorate lipsei de disponibilitate în contul Participantului la PZU/PI-IDCT/PI-IDA aferent 
+IDD transmise, care au data finalizării în ziua bancară lucrătoare respectivă. 
+ 
+6.12.  Scrisoarea de garanție bancară de plată/garanția financiară sub forma unui depozit în numerar 
+remis în contul OPCOM S.A., va fi executată, în ziua bancară lucrătoare care urmează zilei în care 
+a fost primit refuzul executării IDD, în situația în care: 
+  
+6.12.1. Participantul la PZU/PI-IDCT/PI-IDA care a fost informat de către OPCOM S.A. referitor la 
+refuzul executării IDD, datorită lipsei de disponibilități din cont, nu efectuează, în aceeași zi 
+lucrătoare plata contravalorii IDD a cărui executare a fost refuzată și nu transmite spre informare 
+la OPCOM S.A., până la ora 17:00, Ordinul de plată aferent, iar contravaloarea Ordinului de plată 
+nu a fost încasată în Contul Central al PZU/PI-IDCT/PI-IDA în ziua bancară lucrătoare care urmează 
+zilei în care a fost primit refuzul executării IDD. 
+ 
+6.12.2. Participantul la PZU /PI-IDCT/PI-IDA a înregistrat 3 (trei) refuzuri la plată /lună aferente 
+executării IDD, datorate lipsei de disponibilități din cont, a căror încasare a fost asigurată prin 
+ordine de plată emise de respectivul participant în condițiile prevăzute la pct. 6.12.1., cu excepția 
+participanților cu o situație juridică deosebită (faliment). 
+ 
+6.13. Prin excepție de la prevederile stipulate la pct. 6.12, în cazul în care participantul nu mai are dreptul 
+să încheie tranzacții de cumpărare, în funcție de data la care expiră valabilitatea scrisorii de 
+garanție bancară de plată, OPCOM S.A. emite și transmite la Banca cont central cererea de plată 
+în executare a scrisorii de garanție bancară de plată, în aceeași zi bancară lucrătoare în care s -a 
+primit raportul refuzurilor. 
+ 
+6.14. OPCOM S.A. transmite la Banca cont central, în format electronic, cererea de plată prin executare 
+a SGB, cu data finalizării:  
+  
+a) în ziua bancară lucrătoare următoare, dacă SGB este emisă de Banca cont central, 
+ 
+b) în două zile bancare lucrătoare, dacă SGB este emisă de altă bancă comercială şi este 
+avizată de Banca cont central,  
+ 
+c) în două zile bancare lucrătoare, dacă SGB este emisă de Banca cont central, în baza unei 
+contragaranții bancare. 
+ 
+6.15.  OPCOM S.A. verifică în extrasul de cont sumele creditate în contul central al PZU/PI-IDCT/PI-IDA 
+în urma IDD transmise și executate care au ca dată de finalizare ziua bancară lucrătoare respectivă. 
+Extrasul de cont este generat online în fiecare zi bancară lucrătoare şi evidenţiază toate 
+operaţiunile înregistrate în contul central al PZU/PI-IDCT/PI-IDA până în momentul descărcării 
+acestuia.  
+
+=== PDF PAGE 15 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 15 / 30 
+Rev. 0 
+ 
+Dacă se constată că dintr -o eroare a OPCOM S.A., suma debitată/creditat ă unui Participant la 
+PZU/PI-IDCT/PI-IDA este mai mare/mai mică decât suma datorată/de încasat, OPCOM S.A. va 
+notifica în aceeaşi zi Participantul la PZU /PI-IDCT/PI-IDA afectat de eroare şi va transmite un 
+OP/IDD pentru creditarea/debitarea contului Participantului la PZU /PI-IDCT/PI-IDA afectat, cu 
+diferenţa debitată /creditată eronat. 
+ 
+6.16. În fiecare zi bancară lucrătoare, OPCOM S.A. verifică permanent valoarea soldului contului central 
+aferent fiecărui mecanism de tranzacționare, iar dacă această valoare este mai mare decât suma 
+valorilor nete ale drepturilor de încasare ale tuturor Participanților la PZU/PI-IDCT/PI-IDA la nivelul 
+zilei de livrare care urmează ultimei zile pentru care a emis OP, OPCOM S.A. emite şi transmite la 
+Banca cont central, OP aferente valorii nete a drepturilor de încasare ale fiecărui  Participant la 
+PZU/PI-IDCT/PI-IDA în strictă conformitate cu valorile nete ale drepturilor de încasare aferente 
+zilei de livrare pentru care urmează a fi efectuate plățile, calculate conform prevederilor pct.6.7. 
+OP se emit în ordinea cronologică a zilelor de livrare aferente. 
+ 
+6.17.  Facturarea 
+6.17.1.  OPCOM S.A. emite și transmite facturile în sistemul național privind factura electronică RO 
+e-factura în termen de 5 zile calendaristice de la data emiterii facturii, dar nu mai târziu de 
+data de 10 a lunii calendaristice următoare lunii de livrare.  
+ 
+6.17.2.  (1) OPCOM S.A.  emite şi transmite facturile în sistemul național privind factura electronică 
+RO e-factura pentru energia electrică vândută, fiecărui Participant la PZU/PI-IDCT/PI-IDA 
+la prețuri:  
+ 
+a) pozitive sau zero - factura conține cantitatea și valoarea totală a energiei electrice 
+vândute Participantului la PZU/PI-IDCT/PI-IDA, în luna de livrare, 
+la prețuri pozitive sau zero, contravaloarea TVA, dacă este aplicabil 
+si valoarea totală, cuprinse  în „Centralizatorul tranzactiilor PZU/PI-
+IDCT/PI-IDA de vânzare – cumpărare energie electrică”  (Anexa 
+5) stabilit, de regulă, pe baza Notelor de Decontare zilnice; 
+b) negative       - factura conține cantitatea de energie  electrică vândută către  
+Participantul la PZU/PI-IDCT/PI-IDA la prețuri negative, în  luna de 
+livrare, considerată livrare gratuită.   
+(2) Facturile se întocmesc în conformitate cu prevederile Codului fiscal în vigoare, și vor 
+conține cantitățile de energie electrică vândute î n luna de livrare  (în ore CET) valorile 
+aferente precum și prețul mediu ponderat r ezultat. Pentru energia electrică vândută la 
+prețuri negative, considerată livrare gratuită, valoarea facturii și prețul mediu ponderat vor 
+fi zero. De asemenea, în factură va fi menționată și data scadentă, respectiv data de 28 a 
+lunii calendaristice următoare lunii de livrare. 
+ 
+(3) OPCOM S.A. transmite fiecărui Participant la PZU /PI-IDCT/PI-IDA și „Centralizatorul 
+tranzactiilor PZU/PI-IDCT/PI-IDA de vânzare – cumpărare energie electrică” (modelul este 
+
+=== PDF PAGE 16 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 16 / 30 
+Rev. 0 
+ 
+prezentat în anexa 3), care cuprinde, la nivel de zi și cumulat, pentru luna de livrare, 
+următoarele informații: 
+− cantitățile de energie electrică tranzacționate  de Participantul la PZU /PI-IDCT/PI-
+IDA la vânzare, la prețuri pozitive și/sau preturi „0” și/sau, pentru vânzările la prețuri 
+negative, considerate cu livrare gratuită  de către Participantul la PZU/PI-IDCT/PI-
+IDA; 
+− drepturile de încasare ale Participantului la PZU/PI-IDCT/PI-IDA, pentru cantitățile 
+de energie electrică tranzacționate la vânzare la prețuri pozitive și/sau preturi „0”; 
+− drepturile de încasare ale Participantului la PZU/PI-IDCT/PI-IDA, pentru prestarea 
+de către Participantul la PZU /PI-IDCT/PI-IDA a serviciului de achiziție energie 
+electrică la prețuri negative de la OPCOM S.A.;  
+− total drepturi de încasare ale Participantului la PZU/PI-IDCT/PI-IDA; 
+− cantitățile de energie electrică tranzacționate  de Participantul la PZU /PI-IDCT/PI-
+IDA la cumpărare, la prețuri pozitive și/sau preturi „0” și/sau, la prețuri negative, 
+considerate cu livrare gratuită de către OPCOM S.A.; 
+− obligațiile de plată ale Participantului la PZU/PI-IDCT/PI-IDA, pentru cantitățile de 
+energie electrică tranzacționate, la cumpărare, la prețuri pozitive și/sau preturi „0”, 
+inclusiv contravaloarea TVA, după caz; 
+− obligațiile de plată ale Participantului la PZU/PI-IDCT/PI-IDA, pentru prestarea de 
+către OPCOM S.A. a serviciului de achiziție energie electrică la prețuri negative  de 
+la Participantul la PZU/PI-IDCT/PI-IDA inclusiv contravaloarea TVA, după caz;  
+− total obligații de plată ale Participantului la PZU/PI-IDCT/PI-IDA; 
+− valorile IDD încasate si ale OP emise de OPCOM  S.A. datele la care au fost 
+încasate/emise, precum și valorile plăților lunare de regularizare; 
+− contravaloarea TVA suplimentară de regularizat, după caz; 
+ 
+            (4) În vederea stabilirii contravalorii TVA suplimentară de regularizat se recalculează fiecare 
+dintre contravalorile TVA lunare din „Centralizatorul tranzactiilor PZU /PI-IDCT/PI-IDA de 
+vânzare – cumpărare energie electrică”  prin aplicarea cotei de TVA  la valoarea lunară a 
+energiei electrice achiziționată și/sau la valoarea lunară aferentă „prestării de servicii pentru 
+achiziții la prețuri negative” . 
+ 
+(5) În situația în care diferența dintre contravalo rile TVA calculate prin aplicarea cotei de 
+TVA la valorile obligațiilor lunare la Participantului la PZU /PI-IDCT/PI-IDA și ale OPCOM  
+S.A. și contravalorile TVA aferente obligațiilor de plată lunare la Participantului la PZU /PI-
+IDCT/PI-IDA și ale OPCOM  S.A. calculate ca sumă a contravalorilor TVA din Notele de 
+decontare zilnice,  menționate în „Centralizatorul tranzactiilor PZU /PI-IDCT/PI-IDA de 
+vânzare – cumpărare energie electrică”,  este mai mare decât valoare a acceptată de 
+platforma informatică a sistemului national privind factura electronică RO e -factura, 
+
+=== PDF PAGE 17 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 17 / 30 
+Rev. 0 
+ 
+contravaloarea TVA menționată în „Centralizatorul tranzactiilor PZU /PI-IDCT/PI-IDA de 
+vânzare – cumpărare energie electrică”   va fi cea stabilită prin aplicarea cotei TVA  la 
+valoarea lunară a energiei electrice achiziționate sau valoarea lunară aferentă „prestării de 
+servicii pentru achiziții la prețuri negative” . Pentru suma diferențelor rezultate  între 
+contravalorile TVA calculate prin aplicarea cotei de TVA la valorile obligațiilor lunare ale 
+Participantului la PZU /PI-IDCT/PI-IDA și ale OPCOM S.A. și contravalorile TVA aferente 
+obligațiilor de plată lunare care nu au au fost acceptate în sistemul informatic RO e-factura, 
+se va emite o instructiune de debit direct sau un ordin de plată, pentru regularizarea 
+încasărilor/plăților. 
+ 
+6.17.3.  OPCOM S.A. emite și transmite în sistemul național privind factura electronică RO e-factura 
+în termen de 5 zile calendaristice de la data emiterii facturii, dar nu mai târziu de data de 
+10 a lunii următoare lunii de livrare  pentru Participanții la PZU/PI-IDCT/PI-IDA care au 
+înregistrat tranzacţii de vânzare energie electrică la prețuri negative, în luna de livrare, 
+facturile pentru „Prestarea de  servicii”, care cuprind cantitatea aferentă vânzărilor acestora 
+la prețuri negative, valoarea corespunzătoare prestării de servicii, determinată ca sumă a 
+produselor dintre cantitățile orare vândute și prețurile negative în modul, din intervalele de 
+tranzacționare respective, contravaloarea TVA, dacă este aplicabil, și valoarea totală. 
+  
+6.17.4.  Participanții la PZU /PI-IDCT/PI-IDA emit și transmit facturile în sistemul național privind 
+factura electronică RO e-factura în termen de 5 zile calendaristice de la data emiterii facturii, 
+dar nu mai târziu de data de 10 a lunii următoare lunii de livrare. 
+ 
+6.17.5. Factura transmisă în sistemul național privind factura electronică RO e -factura de 
+Participantul la PZU/PI-IDCT/PI-IDA care, în cursul lunii de livrare, a înregistrat tranzacţii 
+de vânzare, cuprinde pentru energia electrică vândută la prețuri:  
+ 
+a)  pozitive sau zero: -   cantitatea şi valoarea totală a energiei electrice vândute  către 
+OPCOM S.A., în luna de livrare, la prețuri pozitive sau zero , 
+contravaloarea TVA, dacă este aplicabil si valoarea totală,  
+cuprinse în „Centralizatorul tranzactiilor PZU de vânzare – 
+cumpărare energie electrică” stabilit, de regulă, pe baza Notelor 
+de Decontare zilnice; 
+b)  negative: -  cantitatea de energie electrică vândută către OPCOM S.A. la 
+prețuri negative, în  cursul lunii de livrare, considerată livrare 
+gratuită. Pentru energia electrică vândută la prețuri negative, 
+considerată livrare gratuită, valoarea facturii și prețul mediu 
+ponderat vor fi zero. 
+ 
+6.17.6. Factura transmisă în sistemul național privind factura electronică RO e -factura de 
+Participantul la PZU/PI-IDCT/PI-IDA care în cursul lunii de livrare a înregistrat tranzacţii de 
+cumpărare la preț uri negative, pentru „Prestarea de servicii” , cuprinde cantitatea  
+
+=== PDF PAGE 18 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 18 / 30 
+Rev. 0 
+ 
+cumpărată la prețuri negative, valoarea corespunzătoare prestării de servicii determinată 
+ca sumă a produselor dintre cantitățile orare cumpărate și prețurile negative în modul, din 
+intervalele orare respective, contravaloarea TVA, dacă este aplicabil, și valoarea totală. 
+ 
+6.17.7. Menţiunile din factură, referitoare la cota de TVA aferentă tranzacțiilor de vânzare/cumpărare 
+energie electrică respectă prevederile Codului Fiscal privind taxarea operațiunilor cu energie 
+electrică, în vigoare la data emiterii facturilor. De asemenea, în factură va fi menționată și 
+data scadentă, respectiv data de 28 a lunii calendaristice următoare lunii de livrare. 
+ 
+6.17.8. Menţiunile din factură, referitoare la cota de TVA aferentă „Prestărilor de servicii”,  respectă 
+prevederile Codului Fiscal privind taxarea acestora în vigoare la data emiterii facturilor. 
+ 
+6.17.9.  Facturile emise de participanții la PZU vor cuprinde referiri cu privire la denumirea pieței și 
+luna de livrare pentru care au fost emise. 
+ 
+6.18. Efectuarea calculelor și a plăților lunare de regularizare 
+  
+6.18.1.  Stabilirea valorii lunare de regularizare 
+Având în vedere  că,  în conformitate cu prevederile pct. 6.7., valoarea zilnică a IDD/OP  se 
+calculează pe baza valorii nete totale a tranzactiilor, la nivel de zi de livrare, după încheierea 
+lunii de livrare, se determină valorile aferente regularizărilor lunare, pe baza facturilor emise 
+de OPCOM S.A. și de Participantul la PZU/PI-IDCT/PI-IDA, precum și a încasărilor și plăților 
+efectuate, după cum urmează: 
+ 
+a)  Valoarea de regularizare lunară a obligațiilor de plată ale Participantului la PZU /PI-
+IDCT/PI-IDA, egală cu valoarea de regularizare lunară a drepturilor de încasare lunare 
+ale OPCOM S.A.  de la acel participant  (inclusiv prestarea de servicii corespunzătoare 
+tranzacțiilor la preț negativ), se determină astfel: 
+ 
+VR1 = Fc+ FpsO –∑Încasărizilnice  
+ 
+unde:   
+ 
+VR1 − valoarea de regularizare lunară a obligațiilor de plată lunară 
+ale Participantului la PZU /PI-IDCT/PI-IDA, egală cu valoarea 
+de regularizare lunară a  drepturilor de încasare ale OPCOM 
+S.A.; 
+Fc 
+ 
+ 
+ 
+− valoarea facturii  transmise în sistemul național privind factura 
+electronică RO e -factura de OPCOM S.A. , inclusiv 
+contravaloarea TVA, dacă este aplicabil , pentru energia 
+electrică vândută pe PZU /PI-IDCT/PI-IDA la prețuri 
+pozitive/sau preturi „0”, Participantului la PZU/PI-IDCT/PI-IDA 
+cumpărător; 
+
+=== PDF PAGE 19 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 19 / 30 
+Rev. 0 
+ 
+FpsO − valoarea facturii de prestare de serviciu transmise în sistemul 
+național privind factura electronică RO e -factura de către 
+OPCOM S. A.  pentru achiziția energiei electric e la prețuri 
+negative de la Participantului la PZU/PI-IDCT/PI-IDA vânzător; 
+∑Încasărizilnice − valoarea încasărilor zilnice în contul central al PZU/PI-IDCT/PI-
+IDA pentru tranzacțiile efectuate de Participantul la PZU /PI-
+IDCT/PI-IDA în luna de livrare respectivă, inclusiv din 
+executare SGB/garanției financiare sub forma unui depozit în 
+numerar remis în contul OPCOM S.A. , precum și ca urmare a 
+emiterii unei IDD pentru corectarea contravalorii TVA. 
+ 
+b)  Valoarea de regularizare lunară a drepturilor de încasare lunare ale Participantului la 
+PZU/PI-IDCT/PI-IDA, egală cu valoarea de regularizare lunară a obligațiilor de plată 
+lunare ale OPCOM S.A. către acel participant  (inclusiv prestarea de servicii 
+corespunzătoare tranzacțiilor la preț negativ), se determină astfel: 
+ 
+VR2 = Fv + FpsP - ∑OPzilnice,  
+ 
+unde: 
+ 
+VR2 − valoarea de regularizare lunară a drepturilor de încasare ale 
+Participantului la PZU /PI-IDCT/PI-IDA, egală cu valoarea de 
+regularizare lunară a obligațiilor de plată ale OPCOM S.A.; 
+Fv 
+ 
+ 
+FpsP 
+ 
+− valoarea facturii  transmise în sistemul național privind factura 
+electronică RO e-facturade Participantul la PZU/PI-IDCT/PI-IDA, 
+pentru energia electrică vândută de acesta pe PZU/PI-IDCT/PI-
+IDA, la prețuri pozitive/sau preturi „0”; 
+− valoarea facturii de prestare de serviciu transmise în sistemul 
+național privind factura electronică RO e -factura de către 
+Participantul la PZU /PI-IDCT/PI-IDA pentru achiziția energiei 
+electrice la prețuri negative de la OPCOM S.A., în calitate de 
+vânzător; 
+∑OPzilnice − valoarea OP emise de OPCOM S.A.  pentru debitarea contului 
+central al PZU /PI-IDCT/PI-IDA și creditarea contului  
+Participantului la PZU /PI-IDCT/PI-IDA pentru tranzacțiile 
+efectuate de  acesta în luna  de livrare respectivă, inclusiv ca 
+urmare a emiterii unui OP pentru corectarea contravalorii TVA. 
+ 
+c) valorile de regularizare lunare ale obligațiilor de plată ale Participantului la PZU /PI-
+IDCT/PI-IDA sunt egale cu valorile de regularizare lunare ale drepturilor de încasare ale 
+
+=== PDF PAGE 20 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 20 / 30 
+Rev. 0 
+ 
+Participantului la PZU /PI-IDCT/PI-IDA, respectiv valorile de regularizare lunare ale 
+drepturilor de încasare ale OPCOM S.A., sunt egale cu valorile de regularizare lunare ale 
+obligațiile de plată ale OPCOM S.A. și anume: 
+ 
+VR1 = VR2 
+ 
+6.18.2. Efectuarea plăților de regularizare lunare ale obligațiilor de plată  lunare reciproce, se 
+realizează, în funcție de opțiunea Participantului la PZU /PI-IDCT/PI-IDA, în unul din 
+următoarele moduri: 
+ 
+a) OPCOM S.A. emite IDD pentru suma de regularizare în prima zi de miercuri, dacă este zi 
+bancară lucrătoare, ce urmeaz ă datei de 15 ale lunii urm ătoare lunii pentru care se 
+efectuează regularizarea, iar dacă este zi bancară nelucrătoare, în prima zi bancar ă ce 
+urmează acesteia,  iar după încasarea contravalorii IDD, emite OP pentru aceeași sumă, 
+de regularizare, pentru creditarea contului Participantului la PZU/PI-IDCT/PI-IDA, după 
+cum urmează: 
+a.1)  OPCOM S.A. emite către Banca cont central, un IDD cu valoarea VR1, de regularizare 
+pentru debitarea contului participantului la PZU /PI-IDCT/PI-IDA, determinată 
+conform punctului 6.18.1;   
+ 
+a.2) în situația în care Participantul la PZU /PI-IDCT/PI-IDA nu a asigurat resursele 
+necesare achitării IDD dedicat regularizării prin alimentarea corespunzatoare a 
+contului, OPCOM S.A. va executa SGB/garanția financiară sub forma unui depozit 
+în numerar remis în contul OPCOM S.A.; 
+ 
+a.3) ulterior încasării în contul central al PZU /PI-IDCT/PI-IDA a valorii IDD de 
+regularizare/a valorii din cererea de plată în executare a SGB, în aceași zi bancară 
+lucrătoare, OPCOM S.A. emite un OP de valoare egală, pentru creditarea contului 
+Participantului la PZU/PI-IDCT/PI-IDA. 
+ 
+b)   efectuarea reciprocă a plăţilor prin OP: 
+  
+b.1)  Participantul la PZU/PI-IDCT/PI-IDA emite un OP cu valoarea VR1, pentru creditarea 
+contului  central al PZU/PI-IDCT/PI-IDA; 
+ 
+b.2)   după evidențierea, în extrasul de cont al contului central al PZU/PI-IDCT/PI-IDA, a 
+valorii OP de regularizare, OPCOM S.A. va emite un OP de regularizare, de valoare 
+egală, pentru creditarea contului Participantului la PZU /PI-IDCT/PI-IDA, în prima 
+zi bancară lucrătoare după ziua bancară lucrătoare în care apare evidențiată 
+încasarea în contul central al PZU/PI-IDCT/PI-IDA. 
+c)  compensare: 
+  
+
+=== PDF PAGE 21 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 21 / 30 
+Rev. 0 
+ 
+c.1)  OPCOM S.A. completează „Solicitarea de compensare”, (Anexa 6) cu datele aferente 
+facturilor emise și transmise în sistemul național privind factura electronică RO e-
+factura de OPCOM  S.A., precum si de Participantul la PZU /PI-IDCT/PI-IDA, 
+valoarea incasarilor si a platilor efectuate, precum si valoarea de compensat  și o 
+transmite pe email Participantului la PZU/PI-IDCT/PI-IDA în vederea confirmării 
+sumei de compensat;  
+c.2)  participantul la PZU/PI-IDCT/PI-IDA persoană juridică română va confirma suma de 
+compensat prin introducerea informațiilor cuprinse în  formularul „Solicitare de 
+compensare”,  în Sistemul Informatic de Compensare (SIC)  gestionat de Centrul 
+de Pregătire pentru Personalul din Industrie (IMI); 
+ 
+c.3)   participantul la PZU/PI-IDCT/PI-IDA persoană juridică străină va confirma suma de 
+compensat prin completarea rubricii care-i este destinată din formularul „Solicitare 
+de compensare”, va semna electronic formularul și îl va retransmite la OPCOM S.A. 
+pe email; 
+ 
+7. CONTESTATII  
+ 
+7.1. Dacă un Participant la PZU/PI-IDCT/PI-IDA consideră că o Notă de decontare zilnică /  Factură / 
+Solicitare de compensare,  un IDD / OP  emise / transmise de către OPCOM S.A. , conform 
+prezentelor reguli pentru decontare, conține date incorecte, participantul respectiv poate contesta 
+la OPCOM S.A. printr-o notificare scrisă şi poate pune în discuţie orice element sau calcul aferent.  
+ 
+7.2. Notificarea unei contestaţii la o Notă de decontare zilnică, transmisă de Participantul la PZU/PI-
+IDCT/PI-IDA  trebuie să specifice în mod clar perioada de timp vizată, cum ar fi ziua de livrare, 
+intervalul de decontare, data emiterii respectivei note, elementul contestat, motivul contestării, 
+valoarea contestată / recalculată, dacă este cazul, şi va fi însoţită de orice probă disponibilă care 
+poate să vină în sprijinul contestaţiei. 
+ 
+7.3. Notificarea unei contestaţii cu privire la valoarea unui IDD/OP, transmisă de Participantul la PZU/PI-
+IDCT/PI-IDA trebuie să specifice în mod clar perioada de timp vizată cum ar fi ziua de livrare, dată 
+debitării/creditării contului Participantului la PZU /PI-IDCT/PI-IDA respectiv, elementul contestat,  
+motivul contestării, valoarea contestată/recalculată, dacă este cazul, şi va fi însoţită de orice probă 
+disponibilă care poate să vină în sprijinul contestaţiei. 
+ 
+7.4. Notificarea unei contestaţii cu privire la conținutul unei facturi  transmisă de către OPCOM S.A. în 
+sistemul național privind factura electronică RO e -factura, transmisă de un Participant la PZU /PI-
+IDCT/PI-IDA trebuie să conțină luna de livrare, ele mentul contestat (cantitatea / valoarea / 
+contravaloarea TVA, etc.), motivul contestării, valoarea recalculată, dacă este cazul, şi va fi însoţită 
+de orice probă disponibilă care poate să vină în sprijinul contestaţiei. O notificare în acest sens poate 
+fi transmisă inclusiv în sistemul național privind factura electronică RO e-factura, prin înscrierea unui 
+mesaj în acest sens. 
+ 
+
+=== PDF PAGE 22 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 22 / 30 
+Rev. 0 
+ 
+7.5. Notificarea unei contestaţii cu privire la conținutul unei Solicitări de compensare emisă și transmisă 
+de către OPCOM S.A., transmisă de Participantul la PZU/PI-IDCT/PI-IDA trebuie să specifice luna de 
+livrare, elementul contestat, motivul contestării, valoarea recalculată, dacă este cazul, şi va fi însoţită 
+de orice probă disponibilă care poate să vină în sprijinul contestaţiei. 
+ 
+7.6. Orice Participant la PZU/PI-IDCT/PI-IDA poate contesta o Notă de decontare zilnică / Solicitare 
+de compensare, un IDD / OP, într-un interval de două zile bancare de la data: 
+a) emiterii notei contestate în cazul unei Note de Decontare zilnice emisă de OPCOM S.A. 
+b) emiterii și transmiterii de către OPCOM S.A.a solicitarii de compensare contestate; 
+c) debitării / creditării contului Participantului la PZU/PI-IDCT/PI-IDA respectiv, ca urmare a 
+IDD/OP emise de către OPCOM S.A. 
+ 
+7.7. Orice Participant la PZU /PI-IDCT/PI-IDA poate contesta o Factură, într-un interval de 10 zile 
+calendaristice  de la data emiterii. 
+ 
+7.8. Dacă un Participant la PZU/PI-IDCT/PI-IDA  nu a transmis nici o contestaţie în legătură cu o Notă 
+de Decontare zilnică / Factură / Solicitare de compensare, un IDD / OP  în intervalul menţionat la 
+pct. 7 . 6 . și pct.7.7., se consideră că documentul / valoarea debitată / creditată, după caz, a fost 
+acceptată de respectivul Participant la PZU/PI-IDCT/PI-IDA. 
+ 
+7.9. Ulterior primirii unei contestații, în termen de două zile bancare, OPCOM S.A. verifică elementele 
+contestației și anume: respectarea termenului de transmitere a acesteia, perioada de timp vizată 
+(luna / ziua / intervalul de livrare), elementul contestat, motivul contestării,  valoarea contestată / 
+recalculată, precum și celelalte probe comunicate de către Participantul la PZU /PI-IDCT/PI-IDA 
+respectiv. 
+ 
+7.10. Atunci când verifică o Notă de Decontare zilnică / Factură / Solicitare de compensare, un IDD / OP, 
+care conțin date contestate,  OPCOM S.A. poate solicita Participantului la PZU/PI-IDCT/PI-IDA 
+informaţii suplimentare. Dacă informaţiile suplimentare solicitate nu sunt furnizate de Participantul 
+la PZU/PI-IDCT/PI-IDA respectiv, OPCOM S.A. este îndreptăţit să respingă contestaţia respectivă. 
+ 
+7.11. OPCOM S.A.  va informa Participantul la PZU/PI-IDCT/PI-IDA în legătură cu rezultatul verificărilor 
+efectuate. Dacă o o Notă de Decontare zilnică / Factură / Solicitare de compensare, un IDD / OP  
+conține date eronate OPCOM S.A. va reface calculele şi va transmite un document / IDD / OP, după 
+caz, corectat, în termen de trei zile bancare de la data primirii contestației / informațiilor 
+suplimentare. OPCOM S.A. va respinge contestația în cazul în care din analizele efectuate constată 
+faptul că respectiva contestație este neîntemeiată. 
+ 
+8. DREPTURILE PARTICIPANTULUI LA PZU/PI-IDCT/PI-IDA 
+ 
+8.1.  Să acceseze Notele de decontare zilnice (în ore CET)  şi să solicite OPCOM S.A. transmiterea 
+acestora prin canale alternative de comunicaţie (e -mail) în situaţia în care nu poate accesa 
+Sistemul post tranzacţionare al PZU/PI-IDCT/PI-IDA. 
+
+=== PDF PAGE 23 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 23 / 30 
+Rev. 0 
+ 
+ 
+8.2.  Să încaseze contravaloarea drepturilor nete de încasare, prevăzute în Notele de decontare zilnice, 
+prin OP zilnice emise de  OPCOM S.A. pentru creditarea contului bancar deschis de căte 
+Participantul la PZU/PI-IDCT/PI-IDA la o bancă comercială din România și să documenteze, lunar, 
+încasarea drepturilor și plat a obligaţiilor, de regularizare,  în valoare egală, reciproce, prin 
+comunicarea opțiunii pentru accesarea unuia  din mecanismele de compensare/regularizare  
+prevăzute la pct. 6.18. 
+ 
+8.3.  Să emită și să transmită facturile lunare în sistemul național privind factura electronică RO e -
+factura în termen de 5 zile calendaristice de la data emiterii facturii, dar nu mai târziu de data de 
+10 a lunii următoare lunii de livrare, pentru tranzacțiile de vânzare a energiei electrice înregistrate, 
+în cursul lunii de livrare pentru: 
+− cantitatea (în ore CET) şi valoarea energiei electrice vândută pe PZU/PI-IDCT/PI-
+IDA, la preţuri pozitive sau zero; 
+− cantitatea de energie electrică (în ore CET) vândută pe PZU /PI-IDCT/PI-IDA, la 
+prețuri negative, considerată livrare gratuită. 
+ 
+8.4.  Să emită și să transmită factura în sistemul național privind factura electronică RO e -factura, 
+pentru „Prestare de servicii”  pentru achiziția de energie electrică (în ore CET), din luna de livrare, 
+la prețuri negative de la OPCOM S.A. 
+ 
+8.5.  Să conteste printr-o notificare scrisă, transmisă la OPCOM S.A., o Notă de decontare zilnică / 
+Factură / Solicitare de compensare, un IDD / OP, emise / transmise de către OPCOM S.A., după 
+caz,  în situația în care consideră că oricare dintre acestea conține date incorecte.  O notificare 
+privind contestarea unei facturi  poate fi transmisă inclusiv în sistemul național privind factura 
+electronică RO e-factura, prin înscrierea unui mesaj în acest sens. 
+ 
+ 
+9. OBLIGATIILE PARTICIPANTULUI LA PZU/PI-IDCT/PI-IDA 
+ 
+9.1.    În situația în care dorește să transmită oferte de cumpărare cu prețuri pozitive și/sau de vânzare 
+cu prețuri negative, să încheie MDD cu Banca de decontare, care să asigure înregistrarea MDD 
+în RUM gestionat de TRANSFOND. 
+  
+9.2.    Să transmită la OPCOM S.A., pe email, MDD scanat.  
+ 
+9.3.  Să asigure disponibilităţile financiare necesare debitării contului său , deschis la Banca de 
+decontare, la valoarea netă a obligațiilor de plată prevăzu tă prin Notele de decontare zilnice 
+(conform prevederilor de la punctul 6.7.) și să documenteze, lunar, încasarea drepturilor și plata 
+obligațiilor de regularizare , în valoare egală, reciproce, prin accesarea mecanismelor de 
+compensare/regularizare conform prevederilor punctului 6.18.  
+ 
+
+=== PDF PAGE 24 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 24 / 30 
+Rev. 0 
+ 
+9.3. Să comunice OPCOM S.A. datele de identificare ale contului bancar deschis la o bancă comercială 
+din România care va fi creditat cu valoarea drepturilor nete de încasare proprie. 
+ 
+9.4. Să comunice în scris la OPCOM S.A. orice modificare a informaţiilor de identificare referitoare la 
+contul propriu, precum şi modificarea/revocarea MDD  cu cel puțin trei zile bancare lucrătoare 
+înainte de intrarea în vigoare a acestora. 
+ 
+9.5. În cazul în care a notificat o contestație, să furnizeze informaţiile suplimentare solicitate de către  
+OPCOM S.A. 
+ 
+9.6. Să finalizeze plățile de regularizare până la data scadentă din factură, respectiv data de 2 8 a 
+lunii calendaristice următoare lunii de livrare. 
+ 
+10. DREPTURILE OPCOM S.A. 
+ 
+10.1.  Să primească de la Participantul la PZU/PI-IDCT/PI-IDA, pe email, MDD scanat. 
+ 
+10.2.  Să primească de la Participantul la PZU/PI-IDCT/PI-IDA datele de identificare ale contului bancar 
+deschis la o bancă comercială din România, care va fi creditat cu valoarea drepturilor de încasare 
+ale acestuia. 
+ 
+10.3.  Să transmită în fiecare zi bancară lucrătoare, la Banca cont central, IDD corespunzătoare valorii 
+nete a obligaţiilor de plată zilnice ale Participantului la PZU/PI-IDCT/PI-IDA, înscrise în Nota de 
+decontare zilnică; 
+ 
+10.3. Să încaseze  contravaloarea drepturilor sale nete de încasare  (obligațiile nete de plată  ale 
+Participantului la PZU /PI-IDCT/PI-IDA prevăzute în Notele de decontare zilnice ), prin 
+transmiterea la Banca cont central a IDD  aferente  și să documenteze, lunar, încasarea 
+drepturilor și plata obligaţiilor, în valoare egală, reciproce, prin  accesarea mecanismel or de 
+compensare/ regularizare prevăzute la pct. 6.18. 
+ 
+10.4. Să execute scrisoarea de garanţie bancară de plată /garanția financiară sub forma unui depozit 
+în numerar remis în contul OPCOM S.A., în situaţia în care primeşte de la Banca cont central 
+rapoarte de refuzuri datorate lipsei de disponibilităţi din contul P articipantului la PZU/PI-
+IDCT/PI-IDA, în conformitate cu prevederile de la pct.6.12. și 6.13. 
+ 
+10.5. Să emită şi să transmită factura lunară în sistemul național privind factura electronică RO e -
+factura, pentru tranzacțiile de vânzare a energiei electrice înregistrate de fiecare Participant la 
+PZU/PI-IDCT/PI-IDA  din cursul lunii de livrare, pentru: 
+- cantitatea (în ore CET) şi valoarea energiei electrice vândută în cursul lunii de 
+livrare, către P articipantul la PZU /PI-IDCT/PI-IDA la preţuri pozitive  sau zero  
+(inclusiv contravaloarea aferentă TVA, dacă este aplicabil); 
+
+=== PDF PAGE 25 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 25 / 30 
+Rev. 0 
+ 
+- cantitatea de energie electrică (în ore CET) vândută Participantului la PZU /PI-
+IDCT/PI-IDA la prețuri negative în cursul lunii de livrare, considerată livrare gratuită. 
+ 
+10.6. Să emită şi să transmită factura în sistemul național privind factura electronică RO e -factura 
+pentru „Prestare de servicii” efectuată de OPCOM  S.A. pentru achiziția energiei electrice (în 
+ore CET) la prețuri negative , de la fiecare Participant la PZU /PI-IDCT/PI-IDA din cursul lunii 
+de livrare. 
+ 
+10.7. Să respingă contestația, în cazul în care se constată că aceasta este neîntemeiată sau în cazul 
+în care Participantul la PZU/PI-IDCT/PI-IDA nu furnizează informaţiile suplimentare solicitate 
+de către OPCOM S.A.  
+ 
+11. OBLIGAŢIILE OPCOM S.A. 
+ 
+11.1. Să pună la dispoziţia Participantului la PZU/PI-IDCT/PI-IDA care a introdus oferte de vânzare 
+și/sau cumpărare energie electrică pe PZU /PI-IDCT/PI-IDA, Notele de decontare zilnice 
+pentru tranzacţiile cu energie electrică realizate (în ore CET), inclusiv prin canale alternative 
+de comunicaţie (e-mail) în situația imposibilităţii Participantului la PZU/PI-IDCT/PI-IDA de a 
+accesa Sistemul de tranzacţionare. 
+ 
+11.2. Să achite, integral, contravaloarea drepturilor nete de încasare prevăzute în Notele de 
+decontare zilnice  (conform prevederilor punctului 6.7.), prin OP emise pentru creditarea 
+contului bancar deschis de căte Participantul la PZU /PI-IDCT/PI-IDA la o bancă comercială 
+din România, să documenteze lunar încasarea drepturilor și  plata obligaţiilor de regularizare, 
+în valoare egală, reciproce, prin accesarea mecanismelor de compensare/regularizare 
+prevăzute la pct. 6.18, conform opțiunilor fiecărui Participant la PZU/PI-IDCT/PI-IDA. 
+ 
+11.3.   Să verifice în extrasul de cont sumele creditate/debitate în /din contul central al PZU /PI-
+IDCT/PI-IDA și dacă constată erori, să notifice Participantul la PZU/PI-IDCT/PI-IDA respectiv 
+și să emită IDD/OP pentru diferența înregistrată. 
+ 
+11.4. Să completeze formularul „Solicitare de compensare”  și să-l transmită pe email  
+Participantului la PZU/PI-IDCT/PI-IDA, în vederea confirmării de către acesta a sumei supuse 
+operaţiunii de compensare. 
+ 
+11.5. Să refacă calculele şi să transmită un document / IDD / OP, după caz, corectat, în situația în 
+care ca urmare a primirii unei contestații de la un Participant la PZU /PI-IDCT/PI-IDA, 
+constată că o Notă de Decontare zilnică / Factură / Solicitare de compensare, un IDD / OP 
+conține date eronate, în termen de trei zile bancare de la data primirii contestației / 
+informațiilor suplimentare, după caz. 
+ 
+11.6. Să finalizeze plățile de regularizare până la data scadentă din factură, respectiv data de 28 
+a lunii calendaristice următoare lunii de livrare. 
+
+=== PDF PAGE 26 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 26 / 30 
+Rev. 0 
+ 
+ 
+ 
+ 
+  
+
+=== PDF PAGE 27 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 27 / 30 
+Rev. 0 
+ 
+Anexa 1 - MDD model unic pentru toate Băncile de decontare 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PDF PAGE 28 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 28 / 30 
+Rev. 0 
+ 
+Anexa 2 – Notă decontare PZU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPCOM S.A.
+Decontare zilnica
+Trading Organisation:
+denumire 
+participant 
+.....
+Data ......
+Moneda: RON
+Piata : PZU
+VANZARE
+Nume contract Moneda Tip Cantitate Pret Valoare 
+livrare
+Valoare 
+taxa
+Total 
+Valoare
+Interval 1 RON Vanzare
+Interval 2 RON Vanzare
+Interval ...
+Interval 96 RON Vanzare
+Total vanzare RON Vanzare
+CUMPARARE
+Nume contract Moneda Tip Cantitate Pret Valoare 
+livrare
+Valoare 
+taxa
+Total 
+Valoare
+Interval 1 RON Cumparare
+Interval 2 RON Cumparare
+Interval ...
+Interval 96 RON Cumparare
+Total cumparare RON Cumparare
+TOTAL NET Moneda Cantitate Valoare Taxa
+Total 
+valoare 
+drepturi de 
+incasare(+) 
+RON
+
+=== PDF PAGE 29 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 29 / 30 
+Rev. 0 
+ 
+ 
+Anexa 3 – Notă decontare PI-IDCT 
+ 
+ 
+ 
+ 
+  
+OPCOM S.A.
+Decontare zilnica
+Trading Organisation: …Participant... Data:…...
+Piata: 
+Moneda: EURO
+Nume contract Moneda Tip Cantitate Pret Cod tranzactie Valoare livrare Valoare taxa Total 
+EURO Vanzare
+EURO Vanzare
+EURO Vanzare
+EURO Vanzare
+EURO Vanzare
+EURO Vanzare
+EURO Vanzare
+EURO .........
+EURO .........
+EURO .........
+EURO .........
+EURO Cumparare
+EURO Cumparare
+EURO Cumparare
+EURO Cumparare
+EURO .........
+EURO .........
+EURO .........
+Sinteza Moneda Valoare Taxa Total
+Volum total cumparat 
+Volum total vandut 
+Volum net  
+Valoare totala cumpare EURO
+Valoare totala vanzare EURO
+Valoare neta  EURO
+
+
+=== PDF PAGE 30 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 30 / 30 
+Rev. 0 
+ 
+Anexa 4 – Notă decontare PI-IDA 
+ 
+ 
+OPCOM S.A.
+Decontare zilnica
+Trading Organisation: ...... Participant: ....... Data: .......
+Moneda: RON
+Piata: / Sesiunea: IDA1
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Total vanzare RON Vanzare
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Int... RON Cumparare
+Int... RON Cumparare
+Int... RON Cumparare
+Total cumparare RON Cumparare
+Piata: / Sesiunea: IDA2
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Total vanzare RON Vanzare
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Total cumparare RON Cumparare
+Piata: / Sesiunea: IDA3
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Total vanzare RON Vanzare
+Nume contract Moneda Tip Cantitate Pret Valoare livrare Valoare taxa Total Valoare
+Total cumparare RON Cumparare
+Piata: / Sesiunea: IDA1+IDA2+IDA3
+Total vanzare RON Vanzare
+Total cumparare RON Cumparare
+Moneda Cantitate Valoare Taxa
+Total valoare drepturi 
+de incasare (+)/obligatii 
+de plata (-)
+Total Net RON
+
+=== PDF PAGE 31 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 31 / 30 
+Rev. 0 
+ 
+ Anexa 5 – Centralizator tranzacții 
+ 
+ 
+ 
+ 
+
+
+=== PDF PAGE 32 ===
+ 
+ 
+ 
+ 
+PROCEDURĂ 
+PRIVIND ÎNCASĂRILE ŞI PLĂŢILE AFERENTE 
+TRANZACŢIILOR PE PIAŢA PENTRU ZIUA URMATOARE 
+ȘI PE PIAȚA INTRAZILNICĂ DE ENERGIE ELECTRICĂ  
+Cod: 
+Pagina 32 / 30 
+Rev. 0 
+ 
+Anexa 6 – Model solicitare de compensare 
+ 
+Societatea iniţiatoare, creditoare/debitoare:      
+Societatea Operatorul Pieței de Energie  
+Electrică și de Gaze Naturale OPCOM S.A 
+C.I.F. RO 13278352 
+Sediu: Bucuresti, bd. Hristo Botev, nr. 16-18 
+Cod IBAN:  
+Banca: BCR sector 3,  BUCURESTI 
+                           Nr. de înregistrare ..............data.............. 
+                           Către: .................................................... 
+                           Cod IBAN: .............................................. 
+ 
+SOLICITARE DE COMPENSARE 
+ 
+Nr................/ data........................ 
+ 
+Conform facturilor emise/primite şi a încasărilor/plăţilor efectiv înregistrate, aferente livrărilor de pe PZU/PI-IDCT/PI-IDA din luna..................., 
+va înştiinţăm că la data de................., societatea dvs. figurează cu următoarele creanţe/debite: 
+ 
+Plătitor:     Societatea Operatorul Pietei de Energie Electrica si de Gaze Naturale OPCOM S.A. 
+Beneficiar:  ............................................ 
+ 
+Tip factura Factura beneficiar Valoare - lei 
+Serie Număr Dată Facturata Platită de compensat 
+energie      
+ prestări 
+servicii 
+Participant 
+   
+ 
+ 
+ 
+Plătitor:     ..................................................... 
+Beneficiar: Societatea Operatorul Pietei de Energie Electrica si de Gaze Naturale OPCOM S.A. 
+ 
+ 
+Tip factura Factura beneficiar Valoare - lei 
+Serie Număr Dată Facturata Incasată de compensat 
+energie     
+  prestări 
+servicii 
+OPCOM 
+   
+ 
+ 
+                                                                                                                          
+In termen 5 zile de la primire urmează să ne restituiţi pe email acest extras confirmat pentru suma acceptată, iar în cazul constatării de diferenţe 
+să anexaţi nota explicativă cuprinzând obiecţiile dvs.  
+ 
+ 
+DIRECTOR DTDTS,                                                                                              DIRECTOR ECONOMIC, 
+ 
+ 
+ 
+ 
+Societatea debitoare/creditoare                                                                            Nr. de inregistrare ..........data............. 
+C.I.F:................................. 
+Sediu:..............................                                                                                  Către:............................ 
+Cod IBAN:...........................                                                                               Cod IBAN:...................... 
+Banca: ............................ 
+ 
+ 
+Confirmăm că suma de ....................................... lei va fi supusă operaţiunii de compensare pentru luna.............................. 
+ 
+Obiecţiile noastre privind sumele din prezentul extras de cont sunt cuprinse în nota explicativă anexată. 
+ 
+               
+                    Conducătorul societății,                                                                         Conducătorul compartimentului 
+                                                                                                    financiar – contabil 

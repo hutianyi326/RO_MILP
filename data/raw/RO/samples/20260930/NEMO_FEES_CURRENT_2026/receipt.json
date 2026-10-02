@@ -1,0 +1,17 @@
+{
+  "id": "NEMO_FEES_CURRENT_2026",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/uploads/doc/FPA/1Lg_eng_Procedure%20NEMO.pdf",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "current publicly hosted 2026 NEMO tariff procedure; historic monthly applicability not assumed",
+  "retrieved_utc": "2026-09-30T14:12:57.4019471Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/NEMO_FEES_CURRENT_2026/original.pdf",
+  "bytes": 190446,
+  "sha256": "4e26a8e8e2fdf0e8eb71a7ceef9bf5a928d474b5e54f1e5be0bd2cd5c33c4403"
+}

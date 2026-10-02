@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_22",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TG_1+ian+2025.pdf/067371c6-1c56-4f81-8ef8-772952d60e94",
+  "title": "Tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport (TG), aplicabil de la 1 ianuarie 2025",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:09.452981+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TG_1+ian+2025.pdf/067371c6-1c56-4f81-8ef8-772952d60e94",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_22__a1/original.pdf",
+  "sha256": "e7948bf72ccd71fdbac47ce24967cfe1f8aa23b8fc076dfaebdfa0a7624e4747",
+  "bytes": 198410,
+  "detected_format": "pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "OPCOM_PI_EVENTS",
+  "dataset": "D01-D03",
+  "url": "https://www.opcom.ro/anunturi-stiri-pi/ro/8",
+  "title": "OPCOM dated intraday operational notices",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:20:51.267157+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/anunturi-stiri-pi/ro/8",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_PI_EVENTS__a1/original.html",
+  "sha256": "9e784d9d4a7542d0cca9191e83cdac80651feded02bfd8d3d3166e49c36bfbeb",
+  "bytes": 86315,
+  "detected_format": "html"
+}

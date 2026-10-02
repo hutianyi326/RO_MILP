@@ -1,0 +1,17 @@
+{
+  "id": "FINAL_PRICE_META_PROBE",
+  "dataset": "D07",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=finalImbalancePrices",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "focused metadata probe matching visible page name",
+  "retrieved_utc": "2026-09-30T09:40:38.9486179Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/FINAL_PRICE_META_PROBE/original.json",
+  "bytes": 228,
+  "sha256": "a843e5d07c79fe530b834dbd95e77b65b0b05de1b9d64a86173183fe0a5cc19a"
+}

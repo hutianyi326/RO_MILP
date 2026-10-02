@@ -1,0 +1,241 @@
+{
+  "checked_utc": "2026-10-01T16:09:38.755585+00:00",
+  "acceptance_local_date": "2026-10-02",
+  "timezone": "Asia/Shanghai",
+  "status": "FAIL",
+  "passed": 30,
+  "failed": 1,
+  "checks": [
+    {
+      "check": "All 4766 independently reviewed frozen files unchanged",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Prior 1662 delivery files immutable except expressly authorized state",
+      "passed": true,
+      "detail": [
+        "project/country_status.yaml"
+      ]
+    },
+    {
+      "check": "Prior final manifest unchanged",
+      "passed": true,
+      "detail": "project/romania_full_period_20261001/final_delivery_manifest.json"
+    },
+    {
+      "check": "All four fixed baselines unchanged",
+      "passed": true,
+      "detail": [
+        "project/romania_research_plan_20260930.md",
+        "project/romania_data_acquisition_plan_20260930.md",
+        "project/romania_report_milp_outline_20260930.md",
+        "project/romania_research_work_breakdown_20260930.md"
+      ]
+    },
+    {
+      "check": "Previous sample delivery files unchanged",
+      "passed": true,
+      "detail": 66
+    },
+    {
+      "check": "All previous sample original bodies unchanged",
+      "passed": true,
+      "detail": 177
+    },
+    {
+      "check": "First-round preservation review_round1_manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "First-round preservation round1_submission_snapshot.zip",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "First-round FAIL opinion preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Round1 snapshot complete and matches frozen version",
+      "passed": true,
+      "detail": {
+        "entries": 104,
+        "uncompressed_bytes": 280360117,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "Second ZIP contains entire large IDCT CSV",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Round2 snapshot complete and matches frozen version",
+      "passed": true,
+      "detail": {
+        "entries": 110,
+        "uncompressed_bytes": 1289720128,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "State before acceptance matches reviewed state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Non-RO state bytes unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "RO semantic changes limited to supplemental acceptance fields",
+      "passed": true,
+      "detail": [
+        "last_updated",
+        "next_action",
+        "third_step_supplement_acceptance",
+        "third_step_supplement_acceptance_date",
+        "third_step_supplement_document",
+        "third_step_supplement_full_exit_conditions_met",
+        "third_step_supplement_record_approved",
+        "third_step_supplement_record_status",
+        "third_step_supplement_review",
+        "third_step_supplement_reviewed_by",
+        "third_step_supplement_source_access_date",
+        "third_step_supplement_validation"
+      ]
+    },
+    {
+      "check": "All remaining RO bytes unchanged after reversing authorized additions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "RO remains researching",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Only restricted supplemental record accepted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All eleven overall/data/asof/model/backtest gates remain false",
+      "passed": true,
+      "detail": {
+        "official_rules_full_exit_conditions_met": "false",
+        "historical_rule_coverage_approved": "false",
+        "data_sample_full_exit_conditions_met": "false",
+        "third_step_full_exit_conditions_met": "false",
+        "third_step_supplement_full_exit_conditions_met": "false",
+        "full_period_data_acquired": "false",
+        "asof_input_approved": "false",
+        "modeling_approved": "false",
+        "mathematical_design_approved": "false",
+        "implementation_approved": "false",
+        "historical_backtest_approved": "false"
+      }
+    },
+    {
+      "check": "Old U and DS question counts preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Actual local acceptance date recorded separately from source access",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "32 technical checks saved PASS",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Full raw-to-output technical verification still hash anchored",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Actual high reviewer and two verdicts retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reviewer readonly and depth one recorded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Round2 returned opinion identical in final copy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All supplemental overall gates stay false and eight groups PARTIAL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All local Markdown file links resolve",
+      "passed": false,
+      "detail": {
+        "targets": 11,
+        "missing": [
+          {
+            "document": "countries/RO/gap_closure_20261001/acceptance.md",
+            "target": "acceptance_checks.json"
+          }
+        ]
+      }
+    },
+    {
+      "check": "Overall exit remains explicit in acceptance.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Overall exit remains explicit in review_final.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Overall exit remains explicit in closure_ledger.md",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "reviewed_frozen_files": 4766,
+    "prior_files": 1662,
+    "baseline_files": 4,
+    "prior_sample_files": 66,
+    "prior_sample_raw_bodies": 177,
+    "local_markdown_targets": 11,
+    "whole_third_step_exit": false
+  },
+  "review_snapshots": [
+    {
+      "round": 1,
+      "file": "project/romania_gap_closure_20261001/round1_submission_snapshot.zip",
+      "bytes": 14773153,
+      "sha256": "52758f77438cd84228cd9e29a5cd3d86d1510fbaaf89bba27e6136127a151a76",
+      "entries": 104
+    },
+    {
+      "round": 2,
+      "file": "project/romania_gap_closure_20261001/round2_submission_snapshot.zip",
+      "bytes": 95627673,
+      "sha256": "e1a8eec4b2ebed83c8c8961e24ed41647dd897ea44eadedd2e8fa018fd7f003e",
+      "entries": 110
+    }
+  ],
+  "scope": "post-review integrity and restricted acceptance only, not full third-step exit",
+  "state_before_sha256": "4f14d552292effb787343b19848b1fa726f40ec11c786722e3f848d231284e2a",
+  "state_after_sha256": "f3320ca7deb67125f808724f349d05253065822d505ef562ff57ea4a144b2e39"
+}

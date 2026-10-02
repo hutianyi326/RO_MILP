@@ -1,0 +1,176 @@
+{
+  "round": 1,
+  "requested_model": "gpt-6-astra/high",
+  "files": [
+    {
+      "file": "countries/RO/data_samples_20260930/annual_structure_samples.csv",
+      "sha256": "cbba76e47f5df04825f875f581c0931a0569859d9564bed7a61ac72837f72861",
+      "bytes": 12312
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/capacity_samples.csv",
+      "sha256": "a418c9aa082344f077e4cda36c23a3a294089beaa9ceabe14ccc1e5d911fb240",
+      "bytes": 229835
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/contracted_power_sample_structure.json",
+      "sha256": "567301edb2b2584a8c5482268faee3a120de13b5d984c51996b83b34003a5c28",
+      "bytes": 1350885
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/coverage_matrix.csv",
+      "sha256": "c74eb1d598b86af180b295d946d69de4a6c2b6cddb1ae29a78e7282ea76b69c8",
+      "bytes": 111060
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/curve_point_examples.csv",
+      "sha256": "c9a180cfb6660a1b653a730e954def1a5fc225d51b7cf18279bd96b92316d9da",
+      "bytes": 4435
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/curve_structure_samples.csv",
+      "sha256": "979989b1659c62a0e2192ca9c97c8923c27636914b094009790ebedbd4e741cd",
+      "bytes": 1091
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/dataset_use_and_next_steps.md",
+      "sha256": "ebc84e25f7ddc52490ca824fb7f0c9fbeaa01fd4fdcb450a91c21ac5382eef23",
+      "bytes": 11209
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/data_dictionary.md",
+      "sha256": "e8f76d2c467ae92216bb919bb67bf6c37407828333f67ce605dff92b070144cb",
+      "bytes": 7524
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/da_day_checks.csv",
+      "sha256": "403d829d23c4aa856d82eeae83043be8fb26edd14f1cb1330decdbdb811fb049",
+      "bytes": 9787
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/da_native_samples.csv",
+      "sha256": "5b2a46e3b63ecd486f7119cf3794427a5a6935e754728203165bf7b45267603a",
+      "bytes": 2100711
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/fee_table_samples.csv",
+      "sha256": "2ddbc0f5117d64e5888e4bdd1cf27d1f7ff0a3346b80d8d6a96b6825608ea857",
+      "bytes": 555
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/fx_reference_samples.csv",
+      "sha256": "5090d41dda8c38318483b57563e7e0083b01c64dae629076e9815ba138cdbccf",
+      "bytes": 12374
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/ida_field_samples.csv",
+      "sha256": "e27d59278d676eda6f7af027c4cc525f931a5d5886fa4f9e3d60924596a788cc",
+      "bytes": 157997
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/idct_trade_samples.csv",
+      "sha256": "205a3d8397910f1b7c27f376ed9f0c107644373ef90ea55aa31e27a655d1a611",
+      "bytes": 28841
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/monthly_reconciliation.csv",
+      "sha256": "617c53897fabe19d611776b47983cb88631e2518de2034736877f74b92ac7e4e",
+      "bytes": 1494
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/observed_events.csv",
+      "sha256": "ea9b0acc5efacc720d3e149846ebf9ade91ac5b3cfaf5c5bcdb5372171e0dc18",
+      "bytes": 120481
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/raw_manifest.json",
+      "sha256": "138ad0c9a1d59d21950344537972c362b7bce72594fd353f46396bf6a01d211b",
+      "bytes": 255589
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/sample_examples.md",
+      "sha256": "a757a29bd7c19ce97a5a8c74b56fd3d5d58060735bb640cc68b094427e363ddf",
+      "bytes": 3553
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/source_anomalies.csv",
+      "sha256": "fbd0786308f0982767e8ed70d97cb20c944a93109cbcc503f37da120e7a4967d",
+      "bytes": 2763
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/source_catalog.csv",
+      "sha256": "8e67ae9da61f8ba0e24cf9df61b62596f507a641003ad2492dc5ba64ee5fe455",
+      "bytes": 138389
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/system_series_samples.csv",
+      "sha256": "bd60e9165d729c35ea71e906b19689880ff5034252852f6dc9906ade940925ca",
+      "bytes": 17980630
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/tender_event_samples.csv",
+      "sha256": "038af11daba296c4a9f9df8deea8fc6b877d1045c721ba3b958ee0c22dc02348",
+      "bytes": 11152
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/ui_observations.md",
+      "sha256": "76e135529b6de6ae0ea156d8207fd112f1aab52c081558d16cb08f903b4a763f",
+      "bytes": 3392
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/utc_alignment_checks.csv",
+      "sha256": "b66a0c6a9eecadfe666af907e30193eabaf1c61b0c4316e9ffb2e503e7aec546",
+      "bytes": 1249
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/validation_report.md",
+      "sha256": "9c08fb82ce171658af894d37c23b42c301480a889424dffcdcbcb3318ea5099b",
+      "bytes": 14744
+    },
+    {
+      "file": "countries/RO/data_samples_20260930/version_timeline.md",
+      "sha256": "c5e9ef23d306e1979268114785ae12e28467eb0d4b67acaf86586b8802611639",
+      "bytes": 2984
+    },
+    {
+      "file": "project/romania_data_samples_20260930/analyze_samples.py",
+      "sha256": "b98d70a4db0948b2f0e2d3e1bb948cfd4a793957424246582d45e749f2823ec7",
+      "bytes": 27460
+    },
+    {
+      "file": "project/romania_data_samples_20260930/build_delivery.py",
+      "sha256": "faede7ec0ff9673bd9441f44c9bba57adf3cede7c053e43ca0ca7cad10df1dec",
+      "bytes": 7790
+    },
+    {
+      "file": "project/romania_data_samples_20260930/authorization.md",
+      "sha256": "8a6b9f5d228cab26e33b695bbd0fc3acb69a3b8c1da556cece7bc2f7d42ba9c8",
+      "bytes": 1404
+    },
+    {
+      "file": "project/romania_data_samples_20260930/verification.json",
+      "sha256": "a1953feef3cc1a927fa967664d83b1004a2058031190f32b2366d99e1cf4a2b0",
+      "bytes": 915910
+    },
+    {
+      "file": "project/romania_data_samples_20260930/series_checks.json",
+      "sha256": "25016a08dd61b742a909be05890e50eb70b2dab0f8445dbbf8380bc0769a363f",
+      "bytes": 24787
+    },
+    {
+      "file": "project/romania_data_samples_20260930/baseline_integrity.json",
+      "sha256": "6ef3b2cc796b618ff9efb4ac252f15c935ada96f3136521e8aa27000f3b6ccb6",
+      "bytes": 1107
+    },
+    {
+      "file": "project/romania_data_samples_20260930/review_request.md",
+      "sha256": "cfee2991c769dba2d994c90cde54145c69799fab1eeff70fd785a28bd6ac86cd",
+      "bytes": 2643
+    },
+    {
+      "file": "project/country_status.yaml",
+      "sha256": "57d8273bad4934699c5329fc58dcb3fdcc63a1358d98b78d1b92ec5e6ab2b8c4",
+      "bytes": 15242
+    }
+  ]
+}

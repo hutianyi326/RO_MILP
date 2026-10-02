@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_19",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/19568364/Ordin+ANRE+nr.60_2025+-+tarif+achizitie+servicii+de+sistem+1+septembrie+2025.pdf/fc9791e2-31e7-4cb4-b58b-9f8e01b481e4",
+  "title": "Ordinul pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.09.2025) - Ordinul ANRE nr. 60_2025",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:05.194689+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/19568364/Ordin+ANRE+nr.60_2025+-+tarif+achizitie+servicii+de+sistem+1+septembrie+2025.pdf/fc9791e2-31e7-4cb4-b58b-9f8e01b481e4",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_19__a1/original.pdf",
+  "sha256": "5d14a58f7f294f1eb78e698fcbc7bdbc3bb3ebb56ad64a2b2bba36e1ee4cfb51",
+  "bytes": 90500,
+  "detected_format": "pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "STS_DOC_7",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/38620/DECIZIA+ANRE+2716.24.12.17/b03c7985-23cc-48a1-b9e1-b1fe1a58079f?version=1.0",
+  "title": "Decizia ANRE nr.2716/17.12.2024",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:41.694296+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/38620/DECIZIA+ANRE+2716.24.12.17/b03c7985-23cc-48a1-b9e1-b1fe1a58079f?version=1.0",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_DOC_7__a1/original.pdf",
+  "sha256": "cd3fb0fd799d217b0384fa904388d16df3cf27c8bdb2860c10f81ac69e7dfaa9",
+  "bytes": 312630,
+  "detected_format": "pdf"
+}

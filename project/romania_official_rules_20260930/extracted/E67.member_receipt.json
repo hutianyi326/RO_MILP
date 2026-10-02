@@ -1,0 +1,15 @@
+{
+  "evidence_id": "E67",
+  "raw_content_type": "RAR archive; original.html extension incorrect but immutable bytes retained",
+  "original_sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+  "selected_member": "PO CAPACITATE ECHILIBRARE 2024 ED1 REV 2 .pdf",
+  "derived_path": "project\\romania_official_rules_20260930\\extracted\\E67\\PO CAPACITATE ECHILIBRARE 2024 ED1 REV 2 .pdf",
+  "member_sha256": "dbf707f875aacccb6725fa32150cb246e5fd9d4113efe9314097820144795df3",
+  "characters": 40051,
+  "archive_members": [
+    "PO CAPACITATE ECHILIBRARE 2024 ED1 REV 2 .pdf",
+    "Anexa 1 REZERVE CAPACITATE.docx",
+    "Anexa 2 REZERVE CAPACITATE.docx",
+    "Anexa 3  REZERVE CAPACITATE.docx"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "IDCT_2025-02-27",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "02/27/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2025-02-27",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:12:09.032181+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_2025-02-11__a2/form_original.html",
+  "form_sha256": "939eecf01af056c00ca0fde9f6fe86d0276928b0bd63b1eb08c325fc5b6289cd",
+  "anonymous_session_reused": true,
+  "error": "URLError: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>"
+}

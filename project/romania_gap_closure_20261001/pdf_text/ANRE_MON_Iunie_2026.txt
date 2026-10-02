@@ -1,0 +1,3029 @@
+PDF PAGE 1
+                                                                                                                                                                                                                                                                                                                                         
+        
+Str. Constantin Nacu, nr. 3, Sector 2, Bucureşti, Cod poştal: 020995 
+Tel: (021) 327 8100. Fax: (021) 312 4365. E-mail: anre@anre.ro. Web: www.anre.ro 
+ANRE în calitate de operator de date cu caracter personal, respectă prevederile Regulamentului UE nr.679/2016 și 
+reglementările interne în vigoare în materia protecției datelor cu caracter personal 
+ 
+ 
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI 
+                                        DIRECȚIA MONITORIZARE PIAȚĂ ȘI INVESTIGAȚII 
+  
+ȘI MONITORIZARE  
+ 
+ 
+ 
+ 
+……….. 
+ 
+ 
+și 
+ 
+ 
+                                                                                                                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAPORT PRIVIND REZULTATELE MONITORIZĂRII  
+PIEŢEI DE ENERGIE ELECTRICĂ  
+ÎN LUNA IUNIE 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANRE depune toate eforturile pentru a prezenta în mod cât mai clar, în acest document, informaţii bazate pe raportările opera torilor economici. 
+Acest document publicat de ANRE are numai scop informativ şi educaţional; ANRE  nu este şi nu va fi legal responsabilă, în nicio circumstanţă, 
+pentru eventualele inadvertenţe cu privire la informaţiile prezentate şi nici pentru folosirea improprie a acestora de către utilizatori. 
+PDF PAGE 2
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUPRINS 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE ELECTRICĂ DIN 
+ROMÂNIA .................................................................................................................................... 3 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ ................................................................ 4 
+1. Participanţii la piaţa angro de energie electrică ........................................................................................... 5 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de producătorii 
+monitorizați............................................................................................................................................................. 6 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică .......................................................................... 9 
+4. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale  ......................... 27 
+5. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică ................................................................ 29 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ ............................................ 33 
+1. Participanții la piața cu amănuntul de energie electrică............................................................................ 34 
+2. Numărul de clienți finali ............................................................................................................................. 35 
+3. Consumul de energie electrică al clienților finali ....................................................................................... 36 
+4. Prețuri medii de furnizare la clienții finali ................................................................................................. 39 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică ...................................................... 41 
+ 
+ 
+ 
+  
+ 
+PDF PAGE 3
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 3 
+ 
+ 
+I. MONITORIZAREA FUNCȚIONĂRII PIEȚEI DE ENERGIE  ELECTRICĂ DIN 
+ROMÂNIA 
+Piața de energie electrică funcționează conform regulilor instituite prin legislația primară, 
+în principal Legea energiei electrice şi a gazelor naturale nr. 123/2012 , cu modificările și 
+completările ulterioare ( Legea), prin regulamentele europene  ca acte de directă aplicabilitate  și 
+prin cadrul de reglementare elaborat de ANRE. 
+ANRE monitorizează funcţionarea pieţei angro și a pieței cu  amănuntul de energie 
+electrică în vederea evaluării nivelului de eficienţă, transparenţă şi concurenţă, în temeiul OUG 
+nr. 33/2007 privind organizarea și funcționarea ANRE, aprobată cu modificări și completări prin 
+Legea nr. 160/2012 , cu modificările şi completările ulterioare. Monitorizarea  pieței de energie 
+electrică se realizează pe bază de reglementări proprii, respectiv M etodologia de monitorizare a 
+pieţei angro de energie electrică (Metodologia PAN), aprobată prin Ordinul preşedintelui ANRE 
+nr. 18/2023 , și Metodologia de monitorizare a pieţei cu amănuntul de energie electrică  
+(Metodologia PAM), aprobată prin Ordinul preşedintelui ANRE nr. 17/2023. Participanţii la piaţa 
+de energie electrică raportează lunar către ANRE date de tranzacționare specifice pieței angro de 
+energie electrică și, după caz, date tehnice și informații specifice pieței cu amănuntul de energie 
+electrică, potrivit prevederilor din cele două metodologii de monitorizare.  
+Din perspectiva activității desfășurate pe fiecare din componentele pieței de energie 
+electrică, categoriile de participanți cu obligații de raportare sunt producătorii din surse clasice și 
+regenerabile monitorizați în temeiul Metodologiei PAN în vigoare, entitățile agregate și 
+agregatorii pentru producere și/sau pentru consum comandabil, operatorii instalațiilor de stocare, 
+furnizorii și traderii de energie electrică, părțile responsabile cu echilibrarea, operatorul de 
+transport și sistem și operatorii de distribuție concesionari (pentru energia electrică necesară 
+acoperirii consumului propriu tehnologic în rețelele de transport și de distribuție). Datele lunare 
+raportate de participanți sunt corelate cu datele și informațiile de tranzacționare transmise de 
+operatorii pieței de energie electrică, operatorul de transport și sistem și operat orii de distribuție 
+concesionari. 
+Raportul lunar de monitorizare a pieței de energie electrică prezintă, în sinteză , 
+rezultatele activității de monitorizare la nivelul lunii analizate, dar și comparativ cu alte perioade, 
+prin intermediul unor indicatori agregați ce caracterizează componentele pieței angro și a pieței 
+cu amănuntul de energie electrică din punct de vedere al structurii și funcționării acestora.  
+  
+PDF PAGE 4
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 4 
+ 
+ 
+II. PIAŢA ANGRO DE ENERGIE ELECTRICĂ 
+În conformitate cu prevederile legale, pe piața angro de energie electrică se derulează 
+tranzacții cu energie electrică în urma desfășurării de licitații pe piețele organizate aflate în 
+administrarea operatorilor pieței de energie electrică, tranzacții cu energie electrică pe bază de 
+contracte bilaterale negociate direct și tranzacții de import și de export al energiei electrice. 
+Dimensiunea pieţei angro de energie electrică este dată de totalitatea tranzacţiilor realizate 
+de participanţii la piață, în care sunt incluse și revânzările realizate în scopul ajustării poziţiei 
+contractuale sau obţinerii de beneficii financiare, depăşin d în acest fel cantitatea de energie 
+electrică transmisă fizic de la producere la consum.  
+În prezent, titulari ai unei licențe pentru activitatea operatorului pieței de energie electrică 
+în conformitate cu prevederile Legii sunt:  
+❖ din decembrie 2001, societatea Operatorul Pieței de Energie Electrică și de Gaze 
+Naturale “OPCOM” SA (denumită în continuare OPCOM) și  
+❖ din martie 2022, societatea Bursa Română de Mărfuri (Romanian Commodities 
+Exchange) SA (denumită în continuare BRM). 
+Piețele organizate aflate în administrarea OPCOM sunt piețele centralizate de contracte la 
+termen: modalitatea de tranzacționare prin licitație extinsă şi utilizarea produselor care să asigure 
+flexibilitatea tranzacţionării (PCCB -LE-flex), modalitatea de t ranzacționare a contractelor prin 
+negociere continuă (PCCB -NC), cadrul organizat de tranzacţionare pe piața centralizată cu 
+negociere dublă continuă (PC -OTC), modalitatea de încheiere a contractelor de procesare a 
+combustibilului (PCCB-PC), piaţa de energi e electrică pentru clienţii finali mari (PMC), piaţa 
+centralizată pentru serviciul universal (PCSU), piaţa centralizată pentru energie electrică din surse 
+regenerabile susţinută prin certificate verzi (PCE -ESRE-CV), piața centralizată destinată 
+atribuirii contractelor de energie electrică pentru perioade lungi de livrare (PCTL).  
+De asemenea, OPCOM are calitatea de operator al pieței de energie electrică desemnat 
+(OPEED) pentru Piaţa pentru ziua următoare (PZU), care din iunie 2021 funcționează în 
+mecanism cuplat în proiectul european SDAC și din iunie 2022 prin cuplare pe bază de fluxuri 
+precum și pentru Piaţa intrazilnică (PI), care din noiembrie 2019 funcționează în regim cuplat cu 
+piețele din celelalte țări participante în proiectul european SIDC. Începând cu data de 13 iunie 
+2024, în conformitate cu Decizia ACER 01-2019 privind stabilirea unei metodologii de prețuri a 
+capacității intrazilnice transfrontaliere, OPCOM a lansat tranzacționarea prin licitație pe PI (IDA). 
+BRM organizează și administrează următoarele piețe centralizate de contracte la termen: 
+Piața Marilor Consumatori (PMC), Piața Contractelor la termen de energie electrică  (PCT) și 
+Piața de energie electrică OTC. 
+Prin decizia ANRE nr. 1739 din 04.07.2023, BRM a primit calitatea de operator al pieței 
+de energie electrică desemnat (OPEED) pentru o peri oadă de 4 ani pentru Piața cuplată pentru 
+ziua următoare (PZU), care a devenit operațională începând cu 19 noiembrie 2024, și pentru Piața 
+cuplată intrazilnică (PI), operațională din data de 22 mai 2024 și din data de 05 august 2025 pentru 
+mecanismul de tranzacționare prin licitație (IDA). 
+ 
+PDF PAGE 5
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 5 
+ 
+1. Participanţii la piaţa angro de energie electrică 
+În tabelul următor sunt prezentați p articipanţii la piaţa angro de energie electrică activi* 
+în luna iunie 2026 alături de operatorii pieței de energie electrică: 
+ 
+1 A6 Impex SA 99 EP Green Furnizare SRL 197 ORI Exp SRL
+2 Adrem Asset Management SRL 100 EPP Power Trading SRL 198 Petrotel-Lukoil SA
+3 Aenro Energy Holding SRL 101 Espe Energia SRL 199 Photovoltaic Green Project SRL
+4 Ahura Energy SRL 102 Eviva Nalbant SRL 200 Plenerg SRL
+5 Alegfurnizorul Consulting SRL 103 Evolve Energy Management Solutions SRL 201 Plose SRL
+6 Alive Capital SA 104 Eye Mall SRL 202 Power Peak Trading SRL
+7 Alive Sun Power One SRL 105 Fenova AB 203 Power Regenerabil Energy SRL
+8 Alizeu Eolian SA 106 Fin Energy SRL 204 Powerhouse Trading SRL
+9 Alpha Project Tehnology SA 107 Fort Green Energy SRL 205 PPC Energie SA
+10 Alro SA 108 Freepoint Commodities Europe 206 PPC Renewables Romania SRL
+11 AMV Solar SRL 109 Fundpole Capital SRL 207 PPC Trading SRL
+12 Anchor Grup SA 110 Future PV SRL 208 Premier Energy Furnizare SA
+13 AOT Energy SRL 111 Galicsud SRL 209 Premier Wind 18 SRL
+14 Auchan Renewable Energy SRL 112 Gamma Solar Project SRL 210 Premier Wind  80 SRL
+15 Autoro SRL 113 Gan Energy SRL 211 Pure Solar Power SRL
+16 Axpo Energy Romania SRL 114 General Energetic SA 212 PV Energy SRL
+17 Azomures SA 115 Gen-I Bucharest - Electricity Trading And Sale SRL 213 RAAL SA
+18 Baba Ana Solar Green Energy SRL 116 Ges Furnizare SRL 214 Rătești Solar Plant SRL
+19 Bepco SRL 117 Getica 95 COM SRL 215 Renewa Power SRL
+20 Best Energy SRL 118 Glodeni Energy SRL 216 Renovatio Trading SRL
+21 Bioenergy Suceava SRL 119 Glodeni Solar SRL 217 Repsan Energy SRL
+22 Blue Line Energy SRL 120 Glyptodon SRL 218 Respect Energy România SRL
+23 Blue Planet Investments SRL 121 GPSB Solaris 48 SRL 219 Rețele Electrice România SA
+24 Blue Sand Investment SRL 122 Green Energy Vision SRL 220 Rodina Energy Distribution SRL
+25 Borzești Power SRL 123 Green Vision Seven SRL 221 Romelectro Bucuresti SA
+26 Braila Winds SRL 124 Grenerg SRL 222 Romenergetica SRL
+27 Caracal Solar Alpha SRL 125 Ground Investment Corp SRL 223 Romenergy Trading SRL
+28 Casa Crang SRL 126 Grup Blauer Bucureti SRL 224 Romkumulo SRL
+29 Casori SRL 127 Harghita Energy Broker SRL 225 Rompetrol Energy SA
+30 Catalan Electric SRL 128 Heliolux SRL 226 Romuk Energy SRL
+31 CET Govora SA 129 Helpvolt Instal SRL 227 Rulmenti SA
+32 Chimcomplex Borzești SA 130 Hermes Energy International SRL 228 Second Foundation A.S.
+33 CIC Green Energy Beta SRL 131 Holding Slovenske Elektrarne d.o.o. 229 SERG Company SRL
+34 Clue Solar SRL 132 Horia Solar Invest One SRL 230 Shikun and Binui Energy Satu Mare SRL
+35 Cluster Energy SRL 133 HS Timber Productions Reci SRL 231 SIX Wings SRL
+36 Comcris Energy SRL 134 HS Timber Productions SRL 232 Skybase Energy SRL
+37 CNTEE Transelectrica SA 135 ICCO Energ SRL 233 Smart Power Generation Alfa SRL
+38 Compania Locala de Termoficare COLTERM SA 136 ICD Octagon  Development SRL 234 SN Nuclearelectrica SA
+39 Complexul Energetic Oltenia SA 137 ICPE Electrocond Technologies SA 235 SNGN Romgaz SA
+40 Conti Green Projects SRL 138 Ingka Investiments Renewable Energy Romania SRL 236 Societatea Complexul Energetic Valea Jiului SA
+41 Contour Global Solutions SRL 139 International Solar Energy SRL 237 Societatea de Administrare a Participațiilor în Energie SA
+42 Cooperativadeenergie Furnizare SRL 140 ISPH SA 238 Societatea Electrocentrale Craiova SA
+43 Corni Eolian SRL 141 JRD Solar SRL 239 Societatea Energetica Electrica SA
+44 Cotroceni Park SA 142 Kelag Internațional Ljubljana d.o.o. 240 Softenerg SRL
+45 Crest Energy SRL 143 Kelavent Charlie SRL 241 Solar Electric Frasinet SRL
+46 D.Trading D.O.O. 144 Kelavent Echo SRL 242 Solar Future Energy SRL
+47 Dacia Energy Solutions SRL 145 Kentax Energy SRL 243 Solar Revolution SRL
+48 Danske Commodities A/S 146 Ker Toki Power AD 244 Solar System Project SRL
+49 Delgaz Grid SA 147 Ker Toki Power RO SRL 245 Solaria Green Energy SRL
+50 DIGI Romania SA 148 Kompact Grid SRL- Agregator 246 Solprim SRL
+51 Distribuție Energie Electrică România SA 149 Krom Capital SA 247 Spectrade SRL
+52 Distribuție Energie Oltenia SA 150 Kronospan Timber Sebeș SRL 248 Spectrum Tech SRL
+53 E.ON Energie Romania SA 151 Land Power SRL 249 SPEEH Hidroelectrica SA
+54 East Energy Light SRL 152 LDA Furnizare SRL 250 Standard Grup 4 Term SRL
+55 East Wind Farm SRL 153 Lemar Grup SRL 251 Stock Energy SRL
+56 Eco Power Wind SRL 154 Liberty Galați SA 252 Sun Energy Complet SA
+57 Eco Voltaic SRL 155 LJG Green Source Energy Alpha SA 253 Sustainable Energy Supply North SRL
+58 Ecoenergia SRL 156 LJG Green Source Energy Beta SRL 254 Teiuș Solar SRL
+59 Ecosfer Energy SRL 157 LJG Green Source Energy Gamma SRL 255 Termo Ploiesti SRL
+60 EDPR România SRL 158 Local Gaz SA 256 Termoficare Oradea SA
+61 EE Project CO2 SRL 159 Luxten Lighting Company SA 257 Terravis Studio SRL
+62 EFT Power SRL 160 M.H.P.P. Energy Somes SRL 258 Thermoenergy Group SA
+63 EGGER Romania SRL 161 Mar-Tin Solar Energy SRL 259 Three Pharm SRL
+64 E-Infra SA 162 Mazarine Energy Romania SRL 260 Tinmar Energy SA
+65 Ela Energy PH SRL 163 Megalodon Storage SRL 261 Tinmar Green Energy SRL
+66 Elcata MHC SRL 164 MET Austria Energy Trade GmbH 262 True Enery Management SRL
+67 Electric Planners SRL 165 MET Romania Energy SA 263 Uzinsider General Contractor SA
+68 Electrica Furnizare SA 166 Metlen Energy & Metals Single Member SA 264 Varokub Energy Development SRL
+69 Electricom SA 167 MHC Water Power SA 265 Vatech Consulting SRL
+70 Electrificare CFR SA 168 Mira Green Planet SRL 266 Veolia România Soluții Integrate SA 
+71 Electro Energy Sud SRL 169 Mireasa Energies SRL 267 Verbund Energy4Business Gmbh
+72 Electrocarbon SA 170 Modern Calor SA 268 Verbund Wind Power Romania SRL
+73 Electrocentrale Bucureşti SA 171 Moldova Eolian SRL 269 Veroniki Wind SRL
+74 Electrogrup SA 172 Monsson SRL 270 Vertical Energy Volt SRL 
+75 Elektra Green Power SRL 173 Monsson Trading SRL 271 Vest Energo SA
+76 Elektra Wind Power SRL 174 Montana Solar Energy SRL 272 Vienna Energy Forta Naturala SRL
+77 Elsid SA 175 MPS Energy SRL 273 Vimetco Management Romania SRL
+78 EM Power SRL 176 Municipiul Iași SA 274 VIS Solaris 2011 SRL
+79 Encon Prime SRL 177 MVM Future Energy Technology SRL 275 Vitol Gas and Power B.V.
+80 Energia Verde Ventuno SRL 178 MVM ONEnergy Zartkoruen Mukodo Reszvenytarsasag 276 VM-Trade Energy SRL
+81 Energocom SA 179 Necaluxan Solthree SRL 277 Volt Energy Development SRL
+82 Energovia EOOD 180 Neptun SA 278 Vrancart SA
+83 Energy Capital Group SRL 181 New Energy Management SRL 279 Vrish Pro Investments SRL
+84 Energy Core Development SRL 182 Next Energy Distribution SRL 280 Warehouses De Pauw Romania SRL
+85 Energy Distribution Services SRL 183 Next Energy Parteners SRL 281 We Power Team SRL
+86 Energy Gate SRL 184 Nexte Asset Management SRL 282 WEP Technology Investment SRL
+87 Energy Innovative Solutions SRL 185 Nexte Renewable SRL 283 Werk Energy SRL
+88 Energy Partners Alpha Solar SRL 186 Nicolae Balcescu Regenerabile SRL 284 Wind Energy Service East Europe SRL
+89 Energy Tech Entera SRL 187 Nova H SRL 285 Wind Park Invest SRL
+90 Enery Optimizarea Portofoliului SRL 188 Nova Power&Gas SRL 286 Windfarm MV I SRL
+91 Enevo Power SRL 189 Nova PS 110 SRL 287 Xalandine Energy SRL
+92 Enex Nalbant Renewable SRL  190 NOVA PS 170 SRL 288 XPV SRL
+93 Engie România SA 191 NOVA PS 90 SRL 289 Yar Power SRL
+94 Entel SA 192 NRX Wind SRL OPERATORI PIAȚA ENERGIE ELECTRICĂ
+95 Entrex Services SRL 193 OLT Piess SRL 1 BRM SA
+96 Eol Energy SRL 194 OMV Petrom SA 2 OPCOM SA
+97 Eolian Project SRL 195 Optimax Energy GMBH
+98 EP Furnizare SRL 196 Optimize Power SRL
+A PARTICIPANTI ACTIVI 
+PE PIATA ANGRO DE ENERGIE ELECTRICA
+PDF PAGE 6
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 6 
+ 
+*Participanții activi sunt participanți la piață, în sensul art. 7 din Metodologia de monitorizare a pieței 
+angro de energie electrică , aprobată prin Ordinul președintelui ANRE nr. 18/2023 , care în luna de 
+raportare au desfășurat activitate pe piața angro de energie electrică. 
+Precizăm că în categoria producătorilor de energie electrică monitorizați în baza 
+Metodologiei PAN sunt cuprinși titulari de licență pentru exploatarea capacităților de producere 
+a energiei electrice, cu sau fără instalații de stocare, cărora OTS le aplică tariful pentru serviciul 
+de transport – componenta de introducere în rețea (TG) și anume care deț in capacități de 
+producere cu putere instalată mai mare de 5 MW, chiar dacă aceștia dețin și licență pentru 
+activitatea de furnizare a energiei electrice. 
+Lista actualizată a părţilor resposabile cu echilibrare a (PRE) este publicată pe site -ul 
+operatorului pieţei de echilibrare (CNTEE Transelectrica S.A.). 
+ 
+2. Structura pe tipuri de surse primare a energiei electrice produse și livrate în rețele de 
+producătorii monitorizați  
+ 
+Prezentăm în continuare structura pe tipuri de surse primare a energiei electrice produse 
+și livrate în reţele de producătorii monitorizați pentru luna iunie 2026 și evoluția structurii lunare 
+în ultimii 5 ani. 
+Sursa:Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+ 
+ 
+ 
+hidro
+34.28%
+gaz
+16.04% nuclear
+14.32% solar
+12.84%
+cărbune
+12.58%
+eolian
+7.70%
+stocare
+1.21%
+biomasă
+0.96% deșeuri
+0.04%
+păcura
+0.02%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Structura pe tipuri de surse a energiei electrice livrate în rețele 
+de producătorii monitorizați
+- Iunie 2026 -
+PDF PAGE 7
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 7 
+ 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+În graficul următor este prezentată în evoluție lunară energia electrică produsă din surse 
+regenerabile și livrată în rețea de producătorii monitorizați și cota de piață a acesteia  din totalul 
+energiei electrice livrate.  
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați PAN – prelucrare SMP 
+0.00
+1000.00
+2000.00
+3000.00
+4000.00
+5000.00
+6000.00
+Evoluția structurii energiei electrice livrate în rețele de producătorii monitorizați 
+pe tipuri de surse primare 
+cărbune păcura gaz nuclear hidro eolian solar biomasă deșeuri stocare
+GWh
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+0
+500
+1000
+1500
+2000
+2500
+3000
+Evoluția structurii energiei electrice din surse regenerabile livrate în rețele 
+de producătorii monitorizați 
+hidro eolian solar biomasă % SRE
+%GWh
+PDF PAGE 8
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 8 
+ 
+Unul din factorii de influență ai producţiei de energie electrică în centralele hidroelectrice, 
+alături de debitul Dunării, îl reprezintă rezerva de energie din marile amenajări hidroenergetice 
+ale României. Evoluţia nivelului zilnic al acesteia în anul 2026, comparativ cu valorile zilnice din 
+ultimii 4 ani şi cu minima, maxima şi mediana aferente fiecărei zile din perioada 2000-2021, sunt 
+prezentate în graficul următor:  
+ 
+Sursa: Raportările lunare ale SPEEH Hidroelectrica S.A.  –  prelucrare SMP 
+ 
+Prezentăm câțiva indicatori de sinteză ce caracterizează bilanţul fizic al energiei electrice 
+pentru luna iunie 2026 comparativ cu luna anterioară. 
+             - GWh - 
+Nr. 
+crt. 
+ 
+INDICATOR 
+ 
+Mai 
+2026 
+Iunie 
+ 2026 
+1 Energia electrică produsă (Pi > 5MW)1 3329,01 3264,70 
+2 Energia electrică livrată în rețea (Pi > 5MW)1 3192,16 3102,20 
+3 Schimburi comerciale pe direcția import (inclusiv tranzite)2 1592,72 1580,57 
+4 Schimburi comerciale pe direcția export (inclusiv tranzite)2 1324,60 1217,03 
+5 Consum intern realizat SEN3 3786,98 3851,64 
+6 Consumul clienţilor casnici4: 1047,50 1057,76 
+6.1 - în regim concurențial  826,22 842,59 
+6.2 - în regim de SU  222,82 214,33 
+6.3 - în regim de UI 0,79 0,84 
+7 Consumul clienților finali noncasnici4: 2749,43 2765,69 
+7.1 - în regim concurențial  2731,72 2747,95 
+7.2 - în regim de UI 17,71 17,74 
+8 CPT transport5 70,73 67,52 
+9 CPT distribuție5 279,20 256,36 
+ 
+ 
+ 
+2026
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+1.01
+13.01
+25.01
+6.02
+18.02
+1.03
+13.03
+25.03
+6.04
+18.04
+30.04
+12.05
+24.05
+5.06
+17.06
+29.06
+11.07
+23.07
+4.08
+16.08
+28.08
+9.09
+21.09
+3.10
+15.10
+27.10
+8.11
+20.11
+2.12
+14.12
+26.12
+GWh
+Evoluţia comparativă pe durata unui an a rezervei zilnice de energie
+în principalele lacuri de acumulare
+Rez min 2000-2021 Rez mediana 2000-2021 Rez max 2000-2021 Rezerva energie 2022
+Rezerva energie 2023 Rezerva energie 2024 Rezerva energie 2025 Rezerva energie 2026
+2023
+2025
+2022
+2024
+PDF PAGE 9
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 9 
+ 
+Note: 
+1. Indicatorii Energia electrică produsă (Pi > 5MW) şi Energia electrică livrată (Pi > 5MW) se referă 
+la energia electrică livrată în SEN de toți producătorii care dețin cel puțin o centrală de producere 
+cu capacitate instalată mai mare de 5 MW, racordată la reţelele electrice de transport şi distribuţie 
+(în conformitate cu Metodologia PAN aprobată prin Ordinul ANRE nr. 18/2023); 
+2. Indicatorii Schimburi comerciale pe direcția import (inclusiv tranzite) și Schimburi comerciale pe 
+direcția export (inclusiv tranzite) includ și energia electrică care tranzitează România (tranzitele 
+notificate de participanții la piață și tranzitele prin mecanismele cuplate PZU și PI);  
+3. Indicatorul Consum intern realizat SEN reprezintă consumul lunar realizat la nivelul întregului 
+SEN și este cel raportat de CNTEE Transelectrica S.A.;  
+4. Consumul clienților casnici și al clienților finali noncasnici reprezintă energia furnizată în luna de 
+raportare clienților finali de furnizorii/producătorii monitorizați și autoconsumul acestora; nu este 
+inclus consumul prosumatorilor din producția proprie, datele privind prosumatorii făcând obiectul 
+unui raport distinct al ANRE;  
+5. CPT pentru acoperirea pierderilor în rețeaua de transport și CPT pentru acoperirea pierderilor 
+în rețeaua de distribuție  au fost calculate pe baza achizițiilor de energie electrică realizate de 
+operatorii de rețea în calitate de participanți la piață cu luarea în calcul a dezechilibrelor 
+înregistrate la nivelul Părții Responsabile cu Echilibrarea din care fac parte. 
+ 
+3. Structura tranzacţiilor pe piaţa angro de energie electrică 
+În tabelul următor sunt prezentate volumele de energie electrică livrate lunar pe 
+contractele aflate în derulare în luna de raportare şi preţurile medii realizate pe fiecare componentă 
+a pieţei angro în luna de raportare, comparativ cu luna anterioară, cal culate pe baza raportărilor 
+lunare ale participanților la piață. Prețurile medii prezentate pentru componentele pieței angro 
+sunt prețuri medii ponderate realizate în luna de raportare. 
+Volumele de energie electrică livrate au fost raportate la Consumul intern realizat SEN  
+pentru a oferi o referinţă în aprecierea dimensiunii pieței angro și a componentelor sale. 
+Datele din tabel sunt prezentate doar pentru piețele pe care au fost raportate volume livrate 
+în luna analizată; precizăm că toate volumele sunt raportate în ore RO, toate preţurile includ 
+componenta TG. 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Mai 
+20266 
+Iunie 
+2026 
+1. PIAŢA CONTRACTELOR BILATERALE NEGOCIATE DIRECT 
+volum livrat (GWh) 2016 
+513,30 
+53,2 
+1908 
+533,60 
+49,5 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+1.1. Vânzare pe contracte negociate1   
+volum livrat (GWh) 1949 
+516,82 
+51,5 
+1867 
+536,33 
+48,5 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+1.2.Vânzare pe contracte negociate în entitate agregată/agregator   
+volum livrat (GWh) 67 
+411,37 
+1,8 
+41 
+408,62 
+1,1 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+2. PIAȚA CONTRACTELOR DE EXPORT2 
+volum livrat (GWh) 337 
+516,84 
+8,9 
+243 
+641,65 
+6,3 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+3. PIEŢE CENTRALIZATE  DE  CONTRACTE BILATERALE 
+volum livrat (GWh) 1522 
+550,88 
+40,2 
+1480 
+550,80 
+38,4 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+ 
+PDF PAGE 10
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 10 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Mai 
+20266 
+Iunie 
+2026 
+3.1. Modalitatea de tranzacţionare PCCB-LE-flex3   
+volum livrat (GWh) 659 
+563,35 
+17,4 
+590 
+561,48 
+15,3 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+3.2. Modalitatea de tranzacţionare PCCB-NC   
+volum livrat (GWh) 161 
+550,08 
+4,2 
+172 
+550,19 
+4,5 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+3.3. Modalitatea de tranzacţionare PC-OTC   
+volum livrat (GWh) 476 496 
+preţ mediu (lei/MWh) 553,66 556,13 
+% din consumul intern realizat 12,6 12,9 
+3.4. Modalitatea de tranzacţionare PCE-ESRE-CV   
+volum livrat (GWh) 63 
+371,20 
+1,7 
+64 
+379,89 
+1,7 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+3.5. Modalitatea de tranzacţionare PMC-BRM   
+volum livrat (GWh) 4 
+552,94 
+0,4 
+0 
+0,00 
+0,0 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+3.6. Modalitatea de tranzacţionare PCT-BRM   
+volum livrat (GWh) 159 
+562,76 
+4,2 
+158 
+563,65 
+4,1 
+preţ mediu (lei/MWh) 
+% din consumul intern realizat 
+4. PIAŢA PENTRU ZIUA URMĂTOARE   
+volum livrat4 (GWh) 1877 
+562,44 
+49,6 
+1666 
+658,78 
+43,3 
+preţ mediu6 (lei/MWh) 
+% din consumul intern realizat 
+            4.1. Piața pentru Ziua Următoare - OPCOM   
+volum livrat4 (GWh) 1111 888 
+preţ mediu6 (lei/MWh) 564,89 693,72 
+% din consumul intern realizat 29,3 23,05 
+           4.2. Piața pentru Ziua Următoare - BRM   
+volum livrat 4(GWh) 766 778 
+preţ mediu6 (lei/MWh) 558,90 618,90 
+% din consumul intern realizat 20,2 20,2 
+5. PIAŢA INTRAZILNICĂ   
+volum livrat4, 5 (GWh) 533 517 
+preţ mediu7 (lei/MWh) 505,92 698,86 
+% din consumul intern realizat 14,1 13,4 
+5.1. Piaţa Intrazilnică – OPCOM   
+volum livrat4, 5 (GWh) 136 117 
+preţ mediu7 (lei/MWh) 516,30 758,92 
+% din consumul intern realizat 3,6 3,0 
+5.1.1. Piaţa Intrazilnică (IDCT) - OPCOM   
+volum livrat4,5 (GWh) 
+preţ mediu7 (lei/MWh) 
+% din consumul intern realizat 
+136 
+516,28 
+3,6 
+117 
+758,92 
+3,0 
+5.1.2. Piaţa Intrazilnică (IDA) - OPCOM   
+volum livrat4,5 (GWh) 
+preţ mediu7 (lei/MWh) 
+% din consumul intern realizat 
+0,01 
+698,58 
+0,0003 
+0 
+0,00 
+0,0 
+5.2. Piaţa Intrazilnică - BRM   
+volum livrat4 (GWh) 398 
+502,39 
+10,5 
+400 
+681,28 
+10,4 
+preţ mediu7 (lei/MWh) 
+% din consumul intern realizat 
+5.2.1. Piaţa Intrazilnică (IDCT) -BRM   
+volum livrat4 (GWh) 
+preţ mediu7 (lei/MWh) 
+% din consumul intern realizat 
+393 
+500,88 
+10,4 
+384 
+665,50 
+10,0 
+5.2.2. Piaţa Intrazilnică (IDA) - BRM   
+volum livrat4 (GWh) 
+preţ mediu7 (lei/MWh) 
+% din consumul intern realizat 
+5 
+621,57 
+0,1 
+16 
+1054,95 
+0,4 
+PDF PAGE 11
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 11 
+ 
+TRANZACŢII VÂNZARE PE PIAŢA ANGRO Mai 
+20266 
+Iunie 
+2026 
+6. PIAŢA DE ECHILIBRARE   
+Volum8 tranzacţionat (GWh) 
+% din consumul intern realizat SEN 
+Volum8 tranzacţionat la creştere (GWh) 
+preţ mediu de deficit9 (lei/MWh) 
+Volum8 tranzacţionat la scădere (GWh) 
+preţ mediu de excedent9 (lei/MWh) 
+83 
+2,2 
+39 
+552,74 
+44 
+449,80 
+77 
+2,0 
+51 
+844,94 
+27 
+806,97 
+CONSUMUL INTERN REALIZAT SEN (GWh) 3787 3852 
+ 
+Note: 
+1. Contracte de vânzare-cumpărare a energiei electrice încheiate în conformitate cu art . 23 alin. (2) 
+din Legea nr. 123/2012 a energiei electrice și gazelor naturale , cu modificările și completările 
+ulterioare; volumele agregate și prețurile medii rezultă din declarațiile pe propria răspundere ale 
+partenerilor contractuali; 
+2. Tranzacțiile lunare realizate pe baza contractelor de export raportate de participanţii la piaţa angro; 
+cantitățile livrate sunt cele notificate de participanți către CNTEE Transelectrica S.A. în platforma 
+DAMAS; 
+Nu sunt incluse tranzitele (cele notificate de participanți și cele prin mecanismele cuplate PZU și 
+PI ) sau cantităţile exportate prin intermediul agentului de transfer (CNTEE Transelectrica  S.A.) 
+pe piețele cuplate PZU și PI; 
+3. Sunt incluse și cantitățile livrate în luna de raportate în baza tranzacțiilor încheiate prin 
+mecanismul de tranzacționare PCCB -LE (valabil până în iunie 2020 , când a intrat în vigoare 
+PCCB-LE-flex); 
+4. Cantitățile tranzacționate lunar pe PZU și PI sunt cele publicate de operatorii pieței de energie 
+electrică desemnați (OPEED) OPCOM (PZU și PI) și BRM ( PZU și PI ); acestea cuprind și 
+cantitățile exportate prin intermediul agentului de transfer (CNTEE Transelectrica S.A.) pe piețele 
+cuplate PZU și PI; 
+5. Începând cu  luna ianuarie 2026, rezultatele mecanismului de licitații intrazilnice (IDA)  sunt 
+identificate separat de rezultatele mecanismului de licitații continue (IDCT); 
+6. Preţul mediu lunar pe PZU – OPCOM, prezentat în tabel , este calculat ca medie ponderată a 
+preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă (ore RO);  
+Prețul mediu lunar pe PZU – OPCOM, publicat pe site-ul www.opcom.ro, este calculat ca medie 
+aritmetică a prețurilor orare de închidere a pieței din luna respectivă ( ore CET) – în luna iunie 
+2026 acest preț este 644,67 lei/MWh; 
+Preţul mediu ponderat lunar pe PZU  - OPCOM publicat pe site-ul www.opcom.ro este calculat 
+ca medie ponderată a preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă  
+(ore CET) - în luna iunie 2026 acest preț este 694,48 lei/MWh; 
+Preţul mediu lunar pe PZU – BRM, prezentat în tabel, este calculat ca medie ponderată a preţurilor 
+de închidere a pieţei cu volumele tran zacţionate în intervalele de decontare din luna respectivă 
+(ore RO);  
+7. Preţul mediu lunar pe PI  – OPCOM, prezentat în tabel , este calculat ca medie ponderată a 
+preţurilor de închidere a pieţei cu volumele  trancţionate în intervalele de decontare  din luna 
+respectivă (ore RO) și cuprinde și rezultatele mecanismului de licitații intrazilnice (IDA); 
+Prețul mediu ponderat lunar pe PI – OPCOM, publicat pe site-ul www.opcom.ro, este calculat ca 
+medie ponderată a preţurilor orare de închidere a pieţei cu volumele orare din luna respectivă (ore 
+CET) - în luna iunie 2026 acest preț este 759,42 lei/MWh;  
+Preţul mediu lunar pe PI – BRM, prezentat în tabel, este calculat ca medie ponderată a preţurilor 
+de închidere a pieţei cu volumele trancţionate în intervalele de decontare din luna respectivă (ore 
+RO);  
+PDF PAGE 12
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 12 
+ 
+8. Determinat de aplicarea prevederilor din Ordinul ANRE nr. 127/2021 cu modificările și 
+completările ulterioare, începând cu luna iulie 2024, datele privind volumele tranzacționate pe PE 
+(volum tranzacționat, volum tranzacționat la creștere și volum tranzacționat la reducere) și 
+prețurile medii pe această piață se referă la energia electrică angajată pe PE;  
+9. Preţul mediu de deficit și prețul mediu de excedent sunt calculate ca medie aritmetică a preţurilor 
+de decontare a pieţei de echilibrare cu precizarea că în intervalele cu preţ unic de decontare 
+valoarea acestuia a fost atribuită atât ca deficit, cât şi ca excedent. 
+Evoluţia relaţiei între volumele lunare aflate în livrare pe fiecare din componentele pieței 
+angro de energie electrică şi consumul intern realizat SEN, în perioada ianuarie 2022 – iunie 2026, 
+este reprezentată în graficul următor: 
+ 
+Sursa: Raportările lunare ale participanţilor la piaţa angro, OPCOM S.A., BRM S.A. și CNTEE Ttranselectrica S.A.  
+– prelucrare SMP 
+Notă: 
+Începând cu luna decembrie 2022, datele lunare privind consumul intern prezentate în grafic reprezintă Consumul 
+intern realizat SEN și sunt cele raportate de CNTEE Transelectrica S.A.  
+ 
+Prezentăm detalii privind tranzacţiile de export şi de import comercial realizate pe baza 
+contractelor încheiate de participanții la piață la care se adaugă energia exportată și cea importată 
+prin mecanismele cuplate PZU și PI prin intermediul agentului de transfer CNTEE Transelectrica 
+S.A. (pe granițele României cu Ungaria și Bulgaria).  
+Datele sunt prezentate pentru luna de raportare și luna anterioară și nu includ tranzitele 
+(notificate de participanți sau cele prin piețele cuplate PZU și PI). Datele tabelare sunt însoțite de 
+reprezentarea grafică a evoluției cantitative a exportului, im portului și a soldului export -import 
+începând din luna ianuarie 2022. 
+0.00
+1,000.00
+2,000.00
+3,000.00
+4,000.00
+5,000.00
+6,000.00
+7,000.00
+8,000.00
+GWh
+Evoluția lunară a volumelor livrate pe componentele pieței angro 
+comparativ cu consumul intern realizat SEN
+MECANISMUL DE ACHIZITIE CENTRALIZATA PIATA CONTRACTELOR NEGOCIATE
+EXPORT PIETE CENTRALIZATE DE CONTRACTE
+PIATA PENTRU ZIUA URMATOARE PIATA INTRAZILNICA
+PIATA DE ECHILIBRARE Consum intern realizat SEN
+PDF PAGE 13
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 13 
+ 
+TRANZACŢII IMPORT/EXPORT Mai 
+2026 
+Iunie 
+2026 
+1. EXPORT COMERCIAL   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+783 
+455,78 
+20,7 
+662 
+539,50 
+17,2 
+din care, prin PZU cuplat   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+202 
+321,94 
+5,3 
+204 
+333,71 
+5,3 
+din care, prin PI cuplat   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+244 
+482,22 
+6,5 
+215 
+619,31 
+5,6 
+2. IMPORT COMERCIAL   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+1049 
+628,55 
+27,7 
+1022 
+777,85 
+26,5 
+din care, prin PZU cuplat   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+476 
+688,82 
+12,6 
+471 
+913,21 
+12,2 
+din care, prin PI cuplat   
+volum livrat (GWh) 
+preț mediu (lei/MWh) 
+% din consumul intern realizat SEN 
+248 
+519,19 
+6,5 
+270 
+744,27 
+7,0 
+Sursa: Raportările lunare ale participanților la piață, CNTEE Transelectrica S.A., OPCOM S.A. și BRM S.A.– 
+prelucrare  SMP 
+Sursa: Raportările lunare ale participanților la piață, CNTEE Transelectrica S.A. OPCOM S.A. și BRM S.A. 
+ – prelucrare  SMP 
+-1.40
+-1.20
+-1.00
+-0.80
+-0.60
+-0.40
+-0.20
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+1.60
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+iul
+aug
+sep
+oct
+nov
+dec
+ian
+feb
+mar
+apr
+mai
+iun
+2022 2023 2024 2025 2026
+TWh
+Evoluția lunară a exportului și importului comercial de energie electrică
+(tranzacții participanți și agent de transfer)
+Export comercial Import comercial Sold export-import
+export
+import
+PDF PAGE 14
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 14 
+ 
+În tabelul și graficul următor sunt prezentate volumul tranzacționat şi preţul mediu lunar 
+(medie aritmetică) de închidere a pieței corespunzător tranzacţiilor încheiate pe PZU administrată 
+de OPCOM (ore CET) începând cu ianuarie 2022 (tabel) și ianuarie 2006 (grafic). 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. – prelucrare SMP 
+ 
+Sursa: Raportările lunare ale OPCOM S.A.– prelucrare SMP 
+ 
+În tabelul și graficul următor sunt prezentate volumul tranzacționat şi preţul mediu lunar 
+(medie ponderată) de închidere a pieței corespunzător tranzacţiilor încheiate pe PZU 
+administrată de BRM (ore CET) începând cu 19 noiembrie 2024. 
+ 
+ 
+ 
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Ianuarie 2,620.82 949.40 2,051.15 670.71 2,074.33 436.13 1,648.62 693.74 1,520.89 766.48
+Februarie 2,282.47 932.28 1,553.02 699.24 1,600.99 347.07 1,323.21 782.31 1,475.09 508.18
+Martie 2,035.76 1,356.97 1,444.48 534.01 2,136.26 315.34 1,346.73 529.34 1,355.94 535.81
+Aprilie 2,007.70 861.70 1,565.55 481.24 1,679.87 298.35 1,154.19 430.21 1,139.36 486.89
+Mai 2,117.09 1,000.45 1,189.09 430.72 1,468.94 406.51 1,184.72 434.86 1,111.17 571.64
+Iunie 2,153.80 1,138.30 1,365.27 422.24 1,313.73 486.61 1,159.45 434.73 888.36 644.67
+Iulie 2,352.02 1,813.74 1,376.18 478.82 1,730.46 721.74 1,302.94 524.95
+August 2,221.51 2,400.58 1,222.76 502.18 1,461.24 631.55 1,201.35 396.63
+Septembrie 1,814.17 1,854.94 1,158.63 512.07 1,411.24 544.64 1,160.23 492.44
+Octombrie 1,772.35 1,017.02 1,036.74 527.12 1,518.07 446.19 1,465.13 620.18
+Noiembrie 2,125.26 1,093.09 1,503.22 507.67 1,585.42 836.09 1,277.54 617.91
+Decembrie 2,073.90 1,219.27 1,566.17 402.35 1,648.72 701.88 1,467.60 598.84
+2022 2023 2024 2025Anul/                    
+Luna
+2026
+0
+300
+600
+900
+1200
+1500
+1800
+2100
+2400
+2700
+3000
+0
+150
+300
+450
+600
+750
+900
+1050
+1200
+1350
+1500
+1650
+1800
+1950
+2100
+2250
+2400
+2550
+GWhlei/MWh Evoluția lunară a prețului mediu de închidere a pieței și a volumului tranzacționat
+pe PZU - OPCOM
+Volum tranzacționat pe PZU Prețul mediu PZU
+PDF PAGE 15
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 15 
+ 
+ 
+ 
+Sursa: Raportările lunare ale BRM S.A.– prelucrare SMP 
+ 
+Sursa: Raportările lunare ale BRM S.A.– prelucrare SMP 
+ 
+Prezentăm în continuare variația lunară a numărului de contracte bilaterale negociate 
+direct încheiate sau modificate prin acte adiţionale în perioada septembrie 2022 – iunie 2026. În 
+luna iunie 2026 s-au încheiat 163 de contracte bilaterale încheiate prin negociere directă, din care 
+123 de contracte noi şi 40 de acte adiționale.  
+ 
+ 
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Cantitate 
+(GWh)
+PIP 
+(lei/MWh)
+Ianuarie 302.26 716.43 1050.39 831.61
+Februarie 511.88 839.84 878.55 535.08
+Martie 527.57 600.3 872.93 552.67
+Aprilie 376.01 479.23 804.08 499.68
+Mai 535.20 487.34 765.48 559.14
+Iunie 676.67 490.39 777.97 619.46
+Iulie 729.73 570.15
+August 657.40 434.65
+Septembrie 635.95 535.09
+Octombrie 874.68 656.97
+Noiembrie 5.39 654.68 771.24 654.99
+Decembrie 94.84 641.48 850.35 622.80
+Anul/                    
+Luna
+20262024 2025
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+200
+400
+600
+800
+1000
+1200
+1400
+GWhlei/MW
+Evoluția lunară a prețului mediu de închidere a pieței și a volumului tranzacționat
+pe PZU - BRM 
+Volum tranzacționat pe PZU Prețul mediu PZU
+PDF PAGE 16
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 16 
+ 
+ 
+Sursa:  Raportările participanților la piață – prelucrare SMP 
+ 
+Reprezentarea grafică următoare indică frecvența de apariție a prețurilor înregistrate pe 
+cele 163 de contracte raportate de participanții la piață în luna iunie 2026 (noi sau acte 
+adiționale). 
+ 
+Sursa:  Raportările participanților la piață – prelucrare SMP 
+99
+101
+80
+143
+68
+57
+51
+29
+32
+36
+37
+42
+45
+52
+49
+148
+29
+54
+78
+65
+44
+46
+93
+111
+72
+78
+119
+179
+72
+63
+121
+86
+82
+109
+83
+88
+102
+95
+206
+39
+54
+66
+74
+110
+123
+13
+45
+80
+92
+45
+31
+30
+30
+20
+25
+24
+35
+12
+15
+62
+137
+33
+71
+84
+136
+59
+24
+27
+18
+35
+20
+72
+164
+27
+35
+65
+33
+41
+36
+37
+38
+32
+62
+138
+16
+17
+121
+24
+33
+40
+0
+50
+100
+150
+200
+250
+300
+350
+Nr. contracte Evoluția numărului de contracte bilaterale negociate direct încheiate
+pe piața angro de energie electrică, începând cu luna septembrie 2022
+contracte noi
+ acte adiționale ale contractelor în vigoare
+0-250 lei/MWh 251-500 lei/MWh 501-750 lei/MWh 751-1000
+lei/MWh
+1001-1250
+lei/MWh
+nr.contracte 54 37 67 2 3
+% din total
+contracte 33.13% 22.70% 41.10% 1.23% 1.84%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+0
+10
+20
+30
+40
+50
+60
+70
+Nr. contracte
+Histograma numărului de contracte bilaterale negociate direct, în funcție de prețul estimativ de contract
+- Iunie 2026 -
+Notă: Majoritatea prețurilor negociate fiind de tip formulă, s-a prezentat distribuţia preţurilor pe paliere în funcţie de preţul estimativ la încheierea 
+acestor contracte/acte adiţionale.
+PDF PAGE 17
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 17 
+ 
+Dispoziţiile de dispecer (oferte acceptate) primite de furnizorii de servicii de echilibrare 
+determină energia angajată pe PE.  În tabelul următor este prezentată energia de echilibrare 
+angajată pentru fiecare din cele 3 tipuri de reglaje, în luna iunie 2026. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Notă: 
+Energia electrică angajată include energia electrică aferentă tranzacțiilor cu compensație financiară în afara PE 
+rezultate în urma dispozițiilor de dispecer (creștere/reducere) pentru rezolvarea restricțiilor de rețea, asigurarea 
+siguranței sistemului pri n redispecerizare sau prin comercializare în contrapartidă coordonată (conform 
+prevederilor Ordinului ANRE nr. 152/2020 cu modificările și completările din Ordinul ANRE nr. 127/2021), având 
+soldul de 0,00 GWh. 
+În următoarele grafice se prezintă evoluţia lunară a rezervelor de putere achiziţionate de 
+CNTEE Transelectrica S.A., reprezentând obligaţii ale furnizorilor de servicii de echilibrare  de 
+menţinere la dispoziţia dispecerului/ofertare pe PE a capacităţilor de producere contractate și cea 
+a energiei de echilibrare angajată pe fiecare tip de reglaj pentru perioada iulie 2005 – iunie 2026. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Iunie 2026
+E nergie de 
+echilibrare 
+angajata                          
+(GWh)
+RRFa 35
+creștere 21
+reducere 14
+RRFm 43
+creștere 30
+reducere 13
+RI 0
+creștere 0
+reducere 0
+TOTAL 77
+creștere 51
+reducere 27
+CONSUM INTE RN 3852
+% volum tranzacționat din consumul intern 2.01%
+0
+250,000
+500,000
+750,000
+1,000,000
+1,250,000
+1,500,000
+1,750,000
+2,000,000
+h*MW
+RRFa RRFm RI
+Structura rezervelor achiziționate de CNTEE Transelectrica SA
+PDF PAGE 18
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 18 
+ 
+Începând cu raportul lunii iulie 2024, structura energiei de echilibrare pe fiecare tip de 
+reglaj se referă la energia de echilibrare angajată, motivat de modificările introduse prin Ordinul 
+ANRE nr. 127/2021, cu aplicare din luna iulie 2024. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Determinat de modificările introduse prin Ordinul ANRE nr. 127/2021, începând cu 
+raportul lunii iulie 2024, în următorul grafic se prezintă evoluția energiei de echilibrare angajată 
+pe PE și soldul energiilor angajate pe piața de echilibrare pentru perioada ianuarie 20 22– iunie 
+2026. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+-600
+-400
+-200
+0
+200
+400
+600
+800
+1000
+GWh Evoluția lunară a energiei angajată pe piața de echilibrare 
+RRFa creștere RRFa scădere RRFm creștere RRFm scădere RI creștere RI scădere
+-200
+-150
+-100
+-50
+0
+50
+100
+150
+GWh
+Evoluția lunară a energiei de echilibrare angajată și a soldului rezultat 
+- Ianuarie 2022 - Iunie 2026 -
+Energia de echilibrare angajată la CREȘTERE
+Energia de echilibrare angajată la REDUCERE
+Soldul energiilor angajate pe piața de echilibrare
+PDF PAGE 19
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 19 
+ 
+Graficul următor prezintă evoluţia lunară a energiei angajate pentru managementul 
+congestiilor (cantitatea de energie tranzacţionată de OTS pe piaţa de echilibrare și în afara PE cu 
+compensație financiară pentru rezolvarea situaţiilor de congestii în reţeaua de transport), începând 
+cu ianuarie 2022, şi contravaloarea tranzacţiilor efectuate în acest scop de CNTEE Transelectrica 
+S.A.. 
+ 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+Notă: Începând cu luna iulie 2024, datele privind volumele tranzacționate se referă la energia electrică angajată pe PE, 
+determinat de aplicarea prevederilor din Ordinul ANRE nr. 127/2021 cu modificările și completările ulterioare  
+Începând cu data de 17 decembrie 2021 a avut loc conectarea cu succes a blocului de 
+control RFP – TEL la platforma europeană IGCC  (International Grid Control Cooperation), 
+proiect ales de ENTSO-E pentru procesul de compensare a dezechilibrelor, așa cum este definit 
+în Regulamentul (UE) nr . 2017/1485 al Comisiei din 2 august 2017 de stabilire a unei linii 
+directoare privind operarea sistemului de transport al energiei electrice (art. 22).  
+Platforma IGCC reprezintă o modalitate de optimizare a reglajului secundar de frecvență 
+– putere de schimb,  prin reducerea acțiunilor de sens contrar ale regulatoarelor operatorilor 
+membri operaționali în cadrul proiectului. 
+În tabelul următor este prezentată evoluția lunară a energiei electrice la creștere și la 
+reducere de putere, reprezentând contribuția  din 2026 a  CNTEE Transelectrica S .A. la 
+mecanismul IGCC de compensare a dezechilibrelor dezvoltat la nivel european. 
+2026 
+Contribuția la creștere de putere  
+(MWh) 
+Contribuția la reducere de putere 
+(MWh) 
+Export 
+la prețuri >=0 
+Export 
+la prețuri <0 
+Import 
+ la prețuri >=0 
+Import 
+ la prețuri <0 
+Ianuarie 21001 520 16869 157 
+Februarie 15990 1121 17165 607 
+Martie 19353 2666 16228 760 
+Aprilie 21562 4878 12259 1247 
+Mai 27351 3656 15043 1043 
+Iunie 19853 1662 19046 1379 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+mii leiGWh
+Evoluția lunară a energiei angajate pe piața de echilibrare pentru managementul congestiilor
+pe liniile interne și a contravalorii acesteia
+Energia angajată pe PE pentru managementul congestiilor Contravaloare aferentă managementului congestiilor
+PDF PAGE 20
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 20 
+ 
+ 
+Tranzacţiile cu energie electrică pe categorii de participanţi la PAN 
+ 
+Producători monitorizați 
+Prezentăm mai jos s tructura obligaţiilor de vânzare  și de achiziție contractate înainte de 
+intervalul de livrare de producătorii monitorizați în conformitate cu prevederile art . 7 din 
+Metodologia PAN (respectiv cei care dețin capacități de producere cu putere instalată mai mare 
+de 5 MW) în luna de livrare iunie 2026 comparativ cu luna anterioară.  
+                                                                                                                             - GWh -  
+Structură tranzacţii Mai 
+2026 
+Iunie 
+2026 
+Achiziţii 
+Contracte import 87,05 91,42 
+Contracte negociate 749,65 614,06 
+Piața centralizată a contractelor, din care:  281,71 259,57 
+− PCCB-LE-flex 72,99 64,80 
+− PCCB-NC 26,04 25,20 
+− PC-OTC 147,37 135,42 
+−PCE-ESRE-CV 1,83 1,76 
+− PCT-BRM 33,48 32,40 
+De la prosumatori 106,14 109,85 
+În calitate de client final (contracte furnizare pe PAM) 17,11 15,52 
+PZU 835,47 699,22 
+PI 128,70 135,43 
+Total achiziții 2205,83 1925,07 
+Vânzări 
+Contracte export 14,10 6,40 
+Contracte negociate  1310,55 1225,93 
+Piața centralizată a contractelor, din care:  1425,46 1373,25 
+− PCCB-LE-flex 653,64 581,92 
+− PCCB-NC 104,16 117,06 
+− PC-OTC 446,80 461,08 
+− PCE-ESRE-CV 61,48 62,22 
+− PMC-BRM 
+− 
+3,63 0,00 
+− PCT-BRM 155,75 150,97 
+PZU 752,90 511,58 
+PI 139,23 105,47 
+Contracte furnizare pe PAM, către clienţii finali din care: 1742,08 1754,58 
+casnici 247,20 256,49 
+noncasnici 1494,87 1498,10 
+Total vânzări 5384,31 4977,21 
+Sursa: Raportările lunare ale producătorilor monitorizați – prelucrare SMP 
+ 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și acei operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care, determinat de faptul că dețin cel 
+puțin o centrală cu capacitate in stalată mai mare de 5 MW și li se aplică tariful de introducere în rețea, sunt 
+monitorizați în calitate de producători 
+ 
+În graficul următor prezentăm volumele tranzacționate și livrate, preţurile minime, medii şi 
+maxime realizate în luna de livrare iunie 2026 de producătorii monitorizați pe fiecare tip de 
+contract de achiziție/vânzare. Prețurile de vânzare a energiei electrice din contractele de furnizare 
+PDF PAGE 21
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 21 
+ 
+către clienții finali sunt cele prevăzute în condițiile contractuale din contractele de furnizare 
+respective și cuprind componenta de achiziție a energiei electrice (cu tariful de introducere în 
+rețea inclus) și componenta de furnizare. 
+ 
+Sursa: Raportările lunare ale producătorilor monitorizați – prelucrare SMP 
+Notă: 
+În categoria producătorilor monitorizați conform Metodologiei PAN intră și operatori economici a căror 
+activitate preponderentă este cea desfășurată pe licența de furnizare, dar care dețin cel puțin o centrală cu 
+capacitate instalată mai mare de 5 MW și li se aplică tariful de introducere în rețea 
+ 
+Furnizori  
+În luna iunie 2026, pe piaţa angro de energie electrică au activat 107 de operatori 
+economici, din care 5 sunt titulari de licență de furnizare desemnați FUI și  54 sunt titulari de 
+licență cu activitate exclusiv pe PAN (o parte dintre aceştia fiind deţinători de licenţă pentru 
+activitatea traderului de energie electrică sau persoane juridice străine cu drept de participare la 
+piața de energie electrică din România). 
+Furnizori cu activitate exclusivă pe PAN 
+Tabelul următor ilustrează activitatea desfăşurată de furnizorii activi doar pe PAN 
+(inclusiv traderi și persoane juridice străine cu drept de participare la PAN confirmat de ANRE), 
+prezentând structura pe categorii de pieţe a achizițiilor şi vânzărilor to tale pe PAN realizate de 
+aceştia în luna de livrare iunie 2026 comparativ cu luna anterioară. 
+ - GWh- 
+import negociate PCCB-
+LE-flex PCCB-NC PC-OTC PCE-
+ESRE-CV
+PCT-
+BRM
+prosumato
+ri
+in calitate
+de client
+final
+PZU PI export negociate PCCB-
+LE-flex PCCB-NC PC-OTC PCE-
+ESRE-CV
+PCT-
+BRM PZU PI clienti
+casnici
+clienti
+noncasnici
+Preț mediu ponderat 550.58 527.67 568.90 533.31 555.07 50.11 550.98 481.59 691.67 632.29 799.69 401.58 496.09 560.80 546.82 556.49 381.62 562.39 647.54 625.91 470.77 560.64
+Preț minim 496.12 -62.20 515.00 490.00 400.00 50.05 529.50 423.03 570.00 47.18 -5.72 110.17 131.08 450.27 515.00 400.00 50.05 340.00 -26.35 -104.83 446.09 9.85
+Preț maxim 593.62 3,263.70 627.37 585.00 650.00 50.16 568.68 832.33 1,091.93 1,484.37 4,552.71 781.01 3,263.70 640.96 600.00 650.00 598.10 841.00 3,438.88 3,043.24 1,103.63 1,714.15
+Volum tranzacționat 91.42 614.06 64.80 25.20 135.42 1.76 32.40 109.85 15.52 699.22 135.43 6.40 1,225.93 581.92 117.06 461.08 62.22 150.97 511.58 105.47 256.49 1,498.10
+91 MWh
+614 MWh
+65 MWh
+25 MWh
+135 MWh
+2 GWh 32 GWh
+110 GWh
+16 GWh
+699 GWh
+135 GWh
+6 GWh
+1226 GWh
+582 GWh
+117 GWh
+461 GWh
+62 GWh
+151 GWh
+512 GWh
+105 GWh
+256 GWh
+1498 GWh
+-250
+0
+250
+500
+750
+1000
+1250
+1500
+1750
+2000
+2250
+2500
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de producătorii monitorizați
+- Iunie 2026 -
+ACHIZITII VANZARI
+Structură tranzacţii furnizori cu activitate 
+exclusivă pe PAN 
+Mai 
+2026 
+Iunie 
+2026 
+Achiziţii 
+Contracte import 177,54 113,10 
+Contracte negociate  440,59 536,18 
+Piața centralizată a contractelor, din care: 34,27 33,12 
+− PCCB-LE-flex 26,78 25,92 
+− PC-OTC 3,76 3,60 
+− PCT-BRM 3,73 3,60 
+     Producție din surse proprii 1,48 1,45 
+PDF PAGE 22
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 22 
+ 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare SMP 
+ 
+Prezentăm comparativ nivelul volumelor tranzacționate și livrate, preţurile minime, medii 
+şi maxime realizate în luna de livrare iunie 2026 de furnizorii cu activitate exclusivă pe PAN 
+pentru fiecare tip de contract de achiziție/vânzare. 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+Furnizori cu activitate pe PAM  
+În tabelul următor sunt prezentate datele aferente lunii iunie 2026, comparativ cu luna 
+anterioară, care caracterizează structura pe categorii de pieţe a achizițiilor şi vânzărilor totale, 
+realizate de toți furnizorii care au furnizat energie electrică clienților finali în regim concurențial 
+și în regim de serviciu universal.               
+ 
+import negociate PCCB-
+LE-flex PC-OTC PCT-
+BRM
+producție 
+din surse 
+proprii
+PZU PI export negociate PCCB-
+LE-flex
+PCCB-
+NC PC-OTC PCT-
+BRM PZU PI
+Preț mediu ponderat 711.94 481.03 525.18 540.00 547.47 294.47 686.20 633.70 635.89 600.16 585.58 548.72 541.25 590.00 503.90 693.40
+Preț minim 225.08 12.87 488.39 540.00 547.47 139.74 166.68 128.50 78.65 245.82 560.00 520.00 400.00 585.00 85.40 7.18
+Preț maxim 2,877.43 1,836.57 534.41 540.00 547.47 400.00 1,497.79 4,400.14 1,099.42 4,825.34 593.11 585.00 550.00 595.00 1,524.71 7,077.99
+Volum tranzacționat 113.10 536.18 25.92 3.60 3.60 1.45 361.10 127.49 206.56 520.17 4.68 32.40 7.65 7.20 283.88 118.72
+113 GWh
+536 GWh
+26 GWh
+4 GWh 4 GWh 1 GWh
+361 GWh
+127 GWh
+207 GWh
+520 GWh
+5 GWh
+32 GWh
+8 GWh 7
+284 GWh
+119 GWh
+0
+75
+150
+225
+300
+375
+450
+525
+600
+675
+0
+600
+1200
+1800
+2400
+3000
+3600
+4200
+4800
+5400
+6000
+6600
+7200
+7800
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concuențiali cu activitate exclusivă pe piața angro
+- Iunie 2026 -
+ACHIZITII VANZARI
+Structură tranzacţii furnizori cu activitate 
+exclusivă pe PAN 
+Mai 
+2026 
+Iunie 
+2026 
+PZU 436,51 361,10 
+PI 118,58 127,49 
+Total achiziții 1208,98 1172,44 
+Vânzări   
+     Contracte export 273,01 206,56 
+Contracte negociate  511,06 520,17 
+Piața centralizată a contractelor, din care: 49,93 51,92 
+− PCCB-LE-flex 4,84 4,68 
+− PCCB-NC 33,48 32,40 
+− PC-OTC 7,89 7,65 
+− PCT-BRM 3,72 7,20 
+PZU 263,72 283,88 
+PI 119,69 118,72 
+Total vânzări 1217,41 1181,24 
+PDF PAGE 23
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 23 
+ 
+                                                                                                                       - GWh - 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim concurențial și regim SU) 
+Mai 
+2026 
+Iunie 
+2026 
+Achiziţii   
+Contracte import 60,94 77,19 
+Contracte negociate 950,42 894,22 
+Piața centralizată a contractelor, din care: 1060,32 1051,61 
+− PCCB-LE-flex  526,84 483,70 
+− PCCB-NC  112,34 124,98 
+− PC-OTC  262,65 282,92 
+− PCE-ESRE-CV  65,06 65,75 
+− PMC-BRM 0,01 0,00 
+− PCT-BRM 93,42 94,26 
+Producție din surse proprii 27,55 33,69 
+De la prosumatori 207,09 209,30 
+În calitate de client final (contracte furnizare pe PAM) 78,22 77,70 
+PZU 280,15 272,05 
+PI 23,33 27,15 
+Total achiziții 2688,02 2642,91 
+Vânzări 
+Contracte export 49,96 30,22 
+Contracte negociate  194,69 161,84 
+Piața centralizată a contractelor, din care: 46,14 54,70 
+− PCCB-LE-flex  0,74 3,59 
+− PCCB-NC  23,06 22,32 
+− PC-OTC  20,84 27,35 
+− PCE-ESRE-CV 1,49 1,44 
+PZU 367,15 373,53 
+PI 21,13 17,46 
+Contracte furnizare pe PAM, către clienţii finali din care: 2036,35 2050,29 
+casnici 799,51 800,43 
+noncasnici 1236,84 1249,86 
+Total vânzări 2715,42 2688,04 
+Sursa: Raportările lunare ale furnizorilor  – prelucrare SMP 
+ 
+Defalcarea pe tipuri de surse/destinaţii a volumelor tranzacţionate și livrate,  a preţurilor 
+minime, medii şi maxime realizate în luna de livrare iunie 2026 de furnizorii cu activitate pe PAM 
+este reprezentată în graficul următor. Prețurile de vânzare a energiei electrice din contractele de 
+furnizare către clienții finali sunt cele prevăzute în condițiile contractuale din contractele de 
+furnizare respective și cuprind componenta de achiziție a energiei electrice (cu tariful de 
+introducere în rețea inclus) și componenta de furnizare. 
+PDF PAGE 24
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 24 
+ 
+Sursa: Raportările lunare ale furnizorilor – prelucrare SMP 
+ 
+Furnizori desemnați ca furnizori de ultimă instanță (FUI) 
+În conformitate cu prevederile Regulamentului privind furnizarea de ultimă instanţă a 
+energiei electrice  aprobat prin Ordinul președintelui ANRE nr. 91/2022 cu modificările și 
+completările din Ordinul ANRE nr. 11/2025, ANRE publică o listă de nominalizare FUI pentru 
+fiecare perioadă de rotație. Astfel, fiecărui FUI îi este alocată o lună calendaristică în care acesta 
+are obligația preluării locurilor de consum care ajung în situația de a nu avea asigurată furnizarea 
+energiei electrice. 
+Lista nominalizărilor pentru fiecare perioadă de rotație este publicată pe site -ul ANRE la 
+adresa https://anre.ro/consumatori/energie-electrica/fui-ee/. Pentru luna iunie 2026, FUI 
+nominalizat a fost E.ON Energie România S.A.. 
+Structura tranzacțiilor de energie electrică de pe PAN ale furnizorilor desemnați ca 
+furnizori de ultimă instanță pentru alimentarea clienților finali în regim de UI este prezentată în 
+tabelul următor pentru luna iunie 2026, comparativ cu luna anterioară.                                                                   
+                                                                                                                            - GWh - 
+Structură tranzacţii furnizori cu activitate pe PAM  
+(regim UI) 
+Mai 
+2026 
+Iunie 
+2026 
+Achiziţii   
+Contracte negociate 0,93 0,95 
+Piața centralizată a contractelor, din care: 7,44 7,20 
+− PC-OTC  7,44 7,20 
+De la prosumatori 0,19 0,21 
+PZU 15,14 13,76 
+PI 0,02 0,01 
+Total achiziții 23,72 22,13 
+ 
+ 
+import negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCE-
+ESRE-
+CV
+PCT-
+BRM
+producț
+ie din 
+surse 
+proprii
+prosum
+atori
+in
+calitate
+de
+client
+final
+PZU PI export negocia
+te
+PCCB-
+LE-flex
+PCCB-
+NC
+PC-
+OTC
+PCE-
+ESRE-
+CV
+PZU PI clienti
+casnici
+clienti
+noncas
+nici
+Preț mediu ponderat 435.54 522.42 562.36 547.69 556.62 377.46 579.19 459.85 556.22 598.28 919.62 1,018.7 731.81 603.84 640.48 570.00 554.34 305.00 482.41 558.19 781.02 646.44
+Preț minim 150.78 20.62 450.27 515.00 400.00 100.00 538.87 100.00 185.93 542.38 455.01 480.98 301.46 456.26 488.39 490.00 470.00 305.00 -8.76 -265.13 250.00 308.81
+Preț maxim 1,702.2 4,825.3 640.96 600.00 610.00 598.10 841.00 877.82 890.00 798.36 1,902.8 5,535.0 901.98 1,005.4 678.64 595.00 595.00 305.00 1,761.6 3,755.6 876.39 2,440.3
+Volum tranzacționat 77.19 894.22 483.70 124.98 282.92 65.75 94.26 33.69 209.30 77.70 272.05 27.15 30.22 161.84 3.59 22.32 27.35 1.44 373.53 17.46 800.43 1,249.8
+77 GWh
+894 GWh
+484 GWh
+125 GWh
+283 GWh
+66 GWh
+94 GWh
+34 GWh
+209 GWh
+78 GWh
+272 GWh
+27 GWh 30 GWh
+162 GWh
+4 GWh
+22 GWh
+27 GWh
+1 GWh
+374 GWh
+17 GWh
+800 GWh
+1250 GWh
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+-500
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii concurențiali cu activitate pe piața angro și pe piața cu amănuntul 
+- Iunie 2026 -
+ACHIZITII VANZARI
+PDF PAGE 25
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 25 
+ 
+Structură tranzacţii furnizori cu activitate pe PAM 
+(regim UI) 
+Mai 
+2026 
+Iunie 
+2026 
+Vânzări   
+PZU 0,80 0,66 
+PI 0,002 0,00 
+Contracte furnizare pe PAM, către clienţii finali din care: 18,50 18,58 
+casnici 0,79 0,84 
+noncasnici 17,71 17,74 
+Total vânzări 19,30 19,24 
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare SMP 
+Notă: furnizarea pe PAM include și furnizarea în regim de UI realizată de SPEEH Hidroelectrica S.A.  
+ 
+Detalierea volumelor tranzacţionate și livrate, a nivelurilor de preț minim, maxim și mediu 
+ponderat pentru tranzacțiile de energie electrică ale furnizorilor de ultimă instanță realizate în 
+vederea alimentării clienților finali în regim UI pentru luna analizată este reprezentată în graficul 
+următor. În luna iunie 2026, prețurile pentru clienții în regim UI s -au stabilit în conformitate cu 
+prevederile art. 19 din Regulamentul privind furnizarea de ultimă instanță a energiei electrice , 
+aprobat prin Ordinul ANRE nr. 91/2022 cu modificările și completările din Ordinul ANRE nr. 
+11/2025.  
+ 
+Sursa: Raportările lunare ale furnizorilor de ultimă instanţă – prelucrare SMP 
+ 
+ 
+Operatori de rețea 
+Structura tranzacțiilor de energie electrică ale operatorilor serviciului public de distribuție 
+a energiei electrice (denumiți în continuare operatori de distribuție concesionari), în calitate de 
+participanți la piață, în vederea acoperirii pierderilor din reţelele de distribuţie în luna iunie 2026 
+comparativ cu luna anterioară a fost următoarea. 
+negociate PC-OTC prosumatori PZU PI PZU clienti casnici clienti noncasnici
+Pret mediu ponderat 590.00 572.50 200.38 674.59 5,533.16 494.13 766.88 805.88
+Pret minim 590.00 535.00 200.38 619.97 5,533.16 494.13 613.84 706.65
+Pret maxim 590.00 610.00 200.38 1,133.55 5,533.16 494.13 895.61 852.44
+Volum tranzactionat 0.95 7.20 0.21 13.76 0.01 0.66 0.84 17.74
+1 GWh
+7 GWh
+0.21 GWh
+14 GWh
+0.01 GWh
+1 GWh 1 GWh
+18 GWh
+0
+5
+10
+15
+20
+0
+1000
+2000
+3000
+4000
+5000
+6000
+GWhlei/MWh
+Caracterizarea tranzacțiilor realizate de
+furnizorii de ultimă instanță pentru alimentarea în regim UI 
+- Iunie 2026 -
+ACHIZITII VANZARI
+PDF PAGE 26
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 26 
+ 
+                                                                                                                                                           - GWh - 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari – prelucrare SMP 
+ 
+Structura achiziţiei de energie electrică a operatorului de transport și sistem pentru 
+acoperirea pierderilor din rețeaua de transport în luna iunie 2026 comparativ cu luna anterioară a 
+fost următoarea.                   
+  - GWh - 
+Structură tranzacţii  
+operator de transport și sistem 
+Mai 
+2026 
+Iunie 
+2026 
+Achiziţii   
+     Contracte negociate 33,48 32,40 
+Piața centralizată a contractelor, din care: 11,16 10,80 
+− PCCB-NC 3,72 3,60 
+− PCT-BRM 7,44 7,20 
+PZU 18,96 14,46 
+PI 1,50 2,49 
+Total achiziții 65,11 60,15 
+Vânzări   
+PI 0,64 0,39 
+Total vânzări 0,64 0,39 
+ 
+Sursa: Raportările lunare ale operatorului de transport și sistem – prelucrare SMP 
+ 
+Comparația dintre structura de achiziţie a celor 4 operatori de distribuție concesionari și a 
+operatorului de transport și sistem în luna iunie 2026 este reprezentată în graficul următor. 
+Structură tranzacţii  
+operatori distribuție concesionari 
+Mai 
+2026 
+Iunie 
+2026 
+Achiziţii   
+     Contracte negociate 47,02 18,04 
+Piața centralizată a contractelor, din care: 132,11 122,91 
+−  PCCB-LE-flex 34,16 17,27 
+− PCCB-NC 18,61 18,00 
+− PC-OTC 54,32 66,94 
+− PMC-BRM 3,63 0,00 
+− PCT-BRM 21,40 20,70 
+    PZU 90,18 101,44 
+    PI 12,17 8,00 
+Total achiziții 281,48 250,38 
+Vânzări   
+    PZU 0,05 0,00 
+ PI 0,16 0,10 
+Total vânzări 0,21 0,10 
+PDF PAGE 27
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 27 
+ 
+ 
+Sursa: Raportările lunare ale operatorilor de distribuţie concesionari și operatorului de transport și sistem – 
+prelucrare SMP 
+ 
+4. Indicatori de concentrare pentru piaţa angro de energie electrică şi componentele sale 
+ 
+Structura pieţei la nivelul energiei electrice produsă și livrată în rețele  oferă o bază 
+iniţială pentru aprecierile privind gradul de competitivitate posibil pe piaţa energiei electrice.  
+În continuare sunt prezentați indicatorii de concentrare (cote de piață, cota primilor 3 și 
+HHI) care caracterizează luna iunie 2026 și cumulat pentru primele 6 luni din 2026 în ceea ce 
+privește cantitatea de energie electrică produsă și livrată în rețele de producătorii monitorizați 
+(titulari ai licenței de exploatare comercială a capacităților de producere, având cel puțin o 
+centrală electrică cu putere instalată > 5 MW). 
+ 
+Indicatori de concentrare           
+- Iunie 2026 - C1 (%) C3 (%) HHI 
+Valoare 33,44 57,99 1554 
+ 
+DEER DELGAZ GRID DISTRIBUȚIE ENERGIE 
+OLTENIA
+REȚELE ELECTRICE 
+ROMANIA TRANSELECTRICA
+Negociate 26.04 0.00 65.16 99.61 195.42
+PCCB-LE-flex 276.09 0.02 0.00 132.11 0.02
+PCCB-NC 43.22 94.18 76.32 61.54 21.72
+PC-OTC 101.25 45.54 60.60 220.25 0.00
+PMC-BRM 30.24 15.12 0.00 30.24 0.00
+PCT-BRM 86.88 15.30 3.61 32.52 43.43
+Achiziție neta PZU 326.73 74.38 88.66 369.54 177.69
+Achiziție neta PI 53.55 0.11 0.19 1.35 15.99
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+GWh
+Structura achizitiilor de energie electrica ale OD concesionari si OTS
+pentru acoperirea consumului propriu tehnologicin retele
+- Iunie 2026-
+PDF PAGE 28
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 28 
+ 
+ 
+Sursa: Raportările lunare ale  producătorilor monitorizați – prelucrare SMP 
+ 
+PZU oferă tuturor participanților posibilitatea realizării echilibrului la nivel orar între 
+obligațiile contractuale, prognoza de consum și disponibilitatea tehnică a segmentului de 
+producere a energiei electrice. Astfel, surplusul sau deficitul de energie electrică se poate echilibra 
+la nivel orar pentru a doua zi, prin participarea la vânzarea sau cumpărarea energiei pe PZU, în 
+funcție de necesități și indiferent de licența deținută de un participant la piață.  
+Indicatorii de concentrare pe această piaţă reflectă gradul de concurenţă manifestat între 
+vânzători, respectiv cumpărători, dinamica acestora putând influenţa nivelul preţului. 
+PZU-OPCOM: Pentru toate tranzacțiile de vânzare/cumpărare încheiate de participanții 
+la această piață, OPCOM S.A. este contraparte. 
+PZU-BRM: Pentru toate tranzacțiile de vânzare/cumpărare încheiate de participanții la 
+această piață, BRM S.A. este contraparte. 
+Tabelele următoare prezintă C1, C3 şi HHI la vânzare, respectiv la cumpărare, determinaţi 
+pe baza cantităţilor tranzacţionate de participanţii pe PZU administrate de OPCOM și BRM. 
+ 
+Indicatori de concentrare 
+PZU–OPCOM 
+- Iunie 2026 - 
+C1 (%) C3 (%) HHI 
+                  Vânzare 12,91 32,05 562 
+Cumpărare 30,06 44,94 1176 
+Sursa:  Raportările lunare ale  OPCOM S.A.  
+ 
+ 
+ 
+Hidroelectrica
+30.70%
+Nuclearelectrica
+17.89%
+OMV Petrom
+11.45%
+CE Oltenia
+8.24%
+PPC Renewables Romania
+4.60%
+Elcen
+3.47%
+EDPR România
+2.27%
+Rompetrol Energy
+1.15%
+Societatea Electrocentrale 
+Craiova
+1.08%
+Verbund Wind Power 
+Romania
+0.90%
+Ingka Investments Renewable 
+Energy Romania
+0.78%
+Romgaz
+0.73%
+Societatea Complexul 
+Energetic Valea Jiului
+0.69%
+Termo Ploiești
+0.62%
+Engie Romania
+0.55%
+Alții
+14.89%
+Cotele de piață ale producătorilor monitorizați în funcție de energia livrată în rețele
+Ianuarie - Iunie 2026
+Energie electrică livrată în rețele - 23212,96 GWh
+C1 - 30,70%
+C3 - 60,04%
+HHI - 1508
+Categoria "Alții" include 156 producători ale căror 
+cote de piață individuale se situează sub 0,50%
+PDF PAGE 29
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 29 
+ 
+ 
+Indicatori de concentrare 
+PZU–BRM 
+- Iunie 2026 - 
+C1 (%) C3 (%) HHI 
+                  Vânzare 29,74 44,30 1157,68 
+Cumpărare 25,62 41,88 1052,14 
+Sursa:  Raportările lunare ale  BRM S.A.  
+O componentă a pieţei angro de energie electrică pe care se manifestă direct concurenţa 
+între furnizorii de servicii de echilibrare este PE. Valorile indicatorilor de concentrare la nivelul 
+acestei pieţe în luna  iunie 2026, determinaţi pe baza energiei angajate, pentru fiecare din cele 3 
+tipuri de reglaje sunt prezentate în tabelul următor.  
+ Indicatori de concentrare 
+PE 
+- Iunie 2026 - 
+Reglaje 
+RRFa RRFm RI 
+creștere reducere creștere reducere creștere reducere 
+C1 (%) 23,52 31,48 74,56 56,67 - - 
+C3 (%) 54,07 57,98 86,99 88,49 - - 
+HHI 1335 1585 5662 3750 - - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+În tabelul următor sunt prezentaţi indicatorii de concentrare pe tip de rezerve de putere 
+achiziționate de CNTEE T ranselectrica S.A. de la furnizorii de servicii de echilibrare  calificați, 
+în urma organizării licitațiilor pentru luna iunie 2026 pentru rezerve de restabilire a frecvenței cu 
+activare automată (RRFa) , cu activare manuală (RRFm) și de înlocuire (RI) . Pentru rezerva de 
+înlocuire (RI) nu s-au organizat licitații. 
+Indicatori de concentrare 
+Piaţa serviciilor de sistem 
+- Iunie 2026 - 
+RRFa RRFm RI 
+Cantitate contractată 
+(h*MW) 250078 485485 - 
+C1 (%) 19,62 38,78 - 
+C3 (%) 46,94 73,71 - 
+HHI 1221 2275 - 
+Sursa:  Raportările lunare ale  CNTEE Transelectrica S.A. – prelucrare SMP 
+ 
+5. Evoluţia preţurilor stabilite pe piaţa angro de energie electrică 
+Începând din 19 noiembrie 2014, piaţa pentru ziua următoare din România a funcţionat în 
+regim cuplat cu pieţele spot din Ungaria, Slovacia şi Republica Cehă, în proiectul 4M MC – 
+mecanismul de cuplare prin preţ a pieţelor pentru ziua următoare, pe baza algoritmului de cuplare 
+recomandat de ACER (Euphemia). 
+Din data de 17 iunie 2021, a devenit operațional proiectul Interim Coupling prin care piaţa 
+pentru ziua următoare din România a trecut la funcționarea în regim cuplat la nivel European prin 
+extinderea mecanismului de cuplare pe 6 noi granițe (PL -DE, PL-CZ, PL-SK, CZ-DE, CZ-AT, 
+HU-AT).  
+În data de 27 octombrie 2021, au fost finalizate operaţiunile de cuplare a graniţei RO-BG 
+în SDAC, permițând, astfel, conectarea piețelor pentru ziua următoare din Grecia și Bulgaria în 
+cadrul proiectului pan-european SDAC (Single Day-ahead Coupling). 
+PDF PAGE 30
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 30 
+ 
+Începând cu data de 08 iunie 2022, piaţa pentru ziua următoare din România a trecut la 
+următoarea etapă prevăzută de Regulamentul (UE) 2015/1222 al Comisiei din 24 iulie 2015 de 
+stabilire a unor linii directoare privind alocarea capacităților și gestionare a congestiilor 
+(Regulamentul CACM), prin implementarea proiectului CORE FB MC (cuplare pe bază de 
+fluxuri). 
+În graficul următor este prezentată evoluția preţurilor medii lunare începând cu luna 
+octombrie 2021, momentul cuplării granițelor României în SDAC care a permis finalizarea 
+operațiunilor de cuplarea a piețelor pentru ziua următoare din Grecia și Bulgaria în cadrul 
+proiectului pan-european SDAC. 
+ 
+Sursa: Date publice OPCOM S.A. – prelucrare SMP 
+Din data de 19 noiembrie 2019, piața intrazilnică din România a funcționat în regim cuplat 
+cu piețele din celelalte state membre UE participante la proiectul european SIDC (Single Intra-
+Day Coupling), iar din 29 noiembrie 2022 numărul de țări participante s -a extins la 25. Noile 
+reguli de tranzacționare au fost elaborate și aprobate de toate autoritățile de reglementare din țările 
+participante și de ACER, în conformitate cu prevederile Regulamentului CACM.  
+Prin Decizia 04/2020, ACER a adoptat Metodologia de Algoritm, care încorporează 
+licitațiile intrazilnice (IDA) pentru a respecta cerința de stabilire a prețului capacității interzonale 
+în Cuplarea unică a piețelor intrazilnice (SIDC), prevăzută la articolu l 55 din Regulamentul 
+CACM, precum și dispozițiile Metodologiei de stabilire a prețului capacității transfrontaliere în 
+intervalul de timp intrazilnic.  
+Ca urmare, începând cu iunie 2024 pentru Piața Intrazilnică organizată la OPCOM și 
+începând cu august 2025 pentru cea organizată la BRM în SIDC sunt incluse ambele mecanisme 
+de tranzacționare: corelare continuă (IDCT) și licitații intrazilnice (IDA).  
+16
+56
+96
+136
+176
+216
+256
+296
+336
+376
+416
+456
+496
+536
+Euro/MWh
+Evolutie prețuri PZU cuplat în țările din proiectul 4M MC și în țările cuplate după integrarea în SDAC
+Octombrie 2021 - Iunie 2026
+PIP România PIP Ungaria PIP Slovacia PIP Cehia PIP Austria
+PIP Germania PIP Polonia PIP Bulgaria PIP Grecia
+SDAC
+PDF PAGE 31
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 31 
+ 
+În graficul următor sunt prezentate volumul tranzacționat lunar și preţul mediu ponderat 
+pe piața intrazilnică organizată de OPCOM, începând cu luna ianuarie 2022, şi pe piaţa 
+intrazilnică organizată de BRM, începând cu luna mai 2024. 
+ 
+Sursa: Date publice  OPCOM S.A. și BRM S.A. – prelucrare SMP 
+Pentru acoperirea diferenţelor dintre valorile planificate/contractate ale consumului şi 
+respectiv producţiei şi valorile acestora apărute în timp real, operatorul de sistem (CNTEE 
+Transelectrica S.A.) operează piaţa de echilibrare (PE), “cumpărând” sau “vânzând” energie la 
+preţurile marginale determinate de ofertele producătorilor participanți la PE. 
+Începând cu data de 1 februarie 2021, au intrat în vigoare modificări referitoare la 
+funcționarea PE și la decontarea dezechilibrelor, dintre care enumerăm:  
+• Trecerea la intervalul de decontare de 15 minute; 
+• Utilizarea prețului unic de dezechilibru ca metodă de decontare a dezechilibrelor PE; 
+• Utilizarea unei metode de calcul pentru prețuri duale de dezechilibru (preț de deficit și 
+preț de excedent) în intervalele de decontare în care zona de dezechilibru este aproape 
+echilibrată și pentru care s-a apreciat că metoda prețului unic de dezechilibru nu este cea 
+mai eficientă metodă de decontare a dezechilibrelor PE din punct de vedere economic. 
+ 
+Valorile prețurilor pe intervale de decontare pentru deficit şi excedent au fost utilizate 
+pentru prezentarea preţurilor medii lunare ale fiecărui interval de decontare comparativ cu 
+consumul mediu intern brut realizat în luna curentă, precum și a evoluției prețurilor medii lunare 
+realizate pe PE comparativ cu PIP PZU. În luna iunie 2026, au fost calculate prețuri duale de 
+dezechilibru pentru 334 intervale de decontare. 
+ 
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+0
+100
+200
+300
+400
+500
+600
+Ian
+Mar
+Mai
+Iul
+Sep
+Nov
+Ian
+Mar
+Mai
+Iul
+Sep
+Nov
+Ian
+Mar
+Mai
+Iul
+Sep
+Nov
+Ian
+Mar
+Mai
+Iul
+Sep
+Nov
+Ian
+Mar
+Mai
+2022 2023 2024 2025 2026
+lei/MWh
+GWh
+Evoluţie Piaţă Intrazilnică România** cuplată în proiectul  european SIDC
+- Ianuarie 2022 - Iunie 2026 -
+Volum PI OPCOM Volum PI BRM
+PMP PI OPCOM PMP PI BRM
+PDF PAGE 32
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 32 
+ 
+ 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi CNTEE Transelectrica S.A.  
+ – prelucrare SMP 
+ 
+Sursa: Raportările lunare ale OPCOM S.A. şi CNTEE Transelectrica S.A. 
+ – prelucrare SMP  
+-1400
+0
+1400
+2800
+4200
+5600
+7000
+-600
+0
+600
+1200
+1800
+2400
+3000
+1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96
+MWhlei/MWh
+Valori medii pe interval de decontare - preturi dezechilibre si consum intern brut realizat
+Iunie 2026
+Pret de excedent Pret de deficit Pret PZU Consum intern brut realizat
+-1500
+-1000
+-500
+0
+500
+1000
+1500
+2000
+2500
+lei/MWh
+Preturi medii lunare inregistrate pe PZU si PE
+- Ianuarie 2022 - Iunie 2026 -
+Pret mediu pe PZU Pret mediu de deficit Pret mediu de excedent
+Poly. (Pret mediu pe PZU) Poly. (Pret mediu de deficit) Poly. (Pret mediu de excedent)
+PDF PAGE 33
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 33 
+ 
+III. PIAȚA CU AMĂNUNTUL DE ENERGIE ELECTRICĂ  
+Piața cu amănuntul de energie electrică reprezintă, conform Legii, cadrul în care energia 
+electrică este cumpărată de clienţii finali, în vederea satisfacerii consumului propriu. Pe această 
+piață, furnizorii vând energie electrică clienților finali prin contracte de furnizare la prețuri 
+negociate sau stabilite prin oferte-tip. 
+Dimensiunea pieței cu amănuntul este dată de energia electrică furnizată clienților casnici 
+și clienților finali noncasnici, pe tipuri de regim de furnizare: concurențial, serviciu universal sau 
+ultimă instanță.  
+În ceea ce privește furnizarea energiei electrice în regim de serviciu universal, menționăm 
+că începând cu data de 1 ianuarie 2022, potrivit prevederilor Legii, furnizorilor de energie 
+electrică care au încheiate contracte în piața concurențială cu clienții casnici le revine obligația 
+publicării de oferte pentru furnizarea în regim de serviciu universal și încheierii contractelor de 
+furnizare pentru acest tip de serviciu, dacă primesc o solicitare în acest sens. 
+În conformitate cu prevederile Metodologiei de monitorizare a pieței cu amănuntul de 
+energie electrică aprobată prin Ordinul președintelui ANRE nr. 17/2023 ( Metodologia PAM), 
+participantul la PAM este atât titularul unei licențe pentru furnizare de energie electrică care 
+furnizează energie electrică clienților casnici sau clienților finali noncasnici în baza acestei 
+licențe, cât și producătorul monitorizat PAN care nu deține licență de furnizare dar care furnizează 
+energie electrică clienților finali alimentați direct din instalațiile electrice proprii în baza dreptului 
+complementar din licența pentru exploatarea capacitățilo r de producere a energiei electrice. De 
+asemenea, datele din prezentul Raport lunar cuprind și energia aferentă consumului furnizorilor 
+la propriile locuri de consum, indiferent de modalitatea de asigurare a acesteia: prin achiziție pe 
+contracte de furnizare în calitate de client final, achiziție de pe piața angro sau din producție 
+proprie.  
+Din aceste motive, între lista de participanți activi pe PAM, așa cum rezultă din 
+monitorizarea în baza Metodologiei PAM și lista furnizorilor de energie electrică care introduc 
+oferte-tip de energie electrică destinate clienților casnici și finali noncasnici pot exista diferențe. 
+Sursa tuturor indicatorilor prezentați în acest capitol o constituie raportările lunare ale 
+participanților la PAM, conform obligațiilor de raportare din Metodologia PAM. 
+În concordanță cu prevederile Regulamentului (UE) 1952/2016 al Parlamentului 
+European şi al Consiliului  și ale Metodologiei PAM, indicatorii din cuprinsul Raportului lunar 
+caracterizează clienții finali și nu se referă la locurile de consum ale acestora.  
+Structura pe tranșe de consum pe categoriile de clienţi finali este în conformitate cu 
+intervalele de consum anual prevăzute pentru fiecare tranșă în Regulamentul (UE) 1952/2016 al 
+Parlamentului European şi al Consiliului:  
+ 
+ 
+
+PDF PAGE 34
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 34 
+ 
+1. Participanții la piața cu amănuntul de energie electrică 
+În tabelul următor sunt prezentați participanţii la piaţa cu amănuntul de energie electrică, 
+activi în luna iunie 2026. 
+ 
+* furnizori desemnați FUI, în conformitate cu prevederile Ordinului ANRE nr. 91/2022 cu modificările și 
+completările ulterioare.  
+1 Aenro Energy Holding 38 ICPE Electrocond Technologies SA
+2 Alive Capital SA 39 Ingka Investiments Renewable Energy Romania SRL
+3 Alro SA 40 ISPH
+4 Anchor Grup SA 41 Liberty Galati
+5 Auchan Renewable Energy SRL 42 Local Gaz
+6 Best Energy SRL 43 Luxten Lighting Company SA
+7 Complexul Energetic Oltenia SA 44 Mar-Tin Solar Energy SRL
+8 Cooperativadeenergie Furnizare SRL 45 Mazarine Energy Romania SRL
+9 Cotroceni Park SA 46 MHC Water Power
+10 Crest Energy SRL 47 MET Romania Energy SA
+11 Dacia Energy Solutions SRL 48 Monsson Trading SRL
+12 DIGI Romania SA 49 MPS Energy
+13 E.ON Energie Romania SA* 50 MVM Future Energy Technology SRL
+14 East Wind Farm SRL 51 New Energy Management
+15 EFT Power SRL 52 Next Energy Parteners SRL
+16 Elcata MHC SRL 53 Nova Power&Gas SRL
+17 Electric Planners SRL 54 OMV Petrom SA
+18 Electrica Furnizare SA* 55 Photovoltaic Green Project SRL
+19 Electricom SA 56 Plenerg SRL
+20 EM Power 57 PPC Energie SA*
+21 Energy Core Development SRL 58 Power Peak Trading
+22 Energy Distribution Services SRL 59 Premier Energy Furnizare SA*
+23 Energy Tech Entera SRL 60 Renovatio Trading SRL
+24 Enevo Power 61 Renewa Power SRL
+25 Engie România SA 62 Respect Energy Romania
+26 Entrex Services SRL 63 Romenergetica
+27 Eol Energy SRL 64 SNGN Romgaz SA
+28 Eye Mall SRL 65 Solprim SRL
+29 Fundpole Capital 66 SPEEH Hidroelectrica SA*
+30 Gan Energy SRL 67 Sustainable Energy Supply North
+31 Ges Furnizare SRL 68 Tinmar Energy SA
+32 Getica 95 Com SRL 69 Tinmar Green Energy SRL
+33 Green Vision Seven SRL 70 Uzinsider General Contractor SA
+34 Grenerg SRL 71 Veolia România Soluții Integrate SA 
+35 Harghita Energy Broker SRL 72 Verbund Wind Power Romania SRL
+36 Hermes Energy International SRL 73 Werk Energy SRL
+37 ICCO Energ SRL
+1 Azomures SA 15 Modern Calor SA
+2 Bepco SRL 16 Monsson SRL
+3 CET Govora SA 17 Petrotel-Lukoil SA
+4 Chimcomplex Borzesti SA 18 Romelectro Bucuresti SA
+5 Compania Locala de Termoficare Colterm SA 19 Rompetrol Energy
+6 Contourglobal Solutions 20 Rulmenti SA
+7 EGGER Romania SRL 21 Skybase Energy SRL
+8 Electrocarbon 22 SN Nuclearelectrica SA
+9 Electrocentrale Bucureşti SA 23 Societatea Complexul Energetic Valea Jiului SA
+10 Elsid SA 24 Societatea Electrocentrale Craiova SA
+11 Electrificare CFR SA 25 Termo Ploiesti SRL
+12 HS Timber Productions SRL 26 Vienna Energy Forta Naturala SRL
+13 HS Timber Productions Reci SRL 27 Warehouses De Pauw Romania SRL
+14 Kronospan Timber Sebes
+TITULARI LICENȚĂ DE FURNIZARE ENERGIE ELECTRICĂ CU CLIENȚI FINALI,
+ ACTIVI ÎN LUNA IUNIE 2026
+Titulari licenta care comercializeaza energie electrica doar la clientii finali alimentati direct din instalatiile electrice aferente 
+unitatilor de producere/retelele electrice proprii sau care raporteaza doar autoconsum (consum propriu)
+ACTIVI IN LUNA IUNIE 2026
+PDF PAGE 35
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 35 
+ 
+2. Numărul de clienți finali  
+Numărul clienților casnici și al clienților finali noncasnici, cărora li se furnizează energie electrică 
+în luna iunie 2026, sunt prezentați în funcție de tranșele de consum și regimurile de furnizare pe 
+care apar înregistrați la sfârșitul lunii de analiză. 
+Număr clienți finali noncasnici  
+Tranşă de  consum 
+-Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 237.139 232.166 4.973 
+IB 57.317 55.654 1.663 
+IC 7.229 7.119 110 
+ID 2.613 2.590 23 
+IE 173 173  
+IF 26 26  
+IG 25 25  
+Total 304.522 297.753 6.769 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+În următorul grafic prezentăm evoluția lunară din perioada  iulie 2024 – iunie 2026 a 
+numărului de clienți finali noncasnici în funcție de regimul de furnizare. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+Număr clienți casnici  
+Tranşă de  consum 
+-Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 4.316.745 2.999.378 1.312.381 4.986 
+DB 3.189.146 2.355.449 831.059 2.638 
+DC 1.003.032 781.400 221.253 379 
+DD 282.463 245.964 36.403 96 
+DE 29.454 27.222 2.225 7 
+Total 8.820.840 6.409.413 2.403.321 8.106 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+0
+40,000
+80,000
+120,000
+160,000
+200,000
+240,000
+280,000
+320,000
+nr. clienți Evoluția numărului de clienți finali noncasnici pe regimuri de furnizare
+noncasnici - regim concurențial noncasnici - regim UI
+PDF PAGE 36
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 36 
+ 
+Evoluția numărului de clienți casnici, defalcat pe regimuri de furnizare, în perioada iulie 
+2024 – iunie 2026 este prezentată lunar în următorul grafic. 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+La sfârșitul lunii de analiză, numărul clienților casnici alimentați în regim de UI reprezintă 
+0,09% din numărul total de clienți casnici, iar al clienților finali noncasnici în regim de UI 
+reprezintă cca. 2% din numărul total de clienți finali noncasnici. Datele aferente regimului UI 
+pentru ambele tipuri de clienți reflectă atât situația clienților intrați în regim UI (preluați automat 
+sau la cerere) în luna de raportare, cât și a celor intrați anterior şi care au rămas în acest regim, la 
+nivelul tuturor furnizorilor de ultimă instanță (indiferent dacă au fost nominalizați sau nu pentru 
+luna de raportare).  
+3.  Consumul de energie electrică al clienților finali 
+În următoarele tabele este prezentat consumul de energie electrică al clienților finali, 
+structurat pe tip de client, tranșe de consum și pe regimuri de furnizare, pentru luna analizată. 
+Consumul clienților finali noncasnici  
+pe tranșe de consum și regimuri de furnizare  
+             - GWh - 
+Tranșă de consum 
+-Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 151,40 148,81 2,59 
+IB 419,90 413,40 6,49 
+IC 289,42 285,10 4,32 
+ID 656,60 652,26 4,34 
+IE 388,15 388,15  
+IF 230,84 230,84  
+IG 629,39 629,39  
+Total 2765,69 2747,95 17,74 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+7,000,000
+8,000,000
+9,000,000
+nr. clienți
+Evoluția numărului de clienți casnici pe regimuri de furnizare
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+PDF PAGE 37
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 37 
+ 
+ 
+Consumul clienților finali casnici  
+pe tranșe de consum și regimuri de furnizare  
+      - GWh - 
+Tranșă de consum 
+- Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 201,53 155,93 45,32 0,28 
+DB 445,72 347,99 97,41 0,32 
+DC 268,75 214,60 54,04 0,11 
+DD 109,14 93,85 15,19 0,10 
+DE 32,62 30,23 2,37 0,02 
+Total 1057,76 842,59 214,33 0,84 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+În tabelul următor este prezentat numărul de clienți finali și consumul de energie electrică 
+defalcate pe tip de client și regim de furnizare pentru luna analizată. 
+Structura numărului de clienți finali și a consumului clienților finali  
+defalcat pe tip client/regim de furnizare 
+ 
+Tip client 
+- Iunie 2026- 
+Clienți Consum 
+Număr  Pondere 
+(%) 
+Cantitate 
+(MWh) 
+Pondere 
+(%) 
+Total din care: 9.125.362 100,00% 3.823.452,99 100,00% 
+Casnic  8.820.840 96,66% 1.057.758,85 27,67% 
+- concurențial 6.409.413 70,24% 842.588,03 22,04% 
+- SU 2.403.321 26,34% 214.333,87 5,61% 
+- UI 8.106 0,09% 836,96 0,02% 
+Noncasnic  304.522 3,34% 2.765.694,14 72,33% 
+- concurențial 297.753 3,26% 2.747.954,37 71,87% 
+- UI 6.769 0,07% 17.739,76 0,46% 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+În cazul clienților finali care în cursul lunii de analiză au trecut dintr-un regim de furnizare 
+în altul, consumul pe fiecare din regimuri corespunde perioadei din lună în care clientul final a 
+fost încadrat în regimul de furnizare respectiv. 
+Datele aferente regimului UI pentru ambele tipuri de clienți reflectă atât situația clienților 
+intrați în regim UI (preluați automat sau la cerere) în luna de raportare, cât și a celor intrați 
+anterior, dar care au rămas în acest regim, la nivelul tuturor furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare).  
+În luna analizată, aproximativ 80% din consumul de energie electrică al clienților casnici 
+a fost acoperit pe contracte încheiate în regim concurențial. 
+Evoluţia lunară pe ultimele 24  de luni a cantităţilor de energie electrică furnizate clienţilor 
+finali, detaliat pe tipuri de client și regimuri de furnizare, este prezentată în următorul grafic, iar 
+în cel de -al doilea grafic este prezentată comparativ, pentru aceeași perioadă, evoluția lunară a 
+consumului de energie electrică defalcat pe categorii de clienți finali. 
+ 
+ 
+ 
+PDF PAGE 38
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 38 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+GWh
+Evoluția consumului de energie electrică al clienților finali
+casnici - regim concurențial noncasnici - regim concurențial casnici - regim SU
+noncasnici - regim UI casnici - regim UI
+1,240 1,189 1,204 1,157 1,078 1,068 1,139 1,156 1,197 1,171 1,351 1,284 1,321 1,380 1,218 1,218 1,242 1,171 1,157 1,104 1,116 1,047 1,086 1,058
+3,169 3,110 2,884 2,934
+2,689 2,819 2,784 2,898 2,924 2,860
+2,823 2,824 2,832
+2,974
+2,768 2,860 2,779 2,847
+2,610 2,559 2,748 2,749 2,862 2,766
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2025 2026 2025 2026 2025 2026 2025 2026 2025 2026 2025 2026
+iulie august septembrie octombrie noiembrie decembrie ianuarie februarie martie aprilie mai iunie
+GWh Comparația cu luna similară din anul anterior
+a consumului de energie electrică pe piața cu amănuntul, pe categorii de clienți finali
+Consum clienți casnici Consum clienți noncasnici
+PDF PAGE 39
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 39 
+ 
+ 
+4. Prețuri medii de furnizare la clienții finali  
+ 
+Prețurile medii de furnizare a energiei electrice s -au determinat ca medii ponderate între 
+prețurile prevăzute în condițiile contractuale din contractele de furnizare  încheiate cu clienții 
+finali încadrați pe respectiva tranșă de consum și cantitățile de energie electrică furnizate acestora.  
+Acestea includ prețul energiei electrice active conform contractului încheiat cu clienții 
+finali încadrați pe respectiva tranșă de consum (format din componenta de achiziție a energiei 
+electrice care include tariful de introducere în rețea și componenta de  furnizare) și tarifele 
+reglementate pentru serviciile de rețea prestate. Prețul mediu de furnizare NU include taxele 
+(certificate verzi, cogenerare de înaltă eficiență, contribuția aferentă contractelor de diferență, 
+acciză) sau TVA. 
+În conformitate cu prevederile Metodologiei PAM, prețurile medii de furnizare raportate 
+de participanții la PAM pe fiecare categorie de clienți și tranșă de consum corespund energiei 
+consumate în luna de raportare și reflectă condițiile contractuale, care începând cu luna iulie 2025 
+reprezintă prețurile facturate clienților finali.  
+Pentru clienții finali (casnici, noncasnici) preluați de FUI în regim UI după data intrării în 
+vigoare a Regulamentului privind furnizarea de ultimă instanță a energiei electrice, aprobat prin 
+Ordinul președintelui ANRE nr. 91/2022 cu modificările și completările din Ordinul ANRE nr. 
+11/2025, furnizarea energiei electrice se realizează în baza contractelor de furnizare a energiei 
+electrice încheiate în conformitate cu prevederile Contractului-cadru de furnizare a energiei 
+electrice la clienții finali preluați de către furnizorul de ultimă instanță  (aprobat prin același 
+Ordin).  
+În următoarele tabele se prezintă agregat pe tranșe de consum și regimuri de furnizare 
+prețul mediu de furnizare al energiei electrice către clienții finali, detaliat pe tip de client pentru 
+luna analizată. 
+Prețul mediu de furnizare 
+pe tranșe de consum și regimuri de furnizare 
+clienți finali noncasnici 
+            lei/MWh 
+Tranșă de consum 
+-Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+UI 
+IA 1044,29 1042,11 1169,52 
+IB 1006,61 1004,91 1115,07 
+IC 857,25 853,52 1103,53 
+ID 797,77 795,54 1132,19 
+IE 747,67 747,67  
+IF 686,66 686,66  
+IG 614,82 614,82  
+Total 791,26 789,11 1124,40 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+PDF PAGE 40
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 40 
+ 
+ 
+Prețul mediu de furnizare  
+pe tranșe de consum și regimuri de furnizare  
+clienți casnici  
+             lei/MWh 
+Tranșă de consum 
+-Iunie 2026- Total PAM Regim  
+concurențial 
+Regim  
+SU 
+Regim  
+UI 
+DA 1112,89 1081,58 1219,59 1278,73 
+DB 1119,08 1089,74 1223,92 1112,88 
+DC 1098,37 1067,72 1219,96 1167,96 
+DD 1041,22 1012,06 1222,09 932,08 
+DE 974,52 953,85 1235,89 1287,73 
+Total 1100,15 1069,09 1222,01 1156,91 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Evoluţia lunară a prețului mediu de furnizare al energiei electrice vândute clienților finali, 
+detaliat pe tipuri de clienți și regimuri de furnizare este prezentată în următoarele grafice. 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+lei/MWh
+Evoluția prețurilor medii de furnizare a energiei electrice la clienții finali noncasnici 
+noncasnici - regim concurențial noncasnici - regim UI
+PDF PAGE 41
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 41 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Datele aferente regimului UI pentru ambele tipuri de clienți, reflectă atât situația clienților 
+intrați în regim UI (preluați automat sau la cerere) în luna de raportare, cât și a celor intrați 
+anterior, dar care au rămas în acest regim, la nivelul tuturor  furnizorilor de ultimă instanță 
+(indiferent dacă au fost nominalizați sau nu pentru luna de raportare). 
+ 
+5. Indicatori de concentrare pe piaţa cu amănuntul de energie electrică 
+Gradul de concentrare depinde de numărul participanților la PAM și de dimensiunea 
+activității de furnizare pe fiecare segment de clienți sau regim de furnizare. Indicatorii de 
+concentrare sunt de natură să indice existența eventualei posibilități de exerci tare a puterii de 
+piață.  
+Prezentăm în continuare, sub formă grafică, cotele de piață ale participanților activi pe 
+PAM în luna analizată (furnizori concurențiali, furnizori de ultimă instanţă, producători) din 
+cantitatea totală de energie electrică furnizată clienţilor casnici și finali noncasnici, pentru toate 
+tipurile de regimuri de furnizare (concurențial, SU, UI). 
+ 
+ 
+ 
+ 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+lei/MWh
+Evoluția prețurilor medii de furnizare a energiei electrice la clienții casnici 
+casnici - regim concurențial casnici - regim SU casnici - regim UI
+PDF PAGE 42
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 42 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Cotele de piață ale participanților activi în luna analizată (furnizori concurențiali, 
+furnizorii de ultimă instanţă, producători) pe piața concurențială din cantitatea totală de energie 
+electrică furnizată clienţilor casnici și finali noncasnici în regim concurențial sunt prezentate în 
+graficul de mai jos. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 82 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților finali
+- Iunie 2026 -
+Consum final: 3823,45 GWh 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute în regim concurențial clienților finali
+- Iunie 2026 -
+Consum final: 3590,54 GWh 
+Indicatori concentrare piață: C1 - 20,79%; C3 - 44,69%; HHI - 884,27
+Categoria "Alții" include 82 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+PDF PAGE 43
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 43 
+ 
+În graficele următoare sunt prezentate cotele de piață ale furnizorilor activi pe PAM în 
+funcție de numărul de clienți finali deserviți și de cantitatea de energie electrică furnizată clienților 
+casnici și clienților finali noncasnici în luna analizată. 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31.02%
+26.56%
+16.11%
+11.94%
+10.95%
+2.16% 1.25%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Cotele de piață ale participanților activi pe PAM în funcție de numărul de clienți finali
+- Iunie 2026 -
+Categoria "Alții" include 94 de participanți la piață ale căror cote de piață individuale sunt sub 1%. În această categorie nu sunt incluși acei 
+participanți la piață care au fost activi pe PAM pe parcursul lunii de raportare, dar până la sfârșitul lunii au rămas fără c lienți. 
+27.53% 26.11%
+21.96%
+11.91%
+9.21%
+2.00% 1.27%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Categoria "Alții" include 22 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM
+în funcție de cantitățile de energie electrică vândute clienților casnici
+- Iunie 2026 -
+Consum final: 1057,76 GWh 
+PDF PAGE 44
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 44 
+ 
+ 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+Precizăm că, în calculul de determinare a valorilor indicatorilor de piaţă, nu s-a ţinut cont 
+de principiul dominanţei, fiind evidențiată cota fiecărui furnizor în parte, indiferent de apartenența 
+acestuia la un grup de societăți afiliate. Cantitatea de energie electrică furnizată pe baza căreia s-
+a stabilit cota de piaţă a fiecărui furnizor include consumul la locurile de consum proprii ale 
+marilor clienţi industriali care deţin şi licenţă de furnizare şi care au decis să -şi achiziţioneze 
+energia de pe piaţa angro, în calitate de furnizori concurenţiali.  
+Valorile indicatorilor de concentrare şi numărul furnizorilor activi în luna analizată, la 
+nivelul întregii cantități de energie furnizate pe PAM sunt prezentate în tabelele următoare, 
+defalcat pe tipuri de clienți finali (noncasnici/casnici) și pe tranşe de consum. 
+ 
+Indicatori de concentrare  
+Total PAM 
+- Iunie 2026- 
+Tranșe consum 
+Clienți noncasnici 
+ 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 32 24 16 12 15 51 30 19 
+C3 (%) 70 56 42 29 40 72 55 35 
+HHI 2067 1381 900 568 798 2941 1470 697 
+Consum (GWh) 151 420 289 657 388 231 629 2766 
+Nr. furnizori activi 68 74 62 54 31 12 16 100 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Categoria "Alții" include 80 de participanți la piață ale căror cote de piață individuale sunt sub 1%
+Cotele de piață ale participanților activi pe PAM 
+în funcție de cantitățile de energie electrică vândute clienților finali noncasnici
+- Iunie 2026 -
+Consum final: 2765,69 GWh 
+PDF PAGE 45
+Raport monitorizare piaţă de energie electrică – luna iunie 2026 
+ 45 
+ 
+ 
+Indicatori de concentrare  
+Total PAM 
+- Iunie 2026- 
+Tranșe consum  
+Clienți casnici  
+ DA DB DC DD DE Total 
+C1 (%) 29 29 29 36 53 28 
+C3 (%) 73 73 77 85 88 76 
+HHI 2111 2117 2249 2613 3478 2153 
+Consum (GWh) 202 446 269 109 33 1058 
+Nr. furnizori activi 26 26 24 23 21 28 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+În mod similar, prezentăm indicatorii de concentrare şi numărul furnizorilor activi în luna 
+analizată la nivelul componentei concurențiale a energiei electrice furnizate clienților finali 
+noncasnici/casnici. 
+Indicatori de concentrare 
+Regim Concurențial 
+-Iunie 2026- 
+Tranșe consum 
+Clienți noncasnici 
+ IA IB IC ID IE IF IG Total 
+C1 (%) 33 24 16 12 15 51 30 19 
+C3 (%) 70 56 42 29 40 72 55 35 
+HHI 2092 1381 905 573 798 2941 1470 699 
+Consum (GWh) 149 413 285 652 388 231 629 2748 
+Nr. furnizori activi 68 74 61 54 31 12 16 99 
+ 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+Indicatori de concentrare 
+ Regim Concurențial 
+- Iunie 2026- 
+Tranșe consum  
+Clienți casnici  
+ 
+ DA DB DC DD DE Total 
+C1 (%) 27 30 33 42 57 30 
+C3 (%) 74 73 78 85 88 76 
+HHI 2116 2067 2325 2937 3866 2209 
+Consum (GWh) 156 348 215 94 30 843 
+Nr. furnizori activi 26 26 24 23 21 28 
+ 
+Sursa: Raportările lunare ale participanților activi pe PAM - prelucrare SMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

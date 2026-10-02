@@ -1,0 +1,19 @@
+{
+  "id": "OPCOM_TARIFF_ARCHIVE",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/anunturi-stiri-fpa/ro/10",
+  "title": "OPCOM historical tariff notices",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:20.934881+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/anunturi-stiri-fpa/ro/10",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_TARIFF_ARCHIVE__a1/original.html",
+  "sha256": "af8ee0497097a1a2fded46637f88c8a01c024e1be333163ee91c0ddb3c7279b7",
+  "bytes": 74436,
+  "detected_format": "html"
+}

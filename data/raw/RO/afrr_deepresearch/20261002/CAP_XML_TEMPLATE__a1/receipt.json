@@ -1,0 +1,17 @@
+{
+  "id": "CAP_XML_TEMPLATE",
+  "url": "https://www.transelectrica.ro/documents/10179/38928/ANS_bids.xml/f2539b9f-80b3-4c29-b27d-eb06a968888f",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:14:03.528945+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/38928/ANS_bids.xml/f2539b9f-80b3-4c29-b27d-eb06a968888f",
+  "content_type": "text/xml",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/CAP_XML_TEMPLATE__a1/original.xml",
+  "sha256": "6f44965321ff552224daa29c50747b8052ec2516bdcc4b60d49f5a0dc3e3dfd6",
+  "bytes": 2473,
+  "detected_format": "xml"
+}

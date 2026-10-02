@@ -1,0 +1,425 @@
+
+--- PDF PAGE 1 ---
+Operatorul pietei de energie electrica si de gaze naturale „OPCOM” SA  
+Sinteza/Procedura privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie 
+Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor 
+practicate de OPEED. 
+1 
+ 
+Denumire 
+Tarife 
+practicate de 
+OPEED 
+ 
+U/M 
+ 
+Tarifele practicate, reguli de aplicare  
+  
+Valoare tarif 
+ 
+Tip factura 
+ 
+Facturarea tarifului OPEED 
+ 
+Termen de plata 
+ 
+Alte informatii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tariful 
+de 
+administrare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lei/ 
+participant/ 
+an 
+ 
+ 
+OPEED aplică fiecărui participant la pieţele organizate şi 
+administrate de acesta un singur tarif de administrare, 
+indiferent de numărul pieţelor pe care participă. 
+ 
+Tariful de administrare se calculeaza cu formula: 
+Tadmin = Vadmin /Nr. participanţi [lei/participant/an] 
+ 
+unde: 
+Vadmin= Venitul din administrare estimat a fi realizat în perioada 
+tarifară t 
+Nr. participanţi = Numarul de participanti care se ia in 
+considerare la stabilirea tarifului de administrare pentru 
+perioada tarifara t este numarul de participanti estimat in luna 
+decembrie a fiecarui an, la data inaintarii spre aprobare a 
+propunerii de tarife de catre Consiliul de administratie 
+ 
+Tariful de administrare se stabileşte distinct pe două categorii 
+de participanţi: A şi B.  
+Pentru participanţii care se încadrează în categoria A, tariful de 
+administrare aplicat reprezintă 60% din tariful aplicabil 
+participanţilor din categoria B. 
+ 
+1. Incadrarea anuala a participantilor în categoria A şi respectiv 
+in categoria B la data de 01.12.(t-1) in vederea stabilirii 
+tarifelor pentru anul urmator (t): 
+- Categoriile A si B  sunt stabilite pe baza cantităţii totale de 
+energie electrică tranzacţionata, cumulat la vânzare şi la 
+cumpărare, realizată de participantul la PZU şi/sau PI (IDCT și/sau 
+IDA) in perioada 1 decembrie a perioadei tarifare t-2 până la 30 
+noiembrie a perioadei tarifare t-1. 
+- Încadrarea în categoria A şi respectiv in categoria B a 
+participantului înregistrat la PZU şi/sau PI (IDCT și/sau IDA) în 
+perioada 1 decembrie (t-2) - 30 noiembrie (t-1) se realizează pe 
+baza cantităţii medii lunare de energie electrică tranzacţionată, 
+cumulat la vânzare şi la cumpărare de participantul respectiv, pe 
+pieţele la care participă, astfel: 
+    a) categoria A, dacă cantitatea medie lunară tranzacţionată 
+este mai mică sau egală cu 833 MWh; 
+    b) categoria B, dacă cantitatea medie lunară tranzacţionată 
+este mai mare decât 833 MWh. 
+2.  Incadrarea si reconsiderarea incadrarii participantilor  din 
+categoria A in categoria B in cursul perioadei tarifare t – reguli 
+generale: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- categoria A: 
+26.268 lei/ 
+participant/ an 
+- categoria B: 
+43.776 lei/ 
+paticipant/an 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Factura 
+electronica 
+ 
+1. Factura aferentă activităţii de 
+administrare pentru perioada 
+tarifară t se emite: 
+- anual; 
+- la inregistrarea participantului la 
+PZU şi/sau PI 
+- cu prilejul reconsiderarii incadrarii 
+din categoria A in categoria B 
+ 
+2. Factura aferentă activităţii de 
+administrare pentru perioada 
+tarifară t, (la care se adauga TVA , 
+dupa caz) pentru fiecare participant 
+înscris la PZU şi/sau PI (IDCT și/sau 
+IDA), se emite de către OPEED în 
+maximum 5 zile lucrătoare de la 
+data aprobării de către Consiliul de 
+administratie a tarifelor practicate 
+de OPEED  si se transmite electronic 
+in SPV-ANAF  in 5 zile calendaristice 
+de la data emiterii facturii. 
+ 
+3. Pentru participanţii care se înscriu 
+la PZU şi/sau PI (IDCT și/sau IDA) în 
+cursul perioadei tarifare t, factura 
+(la care se adauga TVA, dupa caz) se 
+emite în maximum 5 zile lucrătoare 
+de la data inregistrarii la piata şi se 
+transmite electronic in SPV-ANAF in 
+5 zile calendaristice de la data 
+emiterii facturii. 
+ 
+ 
+ 
+Plata facturii se 
+efectuează de 
+participant prin 
+virament bancar, 
+cu ordin de plată, 
+în 5 zile lucrătoare 
+de la data emiterii.  
+ 
+Factura se 
+considera achitata 
+la data inregistrarii 
+platii in  extrasul 
+bancar al OPCOM 
+SA. 
+ 
+ 
+In situatia de retragere/revocare a 
+participantului de la PZU şi/sau PI: 
+- OPEED stornează factura aferentă 
+tarifului de administrare proporțional cu 
+perioada cuprinsă între data de 1 a lunii 
+următoare datei intrării în efectivitate a 
+retragerii/revocarii și sfârșitul anului. 
+ 
+Contravaloarea aferentă facturii stornate, 
+în situatia în care aceasta a fost achitată, 
+va fi restituita în maxim 5 (cinci) zile 
+lucrătoare de la data transmiterii facturii 
+de stornare in SPV-ANAF. 
+ 
+ 
+
+--- PDF PAGE 2 ---
+Operatorul pietei de energie electrica si de gaze naturale „OPCOM” SA  
+Sinteza/Procedura privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie 
+Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor 
+practicate de OPEED. 
+2 
+ 
+Denumire 
+Tarife 
+practicate de 
+OPEED 
+ 
+U/M 
+ 
+Tarifele practicate, reguli de aplicare  
+  
+Valoare tarif 
+ 
+Tip factura 
+ 
+Facturarea tarifului OPEED 
+ 
+Termen de plata 
+ 
+Alte informatii 
+ 
+- Participanţii inregistrati în perioada tarifară t, la cel puţin o 
+piaţă din cele organizate şi administrate de OPEED, sunt 
+incadrati  în categoria A şi plătesc tariful de administrare 
+aferent categoriei A. 
+ 
+- Pentru participanţii care se înregistrează la PZU şi/sau PI (IDCT 
+și/sau IDA) pe parcursul perioadei tarifare t, valoarea tarifului de 
+administrare se ponderează cu durata pentru care participantul 
+este înscris la pieţele organizate şi administrate de OPEED, 
+exprimată în luni din perioada tarifară respectivă. 
+ 
+- Cantitatea de energie electrică tranzacţionată de participanţii 
+înregistraţi in perioada tarifara (t) este evaluată de OPEED lunar 
+in perioada tarifară t în vederea reconsiderării încadrării în 
+categoria B, după caz, în baza cantităţii medii lunare 
+tranzacţionate de participanti cumulat la vânzare şi la 
+cumpărare. 
+ 
+- Incadrarea in categoria B se face incepand cu luna urmatoare 
+celei in care a fost indeplinita conditia de la pct.1 b). 
+ 
+- Participantul a carei categorie a fost reconsiderata in timpul 
+anului, din categoria A in categoria B, ramane incadrat in 
+categoria B pe tot parcursul perioadei tarifate t. 
+ 
+- Categoria in care sunt incadrati participantii care au avut 
+calitatea de participanti si in anul anterior se evalueaza lunar pe 
+parcursul perioadei tarifare t astfel: 
+- pe baza cantităţii medii lunare de energie electrică 
+tranzacţionată in ultimele 12 luni; 
+- pe baza cantităţii medii lunare de energie electrică 
+tranzacţionată in perioada in care a indeplinit calitatea de 
+participant (in situatia participantilor inregistrati in anul 
+anterior, calculata pe maxim 12 luni) 
+cumulat la vânzare şi la cumpărare, pe pieţele la care participă. 
+ 
+ 
+ 
+ 
+ 
+ 
+Tariful de 
+tranzactionare  
+ 
+ 
+ 
+ 
+ 
+ 
+Lei/Mwh 
+ 
+ 
+ 
+ 
+ 
+Tariful de tranzacţionare se calculează cu formula: 
+   Ttranz = Vtranz/(2 x Qtranz)    [lei/MWh] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pentru tranzacţiile realizate de către 
+participanţii pe pieţele PZU şi/sau PI 
+(IDCT și/sau IDA) pentru livrare în 
+cursul  lunii, factura electronica (la 
+care se adauga TVA , dupa caz) se 
+transmite electronic in SPV-ANAF în 
+ 
+Factura se achită 
+de către 
+participanţi în 
+termen de 5 zile 
+lucrătoare de la 
+data primirii 
+ 
+ 
+
+--- PDF PAGE 3 ---
+Operatorul pietei de energie electrica si de gaze naturale „OPCOM” SA  
+Sinteza/Procedura privind tarifele practicate de Operatorul desemnat al pieței de energie electrică (OPEED) pentru serviciile prestate participanților la Pieţele pe Termen Scurt de Energie 
+Electrică (Piața pentru Ziua Următoare și Piaţa Intrazilnică - Tranzacționare Continuă (IDCT) și Tranzactionare prin licitatii (IDA)) în 2026. Facturarea și termenele de plată a tarifelor 
+practicate de OPEED. 
+3 
+ 
+ 
+ 
+Denumire 
+Tarife 
+practicate de 
+OPEED 
+ 
+U/M 
+ 
+Tarifele practicate, reguli de aplicare  
+  
+Valoare tarif 
+ 
+Tip factura 
+ 
+Facturarea tarifului OPEED 
+ 
+Termen de plata 
+ 
+Alte informatii 
+     unde: 
+ - Vtranz – venitul din tranzacționare estimat a fi realizat în 
+perioada tarifară t 
+ - Qtranz - cantitatea de energie electrică estimată a fi 
+tranzacţionată, diminuată cu cantităţile de energie electrică 
+estimate aferente participantului implicit. 
+ 
+Tariful de tranzacţionare se aplică  atat pentru tranzactiile de 
+vanzare cat si pentru tranzactiile de cumparare realizate de catre 
+participantii la PZU si/sau PI (IDCT și/sau IDA), cu livrare în luna 
+de tarifare. 
+ 
+ 
+ 
+0,125 lei/MWh 
+tranzacționat. 
+ 
+ 
+ 
+Factura 
+electronica 
+primele 5 zile calendaristice de la 
+data emiterii facturii , din luna 
+următoare lunii de livrare pentru 
+care s-au realizat tranzacţiile de 
+vânzare si  respectiv de cumpărare 
+de energie electrică. 
+ 
+Tariful de tranzacţionare se aplica, 
+se factureaza si se achita  distinct 
+pentru fiecare dintre mecanismele 
+de tranzactionare puse la dispozitia 
+participantilor de catre OPCOM, 
+respectiv: PZU; PI IDCT; PI IDA. 
+ 
+facturii in SPV-
+ANAF. 
+ 
+Factura se 
+considera achitata 
+la data inregistrarii 
+platii in  extrasul 
+bancar al OPCOM 
+SA. 
+ 
+Prevederi generale: 
+1. Tarifele practicate de OPEED sunt:   
+     a) tarif de administrare, Tadmin [lei/participant/an] si  
+     b) tarif de tranzacţionare, Ttranz [lei/MWh]. 
+2. Tarifele practicate de OPEED pentru perioada tarifară t se stabilesc si se aprobă de către Consiliul de administratie în cursul lunii decembrie a perioadei tarifare t-1/in cursul perioadei tarifare t, dupa caz. 
+3. OPCOM publica pe pagina de internet proprie tarifele practicate in anul urmator/modificate in perioada de aplicare, cu cel putin 15 zile inainte de aplicare (inainte de data intrarii in vigoare a noilor tarife). 
+4. Modificarea tarifelor in cursul perioadei tarifare (t): 
+    4.1. OPCOM modifica valoarea tarifelor practicate in interiorul perioadei tarifate (t), in conformitate cu decizia de aprobare a Consiliului de administratie. Tarifele stabilite se publica cu cel putin 15 zile inainte de aplicare (inainte   de 
+data intrarii in vigoare a noilor tarife). 
+4.2. OPCOM aplica modificarea tarifelor practicate incepand cu data de intai a lunii urmatoare celei in care a avut loc modificarea. In acest caz OPCOM emite facturi de regularizare a tarifului de administrare aferent perioadei tarifare 
+t, corespunzator modificarii. Diferenta rezultata din regularizare se achita in maxim 5 (cinci) zile lucratoare de la data primirii facturii astfel: 
+- daca suma rezultata din regularizare are semnul plus se achita de catre participant; 
+- daca suma rezultata din regularizare are semnul minus se achita de catre OPCOM. 
+5. Facturile se emit si se transmit in format electronic, in conformitate cu prevederile legale in vigoare.  
+   Autenticitatea originii, integritatea conținutului și lizibilitatea facturii emise în format electronic  sunt garantate de OPCOM S.A. prin semnatură electronică și atribuirea de serie și număr intern, specific, conform legii. 
+6. Suspendarea, retragerea sau revocarea unui participant la pietele organizate de energie electrica la termen, nu exonereaza partile de indeplinirea obligatiilor angajate pana la acea data. 
+Baza legala: 
+- Ordinul ANRE nr.100/14.11.2023; 
+- Decizia Consiliului de administratie al OPCOM SA nr. 79/12.12.2025;  
+- Legea nr.227/2015 privind Codul Fiscal; 
+- OUG nr.120/2021 privind administrarea, functionarea si implementarea sistemului national privind factura electronica RO e-factura si factura electronica in Romania. 

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "PAGE_marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=marginalPricesOverview",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:25:30.294722+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=marginalPricesOverview",
+    "content_type": "application/json; charset=utf-8",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/PAGE_marginalPricesOverview__a1/original.json",
+    "sha256": "68c9742e0837507a06d139dc67874aa3198040608d3a6a4b8ed43df1b9a949b3",
+    "bytes": 1613,
+    "detected_format": "json"
+  },
+  {
+    "id": "PAGE_activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=activatedBalancingEnergyOverview",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:25:30.295709+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=activatedBalancingEnergyOverview",
+    "content_type": "application/json; charset=utf-8",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/PAGE_activatedBalancingEnergyOverview__a1/original.json",
+    "sha256": "6f3d552086c09807dcd62c098d1738286d543fac5ac28427f4f2524562157fc9",
+    "bytes": 1686,
+    "detected_format": "json"
+  },
+  {
+    "id": "PAGE_tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=tenderStatistics",
+    "attempt": 1,
+    "method": "GET",
+    "retrieved_utc": "2026-10-02T09:25:30.294722+00:00",
+    "status": "HTTP_OK_UNPARSED",
+    "publication_time": null,
+    "revision_time": null,
+    "http_status": 200,
+    "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=tenderStatistics",
+    "content_type": "application/json; charset=utf-8",
+    "raw_file": "data/raw/RO/afrr_deepresearch/20261002/PAGE_tenderStatistics__a1/original.json",
+    "sha256": "30914db3d78c29cd569982c515ceb17c6ca8a9f75192c8570221b0f286fea2f1",
+    "bytes": 1620,
+    "detected_format": "json"
+  }
+]

@@ -1,0 +1,4 @@
+﻿source_id,fee,source_value,normalized_value,unit,location,applicability
+NEMO_FEES_CURRENT_2026,administration category A,26.268,26268,RON/participant/year,PDF p1 tariff column,current 2026-hosted file; category/project/historic monthly eligibility unapproved
+NEMO_FEES_CURRENT_2026,administration category B,43.776,43776,RON/participant/year,PDF p1 tariff column,same
+NEMO_FEES_CURRENT_2026,trading,"0,125",0.125,RON/MWh traded,PDF p3 Trading tariff,buy and sell volumes separately; VAT where applicable not added here; historic periods unapproved

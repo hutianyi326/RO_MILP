@@ -1,0 +1,17 @@
+{
+  "id": "CAP_LIST_2026-08-31",
+  "dataset": "D05",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-08-30T21%3A00%3A00.000Z&timeInterval.to=2026-08-31T21%3A00%3A00.000Z&pageInfo.pageSize=3000",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "exact GET observed after UI historical filter",
+  "retrieved_utc": "2026-09-30T09:30:08.2270416Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/CAP_LIST_2026-08-31/original.json",
+  "bytes": 383844,
+  "sha256": "f63ba902672f1333c9efeb66188d66e2ca757abe82189e6bf8bd4bb54b141264"
+}

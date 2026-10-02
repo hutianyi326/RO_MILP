@@ -1,0 +1,140 @@
+[
+  {
+    "route": "home",
+    "label_en": "Home page",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "publicReports",
+    "label_en": "Public Reports",
+    "visibility": "onlyExpandable",
+    "state": "active"
+  },
+  {
+    "route": "auctionStatisticList",
+    "label_en": "Transfer Capacity Auction Statistics",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "capacityLimits",
+    "label_en": "Capacity Limits",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "marginalPricesOverview",
+    "label_en": "Marginal prices overview",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "finalUnintentionalDeviations",
+    "label_en": "Final unintentional deviations",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "estimatedImbalancePrices",
+    "label_en": "Estimated imbalance prices",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "estimatedPowerSystemImbalance",
+    "label_en": "Estimated power system imbalance",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "dailyConsumptionOverview",
+    "label_en": "Daily consumption overview",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "activatedBalancingEnergyOverview",
+    "label_en": "Activated balancing energy overview",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "scheduledExchanges",
+    "label_en": "Scheduled exchanges",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "scheduledExchangesAggregated",
+    "label_en": "Scheduled exchanges aggregated",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "nonDUEnergyDeliveryTotalGenerationNotified",
+    "label_en": "NonDU Energy Delivery & Total Generation Notified",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "tenderStatisticList",
+    "label_en": "Ancillary Services Tender Statistics",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "tenderStatistics",
+    "label_en": "Ancillary Services Tender Statistics Detail",
+    "visibility": "hidden",
+    "state": "active"
+  },
+  {
+    "route": "auctionStatistics",
+    "label_en": "Transfer Capacity Auction Statistics Detail",
+    "visibility": "hidden",
+    "state": "active"
+  },
+  {
+    "route": "finalSystemImbalance",
+    "label_en": "Final System Imbalance",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "finalImbalancePrices",
+    "label_en": "Final Imbalance Prices",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "balanceChecking",
+    "label_en": "Balance Checking",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "mrnNetBalancingCosts",
+    "label_en": "MRN Net Balancing Costs",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "mrnCostsAndRevenues",
+    "label_en": "MRN Costs and Revenues",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "brpList",
+    "label_en": "BRP List",
+    "visibility": "visible",
+    "state": "active"
+  },
+  {
+    "route": "error",
+    "label_en": "Error page",
+    "visibility": "hidden",
+    "state": "active"
+  }
+]

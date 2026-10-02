@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "scope": "Assessment document consistency and preservation of previously accepted delivery; no new download, collector deployment or source availability test",
+  "accepted_manifest_entries_checked": 67,
+  "accepted_delivery_hash_mismatches": [],
+  "local_links": [
+    {
+      "target": "acquisition_endpoints.md",
+      "exists": true
+    },
+    {
+      "target": "../../countries/RO/data_samples_20260930/dataset_use_and_next_steps.md",
+      "exists": true
+    },
+    {
+      "target": "../../countries/RO/data_samples_20260930/source_catalog.csv",
+      "exists": true
+    },
+    {
+      "target": "../../countries/RO/data_samples_20260930/raw_manifest.json",
+      "exists": true
+    }
+  ],
+  "source_references": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06"
+  ],
+  "source_references_have_registry_entries": true,
+  "assessment_sha256": "1ecd471b2ad5346f6c7bbc3bdc45101d42c66e9ff6f896f2d01f93c2fb375c81",
+  "continuous_collection_verified": false,
+  "api_access_requested": false,
+  "created_automation": false,
+  "official_sources_consulted_date": "2026-09-30"
+}

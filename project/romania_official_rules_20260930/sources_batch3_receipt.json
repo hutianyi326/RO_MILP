@@ -1,0 +1,72 @@
+[
+  {
+    "id": "E42",
+    "title": "Transelectrica final storage FCR publication9April2026",
+    "url": "https://web.transelectrica.ro/noutati/noutati/667_2026.04.09_13-43-49.pdf",
+    "resolved_url": "https://web.transelectrica.ro/noutati/noutati/667_2026.04.09_13-43-49.pdf",
+    "retrieved_utc": "2026-09-30T07:57:27.4450636Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E42\\original.pdf",
+    "bytes": 264423,
+    "sha256": "c1d98eec6ca4c17c69760f9358601799eadb81554771731e8b7c7b3127254191",
+    "extracted_characters": 709
+  },
+  {
+    "id": "E43",
+    "title": "Transelectrica final storage FCR technical procedure7April2026",
+    "url": "https://www.transelectrica.ro/documents/10179/3992484/Verificarea+pt+calificarea+pentru+asigurarea+RSF_instalatii+de+stocare_finala/37960dda-e070-4f7d-9f6b-0e73c35c30b8?version=1.0",
+    "resolved_url": "https://www.transelectrica.ro/documents/10179/3992484/Verificarea+pt+calificarea+pentru+asigurarea+RSF_instalatii+de+stocare_finala/37960dda-e070-4f7d-9f6b-0e73c35c30b8?version=1.0",
+    "retrieved_utc": "2026-09-30T07:57:32.5813968Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E43\\original.pdf",
+    "bytes": 1139786,
+    "sha256": "bc84a3c41613726cd422c6b6f561ddfc4d5cb9c99948d6af6fc4c6ff541bdf62",
+    "extracted_characters": 561
+  },
+  {
+    "id": "E48",
+    "title": "ANRE Order6/2025 license regulation approval26March2025",
+    "url": "https://anre.ro/wp-content/uploads/2025/04/ordinul-nr-6-2025-privind-aprobarea-regulamentului-pentru-acordarea-licentelor-si-autorizatiilor-in-sectorul-energiei-electrice.pdf",
+    "resolved_url": "https://anre.ro/wp-content/uploads/2025/04/ordinul-nr-6-2025-privind-aprobarea-regulamentului-pentru-acordarea-licentelor-si-autorizatiilor-in-sectorul-energiei-electrice.pdf",
+    "retrieved_utc": "2026-09-30T07:57:54.4595829Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E48\\original.pdf",
+    "bytes": 88609,
+    "sha256": "c28407213ac607074a6b671ab849e0cd4197eaae0bb2edf7e9edc95acb36862c",
+    "extracted_characters": 5437
+  },
+  {
+    "id": "E49",
+    "title": "Transelectrica news chronological index",
+    "url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+    "resolved_url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+    "retrieved_utc": "2026-09-30T07:57:56.9251737Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "data\\raw\\RO\\rules\\20260930\\E49\\original.html",
+    "bytes": 182461,
+    "sha256": "5158c41038eb8411b1c65f39281928b7aef632df736dc53dd8df2975dc775b05",
+    "extracted_characters": 101184
+  },
+  {
+    "id": "E50",
+    "title": "DSO Oltenia stored-energy exemption operating procedure2025",
+    "url": "https://www.distributieoltenia.ro/resources/ckfinder/core/connector/php/connector.php?command=Proxy&currentFolder=%2FDO%2FCERTIFICARI+SI+PREVEDERI+LEGALE%2FMasurarea+energiei+electrice%2F2025%2F&fileName=Ordin+ANRE+56_2025+-+Procedur%C4%83+operationala+scutire+tarifelor+reglementate+energie+stocat%C4%83.pdf&hash=24460cc7b9aefcd5&lang=en&type=Files",
+    "resolved_url": "https://www.distributieoltenia.ro/resources/ckfinder/core/connector/php/connector.php?command=Proxy&currentFolder=%2FDO%2FCERTIFICARI+SI+PREVEDERI+LEGALE%2FMasurarea+energiei+electrice%2F2025%2F&fileName=Ordin+ANRE+56_2025+-+Procedur%C4%83+operationala+scutire+tarifelor+reglementate+energie+stocat%C4%83.pdf&hash=24460cc7b9aefcd5&lang=en&type=Files",
+    "retrieved_utc": "2026-09-30T07:58:00.1601135Z",
+    "access_date": "2026-09-30",
+    "status": 200,
+    "content_type": "application/pdf",
+    "path": "data\\raw\\RO\\rules\\20260930\\E50\\original.pdf",
+    "bytes": 126163,
+    "sha256": "5729d7db66b363ebb946f174589580b111a80991d5b33eb7c6bfe388e0db73d4",
+    "extracted_characters": 28406
+  }
+]

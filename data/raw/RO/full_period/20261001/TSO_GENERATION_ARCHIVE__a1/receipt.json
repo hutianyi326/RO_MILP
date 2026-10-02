@@ -1,0 +1,15 @@
+{
+  "id": "TSO_GENERATION_ARCHIVE",
+  "dataset": "D09",
+  "publisher": "Transelectrica",
+  "title": "Actual production official linked file/archive",
+  "url": "https://www.transelectrica.ro/documents/10179/45094/7productie17a1.rar/744eae9f-5f6b-445d-b895-5d494823f3c7",
+  "scope": "probe and native sample validation before any time-series use",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:03:42.377725+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "TimeoutError: The read operation timed out"
+}

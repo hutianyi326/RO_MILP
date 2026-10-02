@@ -1,0 +1,14 @@
+{
+  "id": "E39",
+  "title": "Transelectrica balancing-provider registration",
+  "url": "https://www.transelectrica.ro/web/tel/inregistrare-revocare-ppe",
+  "resolved_url": "https://www.transelectrica.ro/web/tel/inregistrare-revocare-ppe",
+  "retrieved_utc": "2026-09-30T07:54:21.8912613Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E39\\original.html",
+  "bytes": 48397,
+  "sha256": "4f610ee8eb73d2a1862ffe9e5a1d33fca026747881c0c8630486a690498986f1",
+  "extracted_characters": 7935
+}

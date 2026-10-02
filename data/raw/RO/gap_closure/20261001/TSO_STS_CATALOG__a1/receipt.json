@@ -1,0 +1,19 @@
+{
+  "id": "TSO_STS_CATALOG",
+  "dataset": "D05",
+  "url": "https://www.transelectrica.ro/ro/web/tel/piata-serviciilor-tehnologice-de-sistem",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T23:35:56.149241+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/piata-serviciilor-tehnologice-de-sistem",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_STS_CATALOG__a1/original.html",
+  "sha256": "adfcf57e0706268e44d191dd93e17e6901c1efb1d99c733ea47bac068ef9f67d",
+  "bytes": 49293,
+  "detected_format": "html"
+}

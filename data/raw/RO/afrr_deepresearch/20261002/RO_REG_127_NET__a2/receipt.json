@@ -1,0 +1,11 @@
+{
+  "id": "RO_REG_127_NET",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282874",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:12:00.693381+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "RemoteDisconnected: Remote end closed connection without response"
+}

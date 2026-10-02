@@ -1,0 +1,194 @@
+[
+  {
+    "id": "BNR_FX_2025",
+    "dataset": "D14",
+    "publisher": "BNR",
+    "title": "Annual official reference exchange rates 2025",
+    "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2025.xml",
+    "scope": "official catalog-linked annual XML; no weekend fill; settlement use not approved"
+  },
+  {
+    "id": "BNR_FX_2026",
+    "dataset": "D14",
+    "publisher": "BNR",
+    "title": "Annual official reference exchange rates 2026",
+    "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2026.xml",
+    "scope": "official catalog-linked annual XML; no weekend fill; settlement use not approved"
+  },
+  {
+    "id": "MONTH_2026-01",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-01",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2601_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-02",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-02",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2602_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-03",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-03",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2603_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-04",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-04",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2604_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-05",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-05",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2605_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-06",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-06",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2606_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-07",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-07",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2607_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2026-08",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2026-08",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-01",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-01",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2501_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-02",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-02",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2502_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-03",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-03",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2503_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-04",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-04",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2504_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-05",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-05",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2505_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-06",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-06",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2506_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-07",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-07",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2507_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-08",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-08",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2508_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-09",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-09",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2509_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-10",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-10",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2510_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-11",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-11",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2511_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "MONTH_2025-12",
+    "dataset": "D12",
+    "publisher": "OPCOM",
+    "title": "Monthly Market Report 2025-12",
+    "url": "https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2512_EN.pdf",
+    "scope": "official catalog-linked monthly control; not native time-series"
+  },
+  {
+    "id": "TSO_H1_2026",
+    "dataset": "D10",
+    "publisher": "Transelectrica",
+    "title": "Raport Semestrial Ianuarie - Iunie 2026",
+    "url": "https://www.transelectrica.ro/documents/10179/23486252/Raport_ASF_S1_2026_RO.pdf/1e22931a-8b1b-4f2f-bf8a-01c70cd49711",
+    "scope": "official latest half-year report; snapshot date must be read from actual table"
+  },
+  {
+    "id": "TSO_INSTALLED_2026_0",
+    "dataset": "D10",
+    "publisher": "Transelectrica",
+    "title": "Installed/available capacity aggregate updated 01.09.2026",
+    "url": "https://www.transelectrica.ro/documents/10179/45094/7productie23.xls/4ed0d546-a1b7-4bde-a25f-656057902e3d",
+    "scope": "20 Capacitatea totală de producere instalată şi disponibilă în SEN diferenţiată pe surse primare de energie. Suma puterilor aferente unitatilor dispecerizabile si nedispecerizabile aflate la punctele 12 si 13. Baza de date actualizata pentru 01.09.2026."
+  }
+]

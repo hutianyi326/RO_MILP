@@ -1,0 +1,32 @@
+{
+  "id": "scheduledExchanges_2025-03",
+  "dataset": "D11",
+  "publisher": "Transelectrica / DAMAS II",
+  "title": "scheduledExchanges",
+  "report": "scheduledExchanges",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-02-28T23%3A00%3A00Z&timeInterval.to=2025-03-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2025-02-28T23:00:00Z",
+    "timeInterval.to": "2025-03-31T22:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "month": "2025-03",
+  "source_timezone": "Europe/Brussels",
+  "requested_start_utc": "2025-02-28T23:00:00Z",
+  "requested_end_utc": "2025-03-31T22:00:00Z",
+  "scope": "native monthly public report; unversioned ex-post snapshot",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:45:29.818956+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2025-02-28T23%3A00%3A00Z&timeInterval.to=2025-03-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/full_period/20261001/scheduledExchanges_2025-03__a1/original.json",
+  "sha256": "d5bf20a601d3b9374401a084857aff66f6016be40c47a80399c6804035eac545",
+  "bytes": 4801728,
+  "detected_format": "json"
+}

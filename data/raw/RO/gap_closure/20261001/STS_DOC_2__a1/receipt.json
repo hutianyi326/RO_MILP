@@ -1,0 +1,20 @@
+{
+  "id": "STS_DOC_2",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/147121/PO+RSF+2024/b683cd41-6fa4-4401-a9d4-9ac2697de556?version=1.0",
+  "title": "Procedura Operațională: Achiziţia prin licitaţie a rezervei pentru stabilizarea frecvenţei",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:11.712826+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/147121/PO+RSF+2024/b683cd41-6fa4-4401-a9d4-9ac2697de556?version=1.0",
+  "content_type": "application/x-rar-compressed",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_DOC_2__a1/original.html",
+  "sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+  "bytes": 278184,
+  "detected_format": "html"
+}

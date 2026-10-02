@@ -1,0 +1,21 @@
+{
+  "id": "TSO_SCADA_UNIT_REFERENCE",
+  "dataset": "D09",
+  "publisher": "Transelectrica",
+  "title": "SENGrafic native table field units",
+  "url": "https://www.transelectrica.ro/en/widget/web/tel/sen-grafic/-/SENGrafic_WAR_SENGraficportlet",
+  "scope": "unit cross-reference only; instantaneous widget not hourly archive substitute",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:30:06.302781+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/en/widget/web/tel/sen-grafic/-/SENGrafic_WAR_SENGraficportlet",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_SCADA_UNIT_REFERENCE__a1/original.html",
+  "sha256": "4c1eb467a5125747e03bd11500983fc67644f21a11796728c5cae82abfe6db8e",
+  "bytes": 32420,
+  "detected_format": "html"
+}

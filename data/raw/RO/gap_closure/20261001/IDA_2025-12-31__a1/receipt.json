@@ -1,0 +1,23 @@
+{
+  "id": "IDA_2025-12-31",
+  "dataset": "D03",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "body": {
+    "ziua_eng": "12/31/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh"
+  },
+  "title": "OPCOM public selected date IDA 2025-12-31",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:43:19.729385+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDA_2025-08-19__a2/form_original.html",
+  "form_sha256": "7a29480f9bb94849517f0e7cd789dfac6d41b3819f53301317026a55f141edc1",
+  "anonymous_session_reused": true,
+  "error": "URLError: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>"
+}

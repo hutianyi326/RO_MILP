@@ -1,0 +1,466 @@
+=== PDF PAGE 1 ===
+ACTE ALE AUTORITĂȚII NAȚIONALE DE
+REGLEMENTARE ÎN DOMENIUL ENERGIEI 
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+ORDIN
+pentru modificarea Regulamentului privind clauzele și condițiile pentru părțile 
+responsabile cu echilibrarea, aprobat prin Ordinul președintelui Autorității Naționale 
+de Reglementare în Domeniul Energiei nr. 127/2021
+Având în vedere prevederile art. 6 alin. (3) din Regulamentul (UE) 2017/2.195 al Comisiei din 23 noiembrie 2017 de
+stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică,
+în temeiul dispozițiilor art. 5 alin. (1) lit. c) și ale art. 9 alin. (1) lit. h) din Ordonanța de urgență a Guvernului nr. 33/2007
+privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată cu modificări și completări
+prin Legea nr. 160/2012, cu modificările și completările ulterioare,
+președintele Autorității Naționale de Reglementare în Domeniul Energieiemite următorul ordin:
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 266/27.III.202512
+Art. I. — Regulamentul privind clauzele și condițiile pentru
+părțile responsabile cu echilibrarea, aprobat prin Ordinul
+președintelui Autorității Naționale de Reglementare în Domeniul
+Energiei nr. 127/2021, publicat în Monitorul Oficial al României,
+Partea I, nr. 1196 din 17 decembrie 2021, cu modificările și
+completările ulterioare, se modifică după cum urmează:
+1. Articolul 11 va avea următorul cuprins: 
+„Art. 11. — Furnizorii de energie electrică care achiziționează
+energia electrică produsă și livrată în rețeaua electrică de către
+prosumatorii care dețin centrale electrice de producere a
+energiei electrice din surse regenerabile cu puterea instalată mai
+mică de 400 kW pe loc de consum sunt obligați să își asume
+responsabilitatea financiară pentru plata dezechilibrelor
+generate pe piața de energie electrică de către prosumatorii
+respectivi, conform prevederilor art. 21 alin. (3) din Legea
+energiei electrice și a gazelor naturale nr. 123/2012, cu
+modificările și completările ulterioare.”
+2. La articolul 171 alineatul (2), punctele (i)-(iv) vor avea următorul cuprins: 
+„ (i) Dacă ௜ǡ௝൐Ͳși ௜ǡ௝൯ሻ ൐ Ͳ,
+  atunci  ௜ǡ௝
+௜ǡ௝൯ሻ
+ (ii) Dacă ௜ǡ௝൐Ͳși ௜ǡ௝൯ሻ ൑ Ͳ,
+  atunci  ௜ǡ௝
+௅௜௩௥௔௧ൌͲ
+ (iii) Dacă ௜ǡ௝൏Ͳși ௜ǡ௝൯ሻ ൏ Ͳ,
+  atunci  ௜ǡ௝
+௜ǡ௝൯ሻ
+ (iv) Dacă ௜ǡ௝൏Ͳși ௜ǡ௝൯ሻ ൒ Ͳ,
+  atunci  ௜ǡ௝
+௅௜௩௥௔௧ൌͲ”
+3. Articolul 180 va avea următorul cuprins: 
+„Art. 180. — (1) OTS transmite ODDPRE, imediat ce
+primește factura aferentă unei luni de livrare de la entitatea
+europeană responsabilă de calculele de decontare, datele
+privind volumul de energie aferent schimburilor neintenționate/
+volumul de energie aferent schimburilor planificate prevăzute la
+art. 176 pct. (iii), (iv) și (v), precum și costurile/veniturile aferente
+schimburilor neintenționate/schimburilor planificate prevăzute la
+art. 176 pct. (iii) și (iv), rezultate în fiecare ID al lunii de livrare,
+în moneda națională a României la cursul de schimb publicat
+de Banca Națională a României, valabil pentru ziua de facturare,
+valori exprimate în lei cu două zecimale.
+(2) În cazul în care OTS primește de la entitățile europene
+responsabile de calculele de decontare ale mecanismului de
+compensare a dezechilibrelor, ale schimburilor planificate și
+schimburilor neintenționate facturi aferente modificărilor
+contravalorii și/sau cantității de energie schimbate prin
+intermediul acestor mecanisme cu abateri mai mici de 50% din
+valorile inițiale ale acestor cantități, aceste facturi se vor lua în
+considerare în cadrul calculului final al decontării pieței de
+energie electrică conform mecanismului:
+a) pentru modificările transmise în cursul anului n, aferente
+decontării din luna t a anului n, calculul final al decontării pieței
+de energie electrică pentru luna t din anul n se va efectua o
+singură dată pe an, respectiv în cursul lunii t a anului n + 1;
+b) pentru modificările transmise în cursul anului n + 1,
+aferente decontării din luna t a anului n, calculul final al
+decontării pieței de energie electrică pentru luna t din anul n se
+va efectua o singură dată pe an, respectiv în cursul lunii t a
+anului n + 2.
+
+=== PDF PAGE 2 ===
+(3) Facturile menționate la alin. (2) vor fi luate în considerare
+la determinarea costurilor, respectiv a veniturilor rezultate din
+echilibrarea SEN, conform celor descrise în cadrul secțiunii 6.7
+a prezentului regulament. Valorile vor fi considerate în moneda
+națională a României la cursul de schimb publicat de Banca
+Națională a României, valabil pentru ziua de facturare, valori
+exprimate în lei cu două zecimale. Ziua de facturare este
+aceeași cu cea prevăzută la alin. (1).”
+4. Articolul 187 va avea următorul cuprins: 
+„Art. 187. — OTS determină operativ prețul estimat unic de
+dezechilibru pentru toate dezechilibrele PRE în fiecare ID
+i, pe
+baza volumelor de energie contractate pentru echilibrarea SEN,
+după cum urmează:
+a) dacă într-un ID a fost activată numai energie de echilibrare
+pentru creștere de putere, atunci prețul estimat unic de
+dezechilibru pentru toate dezechilibrele PRE din ID respectiv va
+fi egal cu media ponderată a prețurilor marginale pentru fiecare
+tip de energie de echilibrare activată pentru creștere de putere
+și a cantităților de energie corespunzătoare tranzacțiilor angajate
+pentru creștere de putere;
+b) dacă într-un ID a fost activată numai energie de echilibrare
+pentru reducere de putere, atunci prețul estimat unic de
+dezechilibru pentru toate dezechilibrele PRE din ID respectiv va
+fi egal cu media ponderată a prețurilor marginale pentru fiecare
+tip de energie de echilibrare activată pentru reducere de putere
+și a cantităților de energie corespunzătoare tranzacțiilor angajate
+pentru reducere de putere;
+c) dacă într-un ID a fost activată energie de echilibrare și
+pentru creștere de putere și pentru reducere de putere, prețul
+estimat unic de dezechilibru pentru toate dezechilibrele PRE se
+va stabili în funcție de direcția dezechilibrului SEN, astfel:
+(i) în cazul în care sistemul a fost în deficit, prețul
+estimat unic de dezechilibru pentru toate
+dezechilibrele PRE va fi egal cu media ponderată a
+prețurilor marginale ale fiecărui tip de energie de
+echilibrare activată pentru creștere de putere și a
+cantităților corespunzătoare;
+(ii) în cazul în care sistemul a fost în excedent, prețul
+estimat unic de dezechilibru pentru toate
+dezechilibrele PRE va fi egal cu media ponderată a
+prețurilor marginale ale fiecărui tip de energie de
+echilibrare activată pentru reducere de putere și a
+cantităților corespunzătoare;
+d) în cazul în care într-un ID nu a fost activată energie de
+echilibrare nici pentru creștere de putere, nici pentru reducere de
+putere, prețul estimat unic de dezechilibru pentru toate
+dezechilibrele PRE va fi egal cu media aritmetică dintre cel mai
+mic preț al ofertelor din ordinea de merit pentru creștere de
+putere și cel mai mare preț, în modul, al ofertelor din ordinea de
+merit pentru reducere de putere corespunzătoare ID respectiv.”
+5. La articolul 189, partea introductivă va avea următorul
+cuprins:
+„Art. 189. — În luna următoare lunii de livrare, ODDPRE
+determină prețul inițial unic de dezechilibru pentru toate
+dezechilibrele PRE în fiecare ID, pe baza volumelor de energie
+contractate pentru echilibrarea SEN, după cum urmează:”.
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 266/27.III.2025 13
+6. Articolul 195 va avea următorul cuprins:
+„Art. 195. — (1) ODDPRE stabilește un preț final unic de dezechilibru pentru fiecare IDi al lunii de livrare în care se verifică
+simultan următoarele condiții:
+–/g3ௌாேǡ௜și
+–/g3௜ǡ௝
+௜ǡ௫
+௣௥௢௕௘ǡ௜หși 
+–/g3ௌாேǡ௜,
+unde:
+— DezSEN,i reprezintă dezechilibrul SEN calculat conform prevederilor art. 168;
+— ∑q probe,i reprezintă cantitatea totală de energie electrică livrată de centralele aflate în perioada de probă;
+— CSEN,i reprezintă consumul total al SEN, stabilit de ODDPRE pe baza valorilor măsurate;
+— qi,j
+creș și qi,x
+red reprezintă cantitatea energiei activate pentru echilibrarea SEN, corespunzătoare tranzacției angajate j/x
+pentru furnizarea creșterii/reducerii de putere în IDi;
+— k∆fti reprezintă volumul schimburilor planificate de energie pentru stabilizarea frecvenței în aria sincronă Europa
+Continentală;
+— SNi reprezintă volumul schimburilor neintenționate determinat conform prevederilor art. 176;
+— ∑DezPRE,i reprezintă suma algebrică a dezechilibrelor PRE în IDi; se consideră dezechilibrul PRE pozitiv cu semnul plus
+și dezechilibrul PRE negativ cu semnul minus.
+(2) În situația prevăzută la alin. (1), ODDPRE stabilește în intervalul IDi prețul final unic de dezechilibru cu următoarea formulă:
+ௗ௘௭ǡ௜
+ௗ௘௭ǡ௜
+௡௘௨௧௥ǡ௜
+௙௜௡ ,
+unde:
+— Pin
+dez,i reprezintă prețul inițial unic de dezechilibru în IDi, determinat conform prevederilor art. 189;
+— Cfin
+neutr,i reprezintă componenta de neutralitate financiară a OTS, determinată conform procesului descris la art. 194.
+
+=== PDF PAGE 3 ===
+(3) Dacă într-un ID i SEN se află în deficit și P fin
+dez,i < PCreș
+med,i,
+unde PCreș
+med,i reprezintă media ponderată a prețurilor marginale
+pentru fiecare tip de energie de echilibrare activată pentru
+creștere de putere și a cantităților de energie corespunzătoare
+în ID
+i, atunci prețul final unic de dezechilibru va fi egal cu PCreș
+med,i,
+conform prevederilor art. 55 alin. (4) din Regulamentul
+(UE) 2017/2.195. Costurile/Veniturile rezultate în urma aplicării
+acestei prevederi se vor regulariza conform prevederilor
+secțiunii 7.3 — Repartizarea costurilor sau veniturilor
+suplimentare provenite din echilibrarea sistemului.
+(4) Dacă într-un ID
+i SEN se află în excedent și Pfin
+dez,i > PRed
+med,i,
+unde PRed
+med,i reprezintă media ponderată a prețurilor marginale
+pentru fiecare tip de energie de echilibrare activată pentru
+reducere de putere și a cantităților de energie corespunzătoare
+în ID
+i, atunci prețul final unic de dezechilibru va fi egal cu PRed
+med,i,
+conform prevederilor art. 55 alin. (5) din Regulamentul
+(UE) 2017/2.195. Costurile/Veniturile rezultate în urma aplicării
+acestei prevederi se vor regulariza conform prevederilor
+secțiunii 7.3 — Repartizarea costurilor sau veniturilor
+suplimentare provenite din echilibrarea sistemului.
+(5) În fiecare ID
+i al lunii de livrare, în care nu se verifică
+condițiile prevăzute la alin. (1), ODDPRE aplică metoda celor
+două prețuri de dezechilibru, respectiv calculează prețul final de
+deficit, P
+def
+fin,i, și prețul final de excedent, Pexc
+fin,i, după cum urmează:
+a) Se determină prețurile de deficit și de excedent inițiale în
+IDi cu următoarele formule:
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 266/27.III.202514
+௜௡ǡ௜
+௠௘ௗǡ௜
+஼௥௘è
+௜௡ǡ௜
+௠௘ௗǡ௜
+ோ௘ௗ
+/g15
+unde:
+— PCreș
+med, i reprezintă media ponderată a prețurilor marginale
+pentru fiecare tip de energie de echilibrare activată pentru
+creștere de putere în ID
+i;
+— PRed
+med, i reprezintă media ponderată a prețurilor marginale
+pentru fiecare tip de energie de echilibrare activată pentru
+reducere de putere în IDi.
+b) Pentru fiecare ID se calculează drepturile de încasare
+inițiale ale PRE, (DI PRE, i ), și obligațiile de plată inițiale ale
+PRE, (OPPRE, i), prin înmulțirea dezechilibrelor negative ale PRE
+cu prețul de deficit inițial și a dezechilibrelor pozitive ale PRE cu
+prețul de excedent inițial.
+c) dacă (OP
+PRE, i – DIPRE, i) > CEEchSist,i, atunci:
+(i) Dacă într-un ID SEN se află în deficit, se calculează
+componenta de neutralitate financiară a OTS cu
+următoarea formulă:
+ͳ௡௘௨௧௥ǡ௜
+ா௖௛ௌ௜௦௧ǡ௜
+௣௢௭ǡ௜
+/g15
+unde:
+— OPPRE,i reprezintă obligațiile de plată ale PRE în IDi;
+— DIPRE,i reprezintă drepturile de încasare ale PRE în IDi;
+— CEEchSist,i reprezintă costurile efective pentru echilibrarea
+SEN în IDi, calculate conform prevederilor art. 184;
+— ΣDezPREpoz,i reprezintă suma dezechilibrelor pozitive ale
+tuturor PRE.
+Prețurile finale de deficit și excedent se calculează cu
+următoarele formule:
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+஼௥௘௦
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+ͳ௡௘௨௧௥ǡ௜
+௙௜௡
+(ii) dacă într-un ID SEN se află în excedent, se
+calculează componenta de neutralitate financiară a
+OTS cu următoarea formulă:
+ʹ௡௘௨௧௥ǡ௜
+ா௖௛ௌ௜௦௧ǡ௜
+௡௘௚ǡ௜
+/g15
+unde:
+— OPPRE,i reprezintă obligațiile de plată ale PRE în IDi;
+— DIPRE,i reprezintă drepturile de încasare ale PRE în IDi;
+— CEEchSist,i reprezintă costurile efective pentru echilibrarea
+SEN în IDi, calculate conform prevederilor art. 184;
+— ∑ DezPREneg,i reprezintă suma dezechilibrelor negative
+ale tuturor PRE.
+Prețurile finale de deficit și excedent se calculează cu
+următoarele formule:
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+ʹ௡௘௨௧௥ǡ௜
+௙௜௡ ȁ
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+ோ௘ௗ
+d) Dacă (OPPRE,i – DIPRE,i) < CEEchSist,i, atunci se calculează
+componenta de neutralitate financiară a OTS cu următoarea
+formulă: 
+͵௡௘௨௧௥ǡ௜
+ா௖௛ௌ௜௦௧ǡ௜
+௡௘௚ǡ௜ȁ
+/g15
+unde:
+— OPPRE,i reprezintă obligațiile de plată ale PRE în IDi;
+— DIPRE,i reprezintă drepturile de încasare ale PRE în IDi;
+— CEEchSist,i reprezintă costurile efective pentru echilibrarea
+SEN în IDi, calculate conform prevederilor art. 184;
+— ∑ DezPREpoz,i reprezintă suma dezechilibrelor pozitive ale
+tuturor PRE;
+— ∑ DezPREneg,i reprezintă suma dezechilibrelor negative
+ale tuturor PRE.
+Prețurile finale de deficit și excedent se calculează cu
+următoarele formule:
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+͵௡௘௨௧௥ǡ௜
+௙௜௡ ȁ
+௙௜௡ǡ௜
+௠௘ௗǡ௜
+͵௡௘௨௧௥ǡ௜
+௙௜௡ ȁ
+Art. II. — Operatorii economici din sectorul energiei electrice
+duc la îndeplinire prevederile prezentului ordin.
+Art. III. — Direcțiile de specialitate din cadrul Autorității
+Naționale de Reglementare în Domeniul Energiei urmăresc
+respectarea prevederilor prezentului ordin.
+”
+
+=== PDF PAGE 4 ===
+Art. IV. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I, și intră în vigoare și se aplică de la data
+publicării, cu excepția prevederilor art. I pct. 4, care se aplică de
+la data de 1 mai 2025, și a prevederilor art. I pct. 5 și 6, care se
+aplică de la data de 1 aprilie 2025.
+Art. V.— Prevederile art. I pct. 2 se aplică de la data aplicării
+prevederilor art. 1, 3 și 4 ale Ordinului președintelui Autorității
+Naționale de Reglementare în Domeniul Energiei nr. 124/2022
+privind aprobarea Regulilor pentru gestionarea congestiilor prin
+utilizarea pe bază de piață de către operatorii de rețea a
+flexibilității resurselor din rețelele de distribuție și a celor din
+rețeaua de transport, a Regulilor aplicabile achiziției de energie
+electrică reactivă pentru reglajul tensiunii în regim staționar de
+către operatorul de transport și de sistem și a Regulilor aplicabile
+achiziției de energie electrică reactivă pentru reglajul tensiunii
+în regim staționar de către operatorii de distribuție concesionari
+și privind modificarea și completarea Ordinului președintelui
+Autorității Naționale de Reglementare în Domeniul Energiei
+nr. 127/2021 pentru aprobarea Regulamentului privind clauzele
+și condițiile pentru furnizorii de servicii de echilibrare și pentru
+furnizorii de rezervă de stabilizare a frecvenței și a
+Regulamentului privind clauzele și condițiile pentru părțile
+responsabile cu echilibrarea și pentru modificarea și abrogarea
+unor ordine ale președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei, cu modificările ulterioare.
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 266/27.III.2025 15
+Președintele Autorității Naționale de Reglementare în Domeniul Energiei,
+George-Sergiu Niculescu
+București, 18 martie 2025.
+Nr. 9.
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+ORDIN
+privind aprobarea contribuției pentru contracte pentru diferență (CfD)
+Având în vedere prevederile art. 6 lit. d) liniuțele a 7-a și a 8-a și ale art. 72 alin. (1) din Legea energiei electrice și a gazelor
+naturale nr. 123/2012, cu modificările și completările ulterioare, ale art. III din Ordonanța de urgență a Guvernului nr. 54/20 24
+privind modificarea și completarea unor acte normative din domeniul energiei, aprobată cu modificări și completări prin Legea
+nr. 312/2024, ale art. 7 lit. e) din Hotărârea Guvernului nr. 318/2024 privind aprobarea cadrului general pentru implementarea ș i
+funcționarea mecanismului de sprijin prin contracte pentru diferență pentru tehnologiile cu emisii reduse de carbon, precum și ale
+Metodologiei de determinare și colectare a contribuției aferente contractelor pentru diferență, aprobată prin Ordinul președintelui
+Autorității Naționale de Reglementare în Domeniul Energiei nr. 51/2024, cu modificările și completările ulterioare, 
+în temeiul dispozițiilor art. 5 alin. (1) lit. c), alin. (2) și (5), precum și ale art. 9 alin. (1) lit. x) din Ordonanța de ur gență a
+Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată
+cu modificări și completări prin Legea nr. 160/2012, cu modificările și completările ulterioare,
+președintele Autorității Naționale de Reglementare în Domeniul Energieiemite următorul ordin:
+Art. 1. — Se aprobă contribuția pentru contracte pentru diferență
+(CfD) în valoare totală de 0,000206 lei/kWh, exclusiv TVA. 
+Art. 2. — Se aprobă contribuția aferentă contractelor pentru
+diferență — componenta Operatorului Schemei CfD în valoare
+de 0,000036 lei/kWh, exclusiv TVA.
+Art. 3. — Se aprobă contribuția aferentă contractelor pentru
+diferență — componenta Contrapărții CfD, în valoare de
+0,000170 lei/kWh, exclusiv TVA.
+Art. 4. — Operatorii economici din cadrul sectorului energiei
+electrice duc la îndeplinire prevederile prezentului ordin.
+Art. 5. — Direcțiile de specialitate din cadrul Autorității
+Naționale de Reglementare în Domeniul Energiei urmăresc
+respectarea prevederilor prezentului ordin.
+Art. 6. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I, și intră în vigoare la data de 1 aprilie 2025.
+Președintele Autorității Naționale de Reglementare în Domeniul Energiei,
+George-Sergiu Niculescu
+București, 25 martie 2025.
+Nr. 10.
+
+=== PDF PAGE 5 ===
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+&JUYEJT|637424]
+Monitorul Oficial al României, Partea I, nr. 266/27.III.2025 conține 16 pagini. Prețul: 9,60 lei ISSN 1453—4495
+„Monitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; 012329
+C.I.F. RO427282, IBAN: RO55RNCB0082006711100001 BCR
+și IBAN: RO12TREZ7005069XXX000531 DTCPMB (alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, www.monitoruloficial.ro
+Relații cu publicul: șos. Panduri nr. 1, bloc P33, sectorul 5, București; 050651.
+Tel. 021.401.00.73, 021.401.00.78/79/83. 
+Pentru publicări, încărcați actele pe site, la: https://www.monitoruloficial.ro, secțiunea Publicări.
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2025 —
+Nr. 
+crt. Denumirea publicației
+Valoare
+(TVA 5% inclus) — lei
+12 luni 3 luni 1 lună
+1. Monitorul Oficial, Partea I 2.760 760 275
+2. Monitorul Oficial, Partea I, limba maghiară 3.280 300
+3. Monitorul Oficial, Partea a II-a 4.920 440
+4. Monitorul Oficial, Partea a III-a 940 100
+5. Monitorul Oficial, Partea a IV-a 3.760 340
+6. Monitorul Oficial, Partea a VI-a 3.500 320
+7. Monitorul Oficial, Partea a VII-a 1.200 110
+NOTĂ:
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+Pentru comenzi, accesați www.monitoruloficial.ro, Magazin online, Monitorul Oficial — apariții și abonamente.
+ABONAMENTE LA PRODUSELE ÎN FORMAT ELECTRONIC
+— Prețuri pentru anul 2025 —
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica online comanda.
+* Tarifele anuale se aplică pentru comenzile online efectuate până la 31 ianuarie 2025.
+Produs
+Abonamentul FLEXIBIL 
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar Anual*
+Online/
+Monopost
+Rețea 
+5
+Rețea 
+25
+Rețea 
+100
+Rețea 
+300
+Online/
+Monopost
+Rețea 
+5
+Rețea 
+25
+Rețea 
+100
+Rețea 
+300
+AutenticMO 65 160 400 960 2.110 650 1.630 4.080 9.790 21.540
+ExpertMO 115 290 730 1.750 3.850 1.150 2.880 7.200 17.280 38.020
+Produs
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar Anual*
+Online/
+Monopost
+Rețea 
+5
+Rețea 
+25
+Rețea 
+100
+Rețea 
+300
+Online/
+Monopost
+Rețea 
+5
+Rețea 
+25
+Rețea 
+100
+Rețea 
+300
+AutenticMO 75 190 480 1.150 2.530 750 1.880 4.700 11.280 24.820
+ExpertMO 140 350 880 2.110 4.640 1.400 3.500 8.750 21.000 46.200
+Colecția Monitorul Oficial în format electronic, oricare dintre părțile acestuia 140 lei/an

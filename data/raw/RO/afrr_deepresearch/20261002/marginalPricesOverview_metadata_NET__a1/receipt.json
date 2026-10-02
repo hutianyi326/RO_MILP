@@ -1,0 +1,17 @@
+{
+  "id": "marginalPricesOverview_metadata_NET",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:11:51.339949+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/marginalPricesOverview_metadata_NET__a1/original.json",
+  "sha256": "fb3bdd6fd4a16d14be2dab0245329041e6850143884abe2fb70476d923fb14d3",
+  "bytes": 231,
+  "detected_format": "json"
+}

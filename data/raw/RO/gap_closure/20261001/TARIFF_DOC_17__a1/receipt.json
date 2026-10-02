@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_17",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+achizi%C5%A3ia+serviciilor+de+sistem/82e32a60-9209-473f-8fdf-6ee293d563b5",
+  "title": "Tariful pentru serviciul de transport pentru extragerea energiei electrice din reţele (TL), aplicabil de la 1 ianuarie 2026",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:02.096775+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+achizi%C5%A3ia+serviciilor+de+sistem/82e32a60-9209-473f-8fdf-6ee293d563b5",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_17__a1/original.pdf",
+  "sha256": "1981bcb2253f18ff33f851bcd1eca06e15220564cedfbd02b2319168bb0ae033",
+  "bytes": 199656,
+  "detected_format": "pdf"
+}

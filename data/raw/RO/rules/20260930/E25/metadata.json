@@ -1,0 +1,14 @@
+{
+  "id": "E25",
+  "title": "OPCOM DAM operating approval36/2025",
+  "url": "https://www.opcom.ro/uploads/doc/PZU/36941_01.10.2025_Aviz%2036%20PZU.pdf",
+  "resolved_url": "https://www.opcom.ro/uploads/doc/PZU/36941_01.10.2025_Aviz%2036%20PZU.pdf",
+  "retrieved_utc": "2026-09-30T07:53:22.8984875Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E25\\original.pdf",
+  "bytes": 1685964,
+  "sha256": "46b10d47d6af21e9cce2b029fba600bad3052da36f1ae32ecc8c438737e8531f",
+  "extracted_characters": 19
+}

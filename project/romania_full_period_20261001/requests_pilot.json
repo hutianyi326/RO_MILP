@@ -1,0 +1,89 @@
+[
+  {
+    "id": "DA_2025-02-01",
+    "dataset": "D02",
+    "publisher": "OPCOM",
+    "title": "Mcp and Traded Volume native CSV",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/01/02/2025/en?resolution=60",
+    "source_date": "2025-02-01",
+    "resolution_minutes": 60,
+    "source_timezone": "Europe/Brussels",
+    "scope": "full-period research native market date"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-01",
+    "dataset": "D08-D16",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "dailyConsumptionOverview",
+    "report": "dailyConsumptionOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-01",
+    "dataset": "D06",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "activatedBalancingEnergyOverview",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "scheduledExchanges_2025-01",
+    "dataset": "D11",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "scheduledExchanges",
+    "report": "scheduledExchanges",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/scheduledExchanges?timeInterval.from=2024-12-31T23%3A00%3A00Z&timeInterval.to=2025-01-31T23%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T23:00:00Z",
+      "timeInterval.to": "2025-01-31T23:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Brussels",
+    "requested_start_utc": "2024-12-31T23:00:00Z",
+    "requested_end_utc": "2025-01-31T23:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  },
+  {
+    "id": "tenderStatistics_2025-01",
+    "dataset": "D05",
+    "publisher": "Transelectrica / DAMAS II",
+    "title": "tenderStatistics",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "month": "2025-01",
+    "source_timezone": "Europe/Bucharest",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "native monthly public report; unversioned ex-post snapshot"
+  }
+]

@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-02",
+  "imported_files": 7474,
+  "unchanged_files_hash_match": 7469,
+  "gzip_recovery_hash_match": 5,
+  "issues": [],
+  "strong_secret_patterns_scanned_text_files": 6907,
+  "strong_secret_pattern_hits": [],
+  "secret_scan_limitation": "Pattern screening of text files under 40 MiB; not a guarantee of absence of every possible secret. Compressed research tables validated by original SHA256. No environment or credential stores included.",
+  "original_bytes": 2981784928,
+  "packaged_import_bytes": 1691549532,
+  "largest_packaged_file_bytes": 77519732,
+  "new_docs": [
+    "README.md",
+    "docs/research_index.md",
+    "docs/data_and_provenance.md"
+  ],
+  "milp_implemented_or_solved": false,
+  "new_document_local_links": [
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_20261002/romania_milp_mathematical_formulation.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_20261002/variable_count_and_performance.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_20261002/review_second_performance.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_20261002/review_and_acceptance.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_20261002/strategy_and_assumptions.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_milp_method_confirmation_20261002.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "project/romania_afrr_deepresearch_20261002/research_report.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "docs/research_index.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "packaging/compressed_files.json",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "packaging/source_manifest.json",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "docs/data_and_provenance.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "packaging/excluded_files.json",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_research_plan_20260930.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_research_work_breakdown_20260930.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_data_acquisition_plan_20260930.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/rules_20260930/rule_register.csv",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/rules_20260930/open_questions.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/rules_20260930/review_final.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/data_samples_20260930/",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/data_samples_20260930/review_final.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/full_period_20261001/",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/full_period_20261001/stage_completion_and_gaps.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/full_period_20261001/review_final.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/gap_closure_20261001/supplement_report.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/gap_closure_20261001/source_directory.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/RO/gap_closure_20261001/review_final.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_afrr_deepresearch_20261002/research_report.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_afrr_deepresearch_20261002/review_final.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_afrr_deepresearch_20261002/daily_capacity_award_approach.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_milp_method_confirmation_20261002.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_milp_20261002/romania_milp_mathematical_formulation.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../project/romania_milp_20261002/variable_count_and_performance.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/ES/MILP/research/spain_milp_mathematical_spec_2026-09-16.md",
+      "exists": true
+    },
+    {
+      "document": "docs/research_index.md",
+      "target": "../countries/ES/MILP/research/西班牙aFRR容量收益中标率敏感性方案_20260923.md",
+      "exists": true
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿requested_cutoff,observed_date,mw,mwh,source,scope,yearend_verified
+2023-12-31,,,,ANRE December2023/TSO annual searched; no matching complete cutoff found,unknown true yearend,False
+2024-12-31,2025-02-01,137.2,269.0,GC13 TSO annual2024 PDFp105,13 licensed facilities; not yearend substitute,False
+2025-12-31,2025-12-05,494.0,,GC19 reused TSO_ANNUAL_2025 PDFp64,dated snapshot; not yearend substitute; MWh unknown,False

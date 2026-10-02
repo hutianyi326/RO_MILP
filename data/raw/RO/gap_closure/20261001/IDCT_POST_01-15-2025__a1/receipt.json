@@ -1,0 +1,29 @@
+{
+  "id": "IDCT_POST_01-15-2025",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "01/15/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "scope": "official continuous intraday PT15; verify transaction timestamp/id/contract date",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T12:46:44.280349+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_POST_01-15-2025__a1/form_original.html",
+  "form_sha256": "dddf3fc38a943d0de767ef282030b5d148598c0767e64ef5bdad27b748eae8e5",
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDCT_POST_01-15-2025__a1/original.html",
+  "sha256": "ef5577166c4938161afd814665ff5c613247ef1ed0193cb242442ec88a7ff3a4",
+  "bytes": 527784,
+  "detected_format": "html"
+}

@@ -1,0 +1,19 @@
+{
+  "user_authorization_date": "2026-09-30",
+  "requested_model": "gpt-6-astra/high",
+  "reused_agent": "/root/romania_rules_review",
+  "original_explicit_spawn_record": "project/romania_official_rules_20260930/review_invocation.json",
+  "tool": "collaboration.followup_task",
+  "logical_role": "read-only research_reviewer",
+  "depth": 1,
+  "subdelegation": "prohibited",
+  "main_runtime_switch_claimed": false,
+  "rounds": [
+    {"round": 1, "result": "FAIL", "P0": 0, "P1": 1, "P2": 0},
+    {"round": 2, "result": "PASS_WITH_RESTRICTIONS", "P0": 0, "P1": 0, "P2": 1},
+    {"round": 3, "result": "PASS_WITH_RESTRICTIONS", "P0": 0, "P1": 0, "P2": 0}
+  ],
+  "approved_scope": "sample evidence, transformations and limitations record only",
+  "full_step2_exit_conditions_met": false,
+  "next_phase_authorized": false
+}

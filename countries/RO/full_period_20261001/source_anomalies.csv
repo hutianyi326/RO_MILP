@@ -1,0 +1,16 @@
+﻿issue,source_id,date,source_value,derived_value,handling,product,start_utc,expected,actual
+DA_SUMMARY_ENERGY_MISMATCH,DA_2025-10-01,2025-10-01,164641.1,41160.275,"source retained; use native MW × duration, not summary",,,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2025-03,2025-03-30,,,retained in raw; excluded from in-tender descriptive table,aFRRDown,2025-03-30T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2025-03,2025-03-30,,,retained in raw; excluded from in-tender descriptive table,aFRRUp,2025-03-30T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2025-03,2025-03-30,,,retained in raw; excluded from in-tender descriptive table,mFRRDown,2025-03-30T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2025-03,2025-03-30,,,retained in raw; excluded from in-tender descriptive table,mFRRUp,2025-03-30T21:00:00Z,,
+CAP_TENDER_MISSING_HOUR,tenderStatistics_2025-10,2025-10-26,,,no interpolation; mark product-day incomplete,FCR,,25,24.0
+CAP_TENDER_MISSING_HOUR,tenderStatistics_2025-10,2025-10-26,,,no interpolation; mark product-day incomplete,aFRRDown,,25,24.0
+CAP_TENDER_MISSING_HOUR,tenderStatistics_2025-10,2025-10-26,,,no interpolation; mark product-day incomplete,aFRRUp,,25,24.0
+CAP_TENDER_MISSING_HOUR,tenderStatistics_2025-10,2025-10-26,,,no interpolation; mark product-day incomplete,mFRRDown,,25,24.0
+CAP_TENDER_MISSING_HOUR,tenderStatistics_2025-10,2025-10-26,,,no interpolation; mark product-day incomplete,mFRRUp,,25,24.0
+CAP_OUTSIDE_TENDER,tenderStatistics_2026-03,2026-03-29,,,retained in raw; excluded from in-tender descriptive table,FCR,2026-03-29T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2026-03,2026-03-29,,,retained in raw; excluded from in-tender descriptive table,aFRRDown,2026-03-29T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2026-03,2026-03-29,,,retained in raw; excluded from in-tender descriptive table,aFRRUp,2026-03-29T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2026-03,2026-03-29,,,retained in raw; excluded from in-tender descriptive table,mFRRDown,2026-03-29T21:00:00Z,,
+CAP_OUTSIDE_TENDER,tenderStatistics_2026-03,2026-03-29,,,retained in raw; excluded from in-tender descriptive table,mFRRUp,2026-03-29T21:00:00Z,,

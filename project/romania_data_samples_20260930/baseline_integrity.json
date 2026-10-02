@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "project/romania_research_plan_20260930.md",
+      "expected_sha256": "523930311cdbd2c3aacad57f9fcdee55e2ca5a53ce5fdb8edfc5c5947bea422d",
+      "actual_sha256": "523930311cdbd2c3aacad57f9fcdee55e2ca5a53ce5fdb8edfc5c5947bea422d"
+    },
+    {
+      "file": "project/romania_data_acquisition_plan_20260930.md",
+      "expected_sha256": "c084c3f9309355ce5a78b0b89d489337ddd1c1a866f6dbf972069757acb5cc6a",
+      "actual_sha256": "c084c3f9309355ce5a78b0b89d489337ddd1c1a866f6dbf972069757acb5cc6a"
+    },
+    {
+      "file": "project/romania_report_milp_outline_20260930.md",
+      "expected_sha256": "810a933101476512107c9e8f2157e9c2c0b0d54e916ec467a8d4560bc3536132",
+      "actual_sha256": "810a933101476512107c9e8f2157e9c2c0b0d54e916ec467a8d4560bc3536132"
+    },
+    {
+      "file": "project/romania_research_work_breakdown_20260930.md",
+      "expected_sha256": "39954c1f2a04fc8b23ff76961ac249c7ec080348e0bd42674ec695a35ca6a219",
+      "actual_sha256": "39954c1f2a04fc8b23ff76961ac249c7ec080348e0bd42674ec695a35ca6a219"
+    }
+  ]
+}

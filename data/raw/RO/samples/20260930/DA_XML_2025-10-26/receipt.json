@@ -1,0 +1,17 @@
+{
+  "id": "DA_XML_2025-10-26",
+  "dataset": "D02",
+  "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-xml/26/10/2025/en?resolution=15",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2025-10-26 XML cross-format check",
+  "retrieved_utc": "2026-09-30T09:19:10.4796944Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/xml",
+  "raw_file": "data/raw/RO/samples/20260930/DA_XML_2025-10-26/original.xml",
+  "bytes": 14679,
+  "sha256": "b3d076019bea7c1f5a3a3662a18f1c04a088cabc12b51c9ee93d613d0e2d5398"
+}

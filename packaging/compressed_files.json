@@ -1,0 +1,27 @@
+[
+  {
+    "original": "countries/RO/full_period_20261001/capacity_provider_native_filtered.csv",
+    "bytes": 68988949,
+    "gzip_bytes": 2873807
+  },
+  {
+    "original": "countries/RO/full_period_20261001/capacity_provider_structures.json",
+    "bytes": 115646909,
+    "gzip_bytes": 3054200
+  },
+  {
+    "original": "countries/RO/gap_closure_20261001/idct_native_publication_occurrences.csv",
+    "bytes": 1029372875,
+    "gzip_bytes": 77519732
+  },
+  {
+    "original": "countries/RO/gap_closure_20261001/settlement_native_all_versions.csv",
+    "bytes": 84019160,
+    "gzip_bytes": 4183594
+  },
+  {
+    "original": "countries/RO/gap_closure_20261001/settlement_native_all_versions_verified.csv",
+    "bytes": 84023035,
+    "gzip_bytes": 4184199
+  }
+]

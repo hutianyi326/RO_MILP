@@ -1,0 +1,14 @@
+{
+  "id": "E04",
+  "url": "https://www.opcom.ro/tranzactii-produse/ro/46",
+  "title": "DA registration and procedures",
+  "resolved_url": null,
+  "retrieved_utc": "2026-09-30T07:44:20.8734895Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E04\\original.html",
+  "bytes": 57322,
+  "sha256": "66b302347309cde4e68b594fcc1f90dfda040f6b06c3d6f73824241c9ace69f7",
+  "extracted_characters": 13742
+}

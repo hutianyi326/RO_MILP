@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "path": "project\\romania_milp_method_confirmation_20261002.md",
+      "sha256": "ab31fe1854a59b34d34a7b0d234d5c2ca6cbc3da809db74b412e3bb0869d2a5a",
+      "local_links_passed": 7
+    },
+    {
+      "path": "project\\romania_milp_method_review_20261002.md",
+      "sha256": "92d543dd91f4cfd09601cce15c6a518536497e9d8e0a688f18d537ff7b00e0dc",
+      "local_links_passed": 1
+    }
+  ],
+  "three_user_choices_recorded": true,
+  "review": "PASS",
+  "model_run": false
+}

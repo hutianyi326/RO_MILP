@@ -1,0 +1,17 @@
+{
+  "id": "dailyConsumptionOverview_2025-10-01",
+  "dataset": "D08-D16",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-01T21%3A00%3A00Z&pageInfo.pageSize=3000",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2025-10-01 native local day; public page backing route; unversioned snapshot",
+  "retrieved_utc": "2026-09-30T09:37:49.4042690Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/dailyConsumptionOverview_2025-10-01/original.json",
+  "bytes": 33434,
+  "sha256": "9011beb39d84490a6edbe92e91680afcdbd7f11e958f4ca9271f22100a2c4142"
+}

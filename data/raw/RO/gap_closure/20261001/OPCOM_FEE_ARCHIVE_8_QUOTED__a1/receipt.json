@@ -1,0 +1,22 @@
+{
+  "id": "OPCOM_FEE_ARCHIVE_8_QUOTED",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/uploads/doc/FPA/1Lb.rom._Procedura OPEED_.pdf",
+  "title": "Sinteza/Procedura",
+  "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+  "scope": "historical fee body, effective dates and actual applies to verify",
+  "retry_reason": "URL spaces encoded per HTTP syntax; previous three failed attempts preserved",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:05:34.118838+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/uploads/doc/FPA/1Lb.rom._Procedura%20OPEED_.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/OPCOM_FEE_ARCHIVE_8_QUOTED__a1/original.pdf",
+  "sha256": "03c2757b40109435c5fdafde950aa162d539fc65c27f6af552112ce7b007661d",
+  "bytes": 319171,
+  "detected_format": "pdf"
+}

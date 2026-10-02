@@ -1,0 +1,2686 @@
+=== ARCHIVE MEMBER Procedura de inregistrare la PEE revizia 17_clean.pdf ===
+=== PDF PAGE 1 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 1/47 
+Rev. 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEDURA 
+ PRIVIND ÎNREGISTRAREA PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM  S.A. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Întocmit: OPCOM  S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Iulie 2026 
+ 
+=== PDF PAGE 2 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 2/47 
+Rev. 17 
+ 
+    
+CUPRINS 
+ 
+1. SCOP ..................................................................................................................... 7 
+2. DOMENIUL DE APLICARE .................................................................................. 7 
+3. ACRONIME ........................................................................................................... 7 
+4. DEFINIŢII ............................................................................................................ 8 
+5. DOCUMENTE DE REFERINŢĂ .......................................................................... 11 
+6. CADRUL DE ORGANIZARE ............................................................................... 13 
+7. DISPOZIȚII FINALE ......................................................................................... 20 
+ANEXA 1.1-1.2............................................................................................................. 21 
+ANEXA 2 ....................................................................................................................... 24 
+ANEXA 3 ....................................................................................................................... 26 
+ANEXA 4 ....................................................................................................................... 30 
+ANEXA 5.1-5.9............................................................................................................. 36 
+ANEXA 6 ....................................................................................................................... 42 
+ANEXA 7 ....................................................................................................................... 43 
+ANEXA 8 ....................................................................................................................... 44 
+ANEXA 9 ....................................................................................................................... 45 
+ANEXA 10 ..................................................................................................................... 46 
+ 
+=== PDF PAGE 3 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 3/47 
+Rev. 17 
+ 
+LISTA DE CONTROL AL REVIZIILOR 
+Documentul revizuit: 
+ 
+Nr. 
+crt. Rev. Data Revizia se referă la modificări efectuate conform prevederilor: 
+1. 1. Martie    
+2016 
+- Regulamentului privind modalităţile de încheiere a 
+contractelor bilaterale de energie electrică prin licitaţie extinsă 
+şi negociere continuă şi prin contracte de procesare, aprobat 
+prin Ordinul președintelui ANRE nr. 78/14.08.2014 publicat în 
+Monitorul Oficial nr. 621 din 25.08.2014; 
+- Regulamentului de organizare și desfășurare a licitațiilor 
+simultane cu preț descrescător pe piața centralizată pentru 
+serviciul universal, aprobat prin Ordinul președintelui ANRE nr. 
+65/22.07.2014, publicat în Monitorul Oficial nr.  564 din 
+30.07.2014; 
+- Regulamentului pentru acordarea licenţelor şi autorizaţiilor în 
+sectorul energiei electrice  aprobat prin Ordinul președintelui 
+ANRE nr.12/04.03.2015, publicat în Monitorul Oficial nr. 180 din 
+13.03.2015 (Abrogă Ordinul nr. 48/2013); 
+- Procedurii de confirmare a dreptului de participare la piețele 
+de energie electrică din România a unor persoane juridice 
+străine având sediul social într -un stat membru al Uniunii 
+Europene. aprobata prin Ordinul președintelui ANRE nr. 
+91/17.06.2015 publicat în Monitorul Oficial nr.  458 din 
+25.06.2015; 
+- Regulamentului (UE) nr. 1227/2011 al Parlamentului 
+European și al Consiliului din 25 octombrie 2011 privind 
+integritatea și transparența pieței angro de energie, publicat în 
+Jurnalul Oficial al Uniunii Europene L 326, 8.12.2011; 
+- Regulamentului de punere în aplicare (UE) nr. 1348/2014 al 
+Comisiei din 17 decembrie 2014 privind raportarea de date, 
+pentru punerea în aplicare a articolului 8 alineatele (2) și (6) 
+din Regulamentul (UE) nr. 1227/2011 al Parlamentului 
+European și al Consiliului privind integritatea și transparența 
+pieței angro de energie , publicat în Jurnalul Oficial L363, 
+18.12.2014 
+ 
+ 
+2. 
+ 
+ 
+2. 
+ 
+ 
+Februarie 
+2018 
+ - Ordinului președintelui ANRE nr. 27/31.01.2018 pentru 
+aprobarea Regulamentului de organizare şi desfăşurare a 
+licitaţiilor pe piaţa centralizată pentru serviciul universal  
+publicat în Monitorul Oficial nr. 106 din 02 februarie 2018; 
+- Ordinului președintelui ANRE nr. 31/31.01.2018 privind 
+aprobarea Regulamentului de funcţionare şi de decontare a 
+pieţei de echilibrare şi a Regulamentului de calcul şi de 
+decontare a dezechilibrelor părţilor responsabile cu 
+echilibrarea, precum şi pentru modificarea, completarea şi 
+=== PDF PAGE 4 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 4/47 
+Rev. 17 
+ 
+abrogarea unor dispoziţii din sectorul energiei electrice publicat 
+în Monitorul Oficial nr. 166 bis din 22 februarie 2018; 
+- Ordinului președintelui ANRE nr. 23/23.01.2018 privind 
+modificarea şi completarea Ordinului Președintelui ANRE nr. 
+49/2013 pentru aprobarea Regulamentului privind cadrul 
+organizat de tranzacționare pe piața centralizată cu negociere 
+dublă continuă a contractelor bilaterale de ene rgie electrică 
+publicat în Monitorul Oficial nr. 83 din 29 ianuarie 2018. 
+ 
+3. 3. Noiembrie 
+2019 
+- Ordinului președintelui ANRE nr. 50/10.04.2019 privind 
+modificarea anexei la Ordinul ANRE nr. 78/2014 pentru 
+aprobarea Regulamentului privind modalităţile de încheiere a 
+contractelor bilaterale de energie electrică prin licitaţie extinsă 
+şi negociere continuă şi prin contracte de procesare; 
+- Ordinului președintelui ANRE nr. 178/13.08.2019 privind 
+modificarea, completarea și abrogarea unor dispoziții din 
+sectorul energiei electrice;  
+- Ordinului președintelui ANRE nr. 202/11.11.2019 pentru 
+modificarea Regulamentului de programare a unităţilor de 
+producţie şi a consumatorilor dispecerizabili, aprobat prin 
+Ordinul preşedintelui ANRE nr. 32/2013, şi pentru abrogarea 
+Regulamentului de organizare şi funcţionare a pieţei intrazilnice 
+de energie electrică, aprobat prin Ordinul preşedintelui ANRE 
+nr. 73/2013.  
+ 
+4. 4. August 
+2020 
+-  Regulamentului (UE) 2019/943 al Parlamentului European și 
+al Consiliului din 5 iunie 2019 privind piața internă de energie 
+electrică; 
+- Directivei (UE) 2019/944 a Parlamentului European și al 
+Consiliului din 5 iunie 2019 privind normele comune pentru 
+piața internă de energie electrică și de modificare a Directivei 
+2012/27/UE; 
+-  Ordinului președintelui ANRE nr. 236/20.12.2019 privind 
+aprobarea regulilor pentru eliminarea şi/sau atenuarea 
+impactului unor măsuri sau politici care pot contribui la 
+restricţionarea formării preţurilor pe piaţa angro de energie 
+electrică; 
+- Ordinului președintelui ANRE nr. 64/31.03.2020 pentru 
+aprobarea Regulamentului privind modalitatea de încheiere a 
+contractelor bilaterale de energie electrică prin licitaţie extinsă 
+şi utilizarea produselor care să asigure flexibilitatea 
+tranzacţionării; 
+- Ordinului președintelui ANRE nr. 6 5/31.03.2020 privind 
+modificarea şi completarea  unor ordine ale preşedintelui 
+Autorităţii Naţionale de Reglementare în Domeniul Energiei; 
+=== PDF PAGE 5 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 5/47 
+Rev. 17 
+ 
+-  Legii nr.155/2020 pentru modificarea și completarea Legii 
+energiei electrice și a gazelor naturale nr.123/2012 și privind 
+modificarea și completarea altor acte normative. 
+5. 5. Mai 2022 Ordinului președintelui ANRE Nr. 65 din 31 martie 2022 pentru 
+aprobarea Regulamentului privind cadrul organizat de 
+contractare a energiei electrice de către clienţii finali mari 
+6. 6. Mai 2022 Ordinului președintelui ANRE Nr. 65 din 31 martie 2022 pentru 
+aprobarea Regulamentului privind cadrul organizat de 
+contractare a energiei electrice de către clienţii finali mari, 
+modificat prin Ordinul președintelui Autorității Naționale de 
+Reglementare în Domeniul Energiei nr. 73 din 11 mai 2022 
+7. 7. August 
+2022 
+- Procedurii privind constituirea, verificarea si utilizarea 
+garantiilor financiare pentru participarea la PZU, revizia 9; 
+- Procedurii privind constituirea, verificarea si utilizarea 
+garantiilor financiare pentru participarea la PI, revizia 8; 
+- Ordinului președintelui ANRE Nr. 25 din 23 martie 2022 
+privind modificarea şi completarea Ordinului preşedintelui 
+ANRE nr. 163/2015 pentru aprobarea Condiţiilor generale 
+asociate licenţei pentru administrarea pieţelor centralizate de 
+energie electrică 
+8. 8. Decembrie 
+2022 
+- Ordinului președintelui ANRE nr.97/29.06.2022 pentru 
+aprobarea Metodologiei de stabilire a tarifelor practicate de 
+Operatorul desemnat al pieței de energie electrică;  
+- Convențiilor de participare la piețele de energie electrică; 
+- Prevederile aferente desfășurării activității titularului de 
+licenta persoana juridica nerezidentă prin intermediul 
+sucursalei 
+9. 9. Aprilie 
+2023 
+Ordinului preşedintelui ANRE Nr. 12/2023 pentru aprobarea 
+Regulamentului privind cadrul organizat de tranzacţionare pe 
+pieţele organizate de energie electrică la termen administrate 
+de Societatea Operatorul Pieţei de Energie Electrică şi Gaze 
+Naturale OPCOM - S.A.   
+10. 10. Aprilie 
+2023 
+Eliminare PCCB -PC, conform clarificărilor ANRE privind 
+abrogarea din Legea energie electrice și a gazelor naturale 
+11. 11. August 
+2025 
+Actualizare prevederi PC -OTC conform Ordinului președintelui 
+ANRE nr. 58/2025 
+12. 12. August 
+2025 
+Actualizare definiție agregator; 
+Aplicarea prevederilor art.8 alin.(3) din  Regulamentul pentru 
+acordarea licenţelor şi autorizaţiilor în sectorul energiei electrice 
+=== PDF PAGE 6 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 6/47 
+Rev. 17 
+ 
+aprobat prin Ordinul preşedintelui ANRE Nr. 6/12.03.2025, cu 
+completările și modificările ulterioare.  
+13. 13. Septembrie 
+2025 
+Pentru mai multă claritate. 
+14. 14. Octombrie 
+2025 
+Eliminarea licitației secundare , unificarea procedurilor de 
+garanții, respectiv de încasări și plăți pentru PZU și PI 
+15. 15. Decembrie 
+2025 
+Pentru mai multă claritate referitor la înscrierea la PCTL 
+16. 16. Martie 
+2026 
+Actualizare prin eliminarea participării la piață a producătorilor 
+în perioada de probe, cf. Ordinului preşedintelui ANRE Nr. 
+80/16.12.2025. 
+17. 17. Iulie  
+2026 
+Aplicarea prevederilor  Ordinul președintelui ANRE nr. 
+9/21.04.2026 pentru aprobarea Regulilor privind participarea 
+unei comunităţi de energie din surse regenerabile sau a unei 
+comunităţi de energie a cetăţenilor la pieţele angro de energie 
+electrică şi a condiţiilor utilizării capacităţilor de stocare 
+aparţinând unei comunităţi de energie din surse regenerabile 
+sau unei comunităţi de energie a cetăţenilor şi/sau a celor 
+aparţinând membrilor acesteia, în vederea furnizării de servicii 
+către operatorii de reţea 
+Renunțarea la cheile USB token. 
+ 
+=== PDF PAGE 7 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 7/47 
+Rev. 17 
+ 
+1. SCOP 
+ 
+Procedura are drept scop precizarea condiţiilor în care se realizează: 
+a) înregistrarea Solicitanților pentru participarea la piețele organizate de energie electrică 
+administrate de OPCOM S.A.; 
+b) retragerea din proprie inițiativă a unui Participant de la piața/piețele organizate de energie 
+electrică la care este înregistrat; 
+c) suspendarea de la tranzacționare sau revocarea înregistrării la piața/piețele organizate de 
+energie electrică, a unui Participant la piață. 
+ 
+2. DOMENIUL DE APLICARE 
+ 
+Procedura se aplică pentru înregistrarea la una sau mai multe din piețele organizate de energie 
+electrică administrate de OPCOM S.A. a Solicitanților şi, după caz, pentru suspendarea de la 
+tranzacţionare/revocarea/retragerea din calitatea de Participant la pieţele respective. 
+ 
+3. ACRONIME 
+ 
+ANRE 
+ 
+– Autoritatea Naţională de Reglementare în domeniul Energiei;  
+FUI – Furnizor de ultimă instanță; 
+OPCOM S.A. – Societatea Operatorul Pieţei de Energie Electrică şi de Gaze Naturale OPCOM  
+S.A.; 
+OTS   – Operatorul de Transport şi de Sistem; 
+PCB –  Piețele Contractelor Bilaterale; 
+PC-OTC – Piaţa centralizată cu negociere dublă continuă a contractelor  bilaterale de 
+energie electrică; 
+PCCB-LE-
+flex 
+ 
+– Piaţa centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare  a contractelor bilaterale de energie electrică prin licitație extinsă 
+și utilizarea produselor care să asigure flexibilitatea tranzacționării; 
+PCCB-NC    – Piaţa centralizată a contractelor bilaterale de energie electr ică -modalitate de 
+tranzacţionare a contractelor bilaterale de energie electrică conform căreia 
+contractele sunt atribuite prin negociere continuă; 
+PCSU – Piața centralizată pentru serviciul universal; 
+PCTL –  Piaţa centralizată pentru atribuirea contractelor de energie electrică pentru 
+perioade lungi de livrare; 
+PMC – Piața de energie electrică pentru clienții finali mari; 
+P.I.  – Piaţa Intrazilnică de energie electrică; 
+PZU  – Piaţa pentru Ziua Următoare de energie electrică; 
+=== PDF PAGE 8 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 8/47 
+Rev. 17 
+ 
+PRE  – Parte Responsabilă cu Echilibrarea; 
+TVA  – Cotă Taxă pe Valoarea Adăugată exprimată în valoare absolută. 
+ 
+4. DEFINIŢII 
+ 
+Termenii utilizați în prezenta procedură au semnificația definită în Legea energiei electrice și gazelor 
+naturale nr. 123/2012 cu modificările și completările ulterioare.  
+Suplimentar, se definesc următorii termeni: 
+ 
+4.1. Agent de transfer – rolul pe care îl îndeplinesc OTS-urile în mecanismul de cuplare a pieţelor, 
+reflectat prin transferul fizic şi comercial al energiei electrice între două zone de ofertare; 
+4.2. Agregare  – funcția îndeplinită de o persoană fizică sau juridică care combină sarcinile mai 
+multor clienți sau energia electrică produsă de mai multe surse în vederea vânzării, a 
+cumpărării sau a licitării pe orice piață de energie electrică; 
+4.3. Agregator – participant la piață deținător al licenţei pentru activitatea de agregare sau 
+participant la piață implicat în agregare în înțelesul art. 2 pct. 18 din Directiva (UE) 2019/944, 
+desemnat de clienții (membrii) agregării care tranzacționează energia electrică și îi revin 
+integral toate drepturile prevăzute în Convenţia, precum și cele prevăzute în reglementări 
+naționale și/sau ale Uniunii Europene corespunzătoare participării la piața de energie 
+electrică; 
+4.4. Certificat digital – certificat digital pentru accesul la sistemele de tranzacționare; 
+4.5. Cod de identificare – cod alfanumeric alocat fiecărui participant la piaţa la care a fost 
+înregistrat de către OPCOM  S.A.; 
+4.6. Comunitate de energie  - comunitate de energie din surse regenerabile sau comunitate de 
+energie a cetăţenilor; 
+4.7. Comunitate de energie a cetăţenilor  - persoana juridică care îndeplineşte, cumulativ, 
+următoarele condiţii: 
+    a) este bazată pe o participare voluntară şi deschisă şi este controlată efectiv de către 
+minimum 5 membri sau acţionari persoane fizice, autorităţi locale, inclusiv 
+municipalităţi sau întreprinderi mici; 
+    b) are ca principal obiectiv oferirea unor avantaje cu privire la mediu, economice sau 
+sociale pentru membrii sau acţionarii săi sau pentru zonele locale în care funcţionează; 
+    c) se poate implica în producere, inclusiv producerea din surse regenerabile, distribuţie, 
+furnizare, consum, agregare, stocarea energiei, servicii de eficienţă energetică sau în 
+servicii de încărcare pentru autovehicule electrice ori poate să furnizeze alte servicii 
+energetice membrilor sau acţionarilor săi; 
+    d) locurile de consum aferente membrilor sau acţionarilor sunt racordate la reţeaua 
+aceluiaşi operator de distribuţie; 
+=== PDF PAGE 9 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 9/47 
+Rev. 17 
+ 
+4.8. Comunitate de energie din surse regenerabile - entitate juridică care îndeplineşte cumulativ 
+următoarele condiţii: 
+    a) care, în conformitate cu dreptul intern aplicabil, are la bază o participare deschisă şi 
+voluntară, este autonomă şi este controlată efectiv de acţionari sau membri situaţi în 
+apropierea proiectelor privind sursele regenerabile de energie deţinute şi dezvoltate de 
+respectiva entitate juridică; 
+   b)  are un număr de minimum 5 membri sau acţionari persoane fizice, IMM-uri, asociaţii şi 
+fundaţii sau ai administraţiei publice locale; 
+ c) al cărei obiectiv principal este să ofere avantaje comunitare economice, sociale sau de 
+mediu acţionarilor ori membrilor săi sau zonelor locale în care îşi desfăşoară 
+activitatea; 
+    d) locurile de consum, precum şi unităţile de producere a energiei electrice ale membrilor 
+sau acţionarilor sunt racordate la reţeaua aceluiaşi operator de distribuţie; 
+4.9. Convenţie de participare – acord standardizat stabilit de OPCOM S.A., care prevede drepturile 
+şi responsabilitățile reciproce dintre acesta  şi fiecare participant la piețele/modalitatea de 
+tranzacționare; 
+4.10. Modificarea licenței – emiterea de către autoritatea competentă a deciziei prin care se aprobă 
+modificarea licenței și/sau condițiilor de valabilitate ale licenței;  
+4.11. Participant-cumpărător – FUI înregistrat la PCSU, care transmite oferte de cumpărare în 
+sesiunile de licitații organizate pe PCSU; 
+Participant-vânzător – producător/furnizor (cu excepția FUI)/trader de energie electrică 
+înregistrat la PCSU, care transmite oferte de vânzare în sesiunile de licitații organizate 
+pe PCSU; 
+4.12. Participant implicit la PZU  /P.I.– participant la PZU/P.I. care îndeplineşte rolul de agent de 
+transfer în mecanismul de cuplare şi care nu are dreptul să transmită oferte în această 
+calitate; 
+4.13. Participant la piaţă – participant la piaţă, potrivit prevederii art. 2 pct. 25 din Regulamentul 
+943/2019, care se înscrie la piaţa respectivă și respectă convenţia de participare la aceasta 
+precum şi prevederile prevăzute în reglementările naţionale şi/sau comunitare 
+corespunzătoare participării la piaţa de energie electrică;  
+4.14. Persoana de contact – persoană desemnată de Participantul la piaţă să îl reprezinte în cadrul 
+participării la piaţă; 
+4.15. Piaţa organizată de energie electrică – cadrul organizat de desfăşurare a tranzacţiilor cu 
+energie electrică între diverşi operatori economici, intermediat de operatorul pieţei de energie 
+electrică sau de operatorul de transport şi sistem, pe baza unor reguli specifice, aprobate de 
+autoritatea competentă; în cuprinsul prezentului titlu noţiunile de piaţă centralizată de 
+energie electrică şi piaţă organizată de energie electrică sunt echivalente; 
+4.16. Piaţa Centralizată cu negociere dublă continuă a contractelor bilaterale de energie electrică  
+(PC-OTC) – cadrul organizat de desfășurare a tranzacțiilor de energie electrică între 
+participanții la piaţă, în timp real, organizat și administrat de operatorul pieței organizate cu 
+=== PDF PAGE 10 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 10/47 
+Rev. 17 
+ 
+negociere dublă continuă de energie electrică, pe baza unor reguli specifice, ce permite 
+încheierea de tranzacții cu energie electrică conform criteriilor de eligibilitate proprii 
+participanților la piață și subscrise contractelor bilaterale semnate între părți; tranzacţionarea 
+se poate realiza printr-un ansamblu de modalități, având ca bază tranzacționarea continuă a 
+energiei electrice pe termen determinat, la un preț ferm, transparent, rezultat din echilibrul 
+cererii si al ofertei;  
+4.17. Piața centralizată pentru serviciul universal (PCSU) – componentă a pieței organizate de 
+energie electrică, administrată de OPCOM SA, care funcționează pe baza unui mecanism de 
+licitații și este destinată achiziționării energiei electrice necesare pentru acoperirea 
+consumului clienților finali care beneficiază, în condițiile legii, de serviciul universal;  
+4.18. Piața de energie electrică pentru clienţii finali mari  (PMC) – cadru organizat de desfăşurare 
+a tranzacţiilor cu contracte cu livrare fizică de energie electrică între clienţii finali mari, în 
+calitate de cumpărători, şi producători/operatori de instalaţii de stocare, în calitate de 
+vânzători, organizat şi administrat  de operatorul pieţei de energie electrică pentru clienţii 
+finali mari, pe baza unor reguli specifice; tranzacţionarea se realizează prin licitaţie, care 
+poate avea loc inclusiv prin intermediul unei platforme electronice şi are ca scop contractarea 
+energiei electrice la un preţ rezultat din echilibrul cererii şi al ofertei; 
+4.19. Piaţă centralizată a contractelor bilaterale de energie electrică  - PCCB-LE-flex și PCCB-NC – 
+cadrul organizat de încheiere între participanţii la piaţă, în mod transparent, prin licitaţie 
+publică, a contractelor cu livrare fizică de energie electrică  organizat şi administrat de 
+operatorul pieței de energie electrică, pe baza unui ansamblu de modalităţi având ca bază 
+ofertarea publică şi nediscriminatorie, cu scopul de a contracta energia electrică pe termen 
+determinat, la un preţ transparent, rezultat din echilibrul cererii şi al ofertei;  
+4.20. Piaţa centralizată destinată atribuirii contractelor de energie electrică pentru perioade lungi 
+de livrare (PCTL)  – cadrul organizat de desfăşurare a sesiunilor de tranzacţionare pentru 
+atribuirea de contracte cu livrare fizică de energie electrică pentru perioade lungi de livrare, 
+organizat şi administrat de operatorul pieţei centralizate pentru atribuirea contractelor  de 
+energie electrică pentru perioade lungi de livrare, pe baza unor reguli specifice; atribuirea 
+contractelor de energie electrică se face printr -un proces combinat de dialog competitiv, 
+licitaţie şi negociere continuă şi are ca scop contractarea energiei electrice pe termen lung, 
+determinat, la un preţ transparent, rezultat din echilibrul cererii şi al ofertei; 
+4.21. Platformă/(e) de tranzacţionare  – sistem/(e) informatic/(e) stabilit/(e) şi menţinut/(e) de 
+OPCOM  S.A. în scopul realizării tranzacţiilor pe piaţă/piețe; 
+4.22. Registrul participanţilor la pieţele organizate de energie electrică – Registru întocmit şi 
+actualizat de OPCOM S.A. care conţine informaţii despre Participanţii înregistraţi la pieţele 
+organizate de energie electrică administrate de OPCOM S.A.; 
+4.23. Solicitant – o persoană fizică sau juridică, care cumpără, vinde sau produce energie electrică, 
+care este implicat în agregare  sau care este un operator de consum dispecerizabil sau de 
+servicii de stocare a energiei care solicită înregistrarea la piață; 
+4.24. Zi de livrare – Ziua calendaristică pentru care a fost încheiată o tranzacţie;  
+=== PDF PAGE 11 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 11/47 
+Rev. 17 
+ 
+4.25. Zi lucrătoare – Zi calendaristică cu excepţia sâmbetei, duminicii şi a oricărei zile declarată 
+sărbătoare legală sau zi liberă.  
+ 
+5. DOCUMENTE DE REFERINŢĂ 
+5.1. Legea energiei electrice şi gazelor naturale nr. 123/10.07.2012, cu modificările și completările 
+ulterioare; 
+5.2. Legea nr. 182/17.10.2016 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 
+44/2008 privind desfăşurarea activităţilor economice de către persoanele fizice autorizate, 
+întreprinderile individuale şi întreprinderile familiale, cu modificările și completările ulterioare; 
+5.3. Legea nr.184/18.07.2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2017 
+privind modificarea şi completarea Legii nr. 220/2008 pentru stabilirea sistemului de 
+promovare a producerii energiei din surse regenerabile de energie şi pentru modificarea unor 
+acte normative; 
+5.4. Legea nr. 196/ 20.07.2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de 
+proprietari şi administrarea condominiilor, cu modificările şi completările ulterioare; 
+5.5. Ordonanţa de urgen ţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de 
+promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi 
+completarea unor acte normative, cu modificările şi completările ulterioare. 
+5.6. Regulamentul privind cadrul organizat de contractare a energiei electrice pentru clienţii finali 
+mari, aprobat prin Ordinul preşedintelui ANRE nr.  65/31.03.2022, cu modificările şi 
+completările ulterioare; 
+5.7. Regulamentul de organizare și desfășurare a licitațiilor pe piața centralizată pentru serviciul 
+universal, aprobat prin Ordinul președintelui ANRE nr.  27/31.01.2018, cu modificările şi 
+completările ulterioare; 
+5.8. Regulamentul privind cadrul organizat de tranzacţionare pe piaţa centralizată destinată 
+atribuirii contractelor de energie electrică pentru perioade lungi de livrare aprobat prin Ordinul 
+președintelui ANRE nr. 129/2020 cu modificările și completările ulterioare; 
+5.9. Regulamentul (UE) nr.1227/2011 al Parlamentului European și al Consiliului din 25 octombrie 
+2011 privind integritatea și transparența pieței angro de energie; 
+5.10. Regulamentul de punere în aplicare (UE) nr. 1348/2014 al Comisiei din 17 decembrie 2014 
+privind raportarea de date, pentru punerea în aplicare a articolului 8 alineatele (2) și (6) din 
+Regulamentul (UE) nr.1227/2011 al Parlamentului European și al Consiliului privind 
+integritatea și transparența pieței angro de energie; 
+5.11. Regulamentul (UE) 2024/1106 al Parlamentului European și al Consiliului din 11 aprilie 2024 
+de modificare a Regulamentelor (UE) nr. 1227/2011 și (UE) 2019/942 în ceea ce privește 
+îmbunătățirea protecției Uniunii împotriva manipulării pieței în cadrul pieței angro de energie; 
+5.12. Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 
+privind piața internă de energie electrică; 
+=== PDF PAGE 12 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 12/47 
+Rev. 17 
+ 
+5.13. Directiva (UE) 2019/944 a Parlamentului European și al Consiliului din 5 iunie 2019 privind 
+normele comune pentru piața internă de energie electrică și de modificare a Directivei 
+2012/27/UE; 
+5.14. Ordinul președintelui ANRE nr. 178/13.08.2019 privind modificarea, completarea și abrogarea 
+unor dispoziții din sectorul energiei electrice; 
+5.15. Ordinul președintelui ANRE nr. 236/20.12.2019 privind aprobarea regulilor pentru eliminarea 
+şi/sau atenuarea impactului unor măsuri sau politici care pot contribui la restricţionarea 
+formării preţurilor pe piaţa angro de energie electrică; 
+5.16. Ordinul președintelui ANRE nr. 65/31.03.2020 privind modificarea şi completarea unor ordine 
+ale preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei; 
+5.17. Ordinul ANRE nr.  196/28.10.2020 pentru aprobarea Condi țiilor generale asociate licen ței 
+pentru activitatea de agregare, cu  modificările și completările ulterioare; 
+5.18. Ordinul președintelui ANRE nr. 127/08.12.2021 pentru aprobarea Regulamentului privind 
+clauzele şi condiţiile pentru furnizorii de servicii de echilibrare şi pentru furnizorii de rezervă 
+de stabilizare a frecvenţei şi a Regulamentului privind clauzele şi co ndiţiile pentru părţile 
+responsabile cu echilibrarea şi pentru modificarea şi abrogarea unor ordine ale preşedintelui 
+Autorităţii Naţionale de Reglementare în Domeniul Energiei, cu modificările și completările 
+ulterioare; 
+5.19. Ordinul preşedintelui ANRE nr. 12/2023 pentru aprobarea Regulamentului privind cadrul 
+organizat de tranzacţionare pe pieţele organizate de energie electrică la termen administrate 
+de Societatea Operatorul Pieţei de Energie Electrică şi Gaze Naturale OPCOM S.A. , cu 
+modificările și completările ulterioare; 
+5.20. Ordinul președintelui ANRE nr. 100/14.11.2023 pentru aprobarea Metodologiei de stabilire a 
+tarifelor practicate de către operatorii desemnaţi ai pieţei de energie electrică; 
+5.21. Procedura de confirmare a dreptului de participare la piețele de energie electrică /gaze 
+naturale din România a unor persoane juridice străine având sediul social într-un stat membru 
+al Uniunii Europene aprobata prin Ordinul președintelui ANRE nr. 14/29.05.2024 cu 
+modificările și completările ulterioare; 
+5.22. Ordinul președintelui ANRE nr. 6 /12.03.2025 privind aprobarea Regulamentului pentru 
+acordarea licențelor și autorizațiilor în sectorul energiei electrice , cu modificările şi 
+completările ulterioare; 
+5.23. Ordinul președintelui ANRE nr. 9/21.04.2026 pentru aprobarea Regulilor privind participarea 
+unei comunităţi de energie din surse regenerabile sau a unei comunităţi de energie a 
+cetăţenilor la pieţele angro de energie electrică şi a condiţiilor utilizării capacităţilor de stocare 
+aparţinând unei comunităţi de energie din surse regenerabile sau unei comunităţi de energie 
+a cetăţenilor şi/sau a celor aparţinând membrilor acesteia, în vederea furnizării de servicii 
+către operatorii de reţea; 
+5.24. Ordinul președintelui ANRE nr. 50/25.06.2026 privind aprobarea Procedurii de constituire a 
+Registrului naţional al comunităţilor de energie, în vederea înregistrării comunităţilor de 
+energie legal constituite; 
+=== PDF PAGE 13 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 13/47 
+Rev. 17 
+ 
+5.25. Procedura privind constituirea, verificarea si utilizarea garantiilor financiare pentru 
+participarea la Piaţa pentru Ziua Următoare și Piața Intrazilnică de energie electrică; 
+5.26. Procedura privind încasările și plăţile aferente tranzacţiilor pe Piaţa de energie electrică pentru 
+Ziua Următoare și Piața Intrazilnică de energie electrică; 
+5.27. Ordinul președintelui ANRE nr. 80/16.12.2025 pentru modificarea şi completarea unor ordine 
+ale preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei referitoare la 
+funcţionarea centralelor aflate în perioada de probe pe piaţa de energie electrică. 
+5.28. Proceduri privind tarifele practicate de OPCOM pentru serviciile prestate participanților la 
+piețele organizate de energie electrică  publicate pe website-ul OPCOM în meniul Anunțuri – 
+Știri / Mesaje operaționale / Facturare – Piețe administrate. 
+ 
+6.  CADRUL DE ORGANIZARE 
+ 
+6.1. SOLICITAREA ÎNREGISTRĂRII CA PARTICIPANT LA PIEŢELE  ORGANIZATE DE 
+ENERGIE ELECTRICĂ 
+6.1.1. Solicitantul care se află într -una din categoriile specificate în Anexa 2 şi doreşte să se 
+înregistreze la una din pieţele organizate de energie electrică pe termen scurt sau la una din 
+piețele contractelor bilaterale administrate de OPCOM S.A. transmite  cu cel puţin 10 zile 
+lucrătoare înaintea zilei de la care doreşte înregistrarea la piaţa respectiv ă, scrisoarea de 
+intenție cu solicitarea de înregistrare , întocmită în conformitate cu modelul din Anexa 1 și 
+însoțită de documentele specifice menționate în Anexa 3 la prezenta Procedură. 
+6.1.2. Pentru Solicitantul care doreşte să se înregistreze la una din pieţele organizate de energie 
+electrică administrate de OPCOM S.A., este obligatorie , anterior solicitării, înregistra rea 
+acestuia ca PRE / într-un PRE de către C.N.T.E.E. Transelectrica S.A. în registrul pentru PRE. 
+6.1.3. În vederea participării la PZU și/sau P.I.  solicitanții vor semna și vor trimite Convenția de 
+participare la piețele pe termen scurt , în conformitate cu scrisoarea de intenție privind 
+înregistrarea și cu documentele atașate acesteia. 
+6.1.4.  Solicitantul care este deja înregistrat la o piață organizată de energie electrică și dorește 
+înregistrarea la o altă piață organizată de energie electrică , depune documentele 
+suplimentare pieței organizate la care solicită înregistrarea, însoțite de o declarație pe proprie 
+răspundere potrivit căreia documentele depuse în procesul de înregistrare derulat anterior , 
+precum și actualizările ulterioare, sunt în vigoare, integral aplicabile și nu necesită actualizare. 
+6.1.5. Pentru înscriere la PZU și/sau P.I., Participantul implicit la PZU și/sau P.I. transmite scrisoarea 
+de intenție însoțită de documentul aferent PRE -ului creat distinct numai pentru tranzacțiile 
+înregistrate în calitate de agent de transfer și Convenția de participare la piețele pe termen 
+scurt încheiată cu OPCOM S.A., semnată. 
+6.1.6. În situația în care Solicitantul dorește să se înregistreze la PZU și/sau P.I. în anul în care a 
+obținut o licenţă valabilă de furnizare a energiei electrice sau o licenţă pentru activitatea 
+traderului de energie electrică sau o licenţă , în baza căreia efectuează comercializare de 
+energie electrică eliberată de ANRE, și intenționează să achiziționeze energie electrică de pe 
+=== PDF PAGE 14 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 14/47 
+Rev. 17 
+ 
+PZU și/sau P.I., Solicitantul respectiv va transmite, opțional, la OPCOM S.A. o declarație pe 
+proprie răspundere în conformitate cu prevederile art.331 alin.(2) lit.e) pct.2 din Codul Fiscal. 
+6.1.7.  Pentru participare la PCSU se pot înregistra: 
+a) în calitate de participanți - cumpărători, numai titularii de licență desemnați de ANRE în 
+calitate de FUI , care semnează în calitate de participant-cumpărător, Convenția de 
+participare la PCSU și o transmite la OPCOM S.A.; 
+b) în calitate de participanți - vânzători, numai titularii de licență acordate de ANRE pentru 
+următoarele activități: 
+b.1) exploatarea comercială a capacităţilor de producere a energiei electrice; 
+b.2) furnizare a energiei electrice; 
+b.3) trader de energie electrică,  
+care semnează în calitate de participant-vânzător, Convenția de participare la PCSU și o 
+transmite la OPCOM S.A. 
+6.1.8. Pentru participare la PMC se pot înregistra:  
+a) în calitate de cumpărători, orice consumator sau agregare de consumatori cu un consum 
+anual mai mare de 70.000 MWh, 
+b) în calitate de vânzători, orice producător,  conform prevederilor Ordinului președintelui 
+ANRE nr. 65/2022 cu modificările și completările ulterioare.  
+Pentru participarea la PCTL se pot înregistra: 
+a) în calitate de cumpărători, titularii de licență din domeniul energiei electrice și clienții 
+finali, 
+b) în calitate de vânzători, titularii de licență din domeniul energiei electrice și/sau operatorii 
+economici care urmează să construiască și să racordeze o capacitate de producere a 
+energiei electrice sau de producere a energiei electrice și termice în cogenerare, care va 
+produce energia electrică tranzacționată în baza contractului încheiat pe Piața 
+centralizată destinată atribuirii contractelor de energie electrică pentru perioade lungi de 
+livrare; 
+6.1.9. În vederea participării la Pieţele contractelor bilaterale , respectiv  PC-OTC, PCCB-LE-flex, 
+PCCB-NC, PCSU, PMC și/sau PCTL, solicitanții  vor semna și vor trimite Convenția de 
+participare la piețele contractelor bilaterale, în conformitate cu scrisoarea de intenție și cu 
+documentele atașate acesteia. 
+6.1.10.  În conformitate cu Regulamentul (UE) nr. 1227/2011 privind integritatea și transparența 
+pieței angro de energie (REMIT) şi cu Regulamentul de punere în aplicare (UE) nr. 1348/2014 
+al Comisiei privind raportarea de date, pentru punerea în aplicare a articol ului 8 alineatele 
+(2) și (6) din Regulamentul (UE) nr. 1227/2011 al Parlamentului European și al Consiliului 
+privind integritatea și transparența pieței angro de energie, participantii la piaţa au obligaţia 
+de a raporta detaliile contractelor angro de energie încheiate pe o piaţa organizată. În acest 
+sens, OPCOM S.A. oferă participanţilor la piaţă un acord privind raportarea de date. 
+ 
+=== PDF PAGE 15 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 15/47 
+Rev. 17 
+ 
+6.2. OPERAŢIUNI PREMERGĂTOARE ÎNREGISTRĂRII LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ 
+6.2.1. OPCOM S.A. verifică dacă Solicitantul  sau participanții la agregare  are/au obligații restante 
+față de OPCOM S.A., din participarea anterioară la una sau mai multe din pieţele organizate 
+de energie electrică administrate de OPCOM  S.A., de la care s-a/s-au retras/a fost revocat/au 
+fost revocați, și în acest caz procedura de înregistrare a Solicitantului se reia numai ulterior 
+achitării obligațiilor restante la piața respectivă conform prevederile de la pct.6.6.5. 
+6.2.2. OPCOM S.A. verifică completitudinea și analizează conţinutul documentelor depuse de 
+Solicitantul ce doreşte înregistrarea în conformitate cu subcap.6.1., respectiv Anexele 2 şi 3 
+din prezenta Procedură, în termen de 5 zile lucrătoare de la depunerea acestora. 
+6.2.3. În cazul constatării incorectitudinii sau lipsei unor informaţii din documentele depuse de 
+Solicitant, OPCOM S.A. solicită în scris în termen de 5 zile lucrătoare, de la depunerea  
+documentelor, completarea informaţiilor/documentelor lipsă şi/sau corectarea informaţiilor 
+invalidate. 
+6.2.4. Procesul de verificare și de înregistrare se reia de la data la care au fost primite documentele 
+corectate/completate. 
+ 
+6.3.  ÎNREGISTRAREA LA PIEŢELE ORGANIZATE DE ENERGIE ELECTRICĂ 
+6.3.1. În condiţiile în care toate documente le depuse pentru înscrierea la o piață organizată de 
+energie electrică au fost acceptate de OPCOM S.A. ca fiind conforme cu prevederile prezentei 
+proceduri, OPCOM S.A. semnează în termen de 3 zile lucrătoare Convenţia de participare la 
+piețele pe termen scurt / Convenţia de participare la piețele contractelor bilaterale, care intră 
+în vigoare la data semnării.  
+6.3.2. În situația în care Solicitantul menționează în scrisoarea de intenție ca înregistrarea să se 
+realizeze cu o anumită dată  (zi de ofertare/tranzacționare, după caz) , data de intrare în 
+vigoare a Convenţiei de participare la piaț a respectivă este data solicitată, în condițiile 
+îndeplinirii de către Solicitant a prevederilor specifice din subcap.6.1 și subcap.6.2.  
+6.3.3. OPCOM S.A. înregistrează Solicitantul ca Participant la piaţa la care acesta din urmă a solicitat 
+înregistrarea, publică numele noului Participant la piaţa respectivă pe website și înregistrează 
+datele Participantului la piaţă în Registrul participanţilor la pieţele organizate de energie 
+electrică. 
+6.3.4. OPCOM S.A. comunică Solicitantului înregistrarea ca Participant la piața la care acesta a 
+solicitat înregistrarea, printr-o scrisoare conform ă cu Anexa 5 pentru piața respectivă  și îi 
+trimite Convenția de participare la piețele pe termen scurt sau Convenția de participare la 
+piața contractelor bilaterale, după caz, în termen de 10 zile lucrătoare, în situația în care  
+participantul la piață nu a ridicat documentul de la sediul OPCOM S.A. 
+6.3.5. Participantul poate lua parte la tranzacționare/sesiuni de licitație pe piața organizată la care 
+a fost înregistrat, ulterior efectuării plății facturii pentru tariful de administrare conform cu 
+prevederile din Anexa 5,  pentru participarea la piețele pe termen scurt  sau la piețele 
+=== PDF PAGE 16 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 16/47 
+Rev. 17 
+ 
+contractelor bilaterale, precum și îndeplinirii tuturor celorlalte condiții privind participarea cu 
+oferte prevăzute în procedurile aplicabile fiecărei pieţe. 
+6.3.6. Tariful de administrare pentru participarea la piețele pe termen scurt, are o valoare unică și 
+asigură participarea la PZU și/sau P.I. 
+6.3.7. Tariful de administrare pentru participarea la piețele contractelor bilaterale are o valoare 
+unică și asigură participarea la Pieţele contractelor bilaterale, respectiv: PC-OTC, PCCB-LE-
+flex, PCCB-NC, PCSU, PMC și/sau PCTL. 
+6.3.8. Factura aferentă tarifului de administrare, cuprinde valoarea tarifului de administrare anual 
+aferent pieței respective ponderată cu raportul dintre numărul de luni în care participantul 
+este înscris și numărul de luni din anul calendaristic în curs, se emite în maxim 5 zile lucrătoare 
+de la data înregistrării la piață și se transmite electronic în SPV-ANAF în 5 zile lucratoare de 
+la data emiterii; plata facturii se efectuează de participant prin virament bancar, cu ordin de 
+plată, în 5 zile lucrătoare de la data primirii facturii în SPV-ANAF. 
+6.3.9. În cazul agregatorului, reprezentantul desemnat al agregării  comunică OPCOM S .A. 
+componența agregării și puterea instalată a fiecărui membru agregat și pe total agregare și 
+o include într-o anexă la convenţia de participare aferentă. Componența agregării respective 
+va fi publicată și pe website-ul OPCOM SA. 
+6.3.10. Participantul la piață are obligaţia să asigure actualizarea documentelor depuse pentru 
+înscrierea la piață ori de câte ori intervin modificări ale acestora. 
+6.3.11. Modificările aduse datelor de identificare cuprinse în Convenția de participare la piețele pe 
+termen scurt sau în Convenția de participare la piețele contractelor bilaterale se consemnează 
+prin Act Adițional (cu excepția Codului IBAN) la Convenţia de participare respectivă. 
+6.3.12. În cazul în care ulterior înregistrării la piață a unui agregator se dorește modificarea 
+componenței listei membrilor agregării, acesta notifică OPCOM, modificarea componenței 
+producând efecte conform prevederilor Actului adițional la Convenția de participare la piețele 
+pe termen scurt sau în Convenția de participare la piețele contractelor bilaterale , care va 
+conține lista și puterea instalată actualizată  a capacităţilor de producere / ale locurilor de 
+consum ale clienţilor finali deținute de membrii agregării.  
+6.3.13. Înainte de a transmite oferte de vânzare cu preţ negativ/oferte de cumpărare energie 
+electrică cu preţ pozitiv este necesar ca Participantul înregistrat la PZU și/sau P.I.: 
+6.3.13.1. să încheie un mandat de direct debit cu banca sa de decontare (care îl va înregistra 
+în Registrul Unic al Mandatelor-RUM); și 
+6.3.13.2. să constituie garanții financiare sub forma unei  scrisori de garanție bancară de 
+plată încheiată cu banca sa garantă (scrisoare care va fi înregistrată în sistemul 
+informatic de management al garanțiilor al Bancii cont central) sau sub forma unui 
+depozit în numerar, remis în contul bancar indicat de OPCOM S.A, dacă îndeplinește 
+condițiile prevăzute în procedurile PZU/P.I. aplicabile; 
+6.3.14. Corespondența în scopul înscrierii și participării Solicitantului la piețele organizate de energie 
+electrică se desfăşoară în limba română, și după caz, în limba engleză, pentru persoanele 
+juridice străine.  
+=== PDF PAGE 17 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 17/47 
+Rev. 17 
+ 
+ 
+6.4. RETRAGEREA UNUI PARTICIPANT DE LA PIEȚELE ORGANIZATE DE ENERGIE 
+ELECTRICĂ 
+6.4.1. Un Participant la piață se poate retrage de la o piață organizată de energie electrică din 
+proprie iniţiativă, în baza unei adrese oficiale transmise în scris la OPCOM S.A. cu cel puţin 5 
+(cinci) zile lucrătoare înainte de data de la care Participantul doreşte ca retragerea sa să 
+devină efectivă (exclusiv data intrării în efectivitate a retragerii) ; termenul începe să curgă 
+de la data la care OPCOM S.A. a luat cunoştinţă de această notificare  (exclusiv data 
+înregistrării documentului la OPCOM S.A.) ; OPCOM S.A. transmite acestuia în termen de 2 
+zile lucrătoare o comunicare în acest sens precizând momentul intrării în efectivitate a 
+retragerii (Anexa 8) ; în cazul în care solicitarea de retragere este de la PZU  și/sau P.I., 
+comunicarea se transmite și la PRE -ul care și-a asumat responsabilitatea echilibrării pentru 
+Participant;  
+6.4.2. În cazul în care solicitarea de retragere privește un operator economic membru al unei 
+agregări, comunicarea se transmite și Participantului desemnat al agregării din care acesta 
+face parte. 
+6.4.3. În cazul în care solicitarea de retragere privește un agregator, comunicarea se transmite și 
+membrilor agregați. 
+6.4.4. Participantul la piață care se retrage de la o piață organizată de energie electrică din proprie 
+iniţiativă va lua toate măsurile în vederea îndeplinirii/achitării tuturor obligațiilor asumate ca 
+urmare a tranzacțiilor realizate până în ultima zi de tranzacționare (emiterea facturilor pentru 
+energia electrică vândută pe PZU și/sau P.I., efectuarea integrală a plăților facturilor pentru 
+energia electrică achiziționată de pe PZU  și/sau P.I., a facturilor emise de OPCOM pentru 
+„prestarea de servicii”, pentru tranzacțiile de vânzare energie electrică la prețuri negative,  
+achitarea facturilor aferente tarifului de realizare a tranzacțiilor, regularizarea obligațiilor de 
+plată cu drepturile de încasare, egale, reciproce cu OPCOM S.A.  înregistrate pe PZU și/sau 
+P.I.).  
+6.4.5. Retragerea Participantului de la o piață organizată de energie electrică nu îl exonerează de 
+la îndeplinirea obligațiilor asumate pe piața organizată de energie electrică respectivă până 
+la data intrării în efectivitate a retragerii de la acea piață. 
+6.4.6. În cazul retragerii de la o piață organizată de energie electrică a Participantului agregator se 
+consideră că toți membrii agregați sunt retrași de la piața organizată de energie electrică 
+respectivă, iar membrii agregati respectivi vor putea să tranzacționeze pe piața respectivă pe 
+baza înregistrării anterioare sau ulterioare, după caz, agregării respective.  
+ 
+6.5.  SUSPENDAREA/REVOCAREA UNUI PARTICIPANT LA PIEȚELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ 
+6.5.1. OPCOM S.A. suspendă Participantul de la tranzacţionare pe piaţa respectivă, dacă într-un an 
+operațional Participantul la piață se face vinovat de neîndeplinirea obligaţiilor prevăzute în 
+Convenţia de participare la piața respectivă şi /sau de abaterea de la regulile stabilite prin 
+=== PDF PAGE 18 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 18/47 
+Rev. 17 
+ 
+procedurile aferente. Cazurile de neîndeplinire a obligațiilor, respectiv situațiile de abatere de 
+la regulile de piață , numărul de abateri acceptate  într-un an operațional  și perioada de 
+suspendare aferentă fiecărei abateri sunt precizate în Anexa 4. 
+6.5.2. La data  realizării uneia dintre condițiile de suspendare /revocare specificate în Anexa 4 , 
+OPCOM S.A. transmite Participantului la piață respectiv o comunicare privind suspendarea 
+(Anexa 6) sau după caz, o comunicare privind revocarea (Anexa 7) cu specificarea motivelor 
+suspendării/ revocării şi a datei intrării în efectivitate a măsurii comunicate; în cazul în care 
+suspendarea/ revocarea este de la PZU/P.I., comunicarea se transmite și la PRE-ul care și-a 
+asumat responsabilitatea echilibrării pentru Participant ; în cazul în care 
+suspendarea/revocarea privește un operator economic membru al unui agregator , 
+comunicarea se transmite și Participantului desemnat de agrega rea din care acesta face 
+parte; în cazul în care suspendarea/revocarea privește un Participant agregator, comunicarea 
+se transmite și membrilor agregați. 
+6.5.3. În cazul suspendării de la tranzacționare a Participantului agregator se consideră  că toți 
+membrii agregați sunt suspendați de la piața organizată de energie electrică respectivă, iar 
+membrii agregati respectivi  vor putea să tranzacționeze pe piața respectivă pe baza 
+înregistrării individuale anterioare sau ulterioare, după caz, agregării respective. 
+6.5.4. Dacă suspendarea s-a aplicat pentru una din abaterile menționate la poz. 8/ poz.16/ poz.17 
+din Anexa 4, Participantul recapătă dreptul de participare la tranzacționare începând cu prima 
+zi după expirarea perioadei de suspendare. 
+6.5.5. Dacă în decursul perioadei de suspendare  datorate abaterilor menționate la poz.1/poz.2/  
+poz.3/poz.6/poz.7/poz.9/ poz.10 poz.14/ poz.15 din Anexa 4, Participantul la piață dovedeşte 
+că a înlăturat/nu mai sunt valabile cauzele care au dus la suspendarea sa, în ziua lucrătoare 
+următoare celei în care prezintă documentul/documentele respective  sau după caz, în ziua 
+lucrătoare următoare celei în care se confirmă creditarea contului bancar al OPCOM S.A. cu 
+sumele datorate, suspendarea încetează și OPCOM S.A. transmite  o scrisoare în acest sens 
+Participantului, conform modelului din Anexa 9.  
+6.5.6. OPCOM S.A. va suspenda de la tranzacționare participantul în urma abaterilor menționate la 
+poz.11/poz.12/poz.13/poz.18/poz.19 din Anexa 4, pe o perioadă cuprinsă între data 
+constatării abaterii şi 10 zile după data efectuării plății sumei penalizatoare. Data efectuării 
+plății se consideră ziua următoare creditării contului bancar al OPCOM S .A. cu suma 
+penalizatoare. Dacă participantul dovedește încetarea cauzelor care au condus la suspendare, 
+în ziua lucrătoare următoare celei de a zecea (10) zile după data efectuării plății sumei 
+penalizatoare suspendarea încetează și OPCOM S.A. transmite  participantului comunicarea 
+privind ridicarea suspendării, conform formularului din Anexa 9. 
+6.5.7. Dacă Participantul la piață, suspendat din cauza abaterilor menționate la pct.6.5.5. și 6.5.6, 
+cu excepția abaterii de la pct. 15, nu dovedește până la sfârşitul perioadei de suspendare că 
+a înlăturat cauzele care au condus la suspendarea sa , OPCOM S.A. revocă înregistrarea ca 
+Participant la piață a operatorului economic în cauză; OPCOM S.A. transmite acestuia o 
+comunicare în acest sens, cu 5 (cinci) zile lucrătoare în avans faţă de sfârşitul perioadei de 
+suspendare şi momentul intrării în efectivitate a revocării (Anexa 7). 
+=== PDF PAGE 19 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 19/47 
+Rev. 17 
+ 
+6.5.8. Dacă până la sfârșitul perioadei de suspendare , Participantul dovedeşte încetarea cauzelor, 
+revocarea nu se aplică, suspendarea încetează și OPCOM S.A. transmite o scrisoare în acest 
+sens Participantului, conform modelului din Anexa 9. 
+6.5.9. Dacă abaterile menționate la pct. 6.5. 5, cu excepția poz. 17 din Anexa 4 au fost comise în 
+mod repetat (în numărul specificat în Anexa 4), OPCOM SA revocă înregistrarea ca Participant 
+la piață a operatorului economic respectiv și îi comunică acestuia motivele și data de la care 
+este revocat, printr-o scrisoare conform  modelului din Anexa 7.  
+6.5.10. Revocarea Participantului îşi produce efectele de drept începând cu prima zi calendaristică 
+după încheierea perioadei de suspendare pentru cazurile menționate la pct. 6.5.9, în cazurile 
+în care revocarea este urmare a repetării unei abateri sancționate cu suspendare. Revocarea 
+se aplică imediat ce OPCOM S.A. a luat la cunoștință de emiterea noii decizii a ANRE sau de 
+la data ulterioară conform deciziei ANRE, în cazurile specificate la poz.4 , poz.5 și poz.6 din 
+Anexa 4. 
+6.5.11. În cazul revocării Participantului agregator se consideră că toți membrii agregați sunt revocați 
+de la piața organizată de energie electrică respectivă, iar membrii agregați respectivi vor 
+putea să tranzacționeze pe piața respectivă pe baza înregistrării individuale anterioare sau 
+ulterioare, după caz, agregării respective. 
+ 
+6.6.  CONSECINŢELE RETRAGERII, SUSPENDĂRII, REVOCĂRII UNUI PARTICIPANT DE 
+LA PIEȚELE ORGANIZATE DE ENERGIE ELECTRICĂ 
+6.6.1. În condiţiile în care un Participant la piață se retrage sau este suspendat de la tranzacţionare 
+sau înregistrarea sa ca Participant la o piață este revocată de OPCOM S.A., respectivul 
+operator economic nu mai are dreptul să transmită/introducă oferte pe p iața respectivă, iar 
+toate ofertele validate ale acestuia , cu tranzacționare în perioada ulterioară datei intrării în 
+vigoare a retragerii, suspendării sau revocării, vor fi anulate. 
+6.6.2. Urmare a suspendării/retragerii/revocării unui Participant la o piață, OPCOM S.A. 
+consemnează aceasta în Registrul participanţilor la piețele organizate de energie electrică şi 
+publică numele Participantului şi data suspendării/ retragerii/revocării de pe piaţa respectivă, 
+pe website-ul propriu. 
+6.6.3. În situatia de retragere/revocare a unui  Participant la o piață,  OPCOM S.A. stornează factura 
+aferentă tarifului de administrare propor țional cu perioada cuprinsă între data de 1 a lunii 
+următoare datei intrării în efectivitate a retragerii/revocării și sfârșitul anului; contravaloarea 
+aferentă facturii stornate, în situatia în care factura a fost achitată, se restituie de catre 
+OPCOM S.A. în maxim 5 zile lucrătoare de la data transmiterii facturii de stornare în SPV-
+ANAF. 
+6.6.4. În cazul în care Participantul la piață se retrage sau este revocat de la următoarele pieţe 
+administrate de OPCOM S.A.: PZU/PCCB-NC/PCSU/PMC, i se va anula certificatul/-ele digital/-
+e, iar în cazul în care deține un dispozitiv usb token, acesta înapoiază cheia de autentificare 
+USB/Token şi i se va restitui garanţia depusă , în cazul în care chei a de autentificare 
+USB/Token este restituită în condițiile prevăzute în Contractul de comodat aferent.  
+=== PDF PAGE 20 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 20/47 
+Rev. 17 
+ 
+6.6.5. În situația în care un Participant se retrage sau este revocat de la oricare din piețele pe care 
+a activat în cadrul OPCOM S.A., pentru a se reînregistra ulterior, operatorul economic 
+respectiv trebuie să reia procesul de înregistrare și să parcurgă etapele descrise la subcap. 
+6.1 din prezenta procedură. 
+6.6.6. În cazul prevăzut la pct. 6.6.4, Solicitantul care are obligații restante față de OPCOM S.A., nu 
+poate relua procedura de înregistrare decât ulterior achitării obligațiilor restante  la piața 
+respectivă.  
+ 
+7. DISPOZIȚII FINALE  
+7.1 În cazul în care un Titular de licență  acordată de ANRE  persoană juridică străină  sau un 
+operator economic - persoană juridică străină căruia i s-a acordat de către ANRE prin decizie 
+dreptul de a desfășura în România activitatea de furnizare sau activitatea de trader,  care a 
+fost înregistrat la una din piețele organizate de energie electrică prin intermediul unei 
+sucursale a sa - persoană juridică română, dorește să se înregistreze c a persoană juridică 
+străină și să retragă participarea sucursalei - persoană juridică română, în vederea asigurării 
+continuității activității de tranzacționare, este necesară îndeplinirea cumulativă a următoarelor 
+condiții: 
+7.1.1 Transmiterea către OPCOM S.A. a unei Scrisori de inten ție de către  Titularul de licență  
+acordată de ANRE - persoană juridică străină , respectiv de către operatorul economic - 
+persoană juridică străină căruia i s-a acordat de către ANRE prin decizie dreptul de a desfășura 
+în România activitatea de furnizare sau activitatea de trader, prin care se precizează data de 
+la care se dorește înscrierea ca persoană juridică străină, însoțită de solicitarea de retragere 
+de la piață la aceeași dată a sucursalei - persoană juridică română  sau invers, precum și 
+solicitarea expresă a păstrării continuității în activitatea de tranzacționare; 
+7.1.2 Confirmarea, de către Titularul de licență  acordată de ANRE - persoană juridică străină , 
+respectiv de către operatorul economic - persoană juridică străină căruia i s-a acordat de către 
+ANRE prin decizie dreptul de a desfășura în România activitatea de furnizare sau activitatea 
+de trader, a respectării/achitării tuturor obligațiilor asumate ca urmare a tranzacțiilor realizate 
+până în ultima zi de tranzacționare (emiterea facturilor pentru energia electrică vândută pe 
+PZU/P.I., efectuarea integrală a plăților pentru energia electrică achiziționată de pe PZU/P.I., 
+achitarea facturilor aferente tarifului de realizare a tranzacțiilor, compensarea obligațiilor de 
+plată cu drepturile de încasare, egale, reciproce cu OPCOM S.A., etc.) de către sucursala sa - 
+persoană juridică română. 
+7.2 Același mecanism se aplică și în cazul în care un participant Titular de licență  acordată de 
+ANRE - persoană juridică străină sau un operator economic - persoană juridică străină căruia 
+i s-a acordat de către ANRE prin decizie dreptul de a desfășura în România activitatea de 
+furnizare sau activitatea de trader, care a fost înregistrat ca persoană juridică străină la una 
+din piețele organizate de energie electrică, dorește să revoce participarea sa ca persoană 
+juridică străină și să se înregistreze prin intermediul sucursalei  sale - persoană juridică 
+română. 
+ 
+=== PDF PAGE 21 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 21/47 
+Rev. 17 
+ 
+ANEXA 1.1  
+Nr. de ieşire Solicitant.............................. 
+SCRISOARE DE INTENŢIE 
+privind înregistrarea ca Participant la  
+ Piețele pe Termen Scurt de Energie Electrică 
+Către 
+Operatorul Pieţei de Energie Electrică și de Gaze Naturale ”OPCOM ” S.A. 
+Bd. Hristo Botev nr.16-18, sectorul 3, Bucureşti 
+ 
+Societatea/PFA/Comunitate/Condominiu/ONG................................................................................. 
+cu sediul în ......................................................................................................................., 
+reprezentată prin reprezentantul legal (director general, administrator, etc., după 
+caz)............................................................................................................ / sau 
+Persoana fizică (nume/prenume)...........................................,   
+ 
+ 
+în calitate de Agregator: DA     NU   , 
+*)  Puterea instalată însumată a capacităţilor de producere agregate:........................ 
+*)   Lista producătorilor agregaţi:..........................................., 
+ 
+*)  Suma puterilor aprobate ale locurilor de consum ale clienţilor finali agregaţi:........................ 
+*)  Lista clienţilor finali agregați:..........................................., 
+ 
+în conformitate cu prevederile „Procedurii privind înregistrarea participanţilor la pieţele organizate de 
+energie electrică administrate de OPCOM S.A.”, solicit înregistrarea ca Participant la: 
+☐ Piața pentru Ziua Următoare de energie electrică (PZU)  
+☐ Piața Intrazilnică de energie electrică (P.I.)  
+în calitate de Participant la Piețele pe Termen Scurt de Energie Electrică, 
+din data de.................................................  
+                                                                         
+Funcție,  reprezentant legal: ................................................................................ 
+Nume și prenume reprezentant legal/persoană fizică: ................................................................. 
+Semnătură reprezentant legal/persoană fizică și, după caz,  ștampilă:........................................... 
+ 
+*) Se completează de Solicitant dacă acesta este Agregator. 
+ 
+=== PDF PAGE 22 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 22/47 
+Rev. 17 
+ 
+ANEXA 1.2  
+Nr. de ieşire Solicitant.............................. 
+SCRISOARE DE INTENŢIE 
+privind înregistrarea ca Participant la  
+Piețele contractelor bilaterale de energie electrică. 
+Către 
+Operatorul Pieţei de Energie Electrică și de Gaze Naturale ”OPCOM ” S.A. 
+Bd. Hristo Botev nr.16-18, sectorul 3, Bucureşti 
+ 
+Societatea/PFA/Comunitate/Condominiu/ONG................................................................................. 
+cu sediul în ......................................................................................................................., 
+reprezentată prin reprezentantul legal (director general, administrator, etc., după 
+caz)............................................................................................................ / sau 
+Persoana fizică (nume/prenume)...........................................,   
+ 
+ 
+în calitate de Agregator: DA     NU   , 
+*)  Puterea instalată însumată a capacităţilor de producere agregate:........................ 
+*)   Lista producătorilor agregaţi:..........................................., 
+ 
+*)  Suma puterilor aprobate ale locurilor de consum ale clienţilor finali agregaţi:........................ 
+*)  Lista clienţilor finali agregați:..........................................., 
+ 
+în conformitate cu prevederile „Procedurii privind înregistrarea participanţilor la pieţele organizate de 
+energie electrică administrate de OPCOM S.A.”, solicit înregistrarea ca Participant la: 
+☐  Piața centralizată cu negociere dublă continuă a contractelor bilaterale de energie electrică 
+(PC-OTC) 
+☐  Piaţa centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare a contractelor prin licitație extinsă și utilizarea produselor care să asigure 
+flexibilitatea tranzacționării (PCCB-LE-flex) 
+☐  Piaţa centralizată a contractelor bilaterale de energie electrică - modalitatea de 
+tranzacţionare conform căreia contractele sunt atribuite prin negociere continuă (PCCB -
+NC)    
+☐  Piaţa centralizată pentru serviciul universal (PCSU) 
+=== PDF PAGE 23 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 23/47 
+Rev. 17 
+ 
+   ☐  Vânzător / ☐ Cumpărător  
+☐  Piața de energie electrică pentru clienții finali mari (PMC)  
+  ☐  Vânzător / ☐ Cumpărător  
+☐  Piaţa centralizată destinată atribuirii contractelor de energie electrică pentru perioade 
+lungi de livrare (PCTL)            
+  ☐  Vânzător / ☐ Cumpărător  
+ 
+din data de.................................................  
+                                                                         
+Funcție,  reprezentant legal: ................................................................................ 
+Nume și prenume reprezentant legal/persoană fizică: ................................................................. 
+Semnătură reprezentant legal/persoană fizică și, după caz,  ștampilă:........................................... 
+ 
+*) Se completează de Solicitant dacă acesta este Agregator. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PDF PAGE 24 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 24/47 
+Rev. 17 
+ 
+ANEXA 2 
+  
+ 
+CATEGORIILE DE OPERATORI ECONOMICI CARE SE POT ÎNREGISTRA PE FIECARE DIN PIEŢELE 
+ORGANIZATE DE ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A.  
+ 
+Nr.
+crt. 
+Categoriile de operatori 
+economici 
+Piețele pe 
+termen 
+scurt 
+Piețele de contracte bilaterale 
+PZU  PI 
+ 
+PCCB- 
+NC 
+ 
+PCCB-
+LE-flex  
+PC-
+OTC  PCTL PMC PCSU 
+1. Titulari de licență acordată de ANRE, 
+pentru:         
+1.1 - furnizarea energiei electrice  X X X X X X**)  X*) 
+1.2 - activitatea traderului de  energie 
+electrică X X X X X X **)  X*) 
+1.3 
+- prestarea serviciului de transport  al 
+energiei electrice şi prestarea serviciului 
+de sistem  
+X X X X X X**) 
+ 
+ 
+ 1.4 - prestarea serviciului de distribuţie a 
+energiei electrice. X X X X X X**)   
+1.5 
+- exploatarea comercială a capacităţilor 
+de producere a energiei electrice  şi, 
+după caz, a instalaţiilor de stocare a 
+energiei adăugate capacităţilor de 
+producere respective  
+X X X X X X**) X X*) 
+1.6 
+- exploatarea comercială a capacităţilor 
+de producere a energiei electrice şi 
+termice din centrale electrice în 
+cogenerare şi, după caz, a instalaţiilor 
+de stocare a energiei adăugate 
+capacităţilor de producere respective 
+X X X X X   
+ 
+1.7 - activitatea de agregare X X X X X X**) X  
+ 
+1.8 
+- exploatarea comercială a instalațiilor 
+de stocare a energiei  altele decât cele 
+prevăzute la pct.1.5 sau pct.1.6 
+X X X X X X**) X 
+ 
+ 
+2. 
+Operator economic - persoană juridică 
+străină căreia i s -a acordat de către 
+ANRE prin decizie dreptul de a 
+desfășura în România activitatea de: 
+  
+ 
+  
+   
+2.1 - furnizare a energiei electrice X X X X X   X*) 
+2.2 - activitatea traderului de energie 
+electrică X X X X X   X*) 
+3 Clienți finali mari de energie electrică   
+ 
+  
+ 
+X 
+ 
+4 
+Operator economic care urmeaz ă să 
+construiască și să racordeze o 
+capacitate de producere a energiei 
+electrice sau de producere a energiei 
+electrice și termice în cogenerare, care 
+va produce energia electrică 
+     
+ 
+ 
+X**) 
+  
+5 Clienți finali cu putere  aprobată > 500 
+kW X X       
+=== PDF PAGE 25 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 25/47 
+Rev. 17 
+ 
+6 
+Persoană fizică sau juridică care, 
+potrivit Legii nr. 123/2012 art.10 
+alin.(5) și alin.(6), pot desfăşura 
+activităţi în sectorul energiei electrice 
+fără a deţine o licenţă acordată de 
+ANRE 
+X X X  X X 
+   
+7 Agregator (fără licență de agregare) X X X X X 
+ 
+X**) 
+ 
+X 
+ 
+8 
+Comunităţile de energie care, potrivit 
+OUG nr.163/2022 pot desfăşura 
+activităţi în sectorul energiei electrice 
+fără a deţine o licenţă acordată de 
+ANRE 
+X X X X X 
+   
+ 
+ 
+*) La PCSU se înregistrează: 
+a) în calitate de participanți - cumpărători, numai titularii de licență desemnați de ANRE în calitate de FUI; 
+b) în calitate de participanți - vânzători, numai titularii de licență acordate de ANRE  pentru producerea/ 
+furnizarea/activitatea de trader de energie electrică. 
+**)La PCTL se înregistrează: 
+a) în calitate de vânzători, titularii de licență din domeniul energiei electrice și/sau operatorii economici care 
+urmează să construiască și să racordeze o capacitate de producere a energiei electrice sau de producere 
+a energiei electrice și termice în cogenerare, care va produce energia electrică tranzacționată în baza 
+contractului încheiat pe Piața centralizată destinată atribuirii contractelor de energie electrică pentru 
+perioade lungi de livrare; 
+b) în calitate de cumpărători, titularii de licență din domeniul energiei electrice și clienții finali.  
+ 
+=== PDF PAGE 26 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 26/47 
+Rev. 17 
+ 
+ANEXA 3 
+ 
+DOCUMENTE NECESARE LA ÎNREGISTRAREA LA PIEŢELE ORGANIZATE DE ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+ 
+Nr. 
+crt. 
+ 
+Tip Solicitant/ 
+ 
+ 
+Documente necesare 
+  
+ 
+ 
+Persoană fizică sau 
+juridică cărora li se 
+aplică prevederile 
+art.10 alin.(5) și 
+alin.(6) din Legea 
+nr.123/2012 
+ 
+ 
+Titulari de licență 
+Reprezentantul  
+agregării 
+Clienți finali 
+mari de energie 
+electrică 
+Clienți finali cu 
+puterea aprobată 
+>500 kW 
+Operatori 
+economici, 
+persoane juridice 
+străine cărora li 
+s-a acordat de 
+către ANRE 
+dreptul de a 
+desfășura în 
+România 
+activitatea de 
+furnizare/trader 
+PF române/ 
+străine 
+PJ 
+române 
+PJ 
+străine 
+PJ 
+străine care își 
+desfașoară 
+activitatea prin 
+sucursală 
+PF 
+române 
+PF 
+străine 
+ 
+PJ 
+române 
+ 
+PJ 
+române 
+PJ 
+române 
+PJ 
+străine 
+0 1 2 3 4 5 6 7 8 9 10 11 
+1 
+Scrisoare de intenţie privind înregistrarea solicitantului ca 
+participant la piață (original, semnat si, după caz, 
+ștampilat)  
+x x x x x x x x x x 
+2 
+Declarație pe proprie răspundere privind asocierea în 
+cadrul unui agregator și desemnarea reprezentantului 
+agregatorului (Anexa 10) 
+      x    
+3 Licenţa acordată de ANRE (copie)  x x x x x x    
+4 Decizie ANRE de acordare a licenţei (copie)  x x x x x x    
+5 Condiţiile asociate licenţei (copie)  x x x x x x    
+6 
+Decizie  ANRE de acordare a dreptului de a desfășura în 
+România activitatea de furnizare/trader/ agregare, după 
+caz (copie) 
+          
+x 
+7 Decizie de desemnare FUI emisă de ANRE, pentru 
+înscrierea ca participant-cumpărător la PCSU (copie)  x         
+=== PDF PAGE 27 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 27/47 
+Rev. 17 
+ 
+8 Certificat de înregistrare în scopuri de TVA emis de 
+autorităţile române (copie)   x  x   x x x  
+9 Certificat de înregistrare la Registrul Comerțului (copie)  x  x   x x x  
+10 
+Certificatul de înregistrare în scopuri de TVA eliberat de 
+autoritatea fiscală din statul membru în care îşi are sediul 
+Titularul de licență/sediul prin intermediul căruia își 
+desfășoară activitatea, conform anexei la Condițiile licenței,  
+în scopuri de TVA (copie însoţită de originalul traducerii 
+legalizate) 
+  x       x 
+11 
+Document centralizator cu datele necesare înscrierii în 
+Registrul de participare: numele Solicitantului, adresă 
+completă, sediu social, adresa completă corespondență, 
+telefon, fax, e-mail, Reprezentantul legal, nume si prenume, 
+telefon, fax, Persoana (ele)  de contact pentru piața 
+respectivă, cu datele de contact, PRE – cu codul EIC, adresa, 
+persoana de contact, date de contact, Banca si cod IBAN al 
+contului, numele și datele de contact ale persoanei 
+responsabile pentru derularea corespondentei privind 
+facturile, codul ACER 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+12 Certificatul de racordare la rețeaua de transport/ distribuție 
+energie electrică         x  
+13 Copie după Decizia ANRE de înregistrare a comunităţii de 
+energie în Registru naţional al comunităţilor de energie x x         
+14 
+Convenţia de participare la piețele pe termen scurt / 
+Convenţia de participare la piețele contractelor bilaterale (2 
+exemplare originale, semnate de reprezentantul legal al 
+operatorului economic) 
+ 
+ 
+x 
+ 
+ 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+15 
+În cazul în care titularul de licentă persoană ju ridică 
+nerezidentă, își desfășoară activitatea prin intermediul 
+sucursalei înregistrate în România , conform anexei la 
+Condițiile licenței, copie după actul constitutiv al sucursalei 
+deschisă in România  
+   x       
+16 
+Declarație pe proprie răspundere  privind agregarea energiei 
+electrice produsă din mai multe surse  și/sau privind 
+agregarea sarcinilor mai multor clienţi finali (Anexa 10)       x    
+=== PDF PAGE 28 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 28/47 
+Rev. 17 
+ 
+17 
+Declarație pe propria răspundere că participarea în agregare 
+pe piețele concurențiale de energie electrică respectă 
+prevederile Legii concurenței nr. 21/1996, republicată cu 
+modificările și completările ulterioare. 
+      x    
+18 
+Reprezentantul agregării  care combină energia electrică 
+produsă din mai multe instalaţii de producere va transmite 
+lista producătorilor agregați și puterea instalată totală pe 
+baza puterii instalate însumate a capacităţilor de producere 
+aggregate, pe care o include ca anexă la convenția de 
+participare respectivă.   
+ x         
+19 
+Reprezentantul agregării care combină sarcinile mai multor 
+clienţi finali, va transmite lista clienților finali respectivi și 
+puterea aprobata totală pe baza sumei puterilor aprobate ale 
+locurilor de consum ale clienţilor finali agregaţi  pe care o 
+include ca anexă la convenția de participare respectivă.   
+ x         
+20 
+Pentru înregistrarea la PZU sau P.I. a persoanelor juridice 
+străine, titulari de licență de furnizare/trader, operatori 
+economici cărora li s -a acordat de către ANRE prin decizie 
+dreptul de a desfășura în România activitatea de furnizare 
+sau activitatea de trader: Declarația pe propria răspundere 
+din care să rezulte dacă activitatea principală, în ceea ce 
+priveşte cumpărările de ener gie electrică o reprezintă 
+revânzarea acesteia, iar consumul propriu de energie 
+electrică este neglijabil (se încadrează în prevederile Codului 
+fiscal art.275 alin.(1) lit.e) 
+  x       x 
+21 
+Pentru înregistrarea la PZU sau P.I. a persoanelor juridice 
+străine titulari de licență de furnizare/trader, operatori 
+economici cărora li s -a acordat de către ANRE prin decizie 
+dreptul de a desfășura în România activitatea de furnizare 
+sau activitatea de trader: Declarația pe propria răspundere 
+din care să rezulte dacă livrează sau nu energie electrică 
+persoanelor fizice neimpozabile române 
+  x       x 
+22 
+Pentru înregistrarea la PZU sau P.I. a agregatorului (care nu 
+deține licență de agregare)  a titularilor de licență de  
+exploatare comercială a capacităților de producție / furnizare 
+/ trader / agregare, care au obținut licența respectivă în anul 
+în care solicită înregistrarea la aceste piețe,  persoane fizice 
+sau juridice române, care intentionează să cumpere energie 
+electrică, transmite la OPCOM SA, opțional, în condițiile 
+precizate la pct.6.1.6: Declarația pe propria răspundere din 
+care să rezulte dacă activitatea principală, în ceea ce priveşte 
+cumpărările de energie electrică, o reprezintă revânzarea 
+acesteia, iar consumul propriu de energie electrică este 
+neglijabil, <1% (se încadrează în preve derile Codului fiscal 
+art.331 alin.(2) lit.e), pct.2 
+ x   x      
+=== PDF PAGE 29 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 29/47 
+Rev. 17 
+ 
+23 
+Document privind încadrarea în categoria de consum 
+acceptată de Regulamentul privind cadrul organizat de 
+contractare a energiei electrice pentru clienţii finali mari          
+x   
+24 
+Certificatul de înregistrare conținând codul unic de 
+înregistrare conform prevederilor  Legii nr. 182/ 17.10.2016 
+pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 
+44/2008 
+x    x x     
+25 
+Autorizația de înființare prin care i se acordă permisiunea de 
+- pune în funcțiune  capacități de producere a energiei 
+electrice/termice în cogenerare, emisă de ANRE  privind 
+exploatarea comercială a capacității de producere a energiei 
+elctrice, inclusiv a 
+energiei produse în cogenerare (copie), în cazul 
+participantului ce se înregistrează în calitate de vânzător pe 
+PCTL 
+ x         
+26 
+Documentele privind amplasamentul instalaţiilor 
+consumatoare de energie electrică (locuri de consum), avizul 
+tehnic de racordare la rețeaua electrică emis de operatorul  
+de rețea la care este conectat locul de consum, precum și 
+condiţiile de racordare la  reţeaua electrică, pentru 
+satisfacerea cerinţelor utilizatorului, precizate în aviz, în cazul 
+clienților finali. 
+ x         
+ 
+ 
+ 
+=== PDF PAGE 30 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 30/47 
+Rev. 17 
+ 
+ANEXA 4 
+ 
+MOTIVELE SUSPENDARII/REVOCARII PARTICIPANTILOR  LA PIEŢELE ORGANIZATE DE ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+ 
+Nr. 
+crt. 
+Abaterea care atrage 
+ după sine suspendarea/revocarea 
+Nr. abateri 
+pentru 
+suspendare 
+Perioada 
+maximă de 
+suspendare 
+Măsura aplicată 
+ulterior dacă nu 
+s-a înlăturat 
+cauza 
+ 
+Menţiuni PZU PI PCCB- 
+LE-flex 
+PCCB-    
+NC PMC PC- 
+OTC PCTL PCSU 
+ 
+1 
+Neefectuarea plăţii tarifului de 
+administrare/tranzacţionare/API în termenul 
+prevăzut de procedurile aplicabile în vigoare 
+ 
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică după ce s-a 
+înlăturat cauza 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+ 
+2 
+Expirarea termenului de valabilitate/ 
+suspendarea licenţei/ deciziei/ suspendarea 
+certificatului de înregistrare care a stat la 
+baza înregistrării ca Participant la piaţă  
+ 
+1 
+ 
+3 luni 
+ 
+revocare 
+Suspendarea se ridică după ce 
+participantul face dovada înlăturării 
+cauzei care a condus la suspendare  
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+x 
+3 Încetarea valabilităţii înregistrării ca PRE/într-
+un PRE a Participantului la piață 
+ 
+1 
+ 
+3 luni 
+ 
+revocare 
+Suspendarea se ridică după ce 
+participantul face dovada înlăturării 
+cauzei care a condus la suspendare 
+ 
+x 
+ 
+x 
+ 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+ 
+x 
+ 
+ 
+x 
+ 
+x 
+4 
+Participantul - cumpărător înregistrat  la  
+PCSU nu mai este desemnat prin decizie 
+emisă de ANRE ca furnizor de ultimă instanță 
+  revocare La data luării la cunoștință a noului act   
+ 
+   
+ 
+x 
+5 Licența/decizia a fost retrasă de către ANRE   revocare 
+La data luării la cunoștință a noului act 
+sau de la data ulterioară conform deciziei 
+de retragere 
+x x 
+ 
+x 
+ 
+x x x  
+x x 
+6. 
+Radierea de către ANRE a înregistrării 
+comunității de energie în Registru naţional al 
+comunităţilor de energie a fost radiată de 
+către ANRE 
+  revocare De la data verificării generale de către 
+OPCOM S.A. până la remedierea cauzei x x 
+ 
+x 
+ x  x 
+ 
+ 
+7 Lipsa codului ACER  3 luni revocare De la data verificării generale de către 
+OPCOM S.A. x x 
+ 
+x 
+ 
+x x x 
+ 
+x x 
+8 
+Înregistrarea de refuzuri la plată (datorate 
+lipsei de disponibilitate în cont) pentru 
+instrucțiunile de debitare directă transmise și 
+executarea scrisorii de garanție bancară/ 
+garanției constituite sub forma depozitului în 
+numerar remis în contul OPCOM S.A. 
+3 
+refuzuri/ 
+luna 
+1 lună - La consemnarea celei de a treia   abateri 
+într-un an operațional se aplică revocarea x x 
+ 
+   
+ 
+ 
+=== PDF PAGE 31 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 31/47 
+Rev. 17 
+ 
+Nr. 
+crt. 
+Abaterea care atrage 
+ după sine suspendarea/revocarea 
+Nr. abateri 
+pentru 
+suspendare 
+Perioada 
+maximă de 
+suspendare 
+Măsura aplicată 
+ulterior dacă nu 
+s-a înlăturat 
+cauza 
+ 
+Menţiuni PZU PI PCCB- 
+LE-flex 
+PCCB-    
+NC PMC PC- 
+OTC PCTL PCSU 
+9 Nerespectarea termenului specificat în 
+procedură, de transmitere a facturilor  1 1 lună revocare 
+Suspendarea se ridică imediat ce s-a 
+transmis factura în intervalul de 
+suspendare x x 
+ 
+   
+ 
+ 
+10 
+Neefectuarea plăților de regularizare pentru 
+tranzacțiile realizate, în termenele prevăzute 
+de procedura în vigoare aplicabilă 
+1 1 lună revocare 
+Suspendarea se ridică imediat ce s-a 
+încasat valoarea aferentă plății de 
+regularizare  în intervalul de suspendare x x 
+ 
+   
+ 
+ 
+11 Retragerea ofertei/ofertelor inițiatoare/ 
+coinițiatoare/de răspuns 
+ 
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică în prima zi 
+lucrătoare după 10 (zece) zile 
+calendaristice după data achitării sumei 
+penalizatoare, în cazul în care plata se 
+realizează în decursul perioadei maxime 
+de suspendare 
+  x    
+ 
+ 
+12 
+Refuzul încheierii contractului în urma 
+sesiunii de licitație sau prezentarea unui 
+contract neconform cu textul contractului 
+cadru şi anexele propuse de iniţiator și cu 
+rezultatul sesiunii de licitație. 
+ 
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică în prima zi 
+lucrătoare după 10 (zece) zile 
+calendaristice după data achitării sumei 
+penalizatoare, în cazul în care plata se 
+realizează în decursul perioadei maxime 
+de suspendare. 
+  x    
+ 
+ 
+13 
+Refuzul încheierii contractului standard în 
+urma sesiunii de tranzacţionare sau 
+prezentarea unui contract neconform 
+ 
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică în prima zi 
+lucrătoare după 10 (zece) zile 
+calendaristice după data achitării sumei 
+penalizatoare, în cazul în care plata se 
+realizează în decursul perioadei maxime 
+de suspendare 
+  
+ 
+x   
+ 
+ 
+=== PDF PAGE 32 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 32/47 
+Rev. 17 
+ 
+Nr. 
+crt. 
+Abaterea care atrage 
+ după sine suspendarea/revocarea 
+Nr. abateri 
+pentru 
+suspendare 
+Perioada 
+maximă de 
+suspendare 
+Măsura aplicată 
+ulterior dacă nu 
+s-a înlăturat 
+cauza 
+ 
+Menţiuni PZU PI PCCB- 
+LE-flex 
+PCCB-    
+NC PMC PC- 
+OTC PCTL PCSU 
+14 
+Refuzul încheierii contractului cadru în urma 
+sesiunii de licitație sau prezentarea unui 
+contract neconform cu textul contractului 
+cadru și/sau rezultatul sesiunii de licitație. 
+ 
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică imediat ce s-a 
+achitat suma penalizatoare, în cazul în 
+care plata se realizează în decursul 
+perioadei maxime de suspendare. 
+  
+ 
+   
+ 
+x 
+15 
+Neefectuarea plăţii pentru contravaloarea 
+licenței suplimentare de conectare pe 
+Platforma de tranzacționare pentru fiecare 
+utilizator propriu suplimentar solicitat de 
+Participant 
+ 
+1 
+ 
+până la 
+achitare 
+- 
+ 
+Suspendarea se ridică imediat ce s-a 
+înlăturat cauza   
+ 
+  x 
+ 
+ 
+16 
+Nerespectarea de către un participant la 
+piață a obligațiilor ce îi revin în urma 
+încheierii tranzacțiilor pe PC-OTC, respectiv 
+neasumarea tranzacțiilor prin înscrierea 
+acestora în anexa nr. 2a la contractul agreat 
+de părţi, în conformitate cu detaliile cuprinse 
+în Raportul Tranzacţii generat de platforma 
+de tranzacţionare şi cu formularul de 
+confirmare a tranzacţiilor primit de la OP  
+3 6 luni -    
+ 
+  x 
+ 
+ 
+17 
+Netransmiterea cel puțin a unei propuneri 
+privind preţul de referință pentru fiecare 
+instrument tranzacționabil în decursul unei 
+luni calendaristice 
+5 1 lună -    
+ 
+  x 
+ 
+ 
+18 Retragerea ofertei inițiatoare  
+1 
+ 
+1 lună 
+ 
+revocare 
+Suspendarea se ridică în prima zi 
+lucrătoare după 10 (zece) zile 
+calendaristice după data achitării sumei 
+penalizatoare, în cazul în care plata se 
+realizează în decursul perioadei maxime 
+de suspendare 
+  
+ 
+ x  
+ 
+ 
+=== PDF PAGE 33 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 33/47 
+Rev. 17 
+ 
+Nr. 
+crt. 
+Abaterea care atrage 
+ după sine suspendarea/revocarea 
+Nr. abateri 
+pentru 
+suspendare 
+Perioada 
+maximă de 
+suspendare 
+Măsura aplicată 
+ulterior dacă nu 
+s-a înlăturat 
+cauza 
+ 
+Menţiuni PZU PI PCCB- 
+LE-flex 
+PCCB-    
+NC PMC PC- 
+OTC PCTL PCSU 
+19 
+Refuzul încheierii contractului propus de 
+inițiator/ contractului standard de vânzare-
+cumpărare energie electrică /contractului tip 
+EFET în în conformitate cu rezultatele 
+sesiunii de tranzacţionare sau prezentarea 
+unui contract neconform și refuzul de 
+corectare a contractului neconform 
+1 1 lună revocare 
+Suspendarea se ridică în prima zi 
+lucrătoare după 10 (zece) zile 
+calendaristice după data achitării sumei 
+penalizatoare, în cazul în care plata se 
+realizează în decursul perioadei maxime 
+de suspendare 
+  
+ 
+ x  
+ 
+ 
+20 
+La solicitarea ANRE când Participantul la 
+PCTL are un comportament anticoncurenţial 
+sau a uzat de practici care au condus la 
+manipularea PCTL. 
+ 
+Termen 
+stabilit de 
+catre ANRE 
+revocare    
+ 
+   
+ 
+ 
+x  
+21 
+Participantul la PCTL încalcă regulile 
+aplicabile cu privire la derularea procesului 
+de atribuire a contractelor de energie 
+electrică pentru perioade lungi de livrare și 
+refuză corectarea neconformităților notificate 
+de OPCTL și/sau  conformarea față de 
+regulile aplicabile încălcate în termenele 
+comunicate de OPCTL. 
+1  revocare Până la remedierea cauzelor   
+ 
+   
+ 
+ 
+ 
+ 
+x  
+ 
+ 
+=== PDF PAGE 34 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 34/47 
+Rev. 17 
+ 
+ ANEXA 5.1  
+ 
+ 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+Către: (numele Solicitantului)  - în calitate de  Reprezentant agregare1 
+ 
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ............ aţi 
+fost înregistrat ca participant la Piețele Contractelor Bilaterale de energie electrică , respectiv - Piaţa 
+centralizată a contractelor bilaterale de energie electrică - modalitatea de tranzacţionare a contractelor 
+prin licitație extinsă şi utilizarea produselor care să asigure flexibilitatea tranzacţionării (PCCB-LE-flex). 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după achitarea facturii aferente tarifului de 
+administrare practicat de OPCOM. 
+ 
+ 
+ 
+   
+Director General 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 35 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 35/47 
+Rev. 17 
+ 
+ 
+ANEXA 5.2 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+Către: (numele Solicitantului) - în calitate de Reprezentant agregare2 
+ 
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ............... aţi 
+fost înregistrat ca participant la Piețele Contractelor Bilaterale de energie electrică , respectiv Piaţa 
+centralizată a contractelor bilaterale de energie electrică – modalitatea de tranzacționare conform căreia 
+contractele sunt atribuite prin negociere continuă (PCCB-NC). 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor 
+condiții: 
+✓ Achitarea facturii aferente tarifului de administrare practicat de OPCOM; 
+✓ Solicitarea unui certificat digital pentru accesul la Platforma de tranzacționare, a unui cod de 
+utilizator pentru această piață și a parolei aferente. 
+ 
+Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 36 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 36/47 
+Rev. 17 
+ 
+ANEXA 5.3 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+Către: (numele Solicitantului) - în calitate de Reprezentant agregare3  
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ...... (zi de 
+ofertare/tranzacționare, după caz) aţi fost înregistrat ca participant la Piețele Contractelor Bilaterale de 
+energie electrică, respectiv Piaţa centralizată cu negociere dublă continuă a contractelor bilaterale de 
+energie electrică (PC-OTC).  
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor condiții: 
+✓ Achitarea facturii aferente a tarifului de administrare practicat de OPCOM;  
+✓ Transmiterea listei de eligibilitate care trebuie să prevadă un număr minim de 4 contrapărți eligibile 
+cu drept de tranzacționare ca potenţiali parteneri contractuali, condiţia numărului minim de 4 
+parteneri eligibili cu limită de creditare diferită de zero fiind îndeplinită prin notificarea reciprocă; 
+✓ Transmiterea contractelor EFET încheiate cu contrapărțile notificate în lista de eligibilitate; 
+✓ Transmiterea documentului cu datele necesare menţinerii legăturii cu operatorii Pieţei organizate 
+cu negociere dublă continuă a contractelor bilaterale de energie electrică. 
+ 
+ 
+Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 37 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 37/47 
+Rev. 17 
+ 
+ANEXA 5.4 
+ 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+ 
+Către: (numele Solicitantului) - în calitate de Reprezentant agregare4  
+ 
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ...... (zi de 
+ofertare) aţi fost înregistrat ca participant la Piețele Contractelor Bilaterale de energie electrică, respectiv 
+Piaţa centralizată pentru serviciul universal (PCSU) în calitate de…..  
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor condiții: 
+✓ Achitarea facturii aferente  tarifului de administrare practicat de OPCOM;  
+✓ Solicitarea unui certificat digital pentru accesul la Platforma de tranzacționare, a unui cod de 
+utilizator pentru această piață și a parolei aferente. 
+ 
+Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 38 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 38/47 
+Rev. 17 
+ 
+ 
+ANEXA 5.5 
+ 
+ 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+Către: (numele Solicitantului) - în calitate de Reprezentant agregare5 
+ 
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ................. 
+aţi fost înregistrat ca participant la Piețele Contractelor Bilaterale de energie electrică, respcevtiv Piaţa de 
+energie electrică pentru clienții finali mari (PMC). 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor 
+condiții: 
+✓ Achitarea facturii aferente tarifului de administrare practicat de OPCOM; 
+✓ Solicitarea unui certificat digital pentru accesul la Platforma de tranzacționare , a unui cod de 
+utilizator pentru această piață și a parolei aferente. 
+ 
+ 
+ 
+ 
+ 
+   
+Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 39 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 39/47 
+Rev. 17 
+ 
+ANEXA 5.6 
+ 
+ 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la  
+Piețele Contractelor Bilaterale de energie electrică 
+ 
+ 
+Către: (numele Solicitantului) - în calitate de Reprezentant agregare6  
+ 
+ 
+Prin prezenta vă informăm că în conformitate cu prevederile Procedurii privind înregistrarea participanților 
+la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de ................. 
+aţi fost înregistrat ca participant la Piețele Contractelor Bilaterale de energie electrică, respectiv Piaţa piața 
+centralizată pentru atribuirea contractelor de energie electrică pentru perioade lungi de livrare (PCTL). 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după achitarea facturii aferente tarifului de 
+administrare practicat de OPCOM. 
+ 
+ 
+ 
+ 
+   
+Director General 
+ 
+ 
+ 
+6 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 40 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 40/47 
+Rev. 17 
+ 
+ANEXA 5.7 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piaţa pentru Ziua Următoare (PZU) 
+ 
+Către (numele Solicitantului) - în calitate de Reprezentant agregare7 
+ 
+Spre știință: 
+PRE (numele PRE) 
+ 
+Prin prezenta vă comunicăm că în conformitate cu prevederile Procedurii privind înregistrarea 
+participanților la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de 
+......... (zi calendaristică de tranzacționare) aţi fost înregistrat ca participant la Piaţa pentru Ziua Următoare 
+(PZU).  
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor 
+condiții: 
+✓ Achitarea facturii aferente a tarifului de administrare practicat de OPCOM; 
+✓ Solicitarea unui certificat digital pentru accesul la Platforma de tranzacționare, a unui cod de 
+utilizator pentru această piață și a parolei aferente. 
+ 
+ 
+   
+Director General 
+               
+ 
+ 
+7 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 41 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 41/47 
+Rev. 17 
+ 
+ANEXA 5.8 
+ 
+ 
+ 
+COMUNICARE 
+privind înregistrarea ca Participant la 
+Piaţa Intrazilnică (P.I.)  
+ 
+ 
+Către (numele Solicitantului) - în calitate de Reprezentant agregare8 
+ 
+Spre știință: 
+PRE (numele PRE) 
+ 
+Prin prezenta vă comunicăm că în conformitate cu prevederile Procedurii privind înregistrarea 
+participanților la piețele organizate de energie electrică administrate de OPCOM S.A., începând cu data de 
+......... (zi calendaristică de tranzacționare) aţi fost înregistrat ca participant la Piaţa Intrazilnică de energie 
+electrică (PI). 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după îndeplinirea cumulativă a următoarelor 
+condiții: 
+-    Achitarea facturii aferente a tarifului de administrare practicat de OPCOM; 
+- desemnarea persoanei de contact care va primi credențialele de acces la sistemul de tranzacționare 
+M7 Trading – DBAG și la sistemul informatic post tranzactionare pentru accesarea notelor de decontare 
+și a notificărilor fizice. 
+ 
+   
+Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+8 Dacă la înregistrare a fost aleasă această opțiune  
+=== PDF PAGE 42 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 42/47 
+Rev. 17 
+ 
+ 
+ANEXA 6 
+ 
+ 
+ 
+COMUNICARE 
+ 
+privind suspendarea de la tranzacționare pe ............................. (denumire piaţă) 
+ 
+ 
+Către: (numele Participantului) 
+Spre stiință:   
+*) PRE (numele PRE) 
+Reprezentantul agregării / Membrii ai agregării  
+  
+(numele Reprezentantului agregării) 
+sau  
+(numele fiecărui membru al agregării în cazul în care este suspendat Reprezentantului agregării) 
+ 
+Prin prezenta vă informăm că începând cu data de ......................... (zi de ofertare/tranzacționare, după 
+caz) s-a procedat  la suspendarea .............................. (denumire participant) ca participant la 
+...................... (denumire piaţă) deoarece ..................................... 
+Totodată vă informăm că, în conformitate cu prevederile cadrului de reglementare aplicabil, dreptul de 
+tranzacționare pe această piață va intra în efectivitate numai după înlăturarea cauzei care a condus la 
+suspendare. 
+În cazul în care, până la data de ........................  (se va completa perioada pe parcursul căreia 
+participantul este suspendat) nu se dovedește că a fost înlăturată cauza care a condus la suspendare, 
+OPCOM S.A. va aplica măsura revocării  ..................... (denumire participant) ca participant la 
+......................... (denumire piaţă). 
+ 
+ 
+ 
+ Director General 
+ 
+ 
+ 
+ 
+*) În cazul suspendării de la tranzacționare pe PZU sau pe P.I. 
+ 
+=== PDF PAGE 43 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 43/47 
+Rev. 17 
+ 
+ 
+ANEXA 7 
+ 
+ 
+ 
+ 
+COMUNICARE 
+privind revocarea ca Participant la ............................. (denumire piaţă) 
+ 
+ 
+Către: (numele Participantului)  
+Spre stiință: 
+*) PRE (numele PRE)  
+   Reprezentantul agregării / Membrii ai agregării  
+ 
+(numele Reprezentantului agregării ) 
+sau  
+(numele fiecărui membru al agregării în cazul în care este revocat Reprezentantul agregării) 
+ 
+ 
+Prin prezenta vă informăm că începând cu data de............ (zi de ofertare/tranzacționare, după caz) se va 
+proceda la revocarea …........................(denumire participant) ca Participant la ................................... 
+(denumire piaţă), deoarece nu a fost înlăturată cauza care a condus la suspendare. 
+Totodată vă informăm că, dacă până la sfârșitul perioadei de suspendare veţi face dovada încetării 
+cauzei, revocarea nu se aplică, iar suspendarea încetează. 
+ 
+ 
+ 
+Director General  
+ 
+ 
+ 
+ 
+*) În cazul revocării ca Participant la PZU sau la P.I. 
+ 
+ 
+=== PDF PAGE 44 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 44/47 
+Rev. 17 
+ 
+ 
+ANEXA 8 
+ 
+ 
+ 
+ 
+COMUNICARE 
+privind retragerea ca Participant la ............................. (denumire piaţă) 
+ 
+ 
+ 
+Către: (numele Participantului)  
+Spre stiință:   
+*) PRE (numele PRE)  
+Reprezentantul agregării / Membrii ai agregării 
+ 
+(numele Reprezentantului agregării) 
+sau  
+(numele fiecărui membru al agregării în cazul în care se retrage Reprezentantul agregării) 
+ 
+Prin prezenta vă informăm că  începând cu data de............ (zi de ofertare/tranzacționare, după caz) se 
+va proceda la revocarea …........................ (denumire participant) ca participant la 
+................................... (denumire piaţă), urmare a solicitării dumneavoastră de retragere nr. ..........., 
+înregistrată la OPCOM cu nr. .............. 
+Menţionăm că retragerea …........................ (denumire participant) nu vă exonerează de la îndeplinirea 
+obligațiilor asumate pe .................. (denumire piaţă) până la data intrării în efectivitate a retragerii de la 
+această piață. 
+ 
+ 
+ Director General 
+ 
+ 
+ 
+ 
+ 
+*) În cazul retragerii ca Participant la PZU sau la P.I. 
+ 
+=== PDF PAGE 45 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 45/47 
+Rev. 17 
+ 
+ANEXA 9 
+ 
+ 
+ 
+ 
+COMUNICARE  
+privind ridicarea suspendării de la tranzacționare la ................ (denumire piaţă) 
+ 
+ 
+ 
+Către (numele Participantului)  
+Spre stiință: 
+*) PRE (numele PRE)  
+Reprezentantul agregării / Membrii ai agregării 
+ 
+ (numele Reprezentantului agregării) 
+sau  
+(numele fiecărui membru al agregării în cazul în care se ridică suspendarea Reprezentantul agregării) 
+ 
+ 
+ 
+Prin prezenta vă informăm că începând cu data de ............ (zi de ofertare/tranzacționare, după caz) s-a 
+procedat la ridicarea suspendării  ......................... (denumire participant) ca participant la 
+…........................ (denumire piaţă) ca urmare a înlăturării cauze i care a condus la aplicarea măsurii de 
+suspendare.  
+ 
+ 
+ 
+ 
+ 
+ Director General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*) În cazul ridicării suspendării de la tranzactionare pe PZU sau pe P.I. 
+ 
+ 
+=== PDF PAGE 46 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 46/47 
+Rev. 17 
+ 
+ 
+ANEXA 10 
+ 
+Nr. înregistrare ieşire de la Solicitant .................................................................................... 
+ 
+Către,  
+Societatea Operatorul Pieţei de Energie Electrică şi de Gaze Naturale 
+”OPCOM” S.A.  
+Domnului Director General ................................................................................................ 
+ 
+ 
+DECLARAȚIE PE PROPRIE RĂSPUNDERE  
+privind agregarea energiei electrice produsă din mai multe surse și/sau privind agregarea sarcinilor mai 
+multor clienţi finali 
+ 
+ 
+ 
+Subsemnata/Subsemnatul 
+..............................................................................................................(nume/prenume), în 
+calitate de ............................................(funcția), reprezentant legal al societății 
+....................................................................................................,  
+sau  
+Persoana fizică 
+..............................................................................................................(nume/prenume), posesor 
+al BI/CI seria ........ nr. ...................., eliberat(ă) de ............................. la data de 
+.............................., CNP ...................................................,  în calitate de reprezentant al agregării 
+[Subsemnata/Subsemnatul 
+..............................................................................................................(nume/prenume), în 
+calitate de ............................................(funcția), reprezentant legal al societății 
+...................................................................................................., producător de energie electrică 
+având capacitatea instalată de .......................MW  
+sau  
+Persoana fizică 
+..............................................................................................................(nume/prenume), posesor 
+al BI/CI seria ........ nr. ...................., eliberat(ă) de ............................. la data de 
+.............................., CNP ......................................................, producător de energie electrică având 
+capacitatea instalată de .......................MW], în calitate de producător de energie electrică, membru al 
+agregării  
+ 
+ 
+ 
+ 
+ 
+=== PDF PAGE 47 ===
+ 
+PROCEDURA PRIVIND ÎNREGISTRAREA 
+PARTICIPANŢILOR LA PIEŢELE ORGANIZATE DE 
+ENERGIE ELECTRICĂ ADMINISTRATE DE OPCOM S.A. 
+Cod: 
+Pag. 47/47 
+Rev. 17 
+ 
+[Subsemnata/Subsemnatul 
+..............................................................................................................(nume/prenume), în 
+calitate de ............................................(funcția), reprezentant legal al societății 
+...................................................................................................., client final de energie electrică 
+având puterea aprobată de .......................MW  
+sau  
+Persoana fizică 
+..............................................................................................................(nume/prenume), posesor 
+al BI/CI seria ........ nr. ...................., eliberat(ă) de ............................. la data de 
+.............................., CNP......................................... client final de energie electrică având puterea 
+aprobată de  .......................MW], în calitate de client final, membru al agregării 
+ 
+cunoscând prevederile art. 326 din Codul Penal cu privire la falsul în declarații și prevederile Legii 
+concurenței nr. 21/1996, republicată, cu modificările şi completările ulterioare, declarăm prin prezenta, 
+pe propria răspundere, că am decis participarea agregată pe ........................................(denumirea pieței 
+pentru care se solicită înregistrarea), în vederea îmbunătățirii performanțelor financiare și desemnăm  
+(Denumire societate /Nume, Prenume Reprezentant agregare) 
+…........................................................…..………….........…………………..................................., 
+ 
+Prezenta declarație este parte componentă a Convenției de participare la piață și se actualizează prin act 
+adițional la Convenție ori de câte ori intervin modificări.  
+ 
+Nume şi prenume reprezentant legal al agregării: 
+.................................................................................... 
+Semnătură reprezentant legal: .............................................................................................. 
+ 
+Nume şi prenume reprezentant legal al membrului agregării 
+.................................................................................... 
+Semnătură reprezentant legal: .............................................................................................. 
+[Nume şi prenume reprezentant legal al membrului agregării : 
+.................................................................................... 
+Semnătură reprezentant legal: .............................................................................................. ] 
+[…] 
+  
+ 

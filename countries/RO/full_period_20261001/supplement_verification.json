@@ -1,0 +1,4983 @@
+{
+  "generated_utc": "2026-09-30T18:36:09.122398+00:00",
+  "new_attempts": 642,
+  "new_success_bodies": 632,
+  "reused_DA_bodies": 96,
+  "prior_sample_raw_files_checked": 177,
+  "checks": 994,
+  "failed": [],
+  "status": "PASS",
+  "scope": "integrity, native preservation, field coverage, derived controls and boundaries; does not close U/DS, independent institution checks or stage/model gates",
+  "detail": [
+    {
+      "check": "activatedBalancingEnergyOverview_2025-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2025-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "activatedBalancingEnergyOverview_2026-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR_FX_2025 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR_FX_2026 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR_XML_CATALOG raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2025-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "dailyConsumptionOverview_2026-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2024-12-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-02-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-04-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-05-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-06-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-07-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-08-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-11-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-12-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-01-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-02-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-04-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-05-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-06-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-07-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2025-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "MONTH_2026-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "OPCOM_IDA_CURRENT_PROBE raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "OPCOM_MONTH_CATALOG raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2024-12-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2025-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scheduledExchanges_2026-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SETTLEMENT_SAMPLE_1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SETTLEMENT_SAMPLE_2 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SETTLEMENT_SAMPLE_3 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SETTLEMENT_SAMPLE_4 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2025-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "tenderStatistics_2026-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_2026_CATALOG raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_FINAL_SETTLEMENT raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_GENERATION_ARCHIVE raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_GENERATION_CURRENT raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_H1_2026 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_INSTALLED_2026_0 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_PRODUCTION_CATALOG raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_Q1_2026 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TSO_SCADA_UNIT_REFERENCE raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-04_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-14_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-16_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-25_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-01-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-03-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-09-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-04 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-08 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-10_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-11_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-22 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-24 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-27_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2025-10-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-03-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-01 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-02 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-03 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-04_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-05 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-06 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-07 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-08_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-09 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-10 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-11 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-12 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-13 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-14 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-15 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-16 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-17 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-18 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-19 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-20 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-21 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-22_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-23 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-24_R1 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-25 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-26 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-27 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-28 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-29 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-30 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DA_2026-08-31 raw checksum",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved ACT_META",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved activatedBalancingEnergyOverview_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved AGG_CURVES_PAGE",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved ANM_WEATHER",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved ANRE_MONITOR_2025-12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved BNR_XML_PAGE_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CAP_FCR_488_2026",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CAP_FRR_484_2026",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CAP_LIST_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CAP_META",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CURVES_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CURVES_PDF_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved CURVES_XML_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-03",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-04_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-05",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-06",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-07",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-08",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-09",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-11",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-13",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-14_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-16_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-17",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-18",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-19",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-20",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-21",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-22",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-23",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-24",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-25_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-27",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-28",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-01-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-03",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-04",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-05",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-06",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-07",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-08",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-09",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-10_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-11_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-13",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-14",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-16",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-17",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-18",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-19",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-20",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-21",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-22",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-23",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-24",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-25",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-27_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-28",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2025-10-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-03",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-04_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-05",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-06",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-07",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-08_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-09",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-11",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-13",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-14",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-16",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-17",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-18",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-19",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-20",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-21",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-22_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-23",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-24_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-25",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-27",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-28",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_SETTLEMENT_PAGE",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved DA_XML_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved dailyConsumptionOverview_META",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved ECB_API_DOC",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved ECB_FX_DOC",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved FINAL_PRICE_META_PROBE",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved FX_2025-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved FX_2025-10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved FX_2026-08",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDA_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved IDCT_2026-08-31_PT15_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2025-01-15_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_2026-08-31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved marginalPricesOverview_META",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved MONTH_2025-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved MONTH_2025-10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved MONTH_2026-08",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved NEMO_FEES_CURRENT_2026",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved OPCOM_INDICES",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S001",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S002",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S003",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S004",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S005",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S006",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S008",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S009",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved S011",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2026-03-29",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_2026-08-31_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved scheduledExchanges_META",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2025-01-15",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2025-03-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2025-09-30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2025-10-01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2025-10-26",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved tenderStatistics_2026-03-29_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved TSO_ANNUAL_2025",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old sample raw preserved TSO_REPORTS_2025",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "fixed baseline preserved project/romania_research_plan_20260930.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "fixed baseline preserved project/romania_data_acquisition_plan_20260930.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "fixed baseline preserved project/romania_report_milp_outline_20260930.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "fixed baseline preserved project/romania_research_work_breakdown_20260930.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/acceptance.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/annual_structure_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/capacity_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/contracted_power_sample_structure.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/coverage_matrix.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/curve_point_examples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/curve_structure_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/dataset_use_and_next_steps.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/data_dictionary.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/da_day_checks.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/da_native_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/fee_table_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/fx_reference_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/ida_field_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/idct_trade_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/monthly_reconciliation.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/observed_events.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/raw_manifest.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/review_final.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/review_round1.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/review_round2.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/revision_round1.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/revision_round2.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/sample_examples.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/source_anomalies.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/source_catalog.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/system_series_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/tender_event_samples.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/ui_observations.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/utc_alignment_checks.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/validation_report.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved countries/RO/data_samples_20260930/version_timeline.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/acceptance_checks.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/analyze_samples.py",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/authorization.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/baseline_integrity.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/build_delivery.py",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/fetch_months.py",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/fetch_public.ps1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/ida_checks.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/make_requests.py",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/other_country_state_at_review_start.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/reproduce.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_additional.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_balance_samples.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_damas.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_days.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_discovery.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_ecb.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_exchanges_reports.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_final_probe.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_last_sources.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_prices_load.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_retries.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_retry_final.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_settlement_followup.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_settlement_retry.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/requests_supplement.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/review_invocation.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/review_request.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/review_round1_manifest.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/review_round2_manifest.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/review_round3_manifest.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/runtime_versions.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/series_checks.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "old delivery preserved project/romania_data_samples_20260930/verification.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "20 monthly controls explicitly parsed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "monthly volume_match_within_display_precision",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "monthly weighted_price_match_2decimal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "monthly cash_within_public_precision_bound_A",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR both annual namespaces parsed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR dates unique and only published dates retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SCADA native hour key unique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SCADA missing calendar day retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SCADA autumn repeated hour retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SCADA identities numerical only, no independent validation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SCADA negative source values retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "capacity product-month cross product 100 rows",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "capacity demands actual product IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "2h/4h same 608 calendar days",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "2h/4h explicit no income claim",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "provider keys unique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "cost samples four actual months/version examples",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "cost identity within 0.02 LEI printed precision",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no cost treated as imbalance price",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

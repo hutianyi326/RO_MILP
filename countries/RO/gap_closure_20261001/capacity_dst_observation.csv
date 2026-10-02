@@ -1,0 +1,16 @@
+﻿local_date,product,hour_rows,unique_utc_starts,expected_physical_hours_A,all_duration_one_hour,not_a_provider_mapping_or_publication_check
+2025-03-30,FCR,0,0,23,True,True
+2025-03-30,aFRRDown,23,23,23,True,True
+2025-03-30,aFRRUp,23,23,23,True,True
+2025-03-30,mFRRDown,23,23,23,True,True
+2025-03-30,mFRRUp,23,23,23,True,True
+2025-10-26,FCR,24,24,25,True,True
+2025-10-26,aFRRDown,24,24,25,True,True
+2025-10-26,aFRRUp,24,24,25,True,True
+2025-10-26,mFRRDown,24,24,25,True,True
+2025-10-26,mFRRUp,24,24,25,True,True
+2026-03-29,FCR,23,23,23,True,True
+2026-03-29,aFRRDown,23,23,23,True,True
+2026-03-29,aFRRUp,23,23,23,True,True
+2026-03-29,mFRRDown,23,23,23,True,True
+2026-03-29,mFRRUp,23,23,23,True,True

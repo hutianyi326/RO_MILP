@@ -1,0 +1,17 @@
+{
+  "id": "TSO_REPORTS_2025",
+  "dataset": "D09-D10-D17",
+  "url": "https://www.transelectrica.ro/ro/web/tel/rapoarte-2025",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official annual reporting source for installed and actual generation statistics",
+  "retrieved_utc": "2026-09-30T09:38:47.5527251Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/TSO_REPORTS_2025/original.html",
+  "bytes": 56592,
+  "sha256": "9b92f4f590645de96c3399f55887f36271fe209f076c8b929ed1184490278158"
+}

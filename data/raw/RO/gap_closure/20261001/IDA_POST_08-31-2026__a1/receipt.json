@@ -1,0 +1,28 @@
+{
+  "id": "IDA_POST_08-31-2026",
+  "dataset": "D03",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "body": {
+    "ziua_eng": "08/31/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh"
+  },
+  "scope": "anonymous official selected-date form; verify returned date/rounds/numeric fields",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T12:46:39.067046+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDA_POST_08-31-2026__a1/form_original.html",
+  "form_sha256": "6cbcf80cb38b0f05f586b62c5626034d1b4f40b9e2cef41c7565fac831fc0b66",
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDA_POST_08-31-2026__a1/original.html",
+  "sha256": "2797f5c124e4a37139f282b133e164219838b406c38d3e8821d37446a3c1ef00",
+  "bytes": 70029,
+  "detected_format": "html"
+}

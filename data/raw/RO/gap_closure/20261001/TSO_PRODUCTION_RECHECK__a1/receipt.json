@@ -1,0 +1,13 @@
+{
+  "id": "TSO_PRODUCTION_RECHECK",
+  "dataset": "D09-D10",
+  "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T23:35:57.723835+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "HTTPError: HTTP Error 520: <none>"
+}

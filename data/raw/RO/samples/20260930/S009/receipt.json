@@ -1,0 +1,17 @@
+{
+  "id": "S009",
+  "dataset": "D12",
+  "url": "https://www.opcom.ro/tranzactii-rezultate/en/22",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "monthly report official catalogue",
+  "retrieved_utc": "2026-09-30T09:22:13.6806833Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S009/original.html",
+  "bytes": 78500,
+  "sha256": "883e7e41ba9b7c7da169f83fac3d607dd6017c2c984c8442c321d99845b33bbe"
+}

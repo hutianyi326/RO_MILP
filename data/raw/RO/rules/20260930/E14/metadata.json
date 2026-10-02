@@ -1,0 +1,14 @@
+{
+  "id": "E14",
+  "title": "ANRE Order127/2021 base including BSP/BRP regulations",
+  "url": "https://anre.ro/wp-content/uploads/2023/05/Ord_127_2021_2.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2023/05/Ord_127_2021_2.pdf",
+  "retrieved_utc": "2026-09-30T07:52:44.2496682Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E14\\original.pdf",
+  "bytes": 11766467,
+  "sha256": "315273b92a472373a8ddd9d425ba9498960f41774b1b07de0b85bf6fd98c91b6",
+  "extracted_characters": 891
+}

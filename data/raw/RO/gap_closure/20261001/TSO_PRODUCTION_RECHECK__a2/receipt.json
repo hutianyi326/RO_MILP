@@ -1,0 +1,19 @@
+{
+  "id": "TSO_PRODUCTION_RECHECK",
+  "dataset": "D09-D10",
+  "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T11:57:08.877347+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/ro/web/tel/productie",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TSO_PRODUCTION_RECHECK__a2/original.html",
+  "sha256": "94599e7d83dbac42313a7030d608a86d30f5b8bdfb498aef12fe9b5e848742b2",
+  "bytes": 56701,
+  "detected_format": "html"
+}

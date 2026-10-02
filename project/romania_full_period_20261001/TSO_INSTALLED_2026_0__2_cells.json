@@ -1,0 +1,2590 @@
+[
+  {
+    "row": 1,
+    "cells": []
+  },
+  {
+    "row": 2,
+    "cells": [
+      {
+        "column": 1,
+        "value": "C.N.T.E.E. TRANSELECTRICA S.A.",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      {
+        "column": 1,
+        "value": "DEN",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      {
+        "column": 1,
+        "value": "  PUTEREA  INSTALATA  LA NIVELUL SEN in Instalatii de Stocare a Energie Electrice",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      {
+        "column": 1,
+        "value": " date sintetice la data 01.09.2026",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 6,
+    "cells": []
+  },
+  {
+    "row": 7,
+    "cells": [
+      {
+        "column": 1,
+        "value": "Index",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": "Nume",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": "Grupuri",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": "Pi",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "Pg",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": "Pc",
+        "ctype": 1
+      },
+      {
+        "column": 7,
+        "value": "E",
+        "ctype": 1
+      },
+      {
+        "column": 8,
+        "value": "Gestionar",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      {
+        "column": 3,
+        "value": "Nr.",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": "[MW]",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "[MW]",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": "[MW]",
+        "ctype": 1
+      },
+      {
+        "column": 7,
+        "value": "[MWh]",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      {
+        "column": 1,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "MEGALODON IS",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 7.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 7.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 7.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "MEGALODON STORAGE",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      {
+        "column": 1,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "ARAD",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.5,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "AOT ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      {
+        "column": 1,
+        "value": 3.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "ARAD",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.5,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "AOT ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      {
+        "column": 1,
+        "value": 4.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "COBADIN 1",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "EDPR WIND ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      {
+        "column": 1,
+        "value": 5.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "FANTANELE EST",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.85,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.85,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.85,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.85,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "PPC RENEWABLES ROMANIA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      {
+        "column": 1,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "FANTANELE VEST",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 2.625,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 2.625,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 2.625,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.625,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "PPC RENEWABLES ROMANIA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      {
+        "column": 1,
+        "value": 7.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "COGEALAC",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 2.525,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 2.525,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 2.525,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.525,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "PPC RENEWABLES ROMANIA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      {
+        "column": 1,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM GALBIORI 2  (etapele 1+2+3)",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 54.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 54.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 54.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 120.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "MONSSON",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      {
+        "column": 1,
+        "value": 9.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM 3 NERVIA ETAPA III",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NOVA POWER 170",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      {
+        "column": 1,
+        "value": 10.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "IS DOICESTI ",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 31.2,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NOVA POWER & GAS",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      {
+        "column": 1,
+        "value": 11.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "IS 2 CAMPIA TURZII",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NOVA POWER & GAS",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      {
+        "column": 1,
+        "value": 12.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM COJANI 2 ",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 3.048,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "SERG COMPANY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      {
+        "column": 1,
+        "value": 13.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM CARANI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 68.8,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "GLYPTODON",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      {
+        "column": 1,
+        "value": 14.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM SOTANGA 1",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 60.96,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NOVA PS 110",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      {
+        "column": 1,
+        "value": 15.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM ZORLENI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 5.16,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 5.16,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 5.16,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 10.32,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "FERMA DE ELECTRONI ",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      {
+        "column": 1,
+        "value": 16.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM RACARI ",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 6.096,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "ENERGY INNOVATIVE SOLUTIONS",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      {
+        "column": 1,
+        "value": 17.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "SARMASAG 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 22.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "COMCRIS ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      {
+        "column": 1,
+        "value": 18.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM  SUN GROW LUCIA",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.88,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "SUN GROW LUCIA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      {
+        "column": 1,
+        "value": 19.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM CRISTESTI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.6,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.5,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.5,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.032,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "VERTICAL PLUS",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      {
+        "column": 1,
+        "value": 20.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM TERAPLAST",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 1.066,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "TERAPLAST",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      {
+        "column": 1,
+        "value": 21.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM POIENARII BURCHII",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "3D STEEL DESIGN & CONSTRUCT",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      {
+        "column": 1,
+        "value": 22.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM SANTION",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 1.2,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "EUROALPIN TRAVEL",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      {
+        "column": 1,
+        "value": 23.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": " CEM RACARI 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 6.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 6.096,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "RESTORE ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      {
+        "column": 1,
+        "value": 24.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM TAUTII MAGHIERUS",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.947,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "UNIVERSAL ALLOY CORPORATION EUROPE",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      {
+        "column": 1,
+        "value": 25.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM DUMBRAVITA",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.947,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "UNIVERSAL ALLOY CORPORATION EUROPE",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      {
+        "column": 1,
+        "value": 26.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM BALTENI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "HELIOSUN VASLUI",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      {
+        "column": 1,
+        "value": 27.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM JAEGGI INDUSTRIES",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.66,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.66,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.66,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.66,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "JAEGGI INDUSTRIES",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      {
+        "column": 1,
+        "value": 28.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "FLORESTI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 201.24,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 201.24,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 201.24,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 402.48,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NOVA H",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      {
+        "column": 1,
+        "value": 29.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM GANEASA 1",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.032,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "CONNECT GREEN PROJECT",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      {
+        "column": 1,
+        "value": 30.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM GANEASA 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1.4,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.032,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "CONNECT GREEN PROJECT",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      {
+        "column": 1,
+        "value": 31.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM MEDIESU AURIT",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.704,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.947,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "UNIVERSAL ALLOY CORPORATION EUROPE",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      {
+        "column": 1,
+        "value": 32.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM SILISTEA 1",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 7.56,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 7.56,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 7.56,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 15.12,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "VERONIKI WIND",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      {
+        "column": 1,
+        "value": 33.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM BANESTI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 0.8,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 0.8,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 0.8,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 0.8,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "HANSAROM MANAGEMENT&CONSULTING",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      {
+        "column": 1,
+        "value": 34.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM AGHIRESU - FABRICI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 4.8,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 9.6,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "CENTRAL INVESTMENT PLAZA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      {
+        "column": 1,
+        "value": 35.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "IAZ",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 100.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 100.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 100.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 206.4,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "ENERGY CAPITAL GROUP",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      {
+        "column": 1,
+        "value": 36.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "TUSNAD",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 20.7,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "PANDA INVESTMENT",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      {
+        "column": 1,
+        "value": 37.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM CALAFAT",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 4.064,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 4.064,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 4.064,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 4.064,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "VOLTACOM DOL",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      {
+        "column": 1,
+        "value": 38.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM COBADIN",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 6.9,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 6.9,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 6.9,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 13.96,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "2A ALLCROSS",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      {
+        "column": 1,
+        "value": 39.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM TEIUS",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 60.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 116.96,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "TEIUS SOLAR",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      {
+        "column": 1,
+        "value": 40.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "TOPLITA",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 32.584,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 32.584,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 32.584,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 65.168,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "RENOVATIO TRADING",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      {
+        "column": 1,
+        "value": 41.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM AUTORO",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 11.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 11.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 11.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 22.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "AUTORO",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      {
+        "column": 1,
+        "value": 42.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "GURA IALOMITEI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 150.724,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 150.724,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 150.724,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 300.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "AUKERA PROJECT COMPANY DELTA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      {
+        "column": 1,
+        "value": 43.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM COPSA MICA",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 4.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 4.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 4.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": " CIS GAZ PROPRIETATI",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      {
+        "column": 1,
+        "value": 44.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM CRUCEA NORD",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 36.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 36.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 36.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 72.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "HIDROELECTRICA - SUCURSALA WIND CONSTANTA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      {
+        "column": 1,
+        "value": 45.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM PETREU",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "TRANSENERGY NEXT INVEST",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      {
+        "column": 1,
+        "value": 46.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "NORDENERGO",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "NORDENERGO PIPERA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      {
+        "column": 1,
+        "value": 47.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM STALPU 1",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 16.87,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "DEVELOPMENT POWER SOLAR ENERGY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      {
+        "column": 1,
+        "value": 48.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM STALPU 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 10.8,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 10.8,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 10.8,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 21.0,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "SOLAR ENERGY PRODUCTION",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      {
+        "column": 1,
+        "value": 49.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM IZVOARELE 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 37.5,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 160.48,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "LJG GREEN SOURCE ENERGY GAMMA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      {
+        "column": 1,
+        "value": 50.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM LUGOJ 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 30.24,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 30.24,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 30.24,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 60.48,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "LJG GREEN SOURCE ENERGY GAMMA",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      {
+        "column": 1,
+        "value": 51.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "GLODENI 3",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 49.784,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 49.784,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 49.784,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 99.37,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "ENERGYGLOD",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      {
+        "column": 1,
+        "value": 52.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "DOICESTI 2",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 10.35,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 15.048,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "SOLAR PV EVO FRV",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      {
+        "column": 1,
+        "value": 53.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM MIHAILESTI",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 5.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 5.0,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 5.0,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 10.37,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "BILRO SUNNY",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      {
+        "column": 1,
+        "value": 54.0,
+        "ctype": 2
+      },
+      {
+        "column": 2,
+        "value": "CEM PARAU",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 1.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 76.76,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 76.76,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 76.76,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 150.288,
+        "ctype": 2
+      },
+      {
+        "column": 8,
+        "value": "HELIOLUX",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      {
+        "column": 2,
+        "value": "Total",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": 54.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 1161.4879999999998,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1084.628,
+        "ctype": 2
+      },
+      {
+        "column": 6,
+        "value": 1085.828,
+        "ctype": 2
+      },
+      {
+        "column": 7,
+        "value": 2310.2209999999995,
+        "ctype": 2
+      }
+    ]
+  }
+]

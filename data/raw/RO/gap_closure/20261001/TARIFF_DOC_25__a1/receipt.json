@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_25",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/17632826/Ordinul+ANRE+nr.57_2024+-+tarif+SS+1+septembrie+2024/ad98a17f-32cf-4e43-89d6-3d4b86f74c12",
+  "title": "Tariful pentru achiziția serviciilor de sistem (aplicabil începând cu data de 01.09.2024)",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:12.545788+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/17632826/Ordinul+ANRE+nr.57_2024+-+tarif+SS+1+septembrie+2024/ad98a17f-32cf-4e43-89d6-3d4b86f74c12",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_25__a1/original.pdf",
+  "sha256": "da09b7ad0163935fc27984ce2aa2610a9d102e10a4cd92535d30289fd7211c04",
+  "bytes": 937003,
+  "detected_format": "pdf"
+}

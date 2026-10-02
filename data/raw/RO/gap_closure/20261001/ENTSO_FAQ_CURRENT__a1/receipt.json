@@ -1,0 +1,20 @@
+{
+  "id": "ENTSO_FAQ_CURRENT",
+  "url": "https://www.entsoe.eu/Documents/MC%20documents/Transparency%20Platform/Transparency_platform_FAQ.pdf",
+  "dataset": "D11",
+  "title": "ENTSO-E official API guidance read-only recheck",
+  "scope": "verify actual response format; no API/token/account actions",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T14:09:21.948924+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://eepublicdownloads.entsoe.eu/clean-documents/mc-documents/transparency-platform/Transparency_platform_FAQ.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ENTSO_FAQ_CURRENT__a1/original.pdf",
+  "sha256": "182f55055004c6d5bc28264bc75af391fb42df7bfa5f7ea69e58a776be52d6ed",
+  "bytes": 2149825,
+  "detected_format": "pdf"
+}

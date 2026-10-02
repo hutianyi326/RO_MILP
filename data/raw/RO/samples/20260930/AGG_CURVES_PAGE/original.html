@@ -1,0 +1,749 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>PZU: Curbe Agregate</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		<style type="text/css">
+			<!--[if lte IE 8]>
+			 .container {left: -30px;}
+			  <!--[endif]>
+			
+			<!--
+			#ca table{ width:100%; border:#9ac1c9 solid; border-width: 0 0 1px 1px; border-spacing:0; border-collapse:collapse; margin: 0px; float:right; margin-left:0px;}
+			#ca td {border:#9ac1c9 solid ; border-width: 1px 1px 0 0; margin: 0; padding-left: 5px; }
+			#ca th { background-color: #4E8781; color:#FFFFFF!important;font-weight: normal; text-align: center; border:#9ac1c9 solid ; border-width: 1px 1px 0 0; margin: 0; padding-left: 15px;}
+			#exampleV {background-color: #4E8781; float: right;}
+			#cal_ca { /*position:absolute;*/  margin-top: 15px;}
+			form#cal_ca { display:inline;}
+			.desc input{ float:right; border:1px solid #004747; text-align:center;}
+			.desc { padding-right: 20px;}
+			#contp img.pickerImg { display: inline; margin-left: -20px; margin-right: 0px; }
+			#men_orizontal { margin-top: -30px;}
+			#lang input{ background-color: transparent!important; border:none!important;}
+			#contp { width: 940px; float:right; min-height: 650px;}
+			.color2 {background-color: #bfd1d1;}
+			-->
+			</style>
+		<style>
+		#ca table{ margin: 0; margin-top:57px;}
+		</style>
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/rapoarte-pzu-curbe-agregate/ro">
+			<img src="https://www.opcom.ro/pcs/ro.jpg" />
+		</a>
+		
+		
+	
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniven.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026en.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniven.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5en.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitareen.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5en.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:700px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/en" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/23.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/en">&nbsp;<img src="https://www.opcom.ro//pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/en/136">Trades - results</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/en/137">Trading - Products</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/en/138">Announcements - News</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/en/139">Company</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->
+
+<div id="men_left"><div class="menu"><h3>Trades - Results</h3>
+			  <ul>
+				<li><a href="#url" class="level11" ><p>Day-Ahead Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pzu-limita-scala-pret/en">Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportAtc/en">Available Transfer Capacity-ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/grafice-ip-raportPIP-si-volumTranzactionat/en" >RO Trading results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportMarketResults/en">Market Coupling Results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-preturi-blocuri/en">Block prices</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en">Aggregated Curves</a></li>
+						
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market&nbsp;&raquo;</p></a>
+                    <ul>
+						<li><a href="#url" class="level21" ><p>Continuous Trading <br />(IDCT)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >Market Coupling Results IDCT</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+							</ul>
+					    </li>
+						<li><a href="#url" class="level2n" ><p>Intra-Day Auctions<br />(IDA)&nbsp;&raquo;</p></a>	
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-ida-limite-scala-pret/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-raport-atc/en" ><p>Available Transfer Capacity - ATC</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en" >RO Trading Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-cuplare/en" >Market Coupling Results IDA</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-pret-blocuri/en" >Blocks Prices</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-ida-curbe-agregate/en">Aggregated Curves</a></li>
+							</ul>
+					    </li>
+					</ul>
+                    <!--
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >ID Market Coupling Results SIDC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+					</ul>
+                    -->
+				</li>
+	
+	
+	       		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market with double continuous negociation for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CM-OTC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-otc-raport-rez-otc/en">Daily Results</a></li>
+ 								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc50/en"><p>Full details of transactions exceeding 50MW</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc10/en"><p>Full details of transactions with the closing price variation greater than 10%</p></a></li> 
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc-date-zilnice-agregate2/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-otc-statistici-otc/en"><p>Statistics</p></a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralised Market for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level21"><p>Flexible Extended Auctions Mechanism (CMBC-EA-flex)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-le-flex-of-rez-pcccb-le-flex/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-rez-pccb-le-flex/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-neconforme-le-flex/en">Inconsistent Offers</a></li>
+ 							    <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/316">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/317">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pccb-le-flex-statistici-flex/en">Statistics</a></li>								
+								</ul>
+					   </li>
+					   <li><a href="#url" class="level21"><p>Continuous Negotiation Mechanism<br/>(CMBC-CN)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-nc-rezultate-pccbnc/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-imgpccbnc/en">Trading Sistem Display</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/215">Inconsistent Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/304">Cancelled Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/216">Cancelled Transactions</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-raport-pccbnc-date-zilnice-agregate/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-nc-statistici/en">Statistics</a></li>								
+							</ul>
+                       </li>
+					   <li><a href="#url" class="level21"><p>Archive Results (CMBC-EA)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-oferte-rezultate-pccb-le/en"><p>Announcements-Offers</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-neconforme/en">Inconsistent Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/303">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/211">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-statisticiPCCBLE/en">Statistics</a></li>
+							</ul>
+					   </li>
+                       <li><a href="#url" class="level21" ><p>Archive Results CMBC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-raport-ofertePCCB/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/157">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/101">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/94">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/96">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/97">Results 2007</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/98">Results 2006</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-raportCentralizatorRezultatePCCB/en">Summary Report</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-raportStatisticiPCCB/en">Statistics</a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n"><p>Archive Results CMBC-CN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC2011/en">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/93">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/115">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/116">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/117">Results 2007</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/118">Statistics</a></li>
+							</ul>
+					  </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralized Market for Electricity from Renewable Energy Sources Supported by Green Certificates&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level2n"><p>CME-RES-GC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pce-esre-cv-rapoarte-oferte-rezultate/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-neconforme/en">Inconsistent Offers</a></li>
+ 	        				    <li><a class="subm" href="https://www.opcom.ro/pccb-tranzactii-rezultate/en/309">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pce-esre-cv-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+						
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for Universal Service&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/pcsu-raport/en/286">Auction Opening Prices</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcsu-raport-rezultate/en/287">Monthly Results</a></li>
+						<li><a href="#url" class="level2n" ><p>PCSU 2015-2017 Archive&nbsp;&raquo;</p></a>
+						<ul>
+							<li><a class="level21" href="https://www.opcom.ro/pcsu-raport-oferte/en/232">Announcements-Specifications</a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/pcsu-raport-rezultate/en/233">Results</a></li>
+						</ul>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Electricity market for large consumers&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>LMC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/199">Announcements - Results</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--PCTL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for awarding Long Term Electricity Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CMLT Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/338">Announcements</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/339">Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/334">Inconsistent Contracts</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+<!--GAZE-->						
+				<li><a href="#url" class="nivel_intermediar" ><p>Day Ahead Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pzu-gn-raport/en">Daily Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pzu-gn-tranzactii-rezultate/en/329"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>										
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pi-gn-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/330"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/331"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>
+		
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralised Market for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-rezultate/en">Offers and Results</a></li>
+							    <li><a class="subm" href="https://www.opcom.ro/pcgnln-rapoarte-obligatie-ofertare/en"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/323"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 143/17.07.2020</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/324"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LP&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Announcements, Offers and Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/325"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/326"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n" ><p>Trading mechanism PCGN-OTC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgn-otc-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/327"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/328"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--Gaze Flex PPF-TL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Market for Flexible Medium and Long Term Products for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/345">Announcements, Offers </a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/346">Results</a></li>
+					</ul>
+				</li>
+
+				<li><a href="#url" class="nivel_intermediar"><p>Green Certificates Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized spot market (GCACSM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcscv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcv-pcscv-rapoarte-oferte/en">Offers GCACSM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Archive of Centralised Green certificates Market (CGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/54">Session Results CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/64">Archive of Aggregate Curves CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/174"><p>Archive of Weighted Average Market Price CGCM</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/254">Monthly Reports CGCM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized term market (GCACTM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pctcv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcv-pctcv-rapoarte-oferte/en">Offers GCACTM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/266">Invalid Contracts</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21" href="#url"><p>Archive of Centralised Bilateral Contracts of GC Market (CBCGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcbcv-rapoarte/en">Offers and Results CBCGCM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/53">Monthly Reports CBCGCM</a></li>
+						    </ul>
+						</li>
+						<li><a href="#url" class="level21"><p>List of economic operators who have not fulfilled the obligation to acquire GCs&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/267">Quarter</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/268">Year</a></li>
+							</ul>
+						</li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-lunare/en/269"><p>Monthly reports GCM&nbsp;&raquo;</p></a>
+						</li>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar"><p>Settlement&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/10">Day-Ahead Market</a></li>
+						<!-- <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Intra-Day Market</a></li> -->
+						<li><a href="#url" class="level21" >Intra-Day Market</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Continuous trading (IDCT)</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/383">Intra-Day Auctions (IDA)</a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/292">Day Ahead Market for Natural Gas</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/16">Balancing Market 2011-Jan.2021</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/234">Balancing Market 2005-2010</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/26">Redistribution Incomes/Costs</a></li>		
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n"><p>Market Surveillance&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21">Reports&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/21">Annual Reports</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/22">Monthly Reports</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/25">Weekly Reports</a></li>
+							</ul>	
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/ropexfm/en">ROPEX_FM and Delivery Quantity</a></li>	
+						<li><a href="#url" class="level2n">Concentration Indices&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/grafice-ip-indicatori-pzu/en"><p>DAM Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pi/en"><p>ID Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pcotc/en"><p>CM-OTC Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccble/en"><p>CMBC-EA-Flex indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-le-flex/en"><p>CMBC-EA Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccbnc/en"><p>CMBC-CN Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-esre/en"><p>CME-RES-GC indices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/grafice-ip-indicatori-pcscv/en"><p>GCACSM Indices</p></a></li>
+							</ul>	
+						</li>
+					</ul>
+				</li>
+			
+				
+			</ul></div></div><!--meniu stanga-->
+<div id="contp">
+<div id="ca">
+            <table width="100%" border="1" cellspacing="0" cellpadding="0" class="border_table">
+                <tr>
+                    <th scope="col">Choose Date</th>
+                    <th scope="col">Document Type</th>
+                    <th scope="col">Document name</th>
+                    <th scope="col">Document size</th>
+                    <th scope="col">Download</th>
+                </tr>
+                <tr>
+                    <td class="color2" rowspan="3"><div id="cal_ca">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" charset=utf-8" />
+	
+<link rel="stylesheet" type="text/css" media="screen" href="/opcom/utile/calendartest/styles/Cal.css" />
+
+	<script type="text/javascript" src="/opcom/utile/calendartest/jslib/j2.js"></script>
+	<script type="text/javascript" src="/opcom/utile/calendartest/jslib/j1.js"></script>
+
+	<style>
+
+	table th {
+		vertical-align: top;
+	}
+
+	input {
+		text-align: center;
+		font-family: calibri, arial, sans-serif;
+		font-size: 13px;
+		background-color: white;
+		border: 1px solid;
+		border-color: #abadb3 #dbdfe6 #e3e9ef #e2e3ea;
+		padding: 2px;
+	}
+	input:focus, input:hover  {
+		border-color: #5794bf #b7d5ea #c7e2f1 #c5daed;
+	}
+
+	.pickerImg {
+		position: absolute;
+	/*	margin-left: -16px;*/
+		margin-top: 7px;
+		cursor: pointer;
+	}
+	.infoBox {
+		background-color: #fefdec;
+		border: 1px solid #edebcd;
+		padding: 6px;
+		margin-bottom: 20px;
+	}
+	</style>
+	
+	<script type="text/javascript">
+		window.addEvent('domready', function() { 
+			new vlaDatePicker('exampleIII', { openWith: 'togglePicker', offset: { y: -2, x: 2 }, separateInput: { day: 'day', month: 'month', year: 'year' } });
+			
+		});	
+	</script>
+</head>
+<body>
+<form name="data_empty" action="https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en" method="post"><span id="exampleIII"><input type="hidden" name="_token" value="VkoiElFAG0IImE1f83J0jLyI7hvjU2MxZGODXvXd" /><input name="day" type="text" value="30" style="width: 18px; border-width: 1px 0 1px 1px;" maxlength="2" /><input value="/" type="text" style="width: 5px; border-width: 1px 0 1px 0;" disabled="disabled" /><input name="month" value="09" class="textbox" type="text" style="width: 16px; border-width: 1px 0 1px 0;" maxlength="2" /><input value="/" type="text" style="width: 5px; border-width: 1px 0 1px 0;" disabled="disabled" /><input name="year" value="2026" type="text" style="width: 28px; border-width: 1px 0 1px 0;" maxlength="4" /><input type="text" style="width: 15px; border-width: 1px 1px 1px 0;" disabled="disabled" /><img src="/opcom/utile/calendartest/images/calendar.gif" id="togglePicker" class="pickerImg" width="13px" height="12px" alt="" />
+				</span><input name="buton" type="submit" value="Refresh" /></form>
+</body>
+</html>
+
+<br></div></td><td><div align="center">pdf</div></td><td>curbe_agregate_RO_20260930.pdf</td>
+		    			<td>2027522 bytes</td>
+		    			<td><form class="desc">
+							<input type="button" value="Download" onClick="
+								var link = document.createElement('a');
+								link.href = 'https://www.opcom.ro/pdf_curbe/curbe_agregate_RO_20260930.pdf';
+								link.download = '';
+								link.click();
+							">
+						</form></td> 
+		  		 </tr><tr><td><div align="center">xml</div></td>
+		    			<td>curbe_agregate_RO_20260930.xml</td>
+		    			<td>3456015 bytes</td>
+						<td><form class="desc">
+							<input type="button" value="Download" onClick="
+								var link = document.createElement('a');
+								link.href = 'https://www.opcom.ro/order_book/curbe_agregate_RO_20260930.xml';
+								link.download = '';
+								link.click();
+							">
+						</form></td>  
+		  		 </tr></table>The aggregated curves are generated based on the demand and supply for the entire Romanian bidding zone within the Day-Ahead Market. They include the balance of import-export flows, the volume of accepted blocks regardless of bidding granularity, the accepted volume corresponding to bid curves with a granularity of 30 and 60 minutes, considered for the graphical representation at the limit prices of the price scale), followed by the bid curves with a granularity of 15 minutes.</div>	</div> <!--cont-->
+    <!-- </div> -->
+<!---------------------------------------------------------------- END CONTENT --------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/en">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/en/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/en/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>New entries: JWM ENERGIA (DAM, IDM), CHIMCOMPLEX BORZESTI (CMBC-EA-flex, CMBC-CN), NEXTE ASSET MANAGEMENT (CMBC-EA-flex, CME-RES-GC, CM-OTC), SPRING ADVERTISING (GCM), EDPR SOLAR ENERGY (CME-RES-GC, GCM) and EDPR WIND ENERGY (CME-RES-GC, GCM) joined OPCOM in September.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/en">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/en/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="VkoiElFAG0IImE1f83J0jLyI7hvjU2MxZGODXvXd" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': 'VkoiElFAG0IImE1f83J0jLyI7hvjU2MxZGODXvXd'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+

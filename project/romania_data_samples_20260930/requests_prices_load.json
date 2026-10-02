@@ -1,0 +1,104 @@
+[
+  {
+    "id": "marginalPricesOverview_2025-01-15",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-01-14T22%3A00%3A00Z&timeInterval.to=2025-01-15T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-01-15 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2025-03-30",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-03-29T22%3A00%3A00Z&timeInterval.to=2025-03-30T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-03-30 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2025-09-30",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-09-29T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-09-30 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2025-10-01",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-01T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-01 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2025-10-26",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-10-25T21%3A00%3A00Z&timeInterval.to=2025-10-26T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-26 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2026-03-29",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-03-28T22%3A00%3A00Z&timeInterval.to=2026-03-29T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-03-29 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_2026-08-31",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-08-30T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-31 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "marginalPricesOverview_META",
+    "dataset": "D06",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+    "scope": "public report metadata; lastUpdateTimestamp not per-record publication"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-01-15",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-01-14T22%3A00%3A00Z&timeInterval.to=2025-01-15T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-01-15 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-03-30",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-03-29T22%3A00%3A00Z&timeInterval.to=2025-03-30T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-03-30 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-09-30",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-09-29T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-09-30 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-10-01",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-01T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-01 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2025-10-26",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2025-10-25T21%3A00%3A00Z&timeInterval.to=2025-10-26T22%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2025-10-26 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-03-29",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-03-28T22%3A00%3A00Z&timeInterval.to=2026-03-29T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-03-29 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_2026-08-31",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/dailyConsumptionOverview?timeInterval.from=2026-08-30T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-08-31 native local day; public page backing route; unversioned snapshot"
+  },
+  {
+    "id": "dailyConsumptionOverview_META",
+    "dataset": "D08-D16",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=dailyConsumptionOverview",
+    "scope": "public report metadata; lastUpdateTimestamp not per-record publication"
+  },
+  {
+    "id": "tenderStatistics_2026-03-29_R1",
+    "dataset": "D05",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-03-28T22%3A00%3A00Z&timeInterval.to=2026-03-29T21%3A00%3A00Z&pageInfo.pageSize=3000",
+    "scope": "2026-03-29 retry; previous failure retained"
+  }
+]

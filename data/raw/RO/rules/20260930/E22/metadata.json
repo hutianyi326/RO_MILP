@@ -1,0 +1,14 @@
+{
+  "id": "E22",
+  "title": "ANRE Order3/2023 storage grid technical connection",
+  "url": "https://anre.ro/wp-content/uploads/2023/04/Ordin_3_2023-1.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2023/04/Ordin_3_2023-1.pdf",
+  "retrieved_utc": "2026-09-30T07:53:07.1339511Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E22\\original.pdf",
+  "bytes": 266373,
+  "sha256": "168216a47d80b5f6cd24d905c74f50ddc3026528a21041b1ab1b5ed8493e8657",
+  "extracted_characters": 82476
+}

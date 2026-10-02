@@ -1,0 +1,17 @@
+{
+  "id": "APP_JS_0",
+  "url": "https://newmarkets.transelectrica.ro/cdn/uu5-webkitg02/3.0.0/uu5_webkitg02.min.js",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:14:07.831306+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/cdn/uu5-webkitg02/3.0.0/uu5_webkitg02.min.js",
+  "content_type": "text/javascript; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/APP_JS_0__a1/original.html",
+  "sha256": "8272d12b7454307abc9687918d9cef465e75bf2b51904d9b34a9f0afd61f8123",
+  "bytes": 664899,
+  "detected_format": "html"
+}

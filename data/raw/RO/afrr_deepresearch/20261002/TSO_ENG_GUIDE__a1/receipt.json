@@ -1,0 +1,17 @@
+{
+  "id": "TSO_ENG_GUIDE",
+  "url": "https://www.transelectrica.ro/en/web/tel/info-sts",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:18:02.236637+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/en/web/tel/info-sts",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_ENG_GUIDE__a1/original.html",
+  "sha256": "d890a89cac0dfc7909eb4c41556887c9fe9033db89f9c673894e9075996c48a3",
+  "bytes": 41267,
+  "detected_format": "html"
+}

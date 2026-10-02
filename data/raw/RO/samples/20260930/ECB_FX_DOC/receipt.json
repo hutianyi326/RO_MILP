@@ -1,0 +1,17 @@
+{
+  "id": "ECB_FX_DOC",
+  "dataset": "D14",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official FX direction/publication/purpose",
+  "retrieved_utc": "2026-09-30T09:34:25.2669568Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/ECB_FX_DOC/original.html",
+  "bytes": 119323,
+  "sha256": "1bfe02fdd1fce0153697b79c3c9b1ce7079a2b21b0287fa58c677b8507c31cf2"
+}

@@ -1,0 +1,777 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Anunturi - Stiri</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/anunturi-stiri-pi/en/8">
+			<img src="https://www.opcom.ro/pcs/en.jpg" />
+		</a>
+		
+		
+		
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniv.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026ro.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniv.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitare.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:760px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/ro" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/21.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/ro">&nbsp;<img src="https://www.opcom.ro/pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/ro/136">Tranzac&#355;ii - Rezultate</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/ro/137">Tranzac&#355;ionare - Produse</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/ro/138">Anun&#355;uri - &#350;tiri</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/ro/139">Compania</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->    
+        
+		<div id="men_left"><div class="menu"><h3>Anun&#355;uri - &#350;tiri</h3>
+			<ul>
+				<li><a href="#url" class="level11">Mesaje opera&#355;ionale&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-pp/ro/1" >OPCOM</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pzu/ro/2" >Pia&#355;a pentru Ziua Urm&#259;toare</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pi/ro/8" >Pia&#355;a Intrazilnic&#259;</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcotc/ro/13"><p>Pia&#355;a Centralizat&#259; cu negociere dubl&#259; continu&#259; a contractelor bilaterale de energie electric&#259</p></a></li>
+						<li><a href="#url" class="subm"><p>Pie&#355;e Centralizate Contracte Bilaterale&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-pccble/ro/15" ><p>Modalitatea de tranzac&#355;ionare PCCB-LE-Flex</p></a>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcbnc/ro/9" ><p>Modalitatea de tranzac&#355;ionare PCCB-NC</p></a></li>
+							    <li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri-pccbpc/ro/16" ><p>Modalitatea de tranzac&#355;ionare PCCB-PC</p></a></li>								
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcsu/ro/20"><p>Pia&#355;a Centralizat&#259; pentru energia electric&#259; din surse regenerabile sus&#355;inut&#259; prin certificate verzi&nbsp;&raquo;</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcsu/ro/17"><p>Pia&#355;a Centralizat&#259; pentru Serviciul Universal</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pctl/ro/30"><p>Pia&#355;a Centralizat&#259; destinat&#259; atribuirii contractelor de energie electric&#259; pentru perioade lungi de livrare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pzugn/ro/18"><p>Pia&#355;a pentru Ziua Urm&#259;toare de gaze naturale</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcgn/ro/12"><p>Pia&#355;a centralizat&#259; de gaze naturale</p></a></li>
+<!--PPFTL				<li><a class="subm" href="https://www.opcom.ro/anunturi_stiri/anunturi_ppftl.php?lang=ro&id_piata=31"><p>Pia&#355;a Produselor Flexibile pe Termen Mediu &#x15F;i Lung de Gaze Naturale</p></a></li>	-->
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><p>Pia&#355;a Certificatelor Verzi</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-ptce/ro/6"><p>Platforma de Tranzac&#355;ionare Certificate de Emisii</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10"><p>Facturare - pie&#355;e administrate</p></a></li>
+						<li><a href="#url" class="level2n" >Decontare&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/65">Pia&#355;a pentru Ziua Urm&#259;toare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/15">Pia&#355;a de Echilibrare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/18">Dezechilibre de la notificare</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/20">Dezechilibre PRE</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/24">Redistribuire Venituri/Costuri</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/288">Consultare public&#259;</a>
+							</ul>
+						</li> 
+
+					</ul>
+				</li>
+				
+				<li><a class="nivel_intermediar" href="https://www.opcom.ro/anunturi-stiri/ro/55">Programe retrageri din exploatare</a></li>
+				<li><a href="#url" class="nivel_intermediar">Comunicate &#x15F;i informa&#355;ii de pres&#259;&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/1" >OPCOM</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/2" >Guvern, Minister</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri-comunicate/ro/3" >Comisia European&#259;</a>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar">Grupuri de produs&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/125">Derivative &#x15F;i Forward</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/175"><p>Platforma pentru tranzac&#355;ii tip OTC</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/169">Pia&#355;a Certificatelor Verzi</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/124"><p>Platforma de Tranzac&#355;ionare Certificate de Emisii</p></a>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/173"><p>Pia&#355;a Centralizat&#259; de Gaze Naturale</p></a>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar">Func&#355;ionare experimental&#259;, teste&nbsp;&raquo;</a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Pia&#355;a Intra-zilnic&#259;<br/>(PI)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/121">Funcționare experimentală – local</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/171">Funcționare experimentală – SIDC</a>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Pia&#355;a Centralizat&#259; a Contractelor Bilaterale de Energie Electric&#259; - Modalitatea de Tranzac&#355;ionare<br/>(PCCB-NC)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/119">Program</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/120">Ghid de Utilizare</a>
+							</ul>
+						</li>
+						<li><a href="#url" class="level2n"><p>Pia&#355;a Centralizat&#259; a gazelor naturale<br/>(PCGN)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/176">Program</a>
+								<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/177">Ghid de Utilizare</a>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n">Comunitatea energetic&#259;&nbsp;&raquo;</a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/anunturi-stiri/ro/147">Rapoarte Consiliu Consultativ</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/32">Evenimente</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri-presa/0/ro">Presa intern&#259; &#x15F;i interna&#355;ional&#259;</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/anunturi-stiri/ro/35">Documente de referin&#355;&#259;</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/anunturi-stiri/ro/36">Legisla&#355;ie european&#259;</a></li>
+					</ul>
+				</li>
+			</ul>
+
+</div>
+ 
+</div><!--meniu stanga-->
+<div id="contp">
+<ul><li><b>23.03.2026<br/>ANUNŢ PI - TRECERE LA ORA DE VARĂ</b><br/>
+Vă reamintim că în noaptea de sâmbătă spre duminică, în Europa se trece oficial de la ora de iarnă (CET) la ora de vară (CEST), când ora 02:00 devine ora 03:00. Prin urmare, ziua de livrare 29 martie 2026 are 23 de intervale de tranzacționare pentru produsele orare și 92 de intervale pentru produsele de 15 minute. Pentru informații suplimentare asupra modului în care trebuie să procedați în această situație, vă rugăm să consultați „Procedura privind funcţionarea Pieţei Intrazilnice de energie electrică: Tranzacționarea continuă (IDCT) și Tranzacționarea prin licitații (IDA)”.  </li></br><li><b>29.09.2025</b><br/>Au fost publicate Procedura privind încasările și plățile și Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la PZU, PI-IDCT și PI-IDA</li></br><li><b>23.05.2025<br/>Actualizare <a href="/uploads/doc/PI/PO_Gar_PI_XBID_rev Mai 2025 clean .pdf" target="new">Procedura</a> privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piata Intrazilnica de energie electrică</b><br/>
+<p>A fost introdusă posibilitatea constituirii unor garanții unice PZU, PI - Tranzacționarea prin corelare continuă și PI - Tranzacționarea prin licitații.
+Noile modele de Scrisori de garanție bancară vor fi publicate în zilele următoare.</p></li></br><li><p><b>14.03.2025<br/>
+Actualizare Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la <a href="/tranzactii-produse/ro/364">Piața Intrazilnică de energie electrică-tranzacționarea prin licitații</a></b><br>
+Având în vedere integrarea interconexiunilor zonei de ofertare România, respectiv RO-HU și RO-BG, în mecanismul de Licitații Intrazilnice (Intra-Day Auctions, IDA), incepând cu ziua de tranzacționare 18.03.2025, a fost introdusă posibilitatea constituirii unor garanții unice PZU, PI - Tranzacționarea prin corelare continuă și PI - Tranzacționarea prin licitații.<br>
+Noile modele de Scrisori de garanție bancară, aplicabile pentru Piața Intra-zilnică - Tranzacționarea prin licitații vor fi publicate în zilele următoare.
+</p></li></br><li><p><strong>31.05.2024<br/>A fost publicat pachetul de reguli IDA</strong>&nbsp;<br/>În contextul datei de lansare a Licitațiilor Intrazilnice  (IDA) OPCOM informează participanții la piață că a fost publicat  pachetul de reguli aferent Pieței intrazilnice de energie electrică –  Tranzacționarea prin licitații în vederea operaționalizării începând cu 13  iunie 2024 în conformitate cu Decizia ACER  01-2019 privind stabilirea unei metodologii de prețuri a capacității  intrazilnice transfrontaliere, respectiv:</p>
+<ul>
+  <li>Procedura privind funcţionarea Pieţei intrazilnice de  energie electrică – Tranzacționarea prin licitații (trimisă la ANRE);</li>
+  <li>Convenţia de participare la convenţie de participare la  pieţele pe termen scurt de energie electrică (Piața pentru ziua următoare și Piaţa  intrazilnică);</li>
+  <li>Procedura privind încasările și plăţile aferente  tranzacţiilor pe Piaţa Intrazilnică de energie electrică-Tranzacționarea prin  licitații;</li>
+  <li>Procedura privind privind constituirea, verificarea și  utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de  energie electrică -Tranzacționarea prin licitații.</li>
+</ul>
+</li></br><li><p><strong>29  Mai 2024:</strong><strong> </strong><br>
+  <strong>Confirmarea datei de lansare a Licitațiilor Intrazilnice  (IDA) pentru 13 iunie 2024</strong><strong> </strong></p>
+<p>În urma testării ample și a pregătirii pentru  lansarea viitoarelor licitații intrazilnice (IDA), Operatorii Pieței de Energie  Electrică Desemnați (OPEED) și Operatorii de Transport și de Sistem (OTS) au  plăcerea să confirme ca dată de lansare a IDA ziua de 13 iunie 2024, pentru  livrare în 14 iunie 2024. Prima licitație SIDC va avea loc pe 13 iunie 2024 la  ora 15:00 CET (Gate Closure Time - Ora de închidere a porții de ofertare).</p>
+<p>Prețul  capacității intrazilnice – prin intermediul IDA – va face parte din Single  Intraday Coupling (SIDC) și va  completa metoda actuală de tranzacționare continuă. </p>
+<p>Odată cu implementarea IDA, o nouă infrastructură tehnică și noi procese de comunicație pentru cuplarea pieței vor fi utilizate  între OPEED și OTS, completând actuala platformă SIDC XBID utilizată pentru  tranzacționare continuă. În primele zile OPEED și OTS vor monitoriza primele  activități acordând o atenție deosebită funcționării, eficienței și  rezultatelor. Tranzacționarea continuă intrazilnică va continua să funcționeze anterior  și după IDA. Astfel, mecanismele - IDA și  tranzacționarea continuă - se vor completa reciproc.</p>
+<p>Invităm participanții la piață să citească pachetul  de informații despre  IDA, care este publicat pe site-urile web ale <a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Network%20codes%20documents/Implementation/cacm/xbid/IDAs-information_packege-final.pdf">ENTSO-E </a>și <a href="https://www.nemo-committee.eu/assets/files/IDAs-information%20package-final-c0ca4ca554dd80597fdb286076f79017.pdf">Comitetului OPEED</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Despre SIDC:</strong><strong> </strong><br>
+Soluția SIDC  este bazată pe un sistem IT comun cu un registru unic de ordine (SOB), un modul  de management al capacităților (CMM) și un modul de transfer  transfrontalier (SM). Aceasta  permite ca ordinele  introduse de participanții la piață pentru corelarea  continuă într-o zonă de ofertare  să fie corelate de ordine introduse similar  de participanții la piață în orice altă zonă de ofertare  din cadrul proiectului, atât timp cât capacitatea de transport este  disponibilă. Soluția intrazilnică permite atât alocarea explicită (acolo unde a  fost aprobată de către autoritățile de reglementare respective) cât și  tranzacționarea continuă implicită. Aceasta este în concordanță cu modelul  țintă al UE pentru o piață intrazilnică integrate.</p>
+<p>Cuplarea  intrazilnică la nivel european este o componentă esențială pentru finalizarea  pieței interne europene de energie. Odată cu creșterea cotei producției intermitente în mixul energetic  european, conectarea piețelor  intrazilnice prin tranzacționarea transfrontalieră este un instrument  din ce în ce mai important pentru ca actorii pieței să își mențină pozițiile echilibrate. Scopul inițiativei SIDC este de a crește  eficiența globală a tranzacționării pe orizontul de timp  intrazilnic.</p>
+<p>Pentru  informații suplimentare despre SIDC, accesați:<br/><a href="http://www.nemo-committee.eu/sidc">http://www.nemo-committee.eu/sidc</a><br/><a href="https://www.entsoe.eu/network_codes/cacm/implementation/sidc/">https://www.entsoe.eu/network_codes/cacm/implementation/sidc/</a>
+<p>&nbsp;</p>
+<p><strong>Despre OPCOM</strong><br>
+  <strong>OPCOM</strong> este Operatorul Pietei de Energie Electrica si Gaze Naturale “OPCOM” SA.  Incepand cu anul 2000, OPCOM s-a angajat sa consolideze un mediu de  piata&nbsp;unde se tranzactioneaza energie si certificate de mediu in conditii  de transparenta si integritate. Portofoliul de tranzactionare oferit de OPCOM  cuprinde produse de energie electrica si gaze naturale, precum si certificate  verzi. Mai mult de 800 companii utilizeaza produsele disponibile pentru  tranzactionare pe pietele de energie electrica si gaze naturale pe termen scurt  si pe pietele de certificate verzi, precum si pe pietele pe termen lung pentru  contractele bilaterale pentru energie electrica, gaze naturale si certificate  verzi. Suplimentar fata de acest rol, OPCOM este responsabil de decontarea  tranzactiilor incheiate pe pietele de energie electrica pe termen scurt și, de  asemenea, actioneaza ca mecanism de raportare inregistrat conform REMIT  gestionand mai mult de 350 de acorduri de raportare de date de pe pietele de  energie electrica si gaze naturale. OPCOM este, de asemenea, Operator al Pietei  de Energie Electrica Desemnat (OPEED), nominalizat in conformitate cu  Regulamentul (UE) 2015/1222 pentru efectuarea cuplarii unice a pietelor pentru  ziua urmatoare si a pietelor intrazilnice.<br>
+  OPCOM aplica Sistemul de  Management al Calitatii conform ISO 9001:2015, respectiv Sistemul de Management  al Securitatii Informatiilor conform ISO/IEC 27001:2013, ambele sisteme fiind  certificate de Lloyd's Register.<br>
+Pentru mai multe informatii, va  rugam sa ne vizitati la adresa <a href="http://www.opcom.ro/">www.opcom.ro</a>. </p>
+<p>Comunicare <a href="/uploads/doc/PI/IDA/2024 Go-live Date Confirmation IDA_RO.pdf" target="_blank">2024 Go-live Date Confirmation IDA_RO</a></p>
+</li></br><li><p><strong>11.03.2024<br/>
+  Comitetul de coordonare a cuplării pieței (MCSC) anunță organizarea evenimentului de pre-lansare a IDA </strong></p>
+<p>Avem plăcerea să vă invităm în data de 21 martie 2024 la evenimentul  organizat de operatorii pieței de energie electrică desemnați și operatorii de transport  și sistem din cadrul SIDC. Evenimentul va prezenta soluția tehnică a  proiectului și va aduce informații valoroase participanților la piață cu  referire la Proiectul de licitații intrazilnice (Intraday Auctions project - IDAs)  care este planificat în prezent să fie lansat pe 13 iunie 2024. Evenimentul de  pre-lansare este gratuit și disponibil publicului larg. <a href="/uploads/doc/PZU/2024 agenda to IDA - Pre-launch Event.pdf" target="_blank">Agenda</a> (conținând linkul de înregistrare) și <a href="/uploads/doc/PZU/IDAs-information package.pdf" target="_blank">pachetul de informații</a> pentru  evenimentul de pre-lansare IDA sunt acum disponibile.</p></li></br><li><p><strong>14.07.2022</strong><br/>A fost publicata <a href="/uploads/doc/Decontare/PI/PO Incasari Plati PI_XBID_rev.8-iulie 2022.pdf" target="_blank">Procedura privind încasările și plățile aferente tranzacțiilor pe  PI</a>, revizia 8, actualizată în linie cu modificările privind executarea garanțiilor financiare implementate în procedura de garanții relevantă</p>
+</li></br><li><p><strong>04.07.2022</strong><br/>
+  A  fost publicata <a href="/uploads/doc/PI/M7_Trading/PO_Gar_PI_XBID_rev.8_iulie 2022.pdf" target="new">Procedura</a> operațională privind  constituirea, verificarea și utilizarea garanțiilor financiare pentru  participarea la Piața Intrazilnică,  revizia 8</p></li></br><li><p><strong>10.06.2022</strong><br/><a href="/tranzactii-produse/ro/163">A fost publicata Procedura operațională privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică, revizia 7</a></p>
+</li></br><li><p><strong>16.03.2022</strong><br/><strong>Solicitare Participanti PI privind interesul pentru accesarea serviciului OPCOM M7 Trading System API</strong></p>
+<p>În procesul de furnizare a accesului la serviciul OPCOM M7 Trading  System API, OPCOM solicită Participanților la Piața Intrazilnică de energie electrică să-și manifeste interesul în acest sens, prin transmiterea la OPCOM a unei simple confirmări pe adresa idmarket@opcom.ro, până în data de 23.03.2022. După recepționarea confirmărilor, OPCOM va  transmite Participanților la Piața Intrazilnică de energie electrică interesați pachetul de informații și documente API, inclusiv documentația și formularul de  cerere de acces la serviciul API, în vederea completării și semnării. Termenele si etapele de parcurs pentru asigurarea cadrului necesar implementării corecte și utilizării sigure a serviciului OPCOM M7 Trading System API vor fi stabilite și comunicate Participanților la Piața Intrazilnică de energie electrică.</p></li></br><li><p><strong>10.02.2021</strong><br>
+  Stimati Participanti la Piata Intrazilnica de energie electrica, </p>
+<p>  Prin prezenta informare, OPCOM doreste sa detalieze reperele procesului de  alăturare a României la piața  intrazilnică deja cuplată pentru produsele de 15 minute la care participă  Austria, Germania, Slovenia, Belgia, Ungaria și Olanda, proces care se va desfășura în data de 10.02.2021,  respectiv la 10 zile după lansarea in functionare, in data de 31.01.2021, cu  efecte comerciale, a posibilității de tranzacționare a contractelor de 15  minute exclusiv in plan national,  ca  urmare a aplicării intervalului de decontare de 15 minute începând cu data de 1  februarie 2021 conform Ordinului președintelui ANRE nr. 230/16.12.2020.</p>
+<p>  Produsele de 15 minute sunt disponibile suplimentar produselor orare, în  prezent, SIDC (Cuplarea unică a piețelor intrazilnice) cuplând piețele intrazilnice  cu tranzacționare continuă din 22 de țări: Austria, Belgia, Bulgaria, Croația,  Republica Cehă, Danemarca, Estonia, Finlanda, Franța, Germania, Ungaria, Letonia,  Lituania, Luxemburg, Norvegia, Olanda, Polonia, Portugalia, România, Slovenia,  Spania și Suedia.</p>
+<p>  Ziua de tranzactionare 10.02.2021, incepand cu ora 22:45 CET, va fi prima  zi de tranzactionare pentru ziua de livrare 11.02.2021 în care produsul de 15  minute va fi disponibil, suplimentar celui de 60 minute, pe granița RO-HU în  cadrul SIDC, ceea ce este de așteptat că va spori posibilitățile participanților  la piață de a-și ajusta pozițiile comerciale mai aproape de momentul livrării,  sporind astfel beneficiile tranzacționării energiei electrice și reducând  costurile participanților cu dezechilibrele. Subliniem faptul că ofertele introduse pentru  contractele corespunzătoare produselor de 15 minute sunt suplimentare celor pentru  contractele corespunzătoare produselor de 60 de minute, fiecare din ofertele  introduse putând fi tranzacționată transfrontalier în funcție de rezoluția de  timp a produselor transfrontaliere pe granițele integrate ale României în SIDC,  respectiv 60 minute pe granița RO-BG și, respectiv, 15 și 60 de minute pe  granița RO-HU, către  celelalte piețe cu  care se funcționează cuplat pentru produsele de 15 și 60 minute. </p>
+<p>  Ziua de livrare 10.02.2021 va fi ultima zi de livrare pe Piata intrazilnica  de energie electrica functionand exclusiv local pentru produsul de 15 minute, lansată  în 31.01.2021, iar incepand cu ziua de livrare 11.02.2021, de la ora 22:45 CET in data de 10.02.2021, produsul de  15 minute va fi tranzacționat exclusiv transfrontalier, în cadrul SIDC, primul contract  de 15 minute tranzactionabil transfrontalier fiind 00:00-00:15 CET, al doilea  00:15-00:30 CET etc. </p>
+<p>  Poarta de ofertare pentru produsul transfrontalier de 15 minute se va  deschide în data de 10.02.2021 la ora 22:45 CET, primul contract de 15 minute  tranzactionabil transfrontalier fiind primul sfert de oră al zilei de livrare  11.02.2021, respectiv intervalul 00:00-00:15 CET. De la aceeași oră, 22:45 CET  va fi dezactivat produsul local de 15 minute, condiții în care toate ofertele pentru  ziua de livrare 11.02.2021 existente in platforma de tranzacționare, pentru  contractele locale corespunzătoare produsului local de 15 minute, vor fi  dezactivate.</p>
+<p>  Poarta de ofertare pentru fiecare contract de 15 minute transfrontalier se  va inchide cu o ora inainte de perioada de inceput a livrarii fiecarui astfel  de contract. Reamintim ca disponibilizarea capacității transfrontaliere de  către operatorii de transport si de sistem pe granitele RO-HU și RO-BG se  realizeaza în proceduă nomală la ora 22:00 CET, și respectiv 16:00 CET, matricea  ATC fiind facuta disponibila pentru cuplarea pietelor intrazilnice de energie  electrica în sistemul de tranzactionare M7 Trading, iar pentru scop informativ,  valorile ATC sunt publicate la momentul disponibilizării, pe website-ul OPCOM,  la adresa: https://www.opcom.ro/rapoarte/pi/raport_atc_PI.php?lang=ro </p>
+<p>  Subliniem faptul că ofertele pentru contractele corespunzătoare produselor  de 15 și 60 de minute pot fi corelate cu alte oferte cu aceeași rezoluție de  timp. Astfel, o ofertă pentru un produs de 15 minute va fi corelată cu o altă  ofertă pentru un produs de 15 minute. Implementarea unei funcționalități de corelare  a produselor cu rezoluție de timp diferită în cadrul SIDC, pe baza căreia  produsele de 15 și 60 de minute ar putea fi corelate între ele, este în prezent  în curs de investigare la nivelul cooperării europene.</p>
+<p>  Reamintim ca produsele si contractele care vor fi disponibile pentru  tranzactionare incepand cu ziua de livrare 11.02.2021 sunt cele mentionate in  anexa 1 la <em>Procedura privind funcţionarea Pieţei intrazilnice de energie  electrică</em>, inclusiv produsele transfrontaliere de 15 minute.</p>
+<p>  Calculul garanției de validare disponibilă pentru ofertele de cumpărare la  prețuri pozitive și/sau ofertele de vânzare la prețuri negative va lua în  considerare ca și anterior Notele de Decontare rezultate prin aplicarea  intervalului de decontare de 15 minute și nu va exista niciun alt impact asupra  acestui proces.</p>
+<p>  Introducerea la tranzacționare a produsului transfrontalier de 15 minute nu  va avea niciun efect asupra mecanismului de încasări și plăți, respectiv a  mandatelor de direct debit și a scrisorilor de garanție bancară.</p>
+<p>  Reamintim ca Notificările fizice se vor realiza în continuare în ora  anterioară livrării și ulterioară momentului în care s-a încheiat  tranzacționarea pe contractul care va intra în livrare, considerând ziua de  livrare în ore EET (ora României). </p>
+<p>Pentru orice întrebări sau solicitări de informații  suplimentare este disponibila pentru participanții la piață și alte părți  interesate adresa generică intra_day@opcom.ro .</p></li></br><li><b>29.01.2021</b><br />
+<p>Stimati Participanti la piata,</p>
+<p>  Referitor la posibilitatea de  ofertare pe produsul de 15 minute pe Piata Intrazilnica de energie electrica, facem  urmatoarele precizari:</p>
+<p>  Intervalul de timp 23:00-24:00  CET al zilei de livrare 31.01.2021, respectiv intervalul de timp 01:00-02:00  EET al zilei de livrare 01.02.2021 se va tranzactiona in conformitate cu <em>Ordinul  nr. 230 din 16 decembrie 2020 privind prorogarea unor termene prevăzute în  ordine ale presedintelui Autorității Naționale de Reglementare în Domeniul  Energiei</em>, ceea ce inseamna ca va exista posibilitatea de ofertare si  tranzactionare a intervalului de timp 23:00-24:00 CET al zilei de livrare  31.01.2021 inclusiv prin utilizarea produsului de 15 minute, respectiv a intervalelor  de 15 minute 93, 94, 95 si 96 CET din ziua de livrare 31.01.2021, reprezentand intervalele  de 15 minute 1, 2, 3 si 4 EET din ziua de livrare 01.02.2021.</p>
+<p>  Facem precizarea ca aceste  intervale de 15 minute, respectiv 93, 94, 95 si 96 CET din ziua de livrare  31.01.2021, vor putea fi tranzactionate incepand cu ora 15:00 CET a zilei de  31.01.2021, respectiv prin contractele pentru intervalele 23:00-23:15,  23:15-23:30, 23:30-23:45, 23:45-24:00.</p>
+<p>  Totodata, ziua de 31.01.2021,  incepand cu ora 15:00 CET, este prima zi de tranzactionare a contractelor de 15  minute pentru ziua de livrare 01.02.2020 CET, primul contract de 15 minute tranzactionabil  fiind 00:00-00:15 CET, al doilea 00:15-00:30 CET samd. Poarta de ofertare  pentru fiecare contract de 15 minute se va inchide cu o ora inainte de perioada  de inceput a livrarii fiecarui contract de 15 minute.</p>
+<p>Subliniem faptul ca posibilitatea de  tranzactionare a contractelor de 15 minute este disponibila exclusiv in plan  local pana la o noua informare, produsele orare continuand sa fie disponibile pentru  tranzactionare pe Piata intrazilnica cuplata, in cadrul Cuplarii unice a pietelor  intrazilnice (SIDC, Single Intra-Day Coupling). </p></li></br><li><p><strong>19.01.2021</strong></p>
+<p>Stimați Participanți la Piața Intrazilnică de energie electrică, </p>
+<p>Prin prezenta informare, OPCOM dorește să sublinieze următoarele aspecte în contextul procesului de extindere a posibilităților de tranzacționare prin introducerea produsului de 15 minute pe Piața intrazilnică de energie electrică.</p>
+<p> Ziua de tranzacționare 31.01.2021, începand cu ora 15:00 CET, va fi prima zi în care va fi posibilă tranzacționarea contractelor de 15 minute ca urmare a aplicării intervalului de decontare de 15 minute începând cu data de 1 februarie 2021 conform Ordinului președintelui ANRE nr. 230/16.12.2020. Posibilitatea de tranzacționare locală a produsului de 15 minute va fi disponibilă până la introducerea respectivei granularități pe interconexiunea RO-HU, moment de la care ambele produse, de 15 și respectiv 60 de minute, vor fi tranzacționate exclusiv în regim cuplat, în cadrul Cuplării unice a piețelor pentru ziua următoare (SIDC, Single Intra-Day Coupling).</p>
+<p> Pentru testarea produsului de 15 minute OPCOM a pus la dispoziția participanților mediul de simulare disponibil permanent la adresa <u>https://portal-simu.m7.energy/xrpm/simu/</u>, credențialele de acces rămânând neschimbate față de momentul lansării în funcționare în regim cuplat în luna noiembrie 2019 (sau ulterior, după caz).</p>
+<p> În mediul de productie, ziua de livrare 01.02.2021 va fi prima zi în care notificările vor fi realizate la 15 minute, respectiv Notificarile fizice vor conține serii de timp cu 96 de intervale de sfert de oră (respectiv 92/100 în zilele de schimbare a orei).</p>
+<p> Notificările fizice se vor realiza în continuare în ora anterioară livrării și ulterioară momentului în care s-a încheiat tranzacționarea pe contractul care va intra în livrare, considerând ziua de livrare în ore EET (ora României), și vor contine:</p>
+<ul>
+ <li>Pentru produsul de 15 minute, tranzacțiile încheiate pe contractele astfel definite (de exemplu, o tranzacție de 100 MW pentru intervalul 13:00-13:15 va fi notificată întocmai, însă în ore EET);</li>
+ <li>Pentru produsele de 60 minute, tranzacțiile încheiate pe contractele astfel definite (de exemplu, o tranzacție de 100 MW pentru intervalul 13:00-14:00 va fi notificată pentru următoarele 4 sferturi de oră, însă în ore EET: 13:00-13:15 -&gt; 100 MW, 13:15-13:30 -&gt; 100 MW, 13:30-13:45 -&gt; 100 MW si 13:45-14:00 -&gt; 100 MW).</li>
+</ul>
+<p>Calculul garanției de validare disponibilă pentru ofertele de cumpărare la prețuri pozitive și/sau ofertele de vânzare la prețuri negative va lua în considerare Notele de Decontare rezultate prin aplicarea intervalului de decontare de 15 minute și nu va exista niciun alt impact asupra acestui proces.</p>
+<p> Introducerea la tranzacționare a produsului de 15 minute nu va avea niciun efect asupra mecanismului de încasări și plăți, respectiv a mandatelor de direct debit&nbsp;și a scrisorilor de garanție bancară.</p>
+<p> Testarea sistemului post-tranzactionare în contextul trecerii la intervalul de decontare de 15 minute poate fi facută la adresa <u>http://testm7pt.opcom.ro</u>, numele de utilizator fiind similar celui din producție (de tipul abcd1usr), parola urmand a fi resetată de fiecare participant individual. Așa cum a fost anunțat anterior, OPCOM a lansat în trimestrul IV 2020 o versiune îmbunătățită a platformei post-tranzacționare, bazată pe tehnologii moderne, cu interfața utilizator caracterizată de un grad de siguranță și rapiditate îmbunătățit, dotată cu API ce permite automatizarea activității participanților la Piața intrazilnică de energie electrică.</p>
+<p> Totodată, OPCOM va oferi în cel mai scurt timp posibil acces la interfața de mesaje a sistemului M7 Trading pentru Piața intrazilnică de energie electrică (&quot;API&quot;), atât participanților cât și altor părți interesate, în condițiile stabilirii termenilor și condițiilor generale aferente furnizării acestui serviciu. Accesul la API va fi permis de OPCOM condiționat de:</p>
+<ul>
+ <li>parcurgerea cu succes a sesiunilor de testare efectuate de OPCOM, în cadrul cărora solicitantul va fi obligat să demonstreze că aplicatia / sistemul său nu va avea niciun efect negativ asupra sistemului M7 Trading sau pieței intrazilnice administrată de OPCOM&nbsp;;</li>
+ <li>semnarea Acordului de utilizare a API;</li>
+ <li>plata tarifelor aplicabile  pentru accesul la API. </li>
+</ul>
+<p>În ceea ce privește regulile aplicabile, OPCOM informează participanții la piață că a fost publicat în consultare pachetul de reguli aferent Pieței intrazilnice de energie electrică actualizat în vederea funcționării începând cu data de 01.02.2021 în conformitate cu Ordinul președintelui ANRE nr. 230/16.12.2021, alte prevederi naționale sau europene aplicabile, respectiv:</p>
+<ul>
+ <li>Procedura privind funcţionarea Pieţei intrazilnice de energie electrică;</li>
+ <li>Convenţia de participare la Piaţa intrazilnică de energie electrică; </li>
+ <li>Procedura privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică;</li>
+ <li>Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică.</li>
+</ul>
+<p>Având în vedere cele prezentate, OPCOM adresează și pe această cale participanților înregistrați la Piata intrazilnică de energie electrică, respectiv părților responsabile cu echilibrarea, invitația de a participa la activitatea de testare în mediile puse la dispoziție (tranzacționare și post-tranzacționare) în perspectiva aplicării intervalului de decontare de 15 minute începând cu data de 1 februarie 2021.</p>
+Prezentarea transmisă prin e-mail tuturor participanților la Piața intrazilnică de energie electrică, cuprinzând informații aferente tranzacționării la 15 minute, este disponibilă <a href="/uploads/doc/PI/SIDC/prezentare produs 15 minute_RO_2021.pdf" target="_blank">aici</a>, pentru orice întrebări sau solicitări de informații suplimentare fiind pusă la dispoziția participanților la piață și altor părți interesate adresa generică <u>intra_day@opcom.ro</u>.</li></br><li><p><strong>19.01.2021</strong></p>
+<p>OPCOM supune consultării publice <a href="/uploads/doc/PI/SIDC/Conventie PI_ XBID_r4 clean.pdf" target="_blank">Convenţia  de participare</a> la Piaţa intrazilnică de energie electrică, <a href="/uploads/doc/PI/SIDC/Procedura functionare PI-SIDC_r4 clean.pdf" target="_blank">Procedura</a> privind funcţionarea pieţei intrazilnice de energie electrică, <a href="/uploads/doc/PI/SIDC/Procedura  privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică rev. 6.pdf" target="_blank">Procedura</a> privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de  energie electrică, și <a href="/uploads/doc/PI/SIDC/Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică rev.5.pdf" target="_blank">Procedura</a> privind constituirea, verificarea și  utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de  energie electrică.</p>
+<p>Propunerile dumneavoastră se transmit la adresa <u>idmarket@opcom.ro</u>, în format letric,  asumate de reprezentantul legal al companiei, și în format editabil (word) până  în data de <strong>29.01.2021</strong>.</p>
+</li></br><li><p><strong>15.11.2019<br />
+    Stimati Participanti la Piata Intrazilnica de energie electrica, </strong></p>
+<p>Prin prezenta informare, OPCOM doreste sa detalieze reperele procesului de alăturare a României, împreună cu alte șase țări, celor paisprezece țări care funcționează deja în regim cuplat la nivelul Cuplarii unice a pietelor intrazilnice (Single Intra-Day Market, SIDC conform Regulamentul (UE) 2015/1222 al Comisiei din 24 iulie 2015 de stabilire a unor linii directoare privind alocarea capacităților și gestionarea congestiilor), proces care se va desfasura in data de 19.11.2019, respectiv la o saptamana dupa lansarea in functionare, in data de 12.11.2019, cu efecte comerciale, a pietei intrazilnice de energie electrica din Romania in conformitate cu legislatia in domeniu a Uniunii Europene si legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin ordine si decizii ale presedintelui ANRE. Astfel:</p>
+<ul>
+ <li><strong>Ziua de tranzactionare 19.11.2019, incepand cu  ora 15:00 CET va fi prima zi de tranzactionare pentru ziua de livrare 20.11.2019  in mecanism cuplat al pietei intrazilnice de energie electrica din Romania</strong> (Romania impreuna cu Bulgaria, Croatia, Republica Cehă, Ungaria,  Polonia, Slovenia, Austria, Belgia, Danemarca, Estonia, Finlanda, Franța,  Germania, Letonia, Lituania, Norvegia, Olanda, Portugalia, Spania și Suedia)  avand la baza noul sistem de tranzactionare M7 Trading si noile reguli de  tranzactionare conforme cu legislatia in domeniu a Uniunii Europene si  legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru  Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin  ordine si decizii ale presedintelui ANRE.</li>
+ <li><strong>Ziua de livrare 19.11.2019 va fi ultima zi de livrare pe Piata intrazilnica de energie electrica functionand izolat, iar incepand cu ziua de livrare 20.11.2019 OPCOM va deveni parte operationala in Cuplarea unica a pietelor intrazilnice, facilitand participantilor la Piata intrazilnica din Romania tranzactionarea transfrontaliera a energiei electrice.</strong>
+ <br />
+ Prin extinderea funcționării la nivel european a pieței intrazilnice din Romania (cu titlu de exemplu ofertele introduse in piata din Romania se vor putea tranzactiona cu cele introduse in oricare din pietele functionale in celelalte 20 de tari, in limita capacitatii de transfer transfrontaliere disponibile) și adoptarea soluției unice europene, este de așteptat să crească lichiditatea pieței intrazilnice, conducand la diminuarea ponderii pieței de echilibrare și echilibrarea mai exacta si aproape de timpul real a participanților, utilizarea mai bună a capacității și resurselor de producere, utilizarea optimă a capacității de transport transfrontaliere și nu în ultimul rând, ca o consecință indirectă, creșterea siguranței în alimentare a consumatorilor din România.
+ </li>
+ <li>Datorita necesitatii realizarii operatiunilor de conectare coordonata a sistemelor locale de tranzactionare la sistemul IT comun central, in care se administreaza un registru unic de oferte din toate pietele si un modul de management al capacităților, respectiv a platformei M7 Trading care deserveste piata intrazilnica de energie electrica incepand cu data de 12.11.2019, <strong>tranzactionarea pentru ziua de livrare 19.11.2019 va fi mai scurta, respectiv se va desfasura incepand din ziua de 18.11.2019, ora 15:00 CET, pana in ziua de 19.11.2019, ora 10:00 am CET, ceea ce inseamna ca tranzactionarea pentru intervalele orare 13-24 ale zilei de livrare 19.11.2019 va fi posibila pana la ora 10 am CET din ziua de 19.11.2019.</strong></li>
+ <li>Subliniem faptul ca incepand cu ziua de 19.11.2019 ora 15:00 CET, ca ora de deschidere a tranzactionarii pentru ziua de livrare 20.11.2019, va fi disponibilizata de catre operatorii de transport si de sistem si capacitatea transfrontaliera pe granitele dintre cele 21 tari care vor functiona in regim cuplat, matricea ATC facuta disponibila pentru cuplarea pietelor intrazilnice de energie electrica, inclusiv pentru granitele RO-HU si RO-BG, fiind disponibila in noul sistem de tranzactionare M7 Trading.</li>
+ <li><strong>Reamintim ca produsele si contractele care vor fi disponibile pentru tranzactionare incepand cu ziua de livrare 20.11.2019 sunt cele mentionate in anexa 1 la Procedura privind funcţionarea Pieţei intrazilnice de energie electrică.</strong></li>
+ <li>Garanția de validare disponibilă pentru ofertele de cumpărare la prețuri pozitive și/sau ofertele de vânzare la prețuri negative introduse in noul sistem de tranzactionare M7 Trading, în sesiunea de tranzacționare care se va deschide in regim cuplat in ziua de 19.11.2019 la ora 15:00 CET, pentru ziua de livrare 20.11.2019, va lua in considerare Notele de Decontare elaborate pentru zilele de livrare 18.11.2019 si 19.11.2019, ultimele zile pentru care tranzacţionarea se va incheia pe piata intrazilnica de energie electrica din Romania functionand in mecanism necuplat la XBID.</li>
+ <li>Nu va exista niciun impact asupra mandatelor de direct debit care își mențin valabilitatea în contextul trecerii la functionare cuplata. De asemenea, garantia de validare disponibilă pentru ofertele de cumpărare la prețuri pozitive și/sau ofertele de vânzare la prețuri negative introduse in noul sistem de tranzactionare M7 Trading va fi calculata asa cum se intampla incepand cu tranzactionarea pentru ziua de livrare 13.11.2019 in EUR utilizand Cursul de schimb publicat de BNR in ziua in care se deschide procesul de ofertare și tranzacționare pentru contractele aferente zilei de livrare următoare. Pentru zilele de livrare sambata, duminica si luni, in vederea determinarii valorii garantiei de validare disponibilă in EUR se va considera Cursul de schimb publicat de BNR in ziua de vineri, in timp ce pentru orice alte situatii se va utiliza ultimul curs de schimb publicat de BNR.</li>
+ <li>Reamintim ca Notificările fizice se realizează în ora anterioara livrarii si ulterioara momentului in care s-a incheiat tranzactionarea pe contractul care va intra in livrare, considerând ziua de livrare în ora EET (ora României).</li>
+</ul>
+<p>Credentialele de acces la sistemul de tranzactionare M7 Trading, precum si la sistemul post-tranzactionare au fost transmise tuturor Participantilor la Piata intrazilnica si nu se modifica in contextul cuplarii din data de 19 noiembrie.
+<br />
+Toate documentele publice pe website-ul OPCOM la adresa Piața Intrazilnică - Înregistrare, Convenţie, Proceduri, Instrucţiuni isi mentin actualitatea, respectiv:
+</p>
+
+<ol class="list_num">
+ <li>ORDIN ANRE nr. 202/11.11.2019 pentru modificarea Regulamentului de programare a unităților de producție și a consumatorilor dispecerizabili aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 32/2013 și pentru abrogarea Regulamentului de organizare şi funcţionare a pieţei intrazilnice de energie electrică aprobat cu Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr.73/2013;</li>
+ <li>AVIZ ANRE nr.89/11.11.2019 privind avizarea de catre ANRE a Procedurii privind funcționarea Pieței intrazilnice de energie electrică elaborate de Operatorul pieței de energie electrică și de gaze naturale din România “Opcom” - S.A.;</li>
+ <li>Convenţia de participare la Piaţa intrazilnică de energie electrică;</li>
+ <li>Procedura privind funcţionarea Pieţei intrazilnice de energie electrică;</li>
+ <li>Procedura privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică;</li>
+ <li>Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică;</li>
+ <li>Manualul participantului la piață pentru sistemul M7 Trading (MFG110);</li>
+ <li>Documentul cu instrucțiuni detaliate pentru a accesa ComTrader (mediul de productie);</li>
+ <li>Ghidul de instalare a aplicatiei ComTrader pentru sistemul M7 Trading;</li>
+ <li>Instructiuni pentru accesul la sistemul post-tranzactionare M7 Trading.</li>
+ <li>Noile Modele de Scrisori de garantie bancara si amendamentele la acestea pentru tranzactiile din PZU si PI;</li>
+ <li>IBAN cont central pentru Piaţa Intra-zilnică: RO 94 RNCB 007 402 921 737 0081;</li>
+ <li>Lista institutiilor bancare care au adoptat Schema de debitare directa B2B SEPA RON;</li>
+ <li>Lista băncilor care au încheiat acte adiţionale la convenţiile cu BCR pentru emiterea scrisorilor de garanţie bancară necesare tranzacţiilor pe PI;</li>
+ <li>Procedura privind înregistrarea participanţilor la pieţele centralizate de energie electrică administrate de OPCOM S.A.;</li>
+ <li>Act Aditional la Conventia de participare la piata – model pentru consemnarea modificarii datelor de identificare al participantilor la piata.</li>
+</ol>
+<p>Pentru orice neclaritati va rugam sa ne transmiteti intrebarile si comentariile dumneavoastra la adresa idmarket@opcom.ro. <br/><br/><hr></p>
+</li></br><li><p><strong>11.11.2019<br />
+    Stimati participanti la Piata Intrazilnica de energie electrica, </strong></p>
+<p>Prin prezenta informare, OPCOM doreste sa detalieze reperele procesului de lansare in functionare, cu efecte comerciale, a pietei intrazilnice de energie electrica din Romania in conformitate cu legislatia in domeniu a Uniunii Europene si legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin ordine si decizii ale presedintelui ANRE. Astfel:</p>
+<ul>
+ <li><strong>Ziua de marti, 12.11.2019 incepand cu ora 00:00 EET, va fi ultima zi de tranzactionare pe Piata intrazilnica de energie electrica, pentru ziua de livrare 12.11.2019, avand la baza regulile de tranzactionare actuale si sistemul actual de tranzactionare</strong>. </li>
+</ul>
+<p>Datorita necesitatii realizarii operatiunilor de migrare de pe platforma actuala a procesului de tranzactionare pe platforma <strong>M7 Trading</strong> care va deservi piata intrazilnica de energie electrica din Romania functionand in conformitate cu legislatia in domeniu a Uniunii Europene si legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin ordine si decizii ale presedintelui ANRE, <strong>tranzactionarea pentru ziua de livrare 12.11.2019, pe actuala platforma de tranzactionare, se va desfasura incepand din ziua de 11.11.2019, ora 19:00 EET, pana in ziua de 12.11.2019, ora 12:00 pm EET </strong>(cu intervalul 22:30-24:00 din ziua de 11.11.2019 dedicat mentenantei sistemului actual de tranzactionare si restartarea acestuia pentru incarcarea urmatoarei zile de tranzactionare, 12.11.2019, care se va incheia in mod exceptional, in aceasta zi de trecere de la actualul sistem de tranzactionare la ora 12:00 pm EET).</p>
+<ul>
+ <li>Ziua de livrare 12.11.2019 va contine 25 de intervale. Intervalele orare 1-24 EET se vor tranzactiona avand la baza regulile de tranzactionare actuale si sistemul actual de tranzactionare, conform calendarului orar prezentat anterior. <strong>Intervalul orar 25 EET din ziua de livrare 12.11.2019, ca interval de trecere de la EET la CET, respectiv intervalul orar 24 CET din ziua de livrare 12.11.2019, se va tranzactiona avand la baza noul sistem de tranzactionare M7 Trading si noile reguli de tranzactionare</strong></li>
+ <li><strong>Ziua de tranzactionare 12.11.2019, incepand cu ora 15:00 pm CET va fi prima zi de tranzactionare pentru ziua de livrare 13.11.2019 avand la baza noul sistem de tranzactionare M7 Trading si noile reguli de tranzactionare</strong> conforme cu legislatia in domeniu a Uniunii Europene si legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin ordine si decizii ale presedintelui ANRE. Incepand cu aceasta zi de livrare, 13.11.2019, intervalele de tranzactionare si livrare se raporteaza la ore CET.</li>
+ <li>Garanția de validare disponibilă pentru ofertele de cumpărare la prețuri pozitive și/sau ofertele de vânzare la prețuri negative introduse in noul sistem de tranzactionare <strong>M7 Trading</strong>, în sesiunea de tranzacționare care se va deschide in ziua de 12.11.2019 la ora 15:00 pm CET, pentru ziua de livrare 13.11.2019, va lua in considerare Notele de Decontare elaborate pentru zilele de livrare 11.11.2019 si 12.11.2019, ultimele zile pentru care tranzacţionarea se va incheia pe baza regulilor de tranzactionare si a sistemului de tranzactionare aplicabil pana la data de 12.11.2019. Actualele mandate de direct debit își mențin valabilitatea în contextul trecerii la noul sistem de tranzactionare <strong>M7 Trading</strong> si noile reguli de tranzactionare conforme cu legislatia in domeniu a Uniunii Europene si legislatia secundara subsecventa aprobata prin decizii ale Agentiei pentru Cooperarea Autoritatilor de Reglementare in domeniul Energiei, respectiv prin ordine si decizii ale presedintelui ANRE.</li>
+ <li>Reamintim ca incepand cu ziua de livrare 13.11.2019, incluzand intervalul orar 24 CET din ziua de livrare 12.11.2019, ofertarea si tranzactionarea se va realiza in EUR si se raporteaza la ore CET. De asemenea, garantia de validare disponibilă pentru ofertele de cumpărare la prețuri pozitive și/sau ofertele de vânzare la prețuri negative introduse in noul sistem de tranzactionare <strong>M7 Trading </strong>va fi calculata in EUR utilizand Cursul de schimb publicat de BNR in ziua in care se deschide procesul de ofertare și tranzacționare pentru contractele aferente zilei de livrare următoare. Pentru zilele de livrare sambata, duminica si luni, in vederea determinarii valorii garantiei de validare disponibilă in EUR se va considera Cursul de schimb publicat de BNR in ziua de vineri, in timp ce pentru orice alte situatii se va utiliza ultimul curs de schimb publicat de BNR.</li>
+ <li>Reamintim ca Notificările fizice se realizează în ora anterioara livrarii si ulterioara momentului in care s-a incheiat tranzactionarea pe contractul care va intra in livrare, considerând ziua de livrare în ora EET (ora României). </li>
+</ul>
+<p>Credentialele de acces la sistemul de tranzactionare M7 Trading, precum si la sistemul post-tranzactionare au fost transmise fiecarui participant la Piata intrazilnica la adresa de email indicata ca raspuns scrisorile OPCOM transmise in ultima saptamana a lunii octombrie 2019. <br>
+Rugam participantii la Piata intrazilnica care nu au transmis pana in acest moment o adresa de email pentru transmiterea credentialelor sa faca acest lucru cu maxima celeritate. In caz contrar, acestia se vor afla in imposibilitatea de a accesa noul sistem de tranzactionare pentru Piata intrazilnica de energie electrica M7 Trading care va intra in functionare comerciala incepand cu data de 12.11.2019. Actualul sistem de tranzactionare pe PI va fi scos din utilizare comerciala pentru Piata Intrazilnica de energie electrica incepand cu data de 12.11.2019, ora 12:00 pm EET.</p>
+<p>Totodata, OPCOM informează participanții la piață că în urma consultării publice referitoare la Conventia si procedurile pentru Piata intrazilnica de energie electrica actualizate in vederea funcționării începând cu 12.11.2019 a pieței intrazilnice de energie electrică conform cu legislația în domeniu a Uniunii Europene și legislația secundară subsecventă aprobată prin decizii ale Agenției pentru Cooperarea Autorităților de Reglementare în domeniul Energiei, respectiv prin ordine și decizii ale președintelui ANRE, nu au fost primite propuneri de amendare formulate de participanții la piață și pe cale de consecință publică forma aplicabilă a următoarelor documente:<br>
+- Convenţia de participare la Piaţa intrazilnică de energie electrică; <br>
+- Procedura privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică;<br>
+- Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică.</p>
+<p>În ceea ce privește Procedura privind funcţionarea Pieţei intrazilnice de energie electrică, aceasta a fost completată, pentru mai multa claritate, în urma discuțiilor cu Autoritatea competenta, forma aplicabila, care va face obiectul avizării de către Autoritatea Nationala de Reglementare in domeniul Energiei, urmand a fi publicata in cel mai scurt timp. </p>
+<p>Urmatoarele documente vor fi aplicabile in functionarea Pietei intrazilnice de energie electrica din Romania incepand cu data de 12.11.2019:</p>
+<ol class="list_num">
+ <li><a href="/uploads/doc/PI/M7_Trading/1_Ordin ANRE 202 11.11.2019.pdf" target="new">ORDIN ANRE nr. 202/11.11.2019</a> pentru modificarea  Regulamentului de programare a unităților de producție și a consumatorilor  dispecerizabili aprobat prin Ordinul președintelui Autorității Naționale de  Reglementare în Domeniul Energiei nr. 32/2013 și pentru abrogarea Regulamentului  de organizare şi funcţionare a pieţei intrazilnice de energie electrică aprobat  cu Ordinul președintelui Autorității Naționale de Reglementare în Domeniul  Energiei nr.73/2013;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/4_Procedura privind functionarea PI EE_11.11.2019.pdf" target="new">AVIZ ANRE nr.89/11.11.2019</a> privind avizarea de catre ANRE a Procedurii privind funcționarea Pieței intrazilnice de energie electrică elaborate de Operatorul pieței de energie electrică și de gaze naturale din România &ldquo;Opcom&rdquo; - S.A.,</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/3_Conventie PI_ XBID_25.10.2019.pdf" target="new">Convenţia de participare</a> la Piaţa intrazilnică de energie electrică;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/4_Procedura privind functionarea PI EE_11.11.2019.pdf" target="new">Procedura</a> privind funcţionarea Pieţei intrazilnice de energie electrică;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/5_PO Incasari Plati PI_24_10_2019.pdf" target="new">Procedura</a> privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/6_PO_Gar_PI_XBID.pdf" target="new">Procedura</a> privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/7_Manualul participantului la piață pentru sistemul M7 Trading (MFG110)_RO.pdf" target="new">Manualul participantului</a> la piață pentru sistemul M7 Trading (MFG110);</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/8_Instructions to access ComTrader Prod.pdf" target="new">Documentul</a> cu instrucțiuni detaliate pentru a accesa ComTrader (mediul de productie);</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/9_OPCOM_Detailed ComTrader Setup Guide_v1.pdf" target="new">Ghidul de instalare</a> a aplicatiei ComTrader pentru sistemul M7 Trading;</li>
+ <li><a href="/uploads/doc/PI/M7_Trading/10_Instructiuni pentru accesul la sistemul post-tranzactionare M7 (PROD RO).pdf" target="new">Instructiuni</a> pentru accesul la sistemul post-tranzactionare M7 Trading.</li>
+</ol>
+<p>Pentru orice neclaritati va rugam sa ne transmiteti intrebarile si comentariile dumneavoastra la adresa idmarket@opcom.ro.<br/><br/><hr></p>
+</li></br><li><b>08.11.2019</b><br/> <a href="/uploads/doc/OPEED-NEMO/Instructiuni pentru accesul la sistemul post-tranzactionare M7 (PROD RO).pdf" target=new>Instructiuni</a> pentru accesul la sistemul post-tranzactionare M7 Trading</li></br><li><b>25.10.2019</b><br/>
+<ul type="disc">
+  <li>OPCOM supune consultării publice <a href="/uploads/doc/PI/Consultare/Conventie PI_ XBID_25.10.2019.pdf" target="new">Convenţia de participare</a> la Piaţa intrazilnică de energie electrică și <a href="/uploads/doc/PI/Consultare/PO_Gar_PI_XBID.pdf" target="new">Procedura</a> privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică.</li>
+</ul>
+Propunerile dumneavoastră se transmit la adresa <u><font color='blue'>idmarket@opcom.ro</font></u>, în format letric, asumate de reprezentantul legal al companiei, și în format editabil (word) până în data de 30.10.2019.</li></br><li><b>25.10.2019</b><br/> <a href="/anunturi-stiri/ro/290">Ghidul de instalare</a> a aplicatiei ComTrader pentru sistemul M7 Trading (MFG110).</li></br><li><a href="/anunturi-stiri/ro/290"><strong>24.10.2019</strong> – Consultare publică a Procedurii privind funcţionarea Pieţei intrazilnice de energie electrică și a Procedurii privind încasările și plăţile aferente tranzacţiilor pe Piaţa Intrazilnică de energie electrică”</a></li></br><li><b>24.10.2019</b><br/> <a href="/anunturi-stiri/ro/290">OPCOM publică versiunea in limba română a documentului “Manualul participantului la piață pentru sistemul M7 Trading (MFG110)”</a></li></br><li><b>21.10.2019</b><br/> <a href="/anunturi-stiri/ro/171">Reamintim că astăzi, 21.10.2019, începe perioada de funcționare experimentală în XBID/SIDC</a></li></br><li><b>15.10.2019</b><br/> <a href="/tranzactii-produse/ro/290">Publicarea documentului “Întrebări și răspunsuri referitoare la activitățile în desfășurare de implementare și lansare în funcționare comercială a noii platforme de tranzacționare pentru Piața Intrazilnică M7 Trading”</a></li></br><li><b>15.10.2019</b><br/> <a href="/tranzactii-produse/ro/290">Organizarea celei de-a 4-a sesiuni de “Instruire referitoare la sistemul de tranzacționare M7, noua soluție de tranzacționare pentru Piața Intrazilnică”</a></li></br><li><b>14.10.2019</b><br/> <a href="/tranzactii-produse/ro/290">Sesiuni de instruire a participanților la piață privind sistemul de tranzacționare M7, noua soluție de tranzacționare pentru Piața Intrazilnică</a></li></br><li><b>02.10.2019</b><br/> <a href="/tranzactii-produse/ro/290">Cuplarea unică a piețelor intrazilnice (SIDC) - evenimentul de pre-lansare a celui de al 2-lea val</a></li></br><li><a href="/anunturi-stiri/ro/121">Lansarea perioadei de funcționare experimentală a noii soluții de tranzacționare locală - M7 Trading - pentru Piața Intrazilnică</a></li></br><li><b>13.09.2019</b><br/> <a href="/tranzactii-produse/ro/290">Cuplarea unică a piețelor intrazilnice (SIDC) - principii de bază cu privire la perioada de funcționare experimentală</a></li></br><li><p><strong>05.09.2019</strong><br>
+  <strong>IMPORTANT</strong>: OPCOM supune consultării publice  următoarele documente privind PI actualizate în conformitate cu Ordinul ANRE  nr. 178/2019:<br>
+  &rdquo;<a href="/uploads/doc/PI/Consultare/05.09.2019_Conventie PI_ Ordin 178_2019 clean.doc" target="new">Convenţia</a> de participare la Piaţa Intrazilnică de energie electrică, revizia 2;<br>
+  <a href="/uploads/doc/PI/Consultare/P_Funct_PI_O-178_clean (002).doc" target="new">Procedura</a> privind funcţionarea Pieţei Intrazilnice de energie electrică, revizia 2;</p>
+<p>Așteptăm observațiile și/sau  propunerile dumneavoastră la adresa de e-mail <a href="mailto:Intra_day@opcom.ro">Intra_day@opcom.ro</a> pâna la data  de <strong>15.09.2019</strong>.</p>
+<p><a href="/uploads/doc/PI/Consultare/PO_Gar_PI_ sept.2019 clean.docx" target="new">Procedura</a> privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața Intrazilnică de energie electrică, revizia 3;<br>
+  <a href="/uploads/doc/PI/Consultare/PO_Incas_Plati_PI_sept.2019.docx" target="new">Procedura</a> privind încasările și plățile aferente tranzacțiilor pe Piața Intrazilnică de energie electrică, revizia 4”</p>
+<p>Așteptăm observațiile și/sau  propunerile dumneavoastră la adresa de e-mail <a href="mailto:decontare@opcom.ro">decontare@opcom.ro</a> pâna la data de <strong>15.09.2019</strong>.</p>
+<p>&nbsp;</p>
+<p>Totodată va informăm că OPCOM supune  consultării publice și &bdquo;<a href="/uploads/doc/Consultanta/Procedura de inregistrare la PE actualizare SSG DTTS DTTC 05.09.2019.docx" target="new">Procedura</a> privind înregistrarea  participanților la piețele centralizate de energie electrică administrate de  OPCOM S.A.&rdquo;, conform Ordinului ANRE nr. 178/2019. </p>
+<p>Așteptăm observațiile și/sau  propunerile dumneavoastră la adresele de e-mail: <a href="mailto:llupului@opcom.ro">llupului@opcom.ro</a> și <a href="mailto:imanicuta@opcom.ro">imanicuta@opcom.ro</a> pâna la data  de <strong>15.09.2019</strong>.</p>
+</li></br><li><p><strong>IMPORTANT</strong>: Informare privind implementarea mecanismului de corelare continuă pe P.I. începând cu data de 15.01.2014</p>
+<p>Ca urmare a avizării de  către ANRE în ședința Comitetului de Reglementare din 10.01.2014, a  documentelor aferente funcționării Pieței Intrazilnice de energie electrică, actualizate  pentru implementarea mecanismului de tranzacționare prin corelare continuă  începând cu 15.01.2013, mecanismul actual de tranzacționare prin licitație  deschisă se va înlocui cu mecanismul de tranzacționare prin corelare continuă  pentru tranzacționarea pe Piața Intrazilnică de energie electrică începând cu  data de 15.01.2014 - prima zi de tranzacționare, respectiv 16.01.2014 - prima  zi de livrare, ca urmare a aplicării prevederilor:</p>
+<ul>
+  <li>Ordinului nr. 73/10.10.2013 privind aprobarea Regulamentului de organizare şi funcţionare a pieţei intrazilnice de energie electrică;</li>
+  <li>Avizului nr. 1/10.01.2014 privind avizarea Convenției de participare la piața  intrazilnică de energie electrică;</li>
+  <li>Avizului nr. 2/10.01.2014 privind avizarea Procedurii privind funcționarea pieței  intrazilnice de energie electrică;</li>
+  <li>Avizului nr. 3/10.01.2014 privind avizarea Procedurii privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la piața intrazilnică de energie electrică;</li>
+  <li>Avizului nr. 4/10.01.2014 privind avizarea Procedurii privind încasările și plățile aferente tranzacțiilor pe piața intrazilnică de energie electrică.</li>
+</ul>
+<p>Documentele aferente funcționării Pieței Intrazilnice au fost publicate la rubrica <em>Tranzacționare–Produse/Piața Intra-zilnică/<a href="/tranzactii-produse/ro/163">Înregistrare, Convenție, Proceduri</a></em></p></li></br><li><strong>31.07.2013</strong>: În perspectiva implementării mecanismului de corelare continuă pe Piața Intrazilnică (termen încă neprecizat de ANRE), începând cu 1 august 2013 se organizează sesiune de test pentru Piața  Intrazilnică cu mecanismul de tranzacționare prin corelare continuă, în fiecare  zi lucrătoare. <strong>Programul</strong> de simulare este publicat la adresa <em><a style="COLOR: #4e8781" href="anunturi_stiri.php?lang=ro&id=121">Anunțuri – Știri / Funcționare  experimentală, teste / Piața Intra-zilnică (PI) / Program</a></em>, iar &bdquo;<strong>Ghidul  Participantului</strong> la Piaţa Intrazilnică, Etapa IV – Mecanismul de corelare continuă&rdquo;  este accesibil la adresa <em><a style="COLOR: #4e8781" href="anunturi_stiri.php?lang=ro&id=171">Anunțuri – Știri / Funcționare experimentală, teste / Piața Intra-zilnică (PI) / Ghid de utilizare</a></em>.</li></br><li><p>BNR a declarat ziua de 3 ianuarie 2012 zi nebancara, conform  art. 1 al Circularei nr. 43/7.12.2011.
+    Pe cale de consecinta, IDD emise pentru tranzactiile din PI vor avea urmatoarele scadente:<br>
+    - IDD emise in 30 decembrie 2011:
+<li STYLE="list-style-position: inside">Pentru participantii care au conturile de direct debit deschise la Banca Cont Central (BCR) – 4 ianuarie 2012</li>
+<li STYLE="list-style-position: inside">Pentru participantii care au conturile de direct debit deschise la alte banci decat Banca Cont Central – 5 ianuarie 2012</li>
+  - Pentru zilele de livrare: 31 decembrie 2011, 1 ianuarie 2012, 2 ianuarie 2012, 3 ianuarie 2012 si 4 ianuarie 2012 se vor emite IDD in ziua de 4 ianuarie 2012 cu urmatoarea scadenta:<br>
+<li STYLE="list-style-position: inside">Pentru participantii care au conturile de direct debit deschise la Banca Cont Central (BCR) – 5 ianuarie 2012</li>
+ <li STYLE="list-style-position: inside">Pentru participantii care au conturile de direct debit deschise la alte banci decat Banca Cont Central – 6 ianuarie 2012</li>
+<br>-----------------------------------------
+</p></li></br><li><p>
+Prin Avizul ANRE nr. 28/14.07.2011 a fost aprobat setul de documente  privind cadrul de funcţionare al Pieţei Intra-zilnice de energie electrică,  inclusiv Convenţia de participare la Piaţa Intra-zilnică.
+<br/>
+Începând cu data de 18.07.2011, participanţii la piaţă pot solicita  înscrierea la această piaţă în conformitate cu cadrul de reglementare aprobat şi pot depune documentele necesare în vederea înregistrării pentru a putea participa la sesiunile de tranzacţionare începând cu data de 25.07.2011.
+</p></li></br></ul>	
+	</div>
+    <div id="dreapta">  <!--stiri opcom, comunicate, anunturi piete-->
+		
+		<div id="stiri_piete">
+    	  <div class="titlustiri"><span class="tit2"> Anun&#x163;uri</span>
+		  </div>
+ 
+		<!-- &emsp;&emsp;&emsp;<a href="/pp/img/bradfelicitare.jpg" target="new"><img src="/pp/img/lma_site_anunt.png" /></a> --> 
+		<div class="scrollbar">
+		
+		<table width="94%" height="100%" id="an_piete" cellspacing="0" cellpadding="0" >
+      <tr align="left" ></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/10/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1">În conformitate cu prevederile Ordinului ANRE nr. 15/2022, OPCOM publică prețul mediu ponderat înregistrat pe Piața pentru Ziua Următoare pentru luna septembrie 2026, în valoare de 917,36 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">23/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru alocarea de cont suplimentar de acces la sistemului M7 Trading (ComTrader) pentru Piața Intrazilnică de energie electrică începând cu data de 01.10.2026. Facturarea și termenele de plată ale tarifului aferent unui cont suplimentar PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1">În conformitate cu prevederile Ordinului ANRE nr. 15/2022, OPCOM publică prețul mediu ponderat înregistrat pe piața pentru ziua următoare pentru luna august 2026, în valoare de 793,19 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">12/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">05/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><p><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></p></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">31/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1"><b>IMPORTANT!</b> A fost publicata <em>Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru PZU și PI actualizată cu introducerea posibilității constituirii garanției sub forma unui depozit în numerar</em></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">16/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului M7 Trading pentru Piața Intrazilnică de energie electrică API (tarif API-PI) în perioada 01.08.2026-31.12.2026. Facturarea și termenele de plată a tarifului API-PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">10/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pzu/ro/2">OPCOM supune consultării publice <em>Procedura operațională privind funcționarea Pieței pentru Ziua Următoare de energie electrică</em>, modificată în contextul implementarii mecanismului de Alocare a volumelor la prețul SDAC</a></div></td></tr></table><script>
+// var table = jQuery("#stiri_piete .scrollbar table tr a:nth-child(2)");
+
+// jQuery(table).each(function(index, z){
+// 	//console.log(index + " / "+ jQuery(z).attr("href") );
+// // 	console.log(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php") );
+// 	if(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php")){
+// 		console.log(jQuery(z).attr("href"));
+		
+		
+// 	}
+	
+// 	//tranzactii-rezultate/
+// // 	return false;
+// });
+
+
+</script></div></div> <!--stiri_piete-->
+        
+        <div id="com">
+			
+		<div class="titlustiri">
+            <span class="tit2"> Comunicate de presă</span>
+          </div>
+<div class="scrollbar" style="height: 125px;"><table width="94%" border="0" cellspacing="0" cellpadding="2" align="left"><tr><td class="stire1"><div class="capstire1">01/10/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1479/1">Record de tranzacționare pe Piața pentru Ziua Următoare operată de OPEM – 7.428 MWh tranzacționați pentru ziua de livrare 2 octombrie 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">28/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1476/1">Record de tranzacționare pe Piața pentru Ziua Următoare - 62.552 MWh tranzacționați pentru ziua de livrare 28 septembrie 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">07/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1475/1">Participanti noi in luna august</a></div></td></tr></table></div>		<div id="stiri_der">
+        <div class="titlustiri"><span class="tit2">&#x15E;tiri</span></div>         
+<div class="scrollbar" style="height: 120px;"><table width="250px" border="0" cellspacing="0" cellpadding="2" align="left">
+		<!--<tr><td class="stire1"><div class="capstire1">06.09.2010</div></td></tr>
+		 <tr><td class="stire1"><div class="stire1"><a href="/uploads/doc/Comunicate/6_sept_RO-BG_energie_060910.pdf">Lucrarile Grupei de lucru romano-bulgare in domeniul energetic - cuplarea pietelor de energie electrica</a></div></td></tr>-->			<tr><td class="stire1"><div class="capstire1">01/04/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1153/ro">Studiu Europex: Factorii fundamentali ai prețurilor angro la energia electrică în Europa</a></div></td></tr>			<tr><td class="stire1"><div class="capstire1">13/03/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1150/ro">Documentul de poziție al Europex privind “Prețul marginal funcționează – cea mai eficientă bază pentru piețele de energie electrică”</a></div></td></tr></table></div></div><!--stiri_der-->
+         
+
+<div id="rapp">
+<div class="titlustiri"><span class="tit2">Rapoarte</span></div>		 
+
+
+<table width="250" border="0" cellpadding="0" cellspacing="0" id="rap" >
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/opcomrap.png" ></td>
+    <td>
+    Raport de pia&#355;&#259; <br/><u><a href="https://www.opcom.ro/uploads/doc/rapoarte/saptaminal/RSS_2026_39_RO.pdf" target=new>S&#259;pt&#259;m&#226;nal</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_RO.pdf" target=new>Lunar</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/Anual/RS_2025_RO.pdf" target=new>Anual</a></u></td>
+  </tr>  
+  <tr width="195" height="5"></tr>
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/eu.png" ></td>
+    <td width="195" height="10"><a href="http://ec.europa.eu/energy/en/statistics/market-analysis">
+     Rapoarte de analiz&#259; a pie&#355;ei</a></td>
+  </tr>
+  <tr height="5"></tr>
+  <tr>
+    <td rowspan="2" width="60" height="50" align="left"><a href="https://www.acer.europa.eu/"><img style="vertical-align:baseline" src="https://www.opcom.ro/pcs/acer2.png" /></a></td>
+    <td height="30"><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Electricity-Key-Developments.pdf">
+     Evolu&#355;ii cheie pe pie&#355;ele de energie electric&#259; &#537;i gaze naturale din UE, 16 martie 2026</a></td>
+  </tr>
+  <tr>
+    <td height="30"><a href="https://www.acer.europa.eu/remit-documents">
+     Documente REMIT - ACER</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="25" align="left"><a href="https://www.opcom.ro/uploads/doc/REMIT/Promovare servicii raportare REMIT_27.07.2015.pdf" target=new><img src="https://www.opcom.ro/pcs/thing7.png" /></a></td>
+    <td height="10">
+    
+     <a href="https://www.opcom.ro/tranzactii-produse/ro/225"> Documente REMIT - OPCOM</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="20" align="left"><a href="https://www.opcom.ro/tranzactii-produse/ro/250" target="new"><img src="https://www.opcom.ro/pcs/logo_pcr.png"></a></td>
+    <td height="10">
+    <a href="https://www.opcom.ro/tranzactii-produse/ro/250"> 	Cuplarea prin Preț a Regiunilor</a></td>
+  </tr>
+  <tr height="5"></tr>
+</table>	
+</div> 
+
+</div>   
+    </div><!--dreapta-->
+
+
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/ro">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/ro/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/ro/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>Noi participanti: JWM ENERGIA sp. z.o.o. (PZU, PI), CHIMCOMPLEX S.A. BORZESTI (PCCB-LE-Flex, PCCB-NC), NEXTE ASSET MANAGEMENT S.R.L. (PCCB-LE-Flex, PCE-ESRE-CV, PC-OTC), SPRING ADVERTISING S.R.L. (PCV), EDPR SOLAR ENERGY S.R.L.  (PCE-ESRE-CV, PCV) si EDPR WIND ENERGY S.R.L. (PCE-ESRE-CV, PCV) s-au alaturat OPCOM in luna septembrie.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/ro">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/ro/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="0HHYVEKUBE0BKSJykZq9KFsL6afHxHpIoKUbuL1b" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': '0HHYVEKUBE0BKSJykZq9KFsL6afHxHpIoKUbuL1b'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+   
+

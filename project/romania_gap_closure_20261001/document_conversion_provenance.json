@@ -1,0 +1,23 @@
+[
+  {
+    "source": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_2/09 10 2024 REVIZIA 1 PO RSF 2022.docx",
+    "source_sha256": "4ea930d9d47692e220db30daf25a305fa886b20faad0917928c2e96eab38d1f6",
+    "derived": "project/romania_gap_closure_20261001/derived_official_documents/09 10 2024 REVIZIA 1 PO RSF 2022.pdf",
+    "derived_sha256": "a54bbd4be30097965714444a6456cc24d2894fcec0a055713389a577b34df02a",
+    "method": "LibreOffice headless read-only DOC/DOCX to PDF; raw original unchanged; PDF pagination is derivative pagination"
+  },
+  {
+    "source": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_3.doc",
+    "source_sha256": "e04042681117b73670abe3999ccd4884ecb241b09854e898cac235fb2811c538",
+    "derived": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_3.pdf",
+    "derived_sha256": "ec0b4552ad8940654a5d2e78a861027a56b051bb4c23a1a77265b174dfc4f0d1",
+    "method": "LibreOffice headless read-only DOC/DOCX to PDF; raw original unchanged; PDF pagination is derivative pagination"
+  },
+  {
+    "source": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_4.doc",
+    "source_sha256": "88f68509358091ae284f0d6c7e0173c5967a69a1322dbb1ddd757b37db625093",
+    "derived": "project/romania_gap_closure_20261001/derived_official_documents/STS_DOC_4.pdf",
+    "derived_sha256": "357ec595a06dac4e20be2d148f0ea6c2a51c2e267253a5ab60e972353151652d",
+    "method": "LibreOffice headless read-only DOC/DOCX to PDF; raw original unchanged; PDF pagination is derivative pagination"
+  }
+]

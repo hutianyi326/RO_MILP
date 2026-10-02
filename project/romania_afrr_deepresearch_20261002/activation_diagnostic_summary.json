@@ -1,0 +1,96 @@
+{
+  "total_qh": 58364,
+  "computable_qh": 58314,
+  "uncomputable_qh": 50,
+  "uncomputable_pct_total": 0.08566924816667809,
+  "missing_reason_counts": {
+    "UP_ENERGY_NULL;DOWN_ENERGY_NULL": 45,
+    "UP_CAPACITY_NULL;DOWN_CAPACITY_NULL": 4,
+    "DOWN_ENERGY_NULL": 1
+  },
+  "exceed_qh": 1739,
+  "exceed_pct_computable": 2.982131220633124,
+  "exceed_pct_total": 2.979576451237064,
+  "up_individually_over_one": 875,
+  "down_individually_over_one": 863,
+  "both_individually_at_most_one": 1,
+  "alpha_sum_quantiles_exceed": {
+    "0.0": 1.00016,
+    "0.25": 1.0706857142857142,
+    "0.5": 1.1863085714285715,
+    "0.75": 1.4126742857142855,
+    "0.9": 1.7383725714285716,
+    "0.95": 1.9579245714285713,
+    "0.99": 2.260789485714285,
+    "1.0": 2.5405714285714285
+  },
+  "excess_fraction_mean": 0.2917956171029656,
+  "excess_fraction_bins": {
+    "(0.0, 0.01]": 76,
+    "(0.01, 0.05]": 239,
+    "(0.05, 0.1]": 259,
+    "(0.1, 0.25]": 443,
+    "(0.25, 0.5]": 392,
+    "(0.5, 1.0]": 257,
+    "(1.0, inf]": 73
+  },
+  "negative_energy": 0,
+  "duplicate_utc": 0,
+  "max_examples": [
+    {
+      "delivery_start_utc": "2026-02-15T18:15:00Z",
+      "local_time": "2026-02-15T20:15:00+02:00",
+      "energy_up_mwh": 111.15,
+      "energy_down_mwh": 0.0,
+      "up_capacity_mw": 175.0,
+      "down_capacity_mw": 175.0,
+      "alpha_up": 2.5405714285714285,
+      "alpha_down": 0.0,
+      "alpha_sum": 2.5405714285714285
+    },
+    {
+      "delivery_start_utc": "2026-02-15T17:45:00Z",
+      "local_time": "2026-02-15T19:45:00+02:00",
+      "energy_up_mwh": 109.97,
+      "energy_down_mwh": 0.0,
+      "up_capacity_mw": 175.0,
+      "down_capacity_mw": 175.0,
+      "alpha_up": 2.5136,
+      "alpha_down": 0.0,
+      "alpha_sum": 2.5136
+    },
+    {
+      "delivery_start_utc": "2026-03-01T08:15:00Z",
+      "local_time": "2026-03-01T10:15:00+02:00",
+      "energy_up_mwh": 108.983,
+      "energy_down_mwh": 0.0,
+      "up_capacity_mw": 175.0,
+      "down_capacity_mw": 175.0,
+      "alpha_up": 2.49104,
+      "alpha_down": 0.0,
+      "alpha_sum": 2.49104
+    },
+    {
+      "delivery_start_utc": "2026-02-15T18:00:00Z",
+      "local_time": "2026-02-15T20:00:00+02:00",
+      "energy_up_mwh": 108.92,
+      "energy_down_mwh": 0.0,
+      "up_capacity_mw": 175.0,
+      "down_capacity_mw": 175.0,
+      "alpha_up": 2.4896000000000003,
+      "alpha_down": 0.0,
+      "alpha_sum": 2.4896000000000003
+    },
+    {
+      "delivery_start_utc": "2026-03-02T08:45:00Z",
+      "local_time": "2026-03-02T10:45:00+02:00",
+      "energy_up_mwh": 106.905,
+      "energy_down_mwh": 0.0,
+      "up_capacity_mw": 175.0,
+      "down_capacity_mw": 175.0,
+      "alpha_up": 2.443542857142857,
+      "alpha_down": 0.0,
+      "alpha_sum": 2.443542857142857
+    }
+  ]
+}

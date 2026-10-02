@@ -1,0 +1,17 @@
+{
+  "id": "CURVES_PDF_2026-08-31",
+  "dataset": "D18",
+  "url": "https://www.opcom.ro/pdf_curbe/curbe_agregate_RO_20260831.pdf",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "2026-08-31 aggregated curves; chart original, not identified generating units",
+  "retrieved_utc": "2026-09-30T14:12:54.8275205Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/CURVES_PDF_2026-08-31/original.pdf",
+  "bytes": 2010215,
+  "sha256": "35cded5c00b0e41aa90bb9395b01b6a4851d7d4fdbb96eefa6bbba3e851198a9"
+}

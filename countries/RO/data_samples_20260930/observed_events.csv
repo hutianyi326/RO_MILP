@@ -1,0 +1,724 @@
+﻿kind,source_id,time,field,value,unit
+DA_ZERO_PRICE,DA_2025-03-30,2025-03-30T08:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_NEGATIVE,DA_2025-03-30,2025-03-30T09:00:00Z,price_eur_mwh,-4.47,EUR/MWh
+DA_NEGATIVE,DA_2025-03-30,2025-03-30T10:00:00Z,price_eur_mwh,-16.16,EUR/MWh
+DA_NEGATIVE,DA_2025-03-30,2025-03-30T11:00:00Z,price_eur_mwh,-23.53,EUR/MWh
+DA_NEGATIVE,DA_2025-03-30,2025-03-30T12:00:00Z,price_eur_mwh,-10.05,EUR/MWh
+DA_NEGATIVE,DA_2025-03-30,2025-03-30T13:00:00Z,price_eur_mwh,-0.80,EUR/MWh
+DA_ZERO_PRICE,DA_2025-03-30,2025-03-30T14:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T05:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T08:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T08:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T09:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T09:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T09:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T09:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T10:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T10:15:00Z,price_eur_mwh,-0.01,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T10:30:00Z,price_eur_mwh,-0.02,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T10:45:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T11:00:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T11:15:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T11:30:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T11:45:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T12:00:00Z,price_eur_mwh,-0.03,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T12:15:00Z,price_eur_mwh,-0.01,EUR/MWh
+DA_NEGATIVE,DA_2026-08-09,2026-08-09T12:30:00Z,price_eur_mwh,-0.01,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-09,2026-08-09T12:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T10:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T11:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T11:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T11:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T11:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T12:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T12:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-22_R1,2026-08-22T12:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-23,2026-08-23T09:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T09:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T09:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T09:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T09:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T10:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T10:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T10:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T10:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T11:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T11:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T11:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T11:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T12:15:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T12:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T12:45:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T13:00:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_NEGATIVE,DA_2026-08-30,2026-08-30T13:15:00Z,price_eur_mwh,-0.01,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T13:30:00Z,price_eur_mwh,0.00,EUR/MWh
+DA_ZERO_PRICE,DA_2026-08-30,2026-08-30T13:45:00Z,price_eur_mwh,0.00,EUR/MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.827, 'aFRR_Down': 4.286}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.032, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.645, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.526, 'aFRR_Down': 0.164}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.074, 'aFRR_Down': 0.009}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.234, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.181, 'aFRR_Down': 0.025}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-14T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.832}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.253, 'aFRR_Down': 0.508}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.031, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.744, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.2, 'aFRR_Down': 0.782}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.032, 'aFRR_Down': 0.018}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.74, 'aFRR_Down': 0.089}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.024, 'aFRR_Down': 0.108}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 1.372}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.444, 'aFRR_Down': 0.011}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.408, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.836, 'aFRR_Down': 0.013}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.575, 'aFRR_Down': 0.005}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.322, 'aFRR_Down': 0.034}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.2, 'aFRR_Down': 0.074}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.759, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 15.576, 'aFRR_Down': 0.069}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.783}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.496, 'aFRR_Down': 0.054}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.702, 'aFRR_Down': 0.023}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 39.25, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.933, 'aFRR_Down': 4.425}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.298, 'aFRR_Down': 0.122}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.008, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 43.962, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.185, 'aFRR_Down': 6.015}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.486, 'aFRR_Down': 0.066}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.398, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 22.634, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.316, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 30.935, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 32.343, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.733, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.392, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.422, 'aFRR_Down': 0.11}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.247, 'aFRR_Down': 0.167}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 11.9}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.841, 'aFRR_Down': 0.669}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.472, 'aFRR_Down': 0.506}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.999}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.183}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 6.722}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.054, 'aFRR_Down': 0.598}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.492}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.879}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.905}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.437, 'aFRR_Down': 0.332}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.844, 'aFRR_Down': 0.128}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.557}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.194, 'aFRR_Down': 2.615}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.646, 'aFRR_Down': 0.02}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.193, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.073, 'aFRR_Down': 2.265}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.046, 'aFRR_Down': 2.72}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.272, 'aFRR_Down': 0.232}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.506, 'aFRR_Down': 0.031}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.035, 'aFRR_Down': 8.418}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 32.274}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.022, 'aFRR_Down': 1.834}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.054, 'aFRR_Down': 0.217}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.157, 'aFRR_Down': 0.308}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 45.415}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 17.464}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.425, 'aFRR_Down': 0.202}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.769, 'aFRR_Down': 0.028}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.858, 'aFRR_Down': 0.044}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.833, 'aFRR_Down': 0.054}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.008, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.956, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.099, 'aFRR_Down': 6.246}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.029, 'aFRR_Down': 2.504}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.09, 'aFRR_Down': 0.626}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.279, 'aFRR_Down': 1.001}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.878, 'aFRR_Down': 0.358}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.283, 'aFRR_Down': 1.29}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 14.723}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.93}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.537, 'aFRR_Down': 4.68}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.139, 'aFRR_Down': 3.632}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 19.509}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 39.262}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.253, 'aFRR_Down': 4.073}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.368, 'aFRR_Down': 5.959}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 16.307}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 33.026}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.313}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.013, 'aFRR_Down': 1.623}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.654, 'aFRR_Down': 1.482}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-01-15,2025-01-15T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.853}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 25.517, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 36.457, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.657, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.189, 'aFRR_Down': 0.167}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.219, 'aFRR_Down': 0.004}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.154, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.501, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-29T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 15.776, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 22.504, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.863, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.87, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.584, 'aFRR_Down': 0.099}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.732, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.926, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.215, 'aFRR_Down': 0.098}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.741, 'aFRR_Down': 0.06}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.396, 'aFRR_Down': 0.062}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.108, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.443, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.158, 'aFRR_Down': 0.193}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.073, 'aFRR_Down': 3.525}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.587, 'aFRR_Down': 0.006}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.428, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.692, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.012, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.578, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.214, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.203, 'aFRR_Down': 0.089}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.236, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.123, 'aFRR_Down': 0.093}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.196, 'aFRR_Down': 0.168}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.16, 'aFRR_Down': 0.112}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.648, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.69, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.138, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.241, 'aFRR_Down': 0.079}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.63, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.375, 'aFRR_Down': 0.012}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.784, 'aFRR_Down': 0.03}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.089, 'aFRR_Down': 0.299}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.463, 'aFRR_Down': 0.023}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.273, 'aFRR_Down': 0.225}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.024, 'aFRR_Down': 0.34}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.02, 'aFRR_Down': 17.056}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.553}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 30.371}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 39.595}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.619}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.038}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.568}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.687}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 17.936}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 7.429}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.015, 'aFRR_Down': 3.101}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.54}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.799}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 16.414}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.024}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.109, 'aFRR_Down': 0.661}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.098, 'aFRR_Down': 0.157}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 18.011}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.1, 'aFRR_Down': 0.567}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.452, 'aFRR_Down': 0.004}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.137, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 20.269}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.191, 'aFRR_Down': 4.956}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.634, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.81, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.065, 'aFRR_Down': 38.197}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 44.656}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.047, 'aFRR_Down': 11.195}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.891, 'aFRR_Down': 0.04}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 32.751}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 13.824}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.254, 'aFRR_Down': 1.92}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.966, 'aFRR_Down': 0.038}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.142, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 15.621, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 25.951, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.075, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.449, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.654, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 27.061, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 24.79, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 38.753, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.464, 'aFRR_Down': 0.095}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.488, 'aFRR_Down': 0.088}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.236, 'aFRR_Down': 0.143}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.634, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.211, 'aFRR_Down': 0.065}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.128, 'aFRR_Down': 0.143}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-03-30,2025-03-30T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.033, 'aFRR_Down': 0.219}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.352, 'aFRR_Down': 1.221}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.397, 'aFRR_Down': 5.541}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.642}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 18.523}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.362}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 18.01}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.871}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 43.496}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.029}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.018, 'aFRR_Down': 1.715}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.609, 'aFRR_Down': 0.225}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-29T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.343}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.028, 'aFRR_Down': 2.448}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.65, 'aFRR_Down': 0.264}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.114, 'aFRR_Down': 0.505}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.036, 'aFRR_Down': 3}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.523, 'aFRR_Down': 2.591}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.677, 'aFRR_Down': 1.323}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.058, 'aFRR_Down': 0.008}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.006, 'aFRR_Down': 5.183}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.003, 'aFRR_Down': 6.272}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.657}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.724}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.025}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.851}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.018, 'aFRR_Down': 6.87}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.323, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.63, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.3, 'aFRR_Down': 4.886}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.703, 'aFRR_Down': 0.304}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.871, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.948, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.584, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 29.707, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.543, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.429, 'aFRR_Down': 0.286}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 25.203, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.738, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.39, 'aFRR_Down': 0.012}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.774, 'aFRR_Down': 0.005}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.478, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.879, 'aFRR_Down': 2.71}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.022, 'aFRR_Down': 7.122}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.245}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.074, 'aFRR_Down': 8.345}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.51}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 20.163}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 38.63}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.695}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.556, 'aFRR_Down': 0.492}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 50.291, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 57.514, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.953, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.497, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 36.199, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.502, 'aFRR_Down': 0.397}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.395, 'aFRR_Down': 2.405}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.678, 'aFRR_Down': 0.012}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 24.262, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.366, 'aFRR_Down': 0.049}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.561, 'aFRR_Down': 0.137}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.659, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.522, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.509, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.038, 'aFRR_Down': 19.633}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.554}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.424, 'aFRR_Down': 0.091}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.433, 'aFRR_Down': 2.62}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 52.688}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 39.013}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.453}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.844, 'aFRR_Down': 0.248}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 13.628}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.673, 'aFRR_Down': 4.661}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.352, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.344, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.628, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 17.553, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 33.832, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 38.145, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 45.197, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 42.49, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 26.632, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 19.92, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 43.705, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 57.413, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 27.707, 'aFRR_Down': 0.001}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.44, 'aFRR_Down': 0.003}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 17.072, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.804, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.734, 'aFRR_Down': 0.104}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.036, 'aFRR_Down': 4.779}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.364, 'aFRR_Down': 2.651}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.452, 'aFRR_Down': 0.482}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.38, 'aFRR_Down': 0.069}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-09-30,2025-09-30T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.836, 'aFRR_Down': 1.867}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.801, 'aFRR_Down': 0.847}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.641, 'aFRR_Down': 0.188}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.835, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.917, 'aFRR_Down': 0.057}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.02, 'aFRR_Down': 2.099}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.087, 'aFRR_Down': 1.343}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.082, 'aFRR_Down': 2.967}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.149, 'aFRR_Down': 6.195}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 1.388}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.017, 'aFRR_Down': 2.756}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.665}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-09-30T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.601}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 18.553}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 13.939}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.859}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.319}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.344}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.818}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.013, 'aFRR_Down': 4.677}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.812}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.493, 'aFRR_Down': 0.362}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.433, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.034, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.039, 'aFRR_Down': 0.597}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.021, 'aFRR_Down': 1.178}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.938}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.37, 'aFRR_Down': 2.106}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.585, 'aFRR_Down': 4.713}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.101, 'aFRR_Down': 1.79}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.722, 'aFRR_Down': 0.14}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.607, 'aFRR_Down': 0.045}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.283, 'aFRR_Down': 0.054}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.397, 'aFRR_Down': 0.026}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.248, 'aFRR_Down': 0.016}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.411, 'aFRR_Down': 1.302}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.204}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.726, 'aFRR_Down': 0.401}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.09, 'aFRR_Down': 0.125}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.091, 'aFRR_Down': 7.242}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 20.918}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.004, 'aFRR_Down': 10.637}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 17.613}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.992}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.155}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.094}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 39.129}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 36.674}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 27.657}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 38.035}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 23.227}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.281}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.685}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 32.053}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.107}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 6.841}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.113, 'aFRR_Down': 2.735}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.121, 'aFRR_Down': 2.942}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.323, 'aFRR_Down': 0.043}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.173, 'aFRR_Down': 0.119}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.445, 'aFRR_Down': 1.805}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.862}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.02, 'aFRR_Down': 0.814}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.134, 'aFRR_Down': 1.433}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.09, 'aFRR_Down': 0.503}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.008, 'aFRR_Down': 1.594}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.202, 'aFRR_Down': 0.093}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.398, 'aFRR_Down': 0.089}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.265, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.179, 'aFRR_Down': 0.216}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.105, 'aFRR_Down': 0.303}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.007, 'aFRR_Down': 0.66}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.006, 'aFRR_Down': 2.989}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.056}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.195, 'aFRR_Down': 8.686}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.886, 'aFRR_Down': 0.283}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.105, 'aFRR_Down': 2.079}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.77}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.198, 'aFRR_Down': 0.312}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.15, 'aFRR_Down': 0.27}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.224, 'aFRR_Down': 0.1}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.255, 'aFRR_Down': 0.427}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.109, 'aFRR_Down': 0.125}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.033, 'aFRR_Down': 7.878}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.211}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.609, 'aFRR_Down': 2.557}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.151}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.137, 'aFRR_Down': 0.212}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.197, 'aFRR_Down': 0.026}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.375, 'aFRR_Down': 0.002}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.006, 'aFRR_Down': 0.167}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.669, 'aFRR_Down': 0.019}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.063, 'aFRR_Down': 0.014}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 16.812}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 17.914}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.007, 'aFRR_Down': 1.479}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-01,2025-10-01T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.39, 'aFRR_Down': 0.042}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.028, 'aFRR_Down': 4.598}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.942, 'aFRR_Down': 0.034}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.839, 'aFRR_Down': 0.225}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.346, 'aFRR_Down': 4.827}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.969, 'aFRR_Down': 8.076}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.658, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 15.844, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.876, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.092, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.982, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.422, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-25T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 29.537, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.113, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.802, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.724, 'aFRR_Down': 1.104}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.701, 'aFRR_Down': 0.222}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.882}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.925}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.515}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 16.556}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.007, 'aFRR_Down': 0.696}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 6.949, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.859, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.521, 'aFRR_Down': 1.565}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.447, 'aFRR_Down': 0.058}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.004, 'aFRR_Down': 1.99}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.553}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.887}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.395}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 31.901}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.2, 'aFRR_Down': 4.774}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.233, 'aFRR_Down': 0.021}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.054, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.073, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.286, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 35.081, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.848, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 25.753, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.737, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 28.583, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.934, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.68, 'aFRR_Down': 0.055}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.033, 'aFRR_Down': 3.431}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.918, 'aFRR_Down': 1.282}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.721, 'aFRR_Down': 0.002}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.22, 'aFRR_Down': 0.08}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.09, 'aFRR_Down': 4.363}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.615, 'aFRR_Down': 0.655}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 19.615}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.877}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.009, 'aFRR_Down': 3.181}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.42, 'aFRR_Down': 2.099}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.112, 'aFRR_Down': 0.002}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.328, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 22.662, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 17.67, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.551, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.755, 'aFRR_Down': 0.019}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.116, 'aFRR_Down': 0.166}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.023, 'aFRR_Down': 0.666}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.005, 'aFRR_Down': 2.588}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.479, 'aFRR_Down': 0.006}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.615, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.041, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.375, 'aFRR_Down': 0.126}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.492, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 29.968, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.554, 'aFRR_Down': 0.041}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.434, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.96, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.046, 'aFRR_Down': 0.352}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.051, 'aFRR_Down': 0.515}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.254, 'aFRR_Down': 0.086}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.302, 'aFRR_Down': 0.033}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.064, 'aFRR_Down': 0.14}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.252, 'aFRR_Down': 0.143}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.063, 'aFRR_Down': 0.94}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 34.911}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.006, 'aFRR_Down': 2.158}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 13.533}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 13.245}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 5.117}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.038, 'aFRR_Down': 0.3}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.05, 'aFRR_Down': 0.119}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.012, 'aFRR_Down': 0.768}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.035, 'aFRR_Down': 0.112}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.016, 'aFRR_Down': 2.583}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.339, 'aFRR_Down': 0.139}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.032, 'aFRR_Down': 0.898}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.234}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.021}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.838, 'aFRR_Down': 3.103}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.528, 'aFRR_Down': 0.563}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.155}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 11.582}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.292}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.623}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 22.46}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2025-10-26,2025-10-26T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 29.27}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.842, 'aFRR_Down': 1.416}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.45, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.722, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.558, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.524, 'aFRR_Down': 0.062}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.006, 'aFRR_Down': 5.637}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 15.257}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-28T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.898}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.529}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 29.052}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 21.825}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.266}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.003, 'aFRR_Down': 2.496}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.009, 'aFRR_Down': 0.211}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.1, 'aFRR_Down': 0.062}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.028, 'aFRR_Down': 4.666}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 7.073}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 0.936}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 0.627}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.013, 'aFRR_Down': 0.839}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.1, 'aFRR_Down': 0.193}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.042, 'aFRR_Down': 1.037}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 14.695}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.079, 'aFRR_Down': 0.782}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.017, 'aFRR_Down': 0.974}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 31.163}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 24.892}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.713, 'aFRR_Down': 0.081}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.301, 'aFRR_Down': 0.003}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.355, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.123, 'aFRR_Down': 8.427}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 28.336}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 26.31}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 22.452}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 31.024}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 11.589}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.041, 'aFRR_Down': 0.546}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.772, 'aFRR_Down': 0.558}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.176, 'aFRR_Down': 0.386}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.201, 'aFRR_Down': 0.147}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.715, 'aFRR_Down': 0.006}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.548, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.241, 'aFRR_Down': 3.796}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 14.006}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.094, 'aFRR_Down': 2.384}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.568, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.568, 'aFRR_Down': 0.214}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 3.278}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.251, 'aFRR_Down': 0.276}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.233, 'aFRR_Down': 0.587}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 1.954}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 19.529}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.711}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 19.837}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.027, 'aFRR_Down': 7.924}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 25.485}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 9.541, 'aFRR_Down': 0.02}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 17.833, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.344, 'aFRR_Down': 0.214}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.245, 'aFRR_Down': 0.233}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.187, 'aFRR_Down': 0.094}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.714, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 28.978, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 38.785, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.095, 'aFRR_Down': 0.011}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.091, 'aFRR_Down': 1.089}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.018, 'aFRR_Down': 0.002}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.386, 'aFRR_Down': 0.127}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.003, 'aFRR_Down': 1.413}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.132, 'aFRR_Down': 0.132}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.104, 'aFRR_Down': 0.11}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.5, 'aFRR_Down': 0.112}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.275, 'aFRR_Down': 0.369}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.672, 'aFRR_Down': 0.006}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 22.46, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.496, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.964, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.697, 'aFRR_Down': 0.007}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.532, 'aFRR_Down': 0.016}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.085, 'aFRR_Down': 3.818}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.983, 'aFRR_Down': 1.957}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.046, 'aFRR_Down': 1.918}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.327}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 16.642}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.138, 'aFRR_Down': 0.995}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.545}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 28.773}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 49.889}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 17.238, 'aFRR_Down': 7.095}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 16.488, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.238, 'aFRR_Down': 7.069}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-03-29,2026-03-29T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 30.491}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T21:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.217, 'aFRR_Down': 0.028}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T21:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.578, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T21:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.315, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T21:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.245, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T22:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 25.738, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T22:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.642, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T22:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.067, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T22:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.531, 'aFRR_Down': 0.089}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T23:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.359, 'aFRR_Down': 0.016}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T23:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.086, 'aFRR_Down': 0.033}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T23:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.001, 'aFRR_Down': 0.985}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-30T23:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 6.58}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T00:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.088, 'aFRR_Down': 1.503}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T00:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.994, 'aFRR_Down': 0.021}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T00:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.325, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T00:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.206, 'aFRR_Down': 0.193}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T01:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.904, 'aFRR_Down': 0.271}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T01:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.429, 'aFRR_Down': 0.208}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T01:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.929, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T01:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.602, 'aFRR_Down': 1.852}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T02:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 5.914, 'aFRR_Down': 1.362}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T02:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 13.414, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T02:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 11.444, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T02:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.942, 'aFRR_Down': 0.057}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T03:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.249, 'aFRR_Down': 0.525}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T03:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 14.821, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T03:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 12.761, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T03:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.215, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T04:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 33.62, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T04:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 26.39, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T04:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 42.992, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T04:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.022, 'aFRR_Down': 1.868}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T05:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.328, 'aFRR_Down': 0.765}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T05:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.042, 'aFRR_Down': 0.374}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T05:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.074, 'aFRR_Down': 0.291}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T05:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.116, 'aFRR_Down': 0.494}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T06:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.396, 'aFRR_Down': 0.449}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T06:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.264, 'aFRR_Down': 12.138}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T06:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 9.541}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T06:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 6.63}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T07:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.422, 'aFRR_Down': 0.641}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T07:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.26, 'aFRR_Down': 1.779}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T07:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.763, 'aFRR_Down': 5.294}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T07:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 25.812}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T08:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.585, 'aFRR_Down': 5.166}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T08:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 8.017}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T08:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 11.244}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T08:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.054}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T09:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 12.104}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T09:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.078, 'aFRR_Down': 0.24}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T09:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.058, 'aFRR_Down': 0.308}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T09:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.777, 'aFRR_Down': 2.167}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T10:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.199, 'aFRR_Down': 2.399}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T10:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.839, 'aFRR_Down': 1.963}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T10:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.031, 'aFRR_Down': 0.903}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T10:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 2.071}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T11:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 17.284}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T11:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 4.514}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T11:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 10.048}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T11:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 18.108}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T12:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 33.559}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T12:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 20.329}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T12:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.167, 'aFRR_Down': 5.177}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T12:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0, 'aFRR_Down': 11.826}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T13:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.543, 'aFRR_Down': 11.439}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T13:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.437, 'aFRR_Down': 0.236}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T13:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.025, 'aFRR_Down': 6.961}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T13:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 1.256, 'aFRR_Down': 7.848}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T14:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.112, 'aFRR_Down': 7.211}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T14:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 15.095, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T14:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 8.175, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T14:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.388, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T15:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 21.951, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T15:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 49.452, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T15:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 59.978, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T15:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 71.049, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T16:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 23.85, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T16:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 26.447, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T16:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 24.306, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T16:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 20.553, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T17:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 2.754, 'aFRR_Down': 0.106}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T17:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 0.523, 'aFRR_Down': 0.067}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T17:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 24.808, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T17:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 39.748, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T18:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 19.115, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T18:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 10.99, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T18:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 3.352, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T18:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 4.646, 'aFRR_Down': 0.054}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T19:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 19.16, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T19:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 18.938, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T19:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 32.924, 'aFRR_Down': 0}",MWh
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T19:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 7.096, 'aFRR_Down': 0.495}",MWh; not proof of same-instant activation
+AFRR_BOTH_DIRECTIONS_WITHIN_QH,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T20:00:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 37.657, 'aFRR_Down': 0.21}",MWh; not proof of same-instant activation
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T20:15:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 60.36, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T20:30:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 48.136, 'aFRR_Down': 0}",MWh
+AFRR_DIRECTION_REAL_ZERO,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T20:45:00Z,aFRR_Up/aFRR_Down,"{'aFRR_Up': 19.576, 'aFRR_Down': 0}",MWh
+AFRR_MAX_WITHIN_SEVEN_SAMPLED_DAYS_ONLY,activatedBalancingEnergyOverview_2026-08-31,2026-08-31T15:45:00Z,aFRR_Up,71.049,"MWh; selected strong sample, not full-period extreme"

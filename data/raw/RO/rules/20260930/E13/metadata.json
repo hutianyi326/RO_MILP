@@ -1,0 +1,14 @@
+{
+  "id": "E13",
+  "url": "https://www.opcom.ro/tranzactii-produse/ro/9",
+  "title": "DA settlements",
+  "resolved_url": null,
+  "retrieved_utc": "2026-09-30T07:44:35.5509383Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E13\\original.html",
+  "bytes": 59493,
+  "sha256": "1f9abbfeab2c8e4b3b3dde0870eb1f9c089080d7a3a13b0f7180e737fb8ca90e",
+  "extracted_characters": 16923
+}

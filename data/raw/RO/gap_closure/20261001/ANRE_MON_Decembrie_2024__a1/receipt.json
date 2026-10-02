@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_MON_Decembrie_2024",
+  "dataset": "D12",
+  "url": "https://anre.ro/wp-content/uploads/2025/03/Monitdec24-cu-eticheta-1.pdf",
+  "title": "Raport monitorizare piata energie electrica Decembrie 2024",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:46.935085+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2025/03/Monitdec24-cu-eticheta-1.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_MON_Decembrie_2024__a1/original.pdf",
+  "sha256": "bf77894caa138c4c53aa595bb6a2d78b559280bcdfccd591c012d9521e7e4fcd",
+  "bytes": 5037927,
+  "detected_format": "pdf"
+}

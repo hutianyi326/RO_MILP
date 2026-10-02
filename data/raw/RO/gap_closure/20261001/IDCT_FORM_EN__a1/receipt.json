@@ -1,0 +1,19 @@
+{
+  "id": "IDCT_FORM_EN",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T23:35:51.879531+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDCT_FORM_EN__a1/original.html",
+  "sha256": "88f6f116f6e1b9209cdaa9a9f993027b775f8bbe847b2de067d1871afa51af4c",
+  "bytes": 318705,
+  "detected_format": "html"
+}

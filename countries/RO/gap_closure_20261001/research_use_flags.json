@@ -1,0 +1,26 @@
+{
+  "whole_third_step_exit": false,
+  "full_market_numeric_coverage": false,
+  "asof_input_approved": false,
+  "modeling_approved": false,
+  "mathematical_design_approved": false,
+  "implementation_approved": false,
+  "historical_backtest_approved": false,
+  "engineering_candidates_approved": false,
+  "closed_subtasks": [
+    "official imbalance price export located and observable versions extracted",
+    "STS monthly capacity unit Lei per MW-hour in cited report verified",
+    "FCR June2025 competitive daily auction start verified",
+    "selected DA dual-currency sample339 contracts verified within display precision"
+  ],
+  "eight_group_status": {
+    "G1": "PARTIAL",
+    "G2": "PARTIAL",
+    "G3": "PARTIAL",
+    "G4": "PARTIAL",
+    "G5": "PARTIAL",
+    "G6": "PARTIAL",
+    "G7": "PARTIAL",
+    "G8": "PARTIAL"
+  }
+}

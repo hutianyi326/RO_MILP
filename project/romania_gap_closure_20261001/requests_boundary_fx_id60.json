@@ -1,0 +1,289 @@
+[
+  {
+    "id": "BNR2024_BOUNDARY",
+    "dataset": "D14",
+    "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml",
+    "title": "BNR annual official reference rates 2024 for January 2025 boundary",
+    "scope": "observed 2025/26 official URL pattern extended to 2024; verify body year"
+  },
+  {
+    "id": "IDCT60_2025-01-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "01/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-02-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "02/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-03-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "03/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-04-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "04/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-05-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "05/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-06-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "06/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-07-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "07/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-08-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "08/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-09-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "09/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-10-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "10/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-11-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "11/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2025-12-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "12/15/2025",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-01-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "01/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-02-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "02/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-03-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "03/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-04-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "04/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-05-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "05/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-06-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "06/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-07-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "07/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  },
+  {
+    "id": "IDCT60_2026-08-15",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "body": {
+      "ziua_eng": "08/15/2026",
+      "action": "trading_for",
+      "limba": "en",
+      "buton": "Refresh",
+      "tip": "60"
+    },
+    "title": "OPCOM native hourly IDCT monthly selected-date sample",
+    "scope": "PT60 sample only; not complete 608-day hourly coverage"
+  }
+]

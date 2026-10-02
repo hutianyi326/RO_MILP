@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_MON_Iunie_2026",
+  "dataset": "D12",
+  "url": "https://anre.ro/wp-content/uploads/2026/09/Monit-iun26.pdf",
+  "title": "Raport monitorizare piata energie electrica Iunie 2026",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:46.934082+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/09/Monit-iun26.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_MON_Iunie_2026__a1/original.pdf",
+  "sha256": "7edb8ad62b810db362bdc02e76937e7e8a38dcdae1e833ce440c7bcf227a44f2",
+  "bytes": 3564660,
+  "detected_format": "pdf"
+}

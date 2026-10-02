@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_MON_Decembrie_2023",
+  "dataset": "D12",
+  "url": "https://anre.ro/wp-content/uploads/2024/04/Monitdec23_cu-eticheta.pdf",
+  "title": "Raport monitorizare piata energie electrica Decembrie 2023",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:50.593796+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2024/04/Monitdec23_cu-eticheta.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_MON_Decembrie_2023__a1/original.pdf",
+  "sha256": "00ab6ce7a3445b5f4a6c1efc4dd26f7f5d760335811f29440cc810446d461c5b",
+  "bytes": 3991116,
+  "detected_format": "pdf"
+}

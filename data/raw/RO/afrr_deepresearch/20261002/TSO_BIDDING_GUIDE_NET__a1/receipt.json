@@ -1,0 +1,17 @@
+{
+  "id": "TSO_BIDDING_GUIDE_NET",
+  "url": "https://www.transelectrica.ro/web/tel/despre-noi1",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:11:55.796492+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/web/tel/despre-noi1",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_BIDDING_GUIDE_NET__a1/original.html",
+  "sha256": "111c33a6ff9d6b3f68c232d395b0b9b8f8d16c3575e4e6e277377b84677d7b1d",
+  "bytes": 40876,
+  "detected_format": "html"
+}

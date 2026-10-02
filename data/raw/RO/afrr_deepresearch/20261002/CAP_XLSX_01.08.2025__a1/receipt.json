@@ -1,0 +1,17 @@
+{
+  "id": "CAP_XLSX_01.08.2025",
+  "url": "https://www.transelectrica.ro/documents/10179/19470789/ansTenderResults_01.08.2025.xlsx/0826f164-ef1e-4650-90ce-446b781d44fa",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:14:01.454423+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/19470789/ansTenderResults_01.08.2025.xlsx/0826f164-ef1e-4650-90ce-446b781d44fa",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/CAP_XLSX_01.08.2025__a1/original.zip",
+  "sha256": "3926cedca62defa33083e228d003aeb31dbb599410bdc52b337017fdfee509ed",
+  "bytes": 16535,
+  "detected_format": "zip"
+}

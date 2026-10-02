@@ -1,0 +1,19 @@
+{
+  "id": "IDA_FORM_EN",
+  "dataset": "D03",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "scope": "official public gap closure catalogue/form; not publication/vintage",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T23:35:51.880532+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDA_FORM_EN__a1/original.html",
+  "sha256": "7c22d1536dca7811744fe8cb7e43d70d8ad5fa2f807c722905e2ea935210dd35",
+  "bytes": 69262,
+  "detected_format": "html"
+}

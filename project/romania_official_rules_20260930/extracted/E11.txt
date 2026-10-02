@@ -1,0 +1,228 @@
+Manually Activated Reserves Initiative
+Browse
+Network Codes & CEP
+Data & Standardisation
+Innovation
+Outlooks
+Regions
+Publications
+About
+Login
+Network Codes & CEP
+Data & Standardisation
+Innovation
+Outlooks
+Regions
+Publications
+About
+Transparency Platform
+Common Information Model
+Standardisation
+EU Grid Map
+News
+Events
+Careers
+Our Staff
+Extranet
+Go to Network Codes
+News
+Stakeholder Committees
+Consultations
+Active Library
+Monitoring & Reports
+Network Codes Development Process
+DCC
+HVDC
+RFG
+ER
+SOGL
+CACM
+EB
+FCA
+CEP
+NCCS
+Go to Data & Standardisation
+Grid Map
+Transparency Platform
+EIC Codes
+Power Statistics
+ECCo SP
+OPC / STA
+Go to Innovation
+Projects
+Technopedia
+Innovation Hub
+RDI Reports
+Go to Outlooks
+Seasonal
+ERAA
+Longterm - TYNDP
+Offshore Hub
+Scenarios
+Regional Investment Plans
+Grid Planning Hub
+Go to Regions
+FAQs on Regional Coordination
+CCR Regions
+CCR Regions Map
+CCR Core
+CCR CE
+CCR IN
+Go to Publications
+Position Papers
+Offshore Development
+Vision
+Market
+Research & Innovation
+Development
+TYNDP
+Operations
+TSO/DSO
+CIM
+Go to News
+News
+Events
+Former Associations
+Go to About
+Market
+Research & Innovation
+System Development
+Operations
+Information and Communication Technologies
+Legal
+Careers
+News
+Stakeholder Committees
+Consultations
+Active Library
+Monitoring & Reports
+Network Codes Development Process
+Home
+Network Codes
+Electricity Balancing
+MARI
+Related
+Electricity BalancingPICASSO Project
+On this page
+Project Introduction
+Members
+Key Performance Indicators of Implementation and Operation of the mFRR-Platform
+Stakeholder Workshops
+Publications
+News and information notes
+Consultations
+Contacts
+Manually Activated Reserves Initiative
+Manually Activated Reserves Initiative (MARI) is the European implementation project for the creation, future development, and operation of the European mFRR platform.
+Project Introduction
+The Electricity Balancing guideline (hereinafter the ‘EB Regulation‘), approved by the Electricity Cross-Border Committee on 16 March 2017, defines tasks and a timeline for the implementation of a European platform for the exchange of balancing energy from frequency restoration reserves with manual activation (mFRR).
+Given the importance of an efficient balancing mechanism for an integrated electricity market, back in 2017, 19 European TSOs initially decided to work on the design of an mFRR platform in order to address pending issues and questions connected with the establishment of such a platform as soon as possible. These TSOs decided to set a project, officially named MARI (Manually Activated Reserves Initiative), and worked on the technical solution, which does not only reflect the views of the founding parties but could also be acceptable for potential new parties joining the initiative. The project was designated as the European implementation project for the mFRR platform by all TSOs. Since then, several TSOs joined MARI.
+On 24 July 2019, all regulatory authorities referred the TSOs’ mFRR IF proposal to ACER. On 24 January 2020, ACER adopted a Decision and set the deadline for the implementation of the mFRR platform, which shall fulfil all requirements defined in the mFRR IF by 30 months following the decision. On 5 October 2022 the platform has been brought successfully into operation with accession of the four German TSOs and ČEPS. Since then, several TSOs accessed the MARI platform and further TSOs are expected to access in the course of 2026.
+Members
+MARI implementation project (as of July 2026)
+As of 18 Feb 2026, ESO is operating in island mode. While no bids or demands are submitted to MARI, ESO has the technical readiness to participate operationally
+The parties involved are
+Member TSOs: 50Hertz Transmission, ADMIE, Amprion, APG, AST, ČEPS, Creos, Elering, ELES, ELIA, Energinet, ESO, Fingrid, HOPS, Litgrid, MAVIR, PSE, RE, REN, RTE, SEPS, Statnett, Svenska Kraftnät, Swissgrid, TenneT DE, TenneT NL, Terna, Transelectrica, and TransnetBW.
+Observers: EirGrid, EMS, SONI, ENTSO-E.
+Key Performance Indicators of Implementation and Operation of the mFRR-Platform
+According to the Article 13.1 of the Annex I to the ACER Decision on the Implementation framework for mFRR Platform, all member TSOs shall monitor, evaluate and report on the key performance indicators of implementation and operation of the mFRR-Platform at least on a yearly basis. The common report shall be published by ENTSO-E on its website and reported to regulatory authorities.
+MARI KPI Report 2025
+MARI KPI Report 2024
+MARI KPI Report 2022-2023
+Stakeholder Workshops
+28 October 2026 Balancing platforms stakeholder’s workshop
+4 November 2025 Balancing platforms stakeholder’s workshop
+11 December 2024 Balancing platforms stakeholder’s workshop
+30 November 2023 Balancing platforms stakeholder’s workshop
+8 December 2022 Balancing platforms stakeholder’s workshop
+2 December 2021 PICASSO-MARI Stakeholder Workshop
+18 December 2020 MARI workshop
+13 July 2020 MARI and PICASSO implementation workshop
+16 October 2018 Workshop on All TSO proposals on activation purposes and pricing
+20-21 June 2018 Workshop on balancing
+4 September 2017 YouTube
+Slides
+Publications
+26 February 2026 Publication of the new Accession Roadmap
+1 October 2025 Publication of the new Accession Roadmap
+27 March 2025 Publication of the new Accession Roadmap
+10 October 2024 Publication of the new Accession Roadmap
+6 July 2024 Updated accession roadmap of MARI
+26 April 2024 Updated accession roadmap of MARI
+29 February 2024 Updated accession roadmap of MARI
+22 November 2023 MARI Activation Optimization Function - Public Description
+25 October 2023 Updated accession roadmap of MARI
+25 October 2023 Go Live Announcement: Capacity Management IT Solution
+28 June 2023 MARI - Bid Structure and Linking
+28 April 2023 Updated accession roadmap of MARI
+2 November 2022 MARI Activation Optimization Function - Public Description
+25 October 2022 Updated accession roadmap of MARI
+30 September 2022 mFRR Implementation Framework
+June 2022 MARI – Bid Structure and Linking document
+21 April 2022 MARI Algorithm Description
+28 April 2022 Updated accession roadmap of MARI
+29 October 2021 Updated accession roadmap of MARI
+24 April 2021 Updated accession roadmap of MARI
+13 November 2020 Updated accession roadmap of MARI
+24 April 2020 Accession roadmap of MARI
+November 2018 N-SIDE Final Report
+N-SIDE Clarifying Questions
+News and information notes
+16 July 2026 ELES successfully accessed the MARI platform
+16 April 2026 RTE successfully accessed the MARI platform
+18 February 2026 ESO successfully accessed the MARI platform
+3 December 2025 TenneT NL successfully accessed the MARI platform
+23 May 2025 ELIA successfully accessed the MARI platform
+17 December 2024 Red Eléctrica successfully accessed the MARI platform
+6 December 2024 Communication note of SEPS connection to MARI
+27 November 2024 REN successfully accessed the MARI platform
+10 October 2024 Communication note of Baltic TSOs connection to MARI
+27 June 2023 APG successfully accessed to MARI platform
+5 October 2022 Go-Live of MARI
+18 December 2018 mFRR Implementation Framework
+21 November 2017 The First Consultation (Call for Input) - 19 European TSOs Seek Stakeholders’ Feedback
+5 April 2017 19 European TSOs agree to further cooperation on mFRR-platform
+Consultations
+15 May to 16 July 2018 mFRR Implementation Framework before submission 18 December 2018
+21 November to 20 December 2017 mFRR Platform Design - First Consultation
+Contacts
+PMO: Susanne Dornick
+PMO: Max Lauer
+GET THE MOST POWERFUL NEWSLETTER IN BRUSSELS
+Please enter a valid email address.
+Please fill in your email address.
+First Name *
+Please enter your first name.
+Last Name *
+Please enter your last name.
+Organisation *
+Please enter your organisation.
+By subscribing, I consent to the processing of my personal data for the purpose of sending the newsletter. *
+You must consent to data processing to subscribe.
+I read and accept the Data Protection Policy *
+You must accept the Data Protection Policy to subscribe.
+Sign up for press updates
+Our Work
+Network Codes
+Outlooks
+Transparency Platform
+Power Regions
+Common Information Model
+Position Papers
+Standardisation
+EU Grid Map
+Association
+About
+News
+Events
+Members
+Careers
+Governance
+Our Staff
+Contact
+Extranet
+Stay updated
+LinkedIn
+YouTube
+© 2009-2026  ENTSO-E
+Sitemap Suppliers Disclaimer Privacy Policy Cookie Policy Whistleblowing Policy Website feedback to info@entsoe.eu

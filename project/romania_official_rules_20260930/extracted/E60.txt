@@ -1,0 +1,563 @@
+=== PDF PAGE 1 ===
+MONITORUL OFICIAL AL ROMÂNIEI,PARTEA I, Nr. 707/26.VIII.202612
+ACTE ALE AUTORITĂȚII NAȚIONALE
+DE REGLEMENTARE
+ÎN
+DOMENIUL ENERGIEI
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+ORDIN
+pentru aprobarea Regulamentului privind mecanismul 
+de achiziționare a serviciului de sistem pentru flexibilitatea
+consumului dispecerizabil
+Având în vedere prevederile art. 2 pct. 79, art. 3 lit. c) și ale art. 18 alin. (2) lit. c)
+din Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie
+2019 privind piața internă de energie electrică, și ale art. 2 lit. q), art. 3 pct. 29 și 106,
+art. 23 alin. (7), art. 36 alin. (2) lit. b) și alin. (3) din Legea energiei electrice și a
+gazelor naturale nr. 123/2012, cu modificările și completările ulterioare,
+în temeiul dispozițiilor art. 5 alin. (1) lit. c) din Ordonanța de urgență a
+Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de
+Reglementare în Domeniul Energiei, aprobată cu modificări și completări prin
+Legea nr. 160/2012, cu modificările și completările ulterioare,
+președintele Autorității Naționale de Reglementare în Domeniul
+Energiei emite următorul ordin:
+Art. 1. — Se aprobă Regulamentul privind mecanismul de achiziționare a
+serviciului de sistem pentru flexibilitatea consumului dispecerizabil, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Operatorii economici din sectorul energiei electrice duc la
+îndeplinire prevederile prezentului ordin.
+Art. 3. — Direcțiile de specialitate din cadrul Autorității Naționale de
+Reglementare în Domeniul Energiei urmăresc respectarea prevederilor prezentului
+ordin.
+Art. 4. — Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+Art. 5. — Operatorul de transport și de sistem publică regulamentul prevăzut
+la art. 1 pe pagina proprie de internet în termen de două zile după publicarea
+acestuia în Monitorul Oficial al României, Partea I.
+Președintele Autorității Naționale de Reglementare
+în Domeniul Energiei,
+George-Sergiu Niculescu
+București, 19 august 2026.
+Nr. 54.
+ANEXĂ
+REGULAMENT
+privind mecanismul de achiziționare a serviciului de sistem pentru flexibilitatea consumului dispecerizabil
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezentul regulament are drept scop să
+stabilească regulile pentru achiziționarea pe bază de piață a
+serviciului de sistem pentru flexibilitatea consumului
+dispecerizabil și pentru utilizarea serviciului de sistem pentru
+flexibilitatea consumului dispecerizabil.
+(2) Prezentul regulament se aplică consumului dispecerizabil
+de energie electrică, agregatorilor de energie electrică și
+furnizorilor de energie electrică, care sunt entități participante la
+piața pentru ziua următoare, în calitate de prestatori de serviciu
+de sistem pentru flexibilitatea consumului dispecerizabil,
+operatorului de transport și de sistem, în calitate de achizitor al
+acestui serviciu, operatorilor pieței pentru ziua următoare și
+operatorilor de măsurare, în calitate de gestionari ai datelor cu
+privire la furnizorii serviciului de sistem pentru flexibilitatea
+consumului dispecerizabil.
+(3) Nu pot participa la serviciul de sistem pentru flexibilitatea
+consumului dispecerizabil clienții finali care sunt calificați ca
+furnizori de servicii de echilibrare și care participă la piața
+serviciilor de echilibrare.
+(4) Sunt eligibili pentru participarea la serviciul de sistem
+pentru flexibilitatea consumului dispecerizabil numai clienții finali
+ale căror locuri de consum sunt echipate cu contoare care
+permit transmiterea datelor de la distanță.
+Art. 2. — (1) Activarea mecanismului prin care se folosește
+flexibilitatea consumului dispecerizabil se aplică în următoarele
+situații de criză în funcționarea sistemului energetic național:
+a) penuria națională de resurse care generează riscul de
+neîndeplinire a condițiilor de adecvanță și de funcționare sigură
+a sistemului energetic național;
+
+=== PDF PAGE 2 ===
+b) penuria resurselor și situațiile de criză la nivel regional
+și/sau european care impun măsuri de asigurare a funcționării
+sigure a sistemului energetic național sau în urma cărora apar
+solicitări ale organismelor Uniunii Europene cu scopul de a
+menține siguranța în funcționare a sistemului interconectat și de
+întrajutorare între țările membre;
+c) perioade prelungite de timp cu condiții meteorologice
+nefavorabile/extreme (perioade de ger sau de caniculă); de
+asemenea, manifestări meteorologice extreme (furtuni violente,
+precipitații masive, inundații etc.) care prin impactul lor asupra
+sistemului/rețelelor electrice conduc la indisponibilizarea puterii
+generate în unele centrale într-un volum considerabil și pe
+perioade de timp mai lungi de 3 zile;
+d) indisponibilitatea de lungă durată a unor linii electrice de
+interconexiune sau din rețeaua de transport internă care
+limitează capacitatea de import a sistemului energetic național;
+e) alte situații de criză sau de urgență în funcționarea
+sistemului energetic național identificate de către Dispecerul
+Energetic Național în cadrul activității de planificare și
+programare a funcționării sistemului energetic național.
+(2) Operatorul de transport și de sistem elaborează, în urma
+unui proces de consultare publică, și afișează pe pagina proprie
+de internet procedura de aplicare a mecanismului de achiziționare
+a serviciului de sistem pentru flexibilitatea consumului
+dispecerizabil, care detaliază modalitatea de implementare
+a prevederilor prezentului regulament, inclusiv:
+a) metoda de determinare a necesității activării mecanismului
+și perioada în care se aplică acest mecanism;
+b) modalitatea de calcul al valorii necesarului de servicii de
+sistem pentru flexibilitatea consumului dispecerizabil pentru care
+se aplică mecanismul;
+c) stabilirea intervalelor de tranzacționare;
+d) fluxul operațional și schimbul de informații între participanți.
+(3) Operatorul de transport și de sistem stabilește necesitatea
+achiziționării de servicii de sistem pentru flexibilitatea consumului
+dispecerizabil dacă, în urma evaluării rezultatelor pieței pentru
+ziua următoare și ale pieței de echilibrare din ultimele 5 zile
+lucrătoare, considerate zile de livrare încheiate, determină că pe
+oricare dintre aceste piețe în anumite intervale de tranzacționare
+nu este asigurat în mod sistematic un grad de adecvanță
+corespunzător al ofertelor de vânzare în raport cu ofertele de
+cumpărare de energie electrică.
+(4) Pentru realizarea sarcinilor prevăzute la alin. (1)-(3)
+operatorul de transport și de sistem solicită date de la operatorii
+piețelor de energie electrică, iar aceștia au obligația de a pune
+la dispoziție respectivele date la termenele solicitate.
+CAPITOLUL II
+Abrevieri și definiții
+Art. 3. — Abrevierile utilizate în cadrul prezentului regulament
+au următoarele semnificații:
+a) ANRE — Autoritatea Națională de Reglementare în
+Domeniul Energiei;
+b) CET — Central European Time (ora Europei Centrale);
+c) Clauze și condiții pentru PRE — Regulamentul privind
+clauzele și condițiile pentru părțile responsabile cu echilibrarea,
+aprobat prin ordin al președintelui ANRE;
+d) OD — operatorul de distribuție;
+e) OM — operator de măsurare;
+f) OTS — operatorul de transport și de sistem;
+g) SFC — serviciu de sistem pentru flexibilitatea consumului
+dispecerizabil;
+h) PE — piața de echilibrare;
+i) PRE — parte responsabilă cu echilibrarea;
+j) PZU — piața pentru ziua următoare;
+k) POD — Point of Delivery (cod loc de consum);
+l) SEN — Sistemul electroenergetic național;
+m) UE — Uniunea Europeană.
+Art. 4. — În înțelesul prezentului regulament, termenii și
+expresiile folosite au semnificațiile definite în:
+a) art. 2 din Directiva (UE) 2019/944 a Parlamentului
+European și a Consiliului din 5 iunie 2019 privind normele
+comune pentru piața internă de energie electrică și de
+modificare a Directivei 2012/27/UE;
+b) art. 2 din Regulamentul (UE) 2019/943 al Parlamentului
+European și al Consiliului din 5 iunie 2019 privind piața internă
+de energie electrică;
+c) art. 3 din Legea energiei electrice și a gazelor naturale
+nr. 123/2012, cu modificările și completările ulterioare;
+d) Regulamentul privind clauzele și condițiile pentru furnizorii
+de servicii de echilibrare și pentru furnizorii de rezervă de
+stabilizare a frecvenței, aprobat prin Ordinul președintelui
+Autorității Naționale de Reglementare în Domeniul Energiei
+nr. 127/2021, cu modificările și completările ulterioare;
+e) Regulamentul privind clauzele și condițiile pentru părțile
+responsabile cu echilibrarea, aprobat prin Ordinul președintelui
+Autorității Naționale de Reglementare în Domeniul Energiei
+nr. 127/2021, cu modificările și completările ulterioare.
+Art. 5. — În înțelesul specific al prezentului regulament,
+termenii și expresiile de mai jos au următoarele semnificații:
+a) marcă de timp — informația în formă electronică atașată
+în mod unic unei oferte care certifică faptul că aceasta a fost
+primită de către OTS la un moment de timp bine determinat;
+b) oferta pentru SFC— pereche preț-cantitate, reprezentând
+angajamentul ferm transmis de un furnizor de SFC către OTS;
+c) oră de închidere a porții pentru transmiterea ofertelor
+pentru SFC— momentul de timp de la care nu mai este permisă
+transmiterea sau actualizarea unei oferte pentru SFC;
+d) ordine de merit — ordonarea crescătoare după preț a
+perechilor preț-cantitate din ofertele pentru SFC, stabilită și utilizată
+de OTS, pentru determinarea ofertelor care vor fi acceptate;
+e) serviciu de sistem pentru flexibilitatea consumului
+dispecerizabil — serviciu de sistem bazat pe flexibilitatea
+consumului dispecerizabil, achiziționat și utilizat de OTS;
+f) 
+tranzacție fermă — angajamentul ferm dintre un furnizor
+pentru SFC și OTS, în condițiile acceptării de către OTS a
+prețului solicitat de respectivul furnizor de SFC în cadrul ofertei,
+pe baza căruia se desfășoară procesul de decontare financiară;
+g) valoarea activată a SFC — valoarea SFC pe care OTS o
+consideră în cadrul procesului de decontare financiară;
+h) interval de tranzacționare— interval de timp egal ca durată
+cu intervalul de decontare al dezechilibrelor de 15 minute;
+i) V
+nec — valoarea necesarului de SFC pe care OTS trebuie
+să îl achiziționeze — exprimat în MW;
+j) Vofertă — oferta pentru SFC este perechea preț-cantitate
+transmisă de un participant la licitația pentru SFC și reprezintă
+angajamentul ferm al acestuia — exprimat în lei/MW;
+k) V
+ref — valoarea de referință, determinată de operatorii de
+piață ai PZU, ca medie aritmetică a celor mai mari volume
+ofertate la cumpărare din PZU de către participantul la licitația
+pentru SFC, în ultimele 5 zile lucrătoare, considerate zile de
+livrare, înainte de ziua D-1, corespunzătoare fiecărui interval de
+tranzacționare pentru care participantul a transmis oferte pentru
+SFC — exprimat în MW;
+l) V
+ref tot — valoare totală de referință este valoarea calculată
+de OTS ca sumă a valorilor transmise de către operatorii de
+piață ai PZU — exprimată în MW;
+m) V
+cumpPZU — valorile cantității de energie electrică
+cumpărate pe PZU pentru ziua de livrare D, de către fiecare
+participant la licitația SFC care se regăsește în lista transmisă de
+OTS operatorilor de piață ai PZU — exprimată în MW;
+n) V
+cumpPZU,tot — valoarea totală de referință a energiei
+electrice cumpărate din PZU calculată de către OTS, pentru
+fiecare participant la licitația pentru SFC, din lista întocmită de
+OTS — exprimată în MW;
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 707/26.VIII.2026 13
+
+=== PDF PAGE 3 ===
+o) Vpod_reducere — valoarea cu care fiecare loc de consum
+comunicat de participantul din lista SFC contribuie la reducerea
+de putere tranzacționată, în fiecare interval de tranzacționare,
+din ziua D — exprimată în MW;
+p) V
+pod_ref — valoarea consumului mediu de referință
+determinat de OTS, ca medie a valorilor consumurilor, pe fiecare
+interval de tranzacționare, din ultimele 5 zile lucrătoare, al
+locului/locurilor de consum care aparțin respectivului participant
+la SFC — exprimată în MW;
+q) V
+pod_măsurat — datele de consum măsurate de OM ale
+locului de consum al participantului la SFC pentru intervalele de
+tranzacționare a SFC aferente zilei de livrare D — exprimată
+în MW.
+CAPITOLUL III
+Regulile licitațiilor pentru SFC
+SECȚIUNEA 1
+Reguli generale
+Art. 6. — (1) OTS elaborează, în urma unui proces de
+consultare publică, contractul-cadru de furnizare a SFC și îl
+publică pe pagina proprie de internet. OTS achiziționează SFC,
+prin mecanisme de piață — licitații zilnice, de la participanții la
+PZU enumerați la art. 1 alin. (2) care au semnat voluntar cu OTS
+contractul-cadru privind furnizarea SFC.
+(2) Contractul-cadru trebuie să conțină valoarea minimă și
+maximă a cantității de SFC, exprimată în MW, pentru fiecare
+interval de tranzacționare pe care îl poate oferta respectivul
+participant.
+(3) Licitațiile zilnice pentru SFC sunt organizate de OTS pentru
+achiziția SFC în anumite intervale de tranzacționare din zile
+lucrătoare pentru care OTS determină necesitatea utilizării unui
+astfel de serviciu conform procedurii prevăzute la art. 2 alin. (2).
+(4) Mecanismul poate fi utilizat doar pe durata strict necesară
+determinată de OTS, dar nu mai mult de o lună. Declanșarea
+unei noi perioade de aplicare a mecanismului necesită o nouă
+analiză realizată conform prevederilor și procedurii prevăzute la
+art. 2.
+Art. 7. — Fiecare ofertă pentru SFC transmisă de participanții
+la licitația pentru SFC trebuie să conțină cantitatea de SFC
+exprimată în MW, iar prețurile ofertelor pentru SFC sunt numere
+pozitive, cu două zecimale, și sunt exprimate în lei/MW.
+Cantitatea minimă de SFC care poate fi ofertată este de 0,5 MW.
+Art. 8. — Achiziția SFC se face prin licitații zilnice, separat
+pentru fiecare interval de tranzacționare stabilit conform
+prevederilor procedurii prevăzute la art. 2 alin. (2).
+Art. 9. — Ofertele transmise de către fiecare participant la
+licitația zilnică pentru SFC sunt individuale pentru fiecare interval
+de tranzacționare.
+Art. 10. — Tranzacțiile încheiate pentru SFC stabilesc
+obligația respectivului participant la licitație de a furniza serviciul
+corespunzător produsului ofertat către OTS, în conformitate cu
+oferta pentru SFC transmisă în cazul în care aceasta este
+activată de OTS.
+SECȚIUNEA a 2-a
+Determinarea puterii necesar a fi redusă 
+într-un interval de tranzacționare
+Art. 11. — OTS determină valoarea necesarului de SFC
+(Vnec) pe care trebuie să îl achiziționeze, în funcție de cele mai
+recente prognoze pentru consumul și producția de energie
+electrică pe care le are la dispoziție, pentru fiecare interval de
+tranzacționare pentru care desfășoară licitația, pe baza metodei
+cuprinse în cadrul procedurii prevăzute la art. 2 alin. (2).
+Art. 12. — OTS publică cu două zile înainte de ziua de
+livrare D, la ora 10:00 CET, odată cu anunțul pentru organizarea
+licitației pentru ziua D, pe pagina proprie de internet, valoarea
+necesarului de SFC (V
+nec) determinată conform art. 11 pentru
+fiecare interval de tranzacționare aferent zilei de livrare D pentru
+care determină necesitatea utilizării unor astfel de servicii
+conform prevederilor art. 2 alin. (2).
+SECȚIUNEA a 3-a
+Ofertarea pentru SFC
+Art. 13. — Orice participant la licitația pentru SFC are dreptul
+de a transmite la OTS oferte pentru SFC, începând cu momentul
+publicării de către OTS a valorii necesarului de SFC (V
+nec)
+(puterii necesar a fi redusă) conform prevederilor art. 12 și până
+la ora 9:00 CET în ziua D-1.
+Art. 14. — Participanții la piața pentru SFC pot oricând să
+modifice sau să anuleze ofertele înainte de ora de închidere a
+ofertării pentru SFC. Orice modificare stabilește o nouă ofertă
+pentru SFC, anulând automat oferta respectivului participant
+care a fost transmisă anterior pentru același interval de
+tranzacționare.
+Art. 15. — Ofertele participanților la SFC sunt transmise în
+format electronic, prin mijloacele de comunicare prevăzute de
+OTS în cadrul procedurii prevăzute la art. 2 alin. (2).
+Art. 16. — O ofertă pentru SFC se consideră transmisă oficial
+la momentul intrării în sistemul informatic al OTS, moment în
+care i se atașează marca de timp. OTS confirmă respectivului
+participant la SFC primirea acesteia, comunicând numărul de
+înregistrare și marca de timp. OTS validează ofertele
+participanților la SFC imediat după primire și respinge ofertele
+care nu îndeplinesc cerințele privind formatul-cadru al ofertelor
+pentru SFC prevăzute la art. 17. În cazul în care respinge o
+ofertă, OTS informează participantul la SFC respectiv și îi
+comunică motivele respingerii într-un termen stabilit în cadrul
+procedurii prevăzute la art. 2 alin. (2).
+Art. 17. — OTS elaborează și publică pe pagina proprie de
+internet conținutul și formatul-cadru ale ofertelor pentru SFC și
+modul de transmitere a ofertelor.
+Art. 18. — După închiderea porții pentru ofertarea pentru
+SFC, OTS ordonează crescător în funcție de preț ofertele
+(V
+ofertă) primite de la participanții la licitația pentru SFC și
+transmite lista ofertanților pentru licitația SFC operatorilor de
+piață ai PZU până la ora 10:00 CET în ziua D-1.
+SECȚIUNEA a 4-a
+Selectarea ofertelor pentru SFC
+Art. 19. — (1) Pentru fiecare participant la licitația pentru SFC
+care se regăsește în ordinea prevăzută la art. 18, OTS solicită
+operatorilor de piață ai PZU media aritmetică a celor mai mari
+valori ale puterii ofertate la cumpărare din PZU transmise de
+respectivul participant în ultimele 5 zile lucrătoare considerate
+zile de livrare încheiate înainte de ziua D-1 (V
+ref), medie
+corespunzătoare fiecărui interval de tranzacționare pentru care
+acesta a transmis oferte pentru SFC.
+(2) În cazul în care OTS identifică participanți la licitația
+pentru SFC care au atribuite valori ale puterii la mai mulți
+operatori de piață ai PZU, atunci OTS calculează suma valorilor
+transmise de către operatorii de piață ai PZU pentru a afla
+valoarea totală de referință (V
+ref tot) a energiei electrice ofertată
+pe PZU pentru fiecare participant la licitația pentru SFC și pentru
+fiecare interval de tranzacționare pentru care acesta a transmis
+ofertă pentru licitația pentru SFC.
+(3) Aceste valori se transmit de către operatorii de piață ai
+PZU la OTS până la ora 12:00 CET în ziua D-1.
+(4) Dacă în unul dintre intervalele de tranzacționare din zilele
+anterioare zilei de livrare determinate conform alin. (1) a fost
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 707/26.VIII.202614
+
+=== PDF PAGE 4 ===
+activat un participant la SFC, atunci la rezultatul mediei
+aritmetice OTS ia în considerare și valorile activate pentru
+respectivul participant.
+Art. 20. — OTS verifică, pentru fiecare participant la licitația
+SFC care a transmis o ofertă (V
+ofertă), îndeplinirea condiției
+Vofertă ≤ Vref sau Vofertă ≤ Vref tot , după caz, pentru a selecta
+ofertele fiecărui participant la licitația SFC.
+Art. 21. — OTS ordonează ofertele pentru SFC selectate în
+ordinea crescătoare a prețurilor, astfel încât să se acopere
+valoarea necesarului de SFC (V
+nec), determinată de OTS
+conform prevederilor art. 11.
+Art. 22. — Selectarea ofertelor pentru SFC se face de către
+OTS pentru fiecare interval de tranzacționare din ziua D pentru
+care se desfășoară licitația pentru SFC, luând în considerare
+ofertele care îndeplinesc condițiile prevăzute la art. 20.
+Art. 23. — Pe baza ofertelor selectate pentru SFC conform
+prevederilor art. 22, OTS constituie lista participanților selectați
+care conține valorile SFC ofertate (V
+ofertă), pentru fiecare interval
+de tranzacționare din ziua de livrare D pentru care se desfășoară
+licitația pentru SFC, o transmite operatorilor de piață ai PZU și o
+publică în platforma informatică până la ora 13:00 CET.
+SECȚIUNEA a 5-a
+Validarea ofertelor pentru SFC
+Art. 24. — (1) Pentru fiecare participant la licitația pentru SFC
+care se regăsește în lista prevăzută la art. 23, OTS solicită
+operatorilor piețelor PZU valorile cantității de energie electrică
+cumpărate de respectivii participanți în fiecare interval de
+tranzacționare al PZU pentru ziua de livrare D (V
+cumpPZU) pentru
+care aceștia au transmis o ofertă pentru licitația pentru SFC.
+(2) În cazul în care OTS identifică în lista prevăzută la alin. (1)
+participanți la licitația pentru SFC care au atribuite valori la mai
+mulți operatori de piață ai PZU, atunci OTS calculează suma
+tuturor valorilor transmise de către operatorii de piață ai PZU
+pentru a afla valoarea totală de referință (V
+cumpPZU,tot) a energiei
+electrice cumpărate din PZU pentru fiecare participant la licitația
+pentru SFC și pentru fiecare interval de tranzacționare pentru
+care acesta a transmis ofertă pentru licitația pentru SFC.
+(3) Aceste valori se transmit de către operatorii de piață ai
+PZU la OTS până la ora 15:00 CET în ziua D-1, respectiv cât
+mai curând în cazul în care apar întârzieri ale procesului de
+tranzacționare, conform procedurilor PZU aplicabile.
+Art. 25. — OTS compară, pentru fiecare participant la SFC
+din lista participanților la SFC selectați de OTS, valorile obținute
+conform prevederilor art. 24 cu diferența valorilor obținute
+conform prevederilor art. 19 și 23, conform formulei V
+cumpPZU ≤
+Vref – Vofertă sau VcumpPZU,tot ≤ Vref tot – Vofertă, după caz.
+Art. 26. — Dacă este verificată condiția prevăzută la art. 25,
+atunci ofertele pentru licitația SFC selectate sunt validate de
+către OTS, acestea devin tranzacții ferme, sunt considerate
+activate de către OTS și vor fi plătite conform contractului-cadru
+semnat de participanții la licitația pentru SFC cu OTS prevăzut
+la art. 6, cu condiția respectării prevederilor de la art. 36.
+Art. 27. — OTS publică până la ora 16:00 CET a zilei D-1 lista
+cu ofertele pentru SFC activate și transmite fiecărei PRE care și-a
+asumat responsabilitatea echilibrării pentru participanții la licitația
+pentru SFC a căror ofertă a fost activată valorile SFC activate
+corespunzătoare, pe fiecare interval de tranzacționare, pentru a fi
+considerate în cadrul notificărilor de program pentru PE.
+Art. 28. — PRE care și-a asumat responsabilitatea echilibrării
+pentru participanții la licitația pentru SFC le transmit
+participanților respectivi valorile puterilor activate în fiecare
+interval de tranzacționare de către OTS, considerate tranzacții
+încheiate, imediat ce au primit valorile respective de la OTS.
+Art. 29. — În cazul în care nu este îndeplinită condiția
+prevăzută la art. 25, atunci ofertele pentru SFC selectate nu sunt
+validate de către OTS și nu vor fi plătite conform contractului
+semnat de participanții la licitația pentru SFC cu OTS.
+SECȚIUNEA a 6-a
+Determinarea valorii consumului de referință 
+pentru fiecare participant la licitația pentru SFC
+Art. 30. — Efectuarea SFC tranzacționat se verifică fizic în
+raport cu valorile măsurate ale puterilor reduse de participantul
+la SFC în ziua de livrare D, în intervalele de tranzacționare
+pentru care a fost selectată de către OTS.
+Art. 31. — (1) În ziua D-1, până la ora 18:00 CET, participanții
+activați pentru SFC transmit la OTS, la OM care are în
+responsabilitate administrarea și operarea sistemului de
+măsurare a energiei electrice și gestionarea bazei de date de
+măsurare a locului/locurilor de consum care aparține/aparțin
+respectivului participant la SFC și la PRE căruia i-a delegat
+responsabilitatea echilibrării lista POD-urilor locurilor de consum
+și valorile puterilor cu care fiecare dintre aceștia participă la
+reducerea de putere tranzacționată, în fiecare interval de
+tranzacționare (V
+pod_reducere).
+(2) În același timp, participantul activat pentru SFC solicită
+OM ca acesta să determine consumul de referință pentru fiecare
+loc de consum indicat de participantul activat pentru SFC pentru
+intervalele de tranzacționare în care ofertele pentru SFC au fost
+activate de către OTS.
+(3) În situația în care OTS identifică faptul că același
+participant activat pentru SFC a participat la mecanismul SFC în
+una sau mai multe zile din intervalul prevăzut la art. 32, acesta
+trebuie să transmită OM, până la ora 18:30 CET, pentru
+respectivul participant la SFC și pentru fiecare interval de
+tranzacționare din zilele respective, valoarea puterii pe care
+participantul la SFC a redus-o, iar OM trebuie să țină cont și de
+aceste valori atunci când calculează consumul de referință.
+Art. 32. — OM determină consumul de referință pentru
+fiecare loc de consum după cum urmează:
+a) selectează datele înregistrate pe care le are la dispoziție
+pentru locul/locurile de consum notificat(e) de către participantul
+la licitația pentru SFC pentru ultimele 5 zile lucrătoare
+considerate zile de livrare, încheiate înainte de ziua D, pentru
+fiecare interval de tranzacționare pe care participantul la piață i
+le-a notificat conform art. 32;
+b) pe baza datelor prevăzute la lit. a), OM determină media
+aritmetică a valorilor consumurilor pentru fiecare interval de
+tranzacționare din ultimele 5 zile lucrătoare considerate zile de
+livrare, încheiate înainte de ziua D, ținând cont și de valorile pe
+care OTS i le va trimite conform prevederilor art. 31 alin. (3),
+după caz, valoarea rezultată fiind valoarea consumului de
+referință pentru fiecare interval de tranzacționare (V
+pod);
+c) prin excepție de la prevederile lit. a), în situația în care, din
+motive tehnice, datele de măsurare din intervalele de
+tranzacționare din ultimele 5 zile lucrătoare considerate zile de
+livrare, încheiate înainte de ziua D, nu sunt disponibile, valoarea
+consumului de referință va fi stabilită pe baza datelor din ultimele
+5 zile lucrătoare pentru care OM deține informații pentru
+respectivele intervale de tranzacționare.
+Art. 33. — Valoarea consumului de referință aferent fiecărui
+loc de consum, determinată de către OM, pentru fiecare interval
+de tranzacționare, este transmisă de către OM în ziua D-1 până
+la ora 20:00 CET către PRE căreia i-a delegat responsabilitatea
+echilibrării respectivul participant la SFC, participantului la piață
+deținător al locului de consum respectiv și la OTS.
+Art. 34. — OTS determină, pentru fiecare participant la SFC,
+consumul mediu de referință ca medie aritmetică a consumurilor
+din ultimele 5 zile lucrătoare, considerate zile de livrare,
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 707/26.VIII.2026 15
+
+=== PDF PAGE 5 ===
+încheiate înainte de ziua D-1, al locului/locurilor de consum
+indicat(e) de respectivul participant la SFC pentru fiecare din
+intervalele de tranzacționare (V
+pod_ref).
+Art. 35. — După ziua de livrare D, OM transmite la
+OTS/PRE/participanții la SFC datele de consum măsurate
+pentru intervalele de tranzacționare ale locului/locurilor de
+consum indicat(e) de participantul la SFC aferente zilei de livrare
+D (V
+pod_măsurat) și datele istorice pentru cele 5 zile lucrătoare
+anterioare prevăzute la art. 31, pentru fiecare POD declarat de
+fiecare participant la SFC.
+Art. 36. — (1) OTS compară valorile de referință calculate
+conform prevederilor art. 34 cu valorile măsurate transmise
+conform prevederilor art. 35 și face calculele de decontare după
+cum urmează:
+a) dacă sum(V
+pod_măsurat ) ≤ sum(V pod_ref – Vpod_reducere ),
+atunci OTS plătește participantului la SFC cantitatea ofertată de
+respectivul participant la SFC și validată de OTS conform
+prevederilor art. 26;
+b) dacă sum(V
+pod_măsurat ) > sum(V pod_ref – Vpod_reducere ),
+atunci OTS nu plătește participantului la SFC cantitatea ofertată
+de respectivul participant la SFC și validată de OTS conform
+prevederilor art. 26.
+(2) În vederea participării clienților finali la serviciul de sistem
+pentru flexibilitatea consumului dispecerizabil, furnizorii și
+agregatorii au obligația de a asigura existența unui cadru
+contractual care să reglementeze cel puțin:
+a) condițiile de participare la SFC;
+b) modalitatea de activare a serviciului;
+c) drepturile și obligațiile părților;
+d) modalitatea de determinare și verificare a flexibilității
+furnizate;
+e) modalitatea de decontare a serviciului;
+f) modalitatea de stabilire și acordare către clientul final a
+unor beneficii financiare din participarea la SFC.
+Art. 37. — Plata de către OTS către participanții la licitația
+pentru SFC a ofertelor pentru SFC care au fost activate se
+realizează la prețul fiecărei oferte, cu condiția respectării
+prevederilor art. 36 alin. (1) lit. a).
+Art. 38. — OTS întocmește note lunare de decontare pentru
+fiecare furnizor SFC, pe baza cărora se va efectua plata către
+furnizorii SFC.
+CAPITOLUL IV
+Dispoziții finale
+Art. 39. — Cheltuielile OTS rezultate ca urmare a achiziției de
+SFC sunt recunoscute drept costuri la calculul tarifului pentru
+achiziția serviciilor de sistem în conformitate cu prevederile
+Metodologiei de stabilire a tarifului pentru achiziția serviciilor de
+sistem, în vigoare.
+Art. 40. — OTS elaborează, consultă public și publică pe
+pagina proprie de internet procedura și restul documentelor
+prevăzute în prezentul regulament în termen de 3 luni de la
+publicarea acestuia în Monitorul Oficial al României, Partea I.
+MONITORUL OFICIAL AL ROMÂNIEI, 
+PARTEA I, Nr. 707/26.VIII.202616
+„Monitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; 012329
+C.I.F. RO427282, IBAN: RO55RNCB0082006711100001 BCR
+și IBAN: RO12TREZ7005069XXX000531 DTCPMB (alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, www.monitoruloficial.ro
+Relații cu publicul: șos. Panduri nr. 1, bloc P33, sectorul 5, București; 050651.
+Tel. 021.401.00.73, 021.401.00.78/79/83. 
+Pentru publicări, încărcați actele pe site, la: https://www.monitoruloficial.ro, secțiunea Publicări.
+EDITOR: PARLAMENTUL ROMÂNIEI  — CAMERA DEPUTAȚILOR
+&JUYEJT|721581]
+Monitorul Oficial al României, Partea I, nr. 707/26.VIII.2026 conține 16 pagini. Prețul: 12,80 lei ISSN 1453—4495

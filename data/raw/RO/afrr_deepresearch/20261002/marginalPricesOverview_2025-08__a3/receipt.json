@@ -1,0 +1,12 @@
+{
+  "id": "marginalPricesOverview_2025-08",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "scope": "2025-08 Europe/Bucharest; expected 2976 PT15M rows",
+  "attempt": 3,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:10:40.681490+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+}

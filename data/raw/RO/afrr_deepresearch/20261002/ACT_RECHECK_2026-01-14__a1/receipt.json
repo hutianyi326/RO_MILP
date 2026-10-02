@@ -1,0 +1,18 @@
+{
+  "id": "ACT_RECHECK_2026-01-14",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-01-13T22%3A00%3A00Z&timeInterval.to=2026-01-14T22%3A00%3A00Z&pageInfo.pageSize=3000",
+  "scope": "2026-01-14 Europe/Bucharest",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:15:26.201830+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-01-13T22%3A00%3A00Z&timeInterval.to=2026-01-14T22%3A00%3A00Z&pageInfo.pageSize=3000",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/ACT_RECHECK_2026-01-14__a1/original.json",
+  "sha256": "4c98f5e92d509cf4fa54ad3384bec32bf9f441781cb21c933629a2a7ae84ab22",
+  "bytes": 21077,
+  "detected_format": "json"
+}

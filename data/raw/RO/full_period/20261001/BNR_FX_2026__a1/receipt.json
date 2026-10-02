@@ -1,0 +1,21 @@
+{
+  "id": "BNR_FX_2026",
+  "dataset": "D14",
+  "publisher": "BNR",
+  "title": "Annual official reference exchange rates 2026",
+  "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2026.xml",
+  "scope": "official catalog-linked annual XML; no weekend fill; settlement use not approved",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:50:21.794740+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2026.xml",
+  "content_type": "text/xml",
+  "raw_file": "data/raw/RO/full_period/20261001/BNR_FX_2026__a1/original.xml",
+  "sha256": "9bb4cfc29e8fd348249cc05cf0493159f870bd55a150b3b80b122a8998974276",
+  "bytes": 257732,
+  "detected_format": "xml"
+}

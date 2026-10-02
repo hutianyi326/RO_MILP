@@ -1,0 +1,24 @@
+{
+  "id": "IDCT_2026-02-27",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "02/27/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2026-02-27",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:48:24.438233+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_2026-02-10__a2/form_original.html",
+  "form_sha256": "7540afc059ad7b38dc63d5f4ad5c64af0aee5d45cf4e427084f9f08ae4843f32",
+  "anonymous_session_reused": true,
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+}

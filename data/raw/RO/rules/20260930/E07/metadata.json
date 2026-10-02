@@ -1,0 +1,14 @@
+{
+  "id": "E07",
+  "url": "https://www.transelectrica.ro/web/tel/piata-serviciilor-tehnologice-de-sistem",
+  "title": "Capacity services registration",
+  "resolved_url": "https://www.transelectrica.ro/web/tel/piata-serviciilor-tehnologice-de-sistem",
+  "retrieved_utc": "2026-09-30T07:41:41.504865+00:00",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E07\\original.html",
+  "bytes": 48909,
+  "sha256": "860b57b09fd176245253eef7b8b11275626f4e7bb2d6414d73c4ea0518be5b1d",
+  "extracted_characters": 8456
+}

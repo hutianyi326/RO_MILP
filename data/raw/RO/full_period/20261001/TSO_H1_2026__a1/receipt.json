@@ -1,0 +1,21 @@
+{
+  "id": "TSO_H1_2026",
+  "dataset": "D10",
+  "publisher": "Transelectrica",
+  "title": "Raport Semestrial Ianuarie - Iunie 2026",
+  "url": "https://www.transelectrica.ro/documents/10179/23486252/Raport_ASF_S1_2026_RO.pdf/1e22931a-8b1b-4f2f-bf8a-01c70cd49711",
+  "scope": "official latest half-year report; snapshot date must be read from actual table",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:50:52.554094+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/23486252/Raport_ASF_S1_2026_RO.pdf/1e22931a-8b1b-4f2f-bf8a-01c70cd49711",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_H1_2026__a1/original.pdf",
+  "sha256": "5c965250d44bee0837d0d24f3f66dcdaa738503a8df064c74699951eebca7beb",
+  "bytes": 1812687,
+  "detected_format": "pdf"
+}

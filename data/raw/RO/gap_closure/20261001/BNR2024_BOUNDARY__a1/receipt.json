@@ -1,0 +1,20 @@
+{
+  "id": "BNR2024_BOUNDARY",
+  "dataset": "D14",
+  "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml",
+  "title": "BNR annual official reference rates 2024 for January 2025 boundary",
+  "scope": "observed 2025/26 official URL pattern extended to 2024; verify body year",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:44:07.174736+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml",
+  "content_type": "text/xml",
+  "raw_file": "data/raw/RO/gap_closure/20261001/BNR2024_BOUNDARY__a1/original.xml",
+  "sha256": "c4397e7f9c31390e449061844ad9f6a03c88bc35e6e88d4f7873760de5ecf2b4",
+  "bytes": 349792,
+  "detected_format": "xml"
+}

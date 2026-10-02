@@ -1,0 +1,31 @@
+{
+  "id": "IDCT60_2026-03-10",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "03/10/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "60"
+  },
+  "title": "OPCOM public hourly IDCT full-date research supplement",
+  "scope": "PT60 published native occurrences only; no trade_id/trade_time, no complete market execution/asof claim",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T14:23:18.819541+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT60_2025-01-01__a1/form_original.html",
+  "form_sha256": "1ac8b5d64f5d9935dec5ea0f562ee56243c55bc3a1fd9d5d604832c6c13c7799",
+  "anonymous_session_reused": true,
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDCT60_2026-03-10__a1/original.html",
+  "sha256": "25c08fbb0dddafad7b384cb363b1364ebc7910afc466dcd65d6fb61349a56e5a",
+  "bytes": 537502,
+  "detected_format": "html"
+}

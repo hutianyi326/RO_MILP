@@ -1,0 +1,18 @@
+﻿anomaly_id,kind,locator_observation,handling,evidence,resolved_source_issue
+SS01,SourcePDF_short_last_rows,10 price tables; SET_UNIQUE_2026-02_104 PDFp1 endsINT092,No zero-fill/old-revision backfill; latest missing210 retained,GC01,False
+SS02,SystemPDF_title_date_conflict,44 versions titleOctombrie2024 but body date headers target months,Both labels preserved; header parsing I does not silently correct source,GC01,False
+SS03,Catalog_body_print_date_conflict,2026-07DEFICIT catalog21.0.8.2026 vsbody2026-08-21; 2025-09SURPLUS catalog28.08.2026 vsbody2026-09-28,"Printed-date selection I explicit, publication unknown",GC01,False
+SS04,Settlement_special_nonempty_patterns,14 native physical ordinals not UNIQUE_ONLY/DUAL_ONLY;210missingallprices,Not official mode/sign declaration; cash blocked,GC01,False
+SS05,Capacity_fall_DST_UTC_coverage,2025-10-26each5products24UTC starts vsphysical25hours,Missing hour not zero; need original contract clock/boundary explanation,old capacity +GC02,False
+SS06,Provider_sum_unmatched,12125/69327hourly provider comparisons do not match demand*satisfiedratio,No whole-provider/legal concentration approval,old reviewed sources,False
+SS07,FRR_capacity_price_unit_conflict,FRRprocPDFp11§8.5.3lei/MWh vsSTSreportPDFp5/p8lei/hMW,Literal conflict retained; no official-typo assertion; field/sitecashblocked,GC02/03,False
+SS08,IDA_published_missing_digits,Most native round rows dash or blank;numericpairsfinal69 across175092rows,Query completeness not numeric market completeness; no zero/no auction inference,GC06,False
+SS09,IDCT_missing_identity,"Public table price/type/volume/product, no trade_time/trade_id/full delivery identity","Keep every occurrence, no dedup or bilateral turnover",GC07,False
+SS10,ANRE_monthly_volume_display_boundary,2026-01 native1520.884975GWh vsANRE1520.89; difference-0.005025GWh,Strict display bound.005GWh breached.000025GWh=25kWh; causeunconfirmed,GC11,False
+SS11,Storage_report_year_not_cutoff,TSOannual2024 battery date2025-02-01;annual2025 snapshot2025-12-05,Neither is12-31 yearend; unknown MW/MWh remainnull,GC13/oldTSOannual2025,False
+SS12,Tariff_filename_body_year_conflict,catalog73_2026/74_2026 butdocumentOrder73/2025 and74/2025 effective2026-01-01,Body authorityyearrecorded;catalog retained,GC_FEE_TARIFF_DOC_14/16,False
+SS13,ENTSO_pdf_shaped_url_HTML_shell,"ENTSO_TOKEN_GUIDE HTTP200 content_type text/html, notPDF",NoPDFunit/requirementderived; replaced by actual ENTSO_HELP_TOKEN/ENDPOINT HTML,GC17/18,False
+SS14,Generic_magic_extension_classification,STS1/2RARstored.html;STS3/4OLEWordstored.xls;RONCSVstored.html,Identifyactualformat;byteexactunpack/staging/conversionprovenance;rawunchanged,GC03/04/05/DA_RON samples,False
+SS15,Licensing_archive_nonofficial_compilation,ANRE-hosted CTCE2023PDF explicitly nonofficial information copy,Discoveryreferenceonly;governmenthistoricalchainnotapproved,GC16,False
+SS16,Historic_2025_OPCOM_fee_chain_incomplete,genericfeeURLsnow2026;2024fee.39 and2026fee.125 observed,No assume entire2025rate; fulltimeline/applicabilityunknown,GC_FEE,False
+SS17,Prior_SCADA_source_defect_unresolved,2026July17sheetF1date2027June17;sourceclocknet/grossundefined,Keep prior restrictions; no unilateral date rewrite,prior reviewedSQ,False

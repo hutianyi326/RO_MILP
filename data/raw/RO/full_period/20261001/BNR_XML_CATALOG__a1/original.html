@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ro">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Utilizarea fișierelor XML pentru preluare curs valutar</title>  
+ <style>
+body {padding: 0 12px; font-family: arial, helvetica, sans-serif;}
+li {padding-bottom: .5em;}
+.links li {padding-bottom: 1em;}
+</style>
+</head> 
+<body>
+<div  style="background:#f5f5f5; padding:1em;">
+        <h1>Cursurile pieței valutare în format XML</h1>
+        <h2>Instrucțiuni de preluare a cursului zilnic prin intermediul aplicațiilor informatice</h2> 
+</div>
+
+		 <div style="background-color: #fff4fe; border:#a51140 2px solid; PADDING: 0.5em 1em; margin-bottom: 1em">
+			<H3>Server dedicat fișierelor XML:</H3>
+			<p style="font: bold 3em arial; color:#a51140">curs.bnr.ro</p>
+		</div>
+<div style="PADDING: 0.5em 1em; margin-bottom: 1em">
+		<H3>Fișiere XML pentru preluarea cursului valutar:</h3>
+		<ul class="links">
+			<li>ultima cotație înregistrată: <a href="https://curs.bnr.ro/nbrfxrates.xml" target="_blank">https://curs.bnr.ro/nbrfxrates.xml</a></li>
+			<li>ultimele 10 înregistrări: <a href="https://curs.bnr.ro/nbrfxrates10days.xml" target="_blank">https://curs.bnr.ro/nbrfxrates10days.xml</a></li>
+			<li>înregistrările anului 2026: <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2026.xml" target="_blank">https://curs.bnr.ro/files/xml/years/nbrfxrates2026.xml</a></li>
+			<li>înregistrările anilor anteriori: <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2025.xml" target="_blank">2025</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml" target="_blank">2024</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2023.xml" target="_blank">2023</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2022.xml" target="_blank">2022</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2021.xml" target="_blank">2021</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2020.xml" target="_blank">2020</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2019.xml" target="_blank">2019</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2018.xml" target="_blank">2018</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2017.xml" target="_blank">2017</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2016.xml" target="_blank">2016</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2015.xml" target="_blank">2015</a>, <a href="https://www.bnr.ro/files/xml/years/nbrfxrates2014.xml" target="_blank">2014</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2013.xml" target="_blank">2013</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2012.xml" target="_blank">2012</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2011.xml" target="_blank">2011</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2010.xml" target="_blank">2010</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2009.xml" target="_blank">2009</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2008.xml" target="_blank">2008</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2007.xml" target="_blank">2007</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2006.xml" target="_blank">2006</a>, <a href="https://curs.bnr.ro/files/xml/years/nbrfxrates2005.xml" target="_blank">2005</a></li>
+		</ul>
+
+		<H3>Observații:</h3>
+<p>Actualizarea datelor se face în timp real, imediat după ora 13:00, în fiecare zi bancară.</p>
+<p>Se recomandă evitarea utilizării paginilor site-ului pentru preluarea automată a datelor, deoarece conținutul sau structura acestora se poate modifica fără preaviz.</p>
+<p>Recomandăm de asemenea stocarea locală a informațiilor&nbsp;preluate,&nbsp;la nivelul aplicației,&nbsp;pentru a evita generarea de trafic redundant.&nbsp;</p>
+<p>Fişierele de curs în format XML sunt generate conform schemei <a href="https://curs.bnr.ro/xsd/nbrfxrates.xsd">https://curs.bnr.ro/xsd/nbrfxrates.xsd</a></p>
+</div>
+<div style="background-color: #f5ebd6; border:#a78f53 1px solid; PADDING: 0.5em 2em; ">
+						<H3>În atenția utilizatorilor</H3>
+						<p>Vă rugăm să aveți în vedere faptul că accesarea fișierelor XML se face securizat, prin intermediul protocolului https (port&nbsp;443).</p>
+						<p>Utilizatorii de aplicații ce colectează în mod automat informații despre cursul valutar trebuie să implementeze mecanisme de criptare utilizând protocolul TLS1.2 și Cipher&nbsp;Suites</p>
+						<ul>
+							<li>TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256</li>
+							<li>TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384</li>
+							<li>TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA</li>
+							<li>TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA</li>
+						</ul>
+			</div>
+  <H3>Note metodologice</H3>
+	<ul>
+		<li>Cursurile incluse în Lista cursurilor medii ale pieţei valutare au la bază cotaţii ale societăţilor bancare autorizate să efectueze operaţiuni pe piaţa valutară.</li>
+		<li>Lista publicată de BNR nu implică obligativitatea utilizării cursurilor valutelor sau a aurului în tranzacţii efective de schimb valutar sau în înregistrări contabile.</li>
+	</ul>
+
+<hr>
+<p>Vă rugăm să ţineţi cont de clauzele specificate în pagina <a href="https://www.bnr.ro/2281-termeni-si-conditii">Termeni și condiții</a><br><br><br></p
+  
+</body>
+</html>
+
+    

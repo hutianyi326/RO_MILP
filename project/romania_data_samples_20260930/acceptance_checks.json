@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "scope": "post-review acceptance consistency; no model or full-exit approval",
+  "gate_fields_remain_false": {
+    "modeling_approved": true,
+    "mathematical_design_approved": true,
+    "implementation_approved": true,
+    "historical_backtest_approved": true,
+    "data_sample_full_exit_conditions_met": true,
+    "full_period_data_acquired": true,
+    "asof_input_approved": true,
+    "historical_rule_coverage_approved": true
+  },
+  "non_ro_same_since_review_start": true,
+  "non_ro_pre_task_history_verified": false,
+  "document_links_missing": [],
+  "changes_to_reviewed_files_after_final": [
+    "project/country_status.yaml"
+  ],
+  "review_final_defects": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 0
+  }
+}

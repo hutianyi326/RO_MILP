@@ -1,0 +1,1238 @@
+DERIVED OCR: Windows built-in recognizer, zh-Hans-CN/ja profile; verify Romanian accents and all formulas against original PDF. Not an original document.
+=== PDF PAGE 1 ===
+Compania NationaIä de Transport al Energiei EIectrice
+TRANSELECTR ℃ A S.A.
+Transelectrtca•
+Membru Directorat
+Cätälin 一 Constantin
+NADOLU
+Aviz CTES nr..
+SE APROBÅ,
+Pre#edinte Directorat,
+$tefänitä MUNTEANU
+Membru Directorat
+Vasile _ Cosmin
+NICULA
+PROCEDURÅ OPERATIONALÅ
+Membru Directorat
+Florin _ Cristian
+TÅTARU
+Verificarea cerintelor performantelor tehnice de calificare pentru
+asigurarea rezervei de stabilizare a frecven!ei (RSF)
+pentru UFR/GFR formatä din instalatii de stocare
+COd: TEL - 07 ． 51
+Editia: 《
+Revizie: 0
+Crt.
+Elemente
+privind
+responsabilii
+Avizat
+Verificat
+Elaborat
+prenume Nume
+2
+lon SMEEIANU
+Virgiliu IVAN
+Costel CONSTANTIN
+lonela 一 Cätälina
+$ERBÅNESCIJ
+Functia
+Data
+4
+Semnätura
+5
+3
+p. Director DMI/ lnspector
+sef Dep.Ml
+Director DEN
+Director DPF SEN
+Manager energetic DEN 一
+MFGAP
+Drept de proprietate
+Prezenta procedurä este proprietatea Companiei Nationale de Transport al Energiei Electrice C.N.T.E.E.
+Transelectrica S.A. Multiplicarea 9i utilizarea partialä sau totalä a acestui document este permisä numai
+acordul scris al conducerii C.N.T.E.E. Transelectrica S.A.
+_ Martie 2026 一
+=== PDF PAGE 2 ===
+COd: TEL _ 07 ． 51
+Pag 26
+EdiCia 《
+Rev. 0 1 2 3 4 5
+TranseIectrke
+2. CUPRINS
+Numärul
+componentel in
+cadrul
+proceduni
+2
+3 ．
+4 ．
+5 ．
+6 ，
+7 ．
+8 ．
+8 ． 4 ． + & 22 ．
+9 ．
+10 ． 2 ．
+10 ， 3 ，
+PROCEDURÅ OPERATIONALÅ
+Verificarea cerintelor performantelor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR
+formatä din instala$ii de stocare
+Denumirea componentei din cadrul procedurii
+Pagina de Gardä
+Cuprins
+Situatia editiilor a reviziilor
+SCOP
+Domeniul de aplicare
+Documente de refenntä
+Definitii abrevteri
+Definilii
+Abrevieri
+MOdul de lucru
+Conditiile generale pentru efectuarea testelor
+Considerente priVlnd executarea testelor
+Cerintele pnwnd aparatele de mäsurå de inregistrare
+Verificarea 曱 determinarea prin teste a parametrilor speclfici
+asigurärii RSF
+Responsabilitäti
+Responsabilitätile OTS
+Responsabllitåtile solicitantului
+Responsabilitåtile executantului Ob or
+Anexe, inregisträri, arhiväri
+Anexe
+nregisträn
+Arhiväri
+Lista de difuzare
+Anexa 1 一 Date tehnice necesare pentru calificare RSF
+Anexa 2 一 Date tehnice pentru calificarea UFR/GFR pentru
+furnizarea RSF (valori brute/valori nete)
+Anexa 3 一 Sinteza testelor efectuate
+Anexa 4 一 Formulare introduse prin procedurä
+Pagina
+2
+3
+4
+4
+4
+6
+6
+7
+8
+8
+9
+9
+9 ÷ 17
+18
+20
+22
+=== PDF PAGE 3 ===
+TranSeIectrtca•
+PROCEDURA OPERATIONALÄ
+Verificarea cerin!elor performan!elor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven!ei (RSF) pentru UFR/GFR
+formatä din instalatii de stocare
+COd: TEL _ 07 ． 51
+Pag 3 / 26
+Editia 》
+Rev. 0 1 2 3 4 5
+3 ． SITUATIA EDITIILOR $l A REVIZIILOR
+PROCEDURÅ OPERATIONALÅ
+Verificarea cerintelor 9i performantelor tehnice de calificare pentru asigurarea rezervei de stabilizare a
+frecven!ei (RSF) pentru UFRIGFR formatä din instala!ii de stocare 一 COd: TEL - 07 · 51 Ed.l, rev. 0
+Nr.
+crt.
+0
+3 ． 1
+Editia sau ， dupå Componen!ä revizuitä
+Modalitatea Data la care aplicä
+CaZ, revizia in
+cadrul editiei
+Editia l,
+Revizia 0
+ANRE
+ANRE
+nr.
+reVlZiei
+3
+Elaborare
+ini!ialå
+prevederile editiei sau
+reviziei edi!iei
+4
+2
+PreIuare prevederi Ordinul
+89 / 14 ． 07 ． 2021 ．
+Preluare prevederi Ordinul
+3/ianuarie 2023 ．
+=== PDF PAGE 4 ===
+PROCEDURA OPERATIONALÅ
+Verificarea cerincelor performan!elor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFRJGFR
+formatä din instalatii de stocare
+Cod: TEL 一 07 ． 51
+Pag 26
+Editia 》
+Rev. 0 1 2 3 4 5
+Transelectrica•
+4 · SCOP
+Procedura stabil#te.
+1 ）
+2 ）
+3 ）
+4 ）
+5 ）
+Modul de verificare a UFR, respectiv GFR formate din instalatii de stocare, in scopul evaluärii
+respectårii condi!iilor de calificare tehnicä pentru asigurarea rezervel de stabilizare a frecventei (RSF)•
+Märimile necesare a mäsurate, simulate parametrii care se determinä prin 《 cule;
+Echipamentele de mäsurare (traductori) ， precizia de mäsurare a märimllor care se inregistreazä tn
+timpul teståni;
+Tipul de teste care se efectueazä
+Continutul documentatiei tehnice elaboratå in urma testelor.
+5 ． DOMENIUL DE APL ℃ ARE
+Procedura se aplicä de cåtre OTS, executantul testelor reprezentantut UFR, respectiv GFR in urmätoarele
+situatli:
+5 ． 2 ．
+54 ·
+5.5.
+Pentru determinarea performantelor instalatiilor de stocare vederea calificärii acestora pentru
+aslgurarea rezervei de stabiltzare a frecventei (RSF) conform a 山 COle 斷 din sec!iunea 1 din 0 忉 u /
+ANRE 89 / 14 ． 07 ． 2027 privind aprobarea Procedurii de calificate h 犭 pentru fumzarea se 庳 ℃ r
+de sistem;
+La constituirea sau modificarea componentei unei UFR/GFR care solicitä calificarea pentru asigurarea
+rezervei de stabilizare a frecventel (RSF);
+in cazul modernizärii sau retehnologtzårii instalatiilor de stocare sau a unor echipamente componente
+cu impact asupra asigurärii RSF ()e ex. scheme/bucle de reglaj a puteni active, repartitoare de putere
+activä sau reactivä, automaUzäri sau modificari in puterea instalatä);
+Tn sltuatia in care UFR/GFR calificatä nu realizeazä, in mod nejustificat, setårile dispuse de DEN (tn
+limitele declarate la calificare) ， in termenul dispus sau dacä, din monitorizarea 0 丆 S sau in urma
+testelor realizate de acesta, rezultå faptul UFR/GFR calificatä nu activeazå rezerva de RSF, nu
+activeazå semnalul cu/färä RSF sau nu asigurä rezerva SOC necesarä pentru activarea rezervet
+ofertate pentru un interval de 30 minute, adicå nu furnizeazå, in mod ngustificat, mai mult de douä ori,
+in 30 zile de functionare, serviciul de stabilizare a frecventei in parametrii declarati la calificare 佬 r 犭 ca
+DEN fost informat in prealabll asupra abatenlor respecttve Situatiile de functionare care se abat
+de la conditiile de calificare ， care 0 丆 S le sesizeazä tn urma monitorizårii sau a testelor, vor
+aduse la cunoitinla furruzorilor, in vederea intocmirii unui raport de constatare ， refacere a testelor de
+verificare. Pånä la refacerea testelor de calificare furnizorul nu va mai oferta rezerva de RSF;
+P 酾 0d0 la un interval de 10 ani.
+& DOCUMENTE DE REFERINTÄ
+Prezenta procedurä se apllCä prin coroborare cu prevederile urmätoarelor acte normative.
+6 ． 1 ．
+6 ． 2 ．
+Regulamentul (UE) nr. 631 / 2016 al Comisiei din 14 aprilie 2016 de instituire a unui COd de retea
+privind cerin!ele pentru racordarea la retea a instalatiilor de generare;
+Regulamentul (UE) nr. 1388 / 2016 Comisiei din 17 august 2016 de stabilire a unui COd de re!ea
+pnvind racordarea consumatorilor;
+=== PDF PAGE 5 ===
+Transelectr1ca•
+PROCEDURÅ OPERATIONALÅ
+COd ： TEL 一 07 ． 51
+Verificarea cerintelor performan!elor tehnice
+Pag 5 / 26
+de calificare pentru asigurarea rezervei de
+stabilizarea frecventei (RSF) pentru UFR/GFR Editia 丨
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+6 ． &
+6 ． 4 ·
+6 ． 5 ．
+6 ． 6 ，
+67 ．
+6 ． &
+6 ． 9 ．
+& 10 ．
+6 ． 1 1 ．
+& 12 ．
+6 ． 13 ．
+6 ． 14 ．
+6 ． 15 ．
+Regulamentul (UE) nr. 1485 ／ 2017 al Comisiei din 2 august 2017 de stabilire a unel linii directoare
+privind operarea sistemului de transport al energiei electrice,
+Regulamentul (UE) nr. 2195 / 2017 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare
+privind echilibrarea sistemului de energie electricä,
+Regulamentul (UE) nr. 2196 / 2017 al Comisiei din 24 noiembrie 2017 de stabilire a unui COd de re!ea
+privind starea de urgentä restaurarea sistemului electroenergeuc;
+Regulamentul (UE) nr. 3 / 2019 al Parlamentului European ， al Consiliului din 5 iunie 2019 privind
+pia!a internä de energie electricä;
+DirectlVa (UE) nr. 944 / 2019 a Parlamentului European ， a Consiliului din 5 iunie 2019 privind normele
+comune pentru piata internä de energie electricä ， de modificare a Directlvei (UE) nr. 2012 ／ 27 ／ UE
+Ordinul ANRE nr. 3 / 1 8 ． 01 ． 2023 privind aprobarea Normei tehnice privind cerin!ele tehnice de
+racordare la re!elele de interes public pentru instalatiile de stocare a energiei electrice ， procedura de
+notificare pentru racordarea instalatiilor de stocare a energiei electrice•
+Ordinul ANRE nr. 51 ／ 17 ． 04 ． 2019 privind aprobarea Procedurii de notificare pentru racordarea unitätilor
+generatoare ， de verificare a conformitätii unitätilor generatoare cu cerintele tehnice privind
+racordarea unitä!ilor generatoare la retelele electrice de interes public,
+Decizia ANRE nr. 2046 din 19 ． 12 ． 2018 privind aprobarea documentului Propunerea tuturor
+Operatorilor de Transport ， Sistem care efectueazä procesul de inlocuire a rezervelor pentru cadrul
+de implementare a unei Platforme europene pentru schimbul de energie de echilibrare din rezervele
+de inlocuire in conformitate cu articolul 19 din Regulamentul (LJE) 2017 ／ 2195 引 Comisiei din 23
+noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electricä;
+Decizia ACER nr. 2 ／ 2020 din 24 ianuarie 2020 referitoare la Cadrul de implementare privind platforma
+europeeanä pentru schimbul de energie de echilibrare din rezervele pentru restabilirea frecventei cu
+activare automatä
+Decizia ACER nr. 3 / 2020 din 24 ianuarie 2020 refentoare la Cadrul de implementare privind platforma
+europeeanä pentru schimbul de energie de echilibrare din rezervele pentru restabilirea frecven!ei cu
+activare manualä;
+Decizia ACER nr. 1 1 / 2020 din 17 iunie 2020 referitoare la MetodOlogia pentru lista de produse
+standard de capacitate pentru echilibrare in ceea ce prive$e rezervele pentru restabilirea frecventei
+rezervele de inlocuire;
+Decizia ANRE nr. 153 / 2021 pentru aprobarea documentului Propunerea tuturor operatorilor de
+transport ， de sistem din zona sincronå Europa Continentalä pentru proprietä!i suplimentare ale
+rezervei pentru stabilizarea frecven!ei (RSF) in conformitate cu art. 154 alin. （ 2 ） al Regulamentului
+(UE) 2017 / 1485 al Comisiei din 2 august 2017 de stabilire a unei linii directoare privind operarea
+sistemului de transport 引 energiei electrice"
+Ordinul ANRE nr. 127 / 2021 pentru aprobarea Regulamentului privind clauzele conditiile pentru
+furnizorii de servicii de echilibrare ， pentru furnizorii de rezervä de stabilizare a frecventei ， a
+Regulamentului pnvind clauzele condi!iile pentru päfllle responsabile cu echilibrarea pentru
+=== PDF PAGE 6 ===
+Transelectric*
+PROCEDURÅ OPERATIONALÅ
+COd: TEL 一 07 ． 51
+Verificarea cerin!elor *i performan!elor tehnice
+Pag 刨 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven$ei (RSF) pentru UFR/GFR Editia 丨
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+6 ． 16 、
+6 ． 17 ．
+6 ． 18 ．
+modificarea ， abrogarea unor ordine ale prepdintelui Autoritä!ii Na!ionale de Reglementare in
+domeniul Energiel ，
+Ordinul ANRE · 89 / 14 囤 7 · 2021 pnvind aprobarea Procedurii de calificare tehntcå pentru furnizarea
+serviciilor de sistem;
+Platforma europeanä pentru schimbul de energie de echilibrare din rezervele pentru restabilirea
+frecventei cu activare automatä (RRFa) - proiect P ℃ ASSO: nqps://e!ectricitv.network-
+codes.eu/network codes/eb/oicassq/
+Platforma europeanä pentru schimbul de energie de echilibrare din rezervele pentru restabilirea
+frecventei 闐 activare manualä (RSF)
+pro•ect MARI:
+codes.eu/network codes/eb/mari/
+7 ． DEFINITII ABREVIERI
+7 土 Definitii
+Termenii utilizatl in prezenta procedurä se definesc dupä cum urmeazä•
+Nr.crt.
+2 ．
+3 ．
+4 ．
+5 、
+Entitate tehnicä
+Puterea maximä
+de functlonare
+stabilä in procesul
+de stabilizare a
+frecventei
+Puterea minimä
+de functionare
+stabilä in procesul
+de stabilizare a
+frecven!el
+Rezerva de
+stabilizare a
+frecven!ei la
+cr#tere respectiv
+la reducere
+Banda moa in
+frecventä
+Definitie
+0 singurå unltate ()n modut) de generare a
+energiei, 0 singurä unitate de consum sau 0
+singurä instalatie de stocare
+Puterea maximå netä de la care 0 unitate de
+furntzare a rezervelor sau grup de furnizare a
+rezervelor este capabil så incarce intreaga rezervä
+de stabilizare a frecven!ei la 0 varia!ie a frecventel
+de la 50 Hz la 49 ， 8 H 乙
+Puterea minimä netå de la care 0 unitate de
+fumizare a rezervelor sau grup de furntzare a
+rezervelor este capabll sä descarce tntreaga
+rezervä de stabilizare a frecven!ei la 0 vanatie a
+frecven!ei de la 50 Hz la 502 Hz
+Valoarea puterii incärcate la scäderea frecventei cu
+200 mHz, respectiv valoarea puteni descärcate la
+cr"terea frecven!ei cu 2 mHz, fa!ä de valoarea
+nominalä de 50 Hz Aceastä rezervä va asiguratä
+pentru cel putin intervalul de dispecerizare, pånä la
+30 minute.
+Banda moa 戊 in frecven!ä reprezintä un domeniu
+de frecventå, de ordinul zecilor de mHz ， centrat pe
+valoarea de referin!ä （ 50 (Z) in care puterea actlvä
+nu räspunde la variatiile de frecventä. Banda
+=== PDF PAGE 7 ===
+PROCEDURÅ OPERATIONALÄ
+Cod: TEL 一 07 ． 51
+Verificarea cerintelor performan!elor tehnice
+Pag 刀 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR Editial
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+TranSeIectrtca•
+7 ．
+8 ．
+9 ．
+7 · 2 ． Abrevieri
+Zona de
+insensibilitate
+lnsensibilitatea
+Statismul
+SOC rezervatå
+pentru RSF(MWh)
+moa 戊 este introdusä in mod voit de operator fatä
+de 0 valoarea de referin!ä a frecventei, de regulä
+50 Hz
+Zona de insenslbilitate este definitä ca domeniul de
+variatie a frecventei intre care märimea reglatä nu
+variazä (puterea) din cauze tehnice ， care nu
+poate 絎 modificatä. Zona de insensibilitate este
+involuntarä.
+Reprezintä jumätatea zonei de insensibilitate. Se
+defin"te in raport sau fatä de 0 märime variabilä,
+in cazul prezentei proceduri - frecventa.
+Statismul se define*e ca raportul dintre abaterea
+cvasistationarå relativå a frecventel fi variatia
+relativä a puterii. Acest parametru este ajustabil la
+nivelul functiei putere activä 一 frecven!ä. Este un
+numär adimensional exprimat, in general,
+procente [ ％ ] ．
+AP
+U nde Pn reprezintä puterea nominala ftnstalatä a
+UFR/GFR
+Capacitatea de inmagazinare rezervatä pentru
+activarea rezervei RSF pentru intervalul de timp de
+dispecerizare ofertat la valoarea ofertatä. Calculul
+rezervei SOC jn MWh se aplicä atåt la incårcarea
+IS ()n cazul cr#terii frecven!ei), cåt ， la
+descårcarea IS ()n cazul scäderii frecventei).
+rn cuprinsul prezentel proceduri, se utilizeazä urmåtoarele abrevieri:
+Nr.crt.
+2 ．
+abreviat
+ANRE
+EMS 一
+SCADA
+Semnifica!ie abreviere
+Autoritatea Nationalä de Reglementare in Domeniul
+Energiei
+Sistemul SCADA al operatorului de transport
+(Energy Management System 一 Supervisory Control
+=== PDF PAGE 8 ===
+PROCEDURÅ OPERATIONALÅ
+COd• TEL - 07 ． 51
+Verificarea cerin!elor fi performantelor tehnice
+Pag 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven$ei (RSF) pentru UFR/GFR Editia 《
+formatä din instala!ii de stocare
+Rev. 0 1 2 3 4 5
+TranseIectrica•
+3 ．
+4 ．
+5 ．
+6 ，
+7 ·
+9 ·
+2 ·
+8 ， MOD DE LUCRU
+GFR
+OD
+OTS
+Pi
+RET
+RSF
+SCADA
+SEN
+TAC
+Un
+UFR
+DEN
+IS
+SOC
+SOH
+and Data Acquisition)
+Grup de Furnizare a Rezervei
+Operator de Distributie
+Operatorul de Transport de Sistem
+Puterea instalatä
+Retea Electricä de Transport
+Rezerva de stabllizare a frecven!ei
+Sistem informatic de monitorizare, comandä ，
+achizitie de date a unui proces tehnologic sau
+instalatii
+Sistemul Electroenergetlc National
+Timp de activare completä
+Tenslunea nominalä a retelel (tensiune de refenntå)
+Unitate de Furnizare a Rezerve1
+Dispecerul Energetic National
+lnstala!ie de stocare
+Nivel de incärcare IS 〈 State Of Charge)
+Stare/Nivel de sänätate IS (State Of Health)
+8 ． 1 ．
+8 ． 1 ． 1 ．
+& 12
+Conditiile generale pentru efectuarea testelor:
+Testele de verificare a cerin!elor #i performantelor tehnice de calificare pentru asigurarea rezervei de
+stabiltzare a frecventei (RSF) se executä integral in cadrul testelor preliminare ()e casä) se reiau
+par!ial/integral in cadrul testelor finale executate la solicitarea OTS. Reprezentan!ii OTS decid asupra
+modului de participare la teste• 《 oca 《 sau de la distan!ä
+Testele pot incepe numai dupä primrea aprobärii din partea OTS pentru documentatia tehnicä depusä
+de solicitant, pentru programul 曱 perioada de efectuare a testelor de verificare a cenn!elor 曱 a
+performantelor tehnice de calificare pentru asigurarea rezervei de stabilizare a frecven!ei (RSF) pentru
+UFR/GFR formatä dln instala!ii de stocare.
+Testele se efectueazä in perioada in care rezervorul instalatiei de stocare este incårcat la jumåtate din
+capacitate asigurå mobilizarea rezervel RSF maxme care se dore$e a callficatä pentru RSF
+pentru 0 duratä de mnimum 30 minute.
+=== PDF PAGE 9 ===
+TranseIectrica•
+PROCEDURÅ OPERATIONALÅ
+COd: TEL 一 07 ． 51
+Verificarea cerin!elor performantelor tehnice
+Pag 9 / 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFRIGFR
+Editia 1
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+& 1 ． 4 ．
+8 ． 1 、 5 ．
+8 ． 2 ．
+8 ． 2 ． 1 ．
+8 ， 22
+8 ． 2 、 3 ．
+& 2 ． 4 ．
+& 2 ． 5 ．
+8 ． 3 ．
+ln cazul UFR formate din douä sau mai multe instalatii de stocare sau a GFR, acestea trebuie fie
+modelate independent in sistemul EMS _ SCADA, cu semnal individual de functionare cu/färå RSF
+valoarea rezervei RSF fiind specificatä in mod cumulat, la nivelul UFR sau GFR. Gestionarul
+UFR/GFR are responsabilitatea asigurärii modelärii tn EMS 一 SCADA, a realizärii ， a mentinerii in
+func!iune, in mod permanent a repartitorului de putere de la nivelul UFR/GFR, precum a
+buclelor/schemelor de variaVe a puterii active functie de frecventä incluzånd schema de supraveghere
+a disponibilitä!ii RSF ， a inlocuirii acestora in caz de indisponibilitate
+La terminarea testelor finale, solicitantul, executantul testelor OTS intocmesc 0 minutä care va
+eviden!ia neconformitätile semnalate in timpul testelor finale #i termenele de eliminare a acestora,
+dupä ca 乙
+Considerente privind executarea testelor ：
+Gestionarul nominalizeazä un responsabil de realizare a testelor. Acesta trebuie s ． exercite
+autoritatea asupra tuturor observatorilor. 曰 asigurä legätura dintre echipa de efectuare a testelor
+(executantul), OTS beneficiar (solicitantul). Conduce supravegheazä probele in func!ie de
+conditiile de func!ionare. Este responsabil de toate mäsurile, calculele de estimare a rezervei RSF
+activabile functie de statism ， domeniul de functionare in putere disponibil $i de pregätirea
+documentatiei finale.
+Solicitantul este abilltat säSi numeascä personalul propnu pe care 引 considerä necesar a prezent la
+teste pentru a se asigura cä acestea respectä metodologia prezentatå, iar inregisträrile sunt efectuate
+in conformitate cu prezenta procedurä.
+Pentru UFR/GFR probele se vor efectua numai la functionarea in reglaj de putere, la 0 putere de
+consemn in regim RSF activ, acesta fiind singurul regim acceptat pentru livrarea RSF.
+Toate probele se vor efectua cu UFR/GFR in functiune, de preferin!ä prin inlocuirea mäsurii de
+frecven!ä cu un generator de frecventä extern sau prin simularea frecventei mäsurate la nivelul
+sistemului de reglaj buclei de putere 一 frecventä al UFR, a erorii de frecventä (fmåsuratå ． 阉 № ） sau a
+referintei de frecven!ä, la valorile de frecven!ä indicate in procedurä 、
+Se vor respecta conditiile cuprinse in manualele producätorilor. ale invertoarelor #i sistemului de
+reglaj invertoarelor, al functiei de regiaJ putere - frecven!ä. ln timpul probelor se vor asigura conditii
+de functionare corectä a slstemului de reglaj (dacä existä limitatori ， se vor regla in afara zonei de
+functionare pentru probe).
+Cerintele privind aparatele de mäsurä de inregistrare sunt urmätoarele ：
+1 〕 generatorul de frecven!ä asigurä 0 frecven!ä simulatä in gama 4715 十 51 ， 5 Hz cu 0 precizie de 5
+mHz ， trepte minime de 5 mHz;
+2 ） traductorii de frecven!ä trebuie så asigure 0 preazie de 1 十 5 mHz ， timp de räspuns de 80 ms,
+3 ） traductorii P trebuie sä aibä clasa de precizie de 0 3 sau mai precisä;
+4 ） sistemul de achizi!ie al märimilor mäsurate, utilizat in cazul verificårii UFR sau a instala!iilor de
+stocare componente UFR, trebuie aibä 0 ratä de achizi!ie de minimum 00 S ， posibilitatea de
+inregistrare in fiiiere „,xls ， „.csv", ” 」 og
+5 ） inregisträrile se efectueazä prin sistemele de achizi!ie ale executantului ce trebuie asigure
+9tampila de timp ， sincronizarea intre valorile inregistrate (consemne de putere, frecventä
+valori de putere activä inregistrate);
+6 ） asigurä inregistrarea märimilor. putere de consemn, puterea activä la nivelul UFR/GFR
+consemnul de putere, semnalul cu/färä RSF activ, semnalul de frecventä simulat ， puterea activä
+pentru fiecare dintre instalatiile de stocare componente UFR/GFR•
+=== PDF PAGE 10 ===
+TranseIectrIca•
+PROCEDURÅ OPERATIONALÄ
+Cod: TEL - 07 ， 51
+Verificarea cerintelor performantelor tehnice
+Pag 1 创 26
+de calificare pentru asigurarea rezervei de
+stabilizare frecven!ei (RSF) pentru UFR/GFR Editia 》
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+8 ． 4 “
+8 ． 5 ．
+8 ． 9 ．
+7 ） asigurä mäsura SOC atåt in ％ ， cåt ， in № h ． Evaluarea SOC va con!ine ， starea de sänätate
+a IS (SOH) care indicå degradarea acesteia in timp,
+Verificarea asigurärii rezervei de stabilizare a frecventei se referä la determinarea valorii maxime a
+rezervel de stabilizare a frecventei care poate activatä de cätre UFR/GFR care corespunde unui
+statism de （ 2 ÷ 12 ） ％ ， de regulå 4 ％ - corespunzåtor unei rezerve activate de 10%Pn.
+in cazul UFR formatä dintr-o singurä instalatie de stocare, procedura se aplicä pentru determinarea
+valorii RSF maxime asiguratä de instalatia de stocare reprezntä valoarea maximä activatä
+complet la cre$ere, respectiv la scädere pentru 0 variatie de frecventä de 200 mHz
+corespunzåtoare stattsmului setat.
+in cazul UFR formate din douä sau mai multe instalatii de stocare sau a unel GFR care se calificä
+prin instalatiile de stocare calificate componente, procedura se aplicä pentru determinarea valorii
+RSF maximå astguratä de fiecare instalape de stocare, iar valoarea RSF maximä a UFR/GFR
+reprezintä suma RSF maxime.
+in cazul UFR/GFR care se calificä ca 0 agregare, se va determina prin teste valoarea maximä a
+RSF la nivelul agregäni, la activarea rezervel putånd partlctpa oricare din instalatiile de stocare
+componente agregärii UFR/GFR. Se vor determina valorile RSF minime ， maxime.
+Testarea va cupnnde determinarea urmätorilor parametrii: timpul de mobillzare a RSF, timpul mo 戊
+(intårzerea initialå), tmpul de mentinere a RSF mobilizate verificarea respectärii valorii setate de
+statism, insensibilitatea fumizärii RSF la variatiile de frecventä, verificarea funcponärii de duratä
+activare RSF, verificarea tnlocuirii RSF in caz de indisponibilitate in cadrul UFR/GFR 9i verificarea
+mobilizärii RSF in afara domeniului de frecven!ä ± 200 mHz.
+Determinarea timpului mobilizare a RSF ， a timpului mo 戊 (intårzierea iniValä) se efectueazä prin
+aplicarea a douä trepte de frecventä de “ + 2 佣 mHz", respecttv 到 - 200 mHz"
+& 9 ． 1 ． Proba se efectueazä astfel:
+a. se aduce instala!ia de stocare sau instala!iile de stocare care fac parte din UFR/GFR in
+functionare la 0 putere activå de 0 MW schimb de putere cu sistemul #i SOC = 50 ％ 》
+b. se seteazä 旧 cu räspuns activ 恰 variatiile de frecventä,
+0 se seteazä statismul la valoarea indicatä de OTS, de regulä 4%,valoare care corespunde
+unei rezerve de 10%Pn (unde Pn repremntä valoarea puterii maxme aprobatä pentru
+evacuare #i specificatå in ATR);
+d. se simuleazä din generatorul de frecventä sau in func!ia putere 一 frecventä, trepte
+frecventä faiä de valoarea de 50 Hz de ” + 200 mHz" 矿 200 mHz" ()f = fsimulatä № 0 )'
+urmatä de revenire. （ 50 ， 00 Hz 乛 50 ， 20 Hz 乛 50 Hz ， respectiv 50 ， 00 乛 49 ， 80 乛
+50 ， 00L fortänd astfel IS treacä dintr-un regim altul ， anume din regimul de
+consumator (absorb!ie de putere) regimul de producätor (injec9e de putere) #i invers;
+巳 se inregistreazä
+- pentru IS care se calificå ca UFR: frecven!a simulatä, puterea activä brutå ， n 引
+pentru care se calificä ca UFR/GFR ca agregare: frecven!a simulatä, puterea activä
+netå la nivel UFR/GFR 9i puterea activä a instalatiilor de stocare componente care
+realizeazå modificarea de putere functie de frecventä (märimi indicate in Anexa 3 ） ；
+一 suplimentar, pentru ambele cazun precizate anterior: starea semnalului de functionare
+闐 虍 RSF, SOC ()n ％ ， in MWh) staüsmul setat ()n ％ ）
+=== PDF PAGE 11 ===
+TranselectriCa•
+PROCEDURÄ OPERATIONALÅ
+Cod ： TEL 一 07 ． 51
+Verificarea cerintelor performan!elor tehnice
+Pag 11 / 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR Ed itia 1
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+& 1 0 ，
+8 ． 11 ．
+f. treapta de frecventä se mentine 30 minute atåt dupå aplicarea treptel de cre$ere a
+frecven!ei (trecerea in regim de consummator a (S), cåt #i dupä anularea treptei de
+frecventä; se calculeazä ， se mäsoarä SOC utilizat;
+g. treapta de frecven!ä se mentine 30 minute atåt dupä aplicarea treptei de scädere a
+frecventei (trecerea in regim de producator a (S), cät ， dupä anularea treptel de
+frecventä; se calculeazä ， se mäsoarä SOC utilizat,
+8 ． 9 ． 2 ． Modul de determinare a timpilor afererenti asigurärii RSF.
+a. Timpul de activare totalä sau de mobilizare a RSF, notat in figura 1 cu t2, reprezintä timpul
+scurs intre momentul aplicärii treptei de frecven!ä }i momentul de timp la care S-a atins
+puterea necesarä a fi mobilizatä la 0 variatie de 土 200 mHz statismul setat, adicä in
+momentul in care a fost mobilizatä intreaga rezen./ä RSF. Este necesar ca acest timp t2
+fie mai mic de 30 &
+b. Timpui mo 戊 sau intårzierea initialä ()l in figura 1 ） reprezintä timpul dupä care se constatä
+prima varia!ie de putere ca urmare a aplicärii treptei de frecven!ä. Acest timp trebuie sä fie
+mai miC de 2 secunde.
+0 Orice räspuns 引 UFR/GFR pentru 0 varia!ie de frecven!ä de 200 mHz, care se incadreazä
+in domeniul h"urat din figura 1 este considerat conform cu cenntele de calificare pentru
+RSF.
+Figura 1 一 Timpii de intårziere ， de mobilizare a RSF
+Determinarea timpului de menlinere a RSF mobilizate se referä la verificarea capacitätii LJFR/GFR de
+a mentine timp de 30 minute RSF incärcatä/ descärcatä ca urmare a unei variatii de frecventä de ±
+200 mHz. Puterea medie mobilizatä trebuie fie realizatä $i men!inutä cu 0 abatere de 士 5 ％ fatä de
+puterea mobiiizatä de calcul RRP timp de 30 minute. Se vor inregistra: puterea ， treapta de frecventä
+aplicatä.
+Verificarea respectärii valorii setate de statism are ca SCOP determinarea statismului in reglaj de putere
+realizat fa!ä de cel setat.
+=== PDF PAGE 12 ===
+#anselectrka•
+PROCEDURÅ OPERATIONALÅ
+COd: TEL 一 07 ． 51
+Verificarea cerin!elor performan!elor tehnice
+Pag 1 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR Editia 《
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+a. Statismul setat repremntå pentru IS sau la nivelul unei agregäri UFR/GFR, panta unei functli
+liniare putere - frecven!ä care asigurä ， Tn märimi relattve, 0 varia!ie a puterii corespunzätoare
+formulei （ 1 〗 a cärei valoare poate modificatå
+Af
+Conform formulei: ， 一
+b. Se verificä douä valori de statism
+（ 1 ）
+- 0 valoare de statism de 4 ％ pentru IS cu Pn 10 № respectiv de 2 ％ pentru IS cu Pn < 10 MW
+Alegerea statismului minim este determinatä deob!inerea unor valon intregi de minimum 1
+MW a RSF (atåt cre$ere, cåt #i la scådere), in concordantä cu cerintele de ofettare pe
+piata de echilibrare; Calificarea se va acorda pentru 0 singurä valoare a statismului, care
+corespunde unei capacitåti mnime de 1 MW 四 sens,la crqterena scädere (minimum 2 MW
+bandä) #i valoarea maximä de 20 MW pe sens, la cr"tere/la scädere (maximum 40 MW
+bandä). Astfe' calificarea acordä pentru 0 valoare intreagå a RSF, 怡 zecmale, pnn
+trunchierea valorii obtinute in timpul testelor,
+- 0 valoare dispusä de OTS, in domeniul （ 2 中 12 ） ％ ， cu simularea frecventei retelei, de regulä cu
+generator de frecventä.
+Pentru aceastä probä, banda moa 戊 se seteazä la 0 mHz. Dln analiza inregisträrilor acestei probe rezultä #i
+0
+d.
+insensibilitatea in activarea RSF.
+Probele se efectueazä prin aplicarea unor trepte de frecventä de 50 mHz Se a patru （ 4 ）
+trepte de frecventä in sens crescätor, porntnd de la valoarea de 50 HZ, urmate de opt （ 8 ） trepte
+in sens descrescätor se revlne la valoarea initialä de 50 HZ, patru （ 4 ） trepte sens
+crescåtor.
+Dupä fiecare treaptä se a#teaptä stabilizarea procesului 9i se inregistreazä puterea u 怕 la
+nivelul IS ， netä la nivelul IS ， UFR/GFR agregat. Pentru fiecare palier stabilizat se
+calculeazå media v 0 or inregistrate pentru putere valon ce se noteazä in graficul frecventä
+simulatä 一 putere.Treptele de frecventä trebuie sä de valoare constantä pe tOt parcursul
+probel
+Din graficul frecventå 一 putere se determinå statismul p e 》 iar valoarea obtinutä se
+comparä cu valoarea setatä
+Pentru a indeplini criteriile de calificare, eroarea datä de abaterea statismului permanent bp setat
+fa!ä de statismul rezultat trebuie fie < ± 5 ％ O/aloare recomandatå de CEI 61362 ）
+Eroarea se calculeazä astfel: 一 一 ． 二 ． 100 < 5 ％
+unde bs = statismul setat
+bp = statismul determinat prin probe
+（ 2 ）
+=== PDF PAGE 13 ===
+TranseIectrica•
+PROCEDURÄ OPERATIONALÅ
+COd: TEL 一 07 ． 51
+Verificarea cerin!elor performan!elor tehnice
+Pag 13 / 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven!ei (RSF) pentru UFR/GFR Editia
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+8 ． 12 ． Verificarea insensibilitätii RSF la variatiile de frecventä se realizeazä in douä moduri: urmånd
+metodologia indicatä de ENTSO-E CE 一 cu aplicarea unor trepte de 1 0 mHz metodologia prezentatä
+in normele CEI cu aplicarea de trepte de 50 mHz. Pentru metoda de verificare indicatä de normele
+CEI 60308 9i CEI 61362 ， insensibilitatea la variatiile de frecven!ä se determinä din prelucrarea datelor
+obtinute jn proba de determinare a statismului.
+a.
+Unde.
+Pentru metoda de verificare indicatä de ENTSO-E CE proba se va reaiza la putere activä zero
+pentru a monitoriza trecerea din injec!ie in absorb!ie de putere a IS ca urmare a aplicärii treptelor de
+50 mHz, pentru un statism de 5 ％ ． Din generatorul de frecven!å se aplicå trepte de frecventä de 5
+mHz sau trepte de 10 mHz in sens descrescätor （ 50 》 000 一 49 》 995 一 49 ， 990 一 49 ， 985 一
+pånä cånd se observä modificarea puterii. Se continuä cu acela$ tip de numår de trepte in sens
+crescåtor. Se va reveni cu acelea$ trepte de frecventä pånä la 50 ， 000 HZ. Se vor inregistra cu timp
+de achizitie de maximum 05 secunde: treptele de frecventä 9i puterea IS, respectiv conturul
+UFR/GFR agregat. Fiecare treaptå de frecventå se mentine un timp suficient pånä la stabilizarea
+puteni. Se considerä insensibilitatea la varia!iile de putere ca fiind valoarea cumulatä a treptei de
+frecventä fatä de 50 Hz la care se constatä 0 modificare a puterii active.
+cazul metodei indicate de CEI din inregisträrile efectuate in cazul determinärii statismului se
+determinä valoarea elementului reglat ca medie a valO 劑 or obtinute pentru fiecare treaptä de
+frecventå de 50 mHz aplicatä pentru intreg domeniul ± 200 mHz. Se rindicä un grafic ×
+frecventä - putere de tipul:
+50 即
+49 ·
+Figura 2 - determinarea valorii statismului realizat ， a insensibilitä!ii
+in- reprezintä banda de insensibilitate in frecven!ä,
+= in/2 insensibilitatea reprezintä din banda de insensibilitate in frecventä.
+Limitele de insensibilitate pentru ca UFR/GFR se califice pentru RSF sunt de ± 1 0 mH 乙
+& 13 ． Verificarea functionärii de duratä se efectueazä in functionare normalä, f 犭 虍 simularea frecventei ，
+limitäri in functionarea cu räspuns activ la variatiile de frecven!ä, cu banda moa 戊 犭 setatä la maximum
+5 mHz, in regim de reglaj de putere. Se realizeazä inregisträri de duratä （ 30 minute ÷ 1 h) cu timp de
+achizitie de 0 ， 1 secunde a märimilor: frecvenlä putere brutä #i netä la nivelul instalatiilor de stocare,
+respectiv a UFR/GFR, starea semnalului de activare cu/färä RSF #i evolu!ia SOC ()n ％ 邻 in MWh) Din
+=== PDF PAGE 14 ===
+8 ． 14 ·
+& 15 ·
+8 ． 17 ．
+PROCEDURÅ OPERATIONALÅ
+COd: TEL 一 07 ． 51
+Verificarea cerintelor performanwor tehnice
+Pag 1 砌 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR Editia 《
+formatä din instala$ii de stocare
+Rev. 0 1 2 3 4 5
+inregisträrile efectuate selecteazä cel putin 2 intetvale de timp in care frecventa a variat mai mult
+de 50 mHz 9i se determinä puterea mobillzatä in RSF ， timpul de mobillzare, statismul 9i transmiterea
+semnalului cu RSF
+Verificarea inlocuirii RSF in caz de indisponibllitate in cadrul UFR/GFR se efectueazå Tn situa!ia
+UFR/GFR formate din mai multe IS. La functionarea cu RSF 0 frecven!ä simulatä de - 1 OO mHz, se
+trece 0 in functionare 伯 RSF sau scoate din reglaj 0 IS care asigurä variatia de putere la
+variatiile de frecventå. Se urmäreite: existenta unei reac!li primd RSF astgurat, detectarea cantitätii
+RSF neasigurate, detectarea disponibilului de RSF, selectarea 旧 sau a rnodlficärii S01icitärii de putere
+active necesar a actlvate asigurarea continuitä!ii RSF.
+Verificarea mobilizårii RSF in afara domeniului de frecventä 戔 200 mHz are ca SCOP determinarea
+räspunsului UFR/GFR prin mobilizarea puterii active la cre#terile scäderile de frecven!ä in domeniile
+（ 47 ， 5 ÷ 49 ， 8 ） HZ, respectiv （ 50 ， 2 ÷ 51 ， 5 ） HZ, cu respectarea statismului setat. Proba se efectueazä in
+douå conditii: cu/fårä RSF activ (råspuns activ variatiile de frecven!å). in cele douå regimuri se
+urmåreqte ， se inregistreazå starea semnalului cuffårä RSF.
+& Pentru a fi calificate pentru RSF ， UFR/GFR trebuie 丽 mobilizeze puterea conform statismului setat
+atåt in regim cu RSF ， cåt #i Tn regim 佬 RSF.
+b. Verificarea råspunsului in putere la cre$erile de frecventä realizeazä prin simularea
+urmätoarelor trepte frecven!ä: 50 Hz; 50 ， 2 Hz, 50 ， 4 Hz; 50 ， 6 Hz; 50 ， 8 Hz, de la un generator 妇
+frecventå extern sau prin simulare SO 煮 Tn func!iile de dependentå putere —frecventä. Se revine cu
+urmätoarele trepte: 50 ， 8 HZ, 50 ， 4 Hz; Hz Se determinå valoarea statismului. Fiecare treaptä se
+mentine pänä la stabilizarea puterii. Pentru a fi calificat, UFR/GFR trebuie sä astgure un råspuns
+liniar la variatiile de frecventä, sä asigure respectarea statismului cu precizia solicitatä #i sä
+mobilizeze rezerva in timpul corespunzätor extindeni diagramei din figura 1 la treptele de frecven!ä
+aplicate. Proba se repetä 佬 råspuns la varia!iile de frecventä tn domeniul ± 200 mHz fa!å de
+frecven!a de 50 H 乙
+0 Venficarea räspunsului in putere la scäderlle de frecventä se realizeazä prin simularea urmätoarelor
+trepte de frecventä. 50 Hz 49 ， 8 Hz; 49 ， 6 Hz; 49 ， 4 Hz; 49 ， 2 Hz, de la un generator de frecven!ä
+sau pnn simulare SO in functiile de dependentä putere 一 frecven!ä. Se revine cu
+urmätoarele trepte. 49 ， 2 Hz, 49 ， 6 Hz; 50 Hz. Se determinä valoarea statismului. Fiecare treaptä se
+men!ine pånä la stabilizarea puterii. Pentru a fi callficat, UFR/GFR trebuie aslgure räspuns
+liniar la variatlile de frecventå, så asigure respectarea statlsmului cu preaza solicltatä ，
+mobllizeze rezerva in timpul corespunzåtor extindeni diagramei din figura 1 怕 treptele de frecventå
+aplicate. Proba repetä f 犭 räspuns la variatiile de frecventä in domeniul ± 200 mHz fatä de
+frecventa de 50 闩 乙
+rn situa9a GFR care dore$e calificarea pentru RSF acesta asigurä detectarea insularizårii
+instalatiilor de stocare componente fatä de frecven!a regulatorului central frecventä _ putere. z 冚
+GFR fumizoare de RSF schimbul de semnale jntre GFR ， EMS 一 SCADA cuprinde receptia valorii
+frecventei regulatorului central frecventä 一 putere transmlterea semnalului de paNicipare reglaJul
+de stabilizare a frecventei a GFR, cåt semnal de insularizare a unor lS ()n singur semnal). Se
+verificå func!ionarea sistemului de monitorizare a insularizärii IS componente prin simularea mäsurii
+de frecven!ä de la nivelul local al 《 S ， iar in cazul in care acea 旧 furniza RSF va 间 ocu 怡 de cätre
+alta care nu este parte a insulei detectate.
+=== PDF PAGE 15 ===
+Transelectrlca•
+PROCEDURÅ OPERATIONALÅ
+Cod: TEL - 07 ． 51
+Verificarea cerintelor *i performantelor tehnice
+Pag 1 引 26
+de calificare pentru asigurarea rezervei de
+Stabilizare a frecventei (RSF) pentru UFRIGFR Editia
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+8 ． 18 、 La nivelul UFR/GFR se verificä asigurarea urmätoarelor cerinte, trecändu-se concluzia in raportul de
+testare:
+a) UFR respectlv GFR activeazä RSF prin intermediul unui regulator proporiional care räspunde la
+abateri de frecven!å, fie cu un räspuns continuu, fie ca 0 func!ie monotonä hibridä pe intervale cu
+caracteristica putere 一 frecven!ä liniarä in cazul RSF activate prin releu, care asigurä 0
+caracteristicä putere 一 frecven!ä de tipul celei prezentate Tn figura 1 ， realizate printr-un räspuns al
+puterii in trepte de putere consecutive de maxim （ 01 ÷ 0 ， 5 ） MW/treaptä: DA/NU ， se atapazä
+schema logicä,
+b) UFR respectiv GFR este capabil sä.
+IV.
+V.
+incarce/descarce liniar, in mai putin de 30 secunde, intreaga RSF, pentru statismul setat, la 0
+abatere cvasistationarä a frecven!ei de ± 200 mH 乙 Valoarea abaterii de frecventä de ± 200
+mHz reprezintä abaterea de frecven!ä pentru activarea integralä a RSF, iar valoarea de 30
+secunde reprezintä durata de activare integralä a RSF: DA/NU;
+activeze RSF tn domeniul de frecven!ä de 47 ， 5 la 5L5 Hz pentru perioade de timp definite,
+tinånd seama de conditiile tehnice ale respectivelor unitäti furnizoare de RSF sau grupuri
+furnizoare de RSF: DA/NU ；
+mentinä puterea activä incärcatä/descärcatä atåt timp cåt persistä abaterea de frecven!ä, cel
+pu!in 15 minute: DA/NU;
+asigure 0 precizie de reglaj la activarea integralä a RSF de maximum 士 5 ％ din valoarea puterii
+instalate a unitätii furnizoare de RSF, dar nu mai mult de 1 MW Acest proces este repetabil ori
+de cäte ori este nevoie: DAJNU
+activeze RSF cåt de curånd posibil, 伯 怡 intårzieri intentionate, dupä 0 abatere de frecven!ä, dar
+nu mai tårziu de 2 secunde, asigurånd:
+1 ） in cazul unei abateri de frecventä mai mare sau egalä cu 200 mHz, activarea a cel putin 50
+％ din capacitatea totalä a RSF dupä cel mult 15 secunde. DAJNU
+2 ） in cazul unei abateri de frecventå mai mare sau egalå cu 200 mHz, activarea 100 ％ din
+capacitatea totalä RSF dupä cel mult 30 de secunde: DA 丿 NU;
+3 ） in cazul unei abateri de frecventä mai mare sau egalä cu 200 mHz, activarea capacitä!ii
+totale RSF cr"te cel putin liniar de la 15 la 30 de secunde: DA/NU,
+4 〕 in cazul in care abaterea de frecventä este mai micä de 200 mHz, RSF aferentä activatä
+este cel putin propoflionalä cu evolutia in timp mentionatä in figura 2 ： DA/NU;
+c) sä continue furnizarea de RSF in cazul unei abateri de frecven!ä in afara domeniului de frecventä ±
+200 mHz, dar in domeniul （ 47 ， 5 + 51 ， 5 ） Hz pentru UFR/GFR @ DA/NU,
+d) statismul UFR respectiv GFR este considerat dupä cum urmeazä.
+i. pentru unitätile generatoare componente, de categorie C ， D valoarea statismului este
+calculatä astfel:
+=== PDF PAGE 16 ===
+Tanse1ectrica•
+PROCEDURÅ OPERATIONALÅ
+Cod: TEL 一 07 ． 51
+Verificarea cerintelor +i performantelor tehnice
+Pag 16 / 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR Editia 1
+formatä din instala#i de stocare
+Rev. 0 1 2 3 4 5
+） [ ％ ] trebuie 爬 tn intervalul （ 2 ÷ 12 ） ％ ， reglabil 恰 0 valoare setatä
+AP/P„
+acordul OTS: DAJNU,
+ii. pentru unitätile generatoare componente de categorie A ， 已 se considerä valoarea
+parametrului echivalent care reprezintä panta curbei de variape a puteni in funcye de abaterea
+de frecventå in punctul pentru care la valoarea abaterii de frecventä de ± 200 mHz se
+activeazä integral RSF: DAJNU,
+e) UFR, respectiv GFR asigurä 0 bandä moa in frecventä de 0 mHz 0 insensibilitate in frecven!ä
+de + / ． 10 mHz. Efectul maxim combinat al insensibilitå!ii 曱 benzii moarte poate fi admis la 10
+mHz, determinat la nivelul regulatorului de vitezä sau al echipamentului care ægurä reglajul putere
+一 frecventä la nivelul UFR/GFR furnizoareffurnizor de RSF: DA/NU,
+t) UFR/GFR este integrat intr-un centru de dispecer DA/NU,
+g) UFR, respectiv GFR asigurä integrarea in sistemul EMS 一 SCADA cel puvn a urmåtoarelor
+semnale: DA/NU:
+putere activä produsä/consumatä, cu marcajul temporal, necesar verificäni activårii RSF,
+inclusiv datele cu marcaJ temporal privind puterea activä instantanee mäsuratä local;
+ll. putere reactivä,
+tensiune,
+frecventa cu marcaj temporal, ca valoare instantanee, mäsuratä local, necesarå verificärii
+activärii RSF ，
+讥 semnal de activare/dezactivare a RSF (cu/färä RSF 一 semnal logic Osau 1 ） ；
+statismul setat ()n ％ ） sau un parametru echivalent;
+vi.
+vii. puterea actlvå programatä
+semnal insularizare (pentru GFR);
+viii 。
+IX. valoare frecventä regulator frecventå - putere 一 de la EMS 一 SCADA 一 in cazul GFR;
+valoare SOC @ ％ in MWh).
+8 ． 19 ． Programul de probe trebuie sä continä detalii priVltoare la urmätoarele: durata esumatå a probelor;
+lista probelor care se vor executa, lista märimilor mäsurate inregistrate
+& 20 ． in urma probelor, executantul va intocmi 0 documentatie care trebuie con!inä | pupn: schema
+de måsurå de culegere a semnalelor; tipul traductorilor #i precizia de mäsurä; tipul pläcii de
+achizitie a datelor; fi9ierele cu datele inregistrate, inregisträrile realizate pe parcursul probelor
+mentionate in prezenta procedurå 曱 concluzia executantului testelor. Aceastä documentatie, dupä
+ce a fO 引 insu9itä de producätorul in gestiunea cäruia se 犭 instala!ia de stocare/UFR/GFR, va fi
+inaintatå la OTS 、
+8 ． 21 ． Modul de completare a tabelului din Anexa 2 se realizeazä astfel:
+釓 cazul calificärii unei singure ca UFR fumizoare de RSF ， datele tehnice se vor completa
+pe 0 singurä lime,
+=== PDF PAGE 17 ===
+TranseIectrica•
+PROCEDURÄ OPERATIONALÄ
+COd: TEL 一 07 ． 51
+Verificarea cerin}elor performantelor tehnice
+Pag 17 / 26
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven!ei (RSF) pentru UFR/GFR Editia 《
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+& 22 ．
+b. ln cazul UFR/GFR format din mai multe IS calificate la nivel individual, seva completa
+i. Pe prima linie se trec datele referitoare la UFR/GFR,
+正 Urmätoarele linii vor con!ine datele de mobilizare a RSF aferente 旧 calificate din
+UFR/GFR,
+0 Tn cazul UFR/GFR care se calificä la nivel de agregare, datele tehnice se vor completa pe 0
+singurå linie ， vor referi la testele de mobilizare a RSF maxime la nivel de UFR/GFR.
+Se verificå existen!a monitorizärii locale a mobilizårii UFR, respectiv a GFR la nivelul agregärii 一 a
+repartitorului de putere, prin ataprea la raportul de teste realizat cu echipamentele executantului
+testelor ， a inregisträrilor locale ， realizate la nivelul UFR/GFR in conformitate cu solicitarea din
+Ordinul ANRE 89 / 2021 ： "Echipamentele de monitorizare 《 oca ， instalate la nivelul UFR/GFR trebuie
+sä aibä capabilitatea de a inregistra puterile activä, reactivä, frecven!a tensiunea pentru IS
+componente UFR/GFR cu 0 ratä de epntionare de maxlm 500 ms precum 9i de a transfera aceste
+märimi cätre 0 arhivä pentru 0 perioadä maximä de 30 de zile"
+9 ． RESPONSABI 凵 TÅTI
+9 ． 1 ． OTS are urmätoarele responsabilitä9
+1 ） Analizeazä 9i valideazä performantele UFR, respectlv GFR pentru asigurarea RSF in baza
+documentatiei tehnice pnmitä si a raportului de teste efectuate;
+2 ） Calificä IS ca UFR/GFR pentru valorile de RSFmaxime care corespund unui statism minim de 2
+％ (ceea ce corespunde unei rezerve de 20 ％ (n) ， sunt considerate la valoarea intreagä,
+obtinutä prin trunchierea numärului real, dupä caz. Valorile posibil de ofertat in piata de RSF, mai
+mici decåt rezerva maximä, trebuie sä corespundä unui statism setat in domeniul （ 2 + 12 ） ％ ，
+statism care trebuie setat corespunzätor;
+3 ） Poate participa la testele de calificare fie la fata locului, de la distan!ä, OTS fiind in mäsurä sä
+decidä cu privire la participarea sa la efectuarea testelor finale de verificare a pefformantelor
+UFR sau GFR pentru asigurarea RSF,
+4 ） 貊 咚 ia verificarea UFR/GFR privind respectarea cerintelor ， performantelor tehnice de calificare
+pentru asigurarea rezervei de stabilizare a frecventei (RSF) pentru care a fost calificat, in situa!ia
+constatärii a douä abateri intr-un interval mai mic de 6 luni in livrarea RSF
+5 ） Aprobå programul de teste pentru verificarea performantelor RSF transmis de solicitant;
+6 ） Solicitä responsabilului testelor reluarea unuia sau mai multor teste in scopul determinärii
+performan!elor UFR/GFR, in timpul functionärii;
+7 ） Asigurä monitorizarea conformitä!ii UFR/GFR cu cerintele tehnice pentru asigurarea RSF
+incluzånd märimile. semnalul de activare a RSF (cu/färä RSF), valoarea SOC in ‰ *i in MWh
+8 ） Elibereazä cedificate de calificare pentru UFR/GFR pentru asigurarea RSF, pentru care sunt
+indeplinite conditiile de calificare not 币 醣 decizia sa solicitantului, ANRE ， dupä caz, OD 一
+conform 0 厂 ht 禎 亓 ANRE nr. 89 / 14 ． 0z2021 privind aprobarea Procedurii de calificare h 励 c 犭
+pentru fumizarea serv 0 厂 de sistem (Anexa 3);
+9 ） Retrage furnizorului de RSF calificarea, justificånd motivul/motivele #i not 而 decizia sa
+solicitantului, ANRE ， dupä C 》 OD 一 conform Ordinului ANRE nr. 89 / 140z2021 privind
+aprobarea procedurii de calificare h c 犭 pentru furnizarea serviciilor de sistem,
+=== PDF PAGE 18 ===
+TranseIectrlca•
+PROCEDURÅ OPERATIONALÅ
+COd. TEL 一 07 ． 51
+Verificarea cerin!elor *i performan!elor tehnice
+Pag 18 6
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven$ei (RSF) pentru UFRIGFR Editia 《
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+9 ． 2 ．
+10 ） ln cazul abaterilor de la prezenta procedurä, rezultate ca urmare a unor cauze oblective
+prezentate de responsabilul testelor inainte de efectuarea acestora, OTS este responsabil pentru
+interpretarea aplicärii procedurii.
+11 ） OTS bl pagina propne de internet S1tuatia calificärilor UFR, respectiv GFR pentru RSF.
+Solicitantul _ gestionarul UFR ， GFR sau un tert desemnat, are urmätoarele responsabilitä!i:
+1 ） ln situatia in care se solicitä calificarea pentru asigurarea rezervei RSF pentru un GFR sau un UFR
+format din mai mult de 0 IS, asigurä integrarea GFR, respectiv UFR ca unitate agregatä in EMS 一
+SCADA,
+2 ） Transmite lista IS care vor asigura individual sau cadrul unel agregäri de tip UFR, respect 《 V GFR
+fumizarea RSF
+3 ） Transmite documenta!ia tehnicä pentru asigurarea RSF care CO 呻 minim.
+& Datele tehnice ale IS componente,
+b. Datele tehnice privind: buda de reglaj de putere a care asigurä rezerva de stabilizare a
+frecventei,
+0 Schema logicä a repartitorului de putere de la ntvelul UFR, respectiv GFR, dupä 乙 inclusiv a
+《 iai de formare a consemnelor de putere pentru IS componente pentru asigurarea functiel
+putere 一 frecventä Odu 《 de setare a statismului in aceastä situatie,
+d. Posibilitätile de inregistrare 《 oca ， la nivelul UFR, respectiv GFR, dupä caz, a valorilor de
+frecventä 《 oca #i la nlvelul agregärii ， puterea actlvå produsä momentan de cätre UFR/GFR
+9i al fiecärei componente (putere de consemn, putere mäsuratä 9i frecventä), semnalul de
+actlvare a RSF 〈 cu 廳 RSF), valoarea SOC Tn ‰ MWh ， statismul setat ()n ％ ） 、
+4 ） lntocme$e programut de teste impreunä operatorul economic ce devne atestat de tip A3, emlS
+de ANRE pentru realizarea testelor de verificare a certntelor 9i a performan!etor tehnice de calificare
+pentru asigurarea rezervei de stabilizare a frecventei (RSF);
+5 ） Transmite OTS, cu cel putin 10 zile 心 oare inaintea datei POSIbile de incepere a testelor,
+cererea programul de probe impreunä cu solicitarea de participare la efectuarea lor. Data la care
+se vor efectua probele va 絎 stabilitä de comun acord cu reprezentantli OTS, care decide dacä va
+parücipa la teste, de la distantä sau de la fata locului;
+6 ） Asigurå conditiile tehnice de efectuare a testelor cum sunt prevåzute in cadrul prezentei
+proceduri;
+7 ） V 丽 醣 asigurå pe tOt parcursul testelor siguranta func90nare a lS sau a agregärii acestora
+fiind räspunzätor de integritatea instalatiilor pe parcursul testelor;
+8 ） Desemneazä. de comun acord cu executantul testelor, un responsabil al testelor;
+9 ） Dupä efectuarea testelor de verificare (prelimnare/finale), transmite la OTS documentatia ce
+contine rezultatele testelor (inclusiv rezultatele testelor finale) #i datele tehnice ， valorde
+parametrilor de performantå (Anexa 2 ） 0 n 呻 in urma testelor pentru asigurarea RSF, in
+conformitate cu prezenta procedurä;
+1 0 ） Gestlonarul depune la OTS documentatia tehnicä constånd in.
+a. Schema blocuri func!ionale aregulatorului putere—frecven!ä;
+b. Date tehnice inregisträri pentru 0 din sistemul de monitorizare localä de nivelul
+UFR/GFR care vor contine:
+· puterea activä programatä de timp,
+puterea activä instantanee cu marcä de timp pentru
+=== PDF PAGE 19 ===
+Transetectrfca•
+PROCEDURÅ OPERATIONALÄ
+Verificarea cerin!elor performan!elor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR
+formatä din instalatii de stocare
+“ fiecare UFR care furnizeazå RSF;
+- fiecare GFR care furnizeazä RSF,
+Cod: TEL 一 07 ． 51
+Pag 19 ／ 26
+Editia |
+Rev. 0 1 2 3 4 5
+0
+- fiecare IS componentå a UFR, respectlv GFR, care furnizeazä RSF cu putere activä
+maximä mai mare sau egalä cu 1 ， 5 MW
+Raportul de testare intocmit de firma A3 continånd testele executate pentru verificarea
+cerintelor 9i performantelor tehnice de calificare pentru asigurarea rezervei RSF,
+anexele corespunzätoare rezervei RSF conform Ordinului ANRE 皿 89 / 14 刀 z2C27 privind
+aprobarea Procedurii de calificare 旭 h 廟 c 犭 pentru fumizarea serviciilor de sistem, semnate de
+gesuonar.
+9 ． 3 ，
+11 ） Asigurarea disponibilitätii rezervei RSF.
+Furnizorul rezervei de RSF este direct responsabil pentru evaluarea posibilitätii de a furniza rezervele
+contractate de la 0 UFR/GFR cu capacitate de activare limitatå. Cånd 0 IS atinge nivelul maxim sau
+minim de incårcare (SOC), aceasta intrerupe activarea capacitä!ii de rezervä pånå cånd direc!ia
+abaterii de frecventä se schimbä sau capacitatea de activare este restabilitä prin gestionarea stärii de
+incärcare (SOC).
+Fumizorii de RSF pot depune ofertele de capacitate RSF, in conformitate cu calificarea ob!inutä, pe
+UFR sau GFR ， formate din douä sau mai multe IS, cu cantitå!i de rezervä individuale, la nivel de IS
+sau cumulat, la nivel de UFR/GFR;
+Executantul probelor ， are urmätoarele responsabilitäti
+1 ） Sä detinå atestat ANRE tip A3;
+2 ） Elaboreazä procedurile proprii de detaliu pentru verificarea pe 歼 0 「 ma 忙 10r Tn asigurarea RSF,
+programele de achizitie 轫 prelucrare a datelor;
+3 ） Atapazä schema de mäsurare cu indicarea punctelor de mäsurä ， de inregistrare,
+4 ） Pune la dispozitia beneficiarului traductorli (ex: traductorii de putere frecventä) pentru märimile
+preluate din instalatie (dacä este cazul) in conformitate cu cenn!ele tehnice din prezenta procedurå,
+5 ） lntocm#te, impreunä cu solicitantul, programul de teste;
+6 ） Respectä prezenta procedurä in efectuarea testelor 9i a inregisträrilor;
+7 ） Realizeazä inregisträrile cerute prin prezenta procedurä 9i intocme$e raportul final.
+10 ． ANEXE ， iNREGlSTRÅRl ， ARHIVÄRI
+10 ． 1 、 ANEXE
+ANEXA 1 一 Date tehnice necesare pentru calificare RSF
+ANEXA 2 _ Date tehnice pentru calificarea UFR/GFR pentru furnizarea RSF (valori brute/valori nete)
+ANEXA 3 _ Sinteza testelor efectuate
+ANEXA 4 - Formulare introduse prin procedurä
+10 ． 2 · iNREGlSTRÅRl
+· CertificatGFR 一 Formular COd TEL 一 07 、 51 ℃ 1 ， Ed. l, rev 0
+· Certificat UFR 一 Formular COd TEL - 07 ． 51 02 ， Ed. l, rev 0
+10 ． 3 ． ARHIVÄRI
+Arhivarea procedurii a celorlalte informatli documentate
+se face conform prevederilor Procedurii
+opera!ionale: ct ea de a 了 忉 珀 C.N. T.E.E, "Transelectrica" S,A., COd TEL 一 0 24 ．
+=== PDF PAGE 20 ===
+TranseIectrIca•
+PROCEDURÅ OPERATIONALÅ
+Verificarea cerin!elor performantelor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven!ei (RSF) pentru UFR/GFR
+formatä din instala$ii de stocare
+COd: TEL _ 07 ． 51
+Pag 20 / 26
+Edi!ia 《
+Rev. 0 1 2 3 4 5
+11 ， LISTA DE DIFUZARE
+Document difuzat: Procedura Operationalä
+Denumire: Verificarea cerin!elor performan!elor tehnice de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR formatä din instalatii de stocare
+COd ： TEL - 07 ． 51
+EdiCia
+Revizia 0
+Nr.
+crt
+0
+11 ． 1
+11.2
+11 、 3
+11.4
+11.5
+11 ． 6
+Scopul
+difuzärii
+Avizare
+Aplicare
+lnformare
+EVidenta
+Arhivare
+Alte
+scopun
+Exemplar nr.
+2
+Original +
+Format electronic
+Format electonic
+original
+EI
+(copie martor)
+Compartl
+ment
+3
+ANRE
+DEN
+DEC,
+MFGAP,
+OPE,
+DPE
+Dep MI 一
+SMACM
+BPAF
+Functia
+4
+IMC
+9ef birou
+Numele
+prenumele
+5
+Emanuel
+IONITÅ
+Data
+prtmlrll
+6
+Data
+pos 怕 廟
+pe site
+Data
+p 。 5 怕
+Semnätura
+7
+N/A
+=== PDF PAGE 21 ===
+Transelectrtca•
+PROCEDURÄ OPERATIONALÄ
+Verificarea cerin!elor 9i performantelor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFR/GFR
+formata din instalatii de stocare
+COd: TEL 一 07 ． 51
+Pag 21 / 26
+Editia I
+Rev. 0 1 2 3 4 5
+ANEXA 1
+Date tehnice necesare pentru calificare RSF
+a) pentru IS: schema regulatorului putere 一 frecven!ä cu parametrii de acord din perioada testärii
+performan!elor, valorile de statism, insensibilitate, bandä moartä;
+b) pentru calificarea la nivel GFR descrierea func!iei care realizeazä dependenta putere - frecventä cu
+men!ionarea va | 0 de statism, insensibilitate, bandä moa 戊 犭 ；
+c) descrierea formärii semnalului binar: func!ionare cu/färä RSF la nivel UFR/GFR ， la nivelul entitätilor
+componente cu putere instalatä mai mare sau egalä cu 1 ， 5 MW ii inclusiv procesul verbal care atestä
+integrarea valorii SOC N （ ％ ， MWh), a statismului setat ()n ％ ） ， a semnalului de activare a RSF
+(cu/färä RSF) in sistemul informatic EMS 一 SCADA;
+d) restrictii in livrarea RSF (durata de livrare a intregii rezerve RSF);
+e) automatizarea de inlocuire a RSF Tn cadrul UFR sau GFR intre entitä!ile componente in cazul
+incidentelor la cerere;
+f) modul de estimare a epuizärii rezervei pentru furnizorii de RSF de IS - semnalul state Of charge (SOC)
+cu semnalizare la atingerea valorii de 10 ％ S00 respectiv 90 ％ SOC
+g) limitärile nivelului SOC ()n ％ ii in MWh) pentru asigurarea rezervei maxime de RSF pe intervalul de
+minimum 15 minute.
+=== PDF PAGE 22 ===
+Transelectr1ca•
+Date tehnice pentru ca 《 ificarea UFR/GFR pentru furnizarea RSF (valori brute/valori nete)
+0
+PROCEDURÅ OPERATIONALÄ
+Cod: TEL - 07 ． 51
+Verificarea cerincelor performantelor tehnice
+Pag 2 26
+de calificare pentru asigurarea rezervei de
+Stabilizare a frecven!ei (RSF) pentru UFR/GFR Editia |
+formatä din instalatii de stocare
+Rev. 0 1 2 3 4 5
+ANEXA 2
+℃
+0
+醚
+0 ．
+0
+冫 <
+0
+0
+凵
+Z
+芝
+芝
+凵
+0
+乏
+工
+工 乙
+仂
+0
+lS/agregare
+reprezintä rezerva maximå de RSF care se calificå
+Denumire sistem de reglaj,
+valoarea statismului pentru care a fost determinatå valoarea maxmä de RSF. Aceastä valoare repreztntä
+un numär intreg
+． “ limitele supenoarä inferioarä a nivelului de incårcare a IS (SOC),domeniul SOC in interiorul cäruia se
+poate asigura rezerva de RSF pentru perioada de 30 minute.
+=== PDF PAGE 23 ===
+= ℃ 0
+=== PDF PAGE 24 ===
+0
+巴 =
+=== PDF PAGE 25 ===
+Transe1ectrica•
+PROCEDURÄ OPERATIONALÄ
+Verificarea cerintelor performantelor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecven!ei (RSF) pentru UFR/GFR
+formatä din instalatii de stocare
+COd: TEL - 07 ． 51
+Pag 25 / 26
+Editia |
+Rev. 0 1 2 3 4 5
+ANEXA 4
+DRECTOR
+D e 阉 Energetic Na!lonal
+GFR Nr.
+Legendä certificat: spa!iile goale numerotate se vor completa dupä cum urmeazä:
+一 lS/agregare IS 9i/sau din unitä!i de furnizare a rezervelor, racordate la mai mult de un punct de racordare
+“ 2 一 la cr#tere/la scädere
+． 3 一 se va preaza valoarea rezervei maxime de RSF pentru care se calificä statismul aferent— S （ ％ ）
+· 4 一 färä/cu penoadä de valabilitate limitatä
+Formular Cod TEL 一 07 ， 51 01. Ed. l, rev 0
+=== PDF PAGE 26 ===
+PROCEDURÄ OPERATIONALÅ
+Verificarea cerintelor #i performan!elor tehnice
+de calificare pentru asigurarea rezervei de
+stabilizare a frecventei (RSF) pentru UFRJGFR
+formatä din instalatii de stocare
+Cod: TEL _ 07 ． 51
+Pag 2 引 26
+Editia 《
+Rev. 0 1 2 3 4 5
+ri 苤 UFR Nr.
+0 ctrica ． S.A
+一 （ 0 湖 艹 “ № 就 -
+侄 啊 ff1CA 丆
+pentru umdtorurui “ “
+DIRECTOR
+D c Ene1getic N 圳 》
+D 《 飞 r …
+Legendä certificat: spa!iile goale numerotate se vor completa dupä cum urmeazä:
+一 / agregare IS, racordatå un punct de racordare comun
+． 2 一 la cre$ere/la scädere
+一 va preaza valoarea rezervei maxime de RSF pentru care se calificä statlsmul aferent
+齒 4 - färä/cu perioadä de valabilitate limitatä
+Formular Cod TEL - 07 、 5t02 ． Ed. l, rev. 0

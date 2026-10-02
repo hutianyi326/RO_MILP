@@ -1,0 +1,17 @@
+{
+  "id": "S003",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "public ID trades page and form",
+  "retrieved_utc": "2026-09-30T09:16:28.0596795Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S003/original.html",
+  "bytes": 318705,
+  "sha256": "7153d15c97d36396f1d1e4be3c0a64eb49eb92f3a658009db3c8726937a22041"
+}

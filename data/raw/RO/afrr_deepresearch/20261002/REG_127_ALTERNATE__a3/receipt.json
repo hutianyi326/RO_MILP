@@ -1,0 +1,11 @@
+{
+  "id": "REG_127_ALTERNATE",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280280",
+  "attempt": 3,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:14:13.940769+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "RemoteDisconnected: Remote end closed connection without response"
+}

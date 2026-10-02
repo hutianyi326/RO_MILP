@@ -1,0 +1,14 @@
+{
+  "id": "E16",
+  "title": "ANRE Order60/2024 amendments",
+  "url": "https://anre.ro/wp-content/uploads/2024/09/Ord-60-2024.pdf",
+  "resolved_url": "https://anre.ro/wp-content/uploads/2024/09/Ord-60-2024.pdf",
+  "retrieved_utc": "2026-09-30T07:52:51.3196737Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E16\\original.pdf",
+  "bytes": 1692872,
+  "sha256": "35749e7af32e8e9dd31866b3e44815309c3465b1db32cba7a5827b37c892f9f2",
+  "extracted_characters": 61
+}

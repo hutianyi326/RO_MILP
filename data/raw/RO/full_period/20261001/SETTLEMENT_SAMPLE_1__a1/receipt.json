@@ -1,0 +1,23 @@
+{
+  "id": "SETTLEMENT_SAMPLE_1",
+  "dataset": "D07",
+  "publisher": "Transelectrica",
+  "title": "Anexa 2 Costuri Efective Per ID",
+  "url": "https://www.transelectrica.ro/documents/10179/18468251/Anexa_2_CosturiEfectivePerID_EchSEN_202501/51c70b3e-a6b6-4034-9056-9d4a3bff8406?version=1.0",
+  "scope": "Ianuarie 2025 VM 27.02.2025",
+  "official_label": "Ianuarie 2025 VM 27.02.2025",
+  "url_month": "202501",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:02:49.207798+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18468251/Anexa_2_CosturiEfectivePerID_EchSEN_202501/51c70b3e-a6b6-4034-9056-9d4a3bff8406?version=1.0",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/full_period/20261001/SETTLEMENT_SAMPLE_1__a1/original.pdf",
+  "sha256": "b5c580612d378435e00506340e8a7ce0cdd98b76fd579c16c9c51332d5520a85",
+  "bytes": 1925768,
+  "detected_format": "pdf"
+}

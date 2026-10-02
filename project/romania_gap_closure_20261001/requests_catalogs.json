@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SETTLEMENT_FULL_CATALOG",
+    "dataset": "D07",
+    "url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  },
+  {
+    "id": "IDA_FORM_EN",
+    "dataset": "D03",
+    "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  },
+  {
+    "id": "IDCT_FORM_EN",
+    "dataset": "D04",
+    "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  },
+  {
+    "id": "TSO_STS_CATALOG",
+    "dataset": "D05",
+    "url": "https://www.transelectrica.ro/ro/web/tel/piata-serviciilor-tehnologice-de-sistem",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  },
+  {
+    "id": "TSO_TARIFF_CATALOG",
+    "dataset": "D13",
+    "url": "https://www.transelectrica.ro/ro/web/tel/tarife",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  },
+  {
+    "id": "TSO_PRODUCTION_RECHECK",
+    "dataset": "D09-D10",
+    "url": "https://www.transelectrica.ro/ro/web/tel/productie",
+    "scope": "official public gap closure catalogue/form; not publication/vintage"
+  }
+]

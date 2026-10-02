@@ -1,0 +1,943 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>OPCOM: Tranzactii produse</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/tranzactii-produse/en/9">
+			<img src="https://www.opcom.ro/pcs/en.jpg" />
+		</a>
+		
+		
+		
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniv.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026ro.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniv.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitare.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:760px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/ro" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/12.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/ro">&nbsp;<img src="https://www.opcom.ro/pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/ro/136">Tranzac&#355;ii - Rezultate</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/ro/137">Tranzac&#355;ionare - Produse</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/ro/138">Anun&#355;uri - &#350;tiri</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/ro/139">Compania</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->    
+
+<script>
+//Do not download video (stops you from right click on video)
+$(document).ready(function(){
+   $('#videoElementID').bind("contextmenu",function() { return false; });
+});
+//END Do not download video (stops you from right click on video)
+</script>
+
+		<div id="men_left"><div class="menu"><p><h3>Tranzactionare - produse</h3>
+		<ul>   
+				<li><a href="#url" class="level11"><p>Pia&#355;a pentru Ziua Urm&#259;toare&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/1"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/46"><p>&#206;nregistrare, Conven&#355;ie, Proceduri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/257"><p>OPEED</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/250"><p>Cuplarea prin Pre&#355; a Regiunilor</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pzu-participanti/ro"><p>Participan&#355;i</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/48"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/50"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul> 
+				</li>
+				
+			<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Intra-zilnic&#259;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="#url"><p>Prezentare&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/162"><p>Tranzac&#355;ionare continu&#259; (IDCT)</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/362"><p>Licita&#355;ii Intra-zilnice (IDA)</p></a></li>
+							</ul>
+                        </li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/163"><p>&#206;nregistrare, Conven&#355;ie</p></a></li>
+						<li><a class="subm" href="#url"><p>Proceduri&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/363"><p>Tranzac&#355;ionare continu&#259; (IDCT)</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/364"><p>Licita&#355;ii Intra-zilnice (IDA)</p></a></li>
+							</ul>
+                        </li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/290"><p>OPEED</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pi-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/164"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/165"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+			</li>
+
+<!-- MACEE -->
+<!--				
+				<li><a href="#url" class="nivel_intermediar"><p>Mecanism de achizi&#355;ie centralizat&#259; de energie electric&#259;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=355"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=356"><p>&#206;nregistrare, Conven&#355;ie, Proceduri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/part_macee.php?lang=ro"><p>Participan&#355;i</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=357"><p>Retrageri-Revoc&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=358"><p>Calendar</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=359"><p>Machete transmitere date</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii_produse/tranzactii_produse.php?lang=ro&id=360"><p>Cazuri de &#238;nc&#259;lc&#259;ri ale cadrului de reglementare</p></a></li>
+					</ul>
+				</li>
+-->
+<!--				<li><a href="#url" class="nivel_intermediar"><p>Mecanism de achizi&#355;ie centralizat&#259; de energie electric&#259;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/355"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/356"><p>&#206;nregistrare, Conven&#355;ie, Proceduri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/macee-participanti/ro"><p>Participan&#355;i</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/357"><p>Retrageri-Revoc&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/358"><p>Calendar</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/359"><p>Machete transmitere date</p></a></li>
+					</ul>
+				</li>				
+-->				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; cu negociere dubl&#259; continu&#259; a contractelor bilaterale de energie electric&#259;&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare<br />PC-OTC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/192"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/193"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulamente</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-pr/ro/194"><p>Produse standard</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/195"><p>Calendar</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/114"><p>Zile de tranzac&#355;ionare</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/196"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/pcotc-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/197"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/198"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; a contractelor bilaterale de energie electric&#259;&nbsp;&raquo;</p></a>
+					<ul>
+<!--  PCCB_LE ARHiVATA                  
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare PCCB-LE&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/74"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/92"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/part_pccble.php?lang=ro"><p>Participan&#355;i</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/71"><p>Suspend&#259;ri</p></a></li>
+                                <li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/72"><p>Retrageri-Revoc&#259;ri</p></a></li>
+							</ul>
+						</li>
+-->
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare PCCB-LE-flex&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/312"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/313"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/pccb-le-flex-participanti/ro"><p>Participan&#355;i</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/314"><p>Suspend&#259;ri</p></a></li>
+                                <li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/315"><p>Retrageri-Revoc&#259;ri</p></a></li>
+							</ul>
+						</li>                        
+						<li><a href="#url" class="level2n"><p>Modalitatea de Tranzac&#355;ionare PCCB-NC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/75"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/104"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/pccb-nc-participanti/ro"><p>Participan&#355;i</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/220"><p>Suspend&#259;ri</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/221"><p>Retrageri-Revoc&#259;ri</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcsu-tranzactii-produse-calendar/ro/100"><p>Produse standard</p></a></li> 
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/109"><p>Calendar</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/114"><p>Zile de tranzac&#355;ionare</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/110"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+<!--PCCB-PC ARHiVATA						
+						<li><a href="#url" class="level2n"><p>Modalitatea de Tranzac&#355;ionare PCCB-PC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/212"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/213"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/pccb-pc-participanti/ro"><p>Participan&#355;i</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/223"><p>Suspend&#259;ri</p></a></li>
+                                <li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/222"><p>Retrageri-Revoc&#259;ri</p></a></li>
+							</ul>
+						</li>
+-->						
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; pentru energia electric&#259; din surse regenerabile sus&#355;inut&#259; prin certificate verzi&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n"><p>Modalitatea PCE-ESRE-CV&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/306"><p>Prezentare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/305"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-participanti/ro"><p>Participan&#355;i</p></a></li>
+                                <li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/307"><p>Suspend&#259;ri</p></a></li>
+                                <li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/308"><p>Retrageri-Revoc&#259;ri</p></a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; pentru Serviciul Universal&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/228"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/227"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcsu-participanti/ro"><p>Participan&#355;i</p></a>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/238"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/249"><p>Retrageri-Revoc&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/283"><p>Produse standard</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcsu-tranzactii-produse-calendar/ro/282"><p>Calendar</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/284"><p>Zile de tranzac&#355;ionare</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/285"><p>Program de tranzac&#355;ionare</p></a></li>
+					</ul>
+				</li>
+
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a de energie electric&#259; pentru clien&#355;ii finali mari&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare<br />PMC&nbsp;&raquo;</p></a>
+							<ul>
+							<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/201"><p>Prezentare</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/202"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulamente</p></a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/203"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/pmc-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/204"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/205"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+<!--PCTL-->
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; destinat&#259; atribuirii contractelor de energie electric&#259; pentru perioade lungi de livrare&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/332"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/333"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulament</p></a></li></li>
+						<li><a class="subm" href="https://www.opcom.ro/pctl-produse-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/335"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/336"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+					
+<!--GAZE-->								
+				<li><a href="#url" class="nivel_intermediar" ><p>Pia&#355;a pentru Ziua Urm&#259;toare de Gaze Naturale&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/279" ><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/262" ><p>&#206;nregistrare, Conven&#539;ie, Proceduri, Regulamente</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/263" ><p>Mediu de test - rezultate</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pzu-gn-produse-participanti/ro"><p>Participan&#539;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/296" ><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/295" ><p>Retrageri - Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Pia&#355;a Intrazilnic&#259; de Gaze Naturale&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/294" ><p>&#206;nregistrare, Conven&#539;ie, Proceduri, Regulamente</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pi-gn-produse-participanti/ro" ><p>Participan&#539;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/301" ><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/300" ><p>Retrageri - Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Centralizat&#259; de Gaze Naturale&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare PCGN-LN&nbsp;&raquo;</p></a>
+							<ul>
+							<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/183"><p>Prezentare</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/184"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulamente</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/185"><p>Produse standard</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/186"><p>Calendar</p></a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/188"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare PCGN-LP&nbsp;&raquo;</p></a>
+							<ul>
+							<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/246"><p>Prezentare</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/241"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulamente</p></a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/243"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Modalitatea de Tranzac&#355;ionare PCGN-OTC&nbsp;&raquo;</p></a>
+							<ul>
+							<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/247"><p>Prezentare</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/242"><p>&#206;nregistrare, Conven&#355;ie, Proceduri, Regulamente</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/245"><p>Produse standard</p></a></li>
+							<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/248"><p>Calendar</p></a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/244"><p>Program de tranzac&#355;ionare</p></a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/pcgn-produse-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/190"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/189"><p>Retrageri-Revoc&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/114"><p>Zile de tranzac&#355;ionare</p></a></li>
+					</ul>
+				</li>
+<!--Gaze Flex PPF-TL-->				
+				<li><a href="#url" class="nivel_intermediar" ><p>Pia&#355;a Produselor Flexibile pe Termen Mediu &#x15F;i Lung de Gaze Naturale&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/340" ><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/341" ><p>&#206;nregistrare, Conven&#539;ie, Proceduri, Regulamente</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/ppftl-produse-participanti/ro"><p>Participan&#539;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/342" ><p>Suspend&#259;ri</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/343" ><p>Retrageri - Revoc&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/344" ><p>Program de tranzac&#355;ionare</p></a></li>
+					</ul>
+				</li>
+								
+<!--AiCi incepe piata verde-->
+				<li><a href="#url" class="nivel_intermediar"><p>Pia&#355;a Certificatelor Verzi&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/34"><p>Prezentare general&#259; PCV</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/52"><p>Regulament, &#206;nregistrare, Conven&#355;ie</p></a></li>
+						
+						<li><a href="#url" class="level21"><p>Pia&#355;a Centralizat&#259; anonim&#259; spot de Certificate Verzi (PCSCV)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/270"><p>Prezentare PCSCV</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/145"><p>Proceduri</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/272"><p>Program de tranzac&#355;ionare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/302"><p>Calendar de tranzac&#355;ionare</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/274"><p>Suspend&#259;ri PCSCV</p></a></li>
+							</ul>
+						</li>
+						
+						<li><a href="#url" class="level21"><p>Pia&#355;a Centralizat&#259; anonim&#259; la termen de Certificate Verzi (PCTCV)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/271"><p>Prezentare PCTCV</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/146"><p>Proceduri</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/276"><p>Produse standard</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/273"><p>Program de tranzac&#355;ionare</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/277"><p>Calendar produse standard</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/275"><p>Suspend&#259;ri PCTCV</p></a></li>
+							</ul>
+						</li>
+						
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/114"><p>Zile de tranzac&#355;ionare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/240"><p>Registrul Certificatelor Verzi</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcv-produse-participanti/ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/42"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/47"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+				
+<!--AiCi se termina piata verde-->
+
+<!--Platforma PTCE dezactivata
+				<li><a href="#url" class="nivel_intermediar" ><p>Platforma de Tranzac&#355;ionare a Certificatelor de Emisii de gaze cu efect de ser&#259;&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/111"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/112"><p>&#206;nregistrare, regulament, conven&#355;ie, procedur&#259;</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii_produse/part_ptce.php?lang=ro"><p>Participan&#355;i</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/152"><p>Suspend&#259;ri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/153"><p>Retrageri-Revoc&#259;ri</p></a></li>
+					</ul>
+				</li>
+-->				
+				<li><a href="#url" class="nivel_intermediar" ><p>Decontare&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/9"><p>PZU - Prezentare, Proceduri, Ghid</p></a></li>
+<!--						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/14"><p>PE - Prezentare, Proceduri</p></a></li>-->
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/13"><p>PI - Prezentare, Proceduri</p></a></li>
+<!--						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/19"><p>Dezechilibre PRE - Prezentare</p></a></li>-->
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/347"><p>Rezultate Simul&#259;ri</p></a></li>
+<!--						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/23"><p>Redistribuire Venituri / Costuri - Prezentare</p></a></li>
+
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/230"><p>PROCEDURA OPERA&#x21A;IONAL&#x102; privind formatul standard al fiec&#x103;rui tip de Not&#x103;</p></a></li>
+-->
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n" ><p>Supraveghere Pie&#355;e&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-produse/ro/148"><p>Prezentare</p></a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-produse/ro/149"><p>Proceduri</p></a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-produse/ro/225"><p>REMIT</p></a></li>
+					</ul>
+				</li>
+			</ul>
+
+
+</div>
+ 
+</div><!--meniu stanga-->
+<div id="contp">
+	<title>&nbsp;OPCOM:&nbsp;Decontare, încasari si plati pe Piata pentru Ziua Urmatoare</title><div class="titlu"><strong>Activitatea de decontare</strong> pe Piaţa pentru Ziua Următoare - Descriere</div>
+<p>&nbsp;</p>
+<p><strong>Activitatea de decontare</strong> pe Piaţa pentru Ziua Următoare de energie electrică (PZU) se realizează în conformitate cu regulile prevăzute în: </p>
+<ul>
+ <li>Schema de Debitare Directă SEPA Business to Business reglementată prin &bdquo;Regulamentul BNR nr.2/2016 privind operațiunile de transfer de credit și debitare direct&rdquo;.</li>
+</ul>
+<p>În conformitate cu documentele menționate, au fost elaborate următoarele proceduri operaționale: </p>
+<ul>
+ <li><a href="/uploads/doc/Decontare/PZU/Anexa 5_PO Incasari-Plati PZU & PI_rev.0_30.09.2025.pdf" target=new>Procedura</a> privind încasările și plățile aferente tranzacțiilor pe Piața pentru Ziua Următoare și Piața Intrazilnică de energie electrică;</li>
+ <li><a href="/uploads/doc/PZU/PO garantii PZU  PI_31.07.2026_final.pdf" target="new">Procedura</a> privind constituirea, verificarea și utilizarea garanțiilor financiare pentru participarea la Piața pentru Ziua Următoare și Piața Intrazilnică de energie electrică.</li>
+</ul>
+<p><strong>Condiții necesare pentru participarea la tranzacții în PZU:</strong></p>
+<ul>
+ <li>Pentru încasarea contravalorii energiei electrice vândute la prețuri pozitive/cumpărate la prețuri negative, Participantul la PZU va informa OPCOM S.A. asupra codului IBAN al contului deschis la o bancă comercială din Romania, care se va credita cu valoarea drepturilor de încasare;</li>
+ <li>Participantul la PZU, care dorește să transmită oferte de cumpărare cu prețuri pozitive/vânzare cu prețuri negative, precum și OTS în calitate de Participant Implicit, trebuie să deschidă un cont în numerar (lei) la o bancă comercială din România, denumită în continuare Bancă de decontare si sa încheie un Mandat SEPA de Debitare Directă B2B  (fără limită de sumă) cu banca respectivă, prin care autorizează ca:</li>
+<ul>
+   - OPCOM S.A. să emită ori de cate ori este necesar o Instrucțiune de Debitare Directă (IDD) asupra contului său deschis la Banca de decontare;<br/>
+ - Banca de decontare să debiteze contul său cu sumele prevăzute în IDD emise de OPCOM S.A.
+</ul>
+</ul>
+<ul>
+  Mandatul SEPA de Debitare Directă B2B va fi înregistrat de către Banca de decontare a Participantului la PZU în Registrul Unic de Mandate gestionat de Transfond. 
+</ul>
+<ul>
+ <li>Participantul la PZU, care dorește să transmită oferte de cumpărare cu prețuri pozitive/vânzare cu prețuri negative, va constitui o Scrisoare de garanție bancară de plată (SGB) în favoarea OPCOM S.A., document care poate fi comun pentru PZU și pentru PI, cu precizarea corespunzătoare în conținutul său. SGB  poate fi emisă de:</li>
+<ul>
+   - Banca Cont Central (BCR) în calitate de bancă garantă,<br/>
+ - BCR, în baza contragaranției bancare emisă de Banca contragarantă,<br/>
+ - Altă bancă comercială, în calitate de bancă garantă și avizată de BCR, în baza Convenției incheiate între BCR și Banca garantă.
+</ul>
+</ul>
+<ul>
+  Cuantumul valorii SGB constituite  trebuie să acopere cumulat, minim:
+</ul>
+<ul>
+<ul>
+   - obligaţiile de plată ale Participantului la PZU pentru tranzacțiile realizate neîncasate încă în Contul Central al PZU, <br/>
+ - valorile maxime cumulate ale ofertelor zilnice de cumpărare la prețuri pozitive /de vânzare la prețuri negative (inclusiv contravaloarea TVA, dacă este aplicabil), calculate pentru ziua de tranzacționare curentă, respectiv pentru ofertele transmise în avans.
+</ul>
+</ul>
+<ul>
+  Participantul la PZU va întreprinde măsurile necesare pentru primirea de către OPCOM S.A. de la BCR, a SGB daca aceasta a fost emisă de BCR în calitate de Bancă garantă sau a avizului BCR, în cazul în care SGB  este emisă de o altă Bancă garantă, nu mai târziu de ora 12:00, cu o zi bancară lucrătoare înainte de prima zi în care Participantul la PZU dorește să introducă oferte de cumpărare la prețuri pozitive și/sau oferte de vânzare la prețuri negative.
+</ul>
+<p><strong>Mecanismul de contraparte</strong></p>
+<p>  OPCOM S.A. are rol de contraparte pentru toate tranzacțiile încheiate pe PZU (în calitate de vânzător/cumpărător pe PZU), rol care implică desfășurarea activităților necesare în vederea efectuării încasărilor/plăților/facturării/regularizării plăților:</p>
+<p><strong>1. Incasări și plăți</strong></p>
+<ul>
+  <li>În fiecare zi de tranzacţionare, până la ora 14:00, OPCOM S.A. pune la dispoziția Participanţilor la PZU, prin intermediul platformei de decontare, Notele de decontare zilnice (în format XML și PDF) și pentru vizualizarea acestora, Participantul la PZU accesează platforma de decontare, în conformitate cu &ldquo;<a href="/uploads/doc/Decontare/Ghidul Participantului de accesare a platformei de decontare pentru PZU.pdf" target="new">Ghidul Participantului</a> de accesare a platformei de decontare&rdquo;.</li>
+  <li>Incasările precum și plățile aferente tranzacțiilor cu energie electrică din PZU se efectuează prin intermediul Contului Central al PZU, deschis de OPCOM S.A. la BCR;</li>
+  <li>In fiecare zi bancară lucrătoare, OPCOM S.A. transmite la BCR, până la ora 15:00, IDD în vederea efectuării încasărilor; valoarea IDD şi a OP se calculează pe baza Notelor de decontare zilnice:</li>
+<ul>
+    - pentru Participantul la PZU care pentru o zi de livrare a înregistrat atât tranzacții de vânzare, cât şi tranzacții de cumpărare se dermină valoarea netă (Vnet) astfel:
+</ul>
+</ul>
+<ul>
+  V = Vv – Vc <br>
+unde:
+</ul>
+<ul>
+<ul>
+   • Vv - valoarea energiei electrice vândute; <br/> 
+ • Vc - valoarea energiei electrice cumpărate inclusiv contravaloarea TVA, dacă este aplicabil;<br/>
+   pentru: <br/>
+   Vnet &lt;0 - Participantul la PZU are obligații nete de plată și OPCOM S.A. emite IDD pentru valoarea respectivă;<br/>
+   Vnet &gt;0 - Participantul la PZU are drepturi nete de încasare și OPCOM S.A. emite OP pentru valoarea respectivă.
+</ul>
+</ul>
+<ul>
+  Termenul limită pentru creditarea Contului Central al PZU este de 1 zi bancară lucrătoare de la transmiterea IDD și, ulterior verificării încasărilor acestora în extrasul de cont, se transmit  OP la BCR, în vederea efectuării plăților aferente drepturilor nete de încasare ale Participanților la PZU. 
+</ul>
+<ul>
+ <li>Pentru tranzacțiile desfășurate în zilele nelucrătoare, OPCOM S.A. transmite IDD la BCR, în prima zi bancară lucrătoare, ce urmează după aceste zile, până la ora 10:00.</li>
+</ul>
+<ul>
+ <li>În fiecare zi bancară lucrătoare, OPCOM S.A. primește de la BCR raportul refuzurilor aferent IDD transmise și OPCOM S.A. transmite la BCR solicitarea de  executare a SGB constituită de Participantul la PZU care a înregistrat refuz la plată, cu valoarea obligațiilor de plată neîncasate. Creditarea Contului Central al PZU se efectuează în:</li>
+</ul>
+<ul><ul>
+  -  1 zi bancară lucrătoare, față de ziua transmiterii cererii de executare, dacă SGB este emisă de BCR,<br>
+ -  2 zile bancare lucrătoare, față de ziua transmiterii cererii de executare, dacă SGB este emisă de altă Bancă de garantare și avizată de BCR/ emisă de BCR, în baza contragaranției bancare emisă de Banca contragarantă.
+</ul>
+</ul>
+<p><strong>2. Calculul garanției de validare</strong></p>
+<ul>
+ <li>În vederea validării ofertelor de cumpărare la prețuri pozitive și/sau a ofertelor de vânzare la prețuri negative ale Participanților la PZU, OPCOM S.A. calculează zilnic garanția de validare pentru fiecare Participant la PZU, ca diferență între valoarea SGB și valoarea cumulată a obligațiilor nete de plată. </li>
+</ul>
+<ul>
+  Valoarea cumulată a obligațiilor nete de plată reprezintă suma valorilor următoare: 
+</ul>
+<ul><ul>
+   - valoarea IDD transmise la BCR și neîncasate, <br/>
+ - valoarea obligațiilor nete de plată din notele de decontare zilnice pentru tranzacțiile efectuate în zilele nelucrătoare.
+  
+</ul>
+</ul>
+<ul>
+ <li>Garanția de validare se calculează după următorul grafic de timp:</li>
+ <ul>
+    - în fiecare zi calendaristică, anterioară zilei de tranzacționare, în intervalul 14:30 - 18:00, pentru toți Participanții la PZU; <br/>
+   - în fiecare zi de tranzacționare (dacă este zi bancară lucrătoare), până la ora 9:00, pentru participanții la PZU ale căror obligații de plată au fost încasate în Contul central al PZU până la ora 8:30.
+ </ul>
+</ul>
+<p><strong>3. Facturarea</strong></p>
+<ul>
+  <li>Facturile se emit pentru cantitățile lunare de energie electrică livrate, în ore CET, data facturării fiind data ultimei zile a lunii de livrare și se transmit în primele trei zile lucrătoare după încheierea lunii de livrare; conținutul facturilor respectă prevederile Codului fiscal aplicabile.</li>
+  <li>OPCOM S.A. transmite Participanților la PZU care, în luna de livrare, au înregistrat tranzacţii de cumpărare, facturi pentru energia electrică vândută acestora.</li>
+  <li>OPCOM S.A. transmite Participanților la PZU care au înregistrat, în luna de livrare, tranzacţii de vânzare energie electrică la prețuri negative, facturile pentru &bdquo;Prestarea de  servicii&rdquo;.</li>
+  <li>Participantul la PZU care, în luna de livrare, a înregistrat tranzacţii de vânzare, transmite la OPCOM S.A. factura, care cuprinde energia electrică vândută..</li>
+  <li>Participantul la PZU care, în luna de livrare, a înregistrat tranzacţii de cumpărare la prețuri negative, transmite la OPCOM S.A. factura pentru &bdquo;Prestarea de servicii&rdquo;. </li>
+</ul>
+<p><strong>4. Plăți lunare de regularizare</strong></p>
+<ul>
+  <li>Deoarece valoarea zilnică a IDD/OP emise se determină pe baza valorii nete zilnice a tranzactiilor de vânzare și/sau de cumpărare energie electrică, ulterior lunii de livrare, se determină valorile aferente regularizărilor plăților, pe baza facturilor emise de OPCOM S.A. și de Participantul la PZU, precum și a încasărilor și plăților efectuate. </li>
+  <li>In situația în care la sfârșitul lunii se înregistrează obligații de plată și drepturi de încasare egale, reciproce, acestea se regularizează, conform opțiunii Participanților la PZU, după caz, astfel:</li>
+<ul>
+    • emitere reciprocă de Ordine de Plată, <br/>
+  • emiterea de către OPCOM S.A. a unei IDD de regularizare, și după încasarea contravalorii IDD în Contul Central de PZU, emiterea de OP pentru regularizare, pentru creditarea contului Participantului la PZU,<br/>
+  • transmiterea de către OPCOM S.A. Participantului la PZU a Solicitării de compensare și, ulterior acceptării acesteia, sub semnătură, de către Participantul la PZU, emiterea de Ordine de Compensare și Procese verbale ale ședințelor de compensare semnate în cadrul sedințelor de compensare organizate de Centrul de Pregătire pentru Personalul din Industrie,<br/>
+  • semnarea de Ordine de compensare la sediul OPCOM S.A.
+</ul>
+</ul>
+<p>În vederea participării la PZU, vă punem la dispoziție următoarele informații:</p>
+<ul>
+  <li><a href="/uploads/doc/Decontare/Modele noi SGB_iunie 2025.pdf" target="new">Noile modele</a> de scrisori de garanție bancară, aplicabile din iunie 2025</li>
+ <li><a href="http://www.arb.ro/institutii-de-credit-din-romania-care-au-aderat-la-schemele-sepa/" target="new">Lista băncilor</a> care au aderat la sistemul SEPA Direct Debit (Transfond);</li>
+ <li><a href="/uploads/doc/Decontare/Lista actualizata a bancilor care au incheiat conventii cu Banca Comerciala Romana SA.pdf" target=new>Lista</a> actualizată de bănci  care au încheiat convenții cu BCR pentru emiterea SGB pe Piața pentru Ziua Următoare și Piața Intrazilnică  de energie electrică.</li>
+</ul>
+<p>Codul IBAN al Contului Central al PZU este: <strong>RO59RNCB0074029217370032</strong></p>
+	
+	</div>
+    <div id="dreapta">  <!--stiri opcom, comunicate, anunturi piete-->
+		
+		<div id="stiri_piete">
+    	  <div class="titlustiri"><span class="tit2"> Anun&#x163;uri</span>
+		  </div>
+ 
+		<!-- &emsp;&emsp;&emsp;<a href="/pp/img/bradfelicitare.jpg" target="new"><img src="/pp/img/lma_site_anunt.png" /></a> --> 
+		<div class="scrollbar">
+		
+		<table width="94%" height="100%" id="an_piete" cellspacing="0" cellpadding="0" >
+      <tr align="left" ></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">23/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru alocarea de cont suplimentar de acces la sistemului M7 Trading (ComTrader) pentru Piața Intrazilnică de energie electrică începând cu data de 01.10.2026. Facturarea și termenele de plată ale tarifului aferent unui cont suplimentar PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1">În conformitate cu prevederile Ordinului ANRE nr. 15/2022, OPCOM publică prețul mediu ponderat înregistrat pe piața pentru ziua următoare pentru luna august 2026, în valoare de 793,19 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">12/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">05/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/ro/4"><p><a href="/tranzactii-rezultate-home/ro/267">
+A fost publicată lista operatorilor economici care nu au îndeplinit obligația de achiziție de CV pentru trimestrul II 2026
+</a></p></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">31/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/ro/1"><b>IMPORTANT!</b> A fost publicata <em>Procedura privind constituirea, verificarea și utilizarea garanțiilor financiare pentru PZU și PI actualizată cu introducerea posibilității constituirii garanției sub forma unui depozit în numerar</em></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">16/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tariful practicat de „OPCOM” SA pentru accesul la interfața de mesaje a sistemului M7 Trading pentru Piața Intrazilnică de energie electrică API (tarif API-PI) în perioada 01.08.2026-31.12.2026. Facturarea și termenele de plată a tarifului API-PI.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">10/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pzu/ro/2">OPCOM supune consultării publice <em>Procedura operațională privind funcționarea Pieței pentru Ziua Următoare de energie electrică</em>, modificată în contextul implementarii mecanismului de Alocare a volumelor la prețul SDAC</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">26/06/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/ro/10">Sinteza/Procedura privind tarifele practicate de Operatorul desemnat al pieței de energie electrică si de gaze naturale „OPCOM” SA pentru serviciile de accesare sistem de tranzactionare PI utilizand aplicatii de programe – API ( Application Programming Interface) pentru Iulie 2026. Facturarea și termenele de plată a tarifelor API.</a></div></td></tr></table><script>
+// var table = jQuery("#stiri_piete .scrollbar table tr a:nth-child(2)");
+
+// jQuery(table).each(function(index, z){
+// 	//console.log(index + " / "+ jQuery(z).attr("href") );
+// // 	console.log(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php") );
+// 	if(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php")){
+// 		console.log(jQuery(z).attr("href"));
+		
+		
+// 	}
+	
+// 	//tranzactii-rezultate/
+// // 	return false;
+// });
+
+
+</script></div></div> <!--stiri_piete-->
+        
+        <div id="com">
+			
+		<div class="titlustiri">
+            <span class="tit2"> Comunicate de presă</span>
+          </div>
+<div class="scrollbar" style="height: 125px;"><table width="94%" border="0" cellspacing="0" cellpadding="2" align="left"><tr><td class="stire1"><div class="capstire1">28/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1476/1">Record de tranzacționare pe Piața pentru Ziua Următoare - 62.552 MWh tranzacționați pentru ziua de livrare 28 septembrie 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">07/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1475/1">Participanti noi in luna august</a></div></td></tr><tr><td class="stire1"><div class="capstire1">21/08/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/ro/1473/1">Record de tranzacționare pe Piața pentru Ziua Următoare (PZU), operată de OPEM</a></div></td></tr></table></div>		<div id="stiri_der">
+        <div class="titlustiri"><span class="tit2">&#x15E;tiri</span></div>         
+<div class="scrollbar" style="height: 120px;"><table width="250px" border="0" cellspacing="0" cellpadding="2" align="left">
+		<!--<tr><td class="stire1"><div class="capstire1">06.09.2010</div></td></tr>
+		 <tr><td class="stire1"><div class="stire1"><a href="/uploads/doc/Comunicate/6_sept_RO-BG_energie_060910.pdf">Lucrarile Grupei de lucru romano-bulgare in domeniul energetic - cuplarea pietelor de energie electrica</a></div></td></tr>-->			<tr><td class="stire1"><div class="capstire1">01/04/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1153/ro">Studiu Europex: Factorii fundamentali ai prețurilor angro la energia electrică în Europa</a></div></td></tr>			<tr><td class="stire1"><div class="capstire1">13/03/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1150/ro">Documentul de poziție al Europex privind “Prețul marginal funcționează – cea mai eficientă bază pentru piețele de energie electrică”</a></div></td></tr></table></div></div><!--stiri_der-->
+         
+
+<div id="rapp">
+<div class="titlustiri"><span class="tit2">Rapoarte</span></div>		 
+
+
+<table width="250" border="0" cellpadding="0" cellspacing="0" id="rap" >
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/opcomrap.png" ></td>
+    <td>
+    Raport de pia&#355;&#259; <br/><u><a href="https://www.opcom.ro/uploads/doc/rapoarte/saptaminal/RSS_2026_39_RO.pdf" target=new>S&#259;pt&#259;m&#226;nal</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_RO.pdf" target=new>Lunar</a></u> / <u><a href="https://www.opcom.ro/uploads/doc/rapoarte/Anual/RS_2025_RO.pdf" target=new>Anual</a></u></td>
+  </tr>  
+  <tr width="195" height="5"></tr>
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/eu.png" ></td>
+    <td width="195" height="10"><a href="http://ec.europa.eu/energy/en/statistics/market-analysis">
+     Rapoarte de analiz&#259; a pie&#355;ei</a></td>
+  </tr>
+  <tr height="5"></tr>
+  <tr>
+    <td rowspan="2" width="60" height="50" align="left"><a href="https://www.acer.europa.eu/"><img style="vertical-align:baseline" src="https://www.opcom.ro/pcs/acer2.png" /></a></td>
+    <td height="30"><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Electricity-Key-Developments.pdf">
+     Evolu&#355;ii cheie pe pie&#355;ele de energie electric&#259; &#537;i gaze naturale din UE, 16 martie 2026</a></td>
+  </tr>
+  <tr>
+    <td height="30"><a href="https://www.acer.europa.eu/remit-documents">
+     Documente REMIT - ACER</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="25" align="left"><a href="https://www.opcom.ro/uploads/doc/REMIT/Promovare servicii raportare REMIT_27.07.2015.pdf" target=new><img src="https://www.opcom.ro/pcs/thing7.png" /></a></td>
+    <td height="10">
+    
+     <a href="https://www.opcom.ro/tranzactii-produse/ro/225"> Documente REMIT - OPCOM</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="20" align="left"><a href="https://www.opcom.ro/tranzactii-produse/ro/250" target="new"><img src="https://www.opcom.ro/pcs/logo_pcr.png"></a></td>
+    <td height="10">
+    <a href="https://www.opcom.ro/tranzactii-produse/ro/250"> 	Cuplarea prin Preț a Regiunilor</a></td>
+  </tr>
+  <tr height="5"></tr>
+</table>	
+</div> 
+
+</div>   
+    </div><!--dreapta-->
+
+
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/ro">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/ro/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/ro/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>Noi participanti: JWM ENERGIA sp. z.o.o. (PZU, PI), CHIMCOMPLEX S.A. BORZESTI (PCCB-LE-Flex, PCCB-NC), NEXTE ASSET MANAGEMENT S.R.L. (PCCB-LE-Flex, PCE-ESRE-CV, PC-OTC), SPRING ADVERTISING S.R.L. (PCV), EDPR SOLAR ENERGY S.R.L.  (PCE-ESRE-CV, PCV) si EDPR WIND ENERGY S.R.L. (PCE-ESRE-CV, PCV) s-au alaturat OPCOM in luna septembrie.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/ro">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/ro/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="ikklGmLM4BjagefWwGz86Vp8M2llIGiENtaipFMD" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': 'ikklGmLM4BjagefWwGz86Vp8M2llIGiENtaipFMD'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+   
+

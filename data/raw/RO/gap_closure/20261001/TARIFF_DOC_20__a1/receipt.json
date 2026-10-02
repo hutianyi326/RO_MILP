@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_20",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/18890707/Tarif+pentru+achizitia+serviciilor+de+sistem+-+01.06.2025.pdf/67b2e966-86c3-441e-b5b1-7a9b7f459a19",
+  "title": "Tariful pentru achiziţia serviciilor de sistem (aplicabil începând cu data de 01.06.2025)",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:07.449246+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18890707/Tarif+pentru+achizitia+serviciilor+de+sistem+-+01.06.2025.pdf/67b2e966-86c3-441e-b5b1-7a9b7f459a19",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_20__a1/original.pdf",
+  "sha256": "aa2fd7bbb9f678a8b28c4a8fae05cf60cdb93ba352d93c725be375bbc904d62c",
+  "bytes": 103381,
+  "detected_format": "pdf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "E49",
+  "title": "Transelectrica news chronological index",
+  "url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+  "resolved_url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+  "retrieved_utc": "2026-09-30T07:57:56.9251737Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E49\\original.html",
+  "bytes": 182461,
+  "sha256": "5158c41038eb8411b1c65f39281928b7aef632df736dc53dd8df2975dc775b05",
+  "extracted_characters": 101184
+}

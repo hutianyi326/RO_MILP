@@ -1,0 +1,10 @@
+{
+  "members": 20,
+  "dates": 607,
+  "rows": 14567,
+  "dst_or_label_days": 4,
+  "native_valid_rows": 14567,
+  "usable_rows_under_A": 14496,
+  "identity_max_abs_mw": 9.094947017729282e-13,
+  "tech_including_storage_max_abs_difference": 1.8189894035458565e-12
+}

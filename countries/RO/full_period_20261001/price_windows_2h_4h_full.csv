@@ -1,0 +1,3 @@
+﻿duration_hours,valid_windows,minimum_mean,maximum_mean,median_mean,negative_mean_windows,cross_day_allowed,interpretation
+2,58357,-100.61000000000001,963.95125,111.26124999999999,1539,True,"overlapping price windows; no device operation, transaction sequence, efficiency or income"
+4,58349,-86.34687499999997,917.665,111.92500000000001,1184,True,"overlapping price windows; no device operation, transaction sequence, efficiency or income"

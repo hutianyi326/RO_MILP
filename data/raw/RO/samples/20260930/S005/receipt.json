@@ -1,0 +1,17 @@
+{
+  "id": "S005",
+  "dataset": "D14",
+  "url": "https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "candidate official FX route 2025; verify format/redirect",
+  "retrieved_utc": "2026-09-30T09:16:33.0462618Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S005/original.html",
+  "bytes": 119971,
+  "sha256": "b521b4b749787df57dd878fcab0032f11d99d27954fd11217db4f4a2d90019ad"
+}

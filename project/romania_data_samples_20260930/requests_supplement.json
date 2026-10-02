@@ -1,0 +1,9 @@
+[
+ {"id":"S009","dataset":"D12","url":"https://www.opcom.ro/tranzactii-rezultate/en/22","scope":"monthly report official catalogue"},
+ {"id":"MONTH_2025-01","dataset":"D12","url":"https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2501_EN.pdf","scope":"2025-01 official month controls"},
+ {"id":"MONTH_2025-10","dataset":"D12","url":"https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2510_EN.pdf","scope":"2025-10 official month controls"},
+ {"id":"MONTH_2026-08","dataset":"D12","url":"https://www.opcom.ro/uploads/doc/rapoarte/lunar/R_2608_EN.pdf","scope":"2026-08 official month controls"},
+ {"id":"S010","dataset":"D14","url":"https://www.bnr.ro/23988-cursurile-pietei-valutare-in-format-xml","scope":"new official XML catalogue; dynamic content verification needed"},
+ {"id":"IDCT_2026-08-31_PT15","dataset":"D04","url":"https://www.opcom.ro/rapoarte-pi-rezultate-pi/en","scope":"2026-08-31 PT15 trades","body":{"ziua_eng":"08/31/2026","action":"trading_for","limba":"en","buton":"Refresh","tip":"15"}},
+ {"id":"S011","dataset":"D08-D11-D16","url":"https://www.transelectrica.ro/en/web/tel/rapoarte-zilnice","scope":"official daily report handover and public source routes"}
+]

@@ -1,0 +1,349 @@
+{
+  "date": "2026-09-30",
+  "status": "PASS",
+  "scope": "Documentation/evidence integrity and examples only; not legal completeness, model, data QA or backtest approval",
+  "frozen_baselines": [
+    {
+      "file": "romania_research_plan_20260930.md",
+      "unchanged": true
+    },
+    {
+      "file": "romania_data_acquisition_plan_20260930.md",
+      "unchanged": true
+    },
+    {
+      "file": "romania_report_milp_outline_20260930.md",
+      "unchanged": true
+    },
+    {
+      "file": "romania_research_work_breakdown_20260930.md",
+      "unchanged": true
+    }
+  ],
+  "original_integrity": [
+    {
+      "id": "E04",
+      "sha256_matches": true
+    },
+    {
+      "id": "E05",
+      "sha256_matches": true
+    },
+    {
+      "id": "E06",
+      "sha256_matches": true
+    },
+    {
+      "id": "E07",
+      "sha256_matches": true
+    },
+    {
+      "id": "E08",
+      "sha256_matches": true
+    },
+    {
+      "id": "E09",
+      "sha256_matches": true
+    },
+    {
+      "id": "E10",
+      "sha256_matches": true
+    },
+    {
+      "id": "E11",
+      "sha256_matches": true
+    },
+    {
+      "id": "E12",
+      "sha256_matches": true
+    },
+    {
+      "id": "E13",
+      "sha256_matches": true
+    },
+    {
+      "id": "E14",
+      "sha256_matches": true
+    },
+    {
+      "id": "E15",
+      "sha256_matches": true
+    },
+    {
+      "id": "E16",
+      "sha256_matches": true
+    },
+    {
+      "id": "E17",
+      "sha256_matches": true
+    },
+    {
+      "id": "E18",
+      "sha256_matches": true
+    },
+    {
+      "id": "E19",
+      "sha256_matches": true
+    },
+    {
+      "id": "E20",
+      "sha256_matches": true
+    },
+    {
+      "id": "E21",
+      "sha256_matches": true
+    },
+    {
+      "id": "E22",
+      "sha256_matches": true
+    },
+    {
+      "id": "E23",
+      "sha256_matches": true
+    },
+    {
+      "id": "E24",
+      "sha256_matches": true
+    },
+    {
+      "id": "E25",
+      "sha256_matches": true
+    },
+    {
+      "id": "E26",
+      "sha256_matches": true
+    },
+    {
+      "id": "E27",
+      "sha256_matches": true
+    },
+    {
+      "id": "E28",
+      "sha256_matches": true
+    },
+    {
+      "id": "E29",
+      "sha256_matches": true
+    },
+    {
+      "id": "E30",
+      "sha256_matches": true
+    },
+    {
+      "id": "E31",
+      "sha256_matches": true
+    },
+    {
+      "id": "E32",
+      "sha256_matches": true
+    },
+    {
+      "id": "E33",
+      "sha256_matches": true
+    },
+    {
+      "id": "E34",
+      "sha256_matches": true
+    },
+    {
+      "id": "E35",
+      "sha256_matches": true
+    },
+    {
+      "id": "E36",
+      "sha256_matches": true
+    },
+    {
+      "id": "E37",
+      "sha256_matches": true
+    },
+    {
+      "id": "E38",
+      "sha256_matches": true
+    },
+    {
+      "id": "E39",
+      "sha256_matches": true
+    },
+    {
+      "id": "E40",
+      "sha256_matches": true
+    },
+    {
+      "id": "E41",
+      "sha256_matches": true
+    },
+    {
+      "id": "E42",
+      "sha256_matches": true
+    },
+    {
+      "id": "E43",
+      "sha256_matches": true
+    },
+    {
+      "id": "E48",
+      "sha256_matches": true
+    },
+    {
+      "id": "E49",
+      "sha256_matches": true
+    },
+    {
+      "id": "E50",
+      "sha256_matches": true
+    },
+    {
+      "id": "E51",
+      "sha256_matches": true
+    },
+    {
+      "id": "E54",
+      "sha256_matches": true
+    },
+    {
+      "id": "E56",
+      "sha256_matches": true
+    },
+    {
+      "id": "E57",
+      "sha256_matches": true
+    },
+    {
+      "id": "E58",
+      "sha256_matches": true
+    },
+    {
+      "id": "E59",
+      "sha256_matches": true
+    },
+    {
+      "id": "E60",
+      "sha256_matches": true
+    },
+    {
+      "id": "E61",
+      "sha256_matches": true
+    },
+    {
+      "id": "E62",
+      "sha256_matches": true
+    },
+    {
+      "id": "E63",
+      "sha256_matches": true
+    },
+    {
+      "id": "E64",
+      "sha256_matches": true
+    },
+    {
+      "id": "E66",
+      "sha256_matches": true
+    },
+    {
+      "id": "E67",
+      "sha256_matches": true
+    }
+  ],
+  "source_count": 67,
+  "rule_count": 41,
+  "unresolved_count": 12,
+  "arithmetic_checks": [
+    {
+      "name": "none",
+      "net_contract_MWh": 1.5,
+      "imbalance_MWh": 0.0,
+      "subtotal_RON": 475.0,
+      "pass": true
+    },
+    {
+      "name": "up",
+      "net_contract_MWh": 2.0,
+      "imbalance_MWh": -0.1,
+      "subtotal_RON": 775.0,
+      "pass": true
+    },
+    {
+      "name": "down_positive",
+      "net_contract_MWh": 1.1,
+      "imbalance_MWh": 0.0,
+      "subtotal_RON": 395.0,
+      "pass": true
+    },
+    {
+      "name": "down_negative",
+      "net_contract_MWh": 1.1,
+      "imbalance_MWh": 0.0,
+      "subtotal_RON": 555.0,
+      "pass": true
+    },
+    {
+      "name": "under_delivery",
+      "net_contract_MWh": 2.0,
+      "imbalance_MWh": -0.2,
+      "subtotal_RON": 675.0,
+      "pass": true
+    },
+    {
+      "name": "both",
+      "net_contract_MWh": 1.6,
+      "imbalance_MWh": 0.0,
+      "subtotal_RON": 795.0,
+      "pass": true
+    },
+    {
+      "name": "capacity_unit_hypothesis",
+      "result": 20.0,
+      "pass": true
+    },
+    {
+      "name": "monthly_fee_hypothesis",
+      "result": 500,
+      "pass": true
+    },
+    {
+      "name": "negative_spot_purchase",
+      "result": 100,
+      "pass": true
+    },
+    {
+      "name": "deficit_dual_price",
+      "result": -100.0,
+      "pass": true
+    },
+    {
+      "name": "surplus_dual_price",
+      "result": 10.0,
+      "pass": true
+    },
+    {
+      "name": "DSO_official_cross_month_quantity",
+      "result": 2,
+      "pass": true
+    },
+    {
+      "name": "DSO_cross_month_hypothetical_cash",
+      "result": 100,
+      "pass": true
+    }
+  ],
+  "manually_viewed_key_original_pages": [
+    "E14 p19",
+    "E15 p1—2",
+    "E16 p1—3",
+    "E17 p2,4",
+    "E24 p22",
+    "E26 p17,21,26",
+    "E43 p11,12,15",
+    "E50 p9—10"
+  ],
+  "warnings": [
+    "E14/E54 mixed versions; amendment overrides required",
+    "E33 binary DOC extraction excluded",
+    "E66/E67 raw RAR saved with html extension; selected PDF/DOCX members safely extracted and separately hashed",
+    "E46/E52/E65 web verification only; raw original unavailable",
+    "Historical version gaps remain U01—U12"
+  ],
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "OPCOM_FEE_ARCHIVE_15",
+  "dataset": "D13",
+  "url": "https://www.opcom.ro/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED_2026.pdf",
+  "title": "Sinteza/Procedura",
+  "catalog_id": "OPCOM_TARIFF_ARCHIVE",
+  "scope": "historical fee body, effective dates and actual applies to verify",
+  "attempt": 3,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:04:42.922975+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "InvalidURL: URL can't contain control characters. '/uploads/doc/FPA/R3_Lb.rom._Procedura OPEED_2026.pdf' (found at least ' ')"
+}

@@ -1,0 +1,465 @@
+=== PDF PAGE 1 ===
+Procedur ă opera țional ă unic ă privind implementarea scutirii de la plata tarifelor reglementate 
+pentru energia electric ă stocat ă conform art. 11 din Ordinul ANRE nr. 56/2025 
+ 
+Cuprins 
+1. Scopul procedurii ............................................................................................................................... 3 
+2. Domeniul de aplicare ......................................................................................................................... 3 
+3. Documente de referin ță  ...................................................................................................................... 3 
+4. Defini ții și abrevieri ........................................................................................................................... 3 
+4.1 Defini ții ......................................................................................................................................... 3 
+4.2 Abrevieri ....................................................................................................................................... 4 
+5. Modul de lucru – Descrierea procesului ............................................................................................ 5 
+5.1 Etapa 1: Depunere solicitare și încheierea contractului de re țea specific ..................................... 5 
+5.1.1 Documentele necesare a fi depuse pentru încheierea contractului de re țea specific în cazul 
+instala țiilor de stocare independente ............................................................................................... 5 
+5.1.2 Documentele necesare a fi depuse pentru încheierea contractului de re țea specific în cazul 
+unit ăților mixte (producție și stocare) ............................................................................................. 5 
+5.1.3 Verificarea îndeplinirii condi țiilor specifice de m ăsurare...................................................... 6 
+5.1.4 Încheierea contractului ........................................................................................................... 6 
+5.2 Etapa 2: M ăsurarea, facturarea și transmiterea datelor de m ăsurare în vederea decont ării .......... 6 
+5.2.1 Determinarea energiei stocate ................................................................................................ 6 
+5.2.1.1 Instala ție de stocare independent ă .................................................................................. 6 
+5.2.1.2 Instala ție de stocare în instala ția unui produc ător .......................................................... 7 
+5.2.1.3 Instala ție de stocare racordat ă în re țeaua unui ODNC ................................................... 8 
+5.3  Etapa 3: Monitorizare lunar ă ....................................................................................................... 9 
+5.3.1. Instala ție de stocare independent ă ........................................................................................ 9 
+5.3.2. Instala ție de stocare în instalația unui produc ător ............................................................... 10 
+5.4 Etapa 4: Raportare anual ă ........................................................................................................... 11 
+6. Responsabilit ăți interne .................................................................................................................... 11 
+7. Comunicare ...................................................................................................................................... 11 
+7.1 Înregistr ări .................................................................................................................................. 11 
+7.2 Arhivare ...................................................................................................................................... 11 
+ 
+  
+
+=== PDF PAGE 2 ===
+2 
+ 
+Tabel 1. Schema privind determinarea energiei electrice care nu este supus ă tarifelor reglementate  ... 7 
+Tabel 2. Schema de principiu privind determinarea energiei electrice care nu este supus ă tarifelor 
+reglementate  ........................................................................................................................................... 8 
+Tabel 3. Modelul de bilan ț de energie electric ă în cazul instala țiilor de stocare independente.  .......... 10 
+Tabel 4. Modelul de bilan ț de energie electric ă în cazul instala țiilor de stocare amplasate în instala ția 
+unui produc ător.  ................................................................................................................................... 10 
+ 
+  
+
+=== PDF PAGE 3 ===
+3 
+ 
+1. Scopul procedurii 
+Aceast ă procedur ă stabile ște modalitatea unitar ă de implementare a scutirii de la plata tarifelor 
+reglementate pentru energia electric ă stocat ă, în conformitate cu art. 11 din Ordinul ANRE nr. 56/2025: 
+“(1) Operatorii de re țea concesionari elaboreaz ă o procedur ă opera țional ă unic ă cu privire la 
+implementarea scutirii de la plata tarifelor pentru energia electric ă stocat ă. 
+(2) Procedura opera țional ă prev ăzut ă la alin. (1) trebuie s ă prevad ă cel pu țin urm ătoarele: 
+- reflectare în facturi a neaplic ării tarifelor reglementate pentru energia electric ă stocat ă; 
+- reguli cu privire la mecanismul de regularizare privind cantitatea de energie electric ă stocat ă; 
+- reguli privind raportarea prev ăzut ă la art. 7 alin. (2); 
+- alte elemente procedurale de detaliu, dac ă este cazul, în vederea unei aplic ări unitare. 
+(3) În termen de 60 de zile de la data intr ării în vigoare a prezentelor norme metodologice, operatorii 
+de re țea concesionari transmit la ANRE procedura opera țional ă prev ăzut ă la alin. (1), avizat ă intern, 
+și o public ă pe site-urile proprii” 
+Mecanismul de tarifare aplicat de c ătre operatorii de re ţea din domeniul energiei electrice se aplic ă așa 
+cum este detaliat la cap. 8.2.  
+2. Domeniul de aplicare 
+Procedura se aplic ă la nivelul operatorilor de re țea concesionari – respectiv Operatorul de Transport și 
+de Sistem (OTS) și Operatorii de Distribu ție (OD) – în rela ția acestora cu titularii instala țiilor de stocare 
+a energiei electrice care solicit ă acordarea except ării de la plata tarifelor reglementate aplicabile 
+consumatorilor finali. Prezenta procedur ă vizeaz ă atât procesul intern al operatorilor pentru evalua rea 
+și aprobarea mecanismului de tarifare a energiei sto cate, cât și interac țiunea cu Autoritatea Na țional ă 
+de Reglementare în Domeniul Energiei (ANRE) în vede rea raport ării datelor aferente instala țiilor de 
+stocare. 
+Prezenta procedur ă nu se aplic ă pe perioada de probe a instala țiilor de stocare. 
+3. Documente de referin ță  
+- Legea energiei electrice nr. 123/2012 – Legea cadru  a energiei electrice, cu modific ările și 
+complet ările ulterioare (prevederi referitoare la tarife și la instala ții de stocare). 
+- Ordinul ANRE nr. 56/2025 – privind exceptarea de la  plata tarifelor reglementate pentru 
+energia electric ă stocat ă. 
+- Ordinul ANRE nr. 67/2024 – privind aprobarea Metodo logiei de stabilire a tarifelor pentru 
+serviciul de distribu ţie a energiei electrice. 
+- Ordinul ANRE nr. 68/2024 – privind aprobarea Metodo logiei de stabilire a tarifelor pentru 
+serviciul de transport al energiei electrice. 
+4. Defini ții și abrevieri 
+4.1 Defini ții 
+Energie electric ă stocat ă și livrat ă în instala ția OR  – energia electric ă extras ă din re ţea, men ţinut ă 
+în instala ţia de stocare pentru o perioad ă limitat ă de timp şi ulterior evacuat ă în re ţeaua electric ă din 
+instala ţia de stocare, inclusiv în cazul func ţion ării în regim de pompaj a unei CHEAP. 
+
+=== PDF PAGE 4 ===
+4 
+ 
+Instala ție de stocare  – echipament sau ansamblu de echipamente care perm ite stocarea energiei 
+electrice preluate din re țea, pentru a fi livrat ă ulterior în sistemul electric. Exemple: baterii 
+electrochimice, sisteme de stocare cu aer comprimat, pompaje hidroenergetice etc. 
+Instala ție de stocare independent ă – instala ție de stocare racordat ă la re țea în care se încarc ă/livreaz ă 
+exclusiv energie din re țea. 
+Titularul instala ției de stocare  – persoan ă juridic ă care de ține și opereaz ă o instala ție de stocare a 
+energiei electrice și care poate solicita exceptarea de tarife reglementate pentru energia stocat ă. 
+Stocare de energie  – procesul de transformare a energiei electrice în tr-o form ă de energie care poate 
+fi stocat ă în scopul amân ării utiliz ării acesteia pentru un moment ulterior momentului g ener ării și 
+reconversia ulterioar ă a energiei respective în energie electric ă în vederea utiliz ării acesteia în alt vector 
+energetic sau în vederea livr ării în re țelele de energie electric ă. 
+Scutire de la plata tarifelor reglementate  – mecanism legal prin care titularul unei instala ții de 
+stocare este exceptat de la plata tarifelor de tran sport, tarifelor pentru achizi ția serviciilor de sistem și 
+tarifelor de distribu ție reglementate de ANRE, pentru energia electric ă pe care o preia din re țea exclusiv 
+în scopul stoc ării și pe care ulterior o livreaz ă integral în re țea. 
+Mecanism de tarifare a energiei electrice stocate  – reprezint ă cadrul legal aplicabil, stabilit în baza 
+concluziilor studiului elaborat conform art. 184 di n Ordinul ANRE nr. 67/2024, prin care titularii 
+instala țiilor de stocare beneficiaz ă de exceptarea de la plata tarifelor reglementate d e transport și 
+distribu ție (TDc, TL, TSS) aferente energiei stocate, urmând  ca aceasta s ă fie tarifat ă în conformitate 
+cu tariful aprobat de ANRE. 
+Pân ă la aprobarea de c ătre ANRE a noului tarif aplicabil energiei stocate,  valoarea acestuia este 
+considerat ă a fi 0. 
+Tarife reglementate  –  tarife aprobate prin Ordin ANRE, practicate de operatorii de re țea.  
+4.2 Abrevieri 
+ANRE – Autoritatea Na țional ă de Reglementare în Domeniul Energiei. 
+OTS – Operator de Transport și de Sistem (Compania Na țional ă de Transport a Energiei Electrice 
+Transelectrica S.A.). 
+ODC – Operator de Distribu ție Concesionar. 
+ODNC – Operator de Distribu ție Neconcesionar 
+TL –  tariful de extragere a energiei electrice din re ţele - practicat de operatorul de transport şi de sistem   
+Tss – tariful pentru achizi ţia serviciilor de sistem - practicat de operatorul de transport şi de sistem   
+TDc – tariful de distribu ţie aplicat clien ţilor finali ai serviciului de distribu ţie a energiei electrice - 
+practicat de operatorii de distribu ţie concesionari din domeniul energiei electrice   
+TG – Tarif transport practicat de operatorul de transport şi de sistem pentru energia electric ă introdus ă 
+în re țea. 
+TGD – Tarif distribu ție practicat de operatorul de distribu ție concesionar pentru energia electric ă 
+introdus ă în re țea. 
+TGD_Tp – Tarif distribu ție care se aplic ă de operatorul de distributie concesionar pentru en ergia 
+electric ă introdus ă în RED din centrale cu capacitate instalat ă mai mare de 5 MW. 
+Eex – Energie electric ă activ ă extras ă din re țea.  
+Ei – Energie electric ă activ ă injectat ă în re țea.  
+
+=== PDF PAGE 5 ===
+5 
+ 
+Etr – Energie electric ă activ ă la care se aplic ă tarifele reglementate aplicabile consumatorilor finali. 
+Es – Energie electric ă activ ă stocat ă.  
+Ep – Energie electric ă activ ă produs ă. 
+5. Modul de lucru – Descrierea procesului 
+Procesul de aplicare a mecanismului de tarifare pentru energia stocat ă se desf ășoar ă în mai multe etape 
+opera ționale, dup ă cum urmeaz ă: 
+5.1 Etapa 1: Depunere solicitare și încheierea contractului de re țea specific 
+5.1.1 Documentele necesare a fi depuse pentru încheierea contractului de re țea specific în cazul 
+instala țiilor de stocare independente 
+Documentele necesare a fi depuse sunt: 
+- Certificatul de înregistrare fiscal ă, în cazul persoanelor juridice; 
+- Copie a actului de identitate, a certificatului de înregistrare la registrul comer țului sau a altor 
+autoriza ții de func ționare emise de autorit ățile competente, dup ă caz; 
+- Licen ța pentru exploatarea comercial ă a instala ţiilor de stocare a energiei; 
+- Copie dup ă certificatul de racordare emis pentru instala ția de stocare; 
+- Conven ția de exploatare, în cazul în care aceasta a fost încheiat ă; 
+- Conven ție tripartit ă/multipartit ă încheiat ă în conformitate cu prevederile Regulamentul de 
+furnizare, dup ă caz; 
+- Date necesare încheierii contractului (reprezentan ți legali, cont bancar, adresa de 
+coresponden ță, etc); 
+- Anexa 2.10 cu cod ENTSO-E (procedura Transelectrica ) men ționat în anex ă, prin care s ă se 
+ateste înscrierea într-un PRE pentru zona operatorului de re țea. 
+Cererea se depune la OR prin canalele de comunicare  puse la dispozi ție de c ătre acesta (adres ă de 
+email, portal, alte canale).  
+Cererea va fi luat ă în considerare doar dac ă documenta ția este considerat ă complet ă.  
+5.1.2 Documentele necesare a fi depuse pentru încheierea contractului de re țea specific în cazul 
+unit ăților mixte (produc ție și stocare) 
+Documentele necesar a fi depuse sunt: 
+- Certificatul de înregistrare fiscal ă, în cazul persoanelor juridice; 
+- Copie a actului de identitate, a certificatului de înregistrare la registrul comer țului sau a altor 
+autoriza ții de func ționare emise de autorit ățile competente, dup ă caz; 
+- Licen ța pentru exploatarea comercial ă a capacit ățiilor de producere a energie electrice; 
+- Copie dup ă certificatul de racordare, emis pentru fiecare loc  de producere și instala ție de 
+stocare, cu solu ție de m ăsurare distinct ă. Certificatul de racordare emis con ține și solu ția de 
+măsurare cu men ționarea grupurilor de m ăsur ă montate în instala ția de utilizare astfel încât s ă 
+poat ă fi determinat ă Etr. Contoarele montate în instala ția de utilizare vor fi proprietatea 
+operatorilor de re țea, costurile fiind recunoscute în programele de investi ții și vor fi considerate 
+contoare de decontare participând la determinarea s chemei de tarifare a energiei 
+
+=== PDF PAGE 6 ===
+6 
+ 
+distribuite/transportate. Costurile pentru alte ele mente ale grupului de m ăsur ă (celule, 
+transformatoare de m ăsur ă, circuite) se realizeaz ă pe cheltuiala consumatorului; 
+- Conven ția de exploatare, în cazul în care aceasta a fost incheiat ă; 
+- Conven ție tripartit ă/multipartit ă încheiat ă în conformitate cu prevederile Regulamentul de 
+furnizare, dup ă caz; 
+- Date necesare încheierii contractului (reprezentan ți legali, cont bancar, adresa de 
+coresponden ță, etc); 
+- Anexa 2.10 cu cod ENTSO-E (procedura Transelectrica ) men ționat în anex ă, prin care s ă se 
+ateste înscrierea într-un PRE pentru zona operatorului de re țea. 
+Cererea se depune la OR prin canalele de comunicare  puse la dispozi ție de c ătre acesta (adres ă de 
+email, portal, alte canale). 
+Cererea va fi luat ă în considerare doar dac ă documenta ția este considerat ă complet ă.  
+5.1.3 Verificarea îndeplinirii condi țiilor specifice de m ăsurare 
+Operatorul de re țea asigur ă m ăsurarea și stabilirea cantit ăților decontate în punctul de delimitare.  
+Suplimentar, în cazul unit ăților mixte (produc ție si stocare), pentru m ăsurarea energiei electrice la 
+bornele generatorului se va verifica conformitatea cu prevederile Codului de M ăsur ă, specifice 
+încadr ării punctului de m ăsurare. 
+Pentru verificarea contorului sau citirea acestuia (în cazul erorilor de transmitere date) produc ătorul 
+trebuie s ă asigure accesul de fiecare dat ă când OD/OTS solicit ă. 
+5.1.4 Încheierea contractului  
+Semnarea contractului de re țea specific de c ătre OR este condi ționat ă de documenta ția complet ă 
+prezentat ă mai sus precum și de îndeplinirea condi țiilor specifice de m ăsurare. 
+5.2 Etapa 2: Măsurarea, facturarea și transmiterea datelor de m ăsurare în 
+vederea decont ării 
+Datele de m ăsur ă sunt determinate utilizând înregistr ările grupurilor de m ăsurare specifice fiecarui tip 
+de instala ție. 
+În absen ța accesului la grupurile de m ăsurare din instala ția intern ă sau la datele m ăsurate, OD/OTS 
+este îndrept ățit s ă solicite TDc, TL și Tss pentru întreaga cantitate extras ă Eex din re țeaua sa. 
+Datele de m ăsur ă vor fi consemnate prin procese verbale încheiate între OR și reprezentantul instala ției. 
+5.2.1 Determinarea energiei stocate 
+5.2.1.1 Instala ție de stocare independent ă 
+În cazul instala țiilor de stocare care reprezint ă baterii independente, OR determin ă energia electric ă 
+stocat ă, respectiv energia preluat ă din re țea, stocat ă și livrat ă ulterior și pentru care se va aplica 
+mecanismul de tarifare în baza datelor de m ăsurare în punctul de delimitare. 
+Energia consumat ă la care se aplic ă TL, Tss, TDc se determin ă lunar ca diferen ță între cantitatea total ă 
+de energie extras ă de baterie din re țea și cantitatea total ă de energie introdus ă de baterie în re țea. 
+ 
+ 
+
+=== PDF PAGE 7 ===
+7 
+ 
+ 
+Tabel 1. Schema privind determinarea energiei electrice care nu este supus ă tarifelor reglementate 
+Mărimi de facturare  Mod de stabilire m ărimi 
+facturare 
+Tarif aplicabil/ observa ții 
+Eex - Energia   extras ă de 
+baterie din re țea la încarcare 
+Eex - energie m ăsurat ă în 
+punctul de delimitare  
+ 
+Ei - Energie injectat ă în re țea de 
+baterie la desc ărcare 
+Ei – energie m ăsurat ă în 
+punctul de delimitare (Ei) 
+TG, TGD și TGD_Tp  
+TGD și TGD_Tp vor fi 
+aprobate conform 
+reglement ărilor ANRE  
+Etr - Energia electric ă la care se 
+aplic ă tarifele reglementate  
+Etr = Eex-Ei  TL, Tss, TDc 
+Es Energie electric ă stocat ă  Es=Eex-Etr = Ei Exceptat de la plata TL, Tss si 
+TDc  
+Exceptarea se aplic ă pân ă la 
+stabilirea de c ătre ANRE a 
+sistemului de tarifare a energiei 
+electrice stocate pe baza 
+analizelor efectuate de 
+operatorii de re ţea privind 
+costurile şi beneficiile generate 
+de instala ţiile de stocare asupra 
+re ţelelor, în conformitate cu 
+prevederile metodologiilor de 
+stabilire a tarifelor de re ţea . 
+5.2.1.2 Instala ție de stocare în instala ția unui produc ător 
+În cazul producatorului care are racordat ă în instala ția proprie o baterie în vederea stocarii de energie, 
+OR determin ă energia electric ă stocat ă ca fiind diferen ța între energia injectat ă în re țea m ăsurat ă în 
+punctul de delimitare și energia produs ă la grupul generator. 
+Energia consumat ă la care se aplic ă TL, Ts, TDc se determin ă lunar ca diferen ță între cantitatea total ă 
+de energie extras ă din re țeaua OR și cantitatea total ă de energie stocat ă. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PDF PAGE 8 ===
+8 
+ 
+Tabel 2. Schema de principiu privind determinarea e nergiei electrice care nu este supus ă tarifelor 
+reglementate 
+  Mărimi de facturare 
+(m ăsurate sau determinate 
+prin formul ă) 
+Mod de stabilire m ărimi de 
+facturare 
+Tarif aplicabil/observa ții 
+Ep – energia electric ă produs ă Ep - m ăsurat ă de un contor în 
+instala ția intern ă a 
+producatorului 
+ 
+Eex - Energia   electric ă extras ă 
+din re țea   
+Eex - m ăsurat ă în punctul de 
+delimitare  
+ 
+Ei - Energie injectat ă în re țea  Ei - m ăsurat ă în punctul de 
+delimitare  
+TG, TGD și TGD_Tp 
+TGD și TGD_Tp vor fi 
+aprobate conform 
+reglement ărilor ANRE  
+Es Energie electric ă stocat ă Es = Ei-Ep doar pentru valori 
+mai mari ca 0 
+Exceptat de la plata TL, Tss 
+si TDc  
+Exceptarea se aplic ă până la 
+stabilirea de c ătre ANRE a 
+sistemului de tarifare a 
+energiei electrice stocate pe 
+baza analizelor efectuate de 
+operatorii de re ţea privind 
+costurile şi beneficiile 
+generate de instala ţiile de 
+stocare asupra re ţelelor, în 
+conformitate cu prevederile 
+metodologiilor de stabilire a 
+tarifelor de re ţea . 
+Etr - energia la care se aplic ă 
+tarifele reglementate  
+Etr=Eex-Es TL, Tss, TDc 
+5.2.1.3 Instala ție de stocare racordat ă în re țeaua unui ODNC 
+ODNC va transmite ODC defalcarea schimbului de energie pe consum, produc ție și stocare, a doua zi 
+dup ă ce ODC transmite acestuia datele de schimb. 
+ODNC va calcula energia stocat ă similar cu metodologia din prezenta procedur ă. 
+Facturarea energiei stocate 
+OR pune în aplicare mecanismul de tarifare în sistemul de facturare, care s ă reflecte scutirea de la plata 
+tarifelor reglementate pentru energia electric ă stocat ă și are la baz ă datele stabilite prin procesul verbal 
+încheiat între parteneri. Perioada de facturare este luna calendaristic ă.  
+Exemplu: Factura va con ține corelat cu cap 5.2.1: 
+
+=== PDF PAGE 9 ===
+9 
+ 
+Pentru partea de consum, m ărimile de facturare din prima coloan ă a tabelelor prezentate mai sus 
+respectiv  : 
+Etr - energia la care se aplic ă tarifele reglementate (*)  
+Es - energie stocat ă (*) 
+Pentru partea de produc ție: 
+Ei - energie injectat ă în re țea (*) 
+Determinarea cantit ății energiei reactive de facturat bazat ă pe indica țiile grupului de m ăsurare din 
+punctul de delimitare și plata se vor face conform prevederilor Art. 2 ali n. 1 lit b) din Ordinul 
+Pre ședintelui ANRE nr. 33/2014. 
+(*) Codific ările Etr, Es, Ei vor putea suferi modific ări în func ție de aplica ția fiecarui OR, defini ția 
+rămânând neschimbat ă. 
+Orice cantitate de energie ramas ă în stoc (în baterie) la finalul perioadei de facturare care va fi ulterior 
+evacuat ă, va fi recuperat ă astfel în lunile urm ătoare (pot rezulta astfel cantit ăti negative facturate 
+operatorilor de stocare). 
+Modul de facturare în cazurile particulare care nu se încadreaz ă în prevederile procedurii vor fi 
+analizate de fiecare OR împreun ă cu utilizatorii pentru identificarea modelului de bilan ț de energie 
+electric ă specific. 
+Transmiterea datelor de m ăsurare în vederea decont ării c ătre partenerii comerciali  
+Datele de m ăsurare sunt transmise c ătre partenerul comercial cu care este încheiat cont ractul de re țea 
+specific în vederea semn ării procesului verbal.  
+Datele de m ăsur ă vor fi transmise c ătre partenerii comerciali, respectând termenul prevăzut în Ordinul 
+Pre ședintelui ANRE nr. 62/2020, inclusiv schimbul de date între OR și OTS va respecta prevederile în 
+vigoare. 
+Cantit ățile lunare stocate pe fiecare operator de stocare, se vor transmite la Transelectrica eviden țiate 
+separat, în continuarea categoriilor de informa ții prev ăzute în Anexa 2 la Ordinul Pre ședintelui ANRE 
+nr.132/19.10.2022 cu modific ările și complet ările ulterioare, iar tabelul cu cantitatea stocat ă va avea 
+structura de coloane identic ă cu cele deja prev ăzute în Anexa 2. 
+Operatorii de re țea neconcesionari, care au în zona lor de distribu ție și unit ăți de stocare ce îndeplinesc 
+prevederile din Ordinul Pre ședintelui ANRE nr. 56/2025, referitoare la scutirea  de la plata tarifelor 
+reglementate pentru energia electric ă stocat ă, vor transmite Operatorului de re țea concesionar 
+defalcarea schimbului de energie electric ă, în a doua zi lucr ătoare dup ă primirea datelor de schimb. 
+Defalcarea și raportarea cantit ăților de schimb energie electric ă se va face de c ătre operatorul de 
+distribu ție neconcesionar pe structura modelului de bilan ț energie electric ă stocat ă din tabelul 2, al 
+prezentei proceduri. 
+5.3  Etapa 3: Monitorizare lunar ă 
+5.3.1. Instala ție de stocare independent ă 
+Operatorul de re țea monitorizeaz ă lunar implementarea scutirii, pentru a se asigura c ă rămân îndeplinite 
+condi țiile și c ă aceasta este aplicat ă corect. În fiecare lun ă, se compar ă volumul de energie electric ă 
+preluat ă din re țea pentru stocare cu volumul de energie livrat ă în re țea dup ă stocare, pentru fiecare 
+instala ție exceptat ă.  
+Rezultatele monitoriz ării lunare sunt documentate și stau la baza raport ării anuale către ANRE. Lunar, 
+diferen ța dintre energia electric ă consumat ă din re țea de IS (Er) și energia electric ă livrat ă în re țea 
+
+=== PDF PAGE 10 ===
+10 
+ 
+(evacuat ă) de IS (Ei) poate fi o valoare pozitiv ă sau negativ ă. Semnifica ția rezultatului negativ indic ă 
+o cantitate la care s-a aplicat tariful de distribu ție/transport reglementat în intervalul de facturare  
+anterior și care în intervalul de facturare curent a fost livrat ă în re țea. Astfel, energia care în intervalul 
+anterior a fost facturat ă ca și consum în Etr, în factura curent ă se include în energia Es care beneficiaza 
+de scutire la plat ă si se exclude (se storneaz ă) din Etr deoarece a devenit energie stocat ă prin livrarea 
+acesteia în re țea. 
+Red ăm în tabelul de mai jos, cu titlu de exemplu, model ul de bilan ț de energie electric ă în cazul 
+instala țiilor de stocare independente. 
+Tabel 3. Modelul de bilan ț de energie electric ă în cazul instala țiilor de stocare independente. 
+Lun ă 
+raportare 
+Energia electric ă 
+consumat ă din re țea  
+de IS(Eex) 
+Energia electric ă livrat ă 
+în re țea (evacuat ă)  de IS 
+(Ei) 
+(energia electric ă stocat ă 
+în perioad ă de 
+raportare) 
+Energia electric ă la 
+care se aplic ă tariful 
+de re țea (consum) 
+reglementat (Etr) 
+L-1 100  80  20  
+L 0 18  -18  
+Perioad ă 
+raportare 
+(2 luni)  
+100 98 2 
+ 
+5.3.2. Instala ție de stocare în instaa ția unui produc ător 
+Operatorul de re țea monitorizeaz ă lunar implementarea scutirii, pentru a se asigura c ă rămân îndeplinite 
+condi țiile și c ă exceptarea este aplicat ă corect. În fiecare lun ă, se compar ă volumul de energie electric ă 
+preluat ă din re țea și energia electric ă injectat ă în re țea la punctul de delimitare cu volumul de energie 
+electric ă produs ă (înregistrat ă de grupurile de m ăsurare instalate pe unit ățile de producere), pentru 
+fiecare instala ție exceptat ă.  
+Rezultatele monitoriz ării lunare sunt documentate și stau la baza raport ării anuale c ătre ANRE. 
+Red ăm în tabelul de mai jos, cu titlu de exemplu, model ul de bilan ț de energie electric ă în cazul 
+instala țiilor de stocare amplasate în instala ția unui produc ător. 
+ 
+Tabel 4. Modelul de bilan ț de energie electric ă în cazul instala țiilor de stocare amplasate în instala ția 
+unui produc ător. 
+Lun ă 
+raportare 
+Eex (1.8.0) Ei (2.8.0) Ep (2.8.0) Etr Es 
+(exceptare 
+consum) 
+L-3 20  100  100  20  0 
+L-2 20  100  120  20  0 
+L-1 0 22  0 -22  22  
+L 20  28  10  2 18  
+Perioad ă 
+raportare 4 luni  60  250  230  20  40  
+
+=== PDF PAGE 11 ===
+11 
+ 
+ 
+ 
+5.4 Etapa 4: Raportare anual 
+ă 
+Operatorul de re țea are obliga ția de a raporta anual c ătre ANRE instala țiile de stocare/cantitatea de 
+energie electric ă stocat ă care beneficiaz ă de scutire la plat ă a tarifelor reglementate pe formatul stabilit 
+de ANRE.  
+6. Responsabilit ăți interne 
+Implementarea și respectarea prezentei proceduri se realizeaz ă în cadrul structurii organizatorice 
+proprii fiec ărui operator de re țea. Fiecare operator î și define ște rolurile, responsabilit ăț ile și rela țiile 
+func ționale în conformitate cu organigrama intern ă, cu politicile de management și cu specificul 
+activit ății desf ăș urate. 
+Pentru derularea rela țiilor contractuale privind energia stocat ă, operatorii de re țea asigur ă încheierea 
+de contracte conform contractului-cadru aprobat pri n ordin al pre ședintelui ANRE. Pân ă la aprobarea 
+unui contract-cadru specific, contractele se vor încheia pe modelul Contractului-cadru pentru prestarea 
+serviciului de distribu ție a energiei electrice încheiat între operatorul d e distribu ție concesionar și 
+produc ătorul de energie electric ă, în vigoare, și, dup ă caz, pe modelul Contractului-cadru pentru 
+prestarea serviciului de transport al energiei electrice și a serviciului de sistem, în vigoare. 
+7. Comunicare 
+Operatorii de re țea vor asigura informarea transparent ă a utilizatorilor cu instala ții de stocare privind 
+modul de aplicare a scutirii la plat ă a tarifelor reglementate și la modul de reflectare a acestora în 
+facturi, prin unul din canalele de comunicare disponibile. 
+7.1 Înregistr ări 
+Structura general ă a procedurii este comun ă, în cadrul aplic ării prezentei proceduri. Fiecare operator 
+de re țea va gestiona propriile înregistr ări și documente suport, în conformitate cu fluxul opera țional 
+intern și cu cerin țele specifice ale organiza ției. 
+Anexele procedurii vor fi elaborate și actualizate individual de c ătre fiecare operator, în func ție de 
+necesit ățile interne, structura proceselor și sistemul de management implementat. Acestea pot include 
+formulare, diagrame de proces, instruc țiuni detaliate sau alte documente suport relevante. 
+7.2 Arhivare 
+Toate documentele și înregistr ările men ționate mai sus se arhiveaz ă conform procedurilor interne de 
+gestionare a documentelor a fiec ărui operator de re țea.  
+ 

@@ -1,0 +1,75 @@
+=== PDF PAGE 1 ===
+Autoritatea Naţională de Reglementare în Domeniul Energiei - ANRE
+Ordinul	nr.	 6/2025	privind	aprobarea	Regulamentului	pentru	acordarea
+licenţelor	şi	autorizaţiilor	ı̂n	sectorul	energiei	electrice
+În vigoare de la 26 martie 2025
+Publicat în Monitorul Oficial, Partea I nr. 262 din 26 martie 2025. Formă aplicabilă la zi, 08 aprilie 2025.
+Având în vedere prevederile art. 9 alin. (4) din Legea energiei electrice şi a gazelor naturale nr. 123/2012, cu
+modificările şi completările ulterioare,
+în temeiul prevederilor art. 5 alin. (1) lit. a) şi ale art. 9 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr.
+33/2007 privind organizarea şi funcţionarea Autorităţii Naţionale de Reglementare în Domeniul Energiei,
+aprobată cu modificări şi completări prin Legea nr. 160/2012, cu modificările şi completările ulterioare,
+preşedintele Autorităţii Naţionale de Reglementare în Domeniul Energiei emite prezentul ordin.
+Se aprobă Regulamentul pentru acordarea licenţelor şi autorizaţiilor în sectorul energiei electrice,
+prevăzut în anexa care face parte integrantă din prezentul ordin, denumit în continuare regulament.
+Solicitările privind acordarea/modificarea/suspendarea/retragerea licenţelor şi autorizaţiilor depuse la
+Autoritatea Naţională de Reglementare în Domeniul Energiei şi nefinalizate înainte de intrarea în vigoare a
+prezentului ordin se analizează în conformitate cu prevederile regulamentului prevăzut la art. 1.
+(1) Titularii de licenţă care au obligaţia de a comunica Autorităţii Naţionale de Reglementare în
+Domeniul Energiei informaţii GIS în sistemul naţional de coordonate stereografic 1970 cu privire la capacităţile
+energetice deţinute sunt următorii:
+a) titularii licenţelor pentru exploatarea comercială, prevăzute la art. 10 alin. (1) lit. a) sau b) din regulament; în
+cazul acestora notificarea va viza reţelele electrice destinate asigurării accesului la reţelele electrice de interes
+public al altor utilizatori;
+b) titularul licenţei pentru prestarea serviciului de transport al energiei electrice, precum şi a serviciilor de
+echilibrare a sistemului, prevăzută la art. 10 alin. (1) lit. c) din regulament;
+c) titularii licenţelor pentru prestarea serviciului de distribuţie a energiei electrice, prevăzute la art. 10 alin. (1) lit.
+d) din regulament.
+(2) Informaţiile GIS actualizate referitoare la capacităţile energetice deţinute de titularii de licenţă prevăzuţi la
+alin. (1) se notifică la Autoritatea Naţională de Reglementare în Domeniul Energiei până la data de 31 mai a
+fiecărui an, fiind prezentate în format vectorial GIS în fişiere de tip XML/SHAPE, conform schemei publicate pe
+pagina de internet a Autorităţii Naţionale de Reglementare în Domeniul Energiei, cu ataşarea ca atribute a
+setului de date corespunzător tipului de activitate desfăşurată, conform dispoziţiilor art. 20 alin. (1) lit. c) pct. (ii),
+art. 21 alin. (2) lit. d) sau art. 23 alin. (2) lit. d) din regulament, după caz.
+(3) Informaţiile GIS prevăzute la alin. (2) din rubrica aferentă valorii nete contabile a capacităţii energetice se
+referă la:
+a) valoarea netă contabilă a capacităţii energetice la sfârşitul anului anterior anului de raportare;
+b) valoarea netă reglementată a capacităţii energetice, reprezentând valoarea luată în calcul în baza activelor
+reglementate (BAR), la sfârşitul anului anterior anului de raportare, în termeni nominali ai anului anterior de
+raportare, utilizând aceleaşi valori ale ratei inflaţiei utilizate la stabilirea venitului reglementat pentru anul
+respectiv, determinate conform prevederilor metodologiei aplicabile de stabilire a tarifelor de reţea.
+(4) Informaţiile prevăzute la alin. (2) vor fi însoţite de cererea de modificare a licenţei în cazul în care sunt
+întrunite condiţiile de la art. 36 alin. (1) lit. b) din regulament.
+Art. 1. -
+Art. 2. -
+Art. 3. -
+Tipărit de Angelica Bobe la 08.04.2025.
+Document Lege5 - Copyright © 2025 Indaco Systems.
+1/2
+
+=== PDF PAGE 2 ===
+Titularii, precum şi solicitanţii de licenţe în sectorul energiei electrice duc la îndeplinire prevederile
+prezentului ordin, iar entităţile organizatorice din cadrul Autorităţii Naţionale de Reglementare în Domeniul
+Energiei urmăresc respectarea acestuia.
+(1) La data intrării în vigoare a prezentului ordin se abrogă Ordinul preşedintelui Autorităţii Naţionale de
+Reglementare în Domeniul Energiei nr. 12/2015 privind aprobarea Regulamentului pentru acordarea licenţelor
+şi autorizaţiilor în sectorul energiei electrice, publicat în Monitorul Oficial al României, Partea I, nr. 180 din 17
+martie 2015, cu modificările şi completările ulterioare.
+(2) De la data intrării în vigoare a prezentului ordin, toate trimiterile şi referirile la Ordinul preşedintelui Autorităţii
+Naţionale de Reglementare în Domeniul Energiei nr. 12/2015, cu modificările şi completările ulterioare,
+existente în alte reglementări şi/sau autorizaţii de înfiinţare/licenţe emise de Autoritatea Naţională de
+Reglementare în Domeniul Energiei, se consideră a fi făcute la prezentul ordin.
+Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+Preşedintele Autorităţii Naţionale de Reglementare în Domeniul Energiei,
+George-Sergiu Niculescu
+Bucureşti, 12 martie 2025.
+Nr. 6.
+ANEXĂ
+REGULAMENT
+pentru acordarea licenţelor şi autorizaţiilor în sectorul energiei electrice
+Art. 4. -
+Art. 5. -
+Art. 6. -
+Tipărit de Angelica Bobe la 08.04.2025.
+Document Lege5 - Copyright © 2025 Indaco Systems.
+2/2

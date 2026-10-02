@@ -1,0 +1,20 @@
+{
+  "id": "STS_DOC_1",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/147121/PO+SERVICII+CAPACITATE+DE+ECHILIBRARE/a616ad8d-5936-4a5f-a4ed-febf1e72bd2d?version=1.5",
+  "title": "Procedura Operațională: Achiziţia prin licitaţie a capacităţii pentru echilibrare",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:11.711749+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/147121/PO+SERVICII+CAPACITATE+DE+ECHILIBRARE/a616ad8d-5936-4a5f-a4ed-febf1e72bd2d?version=1.5",
+  "content_type": "application/x-rar-compressed",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_DOC_1__a1/original.html",
+  "sha256": "dce9bd6a0f80e1937565ac69927e1dab928185f5417b305f4fe3c469a5e2be06",
+  "bytes": 447621,
+  "detected_format": "html"
+}

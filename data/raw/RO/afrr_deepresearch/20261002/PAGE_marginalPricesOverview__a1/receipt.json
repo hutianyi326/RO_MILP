@@ -1,0 +1,17 @@
+{
+  "id": "PAGE_marginalPricesOverview",
+  "url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=marginalPricesOverview",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:25:30.294722+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/loadWebPage?code=marginalPricesOverview",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/PAGE_marginalPricesOverview__a1/original.json",
+  "sha256": "68c9742e0837507a06d139dc67874aa3198040608d3a6a4b8ed43df1b9a949b3",
+  "bytes": 1613,
+  "detected_format": "json"
+}

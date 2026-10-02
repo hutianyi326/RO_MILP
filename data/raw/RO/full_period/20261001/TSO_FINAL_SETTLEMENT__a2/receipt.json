@@ -1,0 +1,21 @@
+{
+  "id": "TSO_FINAL_SETTLEMENT",
+  "dataset": "D07",
+  "publisher": "Transelectrica",
+  "title": "Balancing market settlement results",
+  "url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+  "scope": "official reference discovery; not native time-series approval",
+  "attempt": 2,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:50.321360+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+  "content_type": "text/html;charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/TSO_FINAL_SETTLEMENT__a2/original.html",
+  "sha256": "33efc2d068ae3fa215b7e94dd141ece1912219d09befbb9ff791bdebd8a92364",
+  "bytes": 292177,
+  "detected_format": "html"
+}

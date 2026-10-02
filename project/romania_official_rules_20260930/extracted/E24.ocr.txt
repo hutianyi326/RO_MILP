@@ -1,0 +1,2056 @@
+DERIVED OCR: Windows built-in recognizer, zh-Hans-CN/ja profile; verify Romanian accents and all formulas against original PDF. Not an original document.
+=== PDF PAGE 1 ===
+OPCOm
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICÄ
+PROCEDURA OPERATIONALA
+COd ·
+Pag. 1 / 41
+Rev. 7
+PRIVI N D FU N CTIO NAREA PIETEI P E NTRU ZIUA U RMATOARE
+DE ENERGIE ELECTRICA
+intocmit ：
+Societatea Operatorul Pietei de Energie EIectricä si de Gaze NaturaIe, OPCOM S.A.
+30 Septembrie 2025
+=== PDF PAGE 2 ===
+OPCOm
+PROCEDURÄ OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE
+DE ENERGIE ELECTRICA
+LISTA DE CONTROL A REVIZIILOR
+Cod ：
+Pag. 2 / 41
+Rev. 7
+Documentul revizuit.
+1
+2
+3
+4
+5
+6
+7
+Rev.
+1
+2
+3
+4
+5
+5
+7
+Data
+13 ， 09 ． 2019
+15 囤 8 ． 2020
+0L02 ． 2021
+17 6 ． 2021
+27 ． 10 ． 2021
+08 ． 06 ， 2022
+1L0 & 2025
+Revizia se referä la modificäri efectuate conform prevederilor
+din:
+Ordinul pre;edintelui ANRE nr. 178 ／ 13 ． 08 ． 2019 privind modificarea,
+completarea si abrogarea unor dispoziWi din sectorul energiei electrice.
+Ordinul pre;edintelui ANRE nr. 65 ／ 3L03 ， 2020 privind modificarea
+completarea unor ordine ale presedintelui AutoritäWi Nationale de
+Reglementare in domeniul Energiei.
+Ordinul presedintelui ANRE nr. 213 ／ 25 ． 1L2020 de aprobare a
+Regulamentului de calcul 引 de decontare a dezechilibrelor p 芑 巾 》 or
+preC unic de dezechilibru 引 pentru
+responsabile cu echilibrarea
+modificarea unor ordine ale presedintelui AutoritäCii Nationale de
+Reglementare in domeniul Energiei;
+Ordinul presedintelui ANRE nr. 63 / 31 ． 03 ． 2020 privind aprobarea
+programului de implementare a mäsurilor necesare in scopul asigurärii
+condiViilor de decontare un interval de 15 minute;
+Ordinul presedintelui ANRE nr, 230 / 16 ． 1 艺 2020 privind prorogarea unor
+termene preväzute in ordine ale presedintelui ANRE;
+Procedurile operationale DAOA (Day-Ahead Operational Agreement),
+ANDOA （ A 《 《 NEMO Day-ahead Operational Agreement), ROA (lnterim
+Coupling Regional Operational Agreement), elaborate cu respectarea
+prevederilor CACM (Regulamentul Comisiei (EU) 2015 / 1222L a termenilor,
+condibiilor $i metodologiilor elaborate conform acestuia; revizia S-a realizat
+in contextul trecerii la soluwa durabilä pentru Cuplarea unicä a pietelor
+pentru ziua urmätoare (SDAC, Single Day-Ahead Coupling) prin
+implementarea proiectului interimar de cuplare (lnterim Coupling);
+Revizia S-a realizat in contextul operawonalizärii granitei RO-BG MC in cadrul
+Cuplärii unice a piecelor pentru ziua urmätoare (SDAC, Single Day-Ahead
+Coupling) prin implementarea Proiectului de cuplare a pietelor din Romånia
+， Bulgaria (BG-RO MC).
+procedurile operationale DAOA, ANDOA, Core DAOA (Core Day Ahead
+Operational Agreement), elaborate cu respectarea prevederilor CACM
+(Regulamentul Comisiei (EU) 2015 / 1222 ） ， a termenilor, condigiilor 引
+metOdOlogiilor elaborate conform acestuia; revizia S-a realizat in contextul
+implementärii proiectului de cuplare pe bazä de fluxuri, CORE FB MC (Core
+Flow-Based 卜 larket Coupling).
+procedurile operationale COmune la nivel european 5i regional, elaborate CLI
+respectarea prevederilor Regulamentului CACM (Regulamentul Comisiei
+(EU) 2015 / 1222 〗 a termenilor, conditiilor 9i metodologiilor elaborate
+conform acestuia. Revizia 5 旧 realizat in contextul implementärii rezolutiei
+de 巧 minute 轫 a posibilitätii de ofertare 怕 rezolu!ie de 15 minute, 30
+minute #i 60 minute.
+=== PDF PAGE 3 ===
+OPCOm
+SCOP ·
+PROCEDURA OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA LJ RMÄTOARE
+DE ENERGIE ELECTRICA
+CUPRINS
+2 ．
+3 ．
+4 ·
+5 ·
+6
+DOMENIUL DE APLICARE.
+ACRONIME 生
+DEFINITII ，
+DOCUMENTE DE REFERINTA.
+METODA “
+6.1.
+PARTICIPAREA 法 PZU
+6 生 艺
+ASPECTE GENERALE ·
+A) Etapa de pre-cuplare 以
+B) Etapa de cuplare..
+0 Etapa de post-cuplare ， ，
+6 ． 3 ．
+OFERTAREA PE PZU..
+A)
+Caracteristicile ofertelor pe PZU ．
+Conginutul 酊 e 改 e 《 or pe PZU ．
+B)
+0
+Formatul Ofe 戊 e10 「 pe PZU “
+lnregistrarea 0 爬 戊 elO 「 tn sistemul de tranzactionare al PZU..
+D)
+E)
+Validarea ofertelor 。
+6 · 生
+TRANZACTIONAREA PE PZU..
+6 ． 5 ．
+FUNCTIONAREA IN REGIM NORMAL..
+6 ． 6 ．
+DECONTAREA..
+PUBLICAREA CU iNTÄRZIERE SI AC 「 UALIZAREA VALORILOR CZC “
+6 ． 7 ·
+iNTÄRZIEREA PROCESULUI DE CUPLARE..
+6 ． 8 ．
+PROCEDURA DE ULTIMÄ INSTANTÄ: FUNCTIONAREA iN REGIM DECUPLAT...
+6 ． 9 ，
+Decuplarea totalä timpurie (decuplare CUnOSCUtå in avans)
+A)
+Decuplarea totalä dedaratä in timpul procesului de cuplare ．
+B)
+C)
+Decuplarea partialä timpurie...
+Decuplarea partialä din motive de CZC ，
+D)
+Decuplarea pa#ialä din alte motive decåt lipsä de CZC.
+E)
+STABILIREA CANTITÄ 丁 ILOR $I A PREFULUI DIN TRANZACTIONARE 。
+& 10 ．
+A)
+Algoritmul utilizat..
+B)
+Reguli specifice privind stabilirea pretului ，
+Principii privind executarea ofertelor 轫 stabilirea cantitägilor tranzac!ionate 灬
+0
+6 ， 11.
+CONFIRMAREA TRANZACTIILOR..
+Emiterea confirmärilor tranzac!iilor ·
+A)
+Cod ：
+Pag. 3 / 41
+Rev. 7
+“ 11
+“ 12
+12
+灬 13
+灬 16
+， 16
+17
+“ 18
+灬 18
+灬 21
+灬 21
+， ， 23
+· 25
+29
+灬 30
+灬 31
+灬 31
+灬 32
+灬 32
+“ 32
+33
+灬 33
+、 34
+0
+=== PDF PAGE 4 ===
+COd ：
+Pag. 4 ／ 41
+Rev. 7
+0pc001
+B)
+0
+& 12 ．
+6 ． 13 ，
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICA
+lntårzierea generärii confirmärilor de tranzactii 。
+Contestatii la confirmärile de tranza#ii ，
+SITUATIILE DE URGENTÄ ，
+COMUNICAREA OPEED iN CADRUL PROCESULUI DE CUPLARE..
+7 ， ANEXE.
+ANEXA 1 一 TIPURI DE OFERTE DISPONIBILE iN SISTEMUL LOCAL DE TRANZACTIONARE
+ANEXA 2 一 SUCCESIUNEA CRONOLOGICÄ A REPERELOR ORARE
+ANEXA 3 - DREPTURI $I RESPONSABILITÄTI iN TRANSMITEREA SI VALIDAREA OFERTELOR PE PZU 。
+1.
+2 ．
+3 ．
+生
+Participantul PZU are urmätoarele drepturi.
+Participantul PZU are u 「 m 芑 tO 酊 e responsabilitäti “
+OPEED are urmätoarele drepturi 。
+OPEED are urmätoarele responsabilitäti ．
+， 35
+“ 35
+灬 35
+“ 36
+灬 37
+· ， 38
+灬 39
+灬 39
+“ 40
+灬 41
+=== PDF PAGE 5 ===
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA U RMATOARE
+DE ENERGIE ELECTRICÄ
+Cod ：
+Pag. 5 / 41
+Rev. 7
+OPCOm
+1. SCOP
+1.1. Procedura are drept SCOP prezentarea procesului de tranza#ionare pe PiaCa pentru Ziua Urmätoare (PZU),
+incluzånd procesul de fun#ionare normalä in regim cuplat, S01 呻 i 《 e de rezervä aplicabile in cazurile in care apar
+deficiente in functionarea normalä, precum #i cel de functionare in regim decuplat atunci cånd se aplicä procedura
+de ultimä instangä.
+1.2. Regulile Piegei pentru Ziua Urmätoare (PZU) stabilesc un cadru centralizat de piatä pentru vånzarea 5i
+cumpärarea energiei electrice de cätre participantii la piaga angro de energie electricä, necesar pentru ：
+a) a facilita formarea unei piege angro de energie electricä nationalä 5i 恰 nivel european in conditii de
+concurentä, transparengä 5i nediscriminare;
+b) stabilirea preturilor de referintä pentru alte tranzac!ii din piata angro;
+0 optimizarea utilizärii capacitä!ii retelei nationale interconectatä la nivel european prin aplicarea
+mecanismului de alocare implicitä a acesteia.
+2 到 DOMENIUL DE APLICARE
+2.1.
+2.1.1.
+2 ． 1.2 ．
+2 ． 1.3 ．
+Prezenta procedurä se a 帥 de cätre.
+Participantii PiaVa pentru 乙 ua Urmätoare de energie electricä;
+Operatorul Pietei pentru Ziua Urmätoare de energie electricä 5i de gaze naturale, OPCOM S.A.,
+Operatorlll de transport Si sistem, C.N.T.E.E. Transelectrica S.A.
+Toate aspectele legate de participarea pe PZU se raporteazä la ore CE 「 ．
+3 ． ACRONIME
+ANRE
+BG-RO MC
+CORE CCCt
+CIP
+CZC
+Core CCR
+Autoritatea Na!ionalä de Reglementare tn domeniul Energiei;
+Proiectul de introducere a alocärii implicite a capacitäCii bazatä pe NTC pe graniCa RO-
+BG in cadrul Cuplärii Unice a PieCelor pentru Ziua Urmätoare (SDAC);
+Functia management a 0 丆 S 0 了 Sistem 仃 al OTS-urilor fiind responsabil CLI
+calculul coordonat al capacitätilor, parametrilor Flow-Based (FB) cåt ， de verificare a
+rezultatelor cuplärii din perspectiva OTS-urilor;
+Ora Europei Centrale;
+Central lnterface Point— Mediu comun organizat utilizat in schimbul de informatii intre
+CCCt 5i platformele locale ale OPEED-urilor, cu comunicare bidirec!ionalä,
+Capacitate de transport transfrontalierå (Cross Zonal Capacity);
+Regiunea Core de calcul al capacit$i care include, conform Deciziei ACER nr ． 6 ／ 2016 ，
+cu modificärile ulterioare, interconexiunile dintre zonele de 0 「 e 改 酊 e ale urmätoarelor
+state membre UE: Austria, Belgia, CroaCia, Republica Cehä, Fran!a, Germania,
+Ungaria, Luxemburg, Olanda, Polonia, Romånia, Slovacia 轫 Slovenia.
+=== PDF PAGE 6 ===
+PROCEDURA OPERATIONALÄ
+Cod:
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 6 ／ 41
+DE ENERGIE ELECTRICA
+opcom
+CORE FB MC
+CORE MO
+Euphemia
+parametrll
+Flow Based
+NTC
+OPEED
+OTS
+PIP
+PRE
+PZU
+SDAC
+SEN
+4 ． DEFINITII
+Rev. 7
+PrOiectul Core Flow-Based Market Coupling reprezintä proiectul de dezvoltare
+plementare a operärii zilnice a Cuplärii pie!ei pentru ziua urmätoare pe bazä de
+fluxuri (FB) in Core CCR, in cadrul SDAC;
+CORE 卜 1 酊 k 忒 Operator (operatorul de coordonare regionalå 引 CORE);
+Pan-European Hybrid Electricity Market lntegration Algorithm (algoritmul de cuplare
+european);
+Parametrii de re!ea ai modelului de cuplare pe baza de fluxuri regiunea Core
+(cunoscugi ca matricea PTDF 一 Power Transfer Distribution FactorS);
+Gate Closure Time (Ora de inchidere a 0 「 e 改 ii ） ；
+《 Net Transfer Capacity (Capacitate Netä de Transport);
+Operator 引 Pie!ei de Energie Electricä Desemnat pentru Piata pentru Ziua Urmätoare
+(termen utilizat ca bursä);
+Operator de Transport 引 de Sistem,
+Pret de lnchidere a PieCei;
+parte Responsabilä cu Echilibrarea,
+Pia!a pentru Ziua Urmätoare;
+Single Day-Ahead Coupling (Cuplarea unicä a Pietelor pentru Ziua Urmätoare);
+Sistemul Electroenergetic National.
+4.1. ln ingelesul prezentei Proceduri, termenii Si expresiile folosite, altele decåt cele preväzute mai jos acest
+capitol, au semnificatiile definite in Regulamentul (UE) 2019 ／ 943 引 Parlamentului European 9i 引 Consiliului din 5
+iunie 2019 privind piaga internä de energie electricä (reformare) ()n continuare Regulamentul 2019 / 943L in Legea
+energiei electrice 5i gazelor naturale nr. 123 ／ 201 乙 cu modificärile 5i completärile ulterioare, alte reglementäri
+reguli aplicabile elaborate in conformitate CLI prevederile Regulamentului (UE) 2015 ／ 1222 al Comisiei din 24 iulie
+2015 de stabilire a unor linii directoare privind a 《 0 囝 吧 a capacit$ilor 5i gestionarea congestiilor.
+生 艺 in intelesul prezentei proceduri, suplimentar se definesc urmätorii termeni ：
+生 2 ． 1. ACER 一 Agentia pentru Cooperarea Autoritätilor de Reglementare din Domeniul Energiei;
+生 2 ． 艺 ge ／ 引 巧 了 厂 一 RO 回 indeplinit in mecanismul de cuplare prin preg a pietelor conform prevederilor
+Regulamentului (UE) 2015 / 1222 ， regulilor nationale, reflectat prin transferul fizic 5i comercial 引 energiei electrice
+intre douä zone de ofertare de la/cåtre bursa de energie electricä din zona proprie cätre/de la agentul/agentii de
+transfer vecin/vecini;
+生 2 ． 3 ． g 疒 eg 0 厂 一 Participant piatä implicat in agregare, cum este definit la art. 2 pct. 43 din
+Regulamentul 2019 / 943 ；
+生 2 ． 4 ． ， 4 / 0 化 exp/icitä 一 Alocare de capacitate de transport pe interconexiuni in licitatie separatä de
+tranzactionarea energiei electrice;
+=== PDF PAGE 7 ===
+PROCEDURA OPERATIONALA
+Cod ：
+OPCOm
+PRIVIN D FU NCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 7 ／ 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+生2@5 ． 召 uts 犭 de energie e / 匚 一 Operator care actioneazä pe 0 piatä nationalä de energie electricä, ce
+administreazä PZU nivel na!ional. Bursa de energie este CUnOSCUtä ca OPEED, respectiv Operator al Piegei de
+Energie Electricä Desemnat de reglementator in sensul prevederilor din ReguIamentul (UE) 2015 / 1222 ；
+4 ． 2 ． 6 ． cana/decomunicareacceptat— Web-site, e-mail, telefon;
+4 ． 2 ． 7 · G 扫 a 0 虍 一 Puterea medie pe intervalul de tranzac$ionare exprimatä in MW ofertatä de
+participant pe intervalul de timp aferent granularitäCii ofertei treaptä/perioadei de defini!ie a blocului;
+生 2 ． 8 ． Cåi comunicafie proprii— Totalitatea sistemelor de transmitere/receptie de date detinute de OPEED,
+respectiv de participangii la PZU 引 OTS;
+生2@9 ， Certificat n 0 疒 acces /a PZU 一 Certificat digltal cu duratå limitatå care asigurä participantului
+accesul la sistemul de tranzac!ionare al PZU 轫 care poate fi acordat participantului la cerere;
+生 2 ． 10 ， Cheia USB 丆 bken 一 Dispozitiv prin care participantul poate så acceseze sistemul de tranzactionare al PZU;
+4 ． 2 ． 11. Cod de ／ / Ca 厂 e Pa 疒 a 冂 ／ ü ／ 一 COd alfanumeric alocat de cätre OPEED, unui utilizator 引
+pafticipantului, pentru a putea fi identificat pe PZU;
+生 乙 12 ． COdu/ én 彐 化 a/ tranzactiei 一 COd unic atribuit tranzactiei de cätre sistemul de tranzactionare al
+PZU, in momentul in care aceasta este inregistratå in sistemul de tranzac!ionare;
+4 ． 2 ． 13 ． Comitetde 0 一 Structurä formatä din reprezentanti executivi ai burselor de energie electricå 5i
+OTS-urilor implicate in cuplarea piegelor, cu rol de supraveghere 5i decizie in cazul incidentelor zilnice de operare
+a cuplärii pietelor;
+生 2 ． 1 生 C 沂 疒 仞 a 化 亇 刁 ctie 一 lnformare emisä de sistemul de tranzac!ionare 引 PZU 9i pusä la dispozi!ia
+participantului, prin care sunt confirmate tranza#iile incheiate de acesta pe PZU pentru ziua de livrare imediat
+urmätoare zilei de tranzactionare;
+4 ． 2 ． 15 ． C 仞 沂 / ” 旧 p 倦 万 ;m ／ / 旧 焙 一 Comunicarea transmisä de cätre OPEED in pi& cuplatä privind acceptarea sau
+respingerea rezultatelor algoritmului de cuplare urmare a validärii alocärii pe portofolii. ln cazul in care rezultatele
+cuplärii sunt acceptate de OPEED confirmarea preliminarä este pozitivä; in caz contrar este negativä;
+生 2 ． 16 ． C 沂 疒 ma 虍 冂 a 一 Comunicarea transmisä de cätre OPEED in pia!a cuplatä prlVind acceptarea sau
+respingerea rezultatelor algoritmului de cuplare urmare a validärii fluxurilor pe elementele de retea in raport cu
+capacitä!ile de transport transfrontaliere sau cu parametrii 曰 ow Based declarate. ln cazul in care rezultatele
+cuplärii sunt acceptate confirmarea finalä este pozitivä; in caz contrar este negativä (responsabilitatea validärii
+fiind in sarcina OTS);
+生 2 ． 17 ． Congestie- Situa!ia in care 0 interconexiune nu poate face fatä tuturor fluxurilor fizice care rezultä din
+schimburile internationale solicitate de participantii la piatä, din cauza unei lipse de capacitate suficientä a
+interconexiunilor 9i/sau a sistemelor nationale de transport implicate;
+生 2 ． 18 ． 仂 / 彬 e 冂 par&cipare /a e pe Termen Scurt Energie 匚 俨 店 pentru Ziua tJrmätoare
+P 伊 彐 z 虍 一 Contract incheiat intre OPEED 5i un participant la PZU, care cuprinde drepturile 5i obliga!iile
+reciproce ale OPEED 9i a 《 e participantului PZU;
+生 2 ． 19 ． C00 厂 do 冂 a 厂 一 Operatorul de cuplare cäruia ii revine, pe baza principiului rotational, responsabilitatea
+corelärii ofertelor 5i determinärii rezultatelor cuplärii piegelor in una dintre zile;
+生 2 ． 20 ． Decup/arepartia/ä— Situatia in care, pentru 0 anumitä zi de livrare nu este posibilä alocarea implicitä a
+capacitätii de transport transfrontaliere (indiferent dacä datele de retea, ca date de intrare in rularea algoritmului
+de cuplare, sunt reprezentate prin capacitäti pe interconexluni in cazul modelului de alocare de capacitate
+disponibilä pe interconexiuni, fie limitäri pe ramuri/elemente critice in cazul modelului de regea pe:baza$!uxurilor
+maxime) prin mecanismul de cuplare a piecelor pentru ziua 酊 m 溆 0 酊 e in intreaga zonä cuplåtä,SDAC rtspectiv
+=== PDF PAGE 8 ===
+PROCEDURA OPERATIONALA
+COd ．
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 8 / 41
+DE ENERGIE ELECTRICA
+OPCom
+Rev. 7
+pot fi realizare decupläri separate ale interconexiunilor, ale zonelor de ofertare sau ale regiunilor pentru care este
+organizat proiect de coordonare regionalä;
+生 2 ， 21. Decup/aretota/ä— SituaWa in care, pentru 0 anumitä zi de livrare n u este posibilä alocarea implicitä a
+capacitätii de transport transfrontaliere (indiferent dacä datele de retea, ca date de intrare in rularea algoritmului
+de cuplare, sunt reprezentate prin capacitäti pe interconexiuni in cazul mOdelului de 引 OC 酊 e de capacitate
+disponibilä pe interconexiuni, fie limitäri pe ramuri/elemente critice in cazul modelului de re!ea pe baza fluxurilor
+maxime) prin mecanismul de cuplare a pietelor pentru ziua urmätoare pentru intreaga zonä cuplatä SDAC,
+respectiv tranzac!ionarea se realizeazä prin solutie localä/regionalä pentru fiecare din regiunile din cadrul SDAC.
+Termenul limitä pentru declararea decuplärii totale este ora 14 ： 20 CET Dacä decuplarea totalä este timpurie,
+respectiv este cunoscutä in avans, termenul limitä pentru declararea decuplärii totale este ora 10 ： 30 CET;
+生 2 ． 22 ． Decup/are timpurie— Decuplarea (pa#ialä sau tO 怡 眉 ） in situatia in ca re necesitatea decuplärii este
+cunoscutä din timp cauzatä fiind de un incident din ziua anterioarä care a condus la decuplare, astfel anuntul
+decuplärii se poate face fie deja dupä sesiunea de cuplare din ziua anterioarä, fie dimineata in ziua curentä nu
+mai tårziu de ora 10 ： 30 CET. ln cazul decuplärii timpurii, 0 化 de inchidere a ofertärii （ GC 「 一 Gate Closure Time)
+rämåne ora 12 ： 00 CET pentru toate regiunile SDAC, tranza#ionarea realizåndu-se la nivel local/regional;
+生 2 ． 23 ． Decup/ate timpu/sesiunil up / 彐 d 刀 üa 匚 u 化 冂 一 Decuplarea pietelor in situatia in care
+necesitatea decuplärii devine cunoscutä in ziua curentä in procesul de cuplare. Termenul limitä pentru declararea
+decuplärii diferä fun#ie de motivul decuplårii ， implicä abordäri diferite, abordäri detaliate in sectiunile relevante
+ale acestei proceduri;
+生 2 ， 2 生 Decup/area pa / 犭 din mo pa 〖 CZC 》 一 lmposibilitatea alocärii implicite de capacitate pe
+una sau mai multe interconexiuni urmare a imposibilitätii de stabilire a capacit$ii disponibile pentru procesul
+implicit de cuplare pe interconexiunea/interconexiunile respective sau pe ramuri/elemente critice in cazul
+modelului de reprezentare a retelei pe baza fluxurilor maxime, caz ln care interconexiunile/elementele respective
+rämån in topologia calculului de cuplare, dar capacitätile acestora se considerä egale cu zero. Termenul limitä de
+decuplare par!ialä din motive de capacitä!i este ora 11 ： 30 CET. Ora de inchidere a ofertärii ()C 「 一 Gate Closure
+Time) rämåne ora 12 ： 00 CET
+4 ． 2 ． 25 ． Decup/area p 引 !ia 腑 din a/te 仞 0 饿 decåt s 与 capacitäti 一 lmposibilitatea 引 ii implicite de
+capadtate pe una sau mai multe interconexiuni sau intr-o zonä de tranzactionare sau pentru un OPEED ca urmare
+a imposibilltätii transmiterii datelor de intrare necesare rulärii algoritmului de cuplare (fie acestea date de regea,
+fie registru al ofertelor), caz in care cuplarea se realizeazä pe 0 topologie modificatä din 囝 祀 au fO 茕 eliminate
+elementele pentru care lipsesc datele de intrare. Termenul de Decuplarea partialä din alte motive decåt lipsä de
+capacitåti se decide in SDAC n u mai tårziu de 13 ： 00 CET. Ora de inchidere a ofertärii (GCT 一 Gate Closure Time)
+se decaleazä conform detaliilor din sectiunea relevantä,
+4 ． 2 ． 26 ． E e 囗 丿 虍 a unei 0 硭 e 一 Stabilirea unei tranzactii pe PZU care satisface condi!iile ofertei, de cätre
+participantul 恰 PZU care a introdus-o, in urma derulärii mecanismului de cuplare,
+生 2 · 27 ． Functia p / e 一 Ansamblu de operatii care include utilizarea algoritmului unificat de corelare
+a ofettelor aprobat 恺 nivel european de toate autoritätile de reglementare, denumit Euphemia, in vederea
+realizärii unei coreläri comune a Ofe 改 乸 or 引 determinärii rezultatelor cuplärii piegelor;
+生 2 ． 28 ． h 仂 ℃ 彐 management a 0 丆 5 0 厂 (C 匚 (t) 一 System IT 引 OTS-urilor responsabil CLI calculul
+capacitätilor, parametrilor FIOW Based, cåt si de verificare a rezultatelor cuplärii;
+生 乙 29 ． Generatie a 0 硭 e / 0 厂 interdependente (aflate tn legäturå) 一 Nivelul asociat unei oferte bloc in cadrul
+familiei de oferte bloc interdependente;
+4 ． 2 ． 30 ， Ga 旧 / 岁 万 得 a 刀 孬 疒 犭 一 Sume de bani 5i/sau instrumente financiare destinate garantärii obligagiilor de
+ale participan!ilor la PZU fagä de OPEED, acceptate de acesta in baza prevederilor unei proceduri publice;
+=== PDF PAGE 9 ===
+PROCEDURA OPERATIONALA
+Cod ：
+Opco 1
+PRIVIN D FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 9 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+生 2 ． 31 ． 忉 0 冂 巳 / üne 一 Ansamblul de instala!ii 引 echipamente prin care se realizeazä schimburile de energie
+electricä intre sistemele electroenergetice reprezentate ca zone de ofertare;
+生 2 ． 32 ． / 冂 “ a / de 一 Perioadä de 15 minute, 30 minute sau 0 0 ， pentru care 0 tranzactie
+individualä poate fi incheiatä pe PZU. in contextul formulärilor generale referitoare la algoritm prin lnterval de
+tranza#ionare se intelege $i intervalul la granularltate minimä, respectiv la 15 minute;
+生 2 ． 33 ． 0 扫 imp/icitä 一 TranzacWonarea de energie electricä impreunä cu alocarea de capacitate in cadrul
+aceleiasi sesiuni de tranzactionare, respectiv in urma rulärii algoritmului de cuplare;
+生 2 ． 3 生 ti 仞
+Licitatie explicitä pentru alocarea capacitätii disponibile de interconexiune
+transfrontaliere aferente pietelor cuplate, ale cärei rezultate se publicä Si devin executorii doar in cazul declarärii
+aplicärii procedurii de ultimä instantä,
+4 ． 2 ． 35 ． 仞 / actio ／ 旧 厂 e cantitativä 一 cantitatea maximä ca putere medie pe interval de tranzactionare
+acceptatä de OPEED, ca sumä a cantitätilor din ofertele pe 0 fiecare granularitate ale unui partiapant la PZU,
+conform solicitärii prealabile a acestuia;
+4 ． 乙 3 & Lim / de 亇 引 ac. 0 a 疒 e / 0 万 一 valoarea maximä insumatä a perechilor pret-cantitate 5i ofertelor bloc
+de cumpärare la pret pozitiv si/sau a celor de vånzare la preg negativ, acceptatä de OPEED pentru un participant
+la PZU, corespunzätoare garantiilor financiare disponibile ale acestuia;
+生 23 儿 引 7 仞 de cup/are prin p a p ／ e / 0 厂 pentru 力 m 亡 oa 一 Mecanism coordonat de corelare a
+tuturor curbelor cererii ofertei furnizate de bursele de energie electricä si a 0 改 e | or bloc prin care se stabilesc,
+pe bazä de licita!ie, tranzactiile cu energie electricä pentru ziua urmätoare, tinånd seama de capacitatea de
+interconexiune sau fluxurile limitä puse 怡 dispoziCie de OTS Si prin care se realizeazä alocarea implicitä a acesteia,
+utilizänd 0 unicä aplicaCie informaticä ce cuprinde algoritmul de cuplare;
+生 2 ． 38 ． 0 e P 一 lnformare in cadrul sistemului de tranzactionare pusä la dispozitia PRE-urilor ce
+detin responsabilitatea echilibrärii pentru participantii la PZU, privind cantitätile de energie electricä exprimate in
+putere medie pe interval de tranzactionare [MW] agregate pe PRE ca valoare netä, tranzactionate pe PZU, in ore
+CET, de cätre membrii PRE-ului respectiV, pentru fiecare interval de 15 minute al zilei de livrare consideratä in
+ore CET. OPEED transmite in calitate de PRE-PZU, Notificärile de program 厄 OTS;
+生 2 ． 39 ． 0 虍 / b/ocindependentä— Ofertä bloc a cärei executare nu este conditionatä de $i/sau nu conditioneazä
+executarea altei oferte bloc,
+4 ． 2 0 ， 0 e interdependente 一 Ofettele bloc aflate in 厄 g u una fatä de alta pentru care acceptarea
+uneia dintre acestea (ofetta copil) poate avea IOC doar dacä a fost acceptatä cealaltä ofe 「 麾 bloc (oferta pärinte)
+a participantului la PZU pentru ziua de tranzactionare respectivä;
+生 2 ． 41. Operatora/ P / EnergieE/ectricä Desemnat— Entitate desemnatä de autoritatea competentä pentru
+a indeplini sarcini referitoare la cuplarea unica a pietelor pentru ziua urmätoare (conform Regulamentului (UE)
+2015 ／ 1222 〗 OPCOM S.A. este OPEED in zona de ofertare Romånia;
+生 2 ． 42 ． 0 c a portiiPZU— 0 阉 pånä la care ofertele pe PZU pot fi transmise OPEED, din ziua de
+tranzactionare care precedä ziua de livrare; sinonim cu ora de inchidere a registrull 」 i ofertelor al PZU,
+生 2 · 43 ， Pa 硭 七 引 / å PZU 一 Participant la piatä, in intelesul art. 2 pct. 25 din Regulamentul 2019 / 9 们 ， care se
+inscrie la aceastä piatä 5i respectä conventia de participare aferentä acestei modalitä!i de tranzactionare, precum
+5i reglementärile na!ionale 5i/sau comunitare corespunzätoare patticipärii la piata de energie electncä aplicabile.
+ln intelesul prezentei proceduri referin!a este la Pafticipantul inregistrat la piata administratä de OPCOM;
+生 2 ． 4 生 participantimp/icit/a PZU 一 Part1Cipant 处 PZU care indeplineste rolul de agent de transf±tp mecanismul
+de cuplare 5i care nu are dreptul transmitä oferte in aceastä calitate;
+=== PDF PAGE 10 ===
+PROCEDU RÄ OPERATIONALA
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 10 / 41
+DE ENERGIE ELECTRICA
+OPCOm
+生 2．45@
+SDAC;
+生 2 ． 4 &
+4 ． 2 ． 47 ，
+生 2 8 ．
+Rev. 7
+Pafte p 囝 加 p 疒 0 / 釓 忆 / 匚 up / 彐 吧 一 OPEED sau operator de transport 9i de sistem care participä in
+P 厂 m 彐 x 咖 a/sca/ei de p 一 Valoarea maximä a preturilor care pot fi introduse oferte,
+P 疒 m 忉 a/ 5 / / de p 厂 一 Valoarea minimä a preturilor care pot fi introduse oferte;
+P ／ 冠 化 a pietei— Pretul unitä!ii de energie (exprimat in RON/MWh) aferent tranzac!iilor
+incheiate pe fiecare intetval de tranzagionare corespunzätor granularitåtii minime （ 15 minute). AceSta este pretul
+de decontare care se aplicä pe intet-valului minim de tranzac!ionare, indiferent de granularitatea pe care s-a
+transmis ofetta care a cOndLlS la tranzactii;
+4 ． 2 ． 49 ． 化 0 硭 犭 一 Pretul unitätii de energie (exprimat tn RON/MWh) asociatä puterii medii orare ofertate
+pe intervalul de timp aferent granularitåtii ofertei treaptä/perioadei de definitie a blocului;
+生 2 ． 5 住 P brn 痦 de pe PZU 一 Sistem informatiC stabilit 引 menginut de OPEED in scopul realizärii
+tranzac!iilor pe PZU;
+4 ． 2 ． 51. poa 5 mu / de 亿 act ／ 0 / 旧 厂 e 一 Stare asociatä unui anumit proces desfäsurat in cadrul sistemului
+de tranzacgionare, care permite realizarea unor actiuni specifice procesului respectlv. Starea sistemului de
+tranzacgionare permite efectuarea a#iunilor relevante exclusiv in perioada in care poarta este deschisä. Poarta
+de ofertare permite inscrierea ofertelor in sistemul de tranza#ionare;
+生 2 ． 52 ． Poa 犭 de matching— Stare a sistemului de tranzac!ionare asociatä procesului de stabilire a tranzactiilor
+pe PZU, respectiv de stabilire.
+a) a cantitä!ilor tranzactionate prin alocarea pe portofoliul fiecärui participant folosind rezultatele furnizate de
+algoritmul de cuplare in condiWile modelului Flow Based;
+b) a nt or tranzac!ionate $i a PIP pentru zona de ofertare nationalä prin rularea algoritmului de cuplare in
+conditiile unor date de intrare caracteristice situa!iei de func!ionare in regim decuplat;
+生 2 ， 53 ． Procedura 冂 orn 一 Procedura zilnicä ce cuprinde ac!iunile operatorilor implica!i in mecanismul de
+cuplare a piegelor in cazul in care nu apare nicio problemä;
+生 2 ， 5 生 Procedura u / 犭 5 一 Procedura care cuprinde actiunile operatorilor implicati in mecanismul de
+cuplare a pietelor in cazul in care 0 informatie nu poate fi produsä/schimbatä nici prin procedura normalä, nici
+prin SOlugia de rezetvä sau dacå 0 verificare nu poate fi realizatä sau este de a5teptat sä n u fie realizatä inainte
+de termenul limitä pentru publicarea rezultatelor cuplärii;
+生 2 ， 55 ． Pu 化 彐 吧 a 化 zu / 把 / 0 厂 一 ln contextul prezentei procedurir punerea la dispozitia participantilor la PZU a
+confirmärilor de tranzactii este referitä 引 ca publicare a rezultatelor;
+生 2 ． 56@ Renta a 虍 厂 e 冂 磨 congestii/orpe / / de 0 冂 ex / 冂 e 一 Suma produselor dintre diferenga intre PIP 引
+zonei importatoare 5i PIP 引 zonei exportatoare pentru fiecare interconexiune 5i fluxul de energie pe respectiva
+interconexiune rezultat din tranzactiile pe PZU, avånd semnificagia de valoare monetarå a capacitätilor de
+interconexiune, rezultatä din alocarea implicitä;
+生 2 ． 57 ． R釤0/@/é0虍硭占 一 (sau granularitate) Reprezintä intervalul de timp pe baza cäruia se poate crea 0 「 e 戊
+acesta putånd fi rezolutia zonei de Ofertare Romänia （ 15 minute) sau mai micä (granularitate mai mare). Rezolutia
+de ofertare poate fi astfel pe interval de 15 minute, de 30 minute sau de 60 minute;
+生 2 ， 58 、 SDA 匚 (Sing/e Day-Ahead 仂 忉 g 丿 一 S01utia unicä de cuplare nivel european 吧 une;t@-pnn
+algoritmul de cuplare bazat pe prewri aprobat de reglementatorii europeni, toate regiunile europene organizate
+pentru tranzac!ionarea implicitä,
+生 2 ． 59 ． Sistemu/ de a 冂 z 彐 匚 冂 a 虍 a/ PZU 一 Sistem informatic care realizeazä functiile corespunzätoare
+tranzac!ionärii pe PZU cu respectarea mecanismului de cuplare prin pret a pie!elor;
+=== PDF PAGE 11 ===
+PROCEDURA OPERATIONALA
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 11 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+4 ． 2 ． 60 ． 50 / de ze 疒 一 AcCiunile desfäsurate de cätre operatorul de cuplare in paralel cu coordonatorul, in
+scopul preluärii responsabilitätilor acestuia, in situagia in care apare un incident, de exemplu: 0 informatie nu
+poate fi produsä/transmisä, 0 validare nu poate 0 realizatä inainte de termenul tintä sau este de asteptat nu
+fie realizatä inainte de termenul 如 凿 etC.,
+生 艺 61. Surp/usu/ cumpärätoru/ui— Concept economic care reflectä diferenta dintre suma maximä 四 care
+cumpärätorul ar fi fost dispus sä 0 pläteascä pentru energia electricä cumpäratä, conform ofertelor transmise 5i
+suma datå de cumpärätor pentru aceasta,
+生 2 · 62 ． SU,PP/USU/ z ／ 一 Concept economic care reflectä diferenca dintre suma primitä de vånzätor pentru
+energia electricä våndutä 5i suma minimä pe care ar fi fost dispus 5 犭 0 primeascä pentru aceasta, conform
+e e 《 Or transmise;
+4 ． 2 ． 63 · ZI tra / ac 仞 旧 re 一 乙 ua ln care are IOC licitatia pe PZU 5i se stabilesc tranzactiile cu energie electricä
+Cu livrare ln Ziua urmätoare,
+4 ， 2 ． 6 生 刀 / 宿 厂 e 一 Ziua in care a re 1 livrarea/consumul energiei electrice preväzute in tranzactiile pe PZU, zi
+care urmeazä celei in care are 《 OC licitatia;
+4 ． 2 ． 65 ． Zo 犭 de 0 a 一 Zonä geograficä in care participantii la piatä pot transfera energie electricä 虍 a fi
+necesarä verificarea incadrärii in capacitatea disponibilä de interconexiune 5i alocarea acesteia;
+5 · DOCUMENTE DE REFERINTA
+5.1. Regulamentul (UE) 引 Comisiei 2015 ／ 1222 din 24 iulie 2015 de stabilire a unor linii directoare privind
+alocarea capacitätilor gestionarea congestiilor, cu modificärile 9i completärile ulterioare;
+5 ． 2 ． Ordinul presedintelui ANRE nr. 178 / 13 ℃ & 2019 privind modificarea, completarea 5i abrogarea unor
+din sectorul energiei electrice, publicat in Monitorul Oficial 引 Romåniei, Partea I, nr. 690 din 2L08 ． 2019 ；
+53 · Legea energiei electrice 轫 gazelor naturale nr. 123 / 10 ， 07 ， 2012 ， cu modificärile $i completärile ulterioare;
+5 ． 生 Decizia ACER nr. 1 ／ 10 ． 01 ． 2023 privind 0 们 e a 忉 忉 ro 厂 OPEED privind e dO / 四 ／ 彐 化 虍 厚 a 疒 e /a
+preßuri/e armonizate m 加 le maxime 伊a/7za@尬/陋化 ap/icabi/e 匚 up 劢 ． unice a p 虍 亿 疒 e 冂 u 才 urmätoare;
+5 ． 5 ． Decizia ACER nr. 13 / 25 9 ． 2024 privind Amendareaproduse/orcarepotficonsiderateinprocesu/decup/are
+unicä a p ／ e 亿 疒 pentru ziua urmätoare;
+5 ． 6 ． ConvenCia de participare la Pietele pe Termen Scurt de Energie Electricä (Piata pentru Ziua Urmätoare 轫
+Piata lntrazilnicä),
+5 ． 7 ． Procedure operaVionalä privind constituirea, verificarea 5i utilizarea garantiilor financiare pentru partiCiparea
+Piata pentru Ziua Urmätoare,
+5 ． 8 ． Procedure operationalä privind incasärile $i plätile aferente tranza#iilor pe Piata pentru Ziua Urmätoare;
+5 ． 9 ． Ghidul utilzatorului pentru participantul la Piata pentru Ziua Urmätoare;
+5 ． 1 Procedura privind inregistrarea participantilor pieCele centralizate de energie electricä administrate de
+OPCOM S.A;
+5 ． 11. Regulamentul (UE) 2019 / 943 Parlamentului European $i al Consiliului din 5 iunie 2019 privind piata
+internä de energie electricä;
+5 ． 12 ． Ordinul presedintelui ANRE nr. 63 din 3L03 · 2020 privind aprobarea programului de„implementare a
+mäsurilor necesare in scopul asigurärii conditiilor de decontare la un interval de 15 minute;
+5 ． 13 ． Ordinul presedintelui ANRE nr. 65 ／ 2020 privind modificarea 5i completarea unor orf)ne;éle pre;edintelui
+Autoritätii de Reglementare in Domeniul Energiei;
+=== PDF PAGE 12 ===
+PROCEDURÄ OPERATIONALA
+COd ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 12 ／ 41
+DE ENERGIE ELECTRICA
+OPCOm
+Rev. 7
+5 ． 14 ． Ordinul presedintelui ANRE nr. 230 din 16 ． 12 ， 2020 privind prorogarea unor termene preväzute in ordine
+ale presedintelui ANRE;
+5 ． 15 ． Ordinul presedintelui ANRE nr. 127 din 8 decembrie 2021 pentru aprobarea Regu/amentu/uiprivindc/auze/e
+CO ／ pe 冂 伊 m00 se ／ ． de ec 力 pentru rn 饬 0 de 化 z / 占 de 5 扫 力 饬 a 虍 a 彦 e “ e 得 忙 巧 i a
+Regu/amentu/ui privind c/auze/e 匚 0 冂 d pentru p 厅 spo 刀 sa 方 ec 力 力 疒 ea pentru mo 疒 e 彐
+abrogarea unor 0 厂 d e a/e p 疒 夸 ed 忉 / 丿 忆 釤 殫 0 冂 a / de Reg/ementare 加 Domeniu/ Enerøei, cu
+modificärile 5i completärile ulterioare (Ordinul ANRE 127 ／ 2021 ） ；
+5 ． 1 & Decizia ACER nr. 13 ／ 25 ， 的 ． 20 四 privind ， 4m 虍 a produse/or p00 /uate CO 冂 s 冠 吧 OPEED-
+／ procesu/ c “ 冂 / pentru ziua urmätoare
+5 ． 17 ． Decizia ACER nr. 04 ／ 30 ． 01 ， 2020 privind Propunerea ope 0 厂 de p 夢 创 7e 疒 g e / é 厂 冂 om 忉 a 伽
+pentru a 0 忉 褶 / p / 彐 厂 e a p 担 厂 了 5 ／ pentru a u / de CO 疒 e 妇 化 co a 亡 02a0 ／ 0 厂 / inc/uzånd,
+asemenea, propuneri/e 0 丆 5 0 厂 OPEED 瑁 厂 厂 pentru 5 CO 匚 创 ；
+5 ， 1 & Decizia ACER nr. 11 / 23 ． 09 ． 2024 privind 忆 dO / pentru a 0 刁 忉 / c a p 00 a/gontmu/
+de co 妇 厂 e continuä a 亡 ra 冂 0 厂 a 0 mu / / ／ 0 / 宿 刀 / ；
+5 ， 19 、 Ordinul ANRE n 六 128 din 08 ， 12 ． 2021 pentru aprobarea regulilor de suspendare Si restabilire a activitätilor
+de piatä 5i a regulilor de decontare aplicabile.
+6 · METODA
+6.1. PARTICIPAREA LA PZU
+6 、 1 ． 1. Participarea la PZU este voluntarä, fiind permisä participantilor la piatä care au fost inregistrati ca
+participanti la PZU.
+6 ． 1.2 ， Pentru indeplinirea functiei de agent de transfer, OTS se inscrie participant implicit PZU 、 in calitate
+de partlcipant implicit, OTS nu poate introduce oferte pe PZU.
+6 过 ． 3 ． Pentru a deveni participant la PZU, un solicitant trebuie fie inregistrat de OPEED conform prevederilor
+unei proceduri publice, elaborate de OPEED in acest SCOP.
+6 ． 1 ． 生 Operatorii de retea pot deveni participanti la PZU si pot participa la PZU numai in scopul indeplinirii
+functiilor lor preväzute expres tn lege.
+6 ． 1.5 ， Un participant la piatä poate efectua tranzac!ii cu energie electricä pe PZU in mod individual sau agregat.
+in cazul patticipärii agregate, agregatorul este participantul care tranzac!ioneazä energia electricä 5i cäruia ii revin
+integral toate responsabilitä!ile 引 drepturile preväzute in CO 冂/e@沩 participare 妇 PieCe/e pe Termen Scurt de
+Energie E c 忉 犭 俨 pentru LJ 疒 m 0 彐 吧 5 ／ P a 刀 / 冂 七 ， precum Si cele preväzute in reglementäri
+nationale 5i/saLl ale Uniunii Europene corespunzätoare participärii la piata de energie electricä.
+6 ． 1 ． 6 ． Un participant piatå care dore5te sä devinå participant la PZU are obliga!ia achite 怡 「 ife 厄 aplicabile
+stabilite in conformitate cu reglementärile in vigoare.
+5 ． 1.7 ． participantul la PZU care are intengia transmitä oferte de cumpärare cu preturi pozitive sau oferte de
+vånzare cu preturi negative trebuie:
+a) 亞 depunä OPEED 0 garantie financiarä, determinatä conform prevederilor unei proceduri publice a
+OPEED,
+b) sä deschidä un cont in numerar 0 bancä comercialä care indeplineste criteriile preväzute intr-o
+procedurä publicå e bO 「 a 凿 de OPEED, denumitä in continuare bancä de decontare.
+6 以 ． 8 ． Un participantla piagä este inregistrat participantla PZU ulteriOr inregisträrii sale PRE sau transferärii
+responsabilitätii echilibrärii cätre 0 PRE, in cazul clientilor finali patticipanti la piatä.
+=== PDF PAGE 13 ===
+PROCEDURÄ OPERATIONALA
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 13 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+6.1.9. OPEED stabileste continutul Conventiel /a Termen Scurt de Energue
+(Piata pentru Urmätoare ä. 扫 忉 az 丿 ， care trebuie sä cuprindä drepturile 引 responsabilitätile
+reciproce ale OPEED 5i ale participantului la PZU. lnregistrarea ca participant PZU devine efectivä dupä
+semnarea de cätre p 巾 a ConvenCiei de participare, de la data inträrii in vigoare a acesteia.
+& L10 ． La inregistrare, fiecare participant la PZU primeste un cod de identificare pe PZU.
+6 ． 1 ． 11. Un patticipant PZU se poate retrage de la PZU, iar OPEED poate suspenda sau revoca inregistrarea
+unui participant la PZU, dacä acesta nu mai indeplineste condi!iile de inregistrare sau nu respectä Conventia de
+partiapare/regulile aplicabile.
+6 ， L12 ， Retragerea, suspendarea sau revocarea unui participant la PZU nu exonereazä p 犭 巾 厄 de indeplinirea
+obligatiilor angajate 四 PZU pånä la acel moment.
+6@L13 · OPEED intocmeste 5i pästreazä un registru 引 ofertelor, care con!ine informa!iile relevante despre fiecare
+participant la PZU Si prin care sunt administrate ofertele acestora.
+6 · 2 ． ASPECTE GENERALE
+6 ． 2 ． 1. 0 ofertä este acceptatä dO 酊 dacä este introdusä de un participant la PZU sau de OPEED in numele
+acestuia, dacä este mandatat in acest sens, 5i anume dacä oferta contine codul de identificare al participantului
+la PZU inregistrat.
+6 ． 2 ． 2 ． Pe PZU se incheie, in fiecare zi de tranzactionare, tranzactii ferme CLI energie electricä activä pentru
+fiecare interval de tranzactionare al zilei de livrare corespunzätoare, pe baza ofertelor transmise de participantii
+la PZU. PZU este administratå de OPCOM ca OPEED pentru zona Romånia.
+6 ． 2 ． 3 ． TranzacCiile pe PZU se efectueazä prin corelarea ofertelor de vånzare Si de cumpärare prin mecanismul
+de licitatie implicitä agreat pentru solu'ia unicä de cuplare europeanä (SDAC), dupä parcurgerea etapelor de
+ofertare, validare 5i de agregare a ofertelor, anterioare corelärii acestora
+艺 生 OPEED este contraparte pentru fiecare participant PZU, in tranzactiile incheiate pe PZU.
+6 ． 2 ． 5 ． Tranzactiile sunt finalizate prin livrarea fizicä a energiei electrice in SEN, in ziua de livrare.
+6 ． 2 ． 6 ． Llvrarea contractualä pe PZU este cantitatea de energie electricä considerä ca fiind livratä de la sau
+斷 e un participant PZU/O PRE in baza obliga!iilor asumate de cätre participantul la PZU/patticipantii PZU
+din cadrul PRE, conform prevederilor legale, pentru tranzactiile incheiate pe PZU, notificate intr-un interval de
+decontare.
+6 ． 2 ． 7 ． ln vederea indeplinirii sarcinilor de programare 9i notificare fatå de OTS in scopul realizärii decontärii
+fizice a tranzactiilor incheiate pe PZU, OPEED inregistreazä un PRE dedicat tranzactiilor incheiate pe PZU, in
+calitatea sa de contraparte in aceste tranzactii.
+6 ． 2 ． 8 ． ln scopul integrärii in piata de echilibrare a rolului de agent de transfer 引 participant implicit pe PZU al
+OTS, acesta inregistreazä un PRE distinct pentru tranzactiile inregistrate in aceastä calitate.
+6 ． 2 ． 9 ． ln PRE-PZU inregistrat de OPEED nu mai pot intra alCi membri, iar toate tranzagiile sunt executate prin
+intermediul schimburilor bloc notificate cu alte PRE-uri in sistemul pietei de echilibrare administrate de OTS.
+6 ． 2 ． 10 ． Livrarea energiei electrice se face in orice punct de injectie sau extractie 引 SEN ．
+6 ． 2 ． 11 ． Tranzactiile tncheiate pe PZU la preturi pozitlve determinä 0 obligatie a respectivului participant PZU
+de a livra energia electricä, in cazul in care tranzagiile S-a u bazat pe 0 改 e de vånzare, sau 0 obligatie de a
+accepta livrarea energiei electrice, in cazul in care tranzac!iile S-aU bazat 四 oferte de cumpärare, in conformitate
+cu specificatiile respectivei tranzactii.
+=== PDF PAGE 14 ===
+OPCOm
+PROCEDURA OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 14 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+6 ． 2 ． 12@ Tranzactiile se pot tncheia la preguri negative. 0 tranzactie cu pret negativ are semnificatia prestärii unui
+serviciu de achizitie a energiei electrice, de cätre pattea ca re primeste energia cätre partea care 0 livreazä,
+neavånd semnificatia lwrärii de bunuri de cåtre partea care livreazä energia (vånzätorul pläteste preluarea energiei
+de cätre cumpärätor).
+& 2@13 ． Fiecare tranzactie pe PZU se referä la un interval de tranzactionare, acesta fiind ：
+a) orar, primul interval de tranzac!ionare fiind intervalul dintre ora 00 ： 00 CE 「 引 ora 01 ： 00 CET (intervalul
+01 ： 00 - 02 ： 00 ， ora Romåniei).
+b) jumätate de 0 麾 ， primul inten:al de tranzactionare fiind intervalul dintre ora 0 山 00 CET 5i ora 00 ： 30 CET
+(intervalul 01 ： 00 - 01 ： 30 ， ora Romåniei).
+0 sfert de 0 「 ä, primul interval de tranzactionare fiind intervalul dintre ora 00 ： 00 CET 5i ora 00 ： 15 CET
+(intervalul 01 ： 00 - 01 ： 15 ， ora Romåniei).
+6 ． 2 ． 1 生 in cazul ofertärii pe intervale de 60 minute ziua de livrare are 四 de intervale de tranzactionare, cu
+exceptia zilei de trecere de ora de varä 恺 cea de iarnä, 祀 are 25 de intervale de tranzactionare, si a zilei de
+trecere de ora de iarnä la cea de varä, care are 23 de intervale de tranzactionare.
+6 ， 2 ， 15 ． ln cazul ofertärii pe intervale de 30 minute ziua de livrare are 48 de intervale de tranzactionare, cu
+exceptia zilei de trecere de la ora de varä la cea de iarnä, care are 50 de intervale de tranzactlonare, 5i a zilei de
+trecere de la Ora de iarnä la cea de 姹 ， care are 45 de intervale de tranzactionare.
+6 ． 2 ． 16 ． in cazul ofertärii pe intervale de 15 minute ziua de llvrare are 95 de intervale de tranzactlonare, cu
+excepgia zilei de trecere de la ora de varä la cea de iarnä, care are 1 佣 de intervale de tranzagionare, 5i a zilei
+de trecere de la 0 「 a de iarnä la cea de varä, care are 92 de intervale de tranzactionare.
+& 2 ． 17 ． Mecanismul de tranzactionare pe PZU este implicitä, respectiv tranzac!ionarea de energie electricä
+simultanä CLI alocarea de capacitate.
+6 ． 2 ． 18 ． principii 《 e mecanismului de licita!ie care se a 帥 ofertelor sunt urmätoarele:
+a) corelarea ofertelor Se realizeazä conform unei metode transparente corespunzätoare mecanismului agreat
+de cuplare 5i prin care sunt puse in aplicare principii cunoscute public;
+b) corelarea Ofe 改 乸 or asigurä un mediu nediscriminatoriu participantilor PZU;
+0 corelarea ofettelor se des 50 酊 § in conformitate CLI specificatiile acestora;
+d) rezultatele licitatiei se publicä intr-un termen rezonabil dupä 0 「 a de inchidere a pottii PZU.
+6 ， 2@19 ． Algoritmul utilizat pentru corelarea ofertelor 5i determinarea PIP in procesul de cuplare a pietelor sau ln
+fun#ionarea decuplatä are ca principiu maximizarea bunästärii sociale nivelul piegelor cuplate, respectl\•' pietei
+nationale, in z decuplärii, si anume a sumei dintre surplusul vånzätorului, surplusul cumpärätorului 5i renta
+aferentä congestiilor pe liniile de interconexiune, dacä este cazul.
+& 2 ． 20 、 Prin utilizarea unui astfel de algoritm se urmäreste 引 酊 ea eficientä a resurselor din piata de energie
+electricä 5i a capacitåtilor de interconexiune din regiunile cuplate, 」 ånd in considerare toate ofettele introduse in
+fiecare din pie!ele cuplate 5i toate informaCiile privind capacitätile disponibile de interconexiune.
+6 ， 2 ， 21. Algoritmul utilizat pentru cuplarea pie!elor (Euphemia) este cel recomandat de ACER pentru cuplarea prin
+preg a regiunilor in vederea creärii pietei interne europene de energie electricå, 9i a n ume cel utilizat de Euphemia
+sau oricare succesor acestuia care corespunde acelorasi criterii de performantä, in baza agreärii sale de cätre
+ACER 引 de cätre toate guvernele, autoritätile de reglementare, bursele de energie electricä 5i OTS-urile statelor
+participante la cuplare.
+6 ． 2 ． 22 ． SOlutia de cuplare pentru zona SDAC are in vedere utilizarea unui singur algoritm pentru toatä piat@
+internä europeanä, care asigure determinarea echitabilå 引 transparentå a pregurilor cu 0 zi inainte de livrare
+Si alocarea capacitä!ilor transfrontaliere, respecte principiul partajärii descentralizate a datelor, ceea ce asigurä
+=== PDF PAGE 15 ===
+PROCEDURÄ OPERATIONALÄ
+Cod ：
+0pc001
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 15 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+robustete 5i sigurantä in operare, precum 5i 四 cel al responsabilitä!ii individuale a burselor, prin schimbul de
+oferte anonimizate 5i de capacitäti de transfer interzonale intre burse pentru calcularea preturilor zonale 引 a altor
+preturi de referintä, precum 5i a fluxurilor de energie electricä intre zone, pentru toate zonele incluse in mecanism.
+6 ． 2 · 23 ． Scopul algoritmului Euphemia este acela de a determina ofertele bloc care se executä 5i pe cele care
+ramån neexecutate 5i de a determina preturile de tranzactionare zonale 5i pozitiile nete aferente OPEED pe zonele
+de ofertare, astfel tncåt sä se maximizeze bunästarea socialä la nivelul regiunilor cuplate generatä de executarea
+酊 e e 《 or ， iar fluxurile de energie generate de executarea ofertelor sä nu depäseascä capacitatea elementelor de
+retea relevante 、
+6 ． 2 ． 24 ． Algoritmul Euphemia trateazä in mod egal toate ofertele de acelasi tip la granularitate minima a zonei de
+ofertare, ofettele granularitate mai mare decåt granularitatea minimä a zonei de ofettare similar ofertelor bloc,
+ofettele bloc ca re se concureazä fiind testate in ordine aleatorie, indiferent de granularitatea de ofertare a
+acestora. Algoritmul Euphemia tine seama de configuragia interconexiunilor dintre re!elele de transport respectiv
+a modelului de retea considerat pentru zonele in care se aplicä metoda fluxurilor maxime, care sunt modelate sub
+formä de restric!ii care trebuie respectate de solu!ia finalä. Algoritmul de calcul considerä ca bazä de calcul
+granularitatea minimä a fiecärei zone de ofertare. Granularitatea minimä pentru zona de 酊 e 戊 酊 e Romånia este
+de 15 minute.
+乙 25@ Pentru cuplarea pietelor puterea maximä schimbatä intre zonele de ofertare se detern 〕 inä pe baza
+registrelor 酊 e e 《 or pentru fiecare zonä de ofertare si datelor de recea furnizate sub forma unui model bazat pe
+capacitä!i de interconexiune sau 四 un model de fluxuri maxime pe elemente critice, functie de regiunea ln care
+se aplicä 、
+6 ． 2 ． 26 ． Existenta 酊 e 戊 e 《 or bloc, care sunt acceptate doar dacä sunt respectate pe toate intervalele conditiile
+specifice prestabilite de fiecare piagä definirea acestor oferte, transformä problema intr-una complexä, SOluWa
+fiind utilizarea unui algoritm de optimizare combinatorialä modelat ca O problemä de programare discretä mixtä
+cuadraticä, care rezolve problema principalä, de maximizare a bunästärii.
+& 乙 27 ． Ca regulä generalä, 0 ofertä bloc este executatä sau nu, prin compararea pretului säu cu media pre!urilor
+de inchidere in intervalele respective, ponderate cu cantitätile din fiecare intetval ale ofertei bloc. Avånd in vedere
+complexitatea problemei, este posibil ca 0 0 「 e 戊 bloc nu fie executatä chiar dacä pretul säu ar fi permis
+executarea pre!ul de inchidere.
+6 ， 2 ， 28 ， Urmätoarele conditii sunt respectate pentru zona de piege cuplate: in principiu, pretul de inchidere a pietei
+in zona de e 改 酊 e importatoare este mai mare sau 引 cu pretul de tnchidere a piegei din zona de ofertare
+e × 四 toa iar dacä fluxul de import sau export este mai mic decåt capacitatea disponibilä de interconexiune,
+pregurile de inchidere in cele dO zone sunt egale. in contextul implementärii cuplärii pe baza fluxurilor maxime
+(CORE FB (C) capacitätile pe interconexiuni se inlocuiesc CLI un grup de elemente critice de retea cårora li se
+asociazä 0 matrice a factorilor de distributie a transferului de putere (PTDF 一 Power Transfer Distribution Factor)
+marjä de putere disponibilä pe elementele de re!ea (PAM - Remaining Available Margin) 、
+6 ． 2 ． 29 ． Algoritmul se opreyte in urmätoarele cazuri:
+a) au 「 0 explorate toate posibilele solutii, caz 旧 care este determinat rezultatul optim;
+b) limita de tirnp a fost atinsä.
+& 乙 30 ， Algoritmul Euphemia oferä ca rezultate urmätoarele date.
+a)
+b)
+c)
+pretul de chidere a pietei aferent fiecärei zone de ofertare;
+volumul tc 《 tranza#ionat aferent ofertelor treaptä per OPEED per zonä de ofertarej peptru fiecare
+rezolugie 新 parte;
+伍 以 酊 i 《 e d'é energie electricä prin fiecare interconexiune, aferente tranzac!iilor PZU;
+=== PDF PAGE 16 ===
+OPCOm
+PROCEDURA OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICÄ
+d) cantitä!ile executate, pentru fiecare ofertä b | 0
+Cod ：
+Pag. 16 / 41
+Rev. 7
+6 ． 2 ． 31. OPEED utilizeazä rezultatele furnizate de Euphemia pentru determinarea tranzac!iilor pe PZU ale fiecärui
+participant PZU.
+6 ． 2 ． 32 ． procesul de cuplare a pietelor cuprinde trei etape sub aspectul derulärii cronologice a operatiunilor,
+respectiv: etapa de pre-cuplare, etapa de cuplare 5i etapa de post-cuplare. Principalele activitäti ale fiecärei etape
+sunt prezentate mai jOS.
+A) Etapa de pre-cuplare
+& 乙 33 ． ln etapa de pre cuplare 望 asigurä realizarea urm § tO 酊 or a#iuni:
+a) Determinarea, tn mod coordonat, a valorilor capacitätilor pe interconexiune 引 a parametrilor utilizati
+in calculul matricei 曰 OW Based (PTDF) tntre zonele de ofertare disponibile pentru piata pentru ziua
+urmätoare (denumite in continuare, generic, CZC);
+b) Publicarea pentru particlpantii piagä a valorilor CZC relevante,
+0 Transmiterea ofertelor de cätre participan!ii la piatä pe rezolutiile de timp alese;
+d) Colectarea Ofe 改 国 or ， agregarea 引 anonimizarea acestora dupä ora de inchidere a po#ii de ofertare.
+6 ． 2 ． 3 生 Toate activitätile de precuplare coordonate ale OTS-urilor din regiunea coordonatä CORE FB MC sunt
+acoperite de functia de management la nivelul OTS, denumitä in continuare CORE CCCt. Aceasta aslgurä
+pregätirea in mod coordonat a capacitä!ilor #i fll 」 xurilor maxime pe elementele de retea critice in procesul de
+cuplare a pietelor, pe baza datelor provenite de OTS-uri.
+6 、 2 ． 35 ． OTS-urile realizeazä calculul coordonat al capacltätii de interconexiune 5i determinä parametni CZC prin
+intermediul modulului centralizat CORE CCCt OTS-urilor 5i pune la dispozitiea OPEED-urilor aceste informatii
+prin intermediul unui mediu informatic numit Central lnterface POint (CIP), care reprezintä mediul care asigurä
+fluxul de informatii, necesar atåt OTS-urilor, cåt 5i burselor de energie electricä.
+6 ． 2 ． 3 & Participantii la PZU introduc/modificä oferte de vånzare sau de cumpärare a energiei electrice pentru ziua
+de livrare.
+6 · 2 ． 37 ． La 0 de inchidere a pofiii PZU (GCT), OPEED inchide registrul ofertelor.
+6 ， 2 ， 38 ． pånä la ora de inchidere a registrului Ofe 戊 引 0 巪 patticipantii la PZU pot introduce/modifica/anula 0 爬 e de
+vanzare sau de cumpärare, in functie de rezolutia pe care S-a ofertat. Sistemul de tranzac!ionare ia in considerare
+ultima versiune aferentä fiecärei rezolucii ofertate a fiecärui participant la PZU. Dupä aceastä 0 ， 0 爬 戊 e 飞 nu mai
+pot fi modificate sau anulate, ele fiind ferme si irevocabile.
+6 ． 2 ． 39@ Dupå inchiderea registrului 0 「 te ℃ r ， OPEED 「 e 引 i 祀 a curbele agregate de vånzare 5i cumpärare, pe
+baza ofertelor treaptå colectate de participanti 引 pune la dispozitie aceste informatii, aläturi de ofertele bloc,
+coordonatorului. Toate ofertele sunt anonimizate in prealabil.
+B) Etapa de cuplare
+6 ． 2 ． 40 ， in etapa de cuplare se asigurä realizarea urmätoarelor a#iuni:
+a) Transmiterea ofertelor agregate, inclusiv ofertelor blOC, anonimizate, de e OPEEP-uri,
+coordonatorului procesului de cuplare,
+b) Rularea algoritmului de cuplare ， distribuirea cätre OPEED-uri a rezultatelor cuplärii de cätre
+coordonator, in vederea validärii;
+=== PDF PAGE 17 ===
+PROCEDURÄ OPERATIONALÄ
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 17 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+c) Stabilirea cantit$ilor tranza#ionate prin alocarea pe po Of iul fiecärui participant, de cätre fiecare
+OPEED, a rezultatelor cuplärii;
+d) Transmiterea rezultatelor cuplärii de cätre CORE MO cätre CORE CCCt, prin intermediul CIP in vederea
+validärii fluxurilor rezultate din rularea algoritmului de cuplare;
+e) Publicarea rezultatelor cuplärii.
+6 ． 2 ． 41 ． Corelarea 0 爬 改 e 《 or ， in concordanCä cu principiile Euphemia, se realizeazä zilnic de cätre Coordonator, care
+este 0 bursä de energie electricä a statelor implicate in cuplare, dacä aceasta este membru deplin 引 PCR sau
+furnizorul de servicii de cuplare al unei burse de energie electricä deservite, in cazul in care aceasta nu este
+membru PCR, pe baza principiului ro 怡 00n 醐 procesul de corelare este realizat 5i in paralel de ceilal!i operatori
+de cuplare care au instalate activele PCR. Solutia finalä ia in considerare rezultatele cu cel mai mare beneficiu
+social Obtinut.
+2 艺 Functia de cuplare a pietei se aflä sub guvernanta burselor de energie electricä, fiind realizatä de cätre
+acestea, fie direct, ca bursä membru deplin, fie prin intermediul furnizorului de servicii de cuplare cu care au
+contract bursele de energie electricä deservite.
+6 · 2 3 ． Bursa de energie electricä sau furnizorul de servicii de cuplare care asigurä solutia de rezervä poate prelua
+sesiunea de cuplare 引 poate indeplini rolul de Coordonator.
+C) Etapa de post-cuplare
+6 ， 乙 ， in etapa de post-cuplare se asigurä realizarea urmätoarelor a#iuni:
+a) Stabilirea ， transmiterea NOt 而 劑 or de program de cätre OPEED cätre OTS;
+b) Realizarea decontärii tranza#iilor nivelul piegei 《 OC 引 e ；
+c) Realizarea decontärii tranzactiilor bilaterale intre OTS-uri pe baza fluxurilor rezultate din mecanismul
+de cuplare;
+d) Stabilirea venitului din congestii ， distribuirea acestuia intre OTS-uri.
+6 ． 2 ． 45 ． in cazul in care procesul de cuplare nu se poate realiza, p 犭 巾 《 e din cadrul regiunii coordonate CORE FB
+MC, cåt 5i cele din cooperarea BG-RO MC aplicä Ptocedura de u/timä instantädescrisä in Se#iunea 6 ． ： Ptocedura
+de u/timä s 冂 - Fu 冂 匚 00 冂 a 疒 ea regim decup/at9i anume organizeazå tranzactionarea de energie prin licitagie
+restrånsä la nivelul fiecärei zone de ofertare organizatä de cätre fiecare din OPEED-urile implicate separat,
+licitaCii explicite de alocare a capacit$ii de interconexiune prin licitaWi umbrä organizate de cätre 」 AO (Joint
+Allocation Office - WWW2Äeu). Regulile aplicabile licitatiilor umbrä sunt disponibile 恰 adresa
+， ao.eu su 0 「
+participa la licitaCiile umbrä fiind:
+nter overview principalele cerinte pentru partiCipanCii la piaCä pentru a
+incheierea unei conventii de participare cu JAO (a se vedea art. 6 si 13 din SAR, Shadow Allocation Rules)
+obCinerea accesului la platforma de licitatie (a se vedea art. 14 din SAR, Shadow Allocation Rules);
+respectarea prevederilor specifice granitei RO-HU a granitei RO-BG, dacä este cazul, precum 9i
+incheierea de acorduri cu Transelectrica, dacä este cazul. Detalii aplicabile in cadrul proiectului de cuplare
+CORE FB MC, respectiv BG-RO MC sunt disponibile aici: https://www.transelectrica.ro/web/tel/reguli-
+alocare-ungaria, https://www.transelectnca.ro/web/tel/reauli-alocare-bulqaria.
+InformaWi privind inregistrarea 〕 AO pentru licitatiile umbrä se regäsesc in locatia: h 性 匹 ； /_l ， 闷 0 /
+6 · 2 6 ， Avånd tn vedere aplicarea intervalului de decontare a dezechilibrelor PRE de 15 miffute; -Notificärile de
+program aferente tranzac!ionärii pe PZU se creeazä agregat considerånd cantitä!ile tranzactionate de ， 四 toate
+rezolu!iile de timp pentru ziua de livrare D prin raportare la ore CET pe fiecare interval d 15 minute 司 zilei de
+=== PDF PAGE 18 ===
+PROCEDU RA OPERATIONALA
+COd ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 18 / 41
+DE ENERGIE ELECTRICA
+OPCOm
+Rev. 7
+livrare respectiv pentru 96 intetvale de 15 minute （ 100 / 92 intentale, in zilele de schimbare a orei, dupä caz).
+Avånd in vedere abordarea tranzactionärii in ore CET pe pentru ziua urmätoare cuplatä face ca ora 24 ： 00
+CET a unei zile de 《 i 讲 酊 e (D) din perspectiva tranzac!ionärii pe PZU reprezinte ora 01 ： 00 ， ora Romåniei pentru
+urmätoarea zi de livrare (D+I), ori de cåte 0 「 i au loc mod 币 峦 「 i in asumarea responsabilitätii echilibrärii tn ceea
+ce-i prive;te pe la PZU (a r 曰 valabilitate raporteazä la zi de livrare consideratä in ora Romåniei),
+dupä transmiterea Notificärilor de program ale schimburilor bloc rezultate din tranzac!ionarea pe PZU in 0 「 e CET
+aferente zilei de livrare D, OPEED 姹 retransmite OTS si p § 巾 ] 0 「 responsabile cu echilibrarea afectate de aceste
+modificåri, Notificärile de program ale schimburilor bloc actualizate pentru cele patru intervale de 15 minute pentru
+intervalul orar 1 ora Romåniei pentru 酊 m 乱 0 酊 ea zi de livrare (D+I). Actualizarea se referä la modificarea asumärii
+responsabilitä!ii echilibrärii valabilä incepånd cu prima 0 「 ä, ora Romåniei pentru urmåtoarea zi de livrare (D+I).
+Dupä actualizarea in platforma pietei de echilibrare pentru cele patru intervale de 15 minute pentru prima 0 亳 ，
+ora Romåniei pentru 酊 m 溆 0 酊 ea zi de livrare ()+ 1 〗 PRE-urile vor tine seama de aceste Notificäri de program
+actualizate.
+63 ． OFERTAREA PE PZU
+& 3 ． 1 ． prevederile acestei sectiuni se aplicå de cätre patticipan!ii la PZU si OPEED in activitatea de ofertare,
+respectiv de validare a ofertelor pentru tranzactionarea zilnicä de energie electricä 些 Piata pentru Ziua Urmätoare,
+atåt in functionarea PZU in regim cuplat, cåt Si in func!ionarea decuplatä, cånd se aplicä procedura de ultimä
+instan!ä （ S 冂 e 彐 6 ． 9 ： procedura 0 / 忉 n 孬 / 冂 夢 - Functionarea g 咖 p 店 0 ．
+A) Caracteristicile ofertelor pe PZU
+6 ． 3 ． 2 ． OOfe 改 邕 exprimä angajamentul ferm 引 participantului la PZU de a intra intr-un contract avånd obiect
+vanzarea sau cumpärarea de energie electricä dacä pretul de Ofe 「 este pozitiv, respectiv vanzarea sau
+cumpärarea setviciului de prell 」 are a energiei dacä pretul de ofertä este negativ.
+633@ Ofertele de vånzare/cumpärare de energie electricä se fac la nivel agregat pe po 改 OfOliu 《 fiecärui
+partiClpant la PZU.
+6 ， 3 · 4 ． Ofertele se definesc pe rezolutii diferite de timp: 15 minute, 30 minute 60 minute.
+6 ． 3 ． 5 ． Ofetta este definitä de minim 0 pereche pret-cantitate. Cantitatea reprezintä putere medie pe interval de
+tranza#ionare (exprimatä in (W) cu 0 zecimalä, iar pretul ofertat reprezintä pretul unitar aferent energiei
+corespunzätoare puterii declarate ， granularitäCii de Ofe 鰣 fiind exprimat in lei cu dO zecimale (RON/MWh).
+6 ． 3 ． 6@ OPEED publicä pe site-ul säu limitele scalei de pret exprimate in pentru unitatea de energie (RON/MWh)
+valabile pentru ziua de tranzactionare urmätoare nu mai tårziu de douä ore de publicarea de cätre BNR a
+cursului de schimb leu/euro valabil pentru acea zi.
+6 ． 3 ． 7 ， Fiecare pereche pret-cantitate a unei oferte de cumpärare pentru un interval de tranzactionare defineste
+pretul unitar maxim 引 energiei pe care partlcipantul 恺 PZU este dispus 0 cumpere, la puterea medie pe interval
+de tranzactionare declaratå prin cantitatea de ofertä, pentru intervalul de timp aferent granularitä!ii de
+ofertä/perioada de definitie a blocului.
+63 · 8 ． Fiecare pereche preg-cantitate a unei 0 改 e treaptä de vånzare pentru un interval de tranzagionare
+defineste pretul unitar minim 引 energiei 四 care participantul la PZU este dispus 0 våndä, 恺 puterea medie pe
+interval de tranzactionare declaratä prin cantitatea de ofertä, pentru intervalul de timp aferent granularit$ii de
+ofertä/perioada de defini!ie a blocului.
+63 ． 9 ． e 国 e sefac prin raportare la ora CET, adicä primul interval de tranzactlonare este ihtervalul dintre 0
+00 ： 00 5i ora 00 ： 15 CET in cazul tranzactionärii pe rezolutia de 15 minute, dintre ora OO ： 00 $i ora 00 ： 30 CET in
+=== PDF PAGE 19 ===
+PROCEDURÄ OPERATIONALA
+COd ．
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 19 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+cazul tranzactionärii pe rezolLlWa de 30 minute, respectiv dintre ora 00 ： 00 Si ora 01 ： 00 CET in cazul tranzactionärii
+pe rezolutia de 60 minute.
+6 ， 3 ， 10 ． e 改 e 厄 se fac pentru zona de ofertare nationalä, cu luarea ln considerare a functionärii acesteia 旧 regim
+cuplat sau, dupä caz, in situabii excep!ionale, in regim decuplat.
+6 ． 3 ． 11. Ofertele pot fi de urmätoarele categorii:
+a) oferte treaptä;
+b) oferte bloc.
+6 ． 3 ． 12 · Modul de introducere a ofertelor in sistemul de tranzactionare este descris detaliat tn Ghidu/ Uti/izatoru/ui
+pentru p 彐 引 7 / /a P pentru Ziua Urn 桕 彐 厂 0 pus dispoziCia participantului de cätre OPCOM S.A.
+OFERTE TREAPTÄ
+6 ． 3 ． 13 ． Pentru fiecare rezoluCie de timp, u n participant PZU poate transmite 0 singurä e treaptä de
+cumpärare 5i 0 singurä ofertä treaptä de vånzare.
+6 ． 3 ． 14 ． Participantul poate introduce oferte atåt pe rezolutie de timp de 15 minute, de 30 minute, cåt 9i de 60
+minute.
+63@15 ， 0 ofertä treaptä de vånzare/cumparare poate sä conCinä maxim 32 de perechi prec-cantitate, indiferent
+de rezoluwa de timp pe care este creatä. Pregul fiecärei perechi pret-cantitate reflectå pretul de tranza#ionare
+acceptat de vånzätor/cumpärätor pentru energia ofertatä in 0 「 e 戊 a treaptä respectivä la pret mai mic/mare.
+Cantitatea de ofertä este exprimatä ca putere medie pe interval de tranzactionare.
+& 3 ． 16 ， O pereche pret-cantitate a unei oferte treaptä de cumpärare pentru un interval de tranzactionare
+defineste pretul unitar maxim care participantul la PZU este dispus sa cumpere cantitatea de energie electricä
+aferentä puterii medii ora re declaratä prin perechea de ofertä.
+6 ． 3 ． 17 ． O pereche pret-cantitate a unei oferte treaptä de vånzare pentru un interval de tranzactionare defineste
+pregul unitar minim la care participantul la PZU este dispus sä våndä cantitatea de energie electricä aferentä
+puterii medii orare declaratä prin perechea de ofertä
+6 ． 3 ． 18 ． ln tranzactionare cantitätile (putere medie pe interval de tranzactionare) din ofertele treaptä cumuleazä
+cantitätile (putere medie pe interval de tranzactionare) ofertate preC mai bun pe acela;i interval de
+tranzactionare.
+6 ． 3 ． 19 · Participantii la PZU pot transmite OPEED cåte 0 limitä de volum pentru volumul ofertat, separat pentru
+curnpärare #i pentru vånzare, aplicabilä pentru fiecare interval, privind cantitatea maxima ce poate fi 0 「 e at 犭 de
+acestia PZU. Limita de volum ia in considerare pe fiecare interval de tranzac!ionare cantitåtile ofertate in
+ofertele treaptä Si ofertele bloc pentru 0 anumitä granularitate. in absenga unor asemenea solicitåri ale
+Participantilor la PZU, OPEED 姹 utiliza 0 limitä de volum de 99 999 MW, reprezentånd limita tehnicå pentru
+cantitatea totalä corespunzätoare ofertelor treaptä #i 酊 e e 《 or bloc transmise de oricare participant.
+6 ． 3 ． 20 ． Ofettele treaptä pe rezolu!ia de 60 minute sunt independente $i se pot transmite pentru toate cele 四 de
+intervale de tranzac!ionare, respectiv pe 23 de intervale de tranzacbionare in ziua de trecere de orarul de iarnä
+la orarul de varä ， pentru 25 de intervale de tranza#ionare in ziua de trecere de orarul de varä la oraru 《 de
+larna.
+6 ． 3 ． 21. Ofertele treaptä pe rezolutie de 30 minute sunt independente 享 se pot transmite pentru toate cele 48 de
+intervale de tranza#ionare, respectiv pe ％ de intervale de tranzac!ionare in ziua de trecere de de iarnä
+la orarul de varä 9i pentru 50 de intervale de tranzactionare in ziua de trecere de la orarul de 、 orarul de
+iarnä.
+=== PDF PAGE 20 ===
+PROCEDURA OPERATIONALA
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 20 / 41
+DE ENERGIE ELECTRICA
+OPCOm
+Rev. 7
+6 ． 3 ． 22 ， Ofertele treaptä 四 rezoll$ie de 15 minute sunt independente si se pot transmite pentru toate cele 96 de
+intervale de tranzactionare, respectiv pe 92 de intervale de tranzactionare ziua de trecere de la orarul de iarnä
+0 咤 ru 《 de varä >i pentru 100 de inten:ale de tranza#ionare in ziua de trecere de la orarul de varä 恺 orarul de
+iarnä.
+OFERTE BLOC
+6 ． 3 ． 23 ， Oferta blOC de vånzare sau de cumpärare pe PZU este 0 combinagie de Oferte simple de vånzare sau
+combinatie de oferte simple de cumpärare aferente mai multor intervale, pe fiecare rezolutie de timp, a cäror
+executare este interdependentä, Si anume se executå toate sau nu se executä niciuna. Oferta blOC este
+caracterizatä de 0 limitä de pre! ()n RON/MWh) 5i 0 cantitate exprimatä in putere medie pe interval de
+tranza#ionare ()n MW).
+63 ， 24 ． Ofertele bloc sunt definite de numärul intervalelor care formeazä blocul. Numärul de intervale ale unei
+0 e bloc poate fi definit in sistemul de tranzactionare de OPEED (oferte predefinite in sistem) sau de participant.
+Ofertele predefinite in sistem sunt disponibile tuturor participantilor. Ofertele bloc definite de participant sunt
+disponibile exclusiv participantului care le-a definit.
+6 ， 3 · 25 ． Ofertele bloc pot fi independente sau interdependente. Ofettele bloc pot fi interdependente numai dacä
+sunt de acela5i SenS, respectiv numai de vånzare sau numai de cumpärare.
+6 ． 3 ． 2 & Douä sau mai multe oferte bloc interdependente formeazä 0 familie de 0 改 e bloc 、 0 familie de oferte
+bloc interdependente formatå din douä generatii cuprinde cel putin 0 ofertä bloc „pärinte" (ofertä a cärei acceptare
+se poate face prin indeplinirea conditiei de executare a ofertei bloc, independent de alte oferte) ， 0 ofertä bloc
+„copil" (ofertä a cårei acceptare este condi!ionatä suplimentar de acceptarea altei 0 爬 改 e bloc, numitä Ofe 戊 bloc
+„pärinte"). O 爬 戊 e 厄 bloc dintr-o familie trebuie fie create pe aceea#i granularitate.
+6 ． 3 ， 27 ． Ofertele bloc implementate in sistemul de tranza#ionare al PZU au caracteristicile preväzute in Anexa 1.
+Acestea pot fi modificate in sensul implementärii 5i a celorlalte tipuri de oferte acceptate de algoritmul Euphemia
+dintre cele preväzute in Decizia ACER nr. 13 ／ 25 ． 09 ． 2024 privind 仞 0 万 0 厂 aduse produse/or care p00 疗
+considerate procesu/ de cup/are u a p ／ e 亿 疒 pentru 刀 urmätoare, cu respectarea procedurilor agreate de
+toate OPEED-urile in vederea asigurärii performan!elor 引 go 「 山 刊 u 恤 i Euphemia la parametrii corespunzätori in
+conditiile extinderii geografice a cuplärii, introducerii aranjamentelor multi-OPEED, cresterii complexitätii
+topologiei, extinderii cuplärii pe baza de fluxuri etc., fiind publicate cu suficient timp inaintea aplicärii.
+3 ） ConCinutul ofertelor pe PZU
+& 3 ． 28 ． Ofertele treaptä transmise de cätre participantii inregistrati la PZU contin cel pu!in urmätoarele informatii:
+司 codul de identificare patticipantull 」 i 恺 PZU;
+b) identificarea ca ofertä de vånzare sau ca Ofertä de cumpärare;
+0 identificarea ca ofertä treaptä (SQB, SHHB, SHB)
+d) rezolu!ia de timp (PT15M, PT30M, PT60M);
+e) valabilitatea (ziua de livrare, intervalul de tranza#ionare la care se referä);
+f) cantitatea exprimatä in putere medie pe interval de tranzactionare, pentru fiecare pereche pret-
+cantitate;
+g) pretul limitä, pentru fiecare pereche pret-cantitate.
+63 ． 29 ． Ofertele bloc transmise de cätre participantii inregistrati la PZU contin 酊 m 0 e 厄 informatii, dupä 、 caz:
+a) codul de identificare al participantului la PZU;
+b) identificarea ca Ofe 改 犭 de vånzare sau ca Ofe de cumpärare;
+0 identificarea ca 0 「 「 bloc (BLB15, 3L330 ， BLB60);
+=== PDF PAGE 21 ===
+OPCOm
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICÄ
+d) rezolu!ia de timp (PT15M, PT30M, PT60M);
+COd ·
+Pag. 21 / 41
+Rev. 7
+e) codul ofettei bloc de a cärei acceptare este conditionatä, dacä este ofettä interdependentä de tip
+copil;
+0 valabilitatea, 9i anume perioada de definitie a blocului (ziua de livrare, intervalele de tranzactionare
+care se referä, dupä caz);
+g) cantitatea exprimatä in putere medie pe intetval de tranzactionare (constantä) pentru intervalele din
+perioada de definitie a blocului;
+h) pretu 《 limitä acceptat pentru unitatea de energie ofertatä a blocului.
+C) Formatul ofertelor pe PZU
+63 ， 30 ． Ofettele se definesc 四 fiecare rezolutie doritä 5i pentru un anumit sens (vånzare/cumpärare).
+6 、 33L Ofertele de cumpärare 5i ofertele de vånzare nu pot fi combinate intr-o singurä ofertä.
+& 3 ． 3 乙 Ofertele de cumpärare sau ofertele de vånzare 四 rezolutii de timp dlferite nu pot fi combinate intr-o
+singurä 酊 e ，
+6 ． 3 ． 33 ． Preturile ofertelor de vånzare/cumpärare pe PZU sunt introduse in 回 pentru unitatea de energie
+(RON/MWh) sunt echivalate de sistemul de tranzactionare in Euro/MWh, la CUrSUl 0 ci 引 leu/Euro comunicat de
+Banca Nationalä a Romåniei (BNR) valabil pentru ziua de tranzactionare.
+6 ． 3 ． 34 ． Ofertele treaptä de vånzare sau de cumpärare pe PZU sunt monotone.
+6335 ， 0 砘 § treaptä de vånzare monotonä constä in perechi pret-cantitate pentru un inten:al de
+tranzactionare, in care preturile mentionate ln perechile pret-cantitate consecutive VOr fi strict crescätoare.
+63 ． 36 ， 0 ofertä treaptä de cumpärare monotonä constä in perechi pret-cantitate pentru un interval de
+tranzacgionare, in care pre!urile mentionate in perechile pr$-cantitate consecutive vor fi strict descrescätoare.
+63 ． 37 ． O e 厄 pot fi introduse prin interfata web a sistemului de tranzactionare al PZU sau prin incärcarea unui
+i 釕 de ofertå tip .xml pe fiecare rezolutie in parte, care con!ine ofertele de u n anumit sens ()e vånzare/de
+cumpärare).
+6 ． 3 ． 38 ． in format .xml, un fi$ier de ofertä de vånzare/cumpärare cuprinde atät oferte treaptä, cåt 引 ofette bloc,
+四 aceea5i rezolutie. lnregistrarea unei noi oferte ca fi9ier .xml inlocuieste 0 r 囱 de pe rezolu!ia respectivä
+(treaptä 9i/sau bloc) exlstentä in sistemul de tranzac!:ionare pentru un anumit sens (vånzare/cumpärare).
+D) inregistrarea ofertelorin sistemul de tranza#ionare al PZU
+6 ， 3 ． 39 ． lnregistrarea 0 「 e 戊 e | or se poate face numai pentru zilele de livrare pentru care sunt publicate preturile
+limitä in lei ale scalei de pret. Pre!urile limitä ale scalei de pret, stabilite nivelul regiunii cuplate in Euro, sunt
+publicate in lei, in sistemul de tranzactionare 5i pe website-ul OPCOM, de cätre OPEED, de indatä ce este preluat
+cursul de schimb valutar.
+6 ． 3 ． 40 ． Participantul are posibilitatea de a incärca oferte pe orice rezoluCie disponibilä.
+6 ． 3 · 41. Cursul de schimb 姹 t 酊 este stabilit de Banca NaCionalä a Romåniei (BNR) in fiecare zi lucrätoare. Pentru
+ofertarea si tranzactionarea in fiecare zi de tranzac!ionare se aplicä cursul de schimb valutar stabilit in ultima zi
+luc 麾 № 酊 e anterioarä zilei de tranzactionare. in cazul zilelor de repaus säptämånal (zilele de mb 犭 凿 轫 duminicä)
+sau al särbätorilor legale, cursul de schimb valutar stabilit tn ultima zi lucrätoare va fi valabil pentru mai multe zile
+de tranzactlonare, corespunzätor numärului 烈 elor nelucrätoare. Astfel, pentru sfår5itul de säptämånä, cursul de
+schimb valutar stabilit vineri se aplicä tranzactionärii din zilele de såmbätä, duminicä luni, respectiv penVu zilele
+de livrare duminicä, luni marti.
+=== PDF PAGE 22 ===
+PROCEDURA OPERATIONALA
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 22 / 41
+DE ENERGIE ELECTRICA
+OPCO 1
+Rev. 7
+& 3 2 ， Sistemul 《 OC 引 de tranzac!ionare permite transmiterea 旧 avans a ofertelor pentru maxim 6 zile de livrare
+()e pot deschide po 巾 《 e de ofertare pentru maxim 6 zile de livrare) cu conditia publicärii in prealabil a preturilor
+limitä in 回 ale scalei de preg 9i incadrärii in garan!iile de validare.
+6 ． 3 ， 43 ． Scala de pret in Euro poate fi modificatä in conformitate cu deciziile agreate la nivelul zonei cuplate SDAC,
+luate cu respectarea prevederilor deciziilor ACER privind mod 而 r aduse produselor care pot fi considerate in
+procesul de cuplare unicä a pietelor pentru Ziua urmätoare, no valori limitå fiind aduse 恺 cunostinta
+participantilor anterior aplicärii noii scale de preg in procesul de validare a ofertelor.
+6 ． 3 国 生 lntervalul de inregistrare a ofertelor pentru ziua de livrare urmätoare se incheie la ora de inchidere a
+portii PZU de ofertare, respectiv:
+a) ora 12 ： 00 CET, in cazul functionärii cuplate regim normal de func!ionare;
+b) ora anuntatä de OPEED in conformitate cu prevederile Se#iunea 6 ． 9 ， ： Procedura de u s 冂 一
+fi ℃ 0 冂 a 疒 ea 加 g 咖 decuplat, tn cazul fun#ionärii decuplate.
+6 ． 3 ． 45 ． inainte de ora de inchidere a porgii PZU de ofertare, ofertele pot fi modificate sau anulate de cätre
+participantul 恺 PZU pe fiecare rezolu!ie ofertatä. Fiecare modificare stabileste 0 nouä ofertå, doar ultima versiune
+de ofertä validä, de pe fiecare rezolutie ofertatä, fiind cea care 姹 fi luatä in considerare de algoritmul de stabilire
+a tranzactiilor pe PZU ()n regim cuplat sau decuplat).
+6 ． 3 国 6 ． Ofertele pot fi inregistrate de cätre participantii PZU:
+a) prin intermediul interfetei web a aplicatiei PZU;
+b) prin incärcarea fisierului de Of 釕 凿 de tip .xml compatibil sistemul 1 al de tranzactionare pe PZU.
+6 ． 3 ． 47 ， OPEED poate inregistra 0 Ofe 「 崮 （ no sau modificatå) in sistemul de tranzactionare in numele
+participantului, dacä este mandatat in acest sens, 引 anume in in care participantul, aflat in imposibilitatea
+tehnicå de a incärca in nume propriu oferta, solicitä OPEED incärcarea ofertei in sistemul de tranzactionare 旧
+numele lui. OPEED va accepta inregistrarea ofertei in numele Part1cipantului la solicitarea acestuia transmlsä in
+timp util, doar dacå aceasta este transmisä pe e-mail (mesajul participantului va contine 0 爬 改 a ／ Of 曰 te pentru 0
+singurä zi de livrare) in format .xml si numai de reprezentantii participantului avånd datele de contact declarate
+conform P 疒 0 硭 du 劢 ． p 疒 / 冠 疒 eg / 化 彐 pa 硭 七 引 7 0 厂 /a piete/e 0 a 冂 a 创旧@虍 e / 刁 匚 administrate de
+0 CO SA.
+63 ． 48 ． OPEED poate anula 0 ofertä existentä in sistemul de tranzac!ionare ln numele patticipantului, dacä este
+mandatatin acest sens, si anume in situatia in care participantul, aflat in imposibilitatea tehnicä de a anula ofetta
+in nume propriu, solicitä OPEED anularea ofertei in sistemul de tranzactionare 旧 numele lui. OPEED va accepta
+anularea ofertei in numele participantului la solicitarea acestuia transmisä in timp util, doar dacä Participantul face
+solicitarea pe e-mail, precizånd clar tipul de ofertä (vänzare sau cumpärare) #i ziua de livrare pentru care a fost
+introdusä. OPEED poate anula numai intreaga Ofe 改 犭 pe un anumit sens, de vånzare sau de cumpärare, si anume
+atåt toate ofertele treaptä, cåt 引 toate ofertele bloc pentru sensul 引 ziua de livrare solicitatä. OPEED va accepta
+in acest sens solicitäri de 9tergere a ofertelor numai de reprezentantii Part ℃ ipantull 」 i avånd datele de con 怡 忒
+declarate conform P 尾 上 du privind 加 疒 ／ S a 化 a p 彐 匚 a 可 厂 /a piete/e 冂 亇 a e de energie e/ectricå
+adm 历 / 豆 de 0 CO S.A.
+63 9 ． OPEED prime5te inregistreazå ofertele in registrul ofertelor, iar dupä ora de inchidere a porCii de ofertare
+a PZU le conferä acestora caracter de anonimitate, in vederea aplicärii mecanismului de corelare in functionarea
+cuplatä
+6 ． 3 ． 50 ． Dupä ora de inchidere a portii de ofertare PZU, ofertele nu mai pot fi modificate sau anulate, fiind
+irevocabile.
+63 ． 51 ． Algoritmul cuplärii trebuie asigure integrarea produselor de tranza#ionare, cerinwor de retea 5i a 《 t00
+cerinte stabilite prin reglementärile europene, respectiv trebuie asigure furnizarea rezultatelor nivel eüropean
+=== PDF PAGE 23 ===
+PROCEDURA OPERATIONALA
+Cod ：
+opco
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA RMATOARE Pag. 23 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+Tn termenele preväzute de asemenea prin reglementärile europene. Complexitatea algoritmului necesitä
+monitorizarea performantelor. ln situatia in care se constatä Sau se anticipeazä deteriorarea performangelor
+algoritmului, se vor aplica mäsuri corective cu notificare prealabilä conform prevederilor do ／ 四 / de a 0 厂 m
+aprobatä prin Decizie ACER (Decizia ACER nr. 04 ／ 30 ℃ L2020 9i Decizia ACER nr. 11 / 23 ． 09 ． 2024 ） ．
+E) Validarea Ofe 乸 or
+6 ． 3 、 5 乙 OPEED poate stabili 5i modifica in orice moment limita valoricä de tranzactionare pentru un participant la
+PZU, pe baza garantiilor finanaare disponibile ale acestuia.
+6 ． 3 ． 53 ． Limitele cantitative de tranzac!ionare se aplicä sub formä de limite de cantitate (putere medie pe interval
+de tranzactionare ofertatä) sau limlte de valoare ()n functie de garantia disponibilä).
+6 ， 3 ． 54 ． Fiecare partlcipant la PZU poate solicita OPEED invalidarea ofertelor care con!in 0 cantitate (putere
+0 爬 戊 at totalä per granularitate mai mare decåt 0 anumitä limitä specificatä in avans de respectivul participant
+la PZU. Astfel, partiCipantii PZU pot specifica limite de cantitate diferite pentru ofertele de cumpärare 5i ofertele
+de vånzare. Dacä participantul oferteazä pe mai multe granularitäCi, limita se aplicä ca putere medie pe fiecare
+interval aferent fiecärei granularitäti.
+6 ． 3 ． 55@ Dacä oferta nu respectä limita de tranza#ionare valoricä stabilitä conform p 疗 “ cons 眩 u ea, ，
+verificarea utdizarea a “ 0 了 冂 引 ℃ 化 pentru patticvarea P pentru 刀 臼 a Urmätoare, aceasta este
+respinsä. Partcipantul PZU este notificat automat prin sistemul de tranzactionare despre respingere printr-un
+mesaj relevant 5i poate modifica oferta pentru incadrarea in limita valoricå de tranzactionare, inainte de inchiderea
+portii PZU.
+6 ． 3 ． 56 ． Validarea ofertelor se face in mod automat de cätre sistemul de tranza#ionare al PZU conform criteriilor
+de validare impuse prin specificatiile privind continutul 5i formatul ofertelor 5i a regulilor aplicabile ofertelor din
+prezenta Procedurä.
+6 ， 3 ， 57 ， Sistemul informatic va verifica, tn vederea validärii, fiecare Ofe 改 tnscrisä pentru a stabili indeplinirea
+urmätoarelor criterii:
+a) Dreptul participantu 《 ui de a tranzactiona 四 PZU, care poate fi afectat de expirarea licen!ei sau de
+existenta unei suspendäri sau revocäri 姹 《 ab in momentul ofertärii;
+b) Posibilitatea de a oferta pentru ziua de livrare selectatä, respectiv afi;area in interfaga sistemului de
+tranzac!ionare a portii de transmitere a ofertelor 9i a stärii acesteia (stare deschisä);
+0 Exprimarea corectå a cantitätilor 9i preturilor din punct de vedere 引 numärului de zecimale;
+d) incadrarea pregurilor din Ofe 犭 in limitele scalei de pret;
+e) incadrarea cantitätilor agregate la nivel de granularitate din in limita de cantitate dedaratä de
+participant, dacä acesta are 0 declaratie in acest sens;
+f) Caracterul monoton al preturilor;
+g) incadrarea in numärul admis de perechi pret-cantitate pe interval per participant, in cazul ofertelor
+treaptä,
+h) incadrarea in numärul admis de oferte bloc per participant, in cazul ofertelor bloc,
+i) incadrarea in cantitatea maximä de definitie pentru ofertele bloc;
+j) incadrarea in limitele valorice garantiei de validare/disponibilä pentru 0 爬 e de cumpärarecu preg
+pozitiv sau pentru ofertele de vånzare cu pret negativ conform Proceduriiprivind e 厅 厅 囝 化 a
+utl/izarea g 岁 0 疒 旧 冂 匚 厂 e pentru patticiparea P 归 pentru 刀 Urmätoare.
+=== PDF PAGE 24 ===
+PROCEDURÄ OPERATIONALÄ
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 24 / 41
+0pc001
+DE ENERGIE ELECTRICA
+k) rezoll 」 !iei de timp pe care se d0 祀 e ofertarea.
+Rev. 7
+63 ． 58 ． in cazul nerespectärii unuia din criteriile de validare mentionate articolul anterior, sistemul informatic
+va invalida automat ofetta 5i va atengiona participantul printr-un mesaj asupra motivului invalidärii. participantul
+poate corecta retransmite oferta sau poate anula 0 ofertå oricänd in perioada de ofertare.
+6 ， 3 ． 59 ． in situatia inscrierii ofertei prin fi5ier de tip .xml, anterior verificärii criteriilor de validare precizate la art.
+6 ． 3 ， 57 ” sistemul verificä compatibilitatea fi5ierului de tip m cu sistemul, in caz de incompatibilitate afi5ånd un
+mesaj de eroare in acest sens.
+6 ． 3 ， 60 ． Avånd in vedere abordarea specificä a tranza#ionärii in ore CET pe piata pentru ziua urmätoare cuplatä,
+respectiv faptul ora 24 ． 00 CET unei zile de livrare (D) din perspectiva tranzac!ionärii pe PZU reprezintä
+intervalul 00 ： 00 一 01 ℃ 0 ora Romåniei pentru urmätoarea zi de livrare （ D + 1 〗 participantii a cäror responsabilitate
+a echilibrärii nu mai este asumatä de niCiO PRE pentru ziua de livrare D+ 1 nu vor Oferta pe PZU pentru intervalul
+23 ： 00 一 24 ： 00 ()n ore CE 「 ） 引 zilei de livrare (D), indiferent de granularitate. OPEED are dreptul anulärii Ofe 改 国 or
+treaptä 5i a ofertelor bloc care includ acest interval, inclusiv a ofertelor bloc dependente de aceasta, ale
+participantilor care se gäsesc tn aceastä situa!ie.
+6 · 4 ． TRANZACTIONAREA PE PZU
+in cadrul mecanismului de cuplare la nivelul SDAC, OPEED-urile 引 OTS-urile au responsabilitatea validärii
+4 ． 1 ．
+rezultatelor pe baza principiilor de piagä, respectiv OPEED din perspectiva 引 ii pe portofoliile de oferte $i OTS
+din perspectiva fluxurilor transfrontaliere.
+6 ． 4 ， 2@ principiile de validare a rezultatelor cuplärii sunt.
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+0
+Ofertele treaptä de vånzare nu sunt executate pentru cantitä!ile oferite la preturi mai mari decat
+PIP.
+Ofertele treaptå de cumpärare nu sunt executate pentru cantitätile oferite la preguri mai mici decåt
+PIP.
+Ofertele treaptä de vånzare sunt executate pentru cantitätile oferite la preturi strict mai mici decåt
+PIP.
+Ofertele treaptä de cumpärare sunt executate pentru cantitätile oferite la preguri strict mai mari
+decåt PIP.
+O 戊 e treaptä pot sä nu fie executate sau pot fi executate partial pentru cantitätile oferite la
+vånzare/cumpärare la preguri egale CLI PIP.
+0 ofertä bloc de vånzare nu va fi executatä dacä pregul såu este mai mare decåt pretul mediu 引
+piegei rezultat din media PIP publicate pe intervalele de tranzactionare care se referä oferta bloc,
+ponderatä cu volumele aferente fiecärui interval de tranza#ionare din oferta bloc.
+0 ofertä bloc de cumpärare nu va fi executatä dacä pretul säu este mai mic decat pregul mediu al
+pie!ei rezultat din media PIP publicate pe intervalele de tranzactionare la care se 「 e 爬 亳 oferta bloc,
+ponderatå cu volumele aferente fiecärui interval de tranzagionare din oferta blOC.
+in cazul in care intersectia curbei cererii cu cea a Ofertei are 《 OC pe un interval comun de preturi,
+PIP este stabilit la m 刂 locul intervalului comun de preguri.
+in cazul in care interse#ia curbei cererii cu cea a ofertei are 10C pe un interval Comun de cantitäti,
+cantitatea tranzacgionatå este cea maximä a intervalului comun de cantitäti.
+=== PDF PAGE 25 ===
+PROCEDURÄ OPERATIONALÄ
+Cod ．
+Opcom
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 25 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+& 生 3 ． PIP rezultat pentru zona de ofertare nationalä in urma utilizärii algoritmului pentru corelarea 0 爬 戊 e | or tn
+timpul licitatiei este pretul aferent intervalului de tranzactionare de 15 min care se aplica pentru toate tranzactiile
+indiferent de granularitatea la care a fost transmisä oferta care a condus tranzac!ii.
+6 ． 生 生 Pentru perechile pret-cantitate men!ionate ca executate in rezultatele cuplärii se stabileste 0 tranzactie
+fermä intre OPEED, pe de 0 parte, 9i participantul la PZU, pe de 引 凿 parte, pentru livrarea energiei electrice in
+cantitatea final executatä, in zona de ofertare nationalä, la timpul (ziua de livrare, intervalul de tranzac!ionare)
+specificate in Ofe Si la un pret egal cu PIP stabilit pentru zona 5i timpul respectiv.
+6 ． 4 ． 5 ． Cantitatea aferentä pozitiei nete determinä 0 tranzactie intreOPEEDsiOTSromånincalitatea sa de agent
+de transfer, la PIP aferent zonei de ofertare nationale pentru intervalul de tranzactionare la granularitate minimä
+（ 15 minute) respectiv.
+& 生 & Livrarea energiei electrice aferentå unei tranzactii incheiate pe PZU se considerä realizatä odatä cu
+transmiterea OTS, in cadrul procedurii transmiterii Notificärilor de program ale PRE conform reglementärilor in
+Vigoare, a schimbului bloc corespunzätor, intre PRE-PZU 5i PRE-ul din care face parte participantul la PZU,
+respectiv PRE-ul agentului de transfer. Toate PRE-urile au obligagia de a transmite Notificärile de program privind
+tranzactiile pe PZU 、 Notificarea de program se face considerånd puterea medie cumulatä rezultatä 四 fiecare
+interval de tranzactionare la granularitatea de 15 min.
+6 · 5 。 FUNCTIONAREA iN REGIM NORMAL
+6 ， 5 ． 1. Functionarea tn regim normal inseamnä deru 《 area automatä a tuturor actiunilor preväzute aferente
+cuplärii pie!elor 佬 intreruperi sau intårzieri ale proceselor.
+6 ． 5 、 乙 OTS-urile din proiectul de cooperare CORE FB MC 5i RO-BG MC convin asupra valorilor CZC disponibile
+pentru piata pentru ziua urmätoare in functionare cuplatä le transmit modulului CCCt. Operatorul de Pre-Cuplare
+ce gestioneazä modulul CORE CCCt elaboreazä documentul com u n cu toate capacit$ile 轫 parametriii Flow Based
+disponibile 四 interconexiunile implicate in procesul de cuplare 引 il pune la dispozitia OPEED-urilor prin intermediul
+CIP.
+6 ． 5 ． 3 ． Fiecare OPEED publicä valorile CZC relevante zonei in care ac!loneazä care sunt disponibile procesului
+de cuplare n u mai tårziu de ora 10 ： 30 CET.
+6 ． 5. 生 ln conformitate cu procedurile agreate in cadrul fun#ionärii cuplate, OTS-urile au dreptul sä actualizeze
+valorile CZC dacä este necesar, dar nu mai tårziu de ora 11 ： 00 CET.
+6 ． 5 ． 5 ． ParticipanCii au dreptul transmitä ofette, modifice sau anuleze ofettele deja inregistrate in
+sistemul de tranzactionare pånä la ora 12 ： 00 CET, care reprezlntä 0 「 a de inchidere a po#ii PZU. Ofertarea se
+face respectånd prevederile Se 匚 “ 彐 ： 0 虍 彐 a pe PZU.
+6 ． 5 ． 6 ． OPEED pune 《 a dispozitia patticipantilor la PZU rezultatele cuplärii, in ore CET, prin intermediul
+confirmärilor de tranzac!ii, incepånd cu ora 13 ： 05 CET
+6 ． 5 ． 7 · PreWl de inchidere a licitatiei este raportat granularitatea de 15 minute corespunde solutiei
+identificatä de algoritmul Euphemia de cuplare care ia ln considerare curbele agregate ale cererii 5i ofettei
+rezultate din combinarea ofertelor treaptä 5i ofertele bloc din pietele nationale participante, indiferent de
+granularitatea acestora, in limita capacitätii disponibile de interconexiune. PreCurile de pe granularitäWle de 30 ，
+respectlv 60 de minute sunt calculate de algoritm Ca medii ale intervalelor de 15 minute relevante au caracter
+orientativ.
+5 ， & Fiecare tranzactie corespunde unei livräri de energie electricä la 0 putere medie constantä de-a lungul
+intervalului de tranza#ionare respectiv.
+=== PDF PAGE 26 ===
+PROCEDURÄ OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 26 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+opcom
+6 ． 5 · 9@ OPEED transmite OTS Notificårile de program ale schimburilor nete pentru fiecare PRE, pentru fiecare
+interval de decontare de 15 minute, aferente tranzactiilor incheiate pe PZU de 旨 e membrii PRE-ului respectiv,
+in ore CET, cel mai tårziu la ora 14 ： 30 CET 、 Notificarea de program a Schimburilor bloc cuprinde totdeauna 96
+intervale de 15 minute (respectiv 100 ／ 92 intervale, tn zilele de schimbare a orei, dupä 幻 ．
+6 ．5@10 ． Orice tntårziere a termenelor preväzute in functionarea normalä a procesului de cuplare este notificatä
+patticipantilor piatä, fiind aplicate procedurile agreate pentru procesul de cuplare.
+6 ． 6 生 DECONTAREA
+6.6.1. OPEED elaboreazä procedurile pentru realizarea func!iilor specifice decontärii conform prezentelor
+prevederi.
+6 ， 6 ． 2 ． Fiecare solicitant care doreste fie inregistrat in calitate de part1Cipant la PZU, inclusiv OTS in calitate
+de partcipant implicit, trebuie sä deschidå un cont in numerar la 0 bancä comercialä care indepline$e criteriile
+preväzute intr-o procedurä publicä e 恺 bO 阉 de OPEED, denumitä in continuare bancä de decontare.
+6 ， 6 ． 3 ． OPEED deschide un cont central PZU 恺 0 bancä comercialä de pe teritoriul Romåniei, pentru plätile
+aferente tranzac!iilor incheiate pe PZU.
+6 ． 6 ． 4 ， OTSin calitate de agent de transfer deschide, pentru plätile aferente tranzactiilor pe PZIJ, atåt un cont in
+euro, cåt 5i u n cont in 回 ， la 0 bancä comercialä din Romånia participantä in casa de compensare automatä 5i
+incheie 0 convenbie cu banca prin care sumele in euro fie schimbate tn lei, iar conformitate cu mandatul de
+debitare directä incheiat cu banca, contravaloarea obliga!iilor de platä cätre OPEED sä fie transferatä in contul
+acestuia pe baza instruc!lunilor de debitare directä, respectiv sumele in 回 亞 fie schimbate in euro conform
+obligatiilor de platä, iar contravaloarea acestora fie transferatä in contul agentului de transfer vecin.
+6 ， 6 ． 5 ． Un solicitant care doreste sä devinä participant la PZU depune la OPEED, tnainte de a transmite oferte de
+vånzare cu pret negativ/oferte de cumpärare energie electricå cu pret pozitiv, mandatul privind plata prin debitare
+directä incheiat cu banca sa de decontare 「 e permitä OPEED incasarea sumelor care este indreptätit
+conform notelor de decontare.
+6 ， 6 ． OPEED are dreptul solicite participantului PZU constituirea unei garantii financiare lnainte ca
+respectivul pafticipant la PZIJ transmitä oferte de cumpärare preguri pozitive sau oferte de vånzare cu preguri
+negative. Participantul implicit nu este obligat constituie garantii financiare, dar ia toate mäsurile astfel incåt
+termenele de decontare 亞 n u fie depä5ite din cauza lipsei de disponibilitågi in conturile sale de decontare.
+6 ． 6 ． 7 ． OTSin calitate de agent de transfer stabileste termenele de platå 引 incasare aferente obliga!iilor de p ，
+respectiv drepturilor de incasare zilnice cätre/de 恰 OTS vecin conform valorii nete a fluxurilor transfrontaliere pe
+PZU pe interconemnea respectivä, tinånd seama de termenele de platä/incasare ale OPEED, respectiV ale OTS
+partener, 5i asigurä sumele necesare in conturile de decontare astfel incåt asigure fll 」 iditatea decontärii pe
+6 ． 6 ． 8 ． OPEED elaboreazä procedurile pentru determinarea necesarului 引 a tipurilor de garantii financiare
+solicitate, procedurile privind realizarea Si verificarea constituirii garantiilor, precum 引 procedurile privind
+efectuarea p or aferente tranzac!iilor pe PZU.
+6 ． 6 ． 9 ． Pentru fiecare participant la PZIJ, OPEED determinä zilnic valoarea in 回 a obliga!iilor de platä/drepturilor
+de incasare, prin insumarea produselor dintre cantitätile 5i preturile pentru toate tranzactiile pe care respectivul
+participant la PZU le-a incheiat cu OPEED pe PZU pentru ziua de livrare corespunzätoare.
+6 ． 6 ． 10 ． Separat pentru fiecare participant la PZU 5i pentru fiecare zi de livrare, OPEED intocme5te 0 no 秘 de
+decontare zilnicä ce cuprinde toate valorile care trebuie debitate sau creditate in contul central al PZU.
+6 ． 6 ． 11. OTS n u pläteste tarife cätre OPEED aferente tranzactionärii pe PZU tn calitate de pafticipant implicit 恺
+PZU.
+=== PDF PAGE 27 ===
+PROCEDURA OPERATIONALA
+COd ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 27 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+& 6 彐 2 ． OPEED pune la dispozitia fiecärui participant la PZU, inainte de sfårsitul zilei de tranza#ionare, nota de
+decontare zilnicä 9i transmite, in zilele bancare lucrätoare, instructiunile de debitare directä cätre banca unde este
+deschis contul central PZU, conform prevederilor unei proceduri publice elaborate de OPEED cu respectarea
+principiului de consultare publicä.
+6 ． 6 · 13 ． Contravaloarea obliga!iilor nete de platä din notele de decontare se incaseazä de cätre OPEED prin
+mecanismul de debit direct in termenele preväzute in procedura publicä relevantä elaboratä de OPEED. incasärile
+se considerä realizate data la care valorile corespunzätoare au fO creditate in contul central PZU.
+6@1生 Pregul de decontare este PIP aferent fiecärui interval de tranza#ionare la granularitate minimä （ 15 min)
+indiferent de granularitatea la care S-au realizat ofettele care au COndUS la tranzactii.
+67 思 PUBLICAREA CLJ iNTÄRZIERE ACTUALIZAREA VALORILOR CZC
+6 丿 ． 1. ln functionare normalä valorile CZC sunt publicate ora 10 ： 30 CET.
+6 ． 7 ． 2 ． Ca urmare a unor motive tehnice sau datoritä aparitiei unor probleme in procesul de determinare sau
+transfer al fi9ierului de valori CZC pot rezulta intårzieri ale publicärii valorilor CZC.
+6 ． 73 ， in functie de durata intårzierii procesului CZC, aceasta poate fi de scurtä duratä sau c ， abordarea
+fiind diferitä in ceea ce priveste actiunile derulate in piatå 5i notificarea participantilor.
+6 7 ． 生 in ca 閥 《 intårmerii critice a procesului CZC, adicä mai mult de ora 11 ： 15 CET, se comunicä
+ini!ierea aplicärii procedurii de ultimä instantä pentru riscul de decuplare descrisä tn Se#iunea 6 四 ， ： Procedura de
+u/timä s 冂 - h 毋 ℃ 0 旧 厂 ea g 咖 decup/at, ace;tia fiind anungati privind necesitatea efectuärii unor actiuni
+suplimentare in piatä. OPEED transmite notificåri de informare participantilor la piatä prin care le comunicä
+acestora urmätoarele.
+a) aparitia riscului de decuplare din motive de CZC, participangii la licitatiile explicite (organizate de 〕 AO ）
+fiind indrumati sä actualizeze ofertele pentru licitatia explicitä umbrä conform procedurilor specifice JAO,
+notificare transmisä imediat dupä ora 11 ： 15 CET prin mesajul UMM_02: R 匚 de decup/are paffia/ä pe
+una sau mai mu/te onex ／ R 々 ofPartia/ Decoup/ing 疒 0 冂 e mo / h 0 / e 00 ， care contine
+detalii privind interconexiunile pentru care existä riscul de decuplare;
+b) publicarea v 引 ori | 0 「 CZC cånd acestea sunt disponibile, dar nu mai tårziu de ora 11 ： 30 CET;
+c) dacä problema nu se rezolvä pånä la 11 ： 30 CET, se declarä decuplarea partialä din motive de CZC. ln
+acest caz se transmite part ℃ ipan!ilor mesajul M_ 一 03 ： Una sau mai mu/te 厂 cone 历 se decup/eazä
+/ 0 / 旧 0 厂 mo 疒 CO / e 0 decoup/ed, care contine detalii privind de interconexiunile care se
+decupleazä.
+6 ． 75 in cazul actualizärii 姹 》 ori 《 or CZC, partlcipan!ii vor fi notificati ast 」 pra modificärii, ace;tia fiind tndrumati
+pentru actualizarea ofertelor in condiCiile noilor informatii disponibile in piatä
+6 。 & iNTÅRZIEREA PROCESULUI DE CUPLARE
+6 ． 8 ． 1. ln functionare normalä rezultatele procesului de cuplare sunt distribuite entitä!ilor din procesul de cuplare
+SDAC (OPEED >i OTS). Acestea sunt validate de OPEED-uri din perspectiva principiilor de cuplare 9i alocärii pe
+pottofolii in raport cu ofertele introduse ulterior, sunt transmise 恺 12 ： 55 CET OTS-urilor pentru validare din
+perspectiva fluxurilor in raport cu capacitätile de transport declarate.
+6 ， 8 2 ． in functionare normalä rezultatele procesului de cuplare sunt disponibile participaptilor dupä validarea
+acestora cåt de curånd dupå 12 ： 55 CET, dar nu mai devreme de 0 ra 13 ： 05 CET. OPCOM publicä rezultatele
+procesului de cuplare pe webside de indatä ce acestea sunt disponibile 9i validate.
+=== PDF PAGE 28 ===
+PROCEDURA OPERATIONALA
+（ od ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 28 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+6 ． 8 ． 3 ． Ca urmare a unor probleme tehnice in sistemele informatice sau in procesul de comunicare dintre entitäVile
+implicate, pot apärea intårzieri ale termenelor de publicare a rezultatelor preväzute pentru functionarea in regm
+normal. in func!ie de durata intårzierii procesului de cuplare, intårzierea poate fi de scurtå ü 陪 sau
+t / e 疒 e c 疒 化 abordarea fiind diferitä in ceea ce priveste actiunile derulate in piagä 轫 notificarea
+participan!ilor.
+6 ． 8 ． 4 ． in z intårzierii de scu durata, participantii nu trebuie intreprindä acbluni suplimentare in piatä.
+OPEED transmite not 而 「 i de informare participantilor la pi$ä prin care comunicä acestora urmätoarele:
+a) aparitia unor intårzieri ale procesului de cuplare ， intårzierea publicärii rezultatelor cuplärii fatä de
+programul de publicare a acestora in regimul de functionare normalä, notificare efectuatä cåt de curånd
+dupä 12 ： 55 CET #i dar nu mai devreme de ora 13 ． 05 CET.
+b) publicarea rezultatelor cuplärii cånd acestea sunt disponibile.
+6 ． 8 ． 5 ． in cazul 加 t / ／ critice proceselor, se comunicä participanVilor initierea aplicärii procedurii de ultimä
+instanw, ace;tia fiind anunVati privind necesitatea unor a#iuni suplimentare in piatä. OPEED transmite notificäri
+de informare participantilor la piaVä prin care le comunicä acestora aparitia riscului de decuplare, respectiv decizia
+decuplärii. in func!ie de situa!ia decuplärii, termenele de transmitere a comunicärilor 引 comunicärile diferä,
+acestea fiind detalliate in Se#iunea 5 ， 9 过 Procedura 0 h7 犭 s 冂 犭 - Fu 冂 / 0 冂 a 化 a 加 regim decup/at.
+6 · 9 ． PROCEDURA DE ULTIMÄ INSTANTÄ ： FUNCTIONAREA iN REGIM DECUPLAT
+6@9 ． 1 ． Atunci cånd, pentru 0 anumitä zi de livrare, nu e 四 引 bi 《 se aloce prin licitatie implicitä capacitatea de
+transport disponibilä pentru livrare ziua urmätoare in portiuni din zona cuplatä SDAC, se trece la fun#ionarea
+decuplatä par!ial a pie 忙 10 「 ， respectiv se decupleazä, dupä caz, interconexiuni si/sau zone de ofettare. Pentru
+interconexiunile 5i/sau zonele de ofertare decuplate se organizeazä solu!ii de rezervä de tranzac!ionare enerye
+electricä si alocare de capacitate speclfice nivel local/regional. Restul zonelor de ofertare rämån cuplate si se
+aplicä algoritmul de cuplare pentru tranza#ionarea implicitä comunä.
+6 ． 9 ． 2 ． Atunci cånd, pentru 0 anumitä zi de livrare, nu e posibil se aloce prin licitatie implicitå capacitatea de
+transport disponibilä pentru livrare ziua urmätoare in intreaga zonä cuplatä SDAC pentru nu sunt disponibile
+rezultatele cuplarii sau sunt respinse in urma procesului de validare, se realizeazä decuplarea totalä a pietelor,
+respectiv se decupleazä toate regiunile participante solu)ia SDAC. in acest caz se organizeazä SOluWi de
+tranzactionare energie electricå 引 alocare de capacitate de rezervä specifice nivel local/regional pentru toate
+regiunile. in cazul regiunii aferente proiectelor de cooperare CORE FB 卜 IC si BG-RO MC, in urma decuplärii totale,
+tranzactionarea de energie electricä se organizeazä C de cåtre fiecare OPEED in zona de ofeftare in care
+activeazä, iar 引 酊 ea de capacitate este organizatä prin licita!ii explicite umbrä de cätre JAO.
+6 ． 9 ． 3 ． in cazul decuplärii zonei de ofertare Romånia, capacitatea de transport pe interconexiunea Romånia-
+Ungaria $i Romånia-Bulgaria 引 0 prin licitaVie explicitä umbrä organizatä de JAO pe orizontul de timp Ziua
+urmåtoare, re 引 i 花 凿 conform prevederilor procedurilor 〕 AO relevante. Tranzac!ionarea ] a a energiei electrice
+tn zona de ofertare Romånia se face prin aplicarea aceluiasi algoritm #i la fun#ionarea cuplatä, 5i anume
+algoritmul Euphemia.
+6 ． 9 ． 生 Functionarea decuplatä este 0 procedurä de ultimä instantä se aplicå in urma deciziei comune la nivelul
+cuplärii SDAC luatä in cadrul Comitetului de incidente.
+& 9 ， 5 ． Decuplarea, fie aceasta partialä sau totalä, poate fi necesarä in douä categorii de situatii, cärora le
+corespund actiuni speclfice, termene limitä diferite pentru notificarea participantllor, determinate de necesitatea
+prelungirii sau nu a orei de inchidere a PZU, astfel incåt participan!ii aibä suficient timp pentru a-9i adapta
+ofertele in noul context de piatä ：
+=== PDF PAGE 29 ===
+PROCEDURA OPERATIONALÄ
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 29 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+a) Decuplare timpurie, in care situatia criticä care conduce decuplare este cunoscutä in avans,
+aceasta conducånd la decuplare in ziua anterioarä zilei curente 引 in care decuplarea se decide suficient
+de devreme astfel incåt ora de inchidere a po#ii de ofertare 四 PZU sä poatä rämåne cea din procesul de
+fun#ionare cuplatä in regim normal （ 12 ： 00 CET), respectiv termenul de declarare a decuplärii timpurii
+fiind cel mai tårziu 10 ： 30 CET,
+b) Decuplare cunoscutä in timpul sesiunii de tranzacüonare, ln care situa!ia criticä conduce la
+decuplare ce se manifestä in timpul sesiunii curente de tranzactionare 轫 care se aplicä in cazul in care
+decuplarea se decide la un moment de timp apropiat (mai devreme sau mai tårziu) de ora de publicare a
+rezultatelor PZU pentru func!ionarea cuplatä a piegelor, situatie care necesitä redeschiderea registrului
+ofertelor pentru a permite partcipantilor revizuirea 轫 ajustarea ofertelor in noul context de piaW
+6 ． 9 ． 6 ． ln conformitate cu procedurile agreate la nivelul cuplärii SDAC, in cazul apari!iei unor probleme grave
+care impiedicä finalizarea procesului de cuplare, se declanseazä Comitetul de incidente conform procedurilor
+operawonale agreate.
+6 ． 9 ． 7 ． Dacä este cazul, pärtile din zona cuplatä SDAC aplicä procedurile de rezervä agreate in vederea lncercärii
+de finalizare a procesului de cuplare. Depä$irea termenelor de derulare a procesului de cuplare in regim normal
+$i a celor preväzute prin procedurile de rezervä agreate este adusä 恰 cunostin!a participantilor prin notificarea
+apari!iei riscului de decuplare.
+6 ． 9 ． & Dacä ;i dupä aplicarea procedurilor de rezervä, solu!ia decuplärii apare ca necesarä, Comitetul de
+incidente decide realizarea decuplärii #i aplicarea procedurilor specifice situatiei de decuplare.
+6 · 9 ·9@ OPEED notificä participan!ii la pia!a de energie electricä cu privire la decizia de decuplare 5i aplicarea
+prevederilor sec!iunii prezente, comunicånd etapele ce trebuie urmate pentru finalizarea cu succes a sesiunii de
+tranzactionare ln contextul decuplärii.
+6 ， 9 ． 10 ． Ofertarea pe PZU se face respectånd prevederile Se / 仂 5 ， 3 ， 0 了 疒 化 ape Z 以
+6 ． 9 ． 11 、 Orarul de ofertare pe PZU conform prezentei sectiuni este corelat cu orarul de ofertare pentru licita!ia
+umbrä explicitä pentru alocarea de capacitate de interconexiune conform prevederilor procedurilor JAO aferente,
+astfel incåt participantii sä cunoascä rezultatele licitatiei umbrä de alocare explicitä a capacitätii de interconexiune
+cu suficient timp inainte de inchiderea por!ii PZU 引 isi poatä ajusta ofertele (dacä este cazul) corespunzätor
+acestora. Rezultatele licitatiilor explicite umbrä se publicä pe website-ul 〕 AO conform regulilor 〕 AO relevante.
+A) Decuplarea totalä timpurie (decuplare cunoscutä in avans)
+6 ． 9 ． 12 ． Decuplarea aplicä ca urmare a mentinerii unei/unor probleme apärute in sesiunea anterioarä
+de cuplare a piegelor care au condus la decuplare tOtalä a sesiunii de tranzactionare din ziua anterioarä zilei
+curente, care nu pot fi solu!ionate pånä la termenu/ / 7 / 咭 de decup/are timpuriein ziua curentä, respectiv ora
+10 ： 30 CET.
+6 · 9 ， 13 ．
+ln cazul in care devine evident existä riscul de decuplare tOtalä timpurie, se vor aplica procedurile
+interne de tranzactionare specifice fiecärei piege. OPEED transmite intårziere participangilor la piatä
+comunicarea privind aparitia riscului de decuplare timpurie 9i necesitatea actualizärii ofertelor pentru licitawa
+explicitä umbrä. Comunicarea de risc de decuplare timpurie se transmite participantilor la piabä la ora 10 ： 00 CET,
+prin mesajul ExC 03 硒 疒 z sq 咖 e 冂 扫 焙 a procesu/w de cup/are 彐 e ／ 0 疒 / 仂 仂 de/ay 0 了 the
+Coup/ing Session.
+6 ． 9 · 1 生 ln cazul tn problema nu poate fi 祀 zo ， Comitetul de incidente decide aplicarea decuplärii pi$elor
+nu mai tårziu de 10 ： 30 CET. OPEED transmite 佬 麾 tntårziere comunicarea participangilor 怡 piatå. Comu0!carea
+de decuplare timpurie se transmlte paråcipantilor prin mesajul EXC 0 ， Decup/are / 犭 c 仂 70 u avans/
+=== PDF PAGE 30 ===
+PROCEDURA OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 30 / 41
+DE ENERGIE ELECTRICA
+OPCOm
+Rev. 7
+Fu// Decoup/ing kno 冂 忉 ad 冂 Pentru tranzactionarea organizatä la nivel local/regional 0 「 a de inchidere a
+por!li de ofertare pe PZU rämåne ora 12 ： 00 CET.
+ln cazul decuplärii totale cunoscute avans, OPCOM ruleazä 傥 0 恺 t sesiunea de tranza#ionare. Poatta
+6 ． 9 ． 15 ，
+de transmitere a ofetelor se inchide la ora 12 ： 00 CET. OPEED genereazä ， pune la dispoziVia participanWlor
+confirmärile de tranza#ii de tndatå ce rezultatele procesului | oc 引 de tranzactionare sunt disponibile, dar nu mai
+tårziu de ora preväzutä pentru regimul no 「 m 引 in func!ionare cuplatä, respectiv ora 13 ： 05 CET.
+6 ． 9 ． 16 ． OPEED transmiteOTS Notificärile de program corespunzätoare tranzactiilor incheiate pe PZU in ore CE 「
+cel mai tårziu ora 14 ： 30 CET, ca in procesul de func!ionare normalä in regim cuplat.
+B) DecupIarea totalä declaratä in timpul procesului de cuplare
+6 ． 9 ． 17 ． Decuplarea tO 怡 declaratä in timpul procesului de cuplare se a 帥 ca urmarea unor probleme grave
+apärute in ziua curentä in cadrul procesului de cuplare a pieCelor care impiedicä publicarea rezultatelor cuplärii
+(rezultatele nu sunt disponibile sau nu au fost confirmate pånä la ora 14 ： 20 CET sau au fost respinse in urma
+procesului de validare), probleme care nu pot fi S01 甙 iona pånä 恰 rn ] h7 ／ decup/are respectiv
+ora 14 ： 20 CET.
+ln cazul in care rezultatele preliminare ale procesului de cuplare nu sunt disponibile p 渐 囝 or din procesul
+6 ． 9 ， 1 &
+de cuplare SDAC (OPEED 5i OTS) pånä la ora preväzutå in regim normal de fun#ionare cuplatä, respectlv ora
+12 ： 55 CET, OPEED transmite participantilor piatä comunicarea privind intårzierea publicärii rezultatelor cuplärii
+prin mesajul YC_ 一 02 ． Pub/icarea 厂 u / / 0 厂 cup/årii piege/or 佬 / De/ay 忉 ä e 在 hg Resu/ts
+pub/icaffon.
+in cazul in care rezultatele procesului de cuplare nu sunt diponibile patticipantilor pånä ora 13 ： 05
+6 · 9 ． 19 ．
+CET, OPEED transmite participantilor piatä incä 0 comunicare privind intårzierea publicärii rezultatelor cuplärii
+prin mesajul UMM 0 a ． De/ay fina/ b e Coup/ing Resu/ts pu 力 bn / In ／ a pu 化 占 厂 ezu / / 0 厂
+fina/e a/e procesu/ui de cup/are.
+in cazul in care rezultatele preliminare ale procesului de cuplare nu sunt diponibile pä#ilor din procesul
+6 ． 9 ， 20 ．
+de cuplare SDAC pånä la ora 13 ： 50 CET, OPEED transmite participanVilor la piatä comunicarea privind apariWa
+riscului de decuplare }i necesitatea actualizärii Ofe 戊 00r pentru licitatia explicitä umbrä. Comunicarea de risc de
+decuplare totalä se transmite participanVilor la piagä ora 13 ： 50 CET prin mesajul 下 C 03 ： / h 疒 刀 e 化
+s 忉 旧 冂 饷 a procesu/ui de cup/are a p 亿 疒 / F e 疒 ／ 饷 e ä Coup/ing sesyon.
+in cazul in care problema nu poate 到 rezolvatä, Com№山1 de incldente decide decuplarea totalä a
+6 ． 9 ． 21.
+pietelor nu mai tårziu de ora 14 ： 20 CET. OPEED transmite intårziere comunicarea participantilor piatä. Se
+redeschide registrul 0 化 rt 引 or in vederea reofertärii luånd in considerare functionarea decuplatä, cåt de curånd
+dupä ora 14 ： 20 CET dar nu mai tårziu de ora 14 ： 30 CET, pentru 0 perioadä de 15 de minute dupä momentul
+publicärii rezultatelor licitatiei umbrä pentru alocarea capacitäWlor de interconexiune, in vederea actualizärii
+ofertelor pe PZU in conditiile prevederilor prezentei proceduri. Comunicarea de decuplare totalä in timpul
+procesului de cuplare se transmite participantilor prin mesajul ExC_04b. Decup/are / 犭 / Fu// Decouphng.
+ln cazul decuplärii totale cumscutä in timpul procesului de cuplare, OPCOM ruleazä izolat sesiunea de
+6 ． 9 ． 22 ，
+tranza#ionare. OPEED genereazä 9i pune dispozi!ia participan!ilor Confirmärile de tranzactii de indatä ce
+rezultatele procesului c 引 de tranzactionare sunt disponibile.
+ln situaVia in care a fO 蚊 transmisä comunicarea 下 义 C 03 心 ： 忉 / é 化 sup n 冂 疒 犭 a procesu/ui de
+6 ． 9 ． 23 ，
+cup/ate a p 亿 厂 / fi e de/ay 0 了 e ä e 亡 CO Session dar problema apärutä se solutioneazä "rocesul
+de cuplare se continuä, termenul limitä de transmitere a Notificärilor de program va fi 15 ： 00 CET.
+6 ． 9@24 ． ln situawatncarea fost transmisä comunicarea EXC 04 心 Decup/aret0ta/ä/Fu//Decoup/ing, termenul'
+limitä de transmitere a NOt 而 删 or de program va fi 15 ： 30 CET.
+=== PDF PAGE 31 ===
+PROCEDU RÄ OPERATIONALÅ
+PRIVIN D FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICA
+OPCOm
+Cod ：
+Pag. 31 ／ 41
+Rev. 7
+0 DecupIarea partialä timpurie
+6 ． 9 ． 25 ． Decuplarea pa#ialä timpurie se aplica ca urmare a menCinerii unei/unor probleme apärute ln sesiunea
+anterioarä de cuplare a pietelor care au condus decuplare tn ziua anterioarä zilei curente 5i care nu pot fi
+soluwonate pånä la termenu/ 仂 decup/are pa 硭 / 犭 们 e, respectiv ora 10 ： 30 CET.
+ln cazul in ca re continuä sä existe 0 problemä in func!ionarea regiunii cuplate care a condus la decuplare
+6 ， 9 ． 26 ．
+ziua anterioarä zilei curente $i aceasta nu este rezolvatä pånä ora 10 ： 00 CET, OPEED transmite 麾 麾
+intårziere participantilor la pia!ä comunicarea privind aparitia riscului de decuplare partialå. Comunicarea cuprinde
+detalii privind zonele/OPEED-urile si interconexiunile/profilele aferente afectate care se decupleazä in scopul
+informärii participan!ilor asupra noului context 引 pietei si se transmite participantilor la piaCä ora 10 ： 00 CET,
+prin mesajul ExC_03a: Risc de Decup/are partia/å / Risk OfPartia/ Decouphng.
+6 ． 9 ． 27 ． in cazul in care problema nu poate fi rezolvatä, se ia decizia decuplärii timpurii partiale a zonei de
+ofertare/OPEED-ului #i a interconexiunilor/profilelor aferente afectate nu mai tårziu de 10 ： 30 CET OPEED
+transmite 亳 intårziere comunicarea participan'ilor la piatä. Comunicarea de decuplare partialä timpurie se
+transmite prin mesajul EXC 05a ： Decup/arepaØa/ä CUf70SCutä 加 引 ／ a / Partia/ Decoup/ing 0 冂
+in advance.
+6 ． 9 ． 2 & in cazul decuplärii partiale timpurii, tranza#ionarea energiei electrice se realizeazä local, ora de
+inchidere a ofertärii fiind 12 ： 00 CET, ca pentru functionarea cuplatä in regim normal. Termenul de transmitere
+a Notificärilor de program rämåne ora 14 ： 30 CET Pe interconexiunile decuplate 些 巾 引 se vor organiza licitaCii
+explicite umbrä.
+D) Decuplarea pa#ialä din motive de CZC
+6 ． 9 ． 29 ， Decuplarea partialä din motive de CZC (decuplare in categoria decuplärii cunoscutä in timpul sesiunii
+de tranza#ionare curentä) se aplicä ca urmare a imposibilitä!ii furnizärii CZC pe una sau mai multe interconexiuni
+din cadrul cooperärii CORE FB 卜 IC sau pentru granita RO-BG pånä termenu/ / / decup/are pa / din
+m00 衫 e CZC, respectiv ora 11 ： 30 CET.
+in cazul decuplärii partiale din motive de CZC este posibilä considerarea valorii zero pentru
+& 9 ． 30 ．
+interconexiunile lipsä sau care sunt afectate de problema apärutä, astfel cä procesul de cuplare continuä a
+fi, practic, afectat. Din acest motiv, din perspectiva SDAC, aceastä situatie de decuplare par!ialä nu este
+consideratä 0 decuplare in Sine.
+in cazul decuplärii partiale din motive de CZC poarta de ofertare se inchide tOt la ora 12 ： 00 CET, ca
+6 ． 9 ． 31 ，
+in regim normal de func!ionare cuplatä.
+6 ． 9 · 32 ． in cazul in care apare 0 problemä carear conduce decuplarea par!ialä din motive de CZC una sau
+mai multe interconexiuni, OPEED transmite 佬 intårziere participantilor la piagä comunicarea privind aparitia
+riscului de decuplare partialä din motive de CZC. Comunicarea cuprinde detalii privind interconexiunile care se
+decupleazä (prin considerarea capacitåtilor 祀 ℃ ） in scopul informärii participanCilor asupra noului context al pietei
+5i se transmite participanCilor la piagä la ora 11 ： 15 CET, prin mesajul UM, 一 02 ： Riscde decup/are a pe
+una sau mai mu/te on “ / / 人 々 0 了 Partia/ Decoup/ing 厂 one 0 疒 仞 0 把 om 旧 d00 ，
+in cazul in care problema nu poate fi rezolvatå, se ia decizia decuplärii prin considerarea capacltätii
+6 ． 9 ． 33 ．
+祀 ro pe interconexiunile/profilele afectate nu mai tårziu de 11 ： 30 CET. OPEED transmite intårziere
+comunicarea participantilor la piatä. Comunicarea de decuplare par!ialä din motive de CZC se transmite
+participantilor prin mesajul U, 03 ： lJna sau mai mu/te / 冂 厂 CO / 旧 ZJ 冂 / se decup/eazä / 0 e 0 ／ ． 0
+/ 冂 0 冂 “ ectO decoup/ed.
+& 9 ． 34 、 in cazul decuplärii partiale din motive de CZC pe interconexiunile decuplate par!ial se vor orgåniza
+licita!ii explicite umbrä pentru alocarea de capacitate de transport.
+=== PDF PAGE 32 ===
+PROCEDURA OPERATIONALA
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 32 ／ 41
+DE ENERGIE ELECTRICA
+OPCOm
+Rev. 7
+ln cazul decuplärii par!iale din motive de CZC termenul de transmitere a Notificärilor de program rämäne
+6 ． 9 ． 35 ．
+ora 14 ： 30 CET, ca in regim no 「 m 引 de functionare.
+E) Decuplarea partialä din alte motive decåt lipsä de CZC
+6 ． 9 ， 3 & Decuplarea pattialä din alte motive decåt № de CZC (decuplare in categoria decuplärii cunoscutå in
+timpul sesiunii de tranzac!ionare curentä) se a 帥 峦 ca urmare a disfun#ionalitätii sistemelor locale ale unuia sau
+mai multor OPEED-uri sau in cazul in care CZC nu pot fi furnizate ca date de intrare in algoritmul de cuplare de
+niciunul din OPEED-urile responsabile pentru interconexiunile respective. Decuplarea partialä din motive 佬 麾
+legäturä cu CZC se poate decide pånä termenu/ / 咖 / decup/are partia/ä din motive 硭 nu au / eg 忉 焙 cu
+CZC, respectiv 0 13 ： 00 CET.
+in cazul decuplärii partlale din alte motive decåt lipsä de CZC necesitä eliminarea zonei de
+6 ． 9 ． 37 ．
+Ofertare/OPEED-ului afectat, precum 引 a interconexiunilor conexe afectate direct din algoritmul de cuplare.
+6 ． 9 ． 3 & ln cazul decuplärii partiale din motive 佬 g 溆 u 虍 cu CZC poarta de ofertare redeschide pentru 15
+minute pentru zonele rämase in cuplare pentru a permite adaptarea Ofertelor participantilor 恰 noul context de
+piatä, dacä este cazul.
+ln cazul in care apare 0 problemä care ar conduce 恺 decuplarea partialä din motive 佬 麾 厄 g u 虍 cu
+6 ． 9 ． 39 ．
+CZC, OPEED transmite 佬 虍 intårziere participanVilor la pia!ä comunicarea privind aparitia riscului de decuplare
+par!ialä din alte motive decåt № de CZC. Comunicarea cuprinde detalii privind zonelej ℃ PEED-urile
+interconexiunile/profilele aferente care se decupleazä in scopul informärii participantilor asupra noului context 引
+pietei ， se transmite participanVilor piatä la ora 12 ： 35 CET, prin mesajul EXC 03 泓 RiscdeDecup/arepartia/ä
+/ Risk 0 了 Partia/ Decoup/ing
+6 ． 9 0 ． in cazul in problema nu poate fi rezolvatä, se ia decizia decuplärii zonei de Ofertare/OPEED-u11 」 i afectat
+precum a interconexiunilor/profilelor conexe afectate direct prin eliminarea acestora din algoritmul de cuplare
+nu mai tårziu de 13 ： 00 CET. OPEED transmite 佬 亳 intårziere comunicarea partlcipan!ilor piatä. Comunicarea
+de decuplare pattialä din motive legäturä cu CZC se transmite participan!ilor prin mesajul EXC 04a
+D up 妇 化 partia/ä 一 Redeschiderea registru/ui 0 硭 e / 0 厂 / Partia/ Decoup/ing 一 Reopening e order 力 00 々 s.
+in cazul decuplärii partiale din motive färä legäturå cu CZC, pe interconexiunile decuplate pa#ial se vor
+&9@41 ．
+organiza licitatii explicite umbrä.
+6 ． 9 ． 42 ． in cazul in care finalizarea procesului de cuplare intårzie se aplicä prevederile men!ionate sec!iunea
+Decuplarea totalä declaratä in timpul procesului de cuplare corespunzätoare termenelor atinse.
+6 以 0 ， STABILIREA CANTITÄTILOR A PRETULUI DIN TRANZACTIONARE
+A) Algoritmul utilizat
+6 ． 10 过 ． Pentru tranzactionarea pe pi$a pentru ziua urmätoare, atåt in regim cuplat, cåt ， in regim decuplat,
+se foloseste 引 go 「 i № -ILI 《 Euphemia pentru cuplarea prin pret a regiunilor in vederea creärii pietei interne europene
+de energie electricä, care urmäre$te maximizarea bunästärii SOCiale la nivelul pietelor cuplate, 5i anume a SUmel
+dintre surplusul vånzätorului (diferenta dintre valoare volumului tranzactionat valoare ofertei aferentä volumului
+tranza#ionat), surplusul cumpärätorului (diferenta dintre valoare ofertei aferentä volumului tranzactionat 9i
+valoarea VOlumului tranzactlonat) 5i renta aferentä congestiilor pe liniile de interconexiune (fluxul pe
+interconexiune inmultit cu diferenga pre!urilor zonelor de ofertare care incadreazä interconexiunea).
+6 ． 10 ． 2 ． Tranzactionarea se desfäsoarä zilnic conform regulilor agreate nivelul zonei europene cuplate, SDAC,
+precum 9i a regulilor agreate in cadrul proiectelor de cooperare CORE FB MC, respectiv BG-RO 卜 IC ．
+=== PDF PAGE 33 ===
+Opco 《
+PROCEDURA OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE
+DE ENERGIE ELECTRICÄ
+Cod ：
+Pag. 33 / 41
+Rev. 7
+B) Reguli specifice privind stabilirea pretului
+6 ， 10 ， 3 ． in cazul fun#ionärii cuplate a piegelor, pretul este stabilitin Euro cu 2 (douä) zecimale de cätre 引 go 「 i № 《
+de cuplare. Pretul este convertit tn RON folosind acelasi curs valutar utilizat pentru conversia ofertelor din zona
+na!ionalä de 改 酊 e la crearea registrului ofettelor. Pretul astfel obVinut 5i rotunjit la 2 (douä) zecimale reprezintä
+pretul de incheiere a tranzactiilor in zona na!ionalä de ofertare.
+6 、 10@生 OPEED completeazä curbele ofertelor treaptä pentru fiecare 祀 《 ie in parte, astfel:
+司 Dacä cel mai mare pre! cerut prin ofertele de vånzare este mai mic decåt pretul maxim al scalei de
+pret pentru PZU, atunci se va adauga 0 pereche fictivä la vånzare CLI 0 cantitate egalä cu zero 5i un preg
+egal cu pretul maxim 引 scalei;
+b) Dacä cel mai mic pret cerut prin ofertele de cumpärare este mai mare decåt pretul minim al scalei de
+preg pentru PZU, atunci se va adauga 0 pereche fictivä la cumparare cu 0 cantitate egalä cu zero 5i un pret
+egal cu pretul minim al scalei.
+6 · 10 · 5 ， in cazul in care, tn urma aplicärii procedurii normale sau •n urma aplicärii procedurii de ultimä instantä,
+in situaVii deosebite caracterizate de lipsa cererii, lipsa ofettei sau neintersectarea curbel cererii cu cea a ofertei,
+PIP este declarat 0 valoare calculatä de algoritmul european Euphemia.
+6 ． 10 ． 6 ． ln cazul in care, in urma aplicärii procedurii de ultimä instantä, nu se poate determina PIP pentru zona
+de ofettare nationalä din motive referitoare la functionarea sistemelor informatice, OPEED informeazä imediat
+participantii la PZU, OTS 5i ANRE nu este posibilä inchiderea pietei, iar PIP este declarat la valoarea sa stabilitä
+sau declaratå, dupä caz, pentru intervalul de tranzactionare respectlv 引 zilei anterioare, care este ziua bancarä
+anterioarä, dacä incidentul are efect asupra unei zile bancare, sau ziua nebancarä anterioarä, dacä incidentul are
+efect asupra unei zile nebancare.
+0 Principii privind executarea ofertelor 9i stabilirea cantitä!ilor tranzactionate
+6 ． 10 ， 7 ， Ofertele treaptä de vånzare pr$ mai miC 9i ofertele treaptä de cumpärare pre! mai mare decåt PIP
+sunt executate in intregime.
+6 · 10 ． & Ofettele treaptä de vånzare la preg mai mare 9i ofertele treaptä de cumpärare la pret mai mic decåt PIP
+Sunt respinse.
+6 ． 10 ． 9 ． Ofertele treaptä potsä nu fie executate sau sä fie executate partial sau total pentru cantitåtile oferite la
+vånzare/cumpärare la pre!uri egale cu PIP.
+6 ． 10 ． 10 ． CondiCia de executare a unei oferte b 《 OC ： pentru oferta bloc de vånzare, aceasta este acceptatä dacä
+preCul mediu per MWh tranzactionat in cadrul blocului este cel putin egal cu pretul de Ofe 戊 犭 blocului, iar pentru
+oferta bloc de cumpärare, pretul mediu per MWh tranzac!ionat in cadrul blocull 」 i este cel mult egal cu pretul de
+ofertä al blocului.
+6 ． 10 ． 11. in principiu, 0 ofertä bloc independentä este executatä dacä se indeplin#te conditia de executare a
+ofertei bloc.
+6 ． 10 ． 12 ， SituaCiile posibile de executare sau neexecutare a ofertelor bloc sunt urmätoarele:
+a) oofertä bloc independentä nu este executatä dacä nu se indeplineste conditia ofertei bloc;
+b) 0 bloc independentä poate sä nu fie executatä chiar dacä se indeplineste conditia ofertei bloc.
+Aceste oferte se resping prin rularea algoritmului de cuplare se numesc oferte bloc respinse in 、 mod
+paradoxal.
+0 0 ofertä bloc interdependentä care este ofertä bloc „parinte" (ofertä a cärei acceptare face
+prin indeplinirea conditiei de executare a ofettei bloc, independent de alte 0 「 e 戊 e ） poate fi executatä chiar
+=== PDF PAGE 34 ===
+Cod ：
+PROCEDURÄ OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 34 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+OPCOm
+dacä nu se indepline#te condiCia ofertei bloc in situatia in care oferta bloc „copil" （ 0f 曰 t 芑 a cärei acceptare
+este conditionatä suplimentar de acceptarea altei oferte bloc, numitä Ofe 戊 bloc „pärinte") a sa
+completeazä pre!ul mediu per MW tranzactionat in cadrul blocului astfel incat, per total, se respecte
+conditia de executare a ofertei blOC „pärinte"
+6 ． 10 ． 13 · Ofertele treaptä 恰 granularitate mai mare decåt granularitatea minimä a zonei de ofertare sunt tratate
+in cadrul algoritmului in vederea integrärii similar ofertelor bloc, astfel cä pot exista situatii de respingere
+paradoxalä a acestora.
+6 以 1. CONFIRMAREA TRANZACTIILOR
+A) Emiterea confirmärilor tranzactiilor
+6 ， 11 ． 1 ． Tranzactiile pe PZU se incheie in fiecare zi de tranzactionare 5i reprezintå angajamente ferme ale
+participanWlor la PZU.
+& 11.2. Fiecare tranzactie corespunde unui interval de tranzactionare aferent rezolutiei din zona Romånia （ 15
+minute) exprimat in ore CET aferent zilei de livrare pentru care S-a incheiat tranzactia.
+& 1L3 ． La ora 12 ： 55 CE 「 tn regim norm de fun#ionare cuplatä, rezultatele procesului de cuplare validate de
+cätre toate OPEED-uri din perspectiva alocärii pe portofolii sunt transmise OTS in vederea validärii fluxurilor
+transfrontaliere in raport cu capacitäVile declarate. in urma acestei validäri rezultatele procesului de cuplare
+reprenntä rezultatele finale ale procesull 」 i de cuplare ， OPEED pune la dispozitia participantilor, nu mai devreme
+de ora 13 ： 05 CET a zilei de tranzac!ionare, confirmärile de tranzactie, separat pentru fiecare interval de
+tranzactionare, exprimat ln ore CET si pentru fiecare zi de livrare, in ore CET
+6 ． 11. 生 ln regim de func!ionare normalä, confirmärile de tranzac!ii sunt generate in mod automat de sistemul de
+tranza#ionare 引 PZU de indatä ce se inchide poarta de matching 引 se deschide poarta pentru publicarea
+rezultatelor tranzac!iilor (punerea dispozitia participantilor a confirmärilor de tranzactii). ln cazul intårzierii
+rezultatelor cuplärii, confirmärile de tranza#ii sunt puse dispontia participanVilor piagä de indatä ce procesul
+de tranzactionare S-a incheiat.
+6 ， 1L5 ．
+Confirmärile de tranzac!ii puse la dispozitia participantilor vor contine urmätoarele informatii:
+Ziua de livrare;
+Tipul de ofertå: Ofe 戊 treaptä (SQB, SHHB, SHB) sau ofe 芑 bloc (BLB15, BLB30, BLB60);
+Sensul ofertei: vånzare sau cumparare;
+lntervalul de tranzac!ionare, respectiv intervalul de definiWe a blocului in ore CET pentru care S-a incheiat
+tranza#ia;
+RezOlutia de timp;
+Codul de identificare 引 tranza#iei;
+Versiunea 0 爬 戊 ei care a intrat in tranzactie;
+Detaliile ofertei ： perechile pret-cantitate;
+Cantitatea tranzactionatä PIP.
+=== PDF PAGE 35 ===
+OPCOm
+PROCEDURÄ OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICA
+Cod ：
+Pag. 35 ／ 41
+Rev 7
+B) lntårzierea generärii confirmärilor de tranzac$ii
+6 ． 1L6 ． in situatia aparitiei unor intårzieri ale procesului de cuplare 引 intårzierii publicårii rezultatelor cuplärii fa!ä
+de programul de publicare a acestora in regimul de functionare normalä, respectiv dacä rezultatele preliminare
+ale procesului de cuplare nu sunt validate de cätre OPEED-uri pånä la ora preväzutä regim normal de fun#ionare
+cuplatä, respectiv ora 12 ： 55 CET, OPEED transmite participantilor la pia!ä comunicarea privind intårzierea
+publicärii rezultatelor cuplärii prin mesajul E C_ 一 02 ： Pu. a zu / 0 厂 cup/äm piefelor 忉 / De/ay 历
+彐 et 仂 g 人 esu / / 虍 彐 bn ．
+6 ． 1L7 ． ln situatia apariCiei unor intårzieri ale procesului de cuplare si intårzierii publicärii rezultatelor cuplärii fatä
+de programul de publicare a acestora in regimul de fun#ionare normalä, publicarea rezultatelor cuplärii se va
+realiza de indatä ce acestea sunt validate de partile implicate in procesul de cuplare (OPEED-uri 5i OTS-uri), dar
+nu mai tärziu de termenul limitä de decuplare totalä.
+6 ， 11 8 ． in situatia decuplärii totale a pietelor, OPEED genereazä $i pune la dispozibia participantilor confirmärile
+de tranzac!ii de indatä ce rezultatele procesului intern de tranzac!ionare sunt disponibile.
+6 以 1.9 ． ln cazul situaCiilor in care patticipantii nu pot accesa confirmärile de tranzac!ii, OPEED va notifica
+participanVii 9i OTS asupra situatiei apärute, 姹 deschide canalele de comunicatie prin e-mail preväzute in
+Sectiunea 丿 2 ： SituaVi/e u e 5i va transmite confirmärile de tranzac'ii in cel mai scurt timp posibil.
+0 Contestatii la confirmärile de tranzactii
+6 ． 11 ． 10 ． Participantii la PZU au la dispoziCie 20 de minute de momentul punerii dispozitie/transmiterii prin
+canale alternative a confirmärilor de tranzactii pentru a transmite contestatii la confirmärile de tranzac!ii.
+6 ． 11 、 11. Dacä participantul nu transmite contestatii la confirmärile de tranza#ii in intervalul de timp prevåzut,
+tranzactiile se considerä acceptate.
+6 ． 1L1 艺 Contestatjile sunt inregistrate in sistemul de tranza#ionare al PZU prin interfata web in timp real.
+6 ． 1L13 ． Orice contestatie transmisä nu exonereazä Participantul la PZU in cauzä de indeplinirea obliga!ii 《 or
+rezultate din tranzactiile contestate.
+6 沮 2 ． SITUATIILE DE URGENTA
+6 ． 12 ． 1. Situatiile de urgen!ä privind fun#ionarea defectuoasä a sistemului de tranzactionare Si a c 0 「 de
+comunicatie proprii ale OPEED 5i ale participantilor la PZU se aplicä atunci cånd pe aceastä piatä apare cel putin
+una dintre urmätoarele situatii:
+a) atunci cånd din cauza nefunctionärii sau func!ionärii defectuoase a cäilor de cornunicatie proprii, unul
+sau mai multi participanti la PZU nu pot transmite ofertele de vånzare/cumpärare pe PZU cätre, sau
+recep!iona confirmärile de tranzactie de la OPEED;
+b) atunci cånd din cauza nefunc!ionärii sau functionårii defectuoase a r de comunica!ie proprii, OPEED
+nu poate receptiona ofertele transmise de participantii PZU sau nu poate transmite confirmärile de
+tranzactii cätre acestia 5i Notificärile de program cätre OTS.
+6 以 2 ， 2 ． Responsabilitätile care revin OPEED, OTS Si participantilor la Piaga pentru Ziua Urmätoare, privitor
+cazurile de urgentä mentionate sunt precizate in Tabelul urmätor:
+=== PDF PAGE 36 ===
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE
+opcom
+Nr.
+crt.
+1
+2
+3
+Caz
+6 ， 10 ． 1 ．
+DE ENERGIE ELECTRICA
+Actiune
+Deschiderea unui canal de comunicatie alternativ de acces internet
+NOtificarea OPEED prin e-mail asupra situatiei create Si transmiterea
+a)
+datelor atasate e-mail-ul de notificare si/sau receptionarea datelor
+prin 巳 m 削 de OPEED
+Deschiderea unui canal de comunicatie alternatiV de acces internet
+NOtificarea OTS 引 pafticipantilor la piatä, prin e-mail asupra situatiei
+create, transmiterea 5i/sau receptionarea datelor prin e-mail cätre/de
+OPEED
+Cod ：
+Pag. 36 / 41
+Rev. 7
+Responsabil
+Participantii
+la PZU 引
+OTS
+OPEED
+6 ． 13 · COMUNICAREA OPEED iN CADRUL PROCESULUI DE CUPLARE
+6 ． 13 ， 1. OPEED realizeazä comunicarea cu partenerii implicaVi in procesul de cuplare respectånd intocmai
+prevederile procedurilor operawonale agreate la nivelul SDAC, precum $i 引 proiectelor CORE FB MC 引 BG-RO MC.
+6 ． 13 ． 2 ， Participantii la PZU vor fi informati in cel mai scurt timp posibil despre orice eveniment ce are legäturä
+CLI procesul de tranza#ionare la care acestia iau parte, prin intermediul platformei de tranzac!lonare, P09tei
+electronice, in fun#ie de situatie.
+6 ， 133 ． OPEED asigurä permanentä comunicarea cu patticipangii la PZU prin comunicärile operationale al cärui
+conWnut este agreat 恰 nivelul proiectelor CORE FB MC #i BG-RO MC in scopul asigurärii informärii in egalä mäsurä
+simultane a tuturor participantllor la pi$ele cuplate 5i desfäsurärii eficiente a procesului de tranzactionare.
+6 ． 13 ． 生 Mesajele operationale agreate in procesul de cuplare la nivelul SDAC, la nivelul proiectelor de cooperare
+CORE FB MC si BG-RO MC, precum 引 mesajele adaptate c 引 destinate comunicärii cu participan!ii la PZU sunt
+prezentate in documentul és ope “ 00 / 旧 / disponibil pe website-ul OPCOM in meniul Tranzacfionare 一 Produse
+/ P pe “ 刀 u 疒 m 与 忆 a / 忉 疒 eg / S 伊 a 虍 ／ 冂 / e ／ 0 0 du “
+=== PDF PAGE 37 ===
+OPCOm
+PROCEDURA OPERATIONALA
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICÄ
+Cod ：
+Pag. 37 ／ 41
+Rev. 7
+7 · ANEXE
+ANEXA 1 一 TIPURI DE OFERTE DISPONIBILE iN SISTEMUL LOCAL DE TRANZACTIONARE
+艺
+3 生
+ln sistemul de tranzacyonare 引 PZU pot fi introduse oferte bloc independente 9i oferte bloc interdependente.
+Ofertele b 《 pot fi introduse separat sau impreunä cu ofertele treaptä pe toate rezolutiile de timp: 15
+minute, 30 minute 5i 60 minute.
+Caracteristicile ofettelor bloc implementate in sistemul de tranzac$ionare sunt:
+2.1.
+2.2.
+4 ·
+a)
+b)
+艺 5 ．
+Tipul 丆 0 / sau 庳 咖 / G respectl\/ ofertele bloc pot fi acceptate in integralitatea lor sau dacå nu,
+respinse integral;
+Perioada de definitie a blocului este formatä din minim 2 intervale de tranza#ionare;
+Perioada de defini!ie a blocului este formatä din intervale de tranzactionare pe rezolu'ia declaratå,
+consecutive,
+Pretul de definitie a blocului este pretul de ofertä unitar pentru energie, respectiv:
+Pretul minim acceptat per MWh pentru toatä energia t 犭 in cadrul unui bloc de vånzare;
+Pretul maxim oferit per MWh pentru toatä energia ofertatä in cadrul unui bloc de cumpärare.
+Cantitatea de definitie a blocului ca putere medie pe interval de tranza#ionare (MW) este aceeasi
+pentru toate intervalele de tranza#ionare din perioada de definiCie a blocului.
+Caracteristicile ofertelor bloc interdependente.
+3 ． 1. Oferta bloc tip „copil" este 0 ofertä bloc a cärei acceptare depinde de acceptarea unei alte oferte
+bloc, numitå 酊 e bloc „pärinte"•
+3 。 2 ． Algoritmul Euphemia permite executarea unei familii de oferte bloc pentru care, ln cazul ofertelor
+bloc de vånzare, valoarea totalä a blocului „pärinte", calculatä la PIP, este mai micä decåt valoarea
+de 0 「 e 犭 ， respectiv in cazul ofertelor bloc de cumpärare, este mai mare decåt valoarea de ofertä,
+cu conditia ca valoarea 改 e 《 „copil" compenseze, ln termeni de bunästare, aceastä diferentä;
+Limite corespunzätoare ofertelor bloc.
+4 ． 1 ．
+4 ． 艺
+4 ． 4 ．
+4 · 5 ·
+4 五
+Cantitatea (putere medie pe interval de tranza#ionare) minimä de definitie a blocului este de 0 ， 1
+Cantitatea (putere medie pe inten:al de tranza#ionare) maximä de definitie pentru ofertele bloc
+este de 400 MW, aceasta valoare putånd fi ajustatä pentru a mentine in limite acceptabile
+performantele algoritmull 」 i de cuplare a PZU, pe baza procedurii comune a tuturor OPEED elaboratä
+in contextul implementärii Regulamentului (UE) 2015 / 1222 ；
+Numärul maxim de oferte bloc este 100 per participant, din care numärul maxim tO 怡 《 al ofertelor
+bloc interdependente (aflate, de exemplu, in legäturä de tip pärinte-copil) este 15 ． Aceste limite
+pot fi ajustate pentru mentinerea in limite acceptabile a performantelor algoritmului de cuplare a
+PZU, pe baza procedurii comune a tuturor OPEED elaboratä in contextul implementårii
+Regulamentului (UE) 2015 / 1222 ；
+0 爬 a bl „pärinte" poate avea numai 0 ofertä bloc „copil";
+0 「 e 改 a b 《 OC „copil" poate avea numai 0 ofertä bloc „pärinte",
+0 familie de ofette b 《 poate avea maxim trei generaCii de oferte bloc interdependente, respectiv
+maxim 3 oferte bloc interdependente.
+Pretul maxim 引 scalei de pret aferent energiei este + 4 ℃ 00 Euro/MWh, iar pretul minim 引 scalei 、 de pret
+este ． 500 Euro/MWh; aceste 姹 《 ori pot fi modificate ln urma acordului tuturor burselorde energie electricä
+Si al autoritätilor de reglementare/prin decizie ACER.
+=== PDF PAGE 38 ===
+PROCEDURÄ OPERATIONALÄ
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE
+DE ENERGIE ELECTRICÄ
+COd ：
+Pag. 38 ／ 41
+Rev. 7
+opcom
+ANEXA 2 一 SUCCESIUNEA CRONOLOGICÄ A REPERELOR ORARE
+UMM 01a
+ExC 03b
+ExC 04b
+Succesiunea cronologicä a a#iunilor normale 5i termenelor limitä de transmitere a comunicårilor in platformä 5i /
+sau prin e-mail
+Ora [CET]
+10 ： 00
+10 ： 30
+10 ： 30
+11 ： 15
+11 ： 30
+12 ： 00
+12 ： 35
+12 ： 55
+13 ℃ 5
+《 1 00
+13 ： 05
+13 ： 50
+1 生 20
+COd mesaj
+ExC_03b
+ExC_05a
+UMM_02
+LJ 卜 IM 一 03
+ExC_03a
+C 一 02
+ExC_04a
+Subiect mesaj
+RiSC de Decuplare Timpurie
+Decuplare Timpurie
+Publicarea valorilOr CZC
+Risc de decuplare 些 巾 ala pe una sau mai multe
+interconexiuni
+Una sau mai multe interconexiuni se decupleazä
+Ora de inchidere a por!ii de ofettare (inchiderea
+Registrului ofertelor)
+Risc de Decuplare partialä
+intårziere in publicarea rezultatelor cuplärii pietei (*nu se
+trimite dacä S-a u transmis deja ExC 01 sau ExC 04a ）
+Termen pentru transmiterea rezultatelor cuplärii in regim
+de functionare normalä
+Decuplare pattialä Redeschiderea Registrului ofertelor
+lntårziere a publicärii rezultatelor finale ale cuplårii Pletei
+intårziere suplimentarä a procesului de cuplare a pie 忙 《 0 「
+一 RiSC de decuplare tOtalä
+Decuplare Totalä
+=== PDF PAGE 39 ===
+PROCEDURA OPERATIONALA
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMÄTOARE Pag. 39 / 41
+DE ENERGIE ELECTRICA
+Rev. 7
+ANEXA 3 一 DREPTURI RESPONSABILITATI iN TRANSMITEREA VALIDAREA OFERTELOR PE PZU
+1 ， Participantul la PZU are urmätoarele drepturi
+1.1. Sä transmitä oferte de vånzare si/sau oferte de cumpärare de energie electricä pe PZU;
+1 ． 2 、 Sä declare volume limitä aplicabile ofertelor proprii (separat pentru vånzare 9i cumpärare) 9i sä modifice
+acest volum numai cu notificarea scrisä prealabilä transmisä OPEED;
+1.3. Sä modifice sau anuleze oferta proprie de energie electricä 9i transmitä oferta modificatå in timpul
+orelor de transmitere a 0 「 e e | or pe PZU conform prevederilor Procedurii;
+1.4. ln cazul in care nu poate accesa sistemul de tranzactionare 引 PZU, transmitä Oferta proprie de energie
+in format .xml prin e-mail sä solicite OPEED incärcarea acesteia 旧 numele säu in sistemul de tranzactionare 引
+PZU, respectånd prevederile prezentei proceduri;
+1.5. ln cazul in care nu poate accesa sistemul de tranzactionare 引 PZU, solicite OPEED anularea ofertelorin
+numele lui, respectånd prevederile prezentei proceduri;
+1.6. Sä fie informat prin mesajele afisate de sistemul informatic 引 PZU asupra validärii sau invalidärii ofertelor
+sale;
+1.7. Sä fie informat de OPEED asupra oricärei modlficäri a orei limitä de inregistrare a ofertelor pentru ziua de
+livrare urmätoare, s 由 b 山 凿 la ora 12 ： 00 CET in cazul fun#ionärii cuplate in conditii normale;
+1 ． 8 ． Sä primescä notificäri prin sistemul de tranzactionare prin care sä fie informat CLI privire intårzierea
+generärii confirmärilor de tranzactii 9i punerea acestora la dispozitia participantilor;
+1.9. Sä acceseze confirmärile de tranzac!ii pentru fiecare zi de livrare raportatä la ore CET prin intermediul
+sistemului de tranzac!ionare 引 PZU;
+L10 ． Sä solicite OPEED transmiterea confirmärilor de tranza#ii prin canale alternative in situa!ia in care
+participantul nu poate accesa sistemul de tranza#ionare;
+1 ． 11 ． in cazul participärii agregate, agregatorul este participantul care tranzactioneazä energia electricä 5i cäruia
+ii revin integral toate drepturlle preväzute in CO ／ 彬 en de a 匚 a 厂 e /a Piete/e pe 丆 ärn 胃 Scurt de Energie
+虍 与 俨 归 pentru Urmåtoare P 扫 亇 a 刀 七 / precum si le preväzute in reglementäri nationale
+$i/sau ale Uniunii Europene corespunzätoare participärii la piaga de energie electricä.
+L12 ． Sä acceseze Notele de decontare zilnice ()n ore CE 「 ） 引 solicite OPEED transmiterea acestora prin canale
+alternative de comunicatie (e-mail) in situatia in care nu poate accesa Sistemul de tranzactionare 引 PZU.
+L13 ． Sä incaseze contravaloarea drepturilor nete de incasare, preväzute ln Notele de decontare zilnice >i
+documenteze, lunar, incasarea drepturilor #i plata Ob 《 ig ii 《 0 鸟 de regularizare, in valoare egalä, reciproce.
+1 ． 14 · Sä transmitä facturile lunare in sistemul national priVlncl factura electronicä RO e-factura pentru tranza#iile
+de vånzare a energiei electrice cätre OPEED, tn CLffSUl lunii de livrare, respectiv pentru “ p 疒 es 扫 化 de se 七 “
+pentru achizitia de la OPEED de energie electricä, in ore CET, din luna de liv la preguri negative.
+2 ． Partic.1pantul 恰 PZU are urmätoarele responsabilitäti
+2.1. Sä respecte prevederile prezentei Proceduri privind conditiile 5i modul de inscriere a ofertelör de energie
+electricä in sistemul de tranzactionare al PZU;
+22 ， Sä respecte formatul 5i continutul cadru al ofertelor de energie pentru PZU conform prevederilor prezentei
+Proceduri;
+=== PDF PAGE 40 ===
+PROCEDURA OPERATIONALA
+Cod ：
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA U RMATOARE Pag. 40 / 41
+DE ENERGIE ELECTRICA
+opcom
+Rev. 7
+2 ． 3 ． Sä transmitä 0 e 厄 de energie pentru PZU dO 酊 in intervalele de inregistrare a Ofe 改 国 or precizate la
+capitolul 63 · Sec!iunea D);
+2 ． 4 、 Sä verifice corectitudinea datelor de ofertä din fi;ierul tip .xml tnainte de transmiterea acestuia OPEED
+in vederea inregisträrii ofertei in sistemul de tranza#ionare de cätre OPEED in numele participantului PZU,
+Sä nu oferteze pentru intervalul 23 ： 00 一 24 ： 00 (indiferent de granularitate) 引 unei zile de livrare dacä pe
+acest interval nu mai indeplineste conditiile privind asumarea responsabilitätii echilibrärii;
+2 ． 6 ， Så verifice dacå oferta transmisä pentru PZU a fost incärcatå in sistemul de tranzactionare;
+Sä verifice corectitudinea datelor inregistrate in sistemul de tranzactionare 引 PZU din punct de vedere 引
+cantitätilor 5i precurilor imediat dupä introducerea ofertei;
+2 ． & Sä verifice dacä oferta transmisä pentru PZU a fost validatä,
+Sä refacä oferta pentru PZU 5i 0 retransmitä sistemului de tranzactionare dacä aceasta nu a fost
+validatä;
+2 ． 10 ． Sä contacteze imediat OPEED dacä nu primeste 0 notificare de acesta despre validarea sau invalidarea
+ofertei in termen de 15 minute de la transmiterea OfiCla 己 ofertei (momentul inscrierii ofertei in sistemul de
+tranzactionare);
+2 ， 11. Så anunte OPEED despre apariCia unei situatii in care nu pot accesa confirmärile de tranzactii;
+2 ． 12 、 Sä asigure disponibilitätile financiare necesare debitärii contului säu, deschis la Banca de decontare, la
+valoarea netä a ObligaWilor de platä preväzutä prin Notele de decontare zilnice;
+Sä verifice periodic inregisträrile din fi5ierul LiSta de inregisträri privind ac!iunile semnificative desfäsurate
+2 ． 13 ．
+pe PZU, fi$ier accesibil in sistemul de tranzactionare,
+乙 14 ． Sä anunte telefonic in mod operativ OPEED asupra problemelor de conectare la aplicatia informaticä
+aferentä PZU 5i transmitä prin e-mail, timp util, oferta in format .xml in vederea incärcärii acesteia in
+sistemul de tranzac!ionare de cätre OPEED in numele säu;
+2 ． 15 ． Sä permanentä 肱 怡 actualizatä a persoanelor imputernicite in 「 a CLI OPCOM S.A. conform
+prevederilor Procedurii p 疒 / 叨 冂 d 历 化 g 亇 a a p 彐 驷 引 化 厂 /a piete/e 匚 e 冂 亡 / 饬 a de energie e/ectricå administrate
+de 0 CO S.A.,
+2 ． 16 ． ln cazul participärii agregate, agregatorul este participantul care tranzactioneazä energia electricä 轫
+cäruia ii revin integral toate obligaWile preväzute in 匚 bm ／ e / 岁 刁 parÜcipare /a e / pe Termen Scurtde E 冂 e
+匚 劈 俨 虐 彐 pentru 刀 Urmätoare P 扫 7 z ， precum $i cele preväzute in reglementäri nawonale
+9i/sau ale Uniunii Europene corespunzätoare partlcipärii la piata de energie electricä.
+3 ． OPEED are urmätoarele drepturi
+3 ． 1 ． Så invalideze 0 爬 戊 e 《 e de energie pentru PZU care nu corespund prevederilor prezentei Proceduri privind
+valabilitatea licentei, continutul, formatul 5i ora de transmitere a ofettei;
+Sä refuze incärcarea/anularea ofertelor in/din sistemul de tranzac!ionare la solicitarea Participantului,
+dacä acesta nu respectä prevederile prezentei Proceduri privind formatul ofertei 9i ale calitåtii de reprezentant
+preväzute prin Procedura p 刀 冂 d 化 g 彐 a p 才 七 引 7 0 厂 /a pie'e/e ce 冂 亇 彐 庞 de 曰 旧 / é e / 匚 匚
+adm 忉 / 宿 OPCO 玀 S.A.;
+3 ． 3 ． Sä invalideze ofetta zilnicä de cumpärare la pret pozitiv sau de vånzare la pret negativ cazul in care
+valoarea acesteia depä#5te valoarea garantei de validare/disponibile in conformitate cu ConvenØa de pa a
+/a e pe 丆 旧 冂 Scurt E 冂 e 虍 E 酗 厂 七 占 pentru Ziua Urmätoare P 1n 亡 旧 z 丿 Si cu Proceduca
+=== PDF PAGE 41 ===
+PROCEDURA OPERATIONALA
+Cod ：
+OPCOm
+PRIVIND FUNCTIONAREA PIETEI PENTRU ZIUA URMATOARE Pag. 41 / 41
+DE ENERGIE ELECTRICÄ
+Rev. 7
+p 疒 ／ 叻 冠 co 冂 s 材 / e 化 彐 utl/izarea garanPi/or 万 h 引 / 0 e pentru parbciparea 归 pentru 刀
+Urm oa 化 ；
+3 ． 生 Sä invalideze ofertele Participantului dacä acesta se aflä in situatia de a nu tndeplini conditiile pentru
+asumarea explicitä a responsabilitätii echilibrärii;
+3 5 ． Sä introducä ofertetn sistemul de tranzactionare al PZU, la solicitarea participantului #iin numele acestuia,
+doar in situatia in care participantul nu poate accesa sistemul de tranza#ionare al PZU•
+3 ． & Sä intårzie publicarea rezultatelor tranzactiilor in conditiile stabilite de prezenta procedurä;
+3 ． 7 ． Sä incaseze contravaloarea drepturilor nete de tncasare, preväzute in Notele de decontare zilnice prin
+transmiterea la banca cont central a instructiunilor de debitare directä aferente sä documenteze, lunar,
+incasarea drepturilor ， plata obligatiilor, de regularizare, in valoare egalä, reciproce;
+3 ． 8 、 Sä transmitä facturile lunare in sistemul national privind factura electronicä RO e-factura pentru
+tranzactiile de vånzare a energiei electrice cätre Participantul la PZU, ln cursul lunii de livrare, respectiv pentru
+“ p S 虍 de se 冂 ' pentru achizi'ia de energie electricä de Participantul PZU, in ore CE 「 ， din luna de
+livrare, la preturi negative;
+3 ． 9 ． Sä solicite executarea scrisorii de garantie bancarä in situatia in care participantul PZU nu a asigurat
+disponibilitätile financiare necesare debitärii contului säu deschis la banca de decontare 、
+4 。 OPEED are urmätoarele responsabilitäti
+4.1. Sä valideze/invalideze ofertele energie transmise de Pafticipantii la PZU conform prevederilor prezentei
+Proceduri;
+4 ． 2 ． Sä informeze participantul despre validarea sau invalidarea motivatä a unei oferte prin mesaje operative
+lansate de sistemul informatic al PZU;
+生 3 ． Sä punå la dispoziCia participantului confirmärile de tranzac!ie pentru fiecare zi de livrare 阉 po 凿 la ore
+Sä notifice participantul asupra intårzierii publicärii rezultatelor cuplärii fatä de programul de publicare a
+acestora;
+Sä transmitä prin canale alternative de comunicatie confirmärile de tranzac!ie participantului care a
+solicitat aceasta in conditiile preväzute de prezenta procedurä;
+Sä informeze participantul cu privire aparitia unei Situatii de decuplare, precizånd actiunile ce trebuie
+生 6 ．
+lntreprinse in aceastä specificä;
+生 7 ． Sä achite, integral, contravaloarea drepturilor nete de incasare preväzute in Notele de decontare zilnice
+prin ordinele de platä emise pentru creditarea contului bancar deschis de cäte Participantul la PZU la 0 bancä
+COmercialä din Romånia;
+生 8 ， Sä redeschidä registrul ofertelor in conditiile aparitiei unei situatii de decuplare conform sectiunii privind
+p 疒 0 du de u / 忉 ' 初 s 忉
+生 9 ． Sä punä dispozitia Participantilor la PZU prezenta Procedurä Si sä-i informeze asupra modificärilor
+efectuate ulterior in cadrul acestei Proceduri.

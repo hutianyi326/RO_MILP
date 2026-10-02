@@ -1,0 +1,17 @@
+{
+  "id": "S004",
+  "dataset": "D05-D07",
+  "url": "https://newmarkets.transelectrica.ro/",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "public DAMAS II landing",
+  "retrieved_utc": "2026-09-30T09:16:30.9419668Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=utf-8",
+  "raw_file": "data/raw/RO/samples/20260930/S004/original.html",
+  "bytes": 22997,
+  "sha256": "f4ec44906df614f97e18267c390971d3aad2099790c469215eb528101211b27b"
+}

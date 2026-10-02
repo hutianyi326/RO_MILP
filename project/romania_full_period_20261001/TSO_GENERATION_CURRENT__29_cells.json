@@ -1,0 +1,641 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      {
+        "column": 2,
+        "value": "Consum/Productie in data de",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": 46295.0,
+        "ctype": 3
+      }
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      {
+        "column": 1,
+        "value": "medii orare",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": "Consum",
+        "ctype": 1
+      },
+      {
+        "column": 3,
+        "value": "Productie",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": "Carbune",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "Hidrocarb.",
+        "ctype": 1
+      },
+      {
+        "column": 6,
+        "value": "Ape",
+        "ctype": 1
+      },
+      {
+        "column": 7,
+        "value": "Nucleara",
+        "ctype": 1
+      },
+      {
+        "column": 8,
+        "value": "Sold",
+        "ctype": 1
+      },
+      {
+        "column": 9,
+        "value": "Eoliana",
+        "ctype": 1
+      },
+      {
+        "column": 10,
+        "value": "Foto",
+        "ctype": 1
+      },
+      {
+        "column": 11,
+        "value": "Biocomb.",
+        "ctype": 1
+      },
+      {
+        "column": 12,
+        "value": "Stocare",
+        "ctype": 1
+      },
+      {
+        "column": 13,
+        "value": "frecventa",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      {
+        "column": 1,
+        "value": "01",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      {
+        "column": 1,
+        "value": "02",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      {
+        "column": 1,
+        "value": "03",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      {
+        "column": 1,
+        "value": "04",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      {
+        "column": 1,
+        "value": "05",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      {
+        "column": 1,
+        "value": "06",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      {
+        "column": 1,
+        "value": "07",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      {
+        "column": 1,
+        "value": "08",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      {
+        "column": 1,
+        "value": "09",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      {
+        "column": 1,
+        "value": "10",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      {
+        "column": 1,
+        "value": "11",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      {
+        "column": 1,
+        "value": "12",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      {
+        "column": 1,
+        "value": "13",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      {
+        "column": 1,
+        "value": "14",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      {
+        "column": 1,
+        "value": "15",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      {
+        "column": 1,
+        "value": "16",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      {
+        "column": 1,
+        "value": "17",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      {
+        "column": 1,
+        "value": "18",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      {
+        "column": 1,
+        "value": "19",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      {
+        "column": 1,
+        "value": "20",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      {
+        "column": 1,
+        "value": "21",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      {
+        "column": 1,
+        "value": "22",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      {
+        "column": 1,
+        "value": "23",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      {
+        "column": 1,
+        "value": "24",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 27,
+    "cells": []
+  },
+  {
+    "row": 28,
+    "cells": [
+      {
+        "column": 1,
+        "value": "00-24",
+        "ctype": 1
+      },
+      {
+        "column": 2,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 3,
+        "value": 0.0,
+        "ctype": 2
+      },
+      {
+        "column": 4,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 5,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 6,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 7,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 8,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 9,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 10,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 11,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 12,
+        "value": 7,
+        "ctype": 5
+      },
+      {
+        "column": 13,
+        "value": 7,
+        "ctype": 5
+      }
+    ]
+  }
+]

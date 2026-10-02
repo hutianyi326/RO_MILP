@@ -1,0 +1,37 @@
+[
+  {
+    "id": "DA_RON_2025-01-01",
+    "dataset": "D02-D14",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/01/01/2025/ro?resolution=60",
+    "title": "OPCOM native CSV Romanian RON price selected date",
+    "scope": "language route interpretation; verify currency header/body before any conversion rule"
+  },
+  {
+    "id": "DA_RON_2025-03-30",
+    "dataset": "D02-D14",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/30/03/2025/ro?resolution=60",
+    "title": "OPCOM native CSV Romanian RON price selected date",
+    "scope": "language route interpretation; verify currency header/body before any conversion rule"
+  },
+  {
+    "id": "DA_RON_2025-10-01",
+    "dataset": "D02-D14",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/01/10/2025/ro?resolution=15",
+    "title": "OPCOM native CSV Romanian RON price selected date",
+    "scope": "language route interpretation; verify currency header/body before any conversion rule"
+  },
+  {
+    "id": "DA_RON_2025-10-26",
+    "dataset": "D02-D14",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/26/10/2025/ro?resolution=15",
+    "title": "OPCOM native CSV Romanian RON price selected date",
+    "scope": "language route interpretation; verify currency header/body before any conversion rule"
+  },
+  {
+    "id": "DA_RON_2026-08-31",
+    "dataset": "D02-D14",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/31/08/2026/ro?resolution=15",
+    "title": "OPCOM native CSV Romanian RON price selected date",
+    "scope": "language route interpretation; verify currency header/body before any conversion rule"
+  }
+]

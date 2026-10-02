@@ -1,0 +1,21 @@
+{
+  "id": "IDCT_2025-02-11",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "02/11/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2025-02-11",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:10:12.631703+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "FileExistsError: [Errno 17] File exists: 'C:\\\\Users\\\\Tianyi\\\\OneDrive\\\\融和元储工作\\\\模型等其他参考资料\\\\Python\\\\Counry_Investigation\\\\data\\\\raw\\\\RO\\\\gap_closure\\\\20261001\\\\IDCT_2025-02-11__a1\\\\form_original.html'"
+}

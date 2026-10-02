@@ -1,0 +1,14 @@
+{
+  "id": "E05",
+  "url": "https://www.opcom.ro/tranzactii-produse/ro/364",
+  "title": "IDA procedures",
+  "resolved_url": null,
+  "retrieved_utc": "2026-09-30T07:44:22.5475025Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E05\\original.html",
+  "bytes": 52866,
+  "sha256": "087eb8d99a1c1d0925587ff349ae04dc65e35ada3166415748b08dfbb3f1f840",
+  "extracted_characters": 10927
+}

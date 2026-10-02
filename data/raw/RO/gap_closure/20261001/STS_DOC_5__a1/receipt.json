@@ -1,0 +1,20 @@
+{
+  "id": "STS_DOC_5",
+  "dataset": "D05-D06",
+  "url": "https://www.transelectrica.ro/documents/10179/19876173/decizia+ANRE++2338_2025.pdf/8a183fe0-7887-4ce2-be0f-3cd6617229b7",
+  "title": "Decizia ANRE nr. 2338 din 04 Noiembrie 2025",
+  "scope": "official capacity procedure/contract/history; no automatic current-to-historical applicability",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:29.468756+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/19876173/decizia+ANRE++2338_2025.pdf/8a183fe0-7887-4ce2-be0f-3cd6617229b7",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_DOC_5__a1/original.pdf",
+  "sha256": "ea3ece9dafed4cdc5e29ee16072498d2d83e79ba0d10c8ff2bdb5802c56762b2",
+  "bytes": 85431,
+  "detected_format": "pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tenderStatistics_2026-07",
+  "dataset": "D05",
+  "publisher": "Transelectrica / DAMAS II",
+  "title": "tenderStatistics",
+  "report": "tenderStatistics",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-06-30T21%3A00%3A00Z&timeInterval.to=2026-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2026-06-30T21:00:00Z",
+    "timeInterval.to": "2026-07-31T21:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "month": "2026-07",
+  "source_timezone": "Europe/Bucharest",
+  "requested_start_utc": "2026-06-30T21:00:00Z",
+  "requested_end_utc": "2026-07-31T21:00:00Z",
+  "scope": "native monthly public report; unversioned ex-post snapshot",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:56.194730+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "TimeoutError: The read operation timed out"
+}

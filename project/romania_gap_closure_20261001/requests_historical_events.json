@@ -1,0 +1,20 @@
+[
+  {
+    "id": "OPCOM_DAM_FX_HISTORY_PAGE",
+    "dataset": "D14",
+    "url": "https://www.opcom.ro/tranzactii-produse/ro/1",
+    "title": "OPCOM Despre PZU; BNR application calendar and price scale"
+  },
+  {
+    "id": "OPCOM_PI_EVENTS",
+    "dataset": "D01-D03",
+    "url": "https://www.opcom.ro/anunturi-stiri-pi/ro/8",
+    "title": "OPCOM dated intraday operational notices"
+  },
+  {
+    "id": "TSO_SETTLEMENT_NEWS",
+    "dataset": "D07-D16",
+    "url": "https://web.transelectrica.ro/noutati/lista_noutati.html",
+    "title": "TSO dated settlement and correction notices"
+  }
+]

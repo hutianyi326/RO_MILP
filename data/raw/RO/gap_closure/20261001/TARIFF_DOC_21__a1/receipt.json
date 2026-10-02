@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_21",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/18890707/Ord.+ANRE+nr.21_27.05.2025.pdf/ab04d2a7-f110-4552-9a00-2febb42bde94",
+  "title": "Tariful pentru pentru achiziţia serviciilor de sistem (aplicabil incepand cu data de 01.06.2025) - Ordinul ANRE",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:07.635924+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18890707/Ord.+ANRE+nr.21_27.05.2025.pdf/ab04d2a7-f110-4552-9a00-2febb42bde94",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_21__a1/original.pdf",
+  "sha256": "58477be82cbe6dd1a7f916372affbe7c84817d8d4ee64bfb7ce65764553f5982",
+  "bytes": 329004,
+  "detected_format": "pdf"
+}

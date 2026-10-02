@@ -1,0 +1,11 @@
+{
+  "id": "TSO_SETTLEMENT_RESULTS_R1",
+  "dataset": "D07",
+  "url": "https://www.transelectrica.ro/web/tel/rezultate-decontare-piata-de-echilibrare",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "retry official settlement-results page linked from E08; first timeout receipt retained",
+  "retrieved_utc": "2026-09-30T14:48:09.5291776Z",
+  "status": "FAILED",
+  "error": "Response status code does not indicate success: 520 (<none>)."
+}

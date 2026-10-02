@@ -1,0 +1,30 @@
+{
+  "id": "IDA_2026-02-26",
+  "dataset": "D03",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "body": {
+    "ziua_eng": "02/26/2026",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh"
+  },
+  "title": "OPCOM public selected date IDA 2026-02-26",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "POST",
+  "retrieved_utc": "2026-10-01T13:48:15.698696+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDA_2025-12-31__a2/form_original.html",
+  "form_sha256": "a3ed14f2de2c5615fa5eebe7cd90d0a6c971e795af864f6a1de174316d4fd3a1",
+  "anonymous_session_reused": true,
+  "public_anonymous_csrf_used": true,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/IDA_2026-02-26__a1/original.html",
+  "sha256": "b3557e6a5787f90f3644a29706f7dcf6cd597f3b3ed2caa57aabcf8516a1dc58",
+  "bytes": 70029,
+  "detected_format": "html"
+}

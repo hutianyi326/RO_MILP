@@ -1,0 +1,1188 @@
+<!---------------------------------------------------------------- HEADER --------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>OPCOM: Tranzactii rezultate</title>
+		<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55N5F5DZV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-G55N5F5DZV');
+        </script>
+        
+
+
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/mf.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/css/print.css" media="print">
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_orizontal/men_oriz.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/men_st_pp/men_st.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.opcom.ro/pp/js/jquery-ui.css" />
+		
+		<!--  [if IE]><script language="javascript" type="text/javascript" src="/opcom/pp/grafice_ip/js/excanvas.min.js"></script><![endif]-->
+		
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/grafice_ip/js/jquery.flot.stack.min.js"></script>
+		<script src="https://www.opcom.ro/pp/grafice_ip/js/jquery.colorhelpers.js"></script>
+		<script type="text/javascript" src="https://www.opcom.ro/pp/js/jquery-ui.js"></script>
+    <script src="https://www.opcom.ro/utile/chart.js"></script>
+
+		<style>
+		#flotTip { text-align:center; border:1px solid #ff6600; background-color: #bfd1d1; }
+		img {border: none;}
+		</style>
+
+
+				<script type="text/javascript">
+
+		function MM_menu_sari(targ,selObj,restore){ //v3.0
+		  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		  if (restore) selObj.selectedIndex=0;
+		}
+		jQuery( function() {
+			jQuery( "#datepicker" ).datepicker({ dateFormat: "dd/mm/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+				jQuery( function() {
+			jQuery( "#datepickeren" ).datepicker({ dateFormat: "mm/dd/yy",firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,changeMonth: true,changeYear: true});
+		  } );
+		jQuery( function() {
+						var dateFormat = "dd/mm/yy",
+						  from = jQuery( "#from" )
+							.datepicker({
+							  dateFormat: "dd/mm/yy",
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#to" ).datepicker({
+							dateFormat: "dd/mm/yy",
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+
+						  return date;
+						}
+		 } );
+		jQuery( function() {
+						var dateFormat = "mm/dd/yy",
+						  from = jQuery( "#fromen" )
+							.datepicker({
+							  dateFormat: dateFormat,
+							  minDate: new Date(2015, 1 - 1, 1),
+						      changeMonth: true,
+							  numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+							})
+							/*.on( "change", function() {
+							  to.datepicker( "option", "minDate", getDate( this ) );
+							})*/,
+						  to = jQuery( "#toen" ).datepicker({
+							dateFormat: dateFormat,
+							gotoCurrent: true,
+							minDate: new Date(2015, 1 - 1, 1),
+							changeMonth: true,
+							numberOfMonths: 2, firstDay: 1, buttonImage: "/opcom/pcs/calendar.gif",buttonImageOnly: true,
+						  })
+						  /*.on( "change", function() {
+							from.datepicker( "option", "maxDate", getDate( this ) );
+						  })*/;
+
+						function getDate( element ) {
+						  var date;
+						  try {
+							date = jQuery.datepicker.parseDate( dateFormat, element.value );
+						  } catch( error ) {
+							date = null;
+						  }
+                        }
+						  return date;
+
+		 } );
+     </script>
+	</head>
+
+<body>
+
+<div id="wrapper" >
+	<div id="lang">
+        		
+		<a href="https://www.opcom.ro/tranzactii-rezultate/ro/22">
+			<img src="https://www.opcom.ro/pcs/ro.jpg" />
+		</a>
+		
+		
+	
+	
+	</div><!--lang-->
+
+	<!-- Top banner -->
+		<!-- Banner left-->
+<!--
+<div style="background: url(/opcom/pp/img/banner26aniven.png) no-repeat left; width: 800px; height: 118px; margin-top: 0px; float:  left;">
+-->
+<a href="https://www.opcom.ro/opcom/uploads/doc/Comunicate/Opcom2026en.mp4">
+	<div style="background: url(https://www.opcom.ro/pp/img/banner26aniven.png) no-repeat left; position:relative; width: 1000px; height: 118px; margin-top: 0px; float:  left; z-index: 2;">
+<!--			<div style="background: url(/opcom/pp/img/lma_site5en.png) no-repeat right top; z-index: 11;position:absolute; width: 281px; height: 131px; margin-left:880px;margin-top:14px; float: right;"> </div>
+-->
+	<!-- PERIODIC, ANUAL, CRACIUN SI ANUL NOU, MESAJ
+     <a href="https://www.opcom.ro/pp/img/bradfelicitareen.jpg" target = "new"> <div style="background: url(/pp/img/lma_site5en.png) no-repeat right top;z-index: 11;position:absolute;width: 281px;height: 131px;margin-left:700px;margin-top:-13px;float: right;"> </div></a>
+     -->
+		<img style="margin-top: 0px; margin-left: 0px; height: 118px; text-decoration: none;" align=left src="https://www.opcom.ro/pcs/homemap1.gif" border=\"0\" usemap="#Map">
+		<map style="border: 0px;" name="Map">
+		  <area shape="rect" border="0" coords="13,13,116,118" href="https://www.opcom.ro/acasa/en" alt="Home">
+		</map>
+	</div>
+	</a>
+	<!-- END Banner left -->
+		<!--Banner right-->
+	<div style="background: url(https://www.opcom.ro/pp/baner/15.png) no-repeat; left: 802px; width: 398px; height: 118px; position:absolute; float: right; z-index: 1;"> </div><!--header dreapta-->
+
+	<!-- END Banner right -->
+
+	<!-- END Top banner 
+		<li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">Important for prosumers!</span><br/> DAM weighted average price for August 2022: <span class="blink" style="color:#4E8781;">2,423.86 lei/MWh</span> <br/></a><br/></li>
+	    -->
+	    <li class="level1n" ><a style="line-height: normal; "href="#" ><br/><span style="font-weight: bold;">&nbsp;&nbsp;</span> <br/>&nbsp;&nbsp; <span class="blink" style="color:#4E8781;">&nbsp;&nbsp;</span> <br/></a><br/></li>
+	<!-- Men orizontal--><!---->
+	<div>
+		
+
+		<div id="menu_pp_oriz">
+    		<ul id="nav"><li id="home" ><a href="https://www.opcom.ro/acasa/en">&nbsp;<img src="https://www.opcom.ro//pp/men_orizontal/home.png" width="13" height="10" border="0" /></a></li><li id="tr_rez"  ><a href="https://www.opcom.ro/tranzactii-rezultate-home/en/136">Trades - results</a></li><li id="tr_prod"  ><a href="https://www.opcom.ro/tranzactii-produse/en/137">Trading - Products</a></li><li id="an_st"  ><a href="https://www.opcom.ro/anunturi-stiri/en/138">Announcements - News</a></li><li id="comp"  ><a href="https://www.opcom.ro/compania/en/139">Company</a></li><li id="lan">&nbsp;</li>
+    		</ul>
+		</div><!--/ men orizontal-->
+    </div>
+    <!--END Men orizontal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------- END HEADER --------------------------------------------------------------->
+
+<!---------------------------------------------------------------- CONTENT --------------------------------------------------------------->        
+<div id="men_left"><div class="menu"><h3>Trades - Results</h3>
+			  <ul>
+				<li><a href="#url" class="level11" ><p>Day-Ahead Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pzu-limita-scala-pret/en">Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportAtc/en">Available Transfer Capacity-ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/grafice-ip-raportPIP-si-volumTranzactionat/en" >RO Trading results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-raportMarketResults/en">Market Coupling Results</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pzu-preturi-blocuri/en">Block prices</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pzu-curbe-agregate/en">Aggregated Curves</a></li>
+						
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market&nbsp;&raquo;</p></a>
+                    <ul>
+						<li><a href="#url" class="level21" ><p>Continuous Trading <br />(IDCT)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >Market Coupling Results IDCT</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+							</ul>
+					    </li>
+						<li><a href="#url" class="level2n" ><p>Intra-Day Auctions<br />(IDA)&nbsp;&raquo;</p></a>	
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-ida-limite-scala-pret/en" >Price scale limits</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-raport-atc/en" ><p>Available Transfer Capacity - ATC</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en" >RO Trading Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-rezultate-cuplare/en" >Market Coupling Results IDA</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-ida-pret-blocuri/en" >Blocks Prices</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-ida-curbe-agregate/en">Aggregated Curves</a></li>
+							</ul>
+					    </li>
+					</ul>
+                    <!--
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/rapoarte-pi-limite-scala-pret-pi/en" >Price scale limits</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-atc-pi/en" >Available Transfer Capacity - ATC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-raport-cuplare-pi/en" >ID Market Coupling Results SIDC</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/rapoarte-pi-rezultate-pi/en" >ID Trades</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pi-raport-blocuri/en" >Traded Blocks</a></li>
+					</ul>
+                    -->
+				</li>
+	
+	
+	       		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market with double continuous negociation for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CM-OTC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-otc-raport-rez-otc/en">Daily Results</a></li>
+ 								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc50/en"><p>Full details of transactions exceeding 50MW</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc10/en"><p>Full details of transactions with the closing price variation greater than 10%</p></a></li> 
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-otc-raport-otc-date-zilnice-agregate2/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-otc-statistici-otc/en"><p>Statistics</p></a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralised Market for Electricity Bilateral Contracts&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level21"><p>Flexible Extended Auctions Mechanism (CMBC-EA-flex)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-le-flex-of-rez-pcccb-le-flex/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-rez-pccb-le-flex/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-le-flex-neconforme-le-flex/en">Inconsistent Offers</a></li>
+ 							    <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/316">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/317">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/rapoarte-pccb-le-flex-statistici-flex/en">Statistics</a></li>								
+								</ul>
+					   </li>
+					   <li><a href="#url" class="level21"><p>Continuous Negotiation Mechanism<br/>(CMBC-CN)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/rapoarte-pccb-nc-rezultate-pccbnc/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-imgpccbnc/en">Trading Sistem Display</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/215">Inconsistent Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/304">Cancelled Contracts</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/216">Cancelled Transactions</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/rapoarte-pccb-nc-raport-pccbnc-date-zilnice-agregate/en"><p>Daily Aggregated Data</p></a></li> 
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-nc-statistici/en">Statistics</a></li>								
+							</ul>
+                       </li>
+					   <li><a href="#url" class="level21"><p>Archive Results (CMBC-EA)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-oferte-rezultate-pccb-le/en"><p>Announcements-Offers</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-le-rapoarte-pccb-le-neconforme/en">Inconsistent Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/303">Cancelled Contracts</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rezfm/en/211">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-statisticiPCCBLE/en">Statistics</a></li>
+							</ul>
+					   </li>
+                       <li><a href="#url" class="level21" ><p>Archive Results CMBC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-raport-ofertePCCB/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/157">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/101">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/94">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/96">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/97">Results 2007</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/98">Results 2006</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-raportCentralizatorRezultatePCCB/en">Summary Report</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-raportStatisticiPCCB/en">Statistics</a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n"><p>Archive Results CMBC-CN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC/en">Offers and Results 2012-2014</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-nc-raport-ofertePCCBNC2011/en">Results 2011</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/93">Results 2010</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/115">Results 2009</a></li>
+		        				<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/116">Results 2008</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/117">Results 2007</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/arhiva-pccb-tranzactii-rezultate/en/118">Statistics</a></li>
+							</ul>
+					  </li>
+					</ul>
+				</li>
+				
+        		<li><a href="#url" class="nivel_intermediar"><p>Centralized Market for Electricity from Renewable Energy Sources Supported by Green Certificates&nbsp;&raquo;</p></a>
+					<ul>
+					   <li><a href="#url" class="level2n"><p>CME-RES-GC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pce-esre-cv-rapoarte-oferte-rezultate/en">Announcements-Offers</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-rezultate/en">Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pce-esre-cv-rapoarte-neconforme/en">Inconsistent Offers</a></li>
+ 	        				    <li><a class="subm" href="https://www.opcom.ro/pccb-tranzactii-rezultate/en/309">Inconsistent Contracts</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pce-esre-cv-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					</ul>
+				</li>
+						
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for Universal Service&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/pcsu-raport/en/286">Auction Opening Prices</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/pcsu-raport-rezultate/en/287">Monthly Results</a></li>
+						<li><a href="#url" class="level2n" ><p>PCSU 2015-2017 Archive&nbsp;&raquo;</p></a>
+						<ul>
+							<li><a class="level21" href="https://www.opcom.ro/pcsu-raport-oferte/en/232">Announcements-Specifications</a></li>
+							<li><a class="level2n" href="https://www.opcom.ro/pcsu-raport-rezultate/en/233">Results</a></li>
+						</ul>
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="nivel_intermediar" ><p>Electricity market for large consumers&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>LMC Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/199">Announcements - Results</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--PCTL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralized Market for awarding Long Term Electricity Contracts&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level2n" ><p>CMLT Mechanism&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/338">Announcements</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/339">Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/334">Inconsistent Contracts</a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+				
+<!--GAZE-->						
+				<li><a href="#url" class="nivel_intermediar" ><p>Day Ahead Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pzu-gn-raport/en">Daily Results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pzu-gn-tranzactii-rezultate/en/329"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>										
+				<li><a href="#url" class="nivel_intermediar" ><p>Intra-day Market for Natural Gas&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pi-gn-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/330"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pi-gn-tranzactii-rezultate/en/331"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+				</li>
+		
+        		<li><a href="#url" class="nivel_intermediar" ><p>Centralised Market for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LN&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-rezultate/en">Offers and Results</a></li>
+							    <li><a class="subm" href="https://www.opcom.ro/pcgnln-rapoarte-obligatie-ofertare/en"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/323"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 143/17.07.2020</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnln-tranzactii-rezultate/en/324"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Statistics</a></li> 
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level21" ><p>Trading mechanism PCGN-LP&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgnln-rapoarte-statistici/en">Announcements, Offers and Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/325"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcgnlp-tranzactii-rezultate/en/326"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					   <li><a href="#url" class="level2n" ><p>Trading mechanism PCGN-OTC&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcgn-otc-rapoarte-rezultate/en">Daily Results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/327"><p>Offering obligation&nbsp;&raquo;<br/>Product prices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/328"><p>Offering obligation&nbsp;&raquo;<br/>Trades ANRE Order 144/17.07.2020</p></a></li>
+							</ul>
+					   </li>
+					</ul>
+				</li>
+<!--Gaze Flex PPF-TL-->				
+        		<li><a href="#url" class="nivel_intermediar" ><p>Market for Flexible Medium and Long Term Products for Natural Gas&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/345">Announcements, Offers </a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/346">Results</a></li>
+					</ul>
+				</li>
+
+				<li><a href="#url" class="nivel_intermediar"><p>Green Certificates Market&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized spot market (GCACSM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcscv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/pcv-pcscv-rapoarte-oferte/en">Offers GCACSM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Archive of Centralised Green certificates Market (CGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/54">Session Results CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/64">Archive of Aggregate Curves CGCM</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/174"><p>Archive of Weighted Average Market Price CGCM</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-tranzactii-rezfm/en/254">Monthly Reports CGCM</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21"><p>Green Certificates anonymous centralized term market (GCACTM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pctcv-rapoarte-rezultate/en">Daily results</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/pcv-pctcv-rapoarte-oferte/en">Offers GCACTM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/266">Invalid Contracts</a></li>
+							</ul>
+						</li>
+						<li><a href="#url" class="level21" href="#url"><p>Archive of Centralised Bilateral Contracts of GC Market (CBCGCM)&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/pcv-pcbcv-rapoarte/en">Offers and Results CBCGCM</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-rez/en/53">Monthly Reports CBCGCM</a></li>
+						    </ul>
+						</li>
+						<li><a href="#url" class="level21"><p>List of economic operators who have not fulfilled the obligation to acquire GCs&nbsp;&raquo;</p></a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/267">Quarter</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/268">Year</a></li>
+							</ul>
+						</li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate-lunare/en/269"><p>Monthly reports GCM&nbsp;&raquo;</p></a>
+						</li>
+					</ul>
+				</li>
+				<li><a href="#url" class="nivel_intermediar"><p>Settlement&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/10">Day-Ahead Market</a></li>
+						<!-- <li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Intra-Day Market</a></li> -->
+						<li><a href="#url" class="level21" >Intra-Day Market</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/167">Continuous trading (IDCT)</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/383">Intra-Day Auctions (IDA)</a></li>
+							</ul>
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/292">Day Ahead Market for Natural Gas</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/16">Balancing Market 2011-Jan.2021</a></li>
+						<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/234">Balancing Market 2005-2010</a></li>
+						<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/26">Redistribution Incomes/Costs</a></li>		
+					</ul>
+				</li>
+				
+				<li><a href="#url" class="level1n"><p>Market Surveillance&nbsp;&raquo;</p></a>
+					<ul>
+						<li><a href="#url" class="level21">Reports&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/tranzactii-rezultate/en/21">Annual Reports</a></li>
+								<li><a class="subm" href="https://www.opcom.ro/tranzactii-rezultate/en/22">Monthly Reports</a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/tranzactii-rezultate/en/25">Weekly Reports</a></li>
+							</ul>	
+						</li>
+						<li><a class="subm" href="https://www.opcom.ro/ropexfm/en">ROPEX_FM and Delivery Quantity</a></li>	
+						<li><a href="#url" class="level2n">Concentration Indices&nbsp;&raquo;</a>
+							<ul>
+								<li><a class="level21" href="https://www.opcom.ro/grafice-ip-indicatori-pzu/en"><p>DAM Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pi/en"><p>ID Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pcotc/en"><p>CM-OTC Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccble/en"><p>CMBC-EA-Flex indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-le-flex/en"><p>CMBC-EA Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccbnc/en"><p>CMBC-CN Indices</p></a></li>
+								<li><a class="subm" href="https://www.opcom.ro/grafice-ip-indicatori-pccb-esre/en"><p>CME-RES-GC indices</p></a></li>
+								<li><a class="level2n" href="https://www.opcom.ro/grafice-ip-indicatori-pcscv/en"><p>GCACSM Indices</p></a></li>
+							</ul>	
+						</li>
+					</ul>
+				</li>
+			
+				
+			</ul></div></div><!--meniu stanga-->
+<div id="contp">
+	<title>&nbsp;OPCOM:&nbsp;Rapoarte de piata lunare</title><table border=0 cellSpacing=4 cellPadding=0 width="100%">
+ <tbody>
+  <tr>
+   <td vAlign=top rowSpan=15 width=194><img border=0 alt="Download Monthly Report" src="/uploads/doc/rapoarte/lunar/RL_EN_2013.png"> </td>
+<td><strong><font color='DarkGreen' size=+1 face=Georgia>2026</font></strong></td>
+   <td vAlign=top align=left><ol class="list_num">
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2601_EN.pdf" target=new>January</a></li>
+
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2602_EN.pdf" target=new>February</a></li>
+
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2603_EN.pdf" target=new>March</a></li>
+
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2604_EN.pdf" target=new>April</a></li>
+
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2605_EN.pdf" target=new>May</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2606_EN.pdf" target=new>June</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2607_EN.pdf" target=new>July</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2608_EN.pdf" target=new>August</a></li>
+<!--
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2609_EN.pdf" target=new>September</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2610_EN.pdf" target=new>October</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2611_EN.pdf" target=new>November</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2612_EN.pdf" target=new>December</a></li>
+-->
+
+   </ol>
+     <p></p>
+     <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+   <td><strong><font color='DarkGreen' size=+1 face=Georgia>2025</font></strong></td>
+   <td vAlign=top align=left><ol class="list_num">
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2501_EN.pdf" target=new>January</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2502_EN.pdf" target=new>February</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2503_EN.pdf" target=new>March</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2504_EN.pdf" target=new>April</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2505_EN.pdf" target=new>May</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2506_EN.pdf" target=new>June</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2507_EN.pdf" target=new>July</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2508_EN.pdf" target=new>August</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2509_EN.pdf" target=new>September</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2510_EN.pdf" target=new>October</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2511_EN.pdf" target=new>November</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2512_EN.pdf" target=new>December</a></li>
+<!---->
+   </ol>
+     <p></p>
+     <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+   <td><strong><font color='DarkGreen' size=+1 face=Georgia>2024</font></strong></td>
+   <td vAlign=top align=left><ol class="list_num">
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2401_EN.pdf" target=new>January</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2402_EN.pdf" target=new>February</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2403_EN.pdf" target=new>March</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2404_EN.pdf" target=new>April</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2405_EN.pdf" target=new>May</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2406_EN.pdf" target=new>June</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2407_EN.pdf" target=new>July</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2408_EN.pdf" target=new>August</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2409_EN.pdf" target=new>September</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2410_EN.pdf" target=new>October</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2411_EN.pdf" target=new>November</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2412_EN.pdf" target=new>December</a></li>
+   </ol>
+     <p></p>
+     <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+   <td><strong><font color='DARKGREEN' size=+1 face=Georgia>2023</font></strong></td>
+   <td vAlign=top align=left><ol class="list_num">
+     <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2301_EN.pdf" target=new>January</a></li>
+    <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2302_EN.pdf" target=new>February</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2303_EN.pdf" target=new>March</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2304_EN.pdf" target=new>April</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2305_EN.pdf" target=new>May</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2306_EN.pdf" target=new>June</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2307_EN.pdf" target=new>July</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2308_EN.pdf" target=new>August</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2309_EN.pdf" target=new>September</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2310_EN.pdf" target=new>October</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2311_EN.pdf" target=new>November</a></li>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2312_EN.pdf" target=new>December</a></li>
+   </ol>
+     <p></p>
+     <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+   <td><div align=left><strong><font color='DarkGreen' size=+1 face=Georgia>2022</font></strong></div></td>
+   <td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2201_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2202_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2203_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2204_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2205_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2206_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2207_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2208_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2209_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2210_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2211_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2212_EN.pdf" target=new>December</a></li>
+   </ol>
+ <p></p>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+   <td><div align=left><strong><font color='DARKGREEN' size=+1 face=Georgia>2021</font></strong></div></td>
+   <td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2101_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2102_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2103_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2104_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2105_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2106_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2107_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2108_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2109_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2110_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2111_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2112_EN.pdf" target=new>December</a></li>
+   </ol>
+ <P></P>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+   </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DarkGreen' size="+1" face="Georgia">2020</font></strong></div></td>
+ <td valign="top" align="left">
+ <ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2001_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2002_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2003_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2004_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2005_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2006_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2007_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2008_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2009_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2010_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2011_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_2012_EN.pdf" target=new>December</a></li>
+ </ol>
+ <p></p>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DARKGREEN' size="+1" face="Georgia">2019</font></strong></div></td>
+ <td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1901_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1902_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1903_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1904_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1905_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1906_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1907_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1908_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1909_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1910_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1911_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1912_EN.pdf" target=new>December</a></li>
+ </ol>
+ <P></P>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div>
+</td> </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DarkGreen' size="+1" face="Georgia">2018</font></strong></div></td>
+ <td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1801_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1802_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1803_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1804_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1805_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1806_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1807_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1808_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1809_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1810_EN.pdf" target=new>October</a> (correction page 2) </li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1811_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1812_EN.pdf" target=new>December</a></li>
+ </ol>
+ <P></P>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DARKGREEN' size="+1" face="Georgia">2017</font></strong></div></td> 
+<td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1701_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1702_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1703_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1704_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1705_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1706_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1707_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1708_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1709_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1710_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1711_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1712_EN.pdf" target=new>December</a></li>
+</ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div>
+</td>
+</tr>
+<tr>
+<td><div align=left><strong><font color='DarkGreen' size=+1 face=Georgia>2016</font></strong></div></td>
+ <td vAlign=top align=left><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1601_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1602_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1603_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1604_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1605_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1606_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1607_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1608_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1609_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1610_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1611_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1612_EN.pdf" target=new>December</a></li>
+ </ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div>
+</td>
+ </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DARKGREEN' size="+1" face="Georgia">2015</font></strong></div></td>
+ <td valign="top" align="left"><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1501_EN.pdf" target=new>January</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1502_EN.pdf" target=new>February</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1503_EN.pdf" target=new>March</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1504_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1505_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1506_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1507_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1508_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1509_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1510_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1511_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1512_EN.pdf" target=new>December</a></li>
+ </ol>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+ <td><div align="left"><strong><font color='DarkGreen' size="+1" face="Georgia">2014</font></strong></div></td>
+ <td valign="top" align="left"><ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1401_EN.pdf" target=new>January</a> </li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1402_EN.pdf" target=new>February</a> </li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1403_EN.pdf" target=new>March</a> </li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1404_EN.pdf" target=new>April</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1405_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1406_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1407_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1408_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1409_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1410_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1411_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1412_EN.pdf" target=new>December</a></li>
+ </ol>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+ <td><div align=left><strong><font color='darkgreen' size=+1 face=Georgia>2013</font></strong></div></td>
+ <td vAlign=top align=left>
+ <ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1301_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1302_EN.pdf" target=new>February</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1303_EN.pdf" target=new>March</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1304_EN.pdf" target=new>April</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1305_EN.pdf" target=new>May</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1306_EN.pdf" target=new>June</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1307_EN.pdf" target=new>July</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1308_EN.pdf" target=new>August</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1309_EN.pdf" target=new>September</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1310_EN.pdf" target=new>October</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1311_EN.pdf" target=new>November</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1312_EN.pdf" target=new>December</a>
+ </ol>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div>
+ </td>
+ </tr>
+ </tbody>
+</table>
+<table border=0 cellSpacing=4 cellPadding=0 width="100%">
+
+ <tbody>
+ <tr>
+ <td vAlign=top rowSpan=6 width=194><img border=0 alt="Download Monthly Report" src="/uploads/doc/rapoarte/lunar/RL_EN.png"> </td>
+ <td><div align=left><strong><font color='DarkGreen' size=+1 face=Georgia>2012</font></strong></div></td>
+ <td vAlign=top align=left>
+ <ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1201_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1202_EN.pdf" target=new>February</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1203_EN.pdf" target=new>March</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1204_EN.pdf" target=new>April</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1205_EN.pdf" target=new>May</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1206_EN.pdf" target=new>June</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1207_EN.pdf" target=new>July</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1208_EN.pdf" target=new>August</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1209_EN.pdf" target=new>September</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1210_EN.pdf" target=new>October</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1211_EN.pdf" target=new>November</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1212_EN.pdf" target=new>December</a>
+ </ol>
+ <div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div>
+ </td>
+ </tr>
+ <tr>
+ <td><strong><font color="DarkGreen" size=+1 face=Georgia>2011</font></strong></td>
+ <td vAlign=top align=left>
+ <ol class="list_num">
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1101_EN.pdf" target=new>January</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1102_EN.pdf" target=new>February</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1103_EN.pdf" target=new>March</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1104_EN.pdf" target=new>April</a> 
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1105_EN.pdf" target=new>May</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1106_EN.pdf" target=new>June</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1107_EN.pdf" target=new>July</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1108_EN.pdf" target=new>August</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1109_EN.pdf" target=new>September</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1110_EN.pdf" target=new>October</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1111_EN.pdf" target=new>November</a>
+<li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1112_EN.pdf" target=new>December</a>
+ </ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div> </td>
+ </tr>
+ <tr>
+<td><strong><font color="DarkGreen" size=+1 face=Georgia>2010</font> </strong></td>
+<td vAlign=top align=left>
+<ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1001_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1002_EN.pdf" target=new>February</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1003_EN.pdf" target=new>March</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1004_EN.pdf" target=new>April</a> </li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1005_EN.pdf" target=new>May</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1006_EN.pdf" target=new>June</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1007_EN.pdf" target=new>July</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1008_EN.pdf" target=new>August</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1009_EN.pdf" target=new>September</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1010_EN.pdf" target=new>October</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1011_EN.pdf" target=new>November</a></li>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_1012_EN.pdf" target=new>December </a></li>
+</ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+<td><strong><font color="DarkGreen" size=+1 face=Georgia>2009</font> </strong></td>
+<td vAlign=top align=left>
+<ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0901_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0902_EN.pdf" target=new>February</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0903_EN.pdf" target=new>March</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0904_EN.pdf" target=new>April</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0905_EN..pdf" target=new>May</a> 
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0906_EN.pdf" target=new>June</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0907_EN.pdf" target=new>July</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0908_EN.pdf" target=new>August</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0909_EN.pdf" target=new>September</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0910_EN.pdf" target=new>October</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0911_EN.pdf" target=new>November</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0912_EN.pdf" target=new>December</a> </li>
+</ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+
+<td><strong><font color="DarkGreen" size=+1 face=Georgia>2008</font> </strong></td>
+<td vAlign=top align=left>
+<ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0801_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0802_EN_.pdf" target=new>February</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0803_EN_.pdf" target=new>March</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0804_EN_.pdf" target=new>April</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0805_EN_.pdf" target=new>May</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0806_EN.pdf" target=new>June</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0807_EN.pdf" target=new> July</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0808_EN.pdf" target=new>August</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0809_EN.pdf" target=new>September</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0810_EN.pdf" target=new>October</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0811_EN.pdf" target=new>November</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0812_EN.pdf" target=new>December</a> </li>
+</ol>
+<div style="height:0; font:0/0 serif; border-bottom:1px dashed #4e8781"></div></td>
+ </tr>
+ <tr>
+<td><strong><font color="DarkGreen" size=+1 face=Georgia>2007</font> </strong></td>
+<td vAlign=top align=left>
+<ol class="list_num">
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0701_EN.pdf" target=new>January</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0702_EN.pdf" target=new>February</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0703_EN.pdf" target=new>March</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0704_EN.pdf" target=new>April</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0705_EN.pdf" target=new>May</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0706_EN.pdf" target=new>June</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0707_EN.pdf" target=new>July</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0708_EN.pdf" target=new>August</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0709_EN.pdf" target=new>September</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0710_EN.pdf" target=new>October</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0711_EN.pdf" target=new>November</a>
+ <li>Monthly Market Report - <a class="inline" href="/uploads/doc/rapoarte/lunar/R_0712_EN.pdf" target=new>December</a> </li>
+</ol>
+</td>
+ </tr>
+</tbody>
+</table>
+<ul>
+<li class="inline">specific indices details (vers. 14) can be found <a class="inline" href="/uploads/doc/pg1/Definitii_indicatori_EN Versiunea 14.pdf" target=new><em>here</em></a></li>
+</ul>
+	
+
+	</div>
+    <div id="dreapta">  <!--stiri opcom, comunicate, anunturi piete-->
+		
+		<div id="stiri_piete">
+    	  <div class="titlustiri"><span class="tit2"> Announcements</span>
+		  </div>
+
+		 <!-- &emsp;<a href="/pp/img/bradfelicitareen.jpg" target="new"><img src="/pp/img/lma_site_anunt_en.png" /></a> --> 
+		<div class="scrollbar">
+		
+		<table width="94%" height="100%" id="an_piete" cellspacing="0" cellpadding="0" >
+      <tr align="left" ></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">23/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for providind additional account for access to the M7 Trading (ComTrader) system for the coupling Intraday Electricity Market (IDM) as of 01.10.2026. Invoicing and payment terms of the IntraDay Continuous Trading (IDCT) additional account tariff.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">01/09/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pp/en/1">In accordance with the provisions of ANRE Order no. 15/2022, OPCOM publishes the weighted average price of the Day Ahead Market for August 2026 amounting to 793.19 lei/MWh.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">12/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/en/4"><a href="/tranzactii-rezultate-home/en/267">
+List of economic operators who have not fulfilled the obligation to acquire GC 2<sup>nd</sup> quarter 2026
+</a></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">05/08/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pcv/en/4"><p><a href="/tranzactii-rezultate-home/en/267">
+List of economic operators who have not fulfilled the obligation to acquire GC second quarter 2026
+</a></p></a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">16/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API-ID tariff) for the coupling Intraday Electricity Market (IDM) for the period 01.08-31.12.2026. Invoicing and payment terms of the API-ID tariffs.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">10/07/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-pzu/en/2">OPCOM submit to public consultation the <em>Operational procedure regarding functioning of the Day-Ahead electricity Market</em>, updated in the context of the implementation of the volume allocation mechanism at the SDAC price</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">26/06/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API tariff) for the coupling Intraday Electricity Market (IDM) for July 2026. Invoicing and payment terms of the API tariffs.</a></div></td></tr>
+
+
+
+	 
+	 <tr><td class="stire1"><div class="capstire1">29/05/2026</div></td></tr>
+	 
+	 <tr><td align="left"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-fpa/en/10">The procedure regarding the tariffs applied by the designated operator of the Gas and Electricity Market ”OPCOM” S.A. for the access to the API system message interface of the M7 Trading system (API tariff) for the coupling Intraday Electricity Market (IDM) for June 2026. Invoicing and payment terms of the API tariffs.</a></div></td></tr></table><script>
+// var table = jQuery("#stiri_piete .scrollbar table tr a:nth-child(2)");
+
+// jQuery(table).each(function(index, z){
+// 	//console.log(index + " / "+ jQuery(z).attr("href") );
+// // 	console.log(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php") );
+// 	if(jQuery(z).attr("href").indexOf("tranzactii_rezultate/tranzactii_rezultate.php")){
+// 		console.log(jQuery(z).attr("href"));
+		
+		
+// 	}
+	
+// 	//tranzactii-rezultate/
+// // 	return false;
+// });
+
+
+</script></div></div> <!--stiri_piete-->
+        
+        <div id="com">
+			
+		<div class="titlustiri">
+            <span class="tit2"> Press Releases </span>
+          </div>
+<div class="scrollbar" style="height: 125px;"><table width="94%" border="0" cellspacing="0" cellpadding="2" align="left"><tr><td class="stire1"><div class="capstire1">28/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1477/1">Trading record on the Day-Ahead Market - 62,552 MWh traded for the delivery day September 28, 2026</a></div></td></tr><tr><td class="stire1"><div class="capstire1">07/09/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1474/1">New participants in August</a></div></td></tr><tr><td class="stire1"><div class="capstire1">21/08/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-comunicate-tip/en/1472/1">Trading Record on OPEM’s Day-Ahead Market (DAM) operated by OPEM</a></div></td></tr></table></div>		<div id="stiri_der">
+        <div class="titlustiri"><span class="tit2">News</span></div>         
+<div class="scrollbar" style="height: 120px;"><table width="250px" border="0" cellspacing="0" cellpadding="2" align="left">			<tr><td class="stire1"><div class="capstire1">01/04/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1152/en">Europex Study: The Fundamental Drivers Of Wholesale Electricity Prices in Europe</a></div></td></tr>			<tr><td class="stire1"><div class="capstire1">13/03/2026</div></td></tr>
+		      <tr><td class="stire1"><div class="stire1"><a href="https://www.opcom.ro/anunturi-stiri-id/1151/en">Europex Position Paper on “Marginal Pricing Works - The Most Efficient Foundation for Electricity Markets”</a></div></td></tr></table></div></div><!--stiri_der-->
+         
+
+<div id="rapp">
+<div class="titlustiri"><span class="tit2">Reports</span></div>		 
+
+
+<table width="250" border="0" cellpadding="0" cellspacing="0" id="rap" >
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/opcomrap.png" ></td>
+    <td>
+    <a href="/uploads/doc/rapoarte/saptaminal/RSS_2026_39_EN.pdf" target=new>Weekly</a>/<a href="/uploads/doc/rapoarte/lunar/R_2608_EN.pdf" target=new>Monthly</a>/<a href="/uploads/doc/rapoarte/Anual/RS_2025_EN.pdf" target=new>Annual</a><br/> Market Report</td>
+  </tr>  
+  <tr width="195" height="5"></tr>
+  <tr>
+    <td width="60" height="25" align="left"><img src="https://www.opcom.ro/pp/img/eu.png" ></td>
+    <td width="195" height="10"><a href="http://ec.europa.eu/energy/en/statistics/market-analysis">
+     Market Analysis Reports</a></td>
+  </tr>
+  <tr height="5"></tr>
+  <tr>
+    <td rowspan="2" width="60" height="50" align="left"><a href="https://www.acer.europa.eu/"><img style="vertical-align:baseline" src="https://www.opcom.ro/pcs/acer2.png" /></a></td>
+    <td height="30"><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Electricity-Key-Developments.pdf">
+     Key developments in EU electricity and gas markets, 16 March 2026</a></td>
+  </tr>
+  <tr>
+    <td height="30"><a href="https://www.acer.europa.eu/remit-documents">
+     REMIT - ACER Documents</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="25" align="left"><a href="https://www.opcom.ro/uploads/doc/REMIT/Promovare servicii raportare REMIT_27.07.2015.pdf" target=new><img src="https://www.opcom.ro/pcs/thing7.png" /></a></td>
+    <td height="10">
+    
+     <a href="https://www.opcom.ro/tranzactii-produse/en/225">REMIT - OPCOM Documents</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="20" align="left"><a href="https://www.opcom.ro/tranzactii-produse/en/250"><img src="https://www.opcom.ro/pcs/logo_pcr.png"></a></td>
+    <td height="10">
+    <a href="https://www.opcom.ro/tranzactii-produse/en/250"> 	Price Coupling of Regions</a></td>
+  </tr>
+  <tr height="5"></tr>
+</table>	
+</div> 
+
+</div>   
+    </div><!--dreapta-->
+<!---------------------------------------------------------------- END CONTENT --------------------------------------------------------------->
+
+<!---------------------------------------------------------------- FOOTER --------------------------------------------------------------->
+
+	 <div class="clear">&nbsp;</div>
+	 <div class="clear">&nbsp;</div>
+     <div id="menu_pp_oriz_jos">
+    	
+
+    		<ul id="nav_jos">
+		<li id="button1"><a  href="https://www.opcom.ro/disclaimer/133/en">Disclaimer</a></li>
+		<li id="button2"><a href="https://www.opcom.ro/sitemap/en/154">Sitemap</a></li>
+        <li id="button3"> <a  href="https://www.opcom.ro/links/en/135">Links</a></li>
+		<li id="stirider"> <a href="#"><div id="derulari">
+			<marquee scrollAmount=2 scrollDelay=5>New entries: JWM ENERGIA (DAM, IDM), CHIMCOMPLEX BORZESTI (CMBC-EA-flex, CMBC-CN), NEXTE ASSET MANAGEMENT (CMBC-EA-flex, CME-RES-GC, CM-OTC), SPRING ADVERTISING (GCM), EDPR SOLAR ENERGY (CME-RES-GC, GCM) and EDPR WIND ENERGY (CME-RES-GC, GCM) joined OPCOM in September.</marquee></div></a></li>			
+             <li  id="button5"><a style = "width: 126px; " href="https://www.opcom.ro/rss/en">RSS</a></li>
+             <li style = "border-right: 0px solid #fff"  id="button6"> <a style = "width: 126px;" href="https://www.opcom.ro/contact-us/en/134">Contact us</a></li>	
+			</ul>
+	
+<!--/ men orizontal-->
+<div id="footer">&copy; OPCOM &nbsp;</div>
+
+
+
+
+   	 </div>
+		
+<style>
+#close_cookie{display:none;}
+	#close_cookie:checked + #cookie_consent_popup{display:none;}	
+	
+#cookie_consent_popup{
+	position:fixed;
+/* 	bottom:130px; */
+/* 	left: 672px; */
+/* 	width:1187px; */
+/* 	height:40px; */
+	opacity: 0.65; 
+	width: 1187px;
+	height: 40px; 
+	top: 90%;
+	left: 50%;
+	 transform: translate(-50%, -50%);
+	background-color:#4E8781;
+	padding:6px;
+	text-align: center;
+	 z-index:300;
+}
+
+/* 	#cookie_consent_popup h1{ */
+/* 		font-size:1.2em; */
+/* 	} */
+/* 		#cookie_consent_popup h1:before{ */
+/* 			content:""; */
+/* 			padding:0; */
+/* 		} */
+	#cookie_consent_popup p{
+		font-size:0.7em;
+	}
+	#cookie_consent_popup #close_cookie_box{
+		position:absolute;
+		top:6px;right:20px;
+		cursor:pointer;
+		font-size:1.3em;
+		color: #BFD1D1; 
+	}
+	#cookie_consent_popup #ok_cookie_box{
+		position:absolute;
+		bottom:20px;right:20px;
+		cursor:pointer;
+		font-size:1.6em;
+		padding:10px 20px;
+		font-weight:700;
+		color:white;
+	}
+#cookie_consent_popup button {
+  background-color: #BFD1D1;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
+
+			<input type="checkbox" id="close_cookie"></input>
+			
+			<div id="cookie_consent_popup">
+				
+				
+					<input type="hidden" name="_token" value="DlNZTCwhLVB6Zc9aeBr511On5sWgE81lnD2VGPxs" />
+					<input type="checkbox" id="close_cookie"></input>
+					<input type="hidden" name="consent_cookie" value="1" />
+					
+					
+					<label for="close_cookie" id="close_cookie_box">X</label>
+					
+					<p style="font-family: Arial, Verdana, Helvetica, sans-serif;font-size:14px;color: #FFFFFF;">
+											Folosim module cookie sau tehnologii similare <strong>strict necesare</strong> pentru buna functionarea a website-ului. 
+											<button type="button" class="button" value="Accept">Accept</button>
+					</p>
+										
+			</div>
+			<script>
+	                    
+	                    jQuery("#cookie_consent_popup .button").on("click", function(){
+							//console.log("subb");
+		                   // return;
+		                   jQuery.ajax({
+						         type:'POST',
+						         url:'https://www.opcom.ro/cookie',
+						         headers: {'X-CSRF-TOKEN': 'DlNZTCwhLVB6Zc9aeBr511On5sWgE81lnD2VGPxs'},
+						         data:{'consent_cookie':1},
+						         success:function(data){
+// 							         console.log("zzz");
+// 							         console.log(data);
+							         jQuery("#cookie_consent_popup").remove();
+						         }
+						      });
+		                   
+		                });
+	                    
+	                    </script>
+	</div><!--wrapper-->
+
+</body>
+</html>
+<!---------------------------------------------------------------- END FOOTER --------------------------------------------------------------->
+   

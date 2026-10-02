@@ -1,0 +1,14 @@
+{
+  "id": "E08",
+  "url": "https://www.transelectrica.ro/web/tel/piata-de-echilibrare",
+  "title": "Balancing market",
+  "resolved_url": "https://www.transelectrica.ro/web/tel/piata-de-echilibrare",
+  "retrieved_utc": "2026-09-30T07:41:41.512898+00:00",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "path": "data\\raw\\RO\\rules\\20260930\\E08\\original.html",
+  "bytes": 46258,
+  "sha256": "127b6517306df8a24a56298994961964a4108bad479889f4c36d333a61e27b13",
+  "extracted_characters": 4786
+}

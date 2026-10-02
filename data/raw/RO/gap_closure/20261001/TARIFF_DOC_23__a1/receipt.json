@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_23",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TL_1+ian+2025.pdf/290e6fa8-077d-4e96-b471-0f19a1b6dd08",
+  "title": "Tariful pentru serviciul de transport pentru extragerea energiei electrice din reţele (TL), aplicabil de la 1 ianuarie 2025",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:45:10.970614+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18140789/Tarif+transport+TL_1+ian+2025.pdf/290e6fa8-077d-4e96-b471-0f19a1b6dd08",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_23__a1/original.pdf",
+  "sha256": "cc92cb5b4eac1155fd42c56a3cf1bb1bf37de2d22f43e424a2caed4ba44155b1",
+  "bytes": 199282,
+  "detected_format": "pdf"
+}

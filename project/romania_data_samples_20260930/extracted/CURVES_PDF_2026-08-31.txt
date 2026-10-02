@@ -1,0 +1,1055 @@
+=== PDF PAGE 1 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 1
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 214.90 EUR/MWh
+
+=== PDF PAGE 2 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 2
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 199.15 EUR/MWh
+
+=== PDF PAGE 3 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 3
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 198.32 EUR/MWh
+
+=== PDF PAGE 4 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 4
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 175.85 EUR/MWh
+
+=== PDF PAGE 5 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 5
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 175.69 EUR/MWh
+
+=== PDF PAGE 6 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 6
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 169.94 EUR/MWh
+
+=== PDF PAGE 7 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 7
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 165.11 EUR/MWh
+
+=== PDF PAGE 8 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 8
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 167.30 EUR/MWh
+
+=== PDF PAGE 9 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 9
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 169.30 EUR/MWh
+
+=== PDF PAGE 10 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 10
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 165.79 EUR/MWh
+
+=== PDF PAGE 11 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 11
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 156.82 EUR/MWh
+
+=== PDF PAGE 12 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 12
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 161.89 EUR/MWh
+
+=== PDF PAGE 13 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 13
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 167.17 EUR/MWh
+
+=== PDF PAGE 14 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 14
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 166.67 EUR/MWh
+
+=== PDF PAGE 15 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 15
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 167.05 EUR/MWh
+
+=== PDF PAGE 16 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 16
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 165.71 EUR/MWh
+
+=== PDF PAGE 17 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 17
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 171.72 EUR/MWh
+
+=== PDF PAGE 18 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 18
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 174.53 EUR/MWh
+
+=== PDF PAGE 19 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 19
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 169.70 EUR/MWh
+
+=== PDF PAGE 20 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 20
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 170.85 EUR/MWh
+
+=== PDF PAGE 21 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 21
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 171.34 EUR/MWh
+
+=== PDF PAGE 22 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 22
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 184.90 EUR/MWh
+
+=== PDF PAGE 23 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 23
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 196.72 EUR/MWh
+
+=== PDF PAGE 24 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 24
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 206.79 EUR/MWh
+
+=== PDF PAGE 25 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 25
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 212.45 EUR/MWh
+
+=== PDF PAGE 26 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 26
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 215.50 EUR/MWh
+
+=== PDF PAGE 27 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 27
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 215.36 EUR/MWh
+
+=== PDF PAGE 28 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 28
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 214.24 EUR/MWh
+
+=== PDF PAGE 29 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 29
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 222.69 EUR/MWh
+
+=== PDF PAGE 30 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 30
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 222.05 EUR/MWh
+
+=== PDF PAGE 31 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 31
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 196.05 EUR/MWh
+
+=== PDF PAGE 32 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 32
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 168.62 EUR/MWh
+
+=== PDF PAGE 33 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 33
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 203.58 EUR/MWh
+
+=== PDF PAGE 34 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 34
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 174.58 EUR/MWh
+
+=== PDF PAGE 35 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 35
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 160.51 EUR/MWh
+
+=== PDF PAGE 36 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 36
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 130.00 EUR/MWh
+
+=== PDF PAGE 37 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 37
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 178.10 EUR/MWh
+
+=== PDF PAGE 38 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 38
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 138.79 EUR/MWh
+
+=== PDF PAGE 39 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 39
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 116.48 EUR/MWh
+
+=== PDF PAGE 40 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 40
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 113.11 EUR/MWh
+
+=== PDF PAGE 41 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 41
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 113.58 EUR/MWh
+
+=== PDF PAGE 42 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 42
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 97.55 EUR/MWh
+
+=== PDF PAGE 43 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 43
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 80.17 EUR/MWh
+
+=== PDF PAGE 44 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 44
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 91.13 EUR/MWh
+
+=== PDF PAGE 45 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 45
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 92.77 EUR/MWh
+
+=== PDF PAGE 46 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 46
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 82.86 EUR/MWh
+
+=== PDF PAGE 47 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 47
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 86.74 EUR/MWh
+
+=== PDF PAGE 48 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 48
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 75.85 EUR/MWh
+
+=== PDF PAGE 49 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 49
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 89.33 EUR/MWh
+
+=== PDF PAGE 50 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 50
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 82.08 EUR/MWh
+
+=== PDF PAGE 51 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 51
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 80.49 EUR/MWh
+
+=== PDF PAGE 52 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 52
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 80.51 EUR/MWh
+
+=== PDF PAGE 53 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 53
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 95.16 EUR/MWh
+
+=== PDF PAGE 54 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 54
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 84.57 EUR/MWh
+
+=== PDF PAGE 55 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 55
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 75.52 EUR/MWh
+
+=== PDF PAGE 56 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 56
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 84.49 EUR/MWh
+
+=== PDF PAGE 57 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 57
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 105.00 EUR/MWh
+
+=== PDF PAGE 58 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 58
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 87.81 EUR/MWh
+
+=== PDF PAGE 59 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 59
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 65.42 EUR/MWh
+
+=== PDF PAGE 60 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 60
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 100.49 EUR/MWh
+
+=== PDF PAGE 61 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 61
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 92.07 EUR/MWh
+
+=== PDF PAGE 62 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 62
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 65.26 EUR/MWh
+
+=== PDF PAGE 63 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 63
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 131.48 EUR/MWh
+
+=== PDF PAGE 64 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 64
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 164.09 EUR/MWh
+
+=== PDF PAGE 65 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 65
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 131.27 EUR/MWh
+
+=== PDF PAGE 66 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 66
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 155.86 EUR/MWh
+
+=== PDF PAGE 67 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 67
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 186.96 EUR/MWh
+
+=== PDF PAGE 68 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 68
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 210.53 EUR/MWh
+
+=== PDF PAGE 69 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 69
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 190.75 EUR/MWh
+
+=== PDF PAGE 70 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 70
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 216.09 EUR/MWh
+
+=== PDF PAGE 71 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 71
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 231.09 EUR/MWh
+
+=== PDF PAGE 72 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 72
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 246.23 EUR/MWh
+
+=== PDF PAGE 73 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 73
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 243.97 EUR/MWh
+
+=== PDF PAGE 74 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 74
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 254.22 EUR/MWh
+
+=== PDF PAGE 75 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 75
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 259.15 EUR/MWh
+
+=== PDF PAGE 76 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 76
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 280.89 EUR/MWh
+
+=== PDF PAGE 77 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 77
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 247.93 EUR/MWh
+
+=== PDF PAGE 78 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 78
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 244.95 EUR/MWh
+
+=== PDF PAGE 79 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 79
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 248.37 EUR/MWh
+
+=== PDF PAGE 80 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 80
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 248.32 EUR/MWh
+
+=== PDF PAGE 81 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 81
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 254.64 EUR/MWh
+
+=== PDF PAGE 82 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 82
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 250.74 EUR/MWh
+
+=== PDF PAGE 83 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 83
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 254.64 EUR/MWh
+
+=== PDF PAGE 84 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 84
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 268.41 EUR/MWh
+
+=== PDF PAGE 85 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 85
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 261.20 EUR/MWh
+
+=== PDF PAGE 86 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 86
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 252.43 EUR/MWh
+
+=== PDF PAGE 87 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 87
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 256.06 EUR/MWh
+
+=== PDF PAGE 88 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 88
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 250.17 EUR/MWh
+
+=== PDF PAGE 89 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 89
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 252.55 EUR/MWh
+
+=== PDF PAGE 90 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 90
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 244.86 EUR/MWh
+
+=== PDF PAGE 91 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 91
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 238.54 EUR/MWh
+
+=== PDF PAGE 92 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 92
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 228.98 EUR/MWh
+
+=== PDF PAGE 93 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 93
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 227.53 EUR/MWh
+
+=== PDF PAGE 94 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 94
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 222.94 EUR/MWh
+
+=== PDF PAGE 95 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 95
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 217.36 EUR/MWh
+
+=== PDF PAGE 96 ===
+Delivery day: 2026-08-31
+Trading Zone: ROMANIA
+Trading interval: 96
+PRICE (EUR/MWh)
+QUANTITY (MW)
+ Cross-border flow   Accepted Buy Blocks (15/30/60 min)   Accepted Sell Blocks (15/30/60 min) 
+ Accepted Buy Period Orders (30/60 min)   Accepted Sell Period Orders (30/60 min) 
+ Buy MTU Orders (15 min)   Sell MTU Orders (15 min)
+Price: 192.68 EUR/MWh

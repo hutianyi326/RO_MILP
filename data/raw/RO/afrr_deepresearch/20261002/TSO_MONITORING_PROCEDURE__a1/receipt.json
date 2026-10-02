@@ -1,0 +1,17 @@
+{
+  "id": "TSO_MONITORING_PROCEDURE",
+  "url": "https://www.transelectrica.ro/documents/10179/146982/Procedura%2Bmp.pdf/33aa6994-f1ef-4ff7-8f88-bb499815d77e",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T09:24:37.758039+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/146982/Procedura%2Bmp.pdf/33aa6994-f1ef-4ff7-8f88-bb499815d77e",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/afrr_deepresearch/20261002/TSO_MONITORING_PROCEDURE__a1/original.pdf",
+  "sha256": "6cc9b23b747651d8b7af10551ef762ced6777a8ee3266ebcdad5324c91d2b14e",
+  "bytes": 529222,
+  "detected_format": "pdf"
+}

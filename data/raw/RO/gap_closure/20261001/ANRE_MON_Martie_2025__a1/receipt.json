@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_MON_Martie_2025",
+  "dataset": "D12",
+  "url": "https://anre.ro/wp-content/uploads/2025/07/Monitmar25.pdf",
+  "title": "Raport monitorizare piata energie electrica Martie 2025",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:14:46.934082+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2025/07/Monitmar25.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_MON_Martie_2025__a1/original.pdf",
+  "sha256": "22386808be7a7720cf92de23d24604498968d21b2510c135f6b4a2aa31320031",
+  "bytes": 3647908,
+  "detected_format": "pdf"
+}

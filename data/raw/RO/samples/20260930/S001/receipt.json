@@ -1,0 +1,17 @@
+{
+  "id": "S001",
+  "dataset": "D02",
+  "url": "https://www.opcom.ro/grafice-ip-raportPIP-si-volumTranzactionat/en",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "public DA page and form",
+  "retrieved_utc": "2026-09-30T09:16:23.2896085Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/samples/20260930/S001/original.html",
+  "bytes": 107692,
+  "sha256": "8cb3cdb90247bbe8aac9f1a78c1f292c74526331fe5e6928bb3b696fb8fa371e"
+}

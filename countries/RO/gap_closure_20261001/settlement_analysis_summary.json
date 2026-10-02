@@ -1,0 +1,78 @@
+{
+  "downloaded_parsed_catalog_versions": 191,
+  "selected_files": 80,
+  "months": 20,
+  "native_all_version_cells": 557318,
+  "latest_native_cells": 233352,
+  "physical_slots_A": 58364,
+  "patterns": {
+    "UNIQUE_ONLY": 47825,
+    "DUAL_ONLY": 10315,
+    "MISSING_ALL_PRICES": 210,
+    "OTHER_PATTERN_REQUIRES_RULE": 14
+  },
+  "system_numeric_physical": 58364,
+  "rect_grid_cross_checks": 417006,
+  "rectangle_omissions_independently_pdfium_verified": 262,
+  "extractor_disagreement_cells_unresolved": 0,
+  "source_short_row_tables": [
+    {
+      "id": "SET_UNIQUE_2025-06_77",
+      "rows": 95
+    },
+    {
+      "id": "SET_UNIQUE_2025-02_90",
+      "rows": 92
+    },
+    {
+      "id": "SET_UNIQUE_2026-02_102",
+      "rows": 92
+    },
+    {
+      "id": "SET_UNIQUE_2026-02_104",
+      "rows": 92
+    },
+    {
+      "id": "SET_DEFICIT_2025-02_88",
+      "rows": 92
+    },
+    {
+      "id": "SET_DEFICIT_2026-02_101",
+      "rows": 92
+    },
+    {
+      "id": "SET_DEFICIT_2026-02_103",
+      "rows": 92
+    },
+    {
+      "id": "SET_SURPLUS_2025-02_90",
+      "rows": 93
+    },
+    {
+      "id": "SET_SURPLUS_2026-02_102",
+      "rows": 93
+    },
+    {
+      "id": "SET_SURPLUS_2026-02_104",
+      "rows": 93
+    }
+  ],
+  "system_title_conflict_versions": 44,
+  "document_catalog_date_mismatches": [
+    {
+      "id": "SET_DEFICIT_2026-07_112",
+      "catalog": "21.0.8.2026",
+      "body": "2026-08-21"
+    },
+    {
+      "id": "SET_SURPLUS_2025-09_98",
+      "catalog": "28.08.2026",
+      "body": "2026-09-28"
+    }
+  ],
+  "revision_pairs": 111,
+  "pairs_with_changed_values": 91,
+  "utc_approved": false,
+  "asof_approved": false,
+  "cash_approved": false
+}

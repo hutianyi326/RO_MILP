@@ -1,0 +1,48 @@
+{
+  "local_document_links": [
+    {
+      "from": "research_report.md",
+      "link": "scope_and_sources.md",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "afrr_price_energy_sample_202508.csv",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "sample_month_summary.json",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "activation_uncomputable_50.csv",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "missing_quarter_recheck.csv",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "capacity_detail_rechecks.csv",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "capacity_excel_crosschecks.csv",
+      "exists": true
+    },
+    {
+      "from": "research_report.md",
+      "link": "activation_diagnostic_monthly.csv",
+      "exists": true
+    }
+  ],
+  "all_local_links_exist": true,
+  "technical_checks": 182,
+  "technical_checks_failed": 0,
+  "independent_raw_pass": true
+}

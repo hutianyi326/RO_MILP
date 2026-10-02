@@ -1,0 +1,5 @@
+﻿issue,date,member,sheet,native_hour_labels,expected_elapsed_hours,handling
+SCADA_DST_OR_LABEL_UNRESOLVED,2025-03-30,2025/Consum SEN-SCADA martie 2025.xls,30,"['01', '02', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24']",23.0,preserve native; exclude whole day from provisional UTC analyses
+SCADA_DST_OR_LABEL_UNRESOLVED,2025-10-26,2025/Consum SEN-SCADA octombrie 2025.xls,26,"['01', '02', '03', '03 bis', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24']",25.0,preserve native; exclude whole day from provisional UTC analyses
+SCADA_HEADER_DATE_OUTSIDE_PERIOD,2027-06-17,2026/Consum SEN-SCADA iulie 2026.xls,17,,,source header retained; no filename-based correction; intended 2026-07-17 remains missing
+SCADA_DST_OR_LABEL_UNRESOLVED,2026-03-29,2026/Consum SEN-SCADA martie 2026.xls,29,"['01', '02', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24']",23.0,preserve native; exclude whole day from provisional UTC analyses

@@ -1,0 +1,15 @@
+{
+  "country_status_yaml": "PASS",
+  "RO_gates": "PASS",
+  "scope": "status consistency only; no model approval",
+  "countries_present": [
+    "AU",
+    "BR",
+    "DE",
+    "ES",
+    "HU",
+    "IT",
+    "JP",
+    "RO"
+  ]
+}

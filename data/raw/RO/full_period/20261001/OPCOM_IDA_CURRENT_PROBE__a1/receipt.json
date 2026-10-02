@@ -1,0 +1,21 @@
+{
+  "id": "OPCOM_IDA_CURRENT_PROBE",
+  "dataset": "D03",
+  "publisher": "OPCOM",
+  "title": "IDA public result template recheck",
+  "url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "scope": "controlled GET template probe; not historical date request or proof of no transactions",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T17:30:06.303783+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/full_period/20261001/OPCOM_IDA_CURRENT_PROBE__a1/original.html",
+  "sha256": "cf0db6710252692576ef022bb9871ff092c3c3706cb9e326eca921bf5631195e",
+  "bytes": 66775,
+  "detected_format": "html"
+}

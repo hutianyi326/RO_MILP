@@ -1,0 +1,19 @@
+{
+  "id": "STS_MONTH_AUG2025",
+  "dataset": "D05",
+  "url": "https://www.transelectrica.ro/documents/10179/18723178/2025-08-STS-Raport.pdf/1c2cc5bf-e0f5-48ff-bc12-2019c164623c",
+  "title": "Raport de monitorizare STS august 2025",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:00:20.930837+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/18723178/2025-08-STS-Raport.pdf/1c2cc5bf-e0f5-48ff-bc12-2019c164623c",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/STS_MONTH_AUG2025__a1/original.pdf",
+  "sha256": "704f706a06cd31e2ba4bc70efe7e4303a47e8419b186d6bb673e5139fa011dfd",
+  "bytes": 1331177,
+  "detected_format": "pdf"
+}

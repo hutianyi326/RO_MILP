@@ -1,0 +1,19 @@
+{
+  "id": "ANRE_MON_OCT2025",
+  "dataset": "D12",
+  "url": "https://anre.ro/wp-content/uploads/2026/01/Monit-oct25-1.pdf",
+  "title": "Raport monitorizare piata de energie electrica octombrie 2025",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:05:40.935589+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://anre.ro/wp-content/uploads/2026/01/Monit-oct25-1.pdf",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/ANRE_MON_OCT2025__a1/original.pdf",
+  "sha256": "0ec19d76c3319bbbe8f29ef6721ebd89060ba9d7b143288742fe64ffe2635a82",
+  "bytes": 3576807,
+  "detected_format": "pdf"
+}

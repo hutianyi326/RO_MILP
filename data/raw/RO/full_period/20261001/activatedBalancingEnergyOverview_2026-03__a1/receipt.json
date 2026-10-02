@@ -1,0 +1,32 @@
+{
+  "id": "activatedBalancingEnergyOverview_2026-03",
+  "dataset": "D06",
+  "publisher": "Transelectrica / DAMAS II",
+  "title": "activatedBalancingEnergyOverview",
+  "report": "activatedBalancingEnergyOverview",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2026-02-28T22:00:00Z",
+    "timeInterval.to": "2026-03-31T21:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "month": "2026-03",
+  "source_timezone": "Europe/Bucharest",
+  "requested_start_utc": "2026-02-28T22:00:00Z",
+  "requested_end_utc": "2026-03-31T21:00:00Z",
+  "scope": "native monthly public report; unversioned ex-post snapshot",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:47:15.225626+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/full_period/20261001/activatedBalancingEnergyOverview_2026-03__a1/original.json",
+  "sha256": "ec21651d40d68dff463b531e0aa9a3e267b0e7a9cc3f5e644fa816010c59d537",
+  "bytes": 649056,
+  "detected_format": "json"
+}

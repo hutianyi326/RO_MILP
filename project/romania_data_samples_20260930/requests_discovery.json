@@ -1,0 +1,10 @@
+[
+ {"id":"S001","dataset":"D02","url":"https://www.opcom.ro/grafice-ip-raportPIP-si-volumTranzactionat/en","scope":"public DA page and form"},
+ {"id":"S002","dataset":"D03","url":"https://www.opcom.ro/rapoarte-ida-rezultate-licitatii/en","scope":"public IDA page and form"},
+ {"id":"S003","dataset":"D04","url":"https://www.opcom.ro/rapoarte-pi-rezultate-pi/en","scope":"public ID trades page and form"},
+ {"id":"S004","dataset":"D05-D07","url":"https://newmarkets.transelectrica.ro/","scope":"public DAMAS II landing"},
+ {"id":"S005","dataset":"D14","url":"https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml","scope":"candidate official FX route 2025; verify format/redirect"},
+ {"id":"S006","dataset":"D08-D11-D16","url":"https://www.transelectrica.ro/ro/web/tel/productie","scope":"official generation/load current display and historical route"},
+ {"id":"S007","dataset":"D12","url":"https://www.opcom.ro/rapoarte-lunare-pzu/en","scope":"official monthly reports route"},
+ {"id":"S008","dataset":"D08-D11-D16","url":"https://transparency.entsoe.eu/","scope":"official public transparency access"}
+]

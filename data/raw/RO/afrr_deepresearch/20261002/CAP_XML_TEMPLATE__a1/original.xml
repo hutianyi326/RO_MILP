@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReserveBidDocument>
+	<DocumentIdentification v="IDENTIFICATION"/>
+	<DocumentVersion v="1"/>
+	<DocumentType v="A37"/>
+	<SenderIdentification v="EIC_SENDER" codingScheme="A01"/>
+	<SenderRole v="A27"/>
+	<ReceiverIdentification v="10XRO-TEL------2" codingScheme="A01"/>
+	<ReceiverRole v="A34"/>
+	<CreationDateTime v="DATE_CREATION"/>
+	<ReserveBidTimeInterval v="YYYY-MM-DDTHH:MMZ/YYYY-MM-DDTHH:MMZ"/>
+	<Domain v="10YRO-TEL------P" codingScheme="A01"/>
+	<SubjectParty v="EIC_SENDER" codingScheme="A01"/>
+	<SubjectRole v="A27"/>
+	<AuctionIdentification v="ANS_AUCTION_IDENTIFICATION_CODE"/>
+	<InArea v="10YRO-TEL------P" codingScheme="A01"/>
+	<OutArea v="10YRO-TEL------P" codingScheme="A01"/>
+	<MeasureUnitQuantity v="MAW"/>
+	<Currency v="LEI"/>
+	<MeasureUnitPrice v="MWH"/>
+	<MeasureUnitEnergyPrice v="MAW"/>
+        <TS bi="BID_IDENTIFICATION_CODE" bt="ANS_SERVICE_CODE" di="A01">  
+            <!--Service codes:
+            X05 = FCR 
+            X02 = aFRR Down
+            X01 = aFRR Up
+            X04 = mFRR Down
+            X03 = mFRR Up
+            -->
+            <P t="YYYY-MM-DDTHH:MMZ/YYYY-MM-DDTHH:MMZ" r="PT60M">
+                <I o="1" q="QUANTITY" p="PRICE"/>
+                <I o="2" q="QUANTITY" p="PRICE"/>
+                <I o="3" q="QUANTITY" p="PRICE"/>
+                <I o="4" q="QUANTITY" p="PRICE"/>
+                <I o="5" q="QUANTITY" p="PRICE"/>
+                <I o="6" q="QUANTITY" p="PRICE"/>
+                <I o="7" q="QUANTITY" p="PRICE"/>
+                <I o="8" q="QUANTITY" p="PRICE"/>
+                <I o="9" q="QUANTITY" p="PRICE"/>
+                <I o="10" q="QUANTITY" p="PRICE"/>
+                <I o="11" q="QUANTITY" p="PRICE"/>
+                <I o="12" q="QUANTITY" p="PRICE"/>
+                <I o="13" q="QUANTITY" p="PRICE"/>
+                <I o="14" q="QUANTITY" p="PRICE"/>
+                <I o="15" q="QUANTITY" p="PRICE"/>
+                <I o="16" q="QUANTITY" p="PRICE"/>
+                <I o="17" q="QUANTITY" p="PRICE"/>
+                <I o="18" q="QUANTITY" p="PRICE"/>
+                <I o="19" q="QUANTITY" p="PRICE"/>
+                <I o="20" q="QUANTITY" p="PRICE"/>
+                <I o="21" q="QUANTITY" p="PRICE"/>
+                <I o="22" q="QUANTITY" p="PRICE"/>
+                <I o="23" q="QUANTITY" p="PRICE"/>
+                <I o="24" q="QUANTITY" p="PRICE"/>
+	    </P>
+	</TS>
+</ReserveBidDocument>

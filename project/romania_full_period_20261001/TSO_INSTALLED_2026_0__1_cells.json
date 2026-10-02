@@ -1,0 +1,271 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      {
+        "column": 1,
+        "value": "Situația privind numărul de prosumatori racordați la rețelele de distribuție ale operatorilor de distribuție la nivelul SEN din data de  01.08.2026",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 2,
+    "cells": []
+  },
+  {
+    "row": 3,
+    "cells": [
+      {
+        "column": 2,
+        "value": "Operator de distribuţie a energiei electrice",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": "Prosumatori",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "Pi ",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      {
+        "column": 4,
+        "value": "Nr.",
+        "ctype": 1
+      },
+      {
+        "column": 5,
+        "value": "[MW]",
+        "ctype": 1
+      }
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      {
+        "column": 2,
+        "value": "ALLIANSO PARK MANAGEMENT",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 11.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 5.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      {
+        "column": 2,
+        "value": "DELGAZ GRID",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 53660.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 560.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      {
+        "column": 2,
+        "value": "DISTRIBUTIE ENERGIE OLTENIA",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 63444.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 689.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      {
+        "column": 2,
+        "value": "OMV PETROM",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 37.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      {
+        "column": 2,
+        "value": "PLOIESTI INDUSTRIAL PARC",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 8.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      {
+        "column": 2,
+        "value": "RETELE ELECTRICE ROMANIA",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 99396.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 1246.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      {
+        "column": 2,
+        "value": "DEER MUNTENIA NORD",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 47595.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 509.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      {
+        "column": 2,
+        "value": "DEER TRANSILVANIA NORD ",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 58397.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 613.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      {
+        "column": 2,
+        "value": "DEER TRANSILVANIA SUD",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 50669.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 514.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      {
+        "column": 2,
+        "value": "TETAROM",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 32.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 11.0,
+        "ctype": 2
+      }
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      {
+        "column": 2,
+        "value": "Total",
+        "ctype": 1
+      },
+      {
+        "column": 4,
+        "value": 373249.0,
+        "ctype": 2
+      },
+      {
+        "column": 5,
+        "value": 4149.0,
+        "ctype": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "IDCT_2025-09-24",
+  "dataset": "D04",
+  "url": "https://www.opcom.ro/rapoarte-pi-rezultate-pi/en",
+  "body": {
+    "ziua_eng": "09/24/2025",
+    "action": "trading_for",
+    "limba": "en",
+    "buton": "Refresh",
+    "tip": "15"
+  },
+  "title": "OPCOM public selected date IDCT 2025-09-24",
+  "scope": "anonymous date-selected publication; verify body date and field-level numeric coverage; no claim that blank tables constitute complete market data",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:31:51.800385+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "form_file": "data/raw/RO/gap_closure/20261001/IDCT_2025-02-12__a2/form_original.html",
+  "form_sha256": "e03faefe9df4dc62d5c952d316cdca72e538ae0acd4e9fb091fae25d4ca42f88",
+  "anonymous_session_reused": true,
+  "error": "RemoteDisconnected: Remote end closed connection without response"
+}

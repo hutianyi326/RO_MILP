@@ -1,0 +1,18 @@
+{
+  "id": "DA_2025-05-02",
+  "dataset": "D02",
+  "publisher": "OPCOM",
+  "title": "Mcp and Traded Volume native CSV",
+  "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/02/05/2025/en?resolution=60",
+  "source_date": "2025-05-02",
+  "resolution_minutes": 60,
+  "source_timezone": "Europe/Brussels",
+  "scope": "full-period research native market date",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-09-30T16:44:15.818969+00:00",
+  "status": "FAILED",
+  "publication_time": null,
+  "revision_time": null,
+  "error": "TimeoutError: The read operation timed out"
+}

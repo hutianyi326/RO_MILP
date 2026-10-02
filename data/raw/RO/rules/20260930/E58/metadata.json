@@ -1,0 +1,14 @@
+{
+  "id": "E58",
+  "title": "OPCOM week40 2025 report MTU operation confirmation",
+  "url": "https://ns1.opcom.ro/uploads/doc/rapoarte/saptaminal/RSS_2025_40_EN.pdf",
+  "resolved_url": "https://ns1.opcom.ro/uploads/doc/rapoarte/saptaminal/RSS_2025_40_EN.pdf",
+  "retrieved_utc": "2026-09-30T08:16:52.2222006Z",
+  "access_date": "2026-09-30",
+  "status": 200,
+  "content_type": "application/pdf",
+  "path": "data\\raw\\RO\\rules\\20260930\\E58\\original.pdf",
+  "bytes": 326264,
+  "sha256": "775de11642cfc719b09f490398ca5068d43f822b3d357be048f967cdf6e1332b",
+  "extracted_characters": 11970
+}

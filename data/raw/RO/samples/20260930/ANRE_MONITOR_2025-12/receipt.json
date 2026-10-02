@@ -1,0 +1,17 @@
+{
+  "id": "ANRE_MONITOR_2025-12",
+  "dataset": "D07-D09-D10-D12",
+  "url": "https://anre.ro/wp-content/uploads/2026/03/Monit-dec25-cu-eticheta.pdf",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official regulatory monthly controls; not QH final prices",
+  "retrieved_utc": "2026-09-30T09:43:14.0528197Z",
+  "status": "HTTP_OK_UNPARSED",
+  "error": null,
+  "http_status": 200,
+  "resolved_url": null,
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/samples/20260930/ANRE_MONITOR_2025-12/original.pdf",
+  "bytes": 4629005,
+  "sha256": "06d2769b69776f66b35f810135f9dbe1f08005a643d92318ef97a91ed707a4c8"
+}

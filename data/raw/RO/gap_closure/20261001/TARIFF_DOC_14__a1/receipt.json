@@ -1,0 +1,20 @@
+{
+  "id": "TARIFF_DOC_14",
+  "dataset": "D13",
+  "url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+de+introducere+a+energiei+electrice+%C3%AEn+re%C8%9Beaua+electric%C4%83%20de+transport/e26fcf19-573d-4403-9df2-c283057d46a1",
+  "title": "Tariful pentru pentru achiziţia serviciilor de sistem (aplicabil incepand cu data de 01.01.2026)",
+  "scope": "official tariff body; verify unit/value/effective date, catalogue labels may conflict",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T12:44:58.649589+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.transelectrica.ro/documents/10179/20620484/Tariful+pentru+serviciul+de+transport+de+introducere+a+energiei+electrice+%C3%AEn+re%C8%9Beaua+electric%C4%83%20de+transport/e26fcf19-573d-4403-9df2-c283057d46a1",
+  "content_type": "application/pdf",
+  "raw_file": "data/raw/RO/gap_closure/20261001/TARIFF_DOC_14__a1/original.pdf",
+  "sha256": "ecbce9b6c9f68414bb3949771b30bbfaaa471277425482b1a54a90ff2b5f6fca",
+  "bytes": 104744,
+  "detected_format": "pdf"
+}

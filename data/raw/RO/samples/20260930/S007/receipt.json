@@ -1,0 +1,11 @@
+{
+  "id": "S007",
+  "dataset": "D12",
+  "url": "https://www.opcom.ro/rapoarte-lunare-pzu/en",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "official monthly reports route",
+  "retrieved_utc": "2026-09-30T09:16:39.7222634Z",
+  "status": "FAILED",
+  "error": "Response status code does not indicate success: 404 (Not Found)."
+}

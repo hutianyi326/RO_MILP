@@ -1,0 +1,56 @@
+[
+  {
+    "id": "STS_MONTH_AUG2025",
+    "dataset": "D05",
+    "url": "https://www.transelectrica.ro/documents/10179/18723178/2025-08-STS-Raport.pdf/1c2cc5bf-e0f5-48ff-bc12-2019c164623c",
+    "title": "Raport de monitorizare STS august 2025"
+  },
+  {
+    "id": "ANRE_ANNUAL2024",
+    "dataset": "D10",
+    "url": "https://anre.ro/wp-content/uploads/2025/12/Raport-anual-ANRE-2024.pdf",
+    "title": "Raport anual ANRE 2024"
+  },
+  {
+    "id": "OPCOM_TARIFF_ARCHIVE",
+    "dataset": "D13",
+    "url": "https://www.opcom.ro/anunturi-stiri-fpa/ro/10",
+    "title": "OPCOM historical tariff notices"
+  },
+  {
+    "id": "OPCOM_ANNUAL2025",
+    "dataset": "D12",
+    "url": "https://www.opcom.ro/opcom/uploads/doc/Compania/1.%20Raport%20anual%20OPCOM%20S.A._2025.pdf",
+    "title": "Raport anual OPCOM 2025"
+  },
+  {
+    "id": "TSO_ECH_STS_CATALOG",
+    "dataset": "D05-D06",
+    "url": "https://www.transelectrica.ro/ro/web/tel/echilibrare-si-sts",
+    "title": "Echilibrare si STS transparency catalogue"
+  },
+  {
+    "id": "FRR_RULE_282874",
+    "dataset": "D01",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/282874",
+    "title": "Regulament 08/12/2021 historical consolidation; history date to verify in body"
+  },
+  {
+    "id": "FRR_RULE_295528",
+    "dataset": "D01",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/295528",
+    "title": "Regulament 08/12/2021 historical consolidation; history date to verify in body"
+  },
+  {
+    "id": "FRR_RULE_295520",
+    "dataset": "D01",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/295520",
+    "title": "Regulament 08/12/2021 historical consolidation; history date to verify in body"
+  },
+  {
+    "id": "FRR_RULE_288584",
+    "dataset": "D01",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/288584",
+    "title": "Regulament 08/12/2021 historical consolidation; history date to verify in body"
+  }
+]

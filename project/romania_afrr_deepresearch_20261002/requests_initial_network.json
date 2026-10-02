@@ -1,0 +1,40 @@
+[
+  {
+    "id": "marginalPricesOverview_2025-08_NET",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "scope": "2025-08 Europe/Bucharest; expected 2976 PT15M rows"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2025-08_NET",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "scope": "2025-08 Europe/Bucharest; expected 2976 PT15M rows"
+  },
+  {
+    "id": "marginalPricesOverview_metadata_NET",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_metadata_NET",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview"
+  },
+  {
+    "id": "tenderStatistics_metadata_NET",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=tenderStatistics"
+  },
+  {
+    "id": "DAMAS_PUBLIC_HOME_NET",
+    "url": "https://newmarkets.transelectrica.ro/"
+  },
+  {
+    "id": "TSO_STS_INFO_NET",
+    "url": "https://www.transelectrica.ro/web/tel/295"
+  },
+  {
+    "id": "TSO_BIDDING_GUIDE_NET",
+    "url": "https://www.transelectrica.ro/web/tel/despre-noi1"
+  },
+  {
+    "id": "RO_REG_127_NET",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282874"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "S010",
+  "dataset": "D14",
+  "url": "https://www.bnr.ro/23988-cursurile-pietei-valutare-in-format-xml",
+  "method": "GET",
+  "parameters": null,
+  "requested_scope": "new official XML catalogue; dynamic content verification needed",
+  "retrieved_utc": "2026-09-30T09:23:45.8964348Z",
+  "status": "FAILED",
+  "error": "The SSL connection could not be established, see inner exception."
+}

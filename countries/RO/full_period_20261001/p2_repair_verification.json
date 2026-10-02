@@ -1,0 +1,156 @@
+{
+  "generated_utc": "2026-09-30T18:36:30.106955+00:00",
+  "status": "PASS",
+  "scope": "P2 source labels and profile counts only; no U/DS or model gate closure",
+  "counts": {
+    "direct_native_source_locator_rows": 14567,
+    "scada_native_hourly.csv exact_locator_rows": 14567,
+    "scada_price_joint_under_clock_A.csv exact_locator_rows": 14496,
+    "scada_negative_source_values.csv exact_locator_rows": 111,
+    "profile_groups": 481,
+    "profile_mean_fields": 12,
+    "profile_valid_count_cells": 5772
+  },
+  "checks": 23,
+  "failed": [],
+  "details": [
+    {
+      "check": "all four original affected tables retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "official archive immutable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "native exact member/sheet/row labels and date match source",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "scada_native_hourly.csv native labels and associated hour-end labels preserved",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "scada_native_hourly.csv non-label values unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scada_price_joint_under_clock_A.csv native labels and associated hour-end labels preserved",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "scada_price_joint_under_clock_A.csv non-label values unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "scada_negative_source_values.csv native labels and associated hour-end labels preserved",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "scada_negative_source_values.csv non-label values unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "profile row counts recomputed from source-located native rows",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "profile per-field valid counts recomputed from source-located native rows",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "profile means recomputed from source-located native rows",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all existing profile means unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2025-10 label 03 disclosed native n=31",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2025-10 label 03 bis disclosed native n=1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2025-03 label 03 disclosed native n=30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2026-03 label 03 disclosed native n=30",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all group counts sum to 14,567 native rows",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "three DST days still excluded from UTC joint",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "A joint row count unchanged at 14,496",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "negative source row count unchanged at 111",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "frequency field still does not assert Hz",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "changes confined to disclosed repair/data/validation/doc files",
+      "pass": true,
+      "detail": [
+        "countries/RO/full_period_20261001/analysis_report.md",
+        "countries/RO/full_period_20261001/data_dictionary.md",
+        "countries/RO/full_period_20261001/scada_hourly_profiles.csv",
+        "countries/RO/full_period_20261001/scada_native_hourly.csv",
+        "countries/RO/full_period_20261001/scada_negative_source_values.csv",
+        "countries/RO/full_period_20261001/scada_price_joint_under_clock_A.csv",
+        "countries/RO/full_period_20261001/supplement_verification.json",
+        "project/romania_full_period_20261001/final_supplements.py",
+        "project/romania_full_period_20261001/review_invocation.json",
+        "project/romania_full_period_20261001/supplement_statistics.py"
+      ]
+    }
+  ],
+  "round1_live_changes": [
+    "countries/RO/full_period_20261001/analysis_report.md",
+    "countries/RO/full_period_20261001/data_dictionary.md",
+    "countries/RO/full_period_20261001/scada_hourly_profiles.csv",
+    "countries/RO/full_period_20261001/scada_native_hourly.csv",
+    "countries/RO/full_period_20261001/scada_negative_source_values.csv",
+    "countries/RO/full_period_20261001/scada_price_joint_under_clock_A.csv",
+    "countries/RO/full_period_20261001/supplement_verification.json",
+    "project/romania_full_period_20261001/final_supplements.py",
+    "project/romania_full_period_20261001/review_invocation.json",
+    "project/romania_full_period_20261001/supplement_statistics.py"
+  ]
+}

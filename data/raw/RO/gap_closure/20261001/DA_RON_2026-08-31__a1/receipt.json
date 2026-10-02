@@ -1,0 +1,20 @@
+{
+  "id": "DA_RON_2026-08-31",
+  "dataset": "D02-D14",
+  "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/31/08/2026/ro?resolution=15",
+  "title": "OPCOM native CSV Romanian RON price selected date",
+  "scope": "language route interpretation; verify currency header/body before any conversion rule",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-01T13:33:32.414416+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/31/08/2026/ro?resolution=15",
+  "content_type": "text/html; charset=UTF-8",
+  "raw_file": "data/raw/RO/gap_closure/20261001/DA_RON_2026-08-31__a1/original.html",
+  "sha256": "fe3ff3759cadabde646dd87563f0c1db46627aa7224836f6df44e24f1a9f05e1",
+  "bytes": 6243,
+  "detected_format": "html"
+}

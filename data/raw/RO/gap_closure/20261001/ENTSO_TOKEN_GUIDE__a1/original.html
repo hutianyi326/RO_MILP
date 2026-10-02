@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="google" content="notranslate">
+    <title>Transparency Platform</title>
+
+    
+    <script>
+        if (!location.href.match(/^(about:|file:)/)) {
+          var bplCookie = document.cookie.match(/(^|;\s*)uu\.app\.bpl=([^;]+)/);
+          var bplSegmentCount = (bplCookie ? Number(bplCookie[2]) : null);
+          if (typeof bplSegmentCount !== "number" || isNaN(bplSegmentCount) || bplSegmentCount < 0) bplSegmentCount = 2;
+          var appBaseUrlPath = (location.pathname.split(/\//).slice(0,1+bplSegmentCount).join("/")+"/").replace(/\/+/g,"/").replace(/"/g,"");
+          var appAssetsRelativeUrlPath = "public/1.48.0/";
+          document.write('<base href="' + appBaseUrlPath + appAssetsRelativeUrlPath + '" data-uu-app-base="' + appBaseUrlPath + '" data-uu-app-assets-base="' + appAssetsRelativeUrlPath + '">');
+        }
+      </script>
+
+    <script>document.write("<script src=\"uu5-environment.js\"><"+"/script>");</script>
+    <script>
+      var cdnBaseUri = ((window.UU5 || {}).Environment || {}).cdnBaseUri || "https://cdn.plus4u.net";
+      if (cdnBaseUri.endsWith("/")) cdnBaseUri = cdnBaseUri.slice(0, -1);
+    </script>
+
+    <script>document.write("<script src=\"./lib/uu5g05-browser-compatibility-1.38.5/uu5g05-browser-compatibility.min.js\" crossorigin=\"anonymous\"><"+"/script>");</script>
+
+    <script>document.write("<link type=\"text/css\" rel=\"stylesheet\" href=\"./lib/uu_gdsg01-unicorn-1.15.0/assets/font.min.css\">");</script>
+    <script>document.write("<link type=\"text/css\" rel=\"stylesheet\" href=\"loading.css\">");</script>
+    
+    
+    <script>document.write("<script src=\"./lib/uu5loaderg01-1.8.1/uu5loaderg01.min.js\" crossorigin=\"anonymous\"><"+"/script>");</script>
+
+    <meta name="apple-mobile-web-app-title" content="usyTpgui">
+    <meta name="application-name" content="usyTpgui">
+
+
+
+    <script>document.write("<link rel=\"icon\" type=\"image/png\" href=\"" + appBaseUrlPath + appAssetsRelativeUrlPath + "assets/meta/favicon-entsoe.png\" sizes=\"32x32\">");</script>
+    <script>document.write("<link rel=\"icon\" type=\"image/png\" href=\"" + appBaseUrlPath + appAssetsRelativeUrlPath + "assets/meta/favicon-entsoe.png\" sizes=\"16x16\">");</script>
+
+
+    
+    <style>
+      #uu5-portal-modal > aside {
+        background-color: transparent !important;
+        background-image: linear-gradient(90deg,rgba(39,48,106,.5),rgba(27,129,111,.5)) !important;
+      }
+    </style>
+
+    
+
+    <script>
+      (function () {
+        if (window.Uu5Loader) {
+          var bundledConfig = {
+            "imports": {
+              "create-react-class": "./lib/create-react-class-15.7.0/create-react-class.min.js",
+              "prop-types": "./lib/prop-types-15.7.2/prop-types.min.js",
+              "react": "./lib/react-18.3.1/react.production.min.js",
+              "react-dom": "./lib/react-dom-18.3.1/react-dom.production.min.js",
+              "uu5chartg01": "./lib/uu5chartg01-1.4.1/uu5chartg01.min.js",
+              "uu5dndg01": "./lib/uu5dndg01-1.4.0/uu5dndg01.min.js",
+              "uu5g04": "./lib/uu5g04-1.57.0/uu5g04.min.js",
+              "uu5g04-block-layout": "./lib/uu5g04-1.57.0/uu5g04-block-layout.min.js",
+              "uu5g04-bricks": "./lib/uu5g04-1.57.0/uu5g04-bricks.min.js",
+              "uu5g04-bricks-editable": "./lib/uu5g04-1.57.0/uu5g04-bricks-editable.min.js",
+              "uu5g04-forms": "./lib/uu5g04-1.57.0/uu5g04-forms.min.js",
+              "uu5g04-hooks": "./lib/uu5g04-1.57.0/uu5g04-hooks.min.js",
+              "uu5g05": "./lib/uu5g05-1.38.5/uu5g05.min.js",
+              "uu5g05-browser-compatibility": "./lib/uu5g05-browser-compatibility-1.38.5/uu5g05-browser-compatibility.min.js",
+              "uu5g05-elements": "./lib/uu5g05-elements-1.38.5/uu5g05-elements.min.js",
+              "uu5g05-forms": "./lib/uu5g05-forms-1.38.5/uu5g05-forms.min.js",
+              "uu5loaderg01": "./lib/uu5loaderg01-1.8.1/uu5loaderg01.min.js",
+              "uu5stringg01": "./lib/uu5stringg01-1.10.7/uu5stringg01.min.js",
+              "uu5tilesg02": "./lib/uu5tilesg02-2.17.2/uu5tilesg02.min.js",
+              "uu5tilesg02-controls": "./lib/uu5tilesg02-controls-2.17.2/uu5tilesg02-controls.min.js",
+              "uu5tilesg02-elements": "./lib/uu5tilesg02-elements-2.17.2/uu5tilesg02-elements.min.js",
+              "uu_appg01": "./lib/uu_appg01-6.6.0/uu_appg01.min.js",
+              "uu_appg01_core": "./lib/uu_appg01_core-6.6.0/uu_appg01_core.min.js",
+              "uu_appg01_oidc": "./lib/uu_appg01_oidc-4.1.0/uu_appg01_oidc.min.js",
+              "uu_oidcg01": "./lib/uu_appg01_oidc-4.1.0/uu_appg01_oidc.min.js",
+              "uu_gdsg01-unicorn": "./lib/uu_gdsg01-unicorn-1.15.0/uu_gdsg01-unicorn.min.js",
+              "uu_i18ng01": "./lib/uu_i18ng01-1.7.1/uu_i18ng01.min.js",
+              "uu_plus4u5g02": "./lib/uu_plus4u5g02-1.38.0/uu_plus4u5g02.min.js",
+              "uu_plus4u5g02-app": "./lib/uu_plus4u5g02-app-1.38.0/uu_plus4u5g02-app.min.js",
+              "uu_plus4u5g02-elements": "./lib/uu_plus4u5g02-elements-1.38.0/uu_plus4u5g02-elements.min.js"
+            }
+          };
+          var bundledConfigExplicit = {
+            "imports": {
+              "_index": "./index.js"
+            },
+            "dependencyMap": {
+              "_index": ["uu_appg01_oidc","uu_appg01_core","uu5g04","uu5g05","prop-types","react","react-dom","create-react-class","uu5stringg01","uu5g04-bricks","uu5chartg01","uu_i18ng01","uu5g05-elements","uu5g05-forms","uu5tilesg02","uu5dndg01","uu5tilesg02-elements","uu5tilesg02-controls","uu_appg01","uu_plus4u5g02","uu_plus4u5g02-elements","uu_plus4u5g02-app"]
+            }
+          };
+          Uu5Loader.config(bundledConfig);
+          Uu5Loader.config(bundledConfigExplicit);
+        }
+      })();
+    </script>
+  </head>
+
+  <body class="uu-gdsg01-unicorn">
+  <div id="uuApp">
+    <div id="uuAppLoading">
+      <div class="uu-app-loading" hidden>
+        <div class="uu-app-loading-svg-container">
+          <svg class="uu-app-loading-svg" version="1.1" viewBox="0 0 252 252" xmlns="http://www.w3.org/2000/svg" role="alert" aria-busy="true">
+            <defs>
+              <linearGradient id="uu-app-loading-a" x1="50%" x2="50%" y2="100%">
+                <stop stop-color="currentColor" offset="0"></stop>
+                <stop stop-color="currentColor" stop-opacity=".3" offset="1"></stop>
+              </linearGradient>
+            </defs>
+            <circle cx="126" cy="126" r="123" stroke-width="6" fill="none" stroke="url(#uu-app-loading-a)"></circle>
+          </svg>
+        </div>
+        <div class="uu-app-loading-name"></div>
+      </div>
+      <script>
+        (function () {
+          function applySize(mobile) {
+            document.querySelector(".uu-app-loading-svg")?.setAttribute("viewBox", mobile ? "0 0 144 144" : "0 0 252 252");
+            var circleEl = document.querySelector(".uu-app-loading-svg circle");
+            if (circleEl) {
+              circleEl.setAttribute("cx", mobile ? "72" : "126");
+              circleEl.setAttribute("cy", mobile ? "72" : "126");
+              circleEl.setAttribute("r", mobile ? "69" : "123");
+            }
+          }
+          var media = window.matchMedia("screen and (min-width: 481px)");
+          media.onchange = (e) => applySize(!e.matches);
+          if (!media.matches) applySize(true);
+
+          var env = window.uu5Environment || (window.UU5 || {}).Environment || {}
+          var visual = env["uu_plus4u5g02_uuApp"];
+          if (visual) {
+            if (visual.background) document.body.style.background = visual.background;
+            if (visual.foreground) {
+              document.body.style.color = visual.foreground;
+              document.querySelector(".uu-app-loading").style.color = visual.foreground;
+              document.querySelector(".uu-app-loading-name").style.color = visual.foreground;
+            }
+            if (visual.name) {
+              document.querySelector(".uu-app-loading-name").appendChild(document.createTextNode(visual.name));
+              if (visual.nameForeground) document.querySelector(".uu-app-loading-name").style.color = visual.nameForeground;
+            }
+            if (visual.icon) {
+              fetch(visual.icon).then(function (response) {
+                var contentType = response.headers.get("Content-Type");
+                var isSvg = /image\/svg/.test(contentType);
+                return isSvg
+                  ? response.text().then(function (text) { return { type: "svg", text: text }; })
+                  : response.blob().then(function (blob) { return { type: "blob", blob: blob }});
+              }).then(function (iconInfo) {
+                var imageStyle = "position: absolute; top: 0; right: 0; bottom: 0; left: 0; object-fit: contain; object-position: center; margin: auto; max-width: 100%; max-height: 100%; z-index: -1;";
+                var el;
+                if (iconInfo.type === "svg") {
+                  var div = document.createElement("div");
+                  div.innerHTML = iconInfo.text;
+                  var svgEl = div.querySelector("svg");
+                  if (svgEl) svgEl.style.cssText = imageStyle;
+                  el = svgEl;
+                } else {
+                  var img = document.createElement("img");
+                  img.src = URL.createObjectURL(iconInfo.blob);
+                  img.style.cssText = imageStyle;
+                  el = img;
+                }
+                if (el) {
+                  var svgContainerEl = document.querySelector(".uu-app-loading-svg-container");
+                  if (svgContainerEl) svgContainerEl.appendChild(el);
+                }
+              });
+            }
+          }
+          document.querySelector(".uu-app-loading").setAttribute("data-visual-ready", "");
+        })();
+      </script>
+
+    </div>
+  </div>
+
+    <div id="uu-app-script-error" hidden>
+      <style>
+        .uu-app-script-error-description { text-align: center; margin: 3em auto 1em; }
+        .uu-app-script-error-toggle { background: #e0e0e0; border: 0 none; display: block; padding: 1em; margin: 0 auto; text-align: center; border-radius: 3px; cursor: pointer; }
+        .uu-app-script-error-toggle:hover, .uu-app-script-error-toggle:focus { background: #bdbdbd; }
+        .uu-app-script-error-details { background: #eeeeee; overflow: auto; max-width: 100%; }
+      </style>
+      <div lang="en">
+        <div class="uu-app-script-error-description" hidden data-key="error">An unexpected error occurred. Try <a class="uu-app-script-error-refresh">refreshing the page</a>.</div>
+        <div class="uu-app-script-error-description" hidden data-key="offline">You are not connected to the Internet. Fix the connection and <a class="uu-app-script-error-refresh">refresh the page</a>.</div>
+        <button class="uu-app-script-error-toggle">Show error details</button>
+        <pre class="uu-app-script-error-details" hidden tabindex="0"></pre>
+      </div>
+    </div>
+    <script>
+      function handleUuAppScriptError(error) {
+        console.error(error);
+        var targetEl = document.getElementById("uuApp");
+        if (!targetEl) document.body.appendChild(targetEl = document.createElement("div"));
+        else targetEl.innerHTML = "";
+
+        var descKey = navigator.onLine === false ? "offline" : "error";
+        var errorEl = document.querySelector('#uu-app-script-error [lang="en"]');
+        var descEl = errorEl.querySelector('.uu-app-script-error-description[data-key="' + descKey + '"]');
+        var toggleEl = errorEl.querySelector(".uu-app-script-error-toggle");
+        var detailsEl = errorEl.querySelector(".uu-app-script-error-details");
+        var helpdeskEl = errorEl.querySelector(".uu-app-script-error-helpdesk");
+        var refreshEl = descEl.querySelector(".uu-app-script-error-refresh");
+
+        var uu5Env = typeof uu5Environment !== "undefined" ? uu5Environment || {} : typeof UU5 !== "undefined" ? (UU5 || {}).Environment || {} : {};
+        if (uu5Env["uu_plus4u5g02_helpdeskUri"]) helpdeskEl.href = uu5Env["uu_plus4u5g02_helpdeskUri"];
+        if (refreshEl && typeof Uu5Loader !== "undefined") {
+          refreshEl.href = location.href;
+          refreshEl.addEventListener("click", function refreshPage(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            Uu5Loader.refreshCache().then(function () {
+              location.reload();
+            });
+          });
+        }
+        descEl.hidden = false;
+        toggleEl.addEventListener("click", function () { detailsEl.hidden = false; this.style.cssText = "display: none"; detailsEl.focus(); });
+        detailsEl.appendChild(document.createTextNode(error != null ? (error.stack || error) + "" : error + ""));
+        detailsEl.addEventListener("keydown", function (e) {
+          if ((e.ctrlKey || e.metaKey) && e.keyCode === 65) { e.preventDefault(); e.stopPropagation(); getSelection().selectAllChildren(this); }
+        });
+        targetEl.appendChild(errorEl);
+
+        var loadingEl = document.getElementById("uuAppLoading");
+        if (loadingEl) loadingEl.parentNode.removeChild(loadingEl);
+      }
+    </script>
+
+
+    <script>
+      if (!window.Uu5Loader) handleUuAppScriptError(new Error("Uu5Loader failed to load."));
+      else Uu5Loader.import("./index.js").then(function (Index) {
+        Index.render("uuApp");
+      }).catch(handleUuAppScriptError);
+    </script>
+
+    <noscript>
+      <style>
+        .uu-app-loading {
+          display: none !important;
+        }
+        .noscript-info {
+          background: #c6c6c6;
+          display: block;
+          padding: 3em 1em;
+          margin: 3em 0;
+          text-align: center;
+        }
+      </style>
+      <div class="noscript-info">
+        <h4>We have detected that JavaScript is disabled. This application requires JavaScript to run.</h4>
+        <div>
+          <a href="http://www.enable-javascript.com/" target="_blank">
+            How to enable JavaScript in your web browser?
+          </a>
+        </div>
+      </div>
+      <div class="noscript-info">
+        <h4>Zjistili jsme, že nemáte povolený JavaScript. Tato aplikace ke spuštění vyžaduje JavaScript.</h4>
+        <div>
+          <a href="http://www.enable-javascript.com/cz/" target="_blank">
+            Jak povolit JavaScript ve Vašem prohlížeči?
+          </a>
+        </div>
+      </div>
+    </noscript>
+  </body>
+</html>
