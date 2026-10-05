@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "independent_month_series_checks": 135,
+  "maximum_absolute_difference": 2.842170943040401e-14,
+  "method": "Native hourly capacity and native QH activation prices independently aggregated; daily DA top/bottom 2 hours independently checked with pandas; DST hours distinct by UTC",
+  "models_modified": false
+}

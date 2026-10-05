@@ -1,0 +1,16 @@
+{
+  "input_sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a",
+  "prior_monthly_sha256": "4d40b12c7f501fc9d272dc4ec14b08d75747ff97d0a33c616eaef53b7cc4d185",
+  "timezone": "Europe/Bucharest",
+  "activation_selection": "For UP and DOWN independently: mean of four QH prices per hour; select two highest hourly means each local day, non-contiguous allowed; average daily pairs equally within month",
+  "missing": "Exclude any hour with missing/nonfinite QH price; do not interpolate or fill zeros; each day must contain at least two complete hours",
+  "zero_negative_prices": "Retained as numeric published values; highest means descending numeric value, not absolute magnitude",
+  "DA_capacity_columns": "Unchanged from previous summary",
+  "price_unit": "Activation and DA EUR/MWh; capacity EUR/(MW h); existing DAMAS proxy semantics retained",
+  "model_modified": false,
+  "outputs": [
+    "monthly_prices_eur.csv",
+    "daily_activation_highest_2h.csv",
+    "coverage.csv"
+  ]
+}

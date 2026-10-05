@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "input": "data\\processed\\RO\\prices_eur_v1_20261002\\prices_eur_qh_20250101_20260831.csv",
+  "input_sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a",
+  "months": 20,
+  "days": 608,
+  "qh": 58364,
+  "timezone": "Europe/Bucharest",
+  "daily_da_selection": "two highest/lowest actual hours; not necessarily contiguous; QH DA time-averaged to UTC-identified delivery hours; monthly arithmetic average of daily pairs",
+  "other_price_average": "equal QH time weights; omit missing; retain published zero and negative values; no dispatch, activation-volume or supplier-capacity weighting; do not filter with MILP activation-validity mask",
+  "capacity_price": "EUR/(MW h); DAMAS average accepted price proxy",
+  "activation_price": "EUR/MWh; DAMAS marginal-price proxy; not average activated-energy settlement price",
+  "native_capacity_hour_repetition": "four identical QH prices per full hour; repetition does not multiply monthly price",
+  "outputs": [
+    "monthly_prices_eur.csv",
+    "daily_da_highest_lowest_2h.csv",
+    "coverage.csv"
+  ]
+}

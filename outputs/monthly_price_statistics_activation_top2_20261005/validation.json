@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "monthly_checks": 140,
+  "max_absolute_difference": 5.684341886080802e-14,
+  "method": "Independent pandas aggregation from native activation QH file; complete 4-QH hours only; highest 2 hourly means per day, then monthly mean; unchanged DA/capacity columns compared",
+  "days_per_direction": 608,
+  "model_changed": false
+}
