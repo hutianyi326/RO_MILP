@@ -1,0 +1,45 @@
+{
+  "scope": "Exact solver and regression source used for full run; not a git commit",
+  "files": [
+    {
+      "path": "src/ro_milp/audit.py",
+      "sha256": "79a74d2cc3d93d1f992b189c5d19af83c17487366f0f327f79aa166217afc808"
+    },
+    {
+      "path": "src/ro_milp/cli.py",
+      "sha256": "aa3433fde2ea75b7431fc0c19573cdaa62808aa46ef018968a3a7ab618dabfe3"
+    },
+    {
+      "path": "src/ro_milp/config.py",
+      "sha256": "57cb1dfd2dde1c448d692b33dc219619925c9db48a8f34ce4e3c94c5d8a95080"
+    },
+    {
+      "path": "src/ro_milp/core.py",
+      "sha256": "534bbdd8f33d8202cf06933e6fd6da9e89f15c329693230a365c56f418bf0716"
+    },
+    {
+      "path": "src/ro_milp/inputs.py",
+      "sha256": "c117834bc89fcd8f3aa80ba02e5fac4c14ed7309da56cc412714e87e21b50b3b"
+    },
+    {
+      "path": "src/ro_milp/rolling.py",
+      "sha256": "127cad7cef28fcc90ea94d135dc69c1419071f0f1c70d2b8796f7e1bac970fa2"
+    },
+    {
+      "path": "src/ro_milp/__init__.py",
+      "sha256": "e5e105e022957baacea76ef4fbad77e88007c8c14fd65d38f5917b55a69bb6d7"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "5465543a0d89914ea4b30e468e86bed30756d3cea94411a0dd6ff46a3e05c158"
+    },
+    {
+      "path": "project/run_ro_milp.py",
+      "sha256": "b2a8805b226cd096bb25c14aab02a97cfcec32d8a370ed24d0eb7748e4a1d50f"
+    },
+    {
+      "path": "tests/test_model.py",
+      "sha256": "2513da10961d5f822f68f656c0fb1b225b988ee35ca4f6a8cdbed49459a308ac"
+    }
+  ]
+}

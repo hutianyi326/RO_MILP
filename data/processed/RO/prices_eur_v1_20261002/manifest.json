@@ -1,0 +1,70 @@
+{
+  "version": "RO EUR prices v1 20261002",
+  "files": [
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/activation_native_qh_eur.csv",
+      "bytes": 12953026,
+      "sha256": "20464263b978c8b2d1462f74ba5827bfea6658c09be618f3424ed39341707578"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/build_summary.json",
+      "bytes": 1259,
+      "sha256": "2530cfbb36b246823c3613eef1692b38e61d5df3b2fc5ee1e611e7cf412ccb1c"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/capacity_native_hourly_eur.csv",
+      "bytes": 10645473,
+      "sha256": "3b4d48ccba337c041647bbd6029140063fcfea11b89362c660bab660da75029e"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/coverage_monthly_eur.csv",
+      "bytes": 13704,
+      "sha256": "cf866202d1e0d72df957e2cedd08a490326a66ed5973e53972058946669e0010"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/currency_conversion_summary.csv",
+      "bytes": 1953,
+      "sha256": "4d4e020db4a0d8789693c1e6eaa283feb56bcb85520aafec42402d8194bfb35b"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/da_native_eur.csv",
+      "bytes": 4317204,
+      "sha256": "6b0dce3da9745c94e1f7a716f0ac4bf881c17f38f89e9495f9dd8e24d704bbf9"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/fx_by_bucharest_delivery_day.csv",
+      "bytes": 79236,
+      "sha256": "e340391255197d6e2ed213d9972c4328f3d2ecc63dbd57cda1d6e24c027b56dc"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/price_missing_in_scope_eur.csv",
+      "bytes": 61472,
+      "sha256": "af40786c9032e7163a7bf5405f8c9a46bce439a7595354d085bd499aa4bb9927"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/prices_eur_observation_20260901.csv",
+      "bytes": 91022,
+      "sha256": "3215adcbaac8fa38e6179ddf7cbdbb38e95b38a6cdefbb26401f53e49603daec"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/prices_eur_qh_20250101_20260831.csv",
+      "bytes": 47472902,
+      "sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/README.md",
+      "bytes": 7397,
+      "sha256": "b7a10eb6cf63a951310a72bc9db5c806c9b3ec60fbdc3b62aae0484f5523e5ec"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/source_registry.csv",
+      "bytes": 217166,
+      "sha256": "a60ccf4e4d29e5d3eae744b2fd91a09f959fe8e857787581effaad57843a0d99"
+    },
+    {
+      "path": "data/processed/RO/prices_eur_v1_20261002/validation.json",
+      "bytes": 91218,
+      "sha256": "ec76cac335b574793fb1ff458e0fe3a3cf2bd765f710976969d4492200e03dd8"
+    }
+  ]
+}

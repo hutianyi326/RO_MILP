@@ -1,0 +1,17 @@
+{
+  "status": "BUILT",
+  "files": {
+    "executed_day_cash_calculation.csv": "13335d60208eda729ee100953089ad219ecdf9c2573693af510028228816cffa",
+    "hourly_execution_and_cash.csv": "6cdcc46ca9b3b2ac429fdfc50ad5068558b8e2e8385b815645c619dd08807af6",
+    "inputs_two_days.csv": "910e627e81b84ffca2028d60f610e630b4ed82ef6331760fae67b1f21e982bdc",
+    "native_orders_two_days.csv": "9e3b8fd85089cf7206b860c1bbd9262a46af274829cc18a5129610873253e217",
+    "opening_state.json": "8b5961f16982a505d3d0cdfb795743ea707f38bbf1dbadff0519dd15a53720e2",
+    "phase_replay_two_days.csv": "1786a80e08799241a5967e8e5987ba7b3aa1ae8fd4e5e205b1450f08b1072770",
+    "plan_two_days_qh.csv": "f0a338e9a8392872c0941db518e190b4809b0a3ae91c92a89a0aab5aadf43b47",
+    "previous_day_executed_qh.csv": "7f0a226b6e071c1a3cfb7ebf57c6fb9c6490d76b0d731e7e4e1ddd5693b84afa",
+    "selection.json": "d384e6f4583157cab1fbc58385db012e03eedfa3ae766fa36ad266813044c25b",
+    "source_registry_selected.csv": "b9352435945a77038e010b4f1742bf0b2a3468ab782270263512f7bb4e19c2ea",
+    "validation.json": "9ed546d5d4f0aafcac2cffae2e5d97975565b407d1d996ccbaa21487d1d891a9",
+    "随机单日独立审计.md": "8655302b912aba62badc7c15d499bd79684204e69e9cd5f46e33549e54161ff0"
+  }
+}

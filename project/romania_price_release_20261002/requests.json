@@ -1,0 +1,397 @@
+[
+  {
+    "id": "marginalPricesOverview_2025-01",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2024-12-31T22%3A00%3A00Z&timeInterval.to=2025-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2024-12-31T22:00:00Z",
+      "timeInterval.to": "2025-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2024-12-31T22:00:00Z",
+    "requested_end_utc": "2025-01-31T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-02",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-01-31T22%3A00%3A00Z&timeInterval.to=2025-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-01-31T22:00:00Z",
+      "timeInterval.to": "2025-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-01-31T22:00:00Z",
+    "requested_end_utc": "2025-02-28T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-03",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-02-28T22%3A00%3A00Z&timeInterval.to=2025-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-02-28T22:00:00Z",
+      "timeInterval.to": "2025-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-02-28T22:00:00Z",
+    "requested_end_utc": "2025-03-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-04",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-03-31T21%3A00%3A00Z&timeInterval.to=2025-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-03-31T21:00:00Z",
+      "timeInterval.to": "2025-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-03-31T21:00:00Z",
+    "requested_end_utc": "2025-04-30T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-05",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-04-30T21%3A00%3A00Z&timeInterval.to=2025-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-04-30T21:00:00Z",
+      "timeInterval.to": "2025-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-04-30T21:00:00Z",
+    "requested_end_utc": "2025-05-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-06",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-05-31T21%3A00%3A00Z&timeInterval.to=2025-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-05-31T21:00:00Z",
+      "timeInterval.to": "2025-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-05-31T21:00:00Z",
+    "requested_end_utc": "2025-06-30T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-07",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-06-30T21%3A00%3A00Z&timeInterval.to=2025-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-06-30T21:00:00Z",
+      "timeInterval.to": "2025-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-06-30T21:00:00Z",
+    "requested_end_utc": "2025-07-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-08",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-07-31T21%3A00%3A00Z&timeInterval.to=2025-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-07-31T21:00:00Z",
+      "timeInterval.to": "2025-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-07-31T21:00:00Z",
+    "requested_end_utc": "2025-08-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-09",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-08-31T21%3A00%3A00Z&timeInterval.to=2025-09-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-08-31T21:00:00Z",
+      "timeInterval.to": "2025-09-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-08-31T21:00:00Z",
+    "requested_end_utc": "2025-09-30T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-10",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-09-30T21%3A00%3A00Z&timeInterval.to=2025-10-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-09-30T21:00:00Z",
+      "timeInterval.to": "2025-10-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-09-30T21:00:00Z",
+    "requested_end_utc": "2025-10-31T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-11",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-10-31T22%3A00%3A00Z&timeInterval.to=2025-11-30T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-10-31T22:00:00Z",
+      "timeInterval.to": "2025-11-30T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-10-31T22:00:00Z",
+    "requested_end_utc": "2025-11-30T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2025-12",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-11-30T22:00:00Z",
+      "timeInterval.to": "2025-12-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-11-30T22:00:00Z",
+    "requested_end_utc": "2025-12-31T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-01",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-12-31T22%3A00%3A00Z&timeInterval.to=2026-01-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2025-12-31T22:00:00Z",
+      "timeInterval.to": "2026-01-31T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2025-12-31T22:00:00Z",
+    "requested_end_utc": "2026-01-31T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-02",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-01-31T22%3A00%3A00Z&timeInterval.to=2026-02-28T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-01-31T22:00:00Z",
+      "timeInterval.to": "2026-02-28T22:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-01-31T22:00:00Z",
+    "requested_end_utc": "2026-02-28T22:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-03",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-02-28T22%3A00%3A00Z&timeInterval.to=2026-03-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-02-28T22:00:00Z",
+      "timeInterval.to": "2026-03-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-02-28T22:00:00Z",
+    "requested_end_utc": "2026-03-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-04",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-03-31T21%3A00%3A00Z&timeInterval.to=2026-04-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-03-31T21:00:00Z",
+      "timeInterval.to": "2026-04-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-03-31T21:00:00Z",
+    "requested_end_utc": "2026-04-30T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-05",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-04-30T21%3A00%3A00Z&timeInterval.to=2026-05-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-04-30T21:00:00Z",
+      "timeInterval.to": "2026-05-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-04-30T21:00:00Z",
+    "requested_end_utc": "2026-05-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-06",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-05-31T21%3A00%3A00Z&timeInterval.to=2026-06-30T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-05-31T21:00:00Z",
+      "timeInterval.to": "2026-06-30T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-05-31T21:00:00Z",
+    "requested_end_utc": "2026-06-30T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-07",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-06-30T21%3A00%3A00Z&timeInterval.to=2026-07-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-06-30T21:00:00Z",
+      "timeInterval.to": "2026-07-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-06-30T21:00:00Z",
+    "requested_end_utc": "2026-07-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-08",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-07-31T21%3A00%3A00Z&timeInterval.to=2026-08-31T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-07-31T21:00:00Z",
+      "timeInterval.to": "2026-08-31T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-07-31T21:00:00Z",
+    "requested_end_utc": "2026-08-31T21:00:00Z",
+    "scope": "formal"
+  },
+  {
+    "id": "marginalPricesOverview_2026-09-01_OBSERVATION",
+    "report": "marginalPricesOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2026-08-31T21%3A00%3A00Z&timeInterval.to=2026-09-01T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-08-31T21:00:00Z",
+      "timeInterval.to": "2026-09-01T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-08-31T21:00:00Z",
+    "requested_end_utc": "2026-09-01T21:00:00Z",
+    "scope": "observation_only"
+  },
+  {
+    "id": "marginalPricesOverview_META",
+    "report": "marginalPricesOverview_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+    "publisher": "Transelectrica",
+    "scope": "metadata"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_2026-09-01_OBSERVATION",
+    "report": "activatedBalancingEnergyOverview",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/activatedBalancingEnergyOverview?timeInterval.from=2026-08-31T21%3A00%3A00Z&timeInterval.to=2026-09-01T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-08-31T21:00:00Z",
+      "timeInterval.to": "2026-09-01T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-08-31T21:00:00Z",
+    "requested_end_utc": "2026-09-01T21:00:00Z",
+    "scope": "observation_only"
+  },
+  {
+    "id": "activatedBalancingEnergyOverview_META",
+    "report": "activatedBalancingEnergyOverview_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+    "publisher": "Transelectrica",
+    "scope": "metadata"
+  },
+  {
+    "id": "tenderStatistics_2026-09-01_OBSERVATION",
+    "report": "tenderStatistics",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatistics?timeInterval.from=2026-08-31T21%3A00%3A00Z&timeInterval.to=2026-09-01T21%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "parameters": {
+      "timeInterval.from": "2026-08-31T21:00:00Z",
+      "timeInterval.to": "2026-09-01T21:00:00Z",
+      "pageInfo.pageSize": 3000,
+      "pageInfo.pageIndex": 0
+    },
+    "publisher": "Transelectrica",
+    "requested_start_utc": "2026-08-31T21:00:00Z",
+    "requested_end_utc": "2026-09-01T21:00:00Z",
+    "scope": "observation_only"
+  },
+  {
+    "id": "tenderStatistics_META",
+    "report": "tenderStatistics_metadata",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=tenderStatistics",
+    "publisher": "Transelectrica",
+    "scope": "metadata"
+  },
+  {
+    "id": "DA_2026-09-01_OBSERVATION",
+    "report": "DA",
+    "publisher": "OPCOM",
+    "source_date": "2026-09-01",
+    "url": "https://www.opcom.ro/rapoarte-pzu-raportPIP-export-csv/01/09/2026/en?resolution=15",
+    "scope": "observation_only"
+  },
+  {
+    "id": "GAP_469_2025_RECHECK",
+    "report": "tenderStatisticsDetail",
+    "publisher": "Transelectrica",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=469_2025",
+    "scope": "gap_recheck_only"
+  },
+  {
+    "id": "GAP_470_2025_RECHECK",
+    "report": "tenderStatisticsDetail",
+    "publisher": "Transelectrica",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=470_2025",
+    "scope": "gap_recheck_only"
+  },
+  {
+    "id": "GAP_158_2025_RECHECK",
+    "report": "tenderStatisticsDetail",
+    "publisher": "Transelectrica",
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=158_2025",
+    "scope": "gap_recheck_only"
+  }
+]

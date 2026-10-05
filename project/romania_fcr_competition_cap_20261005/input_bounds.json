@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "fcr_share": 0.18181818181818182,
+  "fcr_orders": 14615,
+  "august_valid_orders": 744,
+  "august_upper_mw": [
+    23
+  ],
+  "pre_june_2025_disabled": true,
+  "full_revenue_rerun": false
+}

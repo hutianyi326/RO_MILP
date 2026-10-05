@@ -1,0 +1,38 @@
+[
+  {
+    "tender_code": "469_2025",
+    "product": "aFRRDown",
+    "source_key": "GAP_469_2025_RECHECK@016632ca39fc",
+    "published_hours": 24,
+    "numeric_price_hours": 24,
+    "last_end": "2025-10-26T21:00:00.000Z",
+    "dst_missing_hour_still_absent": true
+  },
+  {
+    "tender_code": "469_2025",
+    "product": "aFRRUp",
+    "source_key": "GAP_469_2025_RECHECK@016632ca39fc",
+    "published_hours": 24,
+    "numeric_price_hours": 24,
+    "last_end": "2025-10-26T21:00:00.000Z",
+    "dst_missing_hour_still_absent": true
+  },
+  {
+    "tender_code": "470_2025",
+    "product": "FCR",
+    "source_key": "GAP_470_2025_RECHECK@16c4a98ff560",
+    "published_hours": 24,
+    "numeric_price_hours": 24,
+    "last_end": "2025-10-26T21:00:00.000Z",
+    "dst_missing_hour_still_absent": true
+  },
+  {
+    "tender_code": "158_2025",
+    "product": "FCR",
+    "source_key": "GAP_158_2025_RECHECK@4b015e7f89e9",
+    "published_hours": 24,
+    "numeric_price_hours": 0,
+    "last_end": "2025-06-01T21:00:00.000Z",
+    "dst_missing_hour_still_absent": null
+  }
+]

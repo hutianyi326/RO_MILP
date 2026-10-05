@@ -1,0 +1,226 @@
+[
+  {
+    "period": "2025",
+    "market": "da_eur",
+    "old_eur": 7876852.22430476,
+    "new_eur": 7993841.841358019,
+    "change_eur": 116989.61705325916,
+    "change_pct": 1.485233107360795
+  },
+  {
+    "period": "2025",
+    "market": "fcr_capacity_eur",
+    "old_eur": 13679058.162994748,
+    "new_eur": 7195758.198766749,
+    "change_eur": -6483299.964227999,
+    "change_pct": -47.39580669206405
+  },
+  {
+    "period": "2025",
+    "market": "afrr_up_capacity_eur",
+    "old_eur": 2818960.794881255,
+    "new_eur": 2724726.0551363183,
+    "change_eur": -94234.73974493658,
+    "change_pct": -3.342889334113852
+  },
+  {
+    "period": "2025",
+    "market": "afrr_down_capacity_eur",
+    "old_eur": 2963634.2515882966,
+    "new_eur": 2966668.0400822745,
+    "change_eur": 3033.7884939778596,
+    "change_pct": 0.10236716937497281
+  },
+  {
+    "period": "2025",
+    "market": "afrr_up_activation_eur",
+    "old_eur": 13714457.084428769,
+    "new_eur": 12804902.025036018,
+    "change_eur": -909555.0593927503,
+    "change_pct": -6.632089435209565
+  },
+  {
+    "period": "2025",
+    "market": "afrr_down_activation_eur",
+    "old_eur": 7820715.953213406,
+    "new_eur": 7635659.809220202,
+    "change_eur": -185056.14399320353,
+    "change_pct": -2.3662302160094018
+  },
+  {
+    "period": "2025",
+    "market": "total_eur",
+    "old_eur": 48873678.471411236,
+    "new_eur": 41321555.96959958,
+    "change_eur": -7552122.501811653,
+    "change_pct": -15.452330861957286
+  },
+  {
+    "period": "TOTAL",
+    "market": "da_eur",
+    "old_eur": 13474858.959462868,
+    "new_eur": 13518889.08986252,
+    "change_eur": 44030.130399651825,
+    "change_pct": 0.3267576345853396
+  },
+  {
+    "period": "TOTAL",
+    "market": "fcr_capacity_eur",
+    "old_eur": 28892188.74198277,
+    "new_eur": 15960675.50544678,
+    "change_eur": -12931513.236535989,
+    "change_pct": -44.75781794179344
+  },
+  {
+    "period": "TOTAL",
+    "market": "afrr_up_capacity_eur",
+    "old_eur": 3662611.951941757,
+    "new_eur": 3472760.218209195,
+    "change_eur": -189851.73373256205,
+    "change_pct": -5.183506640170032
+  },
+  {
+    "period": "TOTAL",
+    "market": "afrr_down_capacity_eur",
+    "old_eur": 3449696.4964997233,
+    "new_eur": 3422496.1452806485,
+    "change_eur": -27200.3512190748,
+    "change_pct": -0.7884853420199178
+  },
+  {
+    "period": "TOTAL",
+    "market": "afrr_up_activation_eur",
+    "old_eur": 18372880.892706446,
+    "new_eur": 16867449.05992227,
+    "change_eur": -1505431.8327841759,
+    "change_pct": -8.193771252181758
+  },
+  {
+    "period": "TOTAL",
+    "market": "afrr_down_activation_eur",
+    "old_eur": 9078135.165250309,
+    "new_eur": 8859039.935431322,
+    "change_eur": -219095.22981898673,
+    "change_pct": -2.4134387275665303
+  },
+  {
+    "period": "TOTAL",
+    "market": "total_eur",
+    "old_eur": 76930372.20784387,
+    "new_eur": 62101309.95415273,
+    "change_eur": -14829062.253691137,
+    "change_pct": -19.27595282345346
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "da_eur",
+    "old_eur": 7919516.3885578895,
+    "new_eur": 7684268.936874563,
+    "change_eur": -235247.45168332662,
+    "change_pct": -2.970477490560053
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "fcr_capacity_eur",
+    "old_eur": 23259501.649481986,
+    "new_eur": 12997829.787501857,
+    "change_eur": -10261671.861980129,
+    "change_pct": -44.11819314369819
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "afrr_up_capacity_eur",
+    "old_eur": 1315509.828011197,
+    "new_eur": 1112227.457373781,
+    "change_eur": -203282.37063741614,
+    "change_pct": -15.452744351195058
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "afrr_down_capacity_eur",
+    "old_eur": 888960.221337293,
+    "new_eur": 844183.6468589669,
+    "change_eur": -44776.57447832613,
+    "change_pct": -5.03696041775269
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "afrr_up_activation_eur",
+    "old_eur": 7431000.130908892,
+    "new_eur": 5907277.879584588,
+    "change_eur": -1523722.2513243034,
+    "change_pct": -20.504941790896403
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "afrr_down_activation_eur",
+    "old_eur": 1810641.1449978694,
+    "new_eur": 1592827.5293271039,
+    "change_eur": -217813.61567076552,
+    "change_pct": -12.029640233930605
+  },
+  {
+    "period": "LATEST_12M",
+    "market": "total_eur",
+    "old_eur": 42625129.36329512,
+    "new_eur": 30138615.23752086,
+    "change_eur": -12486514.125774264,
+    "change_pct": -29.29378587769522
+  },
+  {
+    "period": "2026",
+    "market": "da_eur",
+    "old_eur": 5598006.735158143,
+    "new_eur": 5525047.248504471,
+    "change_eur": -72959.4866536716,
+    "change_pct": -1.303311876983848
+  },
+  {
+    "period": "2026",
+    "market": "fcr_capacity_eur",
+    "old_eur": 15213130.578986296,
+    "new_eur": 8764917.306679603,
+    "change_eur": -6448213.272306694,
+    "change_pct": -42.38584056600111
+  },
+  {
+    "period": "2026",
+    "market": "afrr_up_capacity_eur",
+    "old_eur": 843651.1570605894,
+    "new_eur": 748034.1630729423,
+    "change_eur": -95616.99398764712,
+    "change_pct": -11.333712185115875
+  },
+  {
+    "period": "2026",
+    "market": "afrr_down_capacity_eur",
+    "old_eur": 486062.244911393,
+    "new_eur": 455828.1051983855,
+    "change_eur": -30234.13971300749,
+    "change_pct": -6.220219741304744
+  },
+  {
+    "period": "2026",
+    "market": "afrr_up_activation_eur",
+    "old_eur": 4658423.808277769,
+    "new_eur": 4062547.0348862805,
+    "change_eur": -595876.7733914885,
+    "change_pct": -12.79138176163035
+  },
+  {
+    "period": "2026",
+    "market": "afrr_down_activation_eur",
+    "old_eur": 1257419.2120368425,
+    "new_eur": 1223380.1262110951,
+    "change_eur": -34039.085825747345,
+    "change_pct": -2.7070594675111415
+  },
+  {
+    "period": "2026",
+    "market": "total_eur",
+    "old_eur": 28056693.736431032,
+    "new_eur": 20779753.98455278,
+    "change_eur": -7276939.751878254,
+    "change_pct": -25.936554820888603
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "status": "PASS",
+  "old_manifest_sha256": "3b5f225a98e06875eb72fe8aeb4300745a2dfb3bdf7c97b6680174740d7f85a5",
+  "new_manifest_sha256": "df609d3577b19605678950ce704142fa58a24a94609538569162dbfb05464782",
+  "same_price_csv_hashes": {
+    "prices_eur_observation_20260901.csv": "3215adcbaac8fa38e6179ddf7cbdbb38e95b38a6cdefbb26401f53e49603daec",
+    "prices_eur_qh_20250101_20260831.csv": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a"
+  },
+  "same_formal_scope_budgets_and_common_config": true,
+  "old_total_eur": 136523159.3766913,
+  "new_total_eur": 76930372.2078421,
+  "rows": [
+    {
+      "period": "2025",
+      "market": "DA",
+      "old_eur": 4905067.270795093,
+      "new_eur": 7876852.22430476,
+      "difference_eur": 2971784.953509667,
+      "difference_pct": 60.586018283658575
+    },
+    {
+      "period": "2025",
+      "market": "FCR容量",
+      "old_eur": 23618411.35452594,
+      "new_eur": 13679058.162994748,
+      "difference_eur": -9939353.19153119,
+      "difference_pct": -42.08307257560969
+    },
+    {
+      "period": "2025",
+      "market": "aFRR容量上调",
+      "old_eur": 4758709.426130159,
+      "new_eur": 2818960.794881255,
+      "difference_eur": -1939748.631248904,
+      "difference_pct": -40.76207344364649
+    },
+    {
+      "period": "2025",
+      "market": "aFRR容量下调",
+      "old_eur": 4968610.867409571,
+      "new_eur": 2963634.2515882966,
+      "difference_eur": -2004976.6158212745,
+      "difference_pct": -40.35286057462146
+    },
+    {
+      "period": "2025",
+      "market": "aFRR激活上调",
+      "old_eur": 31761312.9288934,
+      "new_eur": 13714457.084428769,
+      "difference_eur": -18046855.84446463,
+      "difference_pct": -56.82024507257485
+    },
+    {
+      "period": "2025",
+      "market": "aFRR激活下调",
+      "old_eur": 18072494.720598288,
+      "new_eur": 7820715.953213406,
+      "difference_eur": -10251778.767384883,
+      "difference_pct": -56.7258639489341
+    },
+    {
+      "period": "2025",
+      "market": "合计",
+      "old_eur": 88084606.56835245,
+      "new_eur": 48873678.471411236,
+      "difference_eur": -39210928.09694121,
+      "difference_pct": -44.515074341070104
+    },
+    {
+      "period": "2026",
+      "market": "DA",
+      "old_eur": 3175277.194448384,
+      "new_eur": 5598006.735158143,
+      "difference_eur": 2422729.5407097586,
+      "difference_pct": 76.29978084891704
+    },
+    {
+      "period": "2026",
+      "market": "FCR容量",
+      "old_eur": 27967683.094718046,
+      "new_eur": 15213130.578986296,
+      "difference_eur": -12754552.51573175,
+      "difference_pct": -45.60460897864137
+    },
+    {
+      "period": "2026",
+      "market": "aFRR容量上调",
+      "old_eur": 770084.8060387749,
+      "new_eur": 843651.1570605894,
+      "difference_eur": 73566.35102181451,
+      "difference_pct": 9.553019413567077
+    },
+    {
+      "period": "2026",
+      "market": "aFRR容量下调",
+      "old_eur": 485513.3511178149,
+      "new_eur": 486062.244911393,
+      "difference_eur": 548.893793578085,
+      "difference_pct": 0.11305431504908814
+    },
+    {
+      "period": "2026",
+      "market": "aFRR激活上调",
+      "old_eur": 11226621.893342644,
+      "new_eur": 4658423.808277769,
+      "difference_eur": -6568198.085064875,
+      "difference_pct": -58.50556068838302
+    },
+    {
+      "period": "2026",
+      "market": "aFRR激活下调",
+      "old_eur": 4813372.468672929,
+      "new_eur": 1257419.2120368425,
+      "difference_eur": -3555953.256636087,
+      "difference_pct": -73.87654455954622
+    },
+    {
+      "period": "2026",
+      "market": "合计",
+      "old_eur": 48438552.80833859,
+      "new_eur": 28056693.736431032,
+      "difference_eur": -20381859.071907558,
+      "difference_pct": -42.077762216708635
+    },
+    {
+      "period": "全期20个月",
+      "market": "DA",
+      "old_eur": 8080344.46524347,
+      "new_eur": 13474858.959462868,
+      "difference_eur": 5394514.494219398,
+      "difference_pct": 66.76094710347049
+    },
+    {
+      "period": "全期20个月",
+      "market": "FCR容量",
+      "old_eur": 51586094.449245736,
+      "new_eur": 28892188.74198277,
+      "difference_eur": -22693905.707262967,
+      "difference_pct": -43.99229278655885
+    },
+    {
+      "period": "全期20个月",
+      "market": "aFRR容量上调",
+      "old_eur": 5528794.232168851,
+      "new_eur": 3662611.951941757,
+      "difference_eur": -1866182.2802270944,
+      "difference_pct": -33.75387474847338
+    },
+    {
+      "period": "全期20个月",
+      "market": "aFRR容量下调",
+      "old_eur": 5454124.21852742,
+      "new_eur": 3449696.4964997233,
+      "difference_eur": -2004427.7220276971,
+      "difference_pct": -36.75067970067026
+    },
+    {
+      "period": "全期20个月",
+      "market": "aFRR激活上调",
+      "old_eur": 42987934.82223607,
+      "new_eur": 18372880.892706446,
+      "difference_eur": -24615053.929529622,
+      "difference_pct": -57.26037789746803
+    },
+    {
+      "period": "全期20个月",
+      "market": "aFRR激活下调",
+      "old_eur": 22885867.189271368,
+      "new_eur": 9078135.165250309,
+      "difference_eur": -13807732.02402106,
+      "difference_pct": -60.3330077459069
+    },
+    {
+      "period": "全期20个月",
+      "market": "合计",
+      "old_eur": 136523159.37669292,
+      "new_eur": 76930372.20784387,
+      "difference_eur": -59592787.16884905,
+      "difference_pct": -43.650313573846766
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "DA",
+      "old_eur": 3958223.94672116,
+      "new_eur": 7919516.3885578895,
+      "difference_eur": 3961292.4418367296,
+      "difference_pct": 100.07752201888707
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "FCR容量",
+      "old_eur": 43538306.94712167,
+      "new_eur": 23259501.649481986,
+      "difference_eur": -20278805.297639687,
+      "difference_pct": -46.57692666430228
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "aFRR容量上调",
+      "old_eur": 1135011.3486370898,
+      "new_eur": 1315509.828011197,
+      "difference_eur": 180498.4793741072,
+      "difference_pct": 15.90279071577989
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "aFRR容量下调",
+      "old_eur": 801584.2971256094,
+      "new_eur": 888960.221337293,
+      "difference_eur": 87375.92421168368,
+      "difference_pct": 10.900403678690296
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "aFRR激活上调",
+      "old_eur": 18907646.667466786,
+      "new_eur": 7431000.130908892,
+      "difference_eur": -11476646.536557894,
+      "difference_pct": -60.69843983442449
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "aFRR激活下调",
+      "old_eur": 6681530.133864277,
+      "new_eur": 1810641.1449978694,
+      "difference_eur": -4870888.988866407,
+      "difference_pct": -72.90080103327048
+    },
+    {
+      "period": "2025-09至2026-08",
+      "market": "合计",
+      "old_eur": 75022303.3409366,
+      "new_eur": 42625129.36329512,
+      "difference_eur": -32397173.97764148,
+      "difference_pct": -43.18339018520065
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "file": "RO_100MW_200MWh_20260801_02_MILP审计.xlsx",
+  "executionRows": 192,
+  "sourceRows": 288,
+  "planningRows": 384,
+  "phaseRows": 921,
+  "comparisons": 6144,
+  "maxCashDifference": 9.094947017729282e-13,
+  "maxSocDifference": 2.842170943040401e-14,
+  "formulaChangeTest": "PASS: price +1 changes fixed-dispatch DA cash by signed MW*0.25; restored",
+  "dailyCash": [
+    {
+      "da_eur": 18846.74548253169,
+      "fcr_capacity_eur": 63575.55314161569,
+      "afrr_up_capacity_eur": 2990.1873344386636,
+      "afrr_down_capacity_eur": 1894.1284088960035,
+      "afrr_up_activation_eur": 17712.624609850507,
+      "afrr_down_activation_eur": 2519.1835026285626,
+      "total_eur": 107538.42247996111
+    },
+    {
+      "da_eur": 22387.470069275867,
+      "fcr_capacity_eur": 61841.32792102605,
+      "afrr_up_capacity_eur": 3527.6199188153905,
+      "afrr_down_capacity_eur": 2074.8956606254646,
+      "afrr_up_activation_eur": 9593.71925574132,
+      "afrr_down_activation_eur": 1655.0970398555992,
+      "total_eur": 101080.1298653397
+    }
+  ],
+  "totalCash": 208618.5523453008,
+  "provenance": {
+    "run_manifest_sha256": "df609d3577b19605678950ce704142fa58a24a94609538569162dbfb05464782",
+    "input_file_sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a",
+    "capacity_file_sha256": "3b4d48ccba337c041647bbd6029140063fcfea11b89362c660bab660da75029e",
+    "code_sha256": "fcc1efda3bd2458daafba581b0894741497405235d98ec79e9bf6f7fa20aca5b",
+    "transactions": {
+      "576": "9e68febc183e88b438fd88f6fd88977e83db4ddb500ee2656a2ac162f24533ae",
+      "577": "10b325e0140f46889e96a19ebb3faf17875960cdcb01af867bba8c23ff3ddf32",
+      "578": "fbaa19b220a0f10502327a30ffdded45f5f90e234af69c20c4532f00e3a8e1c1",
+      "579": "bb36a0cbad73d288406ef8099306e68d3a4deec860f5c587e3874b227308c905"
+    }
+  },
+  "nativeExcelLaunched": false
+}

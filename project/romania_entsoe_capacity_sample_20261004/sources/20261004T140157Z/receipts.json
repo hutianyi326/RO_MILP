@@ -1,0 +1,74 @@
+[
+  {
+    "name": "bids_FCR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A15",
+      "processType": "A52",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  },
+  {
+    "name": "bids_aFRR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A15",
+      "processType": "A51",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  },
+  {
+    "name": "contracted_FCR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A81",
+      "businessType": "A95",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  },
+  {
+    "name": "contracted_aFRR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A81",
+      "businessType": "A96",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  },
+  {
+    "name": "prices_FCR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A89",
+      "businessType": "A95",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  },
+  {
+    "name": "prices_aFRR",
+    "status": "network_error",
+    "error_type": "URLError",
+    "params": {
+      "documentType": "A89",
+      "businessType": "A96",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    }
+  }
+]

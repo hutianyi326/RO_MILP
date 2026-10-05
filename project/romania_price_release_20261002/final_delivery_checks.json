@@ -1,0 +1,25 @@
+{
+  "manifest_files_checked": 17,
+  "manifest_hash_failures": [],
+  "local_links_checked": 44,
+  "broken_local_links": [],
+  "final_document_hashes": [
+    {
+      "path": "README.md",
+      "sha256": "df57fb35861e21e036fe1aa5a2e5b8a94da855a0b81286e0bf641dcf9ce5a76f"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/README.md",
+      "sha256": "ca499548d789506b63c2414b3dcb2ae33bdfdf9356f9ddf81aba1e7db7a304cb"
+    },
+    {
+      "path": "project/romania_price_release_20261002/release_report.md",
+      "sha256": "7472b28b435820233cb573d3e6734cc1ed1effea36db6d71044b4231b20b25e2"
+    },
+    {
+      "path": "project/romania_price_release_20261002/review_and_acceptance.md",
+      "sha256": "10e6189c210b421ca82024fd6a9c915cf40d75955ba4e39c31cc41a59d347743"
+    }
+  ],
+  "review_status": "PASS_WITH_DISCLOSED_SOURCE_GAPS"
+}

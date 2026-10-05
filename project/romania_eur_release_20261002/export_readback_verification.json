@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "exported_qh_rows": 58460,
+  "non_null_RON_to_EUR_values_recomputed": 277218,
+  "DA_original_headers_confirmed_Euro_per_MWh": 610,
+  "manifest_files_verified": 13,
+  "tolerance_eur": "1e-8",
+  "method": "Independent csv/Decimal read-back; timezone from datetime and zoneinfo; not an independent agent review"
+}

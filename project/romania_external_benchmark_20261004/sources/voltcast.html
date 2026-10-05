@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#060a14">
+    <script>
+(function () {
+    var KEY = 'vc-consent';
+    // The gtag stub exists from the first line, so events fired before the
+    // library arrives sit in the dataLayer and replay on load — the old
+    // manual queue is unnecessary with the stub-first pattern.
+    window.vcTrack = function (name, params) {
+        gtag('event', name, params || {});
+    };
+    function choice() {
+        try { return localStorage.getItem(KEY); } catch (e) { return 'declined'; }
+    }
+    function syncConsentCookie(value) {
+        if (value !== 'granted' && value !== 'declined') return;
+        document.cookie = 'vc_consent=' + value
+            + ';path=/;max-age=' + 60 * 60 * 24 * 365 + ';SameSite=Lax;Secure';
+    }
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { dataLayer.push(arguments); };
+    // Consent defaults MUST precede config: denied across the board.
+    gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+    });
+    gtag('js', new Date());
+    var referrerHost = '';
+    try { referrerHost = new URL(document.referrer).hostname.toLowerCase(); } catch (e) { /* no referrer */ }
+    var returnHosts = ['checkout.stripe.com', 'billing.stripe.com', 'accounts.google.com', 'github.com', 'appleid.apple.com'];
+    var isProviderReturn = location.pathname === '/dashboard'
+        && returnHosts.some(function (host) { return referrerHost === host || referrerHost.endsWith('.' + host); });
+    var gaConfig = isProviderReturn ? { ignore_referrer: true } : {};
+        gtag('config', 'G-Z09YWKXT1D', gaConfig);
+    var storedChoice = choice();
+    syncConsentCookie(storedChoice);
+    if (storedChoice === 'granted') {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+    }
+
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-Z09YWKXT1D';
+    document.head.appendChild(s);
+
+    var adsChoice = 'declined';
+    try { adsChoice = localStorage.getItem('vc-ads-consent') || 'declined'; } catch (e) {}
+    document.cookie = 'vc_ads_consent=' + adsChoice + ';path=/;max-age=31536000;SameSite=Lax;Secure';
+    if (adsChoice === 'granted') gtag('consent', 'update', {ad_user_data: 'granted'});
+    window.__vcShowConsent = function () {
+        var banner = document.getElementById('cookie-banner');
+        if (banner) banner.classList.remove('hidden');
+        var checkbox = document.getElementById('vc-ad-measurement');
+        if (checkbox) checkbox.checked = adsChoice === 'granted';
+    };
+    window.__vcConsent = function (granted, adsGranted) {
+        adsChoice = adsGranted === true ? 'granted' : 'declined';
+        try { localStorage.setItem('vc-ads-consent', adsChoice); } catch (e) {}
+        document.cookie = 'vc_ads_consent=' + adsChoice + ';path=/;max-age=31536000;SameSite=Lax;Secure';
+        gtag('consent', 'update', {ad_user_data: adsChoice, ad_personalization: 'denied'});
+        var value = granted ? 'granted' : 'declined';
+        try { localStorage.setItem(KEY, value); } catch (e) { /* private mode */ }
+        syncConsentCookie(value);
+        gtag('consent', 'update', { analytics_storage: granted ? 'granted' : 'denied' });
+        if (!granted) {
+            // Decline clears _ga* cookies already on the machine (incl.
+            // any set during the pre-consent-mode window) — "strictly
+            // optional" means gone, not merely un-refreshed.
+            document.cookie.split(';').forEach(function (c) {
+                var name = c.split('=')[0].trim();
+                if (name.indexOf('_ga') === 0) {
+                    document.cookie = name + '=;path=/;domain=.voltcast.com;expires=Thu, 01 Jan 1970 00:00:00 GMT';
+                    document.cookie = name + '=;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT';
+                }
+            });
+        }
+        var banner = document.getElementById('cookie-banner');
+        if (banner) banner.classList.add('hidden');
+    };
+    if (choice() === null) {
+        document.addEventListener('DOMContentLoaded', function () {
+            var banner = document.getElementById('cookie-banner');
+            if (banner) banner.classList.remove('hidden');
+        });
+    }
+})();
+</script>
+    
+    <script>(function(w,r){w._rwq=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)}})(window,'rewardful');</script>
+    <script async src="https://r.wdfl.co/rw.js" data-rewardful="779adb"></script>
+    <script>
+        rewardful('ready', function () {
+            if (window.Rewardful && Rewardful.referral) {
+                document.cookie = 'rw_ref=' + encodeURIComponent(Rewardful.referral)
+                    + ';path=/;max-age=' + 60 * 60 * 24 * 60 + ';SameSite=Lax;Secure';
+            }
+        });
+    </script>
+    <title>European BESS Revenue Index — what did a battery earn last month? | Voltcast</title>
+    <meta name="description" content="Free, methodology-versioned monthly index of battery energy storage revenues across European bidding zones: day-ahead arbitrage ceiling per MW (2h and 4h systems) plus FCR capacity revenue. Free to cite with attribution.">
+    <link rel="canonical" href="https://voltcast.com/indices/bess">
+    <meta property="og:title" content="European BESS Revenue Index — September 2026">
+    <meta property="og:description" content="What did a 2h battery earn in Hungary in September 2026? The free monthly benchmark for European storage revenues.">
+    <meta property="og:image" content="https://voltcast.com/og-image.png">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "European BESS Revenue Index",
+        "description": "Monthly battery energy storage revenue benchmark per European bidding zone: perfect-foresight day-ahead arbitrage ceiling (EUR/MW/month, 2h and 4h durations, 90% round-trip efficiency) and FCR capacity revenue where auctions are public.",
+        "url": "https://voltcast.com/indices/bess",
+        "creator": {"@type": "Organization", "name": "Voltcast", "url": "https://voltcast.com"},
+        "license": "https://voltcast.com/legal/data-licensing",
+        "isAccessibleForFree": true
+    }
+    </script>
+    <link rel="preload" as="style" href="https://voltcast.com/build/assets/app-DKYGPHKv.css" /><link rel="stylesheet" href="https://voltcast.com/build/assets/app-DKYGPHKv.css" /></head>
+<body class="min-h-screen bg-ink-950 font-sans text-slate-300 antialiased">
+    <header class="border-b border-white/5 bg-ink-900/40">
+    <nav class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-6 py-4">
+        <a href="/" class="flex shrink-0 items-center gap-2.5 font-display font-bold tracking-tight text-white">
+            <span class="flex size-7 shrink-0 items-center justify-center rounded-lg bg-volt-400 text-ink-950">
+                <svg viewBox="0 0 24 24" fill="none" class="size-4"><path d="M13 2 4.5 13.5H11L9.5 22 19 10h-6.5L13 2Z" fill="currentColor"/></svg>
+            </span>
+            VOLTCAST
+                    </a>
+        <div class="flex min-w-0 items-center gap-3 text-sm sm:gap-4">
+                            <a href="/negative-prices" class="hidden sm:block shrink-0 text-slate-400 transition hover:text-white">Negative prices</a>
+                            <a href="/accuracy" class="hidden sm:block shrink-0 text-slate-400 transition hover:text-white">Accuracy</a>
+                            <a href="/docs" class="hidden sm:block shrink-0 text-slate-400 transition hover:text-white">Docs</a>
+                                                    <a href="/register?plan=scale" class="whitespace-nowrap rounded-full bg-volt-400 px-3 py-1.5 text-xs font-semibold text-ink-950 transition hover:bg-volt-300 sm:px-4 sm:text-sm">Use Scale</a>
+                    </div>
+    </nav>
+</header>
+
+    <main class="mx-auto max-w-6xl px-6 py-14">
+        <p class="text-sm font-semibold uppercase tracking-widest text-glow">European BESS Revenue Index · BESS-v1</p>
+        <h1 class="mt-2 font-display text-3xl font-bold tracking-tight text-white sm:text-4xl">What did a battery earn last month?</h1>
+        <p class="mt-4 max-w-3xl text-slate-400">
+            The free monthly benchmark for European battery storage revenues, zone by zone.
+            GB has regulated benchmarks; the rest of Europe has slideware. This index is
+            <span class="text-slate-200">methodology-versioned, frozen at publication and free to cite</span> with attribution
+            ("Voltcast BESS Revenue Index" + link).
+        </p>
+
+                    <div class="mt-10 flex flex-wrap items-center justify-between gap-3">
+                <h2 class="font-display text-xl font-semibold text-white">September 2026 — EUR per MW of power, per month</h2>
+                <div class="flex gap-2">
+                    <a href="/indices/bess.csv" class="rounded-lg border border-white/15 px-4 py-2 text-xs font-semibold text-white transition hover:bg-white/5">Full history CSV →</a>
+                    <button type="button" class="rounded-lg border border-volt-400/30 px-4 py-2 text-xs font-semibold text-volt-300 transition hover:bg-volt-400/10"
+                        data-citation="Hungary led the Voltcast BESS Revenue Index in September 2026: a 2h battery's perfect-foresight day-ahead arbitrage ceiling was €12,206/MW — voltcast.com/indices/bess"
+                        onclick="navigator.clipboard.writeText(this.dataset.citation).then(() => { this.textContent = 'Copied ✓'; setTimeout(() => this.textContent = 'Cite this number', 1500); })">Cite this number</button>
+                </div>
+            </div>
+
+            <div class="mt-4 overflow-x-auto rounded-2xl border border-white/8 bg-ink-900/60">
+                <table class="w-full text-sm">
+                    <thead>
+                        <tr class="border-b border-white/5 text-left font-mono text-[11px] uppercase tracking-wider text-slate-600">
+                            <th class="px-4 py-3">#</th>
+                            <th class="px-4 py-3">Zone</th>
+                            <th class="px-4 py-3 text-right">2h system — DA arbitrage</th>
+                            <th class="px-4 py-3 text-right">4h system — DA arbitrage</th>
+                            <th class="px-4 py-3 text-right">FCR capacity (alt. stack)</th>
+                            <th class="px-4 py-3 text-right">Days</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">1</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/hu" class="font-semibold text-white hover:text-glow">Hungary</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">HU</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€12,206</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€21,474</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">2</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-sici" class="font-semibold text-white hover:text-glow">Italy Sicily</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-SICI</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,666</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€20,906</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">3</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/ro" class="font-semibold text-white hover:text-glow">Romania</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">RO</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,403</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€20,049</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">28</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">4</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/pl" class="font-semibold text-white hover:text-glow">Poland</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">PL</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,363</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€19,047</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">5</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/de-lu" class="font-semibold text-white hover:text-glow">Germany-Luxembourg</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">DE-LU</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,200</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€19,208</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-400">
+                                    €16,218
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">6</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/gr" class="font-semibold text-white hover:text-glow">Greece</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">GR</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,090</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€20,867</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">28</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">7</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/sk" class="font-semibold text-white hover:text-glow">Slovakia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SK</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,002</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€19,010</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">28</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">8</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/pt" class="font-semibold text-white hover:text-glow">Portugal</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">PT</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,827</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€20,285</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">9</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/si" class="font-semibold text-white hover:text-glow">Slovenia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SI</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,796</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,831</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">10</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/es" class="font-semibold text-white hover:text-glow">Spain</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">ES</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,750</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€20,317</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">11</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/cz" class="font-semibold text-white hover:text-glow">Czechia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">CZ</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,610</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,153</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">12</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/hr" class="font-semibold text-white hover:text-glow">Croatia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">HR</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,536</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,420</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">28</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">13</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/nl" class="font-semibold text-white hover:text-glow">Netherlands</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NL</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,359</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€17,921</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">14</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/xk" class="font-semibold text-white hover:text-glow">Kosovo</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">XK</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,286</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,466</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">15</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/al" class="font-semibold text-white hover:text-glow">Albania</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">AL</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,286</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,459</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">16</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/fr" class="font-semibold text-white hover:text-glow">France</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">FR</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,283</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,906</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">17</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/at" class="font-semibold text-white hover:text-glow">Austria</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">AT</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,176</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€17,496</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">18</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/dk1" class="font-semibold text-white hover:text-glow">Denmark West</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">DK1</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,146</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€17,250</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">19</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/dk2" class="font-semibold text-white hover:text-glow">Denmark East</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">DK2</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,084</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€17,225</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">20</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/bg" class="font-semibold text-white hover:text-glow">Bulgaria</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">BG</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,010</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,309</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">21</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/rs" class="font-semibold text-white hover:text-glow">Serbia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">RS</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€9,975</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€18,028</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">22</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/be" class="font-semibold text-white hover:text-glow">Belgium</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">BE</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€9,816</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€17,189</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">23</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/se4" class="font-semibold text-white hover:text-glow">Sweden Malmö</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SE4</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€8,556</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€15,077</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">24</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/me" class="font-semibold text-white hover:text-glow">Montenegro</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">ME</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€8,531</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€15,280</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">25</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/lt" class="font-semibold text-white hover:text-glow">Lithuania</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">LT</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€7,494</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€13,536</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">26</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/lv" class="font-semibold text-white hover:text-glow">Latvia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">LV</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€7,465</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€13,482</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">27</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/ch" class="font-semibold text-white hover:text-glow">Switzerland</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">CH</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,820</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,839</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">28</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/mk" class="font-semibold text-white hover:text-glow">North Macedonia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">MK</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,771</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€12,198</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">21</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">29</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/ee" class="font-semibold text-white hover:text-glow">Estonia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">EE</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,736</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,744</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">30</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/ie-sem" class="font-semibold text-white hover:text-glow">Ireland (SEM)</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IE-SEM</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,591</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,884</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">27</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">31</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-cala" class="font-semibold text-white hover:text-glow">Italy Calabria</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-CALA</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,487</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€11,240</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">32</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-sard" class="font-semibold text-white hover:text-glow">Italy Sardinia</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-SARD</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,393</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€10,932</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">33</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-sud" class="font-semibold text-white hover:text-glow">Italy South</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-SUD</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,575</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€9,656</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">34</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-csud" class="font-semibold text-white hover:text-glow">Italy Centre-South</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-CSUD</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,567</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€9,641</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">35</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/se3" class="font-semibold text-white hover:text-glow">Sweden Stockholm</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SE3</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,298</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€9,473</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">36</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-cnor" class="font-semibold text-white hover:text-glow">Italy Centre-North</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-CNOR</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,224</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€8,866</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">37</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/it-nord" class="font-semibold text-white hover:text-glow">Italy North</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">IT-NORD</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,019</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€8,587</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">30</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">38</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/fi" class="font-semibold text-white hover:text-glow">Finland</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">FI</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€4,551</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€8,105</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-400">
+                                    €8,358
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">39</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/no2" class="font-semibold text-white hover:text-glow">Norway Kristiansand</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NO2</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€3,778</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€6,568</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">40</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/se2" class="font-semibold text-white hover:text-glow">Sweden Sundsvall</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SE2</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€3,364</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,921</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">41</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/se1" class="font-semibold text-white hover:text-glow">Sweden Luleå</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">SE1</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€2,926</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€5,138</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">42</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/no1" class="font-semibold text-white hover:text-glow">Norway Oslo</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NO1</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€2,553</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€4,253</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">43</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/no3" class="font-semibold text-white hover:text-glow">Norway Trondheim</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NO3</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€2,310</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€3,858</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">44</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/no5" class="font-semibold text-white hover:text-glow">Norway Bergen</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NO5</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€2,038</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€3,410</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                                    <tr class="border-b border-white/5 last:border-0 hover:bg-white/[0.02]">
+                                <td class="px-4 py-3 font-mono text-xs text-slate-600">45</td>
+                                <td class="px-4 py-3">
+                                    <a href="/zones/no4" class="font-semibold text-white hover:text-glow">Norway Tromsø</a>
+                                    <span class="ml-1.5 font-mono text-xs text-slate-600">NO4</span>
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€1,703</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-200">€2,862</td>
+                                <td class="px-4 py-3 text-right font-mono text-slate-700">
+                                    —
+                                </td>
+                                <td class="px-4 py-3 text-right font-mono text-xs text-slate-600">29</td>
+                            </tr>
+                                            </tbody>
+                </table>
+            </div>
+
+                            <p class="mt-3 text-xs text-slate-600">Published months: 2026-09 · 2026-08 · 2026-07 · 2026-06 · 2026-05 · 2026-04 · 2026-03 · 2026-02 · 2026-01 · 2025-12 · 2025-11 · 2025-10 · 2025-09 · 2025-08 · 2025-07 · 2025-06 — all in the <a href="/indices/bess.csv" class="text-glow hover:underline">history CSV</a> and the <a href="/api/v1/indices/bess" class="text-glow hover:underline">JSON feed</a>.</p>
+                    
+        
+        <section class="mt-12 grid gap-6 lg:grid-cols-2">
+            <div class="rounded-2xl border border-white/8 bg-ink-900/60 p-7">
+                <h2 class="font-display text-lg font-semibold text-white">Methodology — BESS-v1</h2>
+                <ul class="mt-3 space-y-2 text-sm leading-relaxed text-slate-400">
+                    <li><strong class="text-slate-200">DA arbitrage (ceiling):</strong> per MW of power, each zone-local day: charge the cheapest 2 (or 4) hours, discharge the most expensive 2 (or 4) hours of the day-ahead curve (one cycle/day), 90% round-trip efficiency on discharged energy. Perfect foresight — <em>realized revenues are lower</em>; the ceiling is the stable, reproducible benchmark.</li>
+                    <li><strong class="text-slate-200">FCR (alternative stack):</strong> sum of symmetric FCR capacity settlement prices over the month (regelleistung.net auctions) — what the same MW would have earned standing still. Not additive with full arbitrage.</li>
+                    <li><strong class="text-slate-200">Data:</strong> day-ahead prices at native resolution, source-deduplicated; hourly means; days with incomplete curves excluded (min. 20 valid days per month).</li>
+                    <li><strong class="text-slate-200">Versioning:</strong> published rows are frozen. Methodology changes get a new version and are announced — never applied retroactively.</li>
+                </ul>
+            </div>
+            <div class="rounded-2xl border border-white/8 bg-ink-900/60 p-7">
+                <h2 class="font-display text-lg font-semibold text-white">Get the data behind the index</h2>
+                <p class="mt-3 text-sm leading-relaxed text-slate-400">
+                    The index is computed from the same API you can subscribe to: day-ahead prices for
+                    47 European zones, imbalance prices, FCR/aFRR/mFRR auction
+                    results and spread forecasts — the inputs a storage desk actually optimizes against.
+                </p>
+                <pre class="mt-4 overflow-x-auto rounded-xl bg-ink-950 p-4 font-mono text-xs text-slate-400">curl "https://voltcast.com/api/v1/indices/bess"</pre>
+                <div class="mt-4 flex flex-wrap gap-3">
+                    <a href="/register?plan=scale" class="rounded-xl bg-volt-400 px-5 py-2.5 text-sm font-semibold text-ink-950 transition hover:bg-volt-300">Use Scale</a>
+                    <a href="/docs#balancing" class="rounded-xl border border-white/15 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-white/5">Balancing-tier docs</a>
+                </div>
+            </div>
+        </section>
+    </main>
+    <meta name="csrf-token" content="AFiiKInLI6RPv1on7S6xttuFhJGyAIqdOn6EEcZ0">
+<link rel="preload" as="style" href="https://voltcast.com/build/assets/chat-DHuTKol6.css" /><link rel="modulepreload" as="script" href="https://voltcast.com/build/assets/chat-BJu3-upV.js" /><link rel="stylesheet" href="https://voltcast.com/build/assets/chat-DHuTKol6.css" /><script type="module" src="https://voltcast.com/build/assets/chat-BJu3-upV.js"></script>    <div class="border-b border-white/5 bg-ink-900/50">
+        <div class="mx-auto max-w-7xl px-6 py-8">
+                            <div class="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between" data-newsletter-card>
+                    <div class="max-w-xl">
+                        <p class="font-display text-lg font-semibold text-white">
+                            Not ready for the API?
+                        </p>
+                        <p class="mt-1 text-sm text-slate-400">
+                            Take the monthly roundup — negative prices, spreads, forecast misses. From our production data, on the 2nd.
+                        </p>
+                    </div>
+                    <div class="w-full max-w-lg shrink-0">
+                        <div data-newsletter-idle>
+                            <form method="POST" action="https://voltcast.com/newsletter/subscribe" data-newsletter-form class="news-form">
+    <input type="hidden" name="_token" value="AFiiKInLI6RPv1on7S6xttuFhJGyAIqdOn6EEcZ0" autocomplete="off">    <input type="text" name="website" value="" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <input type="hidden" name="source" value="indices/bess">
+    <label class="sr-only" for="news-email-footer">Email</label>
+    <div class="news-form-row">
+        <input id="news-email-footer" type="email" name="email" required autocomplete="email" inputmode="email" spellcheck="false"
+               placeholder="you@company.com"
+               class="news-input">
+        <button type="submit" class="news-submit">
+            <span data-newsletter-label>Get the roundup</span>
+            <span class="news-submit-arrow" aria-hidden="true">→</span>
+        </button>
+    </div>
+    <p data-newsletter-error class="mt-2 hidden text-sm text-red-300" role="alert"></p>
+</form>
+                            <p class="mt-2 text-[11px] text-slate-600">
+                                No account · unsubscribe in one click
+                                · <a href="/legal/privacy" class="text-slate-500 hover:text-slate-300">Privacy</a>
+                            </p>
+                        </div>
+                        <div class="news-success hidden" data-newsletter-success aria-live="polite">
+                            <p class="font-display font-semibold text-white">You&#039;re in.</p>
+                            <p class="mt-1 text-sm text-slate-400" data-newsletter-success-msg></p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+
+    <aside id="news-prompt" class="news-prompt" hidden data-newsletter-card data-newsletter-prompt>
+        <button type="button" class="news-prompt-close" data-newsletter-dismiss aria-label="Dismiss">✕</button>
+        <p class="text-[11px] font-semibold uppercase tracking-[0.18em] text-volt-300">Free briefing</p>
+        <p class="mt-1.5 font-display text-base font-semibold leading-snug text-white">
+            The European power roundup. Once a month.
+        </p>
+        <p class="mt-1 text-xs leading-relaxed text-slate-400">
+            Negative prices, spreads, forecast misses — from the same recorders as the API.
+        </p>
+        <div class="mt-3" data-newsletter-idle>
+            <form method="POST" action="https://voltcast.com/newsletter/subscribe" data-newsletter-form class="news-form">
+    <input type="hidden" name="_token" value="AFiiKInLI6RPv1on7S6xttuFhJGyAIqdOn6EEcZ0" autocomplete="off">    <input type="text" name="website" value="" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <input type="hidden" name="source" value="indices/bess">
+    <label class="sr-only" for="news-email-prompt">Email</label>
+    <div class="news-form-row">
+        <input id="news-email-prompt" type="email" name="email" required autocomplete="email" inputmode="email" spellcheck="false"
+               placeholder="you@company.com"
+               class="news-input">
+        <button type="submit" class="news-submit">
+            <span data-newsletter-label>Send it</span>
+            <span class="news-submit-arrow" aria-hidden="true">→</span>
+        </button>
+    </div>
+    <p data-newsletter-error class="mt-2 hidden text-sm text-red-300" role="alert"></p>
+</form>
+        </div>
+        <div class="news-success mt-3 hidden" data-newsletter-success aria-live="polite">
+            <p class="text-sm font-semibold text-white">You&#039;re in.</p>
+            <p class="mt-1 text-xs text-slate-400" data-newsletter-success-msg></p>
+        </div>
+    </aside>
+
+<script>
+(function () {
+    if (window.__vcNewsInit) return;
+    window.__vcNewsInit = true;
+
+    var DONE_KEY = 'vc-news-done';
+    var DISMISS_KEY = 'vc-news-dismissed';
+
+    function done() {
+        try { return localStorage.getItem(DONE_KEY) === '1'; } catch (e) { return false; }
+    }
+    function dismissed() {
+        try { return localStorage.getItem(DISMISS_KEY) === '1'; } catch (e) { return false; }
+    }
+    function markDone() {
+        try { localStorage.setItem(DONE_KEY, '1'); } catch (e) { /* private mode */ }
+        hidePrompt(true);
+    }
+    function csrf(form) {
+        var token = form.querySelector('input[name="_token"]');
+        if (token && token.value) return token.value;
+        var meta = document.querySelector('meta[name="csrf-token"]');
+        return meta ? meta.getAttribute('content') : '';
+    }
+
+    document.querySelectorAll('[data-newsletter-form]').forEach(function (form) {
+        form.addEventListener('submit', function (event) {
+            event.preventDefault();
+            var card = form.closest('[data-newsletter-card]') || form.parentElement;
+            var button = form.querySelector('.news-submit');
+            var label = form.querySelector('[data-newsletter-label]');
+            var error = (card && card.querySelector('[data-newsletter-error]')) || form.querySelector('[data-newsletter-error]');
+            var idle = card && card.querySelector('[data-newsletter-idle]');
+            var success = card && card.querySelector('[data-newsletter-success]');
+            var successMsg = card && card.querySelector('[data-newsletter-success-msg]');
+            var original = label ? label.textContent : '';
+            if (error) { error.classList.add('hidden'); error.textContent = ''; }
+            if (button) button.disabled = true;
+            if (label) label.textContent = '…';
+
+            var body = new FormData(form);
+            fetch(form.action, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'X-Requested-With': 'XMLHttpRequest',
+                    'X-CSRF-TOKEN': csrf(form)
+                },
+                body: body,
+                credentials: 'same-origin'
+            }).then(function (res) {
+                return res.json().then(function (data) {
+                    return { ok: res.ok, status: res.status, data: data };
+                }).catch(function () {
+                    return { ok: res.ok, status: res.status, data: {} };
+                });
+            }).then(function (result) {
+                if (result.ok && result.data && result.data.message) {
+                    if (idle) idle.classList.add('hidden');
+                    if (success) {
+                        success.classList.remove('hidden');
+                        if (successMsg) successMsg.textContent = result.data.message;
+                    }
+                    markDone();
+                    if (typeof window.vcTrack === 'function') {
+                        window.vcTrack('generate_lead', { method: 'newsletter', transport: 'brevo' });
+                    }
+                    return;
+                }
+                var msg = (result.data && (result.data.message || (result.data.errors && result.data.errors.email && result.data.errors.email[0])))
+                    || 'Could not subscribe — try again in a minute.';
+                if (error) { error.textContent = msg; error.classList.remove('hidden'); }
+            }).catch(function () {
+                if (error) {
+                    error.textContent = 'Network error — try again, or write hello@voltcast.com.';
+                    error.classList.remove('hidden');
+                }
+            }).finally(function () {
+                if (button) button.disabled = false;
+                if (label) label.textContent = original;
+            });
+        });
+    });
+
+    var prompt = document.getElementById('news-prompt');
+    if (!prompt || done() || dismissed()) return;
+
+    var shown = false;
+    function cookieOpen() {
+        var banner = document.getElementById('cookie-banner');
+        return banner && !banner.classList.contains('hidden') && banner.offsetParent !== null;
+    }
+    function langOpen() {
+        var banner = document.getElementById('lang-banner');
+        return banner && !banner.classList.contains('hidden') && banner.offsetParent !== null;
+    }
+    function desktop() {
+        return window.matchMedia('(min-width: 768px)').matches
+            && !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    }
+    function showPrompt() {
+        if (shown || done() || dismissed() || cookieOpen() || langOpen() || !desktop()) return;
+        shown = true;
+        prompt.hidden = false;
+        requestAnimationFrame(function () { prompt.classList.add('is-visible'); });
+    }
+    function hidePrompt(immediate) {
+        if (!prompt) return;
+        prompt.classList.remove('is-visible');
+        if (immediate) prompt.hidden = true;
+        else setTimeout(function () { prompt.hidden = true; }, 280);
+    }
+
+    prompt.querySelectorAll('[data-newsletter-dismiss]').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            try { localStorage.setItem(DISMISS_KEY, '1'); } catch (e) { /* private mode */ }
+            hidePrompt();
+        });
+    });
+
+    var scrolled = false;
+    window.addEventListener('scroll', function () {
+        var doc = document.documentElement;
+        if ((window.scrollY || doc.scrollTop) / Math.max(doc.scrollHeight - window.innerHeight, 1) > 0.38) {
+            scrolled = true;
+        }
+    }, { passive: true });
+
+    setTimeout(function () {
+        if (scrolled) showPrompt();
+        else {
+            var wait = setInterval(function () {
+                if (scrolled && !cookieOpen() && !langOpen()) {
+                    clearInterval(wait);
+                    showPrompt();
+                }
+            }, 800);
+            setTimeout(function () { clearInterval(wait); showPrompt(); }, 18000);
+        }
+    }, 12000);
+})();
+</script>
+    <footer class="border-t border-white/5 bg-ink-900/40 py-14">
+    <div class="mx-auto max-w-7xl px-6">
+        <div class="flex flex-col justify-between gap-10 lg:flex-row">
+            <div class="max-w-sm">
+                <a href="/" class="flex items-center gap-2 font-display font-bold text-white">
+                    <span class="flex size-6 items-center justify-center rounded bg-volt-400 text-ink-950">
+                        <svg viewBox="0 0 24 24" fill="none" class="size-4"><path d="M13 2 4.5 13.5H11L9.5 22 19 10h-6.5L13 2Z" fill="currentColor"/></svg>
+                    </span>
+                    VOLTCAST
+                </a>
+                <p class="mt-4 text-sm leading-relaxed text-slate-500">
+                    The European power-price API that publishes its own scorecard.
+                </p>
+            </div>
+            <div class="grid grid-cols-2 gap-x-12 gap-y-10 text-sm sm:grid-cols-4">
+                <div>
+                    <p class="mb-4 font-semibold text-white">Product</p>
+                    <ul class="space-y-2.5 text-slate-500">
+                        <li><a href="/#data" class="transition hover:text-white">Price data</a></li>
+                        <li><a href="/#forecasts" class="transition hover:text-white">Forecasts</a></li>
+                        <li><a href="/negative-prices" class="transition hover:text-white">Negative-price tracker</a></li>
+                        <li><a href="/temperature" class="transition hover:text-white">Temperature outlook</a></li>
+                        <li><a href="/research" class="transition hover:text-white">Research</a></li>
+                        <li><a href="/guides" class="transition hover:text-white">Daily guides</a></li>
+                        <li><a href="/accuracy" class="transition hover:text-white">Live accuracy</a></li>
+                        <li><a href="/reports" class="transition hover:text-white">Market reports</a></li>
+                        <li><a href="/bench" class="transition hover:text-white">Forecast Bench</a></li>
+                        <li><a href="/indices" class="transition hover:text-white">Flex Index</a></li>
+                        <li><a href="/indices/bess" class="transition hover:text-white">BESS Revenue Index</a></li>
+                        <li><a href="/capture" class="transition hover:text-white">Capture rates</a></li>
+                        <li><a href="/pricing" class="transition hover:text-white">Pricing</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <p class="mb-4 font-semibold text-white">Developers</p>
+                    <ul class="space-y-2.5 text-slate-500">
+                        <li><a href="/docs" class="transition hover:text-white">API reference</a></li>
+                        <li><a href="/status" class="transition hover:text-white">Ingestion status</a></li>
+                        <li><a href="/zones" class="transition hover:text-white">Zone coverage</a></li>
+                        <li><a href="/docs#mcp" class="transition hover:text-white">MCP for AI agents</a></li>
+                        <li><a href="https://github.com/Voltcast-com/integrations" class="transition hover:text-white">Integrations</a></li>
+                        <li><a href="https://github.com/Voltcast-com/sdk" class="transition hover:text-white">SDKs</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <p class="mb-4 font-semibold text-white">Compare</p>
+                    <ul class="space-y-2.5 text-slate-500">
+                        <li><a href="/entsoe-api-alternative" class="transition hover:text-white">vs ENTSO-E API</a></li>
+                        <li><a href="/awattar-api-alternative" class="transition hover:text-white">vs aWATTar API</a></li>
+                        <li><a href="/electricity-price-api" class="transition hover:text-white">Electricity price APIs</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <p class="mb-4 font-semibold text-white">Company</p>
+                    <ul class="space-y-2.5 text-slate-500">
+                        <li><a href="/about" class="transition hover:text-white">About &amp; imprint</a></li>
+                        <li><a href="/contact" class="transition hover:text-white">Contact</a></li>
+                        <li><a href="/demo" class="transition hover:text-white">Book a demo</a></li>
+                        <li><a href="/affiliates" class="transition hover:text-white">Affiliate program</a></li>
+                        <li><a href="/ai" class="transition hover:text-white">Voltcast in ChatGPT &amp; Claude</a></li>
+                        <li><a href="/legal/data-licensing" class="transition hover:text-white">Data licensing</a></li>
+                        <li><a href="/legal/terms" class="transition hover:text-white">Terms</a></li>
+                        <li><a href="/legal/privacy" class="transition hover:text-white">Privacy</a></li>
+                        <li><a href="/legal/dpa" class="transition hover:text-white">DPA</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="mt-12 flex flex-col gap-6 border-t border-white/5 pt-8 sm:flex-row sm:items-start sm:justify-between">
+            <div class="text-xs leading-relaxed text-slate-600">
+                <p>Data sources: ENTSO-E Transparency Platform (transparency.entsoe.eu) · SMARD.de, Bundesnetzagentur — Creative Commons BY 4.0 · EUA primary auction results: EEX (eex.com) · Contains BMRS data © Elexon Limited copyright and database right 2026.</p>
+                <p class="mt-2 max-w-3xl">Verbatim day-ahead prices for DE-LU and AT are redistributed under CC BY 4.0 (SMARD). Verbatim prices for other bidding zones may require a NEMO license for redistribution — we will always tell you plainly what needs one. Forecasts, optimization results and derived statistics are Voltcast's own output.</p>
+                <p class="mt-4">© 2026 Voltcast. Built in Europe, for the 15-minute market.</p>
+            </div>
+            
+            <label class="group flex shrink-0 cursor-pointer items-center gap-2 rounded-lg border border-white/10 px-3 py-2 text-xs text-slate-500 transition hover:border-white/25 hover:text-slate-300">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" class="size-3.5"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9S14.5 18.4 12 21c-2.5-2.6-3.8-5.7-3.8-9S9.5 5.6 12 3Z"/></svg>
+                <select onchange="if (this.value) window.location.href = this.value"
+                        class="cursor-pointer appearance-none bg-transparent pr-4 text-xs text-slate-400 outline-none transition group-hover:text-slate-200"
+                        aria-label="Language">
+                    <option value="/" selected class="bg-ink-900">English</option>
+                    <option value="/de/strompreise"  class="bg-ink-900">Deutsch</option>
+                </select>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="-ml-4 size-3 pointer-events-none"><path d="m6 9 6 6 6-6"/></svg>
+            </label>
+        </div>
+    </div>
+</footer>
+
+<div class="mx-auto max-w-6xl px-5 pb-5 text-xs text-slate-500"><button type="button" onclick="window.__vcShowConsent && window.__vcShowConsent()">Cookie settings</button></div>
+    <div id="cookie-banner" class="fixed bottom-4 left-1/2 z-[80] hidden w-[calc(100%-2rem)] max-w-lg -translate-x-1/2 rounded-2xl border border-white/10 bg-ink-900/95 p-4 text-sm text-slate-300 shadow-2xl shadow-black/50 backdrop-blur">
+    <p class="text-slate-400">
+        <span class="font-semibold text-white">Optional measurement.</span>
+        We'd like to use Google Analytics to understand which pages help. Strictly optional —
+        the site works identically without it. <a href="/legal/privacy" class="text-glow hover:underline">Privacy</a>
+    </p>
+    <label class="mt-3 flex items-start gap-2 text-xs text-slate-400"><input id="vc-ad-measurement" type="checkbox" class="mt-1">Also allow ad measurement: share an ad click identifier and subscription payment amount/time with Google Ads. No name or email; no personalized ads.</label>
+    <div class="mt-3 flex items-center gap-3">
+        <button onclick="window.__vcConsent(true, document.getElementById('vc-ad-measurement').checked)" class="rounded-lg bg-volt-400 px-4 py-2 text-sm font-bold text-ink-950 transition hover:bg-volt-300">Accept selected</button>
+        <button onclick="window.__vcConsent(false)" class="rounded-lg border border-white/15 px-4 py-2 text-sm font-semibold text-slate-300 transition hover:bg-white/5">Decline</button>
+    </div>
+</div>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"204ff179481240a7b0e00756fee9811e","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

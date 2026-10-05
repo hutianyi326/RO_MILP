@@ -1,0 +1,17 @@
+{
+  "expected_source_files": 1216,
+  "all_source_files_downloaded": false,
+  "overlapping_native_demand_hours_checked": 31868,
+  "excel_hours_missing_in_existing_input": 3,
+  "files_verified": 1022,
+  "days_parsed": 511,
+  "fatal_parse_errors": 0,
+  "product_days_reconciled": 1328,
+  "supplier_days_reconciled": 9713,
+  "market_hours": 31871,
+  "supplier_hours": 233100,
+  "issues": 205,
+  "months": 20,
+  "milp_modified": false,
+  "milp_rerun": false
+}

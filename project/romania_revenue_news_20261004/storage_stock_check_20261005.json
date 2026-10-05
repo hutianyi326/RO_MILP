@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-10-05",
+  "scope": "Standalone battery storage; public project confirmations form a non-exhaustive lower bound, not a national census. MW and MWh counted at full project size, not ownership share.",
+  "national_all_bess": {
+    "snapshot": "2026-10-01",
+    "power_mw": 1162,
+    "energy_mwh": 2312,
+    "groups": 55,
+    "source_type": "Secondary: Mediafax 2026-10-02 citing Transelectrica; current underlying TSO stock table not directly retrieved",
+    "url": "https://www.mediafax.ro/economic/stocarea-a-crescut-de-85-ori-intr-un-an-si-jumatate-in-romania-dar-exista-un-risc-dumitru-chisalita-aei-bateriile-prost-gandite-pot-scumpi-energia-pe-care-promitem-sa-o-ieftinim-23817946",
+    "limitation": "Includes standalone and co-located facilities; not the standalone total or reserve-qualified MW."
+  },
+  "confirmed_operating_subset": [
+    {"project":"Floresti / Nova Power & Gas","mw":200,"mwh":400,"status":"Operational, company announcement","source_date":"Company page current; commissioning announcement December2025","institution":"Nova Power & Gas","url":"https://vreaulanova.ro/despre-nova","additional_source":"https://ro.linkedin.com/posts/nova-power-gas_un-moment-de-referin%C8%9B%C4%83-pentru-nova-power-activity-7417123886669987841-8CPW","classification_support":"https://openpower.world/floresti-bess-romania/","note":"Company rounded project capacity; not added to company's 640MWh portfolio a second time."},
+    {"project":"Gura Ialomitei phase1 / Aukera","mw":150,"mwh":300,"status":"Commissioned June2026","institution":"Aukera Energy; IFC confirms standalone portfolio classification","url":"https://www.linkedin.com/posts/aukera-energy_aukera-secures-485-million-for-bess-project-activity-7485237390790283264-0g16","additional_source":"https://disclosures.ifc.org/project-detail/ESRS/51260/aukera-bess"},
+    {"project":"Iaz / Energy Capital Group / MOGAN / GURIS","mw":100,"mwh":200,"status":"Commissioned, May2026 company statements","source_date":"2026-05-18 and 2026-05-27","institution":"GURIS; Simtel current report22/2026","url":"https://www.guris.com.tr/EN%2C8121/as-guris-we-have-commissioned-our-100-mw--200-mwh-battery-energy-storage-system-bess-investment-in-romania.html","additional_source":"https://simtel.ro/wp-content/uploads/2026/05/SMTL_20260527161923_Raport-curent-SMTL-22-2026-RO.pdf","note":"Simtel and GURIS announcements identify the same asset; counted once. Rounded developer MWh differs from some TSO/earlier design reporting."}
+  ],
+  "confirmed_construction_subset": [
+    {"project":"Iasi / Premier Energy","mw":200,"mwh":400,"source_date":"2026-04-29, reaffirmed H1 report2026-08-31","institution":"Premier Energy / BVB issuer disclosure","url":"https://www.bvb.ro/FinancialInstruments/SelectedData/NewsItem/PE-Demararea-constructiei-proiectului-BESS-si-asigurarea-finantarii/19D60","locator":"Commencement of construction announcement"},
+    {"project":"Gura Ialomitei phase2 / Aukera","mw":100,"mwh":200,"institution":"Aukera Energy","url":"https://www.linkedin.com/posts/aukera-energy_gura-phase-1-commissioned-activity-7472558796695998466-WWpr","locator":"Phase2 already under construction","additional_source":"https://www.linkedin.com/posts/aukera-energy_aukera-secures-485-million-for-bess-project-activity-7485237390790283264-0g16","note":"Later financing announcement targets early2027; older announcement targets end2026."},
+    {"project":"Scornicesti / R.Power and Eiffel","mw":127,"mwh":254,"source_date":"2026-06-08","institution":"BGK development bank","url":"https://media.bgk.pl/en/press-release/bgk-supports-a-polish-energy-investment-in-romania/","locator":"Standalone project now under construction; late2026 or early2027 operation target"},
+    {"project":"Selimbar / ENGIE","mw":80,"mwh":160,"source_date":"2026-09-07","institution":"ENGIE Romania","url":"https://www.engie.ro/engie-isi-extinde-portofoliul-de-stocare-a-energiei-in-baterii-prin-achizitia-unui-proiect-in-calan-judetul-hunedoara/","locator":"Two projects currently under construction, separately describes Baleni wind co-location","note":"Only Selimbar counted; excludes Baleni5MW/10MWh co-located BESS."},
+    {"project":"Gheorgheni / GEN-I Sonce","mw":55,"mwh":220,"source_date":"2026-08-21","institution":"GEN-I","url":"https://www.gen-igroup.com/news/gen-i-sonce-accelerates-energy-project-development-in-romania/","locator":"Official commencement of construction on site; standalone55MW/220MWh"}
+  ],
+  "totals_lower_bounds": {"operating_mw":450,"operating_mwh":900,"construction_mw":562,"construction_mwh":1234},
+  "excluded_or_unconfirmed": [
+    {"project":"Buciumi / Scatec","reason":"EBRD88MW/176MWh financing approved; developer current project page lists backlog89MW/178MWh, not under construction. Excluded; nameplate discrepancy unresolved.","url":"https://www.scatec.com/en/project/romania/"},
+    {"project":"Arges / Repono","reason":"202MW/404MWh commercialization announcement is not proof of construction; targetQ2 2027 conditional on financing/construction.","url":"https://gunvorgroup.com/news/repono-launches-202-mw-bess-project-in-romania-with-gunvor-and-enspired/"},
+    {"project":"Calan / ENGIE","reason":"54MW/216MWh ready-to-build acquisition, targetJanuary2029; not included as construction."},
+    {"project":"Parau1 / Econergy","reason":"70MW/141MWh operating but co-located solar; excluded from standalone subset."},
+    {"project":"Other operating or construction assets","reason":"Public subset is not exhaustive. National standalone total remains unconfirmed; missing classification is not zero capacity."}
+  ],
+  "interpretation": "Installed BESS MW cannot be equated with FCR/aFRR qualified or bidding MW; future competition analysis needs product qualifications, participation dates, availability and competing bids.",
+  "checks": ["De-duplicated GURIS/Simtel Iaz", "Split Gura phases", "Excluded ENGIE co-located Baleni", "Excluded financing/RTB-only projects", "Summed MW and MWh separately"],
+  "model_changes": false
+}

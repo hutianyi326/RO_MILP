@@ -1,0 +1,10 @@
+{
+  "method": "secrets.randbelow(608), uniform over all formal transaction days; one draw, no filtering or redraw",
+  "pool_size": 608,
+  "sequence": 329,
+  "local_date": "2025-11-26",
+  "transaction_file": "0329.json",
+  "transaction_sha256": "4c716facf7ee525b88829cdcfa63dfe1e58288714ed692a46211d451b911a4bb",
+  "run_manifest_sha256": "3b5f225a98e06875eb72fe8aeb4300745a2dfb3bdf7c97b6680174740d7f85a5",
+  "draw_utc": "2026-10-03T05:18:36.163652+00:00"
+}

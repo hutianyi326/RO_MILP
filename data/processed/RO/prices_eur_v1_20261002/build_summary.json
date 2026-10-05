@@ -1,0 +1,32 @@
+{
+  "formal_qh": 58364,
+  "observation_qh": 96,
+  "delivery_days": 609,
+  "currency": "EUR",
+  "fx_policy": "LATEST_BNR_REFERENCE_DATE_STRICTLY_BEFORE_BUCHAREST_DELIVERY_DATE",
+  "first_delivery_day": {
+    "delivery_date_bucharest": "2025-01-01",
+    "fx_fixing_date": "2024-12-31",
+    "fx_ron_per_eur": 4.9741,
+    "fx_source_key": "BNR2024_BOUNDARY@c4397e7f9c31",
+    "fx_decimal": "4.9741",
+    "period_role": "FORMAL",
+    "fx_age_calendar_days": 1,
+    "fx_policy": "LATEST_BNR_REFERENCE_DATE_STRICTLY_BEFORE_BUCHAREST_DELIVERY_DATE"
+  },
+  "last_delivery_day": {
+    "delivery_date_bucharest": "2026-09-01",
+    "fx_fixing_date": "2026-08-31",
+    "fx_ron_per_eur": 5.2586,
+    "fx_source_key": "BNR_FX_2026@9bb4cfc29e8f",
+    "fx_decimal": "5.2586",
+    "period_role": "LOOKAHEAD_ONLY",
+    "fx_age_calendar_days": 1,
+    "fx_policy": "LATEST_BNR_REFERENCE_DATE_STRICTLY_BEFORE_BUCHAREST_DELIVERY_DATE"
+  },
+  "source_version": "data/processed/RO/prices_v1_20261002",
+  "source_manifest_sha256": "bcb6d0ca5639c8970646dabbc9915b7d7dc25f29686a673e528dd31c936f1114",
+  "validation": "PASS",
+  "independent_agent_review": "NOT_REQUESTED_FOR_THIS_CONVERSION",
+  "unit_finality": "API_DENOMINATORS_REMAIN_MODEL_ASSUMPTIONS"
+}

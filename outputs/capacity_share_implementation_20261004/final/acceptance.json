@@ -1,0 +1,16 @@
+{
+  "status": "MAIN_THREAD_ACCEPTED",
+  "independent_agent_review": false,
+  "code_sha256": "3ae33ea8c4aa896ae65620391fffe2f0be55023388be03304a6cfb490cd9c461",
+  "share_csv_sha256": "969652efaf76d5d89f067b4f0f5905869a2d9c5c5efe2e8e298307e801e95baf",
+  "unit_tests": 28,
+  "all_date_capacity_orders_checked": 43845,
+  "real_rolling_cases": 3,
+  "real_executed_qh": 580,
+  "full_period_recalculated": false,
+  "retained_limitations": [
+    "Monthly proxy coefficients remain assumptions",
+    "194 official supplier attachments still pending from prior research",
+    "Existing price/data gates retained"
+  ]
+}

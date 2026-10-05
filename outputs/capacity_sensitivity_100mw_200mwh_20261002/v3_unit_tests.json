@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tests": 19,
+  "seconds": 25.71,
+  "code_sha256": "2969cf17cafc9263f4f38ce0d9e007c522cca8d004966595e75eef94cb50323a",
+  "test_file_sha256": "63300dec1f16910fdceda4e828e2f499530404c02001ed43ace69129c542c302",
+  "command": "python -m unittest discover -s RO_MILP/tests -v",
+  "date": "2026-10-03",
+  "guard_diagnostic_status": "PASS"
+}

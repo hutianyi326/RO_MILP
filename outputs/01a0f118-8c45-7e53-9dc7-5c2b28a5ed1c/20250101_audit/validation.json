@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "marketRows": 192,
+  "dayRows": 96,
+  "phaseRows": 437,
+  "maxCashDifference": 9.094947017729282e-13,
+  "maxSocDifference": 2.842170943040401e-14,
+  "formulaChangeTest": "PASS: DA price +1 changes fixed-dispatch DA cash by signed MW*0.25; restored",
+  "day1Cash": 0,
+  "day2PlanCash": 148083.27098066497,
+  "provenance": {
+    "run_manifest_sha256": "3b5f225a98e06875eb72fe8aeb4300745a2dfb3bdf7c97b6680174740d7f85a5",
+    "input_file_sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a",
+    "transaction_0000_payload_sha256": "587323ef22749274018017b17bf39ca5b9d3f80fe15481b8a3cc1889d3773e5d",
+    "transaction_0001_payload_sha256": "b5abf686f59d813ebd4077cb43522980bd82174153e90d4fb12714780fd0fa33",
+    "code_sha256": "2969cf17cafc9263f4f38ce0d9e007c522cca8d004966595e75eef94cb50323a"
+  }
+}

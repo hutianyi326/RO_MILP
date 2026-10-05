@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "local_date": "2025-11-26",
+  "sequence": 329,
+  "chain_transactions_checked": 330,
+  "input_qh": 192,
+  "executed_qh": 96,
+  "phase_count": 456,
+  "orders": 336,
+  "opening_soc_mwh": "88.68598260869577",
+  "closing_soc_mwh": "64.34782608695656806808359340039804",
+  "daily_efc": "0.9280862185671845941912410290917323",
+  "used_efc_before": "532.7334778533826",
+  "used_efc_after": "533.6615640719497845941912410290917",
+  "cash_eur": {
+    "da_eur": "17002.31164589766340871209481146116",
+    "fcr_capacity_eur": "109869.8172528983925800",
+    "afrr_up_capacity_eur": "3649.43996855963801800",
+    "afrr_down_capacity_eur": "424.195323246217300100",
+    "afrr_up_activation_eur": "108189.7480643449346346011428571429",
+    "afrr_down_activation_eur": "3047.607409900345511790119999999998"
+  },
+  "total_eur": "242183.1196648471914532033576686041",
+  "plan_cash_eur": "407925.6312381757441428776433828895",
+  "salvage_eur": "11878.37716306333832446631430760018",
+  "objective_eur": "419804.0084012390824673439576904897",
+  "afrr_up_activation_mwh": "193.0773257142857142857142857142857",
+  "afrr_down_activation_mwh": "140.5782514285714285714285714285714",
+  "example_local_time": "2025-11-26T21:00:00+02:00",
+  "checks": {
+    "physical": 4273,
+    "efc": 649,
+    "cash": 1347
+  },
+  "maximum_errors": {
+    "physical": "5.70524485556679250E-14",
+    "efc": "2.154058087589709083E-13",
+    "cash": "1.6441428776433828895E-9"
+  },
+  "source_sha256": "0529c9ce3aaaa9024c91e32ef4290d66945b20407c3d301c3602c5e48d8a375a",
+  "run_manifest_sha256": "3b5f225a98e06875eb72fe8aeb4300745a2dfb3bdf7c97b6680174740d7f85a5",
+  "transaction_sha256": "4c716facf7ee525b88829cdcfa63dfe1e58288714ed692a46211d451b911a4bb",
+  "prior_transaction_sha256": "447cedce8453b2988629a43336ee7c0c9d35ace9ab7b4dbbdbef751066e2610d",
+  "script_sha256": "f8713a975f8a1edfed8c3eefc425c10f1e906cd48da4b24ba97316d094a7c055",
+  "transaction_file_bytes_sha256": "27b0d5cbd2bafe70248cf0e83117289cb38bd2808222263a2933fa2f0feee348",
+  "hash_definitions": {
+    "transaction_sha256": "SHA256 of canonical transaction payload excluding its sha256 member; identical meaning in immutable selection.json",
+    "transaction_file_bytes_sha256": "SHA256 of complete original JSON file bytes",
+    "run_manifest_sha256": "SHA256 of complete run manifest file bytes"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "comparisons": 24289,
+  "maximum_numeric_deviation": 2.6193447411060333e-10,
+  "sheets": [
+    "8月1日审计",
+    "8月2日审计",
+    "两日求解价格与决策",
+    "相位SOC复算",
+    "订单与窗口",
+    "原始输入与口径"
+  ],
+  "execution_rows": 192,
+  "planning_rows": 384,
+  "phase_rows": 921,
+  "cash_formula_caches_verified": true,
+  "price_inputs_verified": true,
+  "soc_continuity_verified": true,
+  "window_salvage_excluded_from_daily_cash": true,
+  "panes": [
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "12",
+      "topLeftCell": "B13",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    }
+  ],
+  "sha256": "31281d98ab4b0455a9ed79b14619eeb9d22219ccb9e48e8c1e6c6f7aa17b80ff",
+  "note": "Read-only XLSX/XML check of exported cached values and formulas. Recalculation used Artifact Tool, not native Excel."
+}

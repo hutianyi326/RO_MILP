@@ -1,0 +1,22 @@
+罗马尼亚2025-01-02 aFRR激活价格核验
+主线程执行日期：2026-10-04。用户要求核查激活价格原始输入和换汇，未要求独立Agent审核。
+范围：Europe/Bucharest当地2025-01-02，UTC 2025-01-01 22:00至2025-01-02 22:00，共96个15分钟区间、上下调192个价格。
+目录授权：主线程批准新增project/romania_jan2_price_audit_20261004及data/raw/RO/jan2_price_audit/20261004；既有原件、输入、MILP结果和Excel只读。
+
+结论：未发现价格抓取、日期映射、方向字段、换汇、Excel取值或激活现金计算错误。原始价格本身包含高价和负价。只能确认与TSO公开报表一致，不能据此独立认证TSO底层计算或最终本站发票。
+
+来源事实 F：
+1. Transelectrica DAMAS Marginal prices overview，2026-10-04公开页面aFRR Up [LEI]及aFRR Down [LEI]，Timezone EET。页面：https://newmarkets.transelectrica.ro/uu-webkit-maing02/00121011300000000000000000000100/marginalPricesOverview
+2. 当地2025-01-02公开marginalPricesOverview GET响应96行，与2026-10-02保存的月请求对应96行、192个方向数值完全一致，差异0。原字段itemList[].timeInterval.from/to、aFRR_Up、aFRR_Down、id。请求URL、回执和SHA见download_receipts.json，响应原件在本次raw目录。原始月包哈希校验通过。
+3. BNR 2024/2025年度XML重新获取，Cube日期和Rate currency=EUR确认2024-12-31为4.9741 RON/EUR；2025-01-01和01-02没有参考汇率。官方来源：https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml 及 https://curs.bnr.ro/files/xml/years/nbrfxrates2025.xml 。新原件与原有XML中所需日期/数值一致。
+
+处理解释 I：
+按Bucharest交付日匹配已固定的“严格早于交付日的最近BNR参考日”口径。全天除以4.9741一次，不乘4、不除4。192个独立Decimal换算对模型输入最大差5.67467481554e-14 EUR/MWh，为浮点表示误差。首段2581.863/4.9741=519.06133772943849 EUR/MWh。最高上调为15:45的4932.792/4.9741=991.69538207917010；最低下调为19:00的-2384.876/4.9741=-479.45879656621298。
+
+建模假设 A与未解决边界：
+页面明确LEI但JSON没有完整价格分母说明，沿用已登记EUR/MWh激活价格代理口径。该价格为公共系统报告系列，不等于具体储能最终结算发票；本次没有将代理性质升级为最终结算事实。系统激活电量分配和完美信息决策假设未改变。没有引入新规则或新经济参数。
+
+检查：
+96时段连续、唯一、15分钟及当地日匹配；192个新旧原价一致；汇率原件/日期/除法核对；原输入与Excel F/G列192值核对；执行账本上下调192笔激活现金逐笔复算，全部通过。上调现金67111.8849064065 EUR、下调现金12841.0832794144 EUR，合计79952.9681858209 EUR。MWh电量不再额外乘0.25；下调现金=-下调价×下调MWh。
+
+交付：jan2_activation_price_reconciliation.csv（96行，双向原币、汇率、独立EUR计算、模型值、误差、原记录ID）、summary.json、download_receipts.json、本结论及新下载原件。未改动原模型、原输入、原运行或Excel；未重跑MILP、未提交Git。

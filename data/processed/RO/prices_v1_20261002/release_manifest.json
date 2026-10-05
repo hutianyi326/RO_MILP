@@ -1,0 +1,91 @@
+{
+  "version": "RO prices v1 / 20261002",
+  "inputs": "source_registry.csv",
+  "files": [
+    {
+      "path": "data/processed/RO/prices_v1_20261002/activation_price_native_qh.csv",
+      "bytes": 5938591,
+      "sha256": "aa44e35a4faf0fbf005898df39dbbcd66b04ae490c8d07fa7797790fa6ef4c4b"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/afrr_disabled_hour_details.csv",
+      "bytes": 695903,
+      "sha256": "500cc95812a37dfcada7e2ab26d4f63e5f295f10fcd6ea8c5e5969b461be9bdb"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/capacity_native_hourly.csv",
+      "bytes": 6298137,
+      "sha256": "0ad94d2e483cccd8e708277b1348d3c5d7668c28210ef23d089eeee03b301b8a"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/coverage_monthly.csv",
+      "bytes": 12113,
+      "sha256": "ea43f9b7b97c41a6673c90e0b0932fade47360a85631af83faaefca548f20bc2"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/da_native_contracts.csv",
+      "bytes": 4417783,
+      "sha256": "d3bd7be20a8b70d6f37b50e10c9b9b1759b97f1a18cf2868b058600a2ec739d6"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/dst_gap_recheck.json",
+      "bytes": 1090,
+      "sha256": "f3a1084ed765ffac6bffa84dc83f164e3b3beebb9b766c318e8e2daa3b71cbc7"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/fx_native_reference_rates.csv",
+      "bytes": 31445,
+      "sha256": "549df10a65ed982a9c6af8b6f3df209713ceec08804b8dbda85692b289fb17c0"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/price_missing_in_scope.csv",
+      "bytes": 63832,
+      "sha256": "e2e503202d865840f5c30b8232af5dcd5de8783c8c47fd060d4940cf6ac04b13"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/prices_qh_formal_20250101_20260831.csv",
+      "bytes": 49292487,
+      "sha256": "954858639d714deab7f3c935d0989c4cb3e0f9bac0bc2d3adf7cf6c45cce26cc"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/prices_qh_observation_20260901.csv",
+      "bytes": 94328,
+      "sha256": "3a6244d805a7cb6f63a6f3fada833acb20d7a9406e50e7c961662e721a117961"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/prior_snapshot_comparison.csv",
+      "bytes": 197,
+      "sha256": "e466cc5ebdc59bbd736ccf4ce8be11903b7ea9ec7b4a09a666c6870096a4136b"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/README.md",
+      "bytes": 8031,
+      "sha256": "ca499548d789506b63c2414b3dcb2ae33bdfdf9356f9ddf81aba1e7db7a304cb"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/source_registry.csv",
+      "bytes": 217166,
+      "sha256": "a60ccf4e4d29e5d3eae744b2fd91a09f959fe8e857787581effaad57843a0d99"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/source_rows_excluded.csv",
+      "bytes": 714,
+      "sha256": "686dbcdceae3d228c96df78e66ef8444b4b1791fcfa5559f0fdee2c846777a23"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/summary.json",
+      "bytes": 1390,
+      "sha256": "f72369248fe67a8d34e1753c552d2300d1d1e35b4df89e0343ea08642efa5aaf"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/system_activation_energy_native_qh.csv",
+      "bytes": 6386164,
+      "sha256": "9acc9ea0c940098e20dd8b0dba9b9e22e619946a3bd85d94595a54697160fc20"
+    },
+    {
+      "path": "data/processed/RO/prices_v1_20261002/validation_checks.json",
+      "bytes": 22598610,
+      "sha256": "b025005e77a0fbcbc6e2d4f1ceb2a364d7627a8943fecff652733e61e8b20b21"
+    }
+  ]
+}

@@ -1,0 +1,3463 @@
+{
+  "sha": "70651210d0ad98ac820644754508f76363d2c799",
+  "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/70651210d0ad98ac820644754508f76363d2c799",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b620947349466f41c3237869f2b39a901e1e526",
+      "size": 141,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2b620947349466f41c3237869f2b39a901e1e526"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "832b1494209f6c4452402592f8fe6288ccf04a84",
+      "size": 332,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/832b1494209f6c4452402592f8fe6288ccf04a84"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55074db9cac10db4e5ea0d620a4245a07519946d",
+      "size": 12893,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/55074db9cac10db4e5ea0d620a4245a07519946d"
+    },
+    {
+      "path": "code",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "830889dcf81a2c3f32572ac1c628dd12f18b1f7a",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/830889dcf81a2c3f32572ac1c628dd12f18b1f7a"
+    },
+    {
+      "path": "code/countries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a2a3f439c98723d0b15762a88f20c493732405e",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/3a2a3f439c98723d0b15762a88f20c493732405e"
+    },
+    {
+      "path": "code/countries/ES",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1356127439def49ee4edf9cef3088ccb38b3be21",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1356127439def49ee4edf9cef3088ccb38b3be21"
+    },
+    {
+      "path": "code/countries/ES/audit_pi_candidate_20260920.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06966cda2fe221166e256ea32652460002b8bbb6",
+      "size": 18119,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/06966cda2fe221166e256ea32652460002b8bbb6"
+    },
+    {
+      "path": "code/model",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a126da84c0becec4aed586f3e6073c2f410b560",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1a126da84c0becec4aed586f3e6073c2f410b560"
+    },
+    {
+      "path": "code/model/es_conditional_adapter_spec_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a25aa6d72c980ab72a14f1458fd6c20880c8bed",
+      "size": 27715,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7a25aa6d72c980ab72a14f1458fd6c20880c8bed"
+    },
+    {
+      "path": "code/project",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "092298cd4ef4a8a011fb424ed0c44310d9641480",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/092298cd4ef4a8a011fb424ed0c44310d9641480"
+    },
+    {
+      "path": "code/project/aggregate_es_afrr_reserve_monthly.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05fdd2b9f7abf559bf3692cca13d58b41e15e00f",
+      "size": 7395,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/05fdd2b9f7abf559bf3692cca13d58b41e15e00f"
+    },
+    {
+      "path": "code/project/benchmark_es_perfect_v1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc7834de1596f1e81f70fc6ca12f03acb0918f17",
+      "size": 3839,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bc7834de1596f1e81f70fc6ca12f03acb0918f17"
+    },
+    {
+      "path": "code/project/build_es_full_result_analysis_20260921.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b56f78a6d41ad97f023e8c1f0e6b7d705ee6ec9",
+      "size": 21343,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7b56f78a6d41ad97f023e8c1f0e6b7d705ee6ec9"
+    },
+    {
+      "path": "code/project/build_es_result_presentation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "678c564bf4799b0ed949bf31fb096a306dacd501",
+      "size": 53930,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/678c564bf4799b0ed949bf31fb096a306dacd501"
+    },
+    {
+      "path": "code/project/check_es_afrr_month_202602.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59f1b0864281bca80ffbeb08e37daafbe6d76853",
+      "size": 4394,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/59f1b0864281bca80ffbeb08e37daafbe6d76853"
+    },
+    {
+      "path": "code/project/check_es_afrr_price_20260214.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7354747b98ad5e651283ef258ff86d4ec335a1d",
+      "size": 4371,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a7354747b98ad5e651283ef258ff86d4ec335a1d"
+    },
+    {
+      "path": "code/project/compare_es_afrr_capacity_prices_202601_03.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2421e7f93fc24c93bbd019352ca86cd1c89052d5",
+      "size": 5855,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2421e7f93fc24c93bbd019352ca86cd1c89052d5"
+    },
+    {
+      "path": "code/project/compare_es_capacity_award_sensitivity.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbc4d713bd8d5e6b205e91dc914533c9ec4585c4",
+      "size": 12259,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bbc4d713bd8d5e6b205e91dc914533c9ec4585c4"
+    },
+    {
+      "path": "code/project/compare_es_perfect_full.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd67481010b4697bcfb65e31cdec7425097df94b",
+      "size": 15814,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bd67481010b4697bcfb65e31cdec7425097df94b"
+    },
+    {
+      "path": "code/project/diagnose_es_full_window.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb1689566ffb64476d87e176a709be7a7cec327",
+      "size": 2194,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3bb1689566ffb64476d87e176a709be7a7cec327"
+    },
+    {
+      "path": "code/project/es_joint_gate_audit_20260920.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06378b9008064bbe19d9425fb41e1ac5e1a4b417",
+      "size": 10872,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/06378b9008064bbe19d9425fb41e1ac5e1a4b417"
+    },
+    {
+      "path": "code/project/prepare_es_afrr_award_rates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d44ec325e307fda06c7c24fccc3d3817fc6854c9",
+      "size": 13724,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d44ec325e307fda06c7c24fccc3d3817fc6854c9"
+    },
+    {
+      "path": "code/project/report_es_full_ts_start_cap_old_d_20260921.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "681a9d160ac9077bd22679c87ebc94bbb3902bf6",
+      "size": 11654,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/681a9d160ac9077bd22679c87ebc94bbb3902bf6"
+    },
+    {
+      "path": "code/project/resume_es_capacity_award_rate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0bc8cb06068cc527804152c66c969c73c12ec30",
+      "size": 7920,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f0bc8cb06068cc527804152c66c969c73c12ec30"
+    },
+    {
+      "path": "code/project/resume_es_perfect_full.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1670ada076564f605de7e63dbde558f317660590",
+      "size": 4490,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1670ada076564f605de7e63dbde558f317660590"
+    },
+    {
+      "path": "code/project/run_es_full_ts_start_cap_old_d_20260921.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e0e97640c79f8d39de8484d223bdf389af80700",
+      "size": 21365,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3e0e97640c79f8d39de8484d223bdf389af80700"
+    },
+    {
+      "path": "code/project/run_es_perfect_v1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "814b2cc0dc4e13790dabedc8d096d5186478b7c4",
+      "size": 11093,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/814b2cc0dc4e13790dabedc8d096d5186478b7c4"
+    },
+    {
+      "path": "code/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3007400ffa1750bc1332327b19977273dea63522",
+      "size": 271,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3007400ffa1750bc1332327b19977273dea63522"
+    },
+    {
+      "path": "code/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a48211e54214c229137edec9990430a4bad85c3",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/2a48211e54214c229137edec9990430a4bad85c3"
+    },
+    {
+      "path": "code/src/data_ingestion",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "473573286b5d95db89b39d098fb55764958a995c",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/473573286b5d95db89b39d098fb55764958a995c"
+    },
+    {
+      "path": "code/src/data_ingestion/es",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9437948bc5f9bc01a4d3188aa69fba846562edf3",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/9437948bc5f9bc01a4d3188aa69fba846562edf3"
+    },
+    {
+      "path": "code/src/data_ingestion/es/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d1ea8f72a5d9491ce07208da63c8885256fa13e",
+      "size": 896,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9d1ea8f72a5d9491ce07208da63c8885256fa13e"
+    },
+    {
+      "path": "code/src/data_ingestion/es/__main__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfdcd0c1158dff4fcc25157b317419f0a89dd33f",
+      "size": 79,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bfdcd0c1158dff4fcc25157b317419f0a89dd33f"
+    },
+    {
+      "path": "code/src/data_ingestion/es/audit_step7_quality.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5ea31ee8cda93b734b9859f918b5cd7f5f18310",
+      "size": 6863,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c5ea31ee8cda93b734b9859f918b5cd7f5f18310"
+    },
+    {
+      "path": "code/src/data_ingestion/es/cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e588a2fdc01018888a37d21d14bbb5c869c48541",
+      "size": 10422,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e588a2fdc01018888a37d21d14bbb5c869c48541"
+    },
+    {
+      "path": "code/src/data_ingestion/es/clients.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b7db583d89471cc77eb2f4989e9ac768a7e38f7",
+      "size": 305,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6b7db583d89471cc77eb2f4989e9ac768a7e38f7"
+    },
+    {
+      "path": "code/src/data_ingestion/es/common.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e20340a5f968c14caabf4ef4b3786bd48a9249b",
+      "size": 3478,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7e20340a5f968c14caabf4ef4b3786bd48a9249b"
+    },
+    {
+      "path": "code/src/data_ingestion/es/crosswalk_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f0b587c1f3155d26f07e399baa961779ab41b57",
+      "size": 5359,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4f0b587c1f3155d26f07e399baa961779ab41b57"
+    },
+    {
+      "path": "code/src/data_ingestion/es/entsoe.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89259333fb96c978855f3397eeb0b9efb2f6934c",
+      "size": 11245,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/89259333fb96c978855f3397eeb0b9efb2f6934c"
+    },
+    {
+      "path": "code/src/data_ingestion/es/esios_batch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4bd6374d7babcb1295cf87f73ec0fcf19ff1f53",
+      "size": 11802,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f4bd6374d7babcb1295cf87f73ec0fcf19ff1f53"
+    },
+    {
+      "path": "code/src/data_ingestion/es/esios_targeted_fetch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69e9959849a6318734f71498fb805b67d13eaa59",
+      "size": 5266,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/69e9959849a6318734f71498fb805b67d13eaa59"
+    },
+    {
+      "path": "code/src/data_ingestion/es/extend_near_marginal_proxy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2b68a29bb5c884c88435a24ee685c0e0f60d1c5",
+      "size": 25224,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d2b68a29bb5c884c88435a24ee685c0e0f60d1c5"
+    },
+    {
+      "path": "code/src/data_ingestion/es/historical_crosswalk.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbbd5c53ff48199693acfc684597afdc61f52c14",
+      "size": 6788,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cbbd5c53ff48199693acfc684597afdc61f52c14"
+    },
+    {
+      "path": "code/src/data_ingestion/es/merge_spot_data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdd3092276e5d0384b3b9a87bb8e6afbb3aa861c",
+      "size": 13045,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fdd3092276e5d0384b3b9a87bb8e6afbb3aa861c"
+    },
+    {
+      "path": "code/src/data_ingestion/es/near_marginal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c02eeae164f9ad998bf4e8bc3731f237dde555b6",
+      "size": 16688,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c02eeae164f9ad998bf4e8bc3731f237dde555b6"
+    },
+    {
+      "path": "code/src/data_ingestion/es/omie.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8805f3dcaf821f64947eb364a0120833b403c753",
+      "size": 14519,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8805f3dcaf821f64947eb364a0120833b403c753"
+    },
+    {
+      "path": "code/src/data_ingestion/es/parsers.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a678702b3fcc99a138d7a380a7f35d575a3565c6",
+      "size": 429,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a678702b3fcc99a138d7a380a7f35d575a3565c6"
+    },
+    {
+      "path": "code/src/data_ingestion/es/proxy_mechanism_analysis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a626363cc68d0178dd4f9bb565cdd1500fc121f8",
+      "size": 12649,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a626363cc68d0178dd4f9bb565cdd1500fc121f8"
+    },
+    {
+      "path": "code/src/data_ingestion/es/quality.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a3a6d66208b38e4bcf1e29eaf2cb1b6fc8a1a88",
+      "size": 4612,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3a3a6d66208b38e4bcf1e29eaf2cb1b6fc8a1a88"
+    },
+    {
+      "path": "code/src/data_ingestion/es/ree.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff51f794f43e8dd824c6ca23bde14d4e3f500548",
+      "size": 11238,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ff51f794f43e8dd824c6ca23bde14d4e3f500548"
+    },
+    {
+      "path": "code/src/data_ingestion/es/repair_proxy_metadata.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "275fec4f150fdc145d7cce455251c8c7b425107a",
+      "size": 1962,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/275fec4f150fdc145d7cce455251c8c7b425107a"
+    },
+    {
+      "path": "code/src/data_ingestion/es/repair_step7_gaps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43490c93f74f171428d52e3143aa366a6dcba478",
+      "size": 7694,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/43490c93f74f171428d52e3143aa366a6dcba478"
+    },
+    {
+      "path": "code/src/es_historical_conditional",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1388c950c48438f35cca3edb7e1f5497e2cb63ac",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1388c950c48438f35cca3edb7e1f5497e2cb63ac"
+    },
+    {
+      "path": "code/src/es_historical_conditional/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3f55d9066082585a55b9115e4857924dd8266da",
+      "size": 80,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d3f55d9066082585a55b9115e4857924dd8266da"
+    },
+    {
+      "path": "code/src/es_historical_conditional/__main__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23780be8cf5de13d8ee93c2779edbcb514e8d1bf",
+      "size": 10125,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/23780be8cf5de13d8ee93c2779edbcb514e8d1bf"
+    },
+    {
+      "path": "code/src/es_historical_conditional/adapter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "118ded0ff74dc8c4b559957e1b2e76ade1143075",
+      "size": 12976,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/118ded0ff74dc8c4b559957e1b2e76ade1143075"
+    },
+    {
+      "path": "code/src/es_historical_conditional/perfect.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35a8f9048faa3e3bcbfe5c10905fc365b19933d5",
+      "size": 7275,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/35a8f9048faa3e3bcbfe5c10905fc365b19933d5"
+    },
+    {
+      "path": "code/src/es_historical_conditional/runner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "665f28c6abae0181c3b77f87953e432630d502ef",
+      "size": 5866,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/665f28c6abae0181c3b77f87953e432630d502ef"
+    },
+    {
+      "path": "code/src/es_synthetic_market",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a6a07928692846a8992e8842a7bc5873cd64e25",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/3a6a07928692846a8992e8842a7bc5873cd64e25"
+    },
+    {
+      "path": "code/src/es_synthetic_market/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ed8d65d287180c3f668bcff74e24d7061429ed7",
+      "size": 970,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6ed8d65d287180c3f668bcff74e24d7061429ed7"
+    },
+    {
+      "path": "code/src/es_synthetic_market/_baseline_core.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d954c690b2c42d8d41325322ba42b72ba90890d",
+      "size": 65472,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2d954c690b2c42d8d41325322ba42b72ba90890d"
+    },
+    {
+      "path": "code/src/es_synthetic_market/core.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96bf1cc76b2426cd2c08d1fdb661a551e962c68c",
+      "size": 86155,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/96bf1cc76b2426cd2c08d1fdb661a551e962c68c"
+    },
+    {
+      "path": "code/src/es_synthetic_market/diagnostics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37ca0b52814e172c53c31e908d218912b4d44a59",
+      "size": 28763,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/37ca0b52814e172c53c31e908d218912b4d44a59"
+    },
+    {
+      "path": "code/src/es_synthetic_market/integration.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "602ebc9fd562fc799b3bae1ef0094c5c6b9cdbe6",
+      "size": 12451,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/602ebc9fd562fc799b3bae1ef0094c5c6b9cdbe6"
+    },
+    {
+      "path": "code/src/es_synthetic_market/ledger.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf71eff00ecba4436e131a3fce3378c88b53ac77",
+      "size": 11679,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cf71eff00ecba4436e131a3fce3378c88b53ac77"
+    },
+    {
+      "path": "code/src/es_synthetic_market/perfect.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f77abb364a9feb0efad2d897b036d75a1b846024",
+      "size": 19429,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f77abb364a9feb0efad2d897b036d75a1b846024"
+    },
+    {
+      "path": "code/src/es_synthetic_market/rolling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "323993c9ddbbfec4b7a2802e7ef53d0d1e436625",
+      "size": 25539,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/323993c9ddbbfec4b7a2802e7ef53d0d1e436625"
+    },
+    {
+      "path": "code/tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "04699ac17530ef208eee8b77208bbf3db32ee8de",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/04699ac17530ef208eee8b77208bbf3db32ee8de"
+    },
+    {
+      "path": "code/tests/test_es_a1_a3_optimization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bf5abb21ef4d728584c0df097fb8d0fa3ec9ee0",
+      "size": 12047,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3bf5abb21ef4d728584c0df097fb8d0fa3ec9ee0"
+    },
+    {
+      "path": "code/tests/test_es_c_acceptance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d6416ec36e784126be514c1dd0903caa1d87203",
+      "size": 12581,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2d6416ec36e784126be514c1dd0903caa1d87203"
+    },
+    {
+      "path": "code/tests/test_es_capacity_award_rate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f11613105cb46f14702e71bd7437f81504facf60",
+      "size": 9931,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f11613105cb46f14702e71bd7437f81504facf60"
+    },
+    {
+      "path": "code/tests/test_es_data_ingestion.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ded70185cdd166533fd445a72d4914e7bfdc4e3",
+      "size": 13306,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9ded70185cdd166533fd445a72d4914e7bfdc4e3"
+    },
+    {
+      "path": "code/tests/test_es_historical_conditional_adapter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e66f24459b858a40ffc3d05e2bb43cac9ad20d0b",
+      "size": 5184,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e66f24459b858a40ffc3d05e2bb43cac9ad20d0b"
+    },
+    {
+      "path": "code/tests/test_es_historical_conditional_raw.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f75b5229cfd443b7aa96fb6067ebe134fe4ddd5",
+      "size": 2852,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0f75b5229cfd443b7aa96fb6067ebe134fe4ddd5"
+    },
+    {
+      "path": "code/tests/test_es_historical_conditional_runner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dcab7e7787a30c114873bb19d800cde005ddd47",
+      "size": 4099,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4dcab7e7787a30c114873bb19d800cde005ddd47"
+    },
+    {
+      "path": "code/tests/test_es_historical_conditional_scope.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d734ffe25e2233db935dcf8b67d02ed060e1473b",
+      "size": 2832,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d734ffe25e2233db935dcf8b67d02ed060e1473b"
+    },
+    {
+      "path": "code/tests/test_es_ledger_acceptance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1088d1cd73b8c34913fdf6adea6085040fe71a4d",
+      "size": 5241,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1088d1cd73b8c34913fdf6adea6085040fe71a4d"
+    },
+    {
+      "path": "code/tests/test_es_milp_sandbox.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6b1454c860a0a56836f0f812bf1d92bcf06b136",
+      "size": 6179,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b6b1454c860a0a56836f0f812bf1d92bcf06b136"
+    },
+    {
+      "path": "code/tests/test_es_net_contract.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c7b3c26edce8d2cdb3a1b4605831d0e0d1886ba",
+      "size": 8581,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4c7b3c26edce8d2cdb3a1b4605831d0e0d1886ba"
+    },
+    {
+      "path": "code/tests/test_es_order_diagnostic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b50eeb4ad4f830455dfeababba770d64f3480ec5",
+      "size": 8113,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b50eeb4ad4f830455dfeababba770d64f3480ec5"
+    },
+    {
+      "path": "code/tests/test_es_p1_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55788c55be76066ac40099ff7e3a18951d0aaae2",
+      "size": 2803,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/55788c55be76066ac40099ff7e3a18951d0aaae2"
+    },
+    {
+      "path": "code/tests/test_es_p1_indexing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8106812cd56904ba7c00807332db4e9cfba07d31",
+      "size": 8573,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8106812cd56904ba7c00807332db4e9cfba07d31"
+    },
+    {
+      "path": "code/tests/test_es_p1_rolling_storage.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c36c093858fcfe725810f913814c316a7e29db52",
+      "size": 8747,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c36c093858fcfe725810f913814c316a7e29db52"
+    },
+    {
+      "path": "code/tests/test_es_perfect_adapter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81671ae49753da11efdb45fee702a9f0aaafaadf",
+      "size": 3084,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/81671ae49753da11efdb45fee702a9f0aaafaadf"
+    },
+    {
+      "path": "code/tests/test_es_perfect_v1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d83ba00c68f5539ad2f86614b82e5941f07f6e51",
+      "size": 9081,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d83ba00c68f5539ad2f86614b82e5941f07f6e51"
+    },
+    {
+      "path": "code/tests/test_es_result_baseline.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f21ab51b89dafa0923c68a5838c9c05af33fbc9e",
+      "size": 8748,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f21ab51b89dafa0923c68a5838c9c05af33fbc9e"
+    },
+    {
+      "path": "code/tests/test_es_result_presentation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb2de51cff443a8e37a1e8a4a21e11b1ce3af2ed",
+      "size": 6167,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cb2de51cff443a8e37a1e8a4a21e11b1ce3af2ed"
+    },
+    {
+      "path": "code/tests/test_es_rolling_boundary_acceptance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03c89d7ffe528237970214ebd304b6c7f7a7d66c",
+      "size": 2204,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/03c89d7ffe528237970214ebd304b6c7f7a7d66c"
+    },
+    {
+      "path": "code/tests/test_es_synthetic_market_acceptance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0338f7a4ed9465e9c120c1cc315cca29d3c431b",
+      "size": 5818,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a0338f7a4ed9465e9c120c1cc315cca29d3c431b"
+    },
+    {
+      "path": "code/tests/test_es_synthetic_market_core.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbd3cc173f76690dd5a35530d0a9e33d147f7260",
+      "size": 13720,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bbd3cc173f76690dd5a35530d0a9e33d147f7260"
+    },
+    {
+      "path": "code/tests/test_es_synthetic_market_diagnostics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c1696246b4e5b695bfe9292fdb494f11c786437",
+      "size": 4211,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0c1696246b4e5b695bfe9292fdb494f11c786437"
+    },
+    {
+      "path": "code/tests/test_es_synthetic_market_rolling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c67a729ce045153b26577a842372f47f133ce6cd",
+      "size": 13082,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c67a729ce045153b26577a842372f47f133ce6cd"
+    },
+    {
+      "path": "code/tests/test_es_trade_numeric_bounds.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a9a8be82a3357f273dd78cc953e0d333ae7020b",
+      "size": 3532,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a9a8be82a3357f273dd78cc953e0d333ae7020b"
+    },
+    {
+      "path": "reports",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7081437d8018179b8dc65331ca8de1e473fd8197",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/7081437d8018179b8dc65331ca8de1e473fd8197"
+    },
+    {
+      "path": "reports/afrr_capacity_price_monthly_202601_03_20260923T015413Z",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e5d2c5db235681d7da627d97880f685b7f4509e",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1e5d2c5db235681d7da627d97880f685b7f4509e"
+    },
+    {
+      "path": "reports/afrr_capacity_price_monthly_202601_03_20260923T015413Z/comparison.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe5d0d0cb003f3f6693eb4617e5627b5ad3877e8",
+      "size": 7739,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fe5d0d0cb003f3f6693eb4617e5627b5ad3877e8"
+    },
+    {
+      "path": "reports/afrr_capacity_price_monthly_202601_03_20260923T015413Z/monthly_direction_check.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c403b9c106db6a646835264f5cfaae3f37be866",
+      "size": 523,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1c403b9c106db6a646835264f5cfaae3f37be866"
+    },
+    {
+      "path": "reports/afrr_capacity_price_monthly_202601_03_20260923T015413Z/monthly_pooled_average.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84f23b2296e6ee55568bc3ae98ea0c5620945cf4",
+      "size": 609,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/84f23b2296e6ee55568bc3ae98ea0c5620945cf4"
+    },
+    {
+      "path": "reports/afrr_capacity_price_monthly_202601_03_20260923T015413Z/月度对比说明.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea2ba6dceb96f76428491b91e32b0ceda7bd562e",
+      "size": 1450,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ea2ba6dceb96f76428491b91e32b0ceda7bd562e"
+    },
+    {
+      "path": "reports/afrr_month_202602_20260923T012942Z",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "66a4c2ff784c260ce4b36a7e9f3c793718fdf15c",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/66a4c2ff784c260ce4b36a7e9f3c793718fdf15c"
+    },
+    {
+      "path": "reports/afrr_month_202602_20260923T012942Z/comparison.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16e09494f0a52bc233277f90a22845b3bcd76f82",
+      "size": 8208,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/16e09494f0a52bc233277f90a22845b3bcd76f82"
+    },
+    {
+      "path": "reports/afrr_month_202602_20260923T012942Z/月聚合对比.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6d4d8204e6ae300ce17d95de40abb442cece672",
+      "size": 1454,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b6d4d8204e6ae300ce17d95de40abb442cece672"
+    },
+    {
+      "path": "reports/afrr_price_20260214_20260922T155102Z",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99aef53c71186c389bdc14eda877facd0fc15d14",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/99aef53c71186c389bdc14eda877facd0fc15d14"
+    },
+    {
+      "path": "reports/afrr_price_20260214_20260922T155102Z/comparison.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d33c6e2efe98861b5790ece4d3262c11193397c0",
+      "size": 16165,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d33c6e2efe98861b5790ece4d3262c11193397c0"
+    },
+    {
+      "path": "reports/afrr_price_20260214_20260922T155102Z/hourly_comparison.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39b9d35ea64192e4ded23ae73a1d09e6cdfb2c96",
+      "size": 650,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/39b9d35ea64192e4ded23ae73a1d09e6cdfb2c96"
+    },
+    {
+      "path": "reports/afrr_price_20260214_20260922T155102Z/quarter_hour_comparison.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afbf66239d10adf18c09ec134ad19c6aa0ed02dd",
+      "size": 1242,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/afbf66239d10adf18c09ec134ad19c6aa0ed02dd"
+    },
+    {
+      "path": "reports/afrr_price_20260214_20260922T155102Z/对比说明.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5347a077f65ee00238ffbe2fb4aaf9c9ef903a90",
+      "size": 3560,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5347a077f65ee00238ffbe2fb4aaf9c9ef903a90"
+    },
+    {
+      "path": "reports/afrr_reserve_monthly_peninsular_20260923T014548Z",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5687096e0a2e35c1fffe5710409104b4a6a1156c",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/5687096e0a2e35c1fffe5710409104b4a6a1156c"
+    },
+    {
+      "path": "reports/afrr_reserve_monthly_peninsular_20260923T014548Z/monthly_up_down.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef5d1adc33ca9be98ae83433cd34f42225ab5835",
+      "size": 3388,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ef5d1adc33ca9be98ae83433cd34f42225ab5835"
+    },
+    {
+      "path": "reports/afrr_reserve_monthly_peninsular_20260923T014548Z/source_manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3130a2311e7623a6c7254780ab5af99a1ee7caf",
+      "size": 44987,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a3130a2311e7623a6c7254780ab5af99a1ee7caf"
+    },
+    {
+      "path": "reports/afrr_reserve_monthly_peninsular_20260923T014548Z/月度聚合说明.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df46d9266d37da6b455a300a84dc7b25bfa9775c",
+      "size": 3946,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/df46d9266d37da6b455a300a84dc7b25bfa9775c"
+    },
+    {
+      "path": "reports/capacity_4h_award_rate_20260929.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "444672cc372fb1c1da909f2b6d8dcdb4f255fd0e",
+      "size": 100376,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/444672cc372fb1c1da909f2b6d8dcdb4f255fd0e"
+    },
+    {
+      "path": "reports/capacity_4h_fullfill_20260929.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe118203e7caf9e455d15c50e07d7ffebf05572f",
+      "size": 100238,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fe118203e7caf9e455d15c50e07d7ffebf05572f"
+    },
+    {
+      "path": "reports/capacity_award_rate_full_run_20260923.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a9da6166a978343b9b22e6acb030ab29f183bba",
+      "size": 78684,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8a9da6166a978343b9b22e6acb030ab29f183bba"
+    },
+    {
+      "path": "reports/capacity_award_rate_resume_20260923.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d93b32d95b1b12eb69137cb49fbb73239a036668",
+      "size": 12108,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d93b32d95b1b12eb69137cb49fbb73239a036668"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6f84bb4aea63012e3ffd7863907acc08b1cd21a",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/a6f84bb4aea63012e3ffd7863907acc08b1cd21a"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923/award_rate_monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b275c6ba1d04b92ea8768c456a26d56301102e2c",
+      "size": 1411,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b275c6ba1d04b92ea8768c456a26d56301102e2c"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923/efc_monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fb20b9f1b0fb51e98c3b205fde2139f83a70904",
+      "size": 1663,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0fb20b9f1b0fb51e98c3b205fde2139f83a70904"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7be0932158c267450e888a34a23273c23c2e57bc",
+      "size": 8952,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7be0932158c267450e888a34a23273c23c2e57bc"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923/summary.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aadceb42ec2984a94b0effd874c32a1c8706c7e4",
+      "size": 554,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/aadceb42ec2984a94b0effd874c32a1c8706c7e4"
+    },
+    {
+      "path": "reports/capacity_award_rate_sensitivity_20260923/结果对比.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "780952e72cc890bf5cf21cdf98fa1a9dfcad1ed1",
+      "size": 3566,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/780952e72cc890bf5cf21cdf98fa1a9dfcad1ed1"
+    },
+    {
+      "path": "reports/charts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b20ceaf3a1fff38d866d318a1ea2cbacc3251ea2",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/b20ceaf3a1fff38d866d318a1ea2cbacc3251ea2"
+    },
+    {
+      "path": "reports/charts/monthly_capacity_allocation.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6e9ac784495bacd3725a62b8becdf235379533c",
+      "size": 9265,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b6e9ac784495bacd3725a62b8becdf235379533c"
+    },
+    {
+      "path": "reports/charts/monthly_hourly_capacity_heatmaps.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb29a69b8b16e2b9bddf4fd5b0ffe447ce897205",
+      "size": 211929,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/eb29a69b8b16e2b9bddf4fd5b0ffe447ce897205"
+    },
+    {
+      "path": "reports/charts/monthly_revenue_breakdown.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3aad29111786b1aea3814bc963d7ef4b2ee35772",
+      "size": 12139,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3aad29111786b1aea3814bc963d7ef4b2ee35772"
+    },
+    {
+      "path": "reports/file_manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4c8d4e312ff4bdb9ecdfb3f2a3c7673f76c7d65",
+      "size": 3049709,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c4c8d4e312ff4bdb9ecdfb3f2a3c7673f76c7d65"
+    },
+    {
+      "path": "reports/monthly_capacity_allocation.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a4551caa5f92010ad80385ca49fae8adb0ccedf",
+      "size": 3284,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7a4551caa5f92010ad80385ca49fae8adb0ccedf"
+    },
+    {
+      "path": "reports/monthly_hourly_capacity.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e4a741aa879e424bee718e9d923ad442ab19bb7",
+      "size": 38183,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0e4a741aa879e424bee718e9d923ad442ab19bb7"
+    },
+    {
+      "path": "reports/monthly_revenue_breakdown.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97d6d0d5f7c21d5e7852251b95394e0aa2439f00",
+      "size": 3423,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/97d6d0d5f7c21d5e7852251b95394e0aa2439f00"
+    },
+    {
+      "path": "reports/organization_checks.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db423d761d5ceace87e821cb0b1501f7439e6f5b",
+      "size": 567,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/db423d761d5ceace87e821cb0b1501f7439e6f5b"
+    },
+    {
+      "path": "reports/perfect_v1_8day_comparison.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7a41fb81267910926a3c956ddade0821859de5f",
+      "size": 1581,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e7a41fb81267910926a3c956ddade0821859de5f"
+    },
+    {
+      "path": "reports/perfect_v1_full_diagnostic.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3c24895ee6e3fe533624d36b24fc29f5bfd1493",
+      "size": 803,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c3c24895ee6e3fe533624d36b24fc29f5bfd1493"
+    },
+    {
+      "path": "reports/perfect_v1_full_diagnostic_retry.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "809de2dc05ce9893c978b5de5dd6f1c5e1e70d71",
+      "size": 5537,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/809de2dc05ce9893c978b5de5dd6f1c5e1e70d71"
+    },
+    {
+      "path": "reports/perfect_v1_full_resumed.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "389fc73d78fc96a7fb605fa3f498cffcd6a14c75",
+      "size": 52086,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/389fc73d78fc96a7fb605fa3f498cffcd6a14c75"
+    },
+    {
+      "path": "reports/perfect_v1_full_run.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8941cb2ad8307e0f429f8afaae9659f8f9e643e1",
+      "size": 54923,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8941cb2ad8307e0f429f8afaae9659f8f9e643e1"
+    },
+    {
+      "path": "reports/perfect_v1_legacy_tests.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b0b4714079247fd28ea1c1641488807fb86dac4",
+      "size": 13339,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2b0b4714079247fd28ea1c1641488807fb86dac4"
+    },
+    {
+      "path": "reports/perfect_v1_p0_tests.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fafced55f4cd724b7e05b28224b71c52f974052",
+      "size": 2451,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4fafced55f4cd724b7e05b28224b71c52f974052"
+    },
+    {
+      "path": "reports/perfect_v1_release8d_summary.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3e024a5ee20ece48bdb4faf6548c8bca73ff8f3",
+      "size": 1324,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e3e024a5ee20ece48bdb4faf6548c8bca73ff8f3"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c56c6293090fd4f93ac3fe0d76209dda20246b51",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/c56c6293090fd4f93ac3fe0d76209dda20246b51"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/DA.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6985092445f48944ae0d9400b5f5d3f7e651e119",
+      "size": 8233,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6985092445f48944ae0d9400b5f5d3f7e651e119"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/ID.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a9126ea7bd643d1efd70df1976ecdd10f9aa3b",
+      "size": 8173,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/94a9126ea7bd643d1efd70df1976ecdd10f9aa3b"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/act_down.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c53bfacbc3023a64499a66988bc04616ca243fb6",
+      "size": 8201,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c53bfacbc3023a64499a66988bc04616ca243fb6"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/act_up.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b43a937d1e8a14e2ecf7ac3a48d75a689cdb979a",
+      "size": 8162,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b43a937d1e8a14e2ecf7ac3a48d75a689cdb979a"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/artifact_checks.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93d2d7150a671fde71371f17e322493b96e57340",
+      "size": 162,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/93d2d7150a671fde71371f17e322493b96e57340"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/cap_down.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fd0d616736486eb973735297df80d4f76ffc3d8",
+      "size": 8190,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4fd0d616736486eb973735297df80d4f76ffc3d8"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/cap_up.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "959e5707bd2bcdd7c82bd763aab1eae9d59a54b4",
+      "size": 8237,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/959e5707bd2bcdd7c82bd763aab1eae9d59a54b4"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/common_qh_monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aee0e0a577b42641a28f60b1ea35cb11e5a9d44d",
+      "size": 1440,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/aee0e0a577b42641a28f60b1ea35cb11e5a9d44d"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/comparison_summary.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b103884f00e98b2638f7be7d430f03e3ac4c7559",
+      "size": 629,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b103884f00e98b2638f7be7d430f03e3ac4c7559"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/monthly_efc.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce9e1c0bcedd85c35bd9871091213872c367ce9b",
+      "size": 533,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ce9e1c0bcedd85c35bd9871091213872c367ce9b"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/monthly_market.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "597f7e1709690cf2a6bf6a7f73427f8c6678ff69",
+      "size": 12811,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/597f7e1709690cf2a6bf6a7f73427f8c6678ff69"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/monthly_total.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9748aa0830724d7dd657fb845f4bb05918365f15",
+      "size": 2046,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9748aa0830724d7dd657fb845f4bb05918365f15"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/monthly_total.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ada9be6b8ab6111bb7eaf1f7e4e6399f174cdd1",
+      "size": 8258,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4ada9be6b8ab6111bb7eaf1f7e4e6399f174cdd1"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/total_market.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56516ddb838cb039d94f1f8cb73f5024ff4b0fcb",
+      "size": 479,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/56516ddb838cb039d94f1f8cb73f5024ff4b0fcb"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/validation.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fe3b6997aa119e85514f0aacfc1de83262e6975",
+      "size": 495,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9fe3b6997aa119e85514f0aacfc1de83262e6975"
+    },
+    {
+      "path": "reports/perfect_v1_vs_v0/结果对比.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a5269abf594df4b15c01d6cbaecab92284f0d32",
+      "size": 14638,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6a5269abf594df4b15c01d6cbaecab92284f0d32"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "03824f5ce55b8f12ace66cde718f0c6bc734d8b1",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/03824f5ce55b8f12ace66cde718f0c6bc734d8b1"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5af574218f1877caacded2aefaa925ab4b4950a",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/f5af574218f1877caacded2aefaa925ab4b4950a"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a20dcaf01ed66a92b70b89a2982efcd468a2e157",
+      "size": 660,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a20dcaf01ed66a92b70b89a2982efcd468a2e157"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9155ef098f51a2630dea72d24fc0917895f429e",
+      "size": 1155,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e9155ef098f51a2630dea72d24fc0917895f429e"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "551acd83160f534bf73ce47149ebc65d263a1c22",
+      "size": 15231,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/551acd83160f534bf73ce47149ebc65d263a1c22"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5a0781328d53a283c937a36ca50da46a0b08259",
+      "size": 2865,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a5a0781328d53a283c937a36ca50da46a0b08259"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6c51b299a60cff93396fd4d84977370c50fc2dd",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e6c51b299a60cff93396fd4d84977370c50fc2dd"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9eee3050b5c7b6adc3cfd2fe9c574d8f8052ee9f",
+      "size": 128491,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9eee3050b5c7b6adc3cfd2fe9c574d8f8052ee9f"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly_market_shares.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b13888ee043b068ce7dedaf781161d80d7dff378",
+      "size": 1183,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b13888ee043b068ce7dedaf781161d80d7dff378"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db6a4b2165312d07b377aaccf1e34bd6af5e0ba9",
+      "size": 12991,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/db6a4b2165312d07b377aaccf1e34bd6af5e0ba9"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fe0641181120681f115565cc8c15c0521900ef3",
+      "size": 12974,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6fe0641181120681f115565cc8c15c0521900ef3"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54039f49f6239ad13f970bd9bf2402105f9bec09",
+      "size": 15123,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/54039f49f6239ad13f970bd9bf2402105f9bec09"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10af6da7f077f69fd1849af8dc5e89b6388d3369",
+      "size": 15111,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/10af6da7f077f69fd1849af8dc5e89b6388d3369"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d6eadc47350e3dd76b0e144797bc7c631f9af50",
+      "size": 15113,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1d6eadc47350e3dd76b0e144797bc7c631f9af50"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a49cf5362f7fc9d37dfba8b1b8f0581af884a784",
+      "size": 15097,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a49cf5362f7fc9d37dfba8b1b8f0581af884a784"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d145ca97315d556c3043c99114faecee6c5722b7",
+      "size": 4451,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d145ca97315d556c3043c99114faecee6c5722b7"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/report_manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62d4f3a5492df4726d4712b91fd21d9f1015e7fa",
+      "size": 860866,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/62d4f3a5492df4726d4712b91fd21d9f1015e7fa"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a819e8bb334c7fb5e3a1a10e9ccda2a8ec53fdb",
+      "size": 917,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a819e8bb334c7fb5e3a1a10e9ccda2a8ec53fdb"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2276338efb09ec83716d0f751c975c9116172b4a",
+      "size": 5606,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2276338efb09ec83716d0f751c975c9116172b4a"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/2h_optimize/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1df79b4e37127e02b797750a8b94259d1a6c66e3",
+      "size": 13744,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1df79b4e37127e02b797750a8b94259d1a6c66e3"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9003ccfe1ac9419c77d10bf1e02db423ccbd3ea2",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/9003ccfe1ac9419c77d10bf1e02db423ccbd3ea2"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88dc08c36fa5d87103df368894fbcd8ff2dd0676",
+      "size": 660,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/88dc08c36fa5d87103df368894fbcd8ff2dd0676"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a81679e3bfda1ea1c679ec498d081e7c06c10e0b",
+      "size": 1154,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a81679e3bfda1ea1c679ec498d081e7c06c10e0b"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb2ae3bceda28d429c0e4120a846b7634f2130b7",
+      "size": 15241,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/eb2ae3bceda28d429c0e4120a846b7634f2130b7"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c69a466755086aafe6ad2854d45d372092a6429b",
+      "size": 2923,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c69a466755086aafe6ad2854d45d372092a6429b"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cc9676f50ebf97eaadea46bce6d5a87e0de70d3",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4cc9676f50ebf97eaadea46bce6d5a87e0de70d3"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98468b240e40430302c8349cee18e43baebc3363",
+      "size": 128469,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/98468b240e40430302c8349cee18e43baebc3363"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly_market_shares.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ab7d0293b16a06d67b502ce86938b2a53f47ae3",
+      "size": 1184,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7ab7d0293b16a06d67b502ce86938b2a53f47ae3"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6ab880c4fe3eab33c9d614c1c682279339e4d31",
+      "size": 13299,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d6ab880c4fe3eab33c9d614c1c682279339e4d31"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb0500de6f8dfd941dd9bd2ccfa132e2ec8f1ea9",
+      "size": 13282,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bb0500de6f8dfd941dd9bd2ccfa132e2ec8f1ea9"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5e4dccf2cd8e8433cfa1edb7a3b8c075a3583ea",
+      "size": 15127,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b5e4dccf2cd8e8433cfa1edb7a3b8c075a3583ea"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92b3b4935f2f31239cb74fd34d8d5c47a8971e95",
+      "size": 15121,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/92b3b4935f2f31239cb74fd34d8d5c47a8971e95"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a6927263c141b162ed16cb414817884165a9458",
+      "size": 15133,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a6927263c141b162ed16cb414817884165a9458"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62695d719f12cd87fd8778b8dd0884fd06eb0b69",
+      "size": 15142,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/62695d719f12cd87fd8778b8dd0884fd06eb0b69"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e406aa9e8b1fe63316b7c7153da120cb516440b3",
+      "size": 4454,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e406aa9e8b1fe63316b7c7153da120cb516440b3"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/report_manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f130f84b655f65f906bae30bd105a4b5dd47a3a",
+      "size": 860520,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9f130f84b655f65f906bae30bd105a4b5dd47a3a"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de24fabecfcf5a55df4c2b0c7ebd898a620a5ae8",
+      "size": 782,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/de24fabecfcf5a55df4c2b0c7ebd898a620a5ae8"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96ee3509c79e31f64bb9d47b0755d26c99c0c7fe",
+      "size": 3964,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/96ee3509c79e31f64bb9d47b0755d26c99c0c7fe"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_full_fill/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b76d9e6ac9362688ba43ba82a12a86abb2fb345",
+      "size": 13121,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5b76d9e6ac9362688ba43ba82a12a86abb2fb345"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f9083f501eeb8bcd78260c8d4ab06d167ee34db9",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/f9083f501eeb8bcd78260c8d4ab06d167ee34db9"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ddd01e02b80024660d560fa5c15313ca8bb31d0",
+      "size": 660,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9ddd01e02b80024660d560fa5c15313ca8bb31d0"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a93f3664d528ff72ee94f4b324db1ab4a6e0a752",
+      "size": 1154,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a93f3664d528ff72ee94f4b324db1ab4a6e0a752"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4041e4774fbb8d02234c7abd1fa429663315b01b",
+      "size": 15234,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4041e4774fbb8d02234c7abd1fa429663315b01b"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f576dea15543bb661aca2570ff64bb6e6c77004e",
+      "size": 2896,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f576dea15543bb661aca2570ff64bb6e6c77004e"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d368017aad8d4cfd998e373dbfa2f948c5acc78",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9d368017aad8d4cfd998e373dbfa2f948c5acc78"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7a51dc55392f9630499ffe600b2086123b64eb8",
+      "size": 128463,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f7a51dc55392f9630499ffe600b2086123b64eb8"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly_market_shares.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "924e03fac8dd3530535e4da96fe48fb5e821c884",
+      "size": 1187,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/924e03fac8dd3530535e4da96fe48fb5e821c884"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a7e36a0188941a98a0ff17fd19298f1a654a3fc",
+      "size": 13297,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7a7e36a0188941a98a0ff17fd19298f1a654a3fc"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2228214cdb9397e40f9b887d5db6b82bdc096fcc",
+      "size": 13280,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2228214cdb9397e40f9b887d5db6b82bdc096fcc"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd89f8428dccec8a06c4769911ac6bd3cba57f64",
+      "size": 15127,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cd89f8428dccec8a06c4769911ac6bd3cba57f64"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1044197ef25d0120a91470fedeaad75512f37583",
+      "size": 15107,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1044197ef25d0120a91470fedeaad75512f37583"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74b7ae76d1e1ac4c89bdfabd602cda97113fde9e",
+      "size": 15129,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/74b7ae76d1e1ac4c89bdfabd602cda97113fde9e"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2dc3f1080f05db25f503fea5615508b6e063949",
+      "size": 15133,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b2dc3f1080f05db25f503fea5615508b6e063949"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcc0f94c059f12b1256e8ff9b76dfe47158d434b",
+      "size": 4454,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bcc0f94c059f12b1256e8ff9b76dfe47158d434b"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/report_manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb45bc194d4a8fdd7a1c940ea03bae2eb02072ae",
+      "size": 860852,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fb45bc194d4a8fdd7a1c940ea03bae2eb02072ae"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69ffcba6365e8da36cecf0e05e2cbb2b1f0c4d4b",
+      "size": 910,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/69ffcba6365e8da36cecf0e05e2cbb2b1f0c4d4b"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "711e0b22ef3dcc12aeb67d44501445add53973a0",
+      "size": 5606,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/711e0b22ef3dcc12aeb67d44501445add53973a0"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/4h_optimize/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e65ef4b6098ad6c14c7e213fb264b0cf7bf01435",
+      "size": 13770,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e65ef4b6098ad6c14c7e213fb264b0cf7bf01435"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/validation.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3015ee4b2959c793c6319d88ef8e51c1111d060",
+      "size": 1307,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f3015ee4b2959c793c6319d88ef8e51c1111d060"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/visual_check.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc432e45a24b15b4200ce930dd32ab4ad7903b44",
+      "size": 282383,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cc432e45a24b15b4200ce930dd32ab4ad7903b44"
+    },
+    {
+      "path": "reports/result_baseline_v1_20260930/开发验收记录.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fc563c8e8e72dd5d121c5d8e8800dfff46d77c6",
+      "size": 5082,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5fc563c8e8e72dd5d121c5d8e8800dfff46d77c6"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_20260929",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5c737418afefe3eafcd525346df49be590fd563d",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/5c737418afefe3eafcd525346df49be590fd563d"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_20260929/hourly_comparison.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0236cd7e6eccfc25558d874221edd330a768d3e2",
+      "size": 794,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0236cd7e6eccfc25558d874221edd330a768d3e2"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_20260929/monthly_comparison.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5139a286967a5c2c6bd9b5ff57d8da58a57b50d4",
+      "size": 3572,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5139a286967a5c2c6bd9b5ff57d8da58a57b50d4"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_20260929/四小时储能收益对比.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "395c674094166236d451473207da2dbb9ce13e75",
+      "size": 4893,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/395c674094166236d451473207da2dbb9ce13e75"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "667c99864a19324de494d052a5079e50192dba57",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/667c99864a19324de494d052a5079e50192dba57"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22d91f2683230a3738566b2f27a6481e3d60a3c4",
+      "size": 608,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/22d91f2683230a3738566b2f27a6481e3d60a3c4"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e057c61feed71b6e4b8f9c13f1fb7ca70113bb1",
+      "size": 1174,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8e057c61feed71b6e4b8f9c13f1fb7ca70113bb1"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc561b02304292d354dbbe151c895207b71aeaec",
+      "size": 15231,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cc561b02304292d354dbbe151c895207b71aeaec"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12066ea53ec6a214a2496d69db79693b411a3e78",
+      "size": 3153,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/12066ea53ec6a214a2496d69db79693b411a3e78"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d368017aad8d4cfd998e373dbfa2f948c5acc78",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9d368017aad8d4cfd998e373dbfa2f948c5acc78"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7de5abb95237d61706f9705ff420bdff4240c571",
+      "size": 125583,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7de5abb95237d61706f9705ff420bdff4240c571"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "822028918ee9122c5cf3a868a3df74ee8ccf996a",
+      "size": 13276,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/822028918ee9122c5cf3a868a3df74ee8ccf996a"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adfa20c754ada42b99482a472a4dcd0cf136ef01",
+      "size": 13273,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/adfa20c754ada42b99482a472a4dcd0cf136ef01"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97fc27fcbaee382e21fa22ff1fec2d714e7988b2",
+      "size": 15122,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/97fc27fcbaee382e21fa22ff1fec2d714e7988b2"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97fad6f84ab8310fa0fc928c08df5a7ce69ba1a0",
+      "size": 15102,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/97fad6f84ab8310fa0fc928c08df5a7ce69ba1a0"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec49e3e1bfa25f7a334b581b638cb986ba1d2923",
+      "size": 15126,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ec49e3e1bfa25f7a334b581b638cb986ba1d2923"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "934fc2fa52fdfd57f143b6eabb230434a551ef79",
+      "size": 15128,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/934fc2fa52fdfd57f143b6eabb230434a551ef79"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "496df1b0099436e68dec87ec45445af4eca06608",
+      "size": 4520,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/496df1b0099436e68dec87ec45445af4eca06608"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd940d1a464641a5d079683266363f38ba68e69b",
+      "size": 523,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bd940d1a464641a5d079683266363f38ba68e69b"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eac4f65cf0e08cbc65d496c5da91ce3a551da4a3",
+      "size": 3962,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/eac4f65cf0e08cbc65d496c5da91ce3a551da4a3"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_award_rate_20260929/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09489ce7cec63ce7e94503bf7c48d541288693da",
+      "size": 12623,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/09489ce7cec63ce7e94503bf7c48d541288693da"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d40171f1bc28d64b8401a9171bafd8d5cdf34f0d",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/d40171f1bc28d64b8401a9171bafd8d5cdf34f0d"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f30741f99366595002de74dabaa21ccd40a6d2c2",
+      "size": 608,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f30741f99366595002de74dabaa21ccd40a6d2c2"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac135f1fcffacfb0452e00376686f487e5762718",
+      "size": 1174,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ac135f1fcffacfb0452e00376686f487e5762718"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0637a06788a129e9bdc6743d49b3847601248a54",
+      "size": 15238,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0637a06788a129e9bdc6743d49b3847601248a54"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffafcdd1af7d23bc21d852445f02150bb07ad371",
+      "size": 3180,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ffafcdd1af7d23bc21d852445f02150bb07ad371"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cc9676f50ebf97eaadea46bce6d5a87e0de70d3",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4cc9676f50ebf97eaadea46bce6d5a87e0de70d3"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d67c57d092d9dd272c4c2c7732f5936b2d5bc3b1",
+      "size": 125589,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d67c57d092d9dd272c4c2c7732f5936b2d5bc3b1"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c0dbe34153cc291a19315868791ae5d07ab2b6",
+      "size": 13278,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/09c0dbe34153cc291a19315868791ae5d07ab2b6"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1214ea6cf16a29edb6030215b179ead514fd64e1",
+      "size": 13275,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1214ea6cf16a29edb6030215b179ead514fd64e1"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef1a0dbe125ab292143cd48f117824b3bcfbf6b6",
+      "size": 15122,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ef1a0dbe125ab292143cd48f117824b3bcfbf6b6"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2178a5535aeeb80208125a4d99e3034026ec9169",
+      "size": 15116,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2178a5535aeeb80208125a4d99e3034026ec9169"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac524e69dd4759ec74759763e3b1f9167b3db931",
+      "size": 15132,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ac524e69dd4759ec74759763e3b1f9167b3db931"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ac800a79c2cd6e669a5fbfbb5941b32bc910d03",
+      "size": 15137,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2ac800a79c2cd6e669a5fbfbb5941b32bc910d03"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b38ae15616889312b10f4499d40f42613abe072",
+      "size": 4524,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7b38ae15616889312b10f4499d40f42613abe072"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc13a203c05a9624f5036a3560a56748608c9d3a",
+      "size": 523,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bc13a203c05a9624f5036a3560a56748608c9d3a"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96ee3509c79e31f64bb9d47b0755d26c99c0c7fe",
+      "size": 3964,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/96ee3509c79e31f64bb9d47b0755d26c99c0c7fe"
+    },
+    {
+      "path": "reports/result_display_capacity_4h_fullfill_20260929/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0880af7e2e0978fe340307c8a36d8287459e5118",
+      "size": 12532,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0880af7e2e0978fe340307c8a36d8287459e5118"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2c86d7867286ddc6d33d8511eebe285c27f4b76d",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/2c86d7867286ddc6d33d8511eebe285c27f4b76d"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27a9794c3cf280eb676a6b188815b24d399faddf",
+      "size": 567,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/27a9794c3cf280eb676a6b188815b24d399faddf"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "430dbbf91ec66495a36c17be22a76abbc41194c1",
+      "size": 1152,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/430dbbf91ec66495a36c17be22a76abbc41194c1"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e8fe3192e8c1bebb521923fa652c05b938de7c3",
+      "size": 15244,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7e8fe3192e8c1bebb521923fa652c05b938de7c3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e530729b584610fdfad33187c3d2bef4be4c3fa3",
+      "size": 3079,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e530729b584610fdfad33187c3d2bef4be4c3fa3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a6e9b72fbd9f630d94caa1a170bc33fb4a3d01c",
+      "size": 12972,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9a6e9b72fbd9f630d94caa1a170bc33fb4a3d01c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c0e411b8ac3d1ac0bdf371f4b4fecdbdaaba9bb",
+      "size": 12967,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4c0e411b8ac3d1ac0bdf371f4b4fecdbdaaba9bb"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43630b0e39c7588b59454817590ca71301564052",
+      "size": 15129,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/43630b0e39c7588b59454817590ca71301564052"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8b7daa7944b869621d5bd2cbb9a352a852b44dd",
+      "size": 15123,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b8b7daa7944b869621d5bd2cbb9a352a852b44dd"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1745fe30369bebd2045ee1fd4e8c27cc6ea2647c",
+      "size": 15115,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1745fe30369bebd2045ee1fd4e8c27cc6ea2647c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66384b6874fd70c4eafb43ca369ee612189d002e",
+      "size": 15106,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/66384b6874fd70c4eafb43ca369ee612189d002e"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37063b5d7f0f23ce61d32607828fecb0bd981f30",
+      "size": 4357,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/37063b5d7f0f23ce61d32607828fecb0bd981f30"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d73bf72c2aa61d37675d812ec179d1ef1ce61e9",
+      "size": 6795,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2d73bf72c2aa61d37675d812ec179d1ef1ce61e9"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2c35f514df7acb8943a39190b8014880ca027f4",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/a2c35f514df7acb8943a39190b8014880ca027f4"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bce32e3f351b2d24095f38bac8ac186099a6f5df",
+      "size": 569,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bce32e3f351b2d24095f38bac8ac186099a6f5df"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db72b940b20b47993641f7e0f8bde3ee1c529c7b",
+      "size": 1201,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/db72b940b20b47993641f7e0f8bde3ee1c529c7b"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e8fe3192e8c1bebb521923fa652c05b938de7c3",
+      "size": 15244,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7e8fe3192e8c1bebb521923fa652c05b938de7c3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db5b0c607814e9cf4130819f5e2a514e969de030",
+      "size": 3119,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/db5b0c607814e9cf4130819f5e2a514e969de030"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a6e9b72fbd9f630d94caa1a170bc33fb4a3d01c",
+      "size": 12972,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9a6e9b72fbd9f630d94caa1a170bc33fb4a3d01c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c0e411b8ac3d1ac0bdf371f4b4fecdbdaaba9bb",
+      "size": 12967,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4c0e411b8ac3d1ac0bdf371f4b4fecdbdaaba9bb"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43630b0e39c7588b59454817590ca71301564052",
+      "size": 15129,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/43630b0e39c7588b59454817590ca71301564052"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8b7daa7944b869621d5bd2cbb9a352a852b44dd",
+      "size": 15123,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b8b7daa7944b869621d5bd2cbb9a352a852b44dd"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1745fe30369bebd2045ee1fd4e8c27cc6ea2647c",
+      "size": 15115,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1745fe30369bebd2045ee1fd4e8c27cc6ea2647c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66384b6874fd70c4eafb43ca369ee612189d002e",
+      "size": 15106,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/66384b6874fd70c4eafb43ca369ee612189d002e"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "515be89cf0745faa33d9fc3f2ae6e7e3c43e082e",
+      "size": 4627,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/515be89cf0745faa33d9fc3f2ae6e7e3c43e082e"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v2/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ffb0b33e6e047246344ef9174014bdffd6d6c72",
+      "size": 7259,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8ffb0b33e6e047246344ef9174014bdffd6d6c72"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8200ea771a582fbaa22690caf5ea894395b511f3",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/8200ea771a582fbaa22690caf5ea894395b511f3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f801608054467698f65b991d83bef0580f980070",
+      "size": 607,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f801608054467698f65b991d83bef0580f980070"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc0b21a15bd8db72e8c564564e70d180e83797e7",
+      "size": 1176,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fc0b21a15bd8db72e8c564564e70d180e83797e7"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a6d76402a8bd099688bcbf2140a72d45ea40fb7",
+      "size": 11643,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a6d76402a8bd099688bcbf2140a72d45ea40fb7"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c5b6889b04422e8121896ac24a0d48c20a007d8",
+      "size": 3098,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0c5b6889b04422e8121896ac24a0d48c20a007d8"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6c51b299a60cff93396fd4d84977370c50fc2dd",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e6c51b299a60cff93396fd4d84977370c50fc2dd"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4535a466e9f50713fd355b7ef7a498a6bd936c4b",
+      "size": 125611,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4535a466e9f50713fd355b7ef7a498a6bd936c4b"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18e3520fe6c379bb5b437ba932c6ce2e7dfb5ef3",
+      "size": 12970,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/18e3520fe6c379bb5b437ba932c6ce2e7dfb5ef3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dfb4acaa09fb13a5cf26adf910fb3d257c314b2",
+      "size": 12893,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6dfb4acaa09fb13a5cf26adf910fb3d257c314b2"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "add57bf29bd785d640448a5d60ce9f1d2c36a42b",
+      "size": 11058,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/add57bf29bd785d640448a5d60ce9f1d2c36a42b"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f7e5e340302e5fee8fd76e3bc65fba9022fa8bb",
+      "size": 10688,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9f7e5e340302e5fee8fd76e3bc65fba9022fa8bb"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94f51d7f7500c78a549e44eed2127f55d6a49a97",
+      "size": 10466,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/94f51d7f7500c78a549e44eed2127f55d6a49a97"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f5df43778601ec650a58f50bede0d7df8c50f0e",
+      "size": 8759,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2f5df43778601ec650a58f50bede0d7df8c50f0e"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d9bfe944fd1b548473f973c5e60cb52222b165c",
+      "size": 4530,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9d9bfe944fd1b548473f973c5e60cb52222b165c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v6/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b51291b1096b6646aef3aa8f32097bbae74a21a5",
+      "size": 11407,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b51291b1096b6646aef3aa8f32097bbae74a21a5"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1ec05b1db2fb04c04615f60da4e3923d5c209e05",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1ec05b1db2fb04c04615f60da4e3923d5c209e05"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/annual.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f801608054467698f65b991d83bef0580f980070",
+      "size": 607,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f801608054467698f65b991d83bef0580f980070"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc0b21a15bd8db72e8c564564e70d180e83797e7",
+      "size": 1176,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/fc0b21a15bd8db72e8c564564e70d180e83797e7"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a6d76402a8bd099688bcbf2140a72d45ea40fb7",
+      "size": 11643,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a6d76402a8bd099688bcbf2140a72d45ea40fb7"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/monthly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c5b6889b04422e8121896ac24a0d48c20a007d8",
+      "size": 3098,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0c5b6889b04422e8121896ac24a0d48c20a007d8"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/monthly_hourly_heatmap.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6c51b299a60cff93396fd4d84977370c50fc2dd",
+      "size": 8973,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e6c51b299a60cff93396fd4d84977370c50fc2dd"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/monthly_hourly_heatmap_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4535a466e9f50713fd355b7ef7a498a6bd936c4b",
+      "size": 125611,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4535a466e9f50713fd355b7ef7a498a6bd936c4b"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/monthly_revenue_kEUR.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18e3520fe6c379bb5b437ba932c6ce2e7dfb5ef3",
+      "size": 12970,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/18e3520fe6c379bb5b437ba932c6ce2e7dfb5ef3"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/monthly_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dfb4acaa09fb13a5cf26adf910fb3d257c314b2",
+      "size": 12893,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6dfb4acaa09fb13a5cf26adf910fb3d257c314b2"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/q1_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "add57bf29bd785d640448a5d60ce9f1d2c36a42b",
+      "size": 11058,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/add57bf29bd785d640448a5d60ce9f1d2c36a42b"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/q2_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f7e5e340302e5fee8fd76e3bc65fba9022fa8bb",
+      "size": 10688,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9f7e5e340302e5fee8fd76e3bc65fba9022fa8bb"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/q3_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94f51d7f7500c78a549e44eed2127f55d6a49a97",
+      "size": 10466,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/94f51d7f7500c78a549e44eed2127f55d6a49a97"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/q4_hourly_average_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f5df43778601ec650a58f50bede0d7df8c50f0e",
+      "size": 8759,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2f5df43778601ec650a58f50bede0d7df8c50f0e"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/quarterly_hourly.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d9bfe944fd1b548473f973c5e60cb52222b165c",
+      "size": 4530,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9d9bfe944fd1b548473f973c5e60cb52222b165c"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/rolling_12m.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f435c450d401271a18e9ced79e186b7235263d32",
+      "size": 631,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f435c450d401271a18e9ced79e186b7235263d32"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/rolling_12m_revenue_kEUR_per_MW.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bab9e2c479aacbc706dd9045703d4d9a4c07e69d",
+      "size": 5612,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bab9e2c479aacbc706dd9045703d4d9a4c07e69d"
+    },
+    {
+      "path": "reports/result_display_capacity_award_rate_20260924_v7/结果展示.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e7113762b0d2517e5e0dcad5ead7491f3a6ff3d",
+      "size": 12941,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3e7113762b0d2517e5e0dcad5ead7491f3a6ff3d"
+    },
+    {
+      "path": "reports/validation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1729bf4c3fdda80c47038b6ea12c35b31aaa4af8",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/1729bf4c3fdda80c47038b6ea12c35b31aaa4af8"
+    },
+    {
+      "path": "reports/validation/rolling2_full_20250101_20260831_ts_start_cap_old_D_v4_margin_precheck_20260921_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d259238ab6818daf74feb9842b553d04fd26d19",
+      "size": 3295,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/4d259238ab6818daf74feb9842b553d04fd26d19"
+    },
+    {
+      "path": "reports/完美预测模型优化V1_review.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8db74a5bb71636243b275c1ebc4c25aed702adb3",
+      "size": 2030,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8db74a5bb71636243b275c1ebc4c25aed702adb3"
+    },
+    {
+      "path": "reports/完美预测模型优化V1_实施与验收.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b1b87b5fa24d20da2991018cface5443262c1f8",
+      "size": 5747,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3b1b87b5fa24d20da2991018cface5443262c1f8"
+    },
+    {
+      "path": "reports/西班牙储能MILP全量测算结果汇总.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77ab00c70d9c9bd44213583470e6e2a216edb370",
+      "size": 10351,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/77ab00c70d9c9bd44213583470e6e2a216edb370"
+    },
+    {
+      "path": "research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "16211d8a71a1ee3ccfae733b6d7b0aa2da82fcfe",
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/trees/16211d8a71a1ee3ccfae733b6d7b0aa2da82fcfe"
+    },
+    {
+      "path": "research/README_西班牙MILP两阶段改造方案_v2.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f0e748c8caa66379f5f4e0d20508d9c7f082f2f",
+      "size": 45897,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1f0e748c8caa66379f5f4e0d20508d9c7f082f2f"
+    },
+    {
+      "path": "research/afrr_2024_comparability_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65c9da83cfd90a7a489c510744892a1f7f1539c2",
+      "size": 15519,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/65c9da83cfd90a7a489c510744892a1f7f1539c2"
+    },
+    {
+      "path": "research/afrr_units_gate_followup_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3438011735c9360fea78d45727558a583f62e519",
+      "size": 11094,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3438011735c9360fea78d45727558a583f62e519"
+    },
+    {
+      "path": "research/balancing_capacity_rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f60e4340a85fcfb55552840a23f7f6d9e64e28e",
+      "size": 30996,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2f60e4340a85fcfb55552840a23f7f6d9e64e28e"
+    },
+    {
+      "path": "research/balancing_energy_rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5617e77eb1ee12d876e8a4406cb5d235c24ebfaf",
+      "size": 19876,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5617e77eb1ee12d876e8a4406cb5d235c24ebfaf"
+    },
+    {
+      "path": "research/data_catalog_and_version_timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfe7e53d391b75f8df004b96622c55705b258825",
+      "size": 25084,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bfe7e53d391b75f8df004b96622c55705b258825"
+    },
+    {
+      "path": "research/data_gate_perfect_information_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28bfbb2d22958224e3739c24dee808f037b72ec3",
+      "size": 17679,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/28bfbb2d22958224e3739c24dee808f037b72ec3"
+    },
+    {
+      "path": "research/data_semantics_audit_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34c4cb389103359f12ac07787c526fd589c89376",
+      "size": 12928,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/34c4cb389103359f12ac07787c526fd589c89376"
+    },
+    {
+      "path": "research/day_ahead_market_rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d54e4364bbb2b7a4188235ee6031a95f86a95a53",
+      "size": 21777,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d54e4364bbb2b7a4188235ee6031a95f86a95a53"
+    },
+    {
+      "path": "research/es_conditional_adapter_spec_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a25aa6d72c980ab72a14f1458fd6c20880c8bed",
+      "size": 27715,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7a25aa6d72c980ab72a14f1458fd6c20880c8bed"
+    },
+    {
+      "path": "research/es_milp_sandbox_readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85ad5fa27f1d40e230f3f8af2aee9e8873f9bbf5",
+      "size": 3303,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/85ad5fa27f1d40e230f3f8af2aee9e8873f9bbf5"
+    },
+    {
+      "path": "research/es_order_diagnostic_readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c55a7a01a882a4b0c58bab788b21a876cf6a8050",
+      "size": 4449,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c55a7a01a882a4b0c58bab788b21a876cf6a8050"
+    },
+    {
+      "path": "research/es_perfect_information_design_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e668acd5d99cade6ed1986470db69c8991f36bc1",
+      "size": 38161,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e668acd5d99cade6ed1986470db69c8991f36bc1"
+    },
+    {
+      "path": "research/es_synthetic_C_readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b435631e7dec65610784538b52f7202838a843e7",
+      "size": 4252,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b435631e7dec65610784538b52f7202838a843e7"
+    },
+    {
+      "path": "research/es_synthetic_market_readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27ae601ba95b66aa55d69688a7c4a06088302c16",
+      "size": 4983,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/27ae601ba95b66aa55d69688a7c4a06088302c16"
+    },
+    {
+      "path": "research/es_synthetic_market_rolling_readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75985317b1a66be786bc64da55d656a43a0efaa3",
+      "size": 5222,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/75985317b1a66be786bc64da55d656a43a0efaa3"
+    },
+    {
+      "path": "research/historical_capacity_timetable_followup_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bddac726002a9f92fdd526382f48b3fbe4bf3df",
+      "size": 12900,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/6bddac726002a9f92fdd526382f48b3fbe4bf3df"
+    },
+    {
+      "path": "research/historical_gate1_evidence_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8ba7477445ffcb30249c8eba47e1267f7d23518",
+      "size": 8498,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e8ba7477445ffcb30249c8eba47e1267f7d23518"
+    },
+    {
+      "path": "research/historical_gate2_rules_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d61e96e38afbef79a7d76bd3e6b45b3f3e8dfe6",
+      "size": 30088,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2d61e96e38afbef79a7d76bd3e6b45b3f3e8dfe6"
+    },
+    {
+      "path": "research/imbalance_settlement_rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7465c2fd9006b5a01cb231a64ebb8cccf9736d31",
+      "size": 29483,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7465c2fd9006b5a01cb231a64ebb8cccf9736d31"
+    },
+    {
+      "path": "research/intraday_market_rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52963413d25325fa56f8f390687132a2b5ead996",
+      "size": 24631,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/52963413d25325fa56f8f390687132a2b5ead996"
+    },
+    {
+      "path": "research/open_questions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c19e69b37063a4beb1146f13db3b92df5983b21",
+      "size": 20088,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5c19e69b37063a4beb1146f13db3b92df5983b21"
+    },
+    {
+      "path": "research/product_scope.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9563f0148949e5e4bfe2d23d1446de61d7d16fe5",
+      "size": 10099,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9563f0148949e5e4bfe2d23d1446de61d7d16fe5"
+    },
+    {
+      "path": "research/sources.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1276a95cf18bfb19fa1fef50b1d669d43d11ebfb",
+      "size": 159220,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1276a95cf18bfb19fa1fef50b1d669d43d11ebfb"
+    },
+    {
+      "path": "research/spain_activation_features_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94c30635b2e4f529caa5e820bfb747fce78261d4",
+      "size": 3228,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/94c30635b2e4f529caa5e820bfb747fce78261d4"
+    },
+    {
+      "path": "research/spain_activation_order_options_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a92a7788bc28c7fd7bb033f5153847367238e49",
+      "size": 5545,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a92a7788bc28c7fd7bb033f5153847367238e49"
+    },
+    {
+      "path": "research/spain_ancillary_services_plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e043f6ba0a7e3d158eff14dd12fe4946cd9aef6",
+      "size": 13609,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9e043f6ba0a7e3d158eff14dd12fe4946cd9aef6"
+    },
+    {
+      "path": "research/spain_ancillary_services_research.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8243f771722c9b98be4b813fa61cbecc59d02dc0",
+      "size": 16438,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8243f771722c9b98be4b813fa61cbecc59d02dc0"
+    },
+    {
+      "path": "research/spain_backtest_mode_design_draft_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d345dcaec04fdc5fec2bcde5a3415ad29b27e5c5",
+      "size": 18749,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d345dcaec04fdc5fec2bcde5a3415ad29b27e5c5"
+    },
+    {
+      "path": "research/spain_calibration_window_comparison_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f1e4d7de7f675f69bd2668b47b7c16244c896d6",
+      "size": 3815,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1f1e4d7de7f675f69bd2668b47b7c16244c896d6"
+    },
+    {
+      "path": "research/spain_conditional_backtest_authorization_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e719ee89b5bd4feda68c4bc28e0d9f525299934a",
+      "size": 5389,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e719ee89b5bd4feda68c4bc28e0d9f525299934a"
+    },
+    {
+      "path": "research/spain_conditional_backtest_implementation_plan_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e91988240a9c929f1f05deb9c000d3b8b68c388b",
+      "size": 2783,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e91988240a9c929f1f05deb9c000d3b8b68c388b"
+    },
+    {
+      "path": "research/spain_conditional_trial_results_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba6efc6c111c09f63ef0d5efe4564d0901d85781",
+      "size": 6128,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ba6efc6c111c09f63ef0d5efe4564d0901d85781"
+    },
+    {
+      "path": "research/spain_data_acquisition_task_ES-DATA-01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d30e5e4c1a09eb58b155e7fda23cfe2a5a6e6e4e",
+      "size": 3405,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d30e5e4c1a09eb58b155e7fda23cfe2a5a6e6e4e"
+    },
+    {
+      "path": "research/spain_data_acquisition_task_ES-DATA-02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69340b4139b96e22bb2c137ccf1694260ba62be3",
+      "size": 1613,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/69340b4139b96e22bb2c137ccf1694260ba62be3"
+    },
+    {
+      "path": "research/spain_data_activation_joint_confirmation_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2f867585ffcb7f7ec91887b7db6d18a97532f88",
+      "size": 8622,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f2f867585ffcb7f7ec91887b7db6d18a97532f88"
+    },
+    {
+      "path": "research/spain_data_api_catalog.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eeb9d1ee0a15eeb00475329a1c715c007de2000a",
+      "size": 26781,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/eeb9d1ee0a15eeb00475329a1c715c007de2000a"
+    },
+    {
+      "path": "research/spain_data_api_open_questions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf611026d2aa7efdabd9fb7e0bae12c77244d80f",
+      "size": 16829,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/bf611026d2aa7efdabd9fb7e0bae12c77244d80f"
+    },
+    {
+      "path": "research/spain_data_api_sources.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af2cbad2b75d12067e46b6e8b3f37de696e7929c",
+      "size": 33816,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/af2cbad2b75d12067e46b6e8b3f37de696e7929c"
+    },
+    {
+      "path": "research/spain_data_coverage_acceptance_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a946c1ce28be3a23cf41da0101ff5479ca9d19ed",
+      "size": 5132,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a946c1ce28be3a23cf41da0101ff5479ca9d19ed"
+    },
+    {
+      "path": "research/spain_data_semantics_closure_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c116e3d0406c594e002776093093c56ed3c7eb9e",
+      "size": 9037,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c116e3d0406c594e002776093093c56ed3c7eb9e"
+    },
+    {
+      "path": "research/spain_eight_day_execution_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "888849bac3acfbc85d00c5f8dda90bd421591eb3",
+      "size": 7656,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/888849bac3acfbc85d00c5f8dda90bd421591eb3"
+    },
+    {
+      "path": "research/spain_eight_day_revenue_reasonableness_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49873954a2b3995012a59439991f1b0cc0e8e2f9",
+      "size": 19035,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/49873954a2b3995012a59439991f1b0cc0e8e2f9"
+    },
+    {
+      "path": "research/spain_environment_checks_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba88ad33b3cd0646e337515086e23535f49e134d",
+      "size": 1890,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ba88ad33b3cd0646e337515086e23535f49e134d"
+    },
+    {
+      "path": "research/spain_fixed_order_diagnostic_plan_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c153b7b3c5f4927811301e40b06df72c49399124",
+      "size": 3193,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c153b7b3c5f4927811301e40b06df72c49399124"
+    },
+    {
+      "path": "research/spain_fixed_order_diagnostic_results_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a31cb639534ce6dad2bb2ecbdccf285d82dc14c0",
+      "size": 3307,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a31cb639534ce6dad2bb2ecbdccf285d82dc14c0"
+    },
+    {
+      "path": "research/spain_frequency_regulation_market_guide.docx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1056150198966ceccdd56ece5a9f36a919b1f118",
+      "size": 276975,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/1056150198966ceccdd56ece5a9f36a919b1f118"
+    },
+    {
+      "path": "research/spain_frequency_regulation_market_guide.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f09dd36a03438b8a226a0bcafd5b82a3c2fdef45",
+      "size": 35168,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f09dd36a03438b8a226a0bcafd5b82a3c2fdef45"
+    },
+    {
+      "path": "research/spain_gate_confirmation_and_limited_build_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e80b9630bbdb7003fc52e8631863b26378e33853",
+      "size": 3638,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e80b9630bbdb7003fc52e8631863b26378e33853"
+    },
+    {
+      "path": "research/spain_gate_progress_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cb69cd0b06d8846a9989a4277d3dfdfc631a611",
+      "size": 3513,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5cb69cd0b06d8846a9989a4277d3dfdfc631a611"
+    },
+    {
+      "path": "research/spain_historical_activation_parameter_proposal_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d520bce5b2ebdf6e38b51c9728e1af48b6f2f8",
+      "size": 5549,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c4d520bce5b2ebdf6e38b51c9728e1af48b6f2f8"
+    },
+    {
+      "path": "research/spain_historical_data_gate_confirmation_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50310f8a86eb3bfc597a78e2cfa1b6d9d7da3e67",
+      "size": 3012,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/50310f8a86eb3bfc597a78e2cfa1b6d9d7da3e67"
+    },
+    {
+      "path": "research/spain_historical_gate_external_clarification_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b31a5808056ae7a4f1a7e8b05d9a13462c9f877f",
+      "size": 2760,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b31a5808056ae7a4f1a7e8b05d9a13462c9f877f"
+    },
+    {
+      "path": "research/spain_historical_joint_coverage_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdd6e47041cb5ceb95d63d2c4312eee60f02ee1d",
+      "size": 5411,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cdd6e47041cb5ceb95d63d2c4312eee60f02ee1d"
+    },
+    {
+      "path": "research/spain_implementation_readiness_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c59a5da86bcfdece1082878b177a30a4de305095",
+      "size": 3772,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c59a5da86bcfdece1082878b177a30a4de305095"
+    },
+    {
+      "path": "research/spain_io_specification_draft_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f82fd4d0f9c8a2e4b800e02bb991a6e3f3f53ff",
+      "size": 16451,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9f82fd4d0f9c8a2e4b800e02bb991a6e3f3f53ff"
+    },
+    {
+      "path": "research/spain_milp_mathematical_spec_2026-09-16.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acc3e12b52de790e43b2a0c1bc82b5183e28836e",
+      "size": 57077,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/acc3e12b52de790e43b2a0c1bc82b5183e28836e"
+    },
+    {
+      "path": "research/spain_milp_optimization_register_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0a56da4882deae4cceae779c0927434a51f3e5d",
+      "size": 24187,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f0a56da4882deae4cceae779c0927434a51f3e5d"
+    },
+    {
+      "path": "research/spain_modeling_scope_2026-09-16.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deee2e60f624ab1df7d2716f2cc936b91f6688e5",
+      "size": 5182,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/deee2e60f624ab1df7d2716f2cc936b91f6688e5"
+    },
+    {
+      "path": "research/spain_net_contract_optimization_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "494b2126218bbdbb61ce35497f28fcf3f57da3ac",
+      "size": 13518,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/494b2126218bbdbb61ce35497f28fcf3f57da3ac"
+    },
+    {
+      "path": "research/spain_official_data_refill_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83c22e0ddfb9eac5348b9d8f1a2f0f08c61268ab",
+      "size": 6238,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/83c22e0ddfb9eac5348b9d8f1a2f0f08c61268ab"
+    },
+    {
+      "path": "research/spain_p1_performance_optimization_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76712895b618e49d892475c481cdea4941c4e08d",
+      "size": 6978,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/76712895b618e49d892475c481cdea4941c4e08d"
+    },
+    {
+      "path": "research/spain_perfect_information_baseline_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae19cf9075736b5c3db737025dae65e2be927a58",
+      "size": 7019,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ae19cf9075736b5c3db737025dae65e2be927a58"
+    },
+    {
+      "path": "research/spain_preimplementation_decisions_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "301e0eb027f0b7a089ad8ddf84c4ee2a80c61a95",
+      "size": 5949,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/301e0eb027f0b7a089ad8ddf84c4ee2a80c61a95"
+    },
+    {
+      "path": "research/spain_questionnaire_01_backtest_mode.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "602711cb617b208d33232181302da6c7b0910752",
+      "size": 15158,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/602711cb617b208d33232181302da6c7b0910752"
+    },
+    {
+      "path": "research/spain_questionnaire_02_inputs_outputs.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a98f41326416956dd8f2120f8db7f3c2bdb5bc2b",
+      "size": 19639,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a98f41326416956dd8f2120f8db7f3c2bdb5bc2b"
+    },
+    {
+      "path": "research/spain_questionnaire_confirmation_2026-09-17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1c942454bd5c1285fd1100ef7fba9e6190dcb3e",
+      "size": 5833,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b1c942454bd5c1285fd1100ef7fba9e6190dcb3e"
+    },
+    {
+      "path": "research/spain_research_task_ES-01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e70d74fc79339abb94f32fa244c21e28303a50a5",
+      "size": 3837,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e70d74fc79339abb94f32fa244c21e28303a50a5"
+    },
+    {
+      "path": "research/spain_research_task_ES-02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "176dfbcfe5380c1ab945610f54708d0465767452",
+      "size": 6046,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/176dfbcfe5380c1ab945610f54708d0465767452"
+    },
+    {
+      "path": "research/spain_research_task_ES-03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "359b816db61ab988743a73685181dd932d5eadba",
+      "size": 5093,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/359b816db61ab988743a73685181dd932d5eadba"
+    },
+    {
+      "path": "research/spain_research_task_ES-04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0487b3766fa6384b649798cebb1bc771595111b5",
+      "size": 3150,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0487b3766fa6384b649798cebb1bc771595111b5"
+    },
+    {
+      "path": "research/spain_research_task_ES-05.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "092cb692f634996ca771832b1ac2bba568f091f9",
+      "size": 3464,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/092cb692f634996ca771832b1ac2bba568f091f9"
+    },
+    {
+      "path": "research/spain_research_task_ES-06.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "123cff069e4882f49c10395eeed35a98aa363034",
+      "size": 3471,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/123cff069e4882f49c10395eeed35a98aa363034"
+    },
+    {
+      "path": "research/spain_research_task_ES-GF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79b3f1eaddacc4cc0e00425153750c9c0400a2d6",
+      "size": 1930,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/79b3f1eaddacc4cc0e00425153750c9c0400a2d6"
+    },
+    {
+      "path": "research/spain_rolling2_8day_benchmark_20260921.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f88030798bbd04d683a5213469ec9bc5dc8be6f",
+      "size": 4975,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8f88030798bbd04d683a5213469ec9bc5dc8be6f"
+    },
+    {
+      "path": "research/spain_rolling2_a1_a3_final_evaluation_20260921.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ab858f592bb2f76edc702e4d0d33b429d40d74b",
+      "size": 5888,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0ab858f592bb2f76edc702e4d0d33b429d40d74b"
+    },
+    {
+      "path": "research/spain_rolling2_a1_a3_optimization_20260921.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d05b6b12a544032d7c96f658a30d51a3c7775f4b",
+      "size": 5134,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d05b6b12a544032d7c96f658a30d51a3c7775f4b"
+    },
+    {
+      "path": "research/spain_spec_alignment_register_20260917.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee5af423170caec4d931bc27282c71808f69154f",
+      "size": 2873,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ee5af423170caec4d931bc27282c71808f69154f"
+    },
+    {
+      "path": "research/spain_spot_coupling_rewrite_task.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13715c2e31be66fbd0998f778e5bc18b5ad60147",
+      "size": 6282,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/13715c2e31be66fbd0998f778e5bc18b5ad60147"
+    },
+    {
+      "path": "research/spain_spot_coupling_update_task.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f73232644dbe281aadb5605c62d65e4ef412bdbf",
+      "size": 3030,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f73232644dbe281aadb5605c62d65e4ef412bdbf"
+    },
+    {
+      "path": "research/spain_spot_market_plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae0f1b0578f873b3d8701bdb91352c6ba6a94aba",
+      "size": 9388,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ae0f1b0578f873b3d8701bdb91352c6ba6a94aba"
+    },
+    {
+      "path": "research/spain_spot_market_research.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "893b6a9524e2dad3097cfee93a3d43d889e02b4d",
+      "size": 41243,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/893b6a9524e2dad3097cfee93a3d43d889e02b4d"
+    },
+    {
+      "path": "research/spain_spot_price_setting_baseline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3eb3603a459cf31365619fac4af81cbeca4849a9",
+      "size": 23210,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/3eb3603a459cf31365619fac4af81cbeca4849a9"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7c07bfc5dc9476e6155db0bb7be9886fd0bd805",
+      "size": 1208,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f7c07bfc5dc9476e6155db0bb7be9886fd0bd805"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a076d024c97501a67b9603669ed9dc3aed6ea0b6",
+      "size": 1480,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a076d024c97501a67b9603669ed9dc3aed6ea0b6"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaa34caa4c8f9622bdbf6ef07a57ac8b7b0ddf06",
+      "size": 1491,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/eaa34caa4c8f9622bdbf6ef07a57ac8b7b0ddf06"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-05.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bd58a2713d3db49183207ba8282a1688b880fef",
+      "size": 1604,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/9bd58a2713d3db49183207ba8282a1688b880fef"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-06.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72b71ad0a2e21cf2c13e712ffdff0ff994b1e634",
+      "size": 1625,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/72b71ad0a2e21cf2c13e712ffdff0ff994b1e634"
+    },
+    {
+      "path": "research/spain_spot_research_task_ES-SP-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cf36f9be989c6370eda3e0bdc2631270d13c876",
+      "size": 2245,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/8cf36f9be989c6370eda3e0bdc2631270d13c876"
+    },
+    {
+      "path": "research/spain_strategy_and_assumptions_2026-09-16.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "479d10db08127cb4197527c099113456dfc8ff05",
+      "size": 12713,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/479d10db08127cb4197527c099113456dfc8ff05"
+    },
+    {
+      "path": "research/spain_supplemental_research_plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8a1dd1da100b4f80dfdb59af3f37005ed88c448",
+      "size": 2324,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/b8a1dd1da100b4f80dfdb59af3f37005ed88c448"
+    },
+    {
+      "path": "research/spain_supplemental_research_report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a74bb771382bdaacbca1f5735c91ba9057a740b",
+      "size": 12360,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2a74bb771382bdaacbca1f5735c91ba9057a740b"
+    },
+    {
+      "path": "research/spain_supplemental_research_task_SUP-01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39cb72f1e8a70e28e209abd24e062530ce2c85f2",
+      "size": 1462,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/39cb72f1e8a70e28e209abd24e062530ce2c85f2"
+    },
+    {
+      "path": "research/spain_supplemental_research_task_SUP-02.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1afbdfb4876a57bc5d6b30e6bc88e96894e082d",
+      "size": 1463,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/f1afbdfb4876a57bc5d6b30e6bc88e96894e082d"
+    },
+    {
+      "path": "research/spain_supplemental_research_task_SUP-03.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15ea2d838209ac7857fc84b12b7854a7c2811b1e",
+      "size": 1569,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/15ea2d838209ac7857fc84b12b7854a7c2811b1e"
+    },
+    {
+      "path": "research/spain_supplemental_research_task_SUP-04.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02a0d87d264934072989bd07b3a509a5410013d0",
+      "size": 2356,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/02a0d87d264934072989bd07b3a509a5410013d0"
+    },
+    {
+      "path": "research/spain_supplemental_research_task_SUP-05.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cd532196cd12791e4aead819e91cdf5ed48b19c",
+      "size": 2557,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/7cd532196cd12791e4aead819e91cdf5ed48b19c"
+    },
+    {
+      "path": "research/spain_synthetic_C_acceptance_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "230e6a599c7f968769374d036681ff152b5d2a7b",
+      "size": 3190,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/230e6a599c7f968769374d036681ff152b5d2a7b"
+    },
+    {
+      "path": "research/spain_synthetic_build_acceptance_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a20ff2321fe69891c1b72d8a58b1688aab3c37f",
+      "size": 2557,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5a20ff2321fe69891c1b72d8a58b1688aab3c37f"
+    },
+    {
+      "path": "research/spain_synthetic_core_hand_checks_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82e0fec8c61785d7aa7fd49960708a6afab117f0",
+      "size": 2326,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/82e0fec8c61785d7aa7fd49960708a6afab117f0"
+    },
+    {
+      "path": "research/spain_synthetic_full_build_authorization_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e91b097efdd946cc1b39ba2dd8a3c520c155da76",
+      "size": 1932,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/e91b097efdd946cc1b39ba2dd8a3c520c155da76"
+    },
+    {
+      "path": "research/spain_synthetic_rolling_B_acceptance_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5267e13d0fc3d89cc6441da616a25de56dab8658",
+      "size": 2762,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/5267e13d0fc3d89cc6441da616a25de56dab8658"
+    },
+    {
+      "path": "research/spain_year2025_execution_20260920.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2a6cdc88d2c92d8e2d4706e133beb78d38b51cf",
+      "size": 3155,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a2a6cdc88d2c92d8e2d4706e133beb78d38b51cf"
+    },
+    {
+      "path": "research/spot_arbitrage_mechanisms.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "275294d5a67af3aa22e9298f4aa8160a22b0293c",
+      "size": 24347,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/275294d5a67af3aa22e9298f4aa8160a22b0293c"
+    },
+    {
+      "path": "research/spot_data_catalog_and_version_timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57390dbeeb11fcfe3e195e2486bf1fa46e4c60be",
+      "size": 23938,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/57390dbeeb11fcfe3e195e2486bf1fa46e4c60be"
+    },
+    {
+      "path": "research/spot_frequency_coupling.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f9d8b1c420742d90a24d3fe67f91985d4514b25",
+      "size": 35554,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/0f9d8b1c420742d90a24d3fe67f91985d4514b25"
+    },
+    {
+      "path": "research/spot_market_structure.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92ca3fe459c6e70540f3b8478c8dddf48f9250d9",
+      "size": 18742,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/92ca3fe459c6e70540f3b8478c8dddf48f9250d9"
+    },
+    {
+      "path": "research/spot_open_questions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2650e1706a393f21471cb4aa89dcaeb74ce3d7ec",
+      "size": 38759,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/2650e1706a393f21471cb4aa89dcaeb74ce3d7ec"
+    },
+    {
+      "path": "research/storage_access_technical_requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca81670cac9c46b997e18e42ed0b153bc7326dbf",
+      "size": 29118,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/ca81670cac9c46b997e18e42ed0b153bc7326dbf"
+    },
+    {
+      "path": "research/storage_spot_access_and_settlement.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df5200205e5beb1d027d136556fe53fb4375a63b",
+      "size": 32999,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/df5200205e5beb1d027d136556fe53fb4375a63b"
+    },
+    {
+      "path": "research/supplemental_account_code_crosswalk.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbd0efd43dc84d2ae8bb7c409ba3b2f34ac3feec",
+      "size": 29123,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/cbd0efd43dc84d2ae8bb7c409ba3b2f34ac3feec"
+    },
+    {
+      "path": "research/supplemental_data_interface_validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2e909e3f510bc99eccd73a32f343ab121264a19",
+      "size": 29512,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d2e909e3f510bc99eccd73a32f343ab121264a19"
+    },
+    {
+      "path": "research/supplemental_fcr_srad_eligibility.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a327673bdbfb020d825feab9976218000f931228",
+      "size": 29045,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/a327673bdbfb020d825feab9976218000f931228"
+    },
+    {
+      "path": "research/supplemental_rr_2026_transition.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "057de5ea75118548c763fe01410fcd8e58e9bcb3",
+      "size": 21545,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/057de5ea75118548c763fe01410fcd8e58e9bcb3"
+    },
+    {
+      "path": "research/supplemental_storage_energy_requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3fad08607c5ec665172ec5f3419924eef4e755a",
+      "size": 35271,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/c3fad08607c5ec665172ec5f3419924eef4e755a"
+    },
+    {
+      "path": "research/完美预测模型优化V1_方案评估与P0数学实施细则_20260922.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "764910f4758263163eef1b9a69884047e5e27a89",
+      "size": 46643,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/764910f4758263163eef1b9a69884047e5e27a89"
+    },
+    {
+      "path": "research/西班牙MILP结果展示开发基线_v1.0.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aba952114985f766a894a1169113cbbe1433281c",
+      "size": 13247,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/aba952114985f766a894a1169113cbbe1433281c"
+    },
+    {
+      "path": "research/西班牙aFRR容量收益中标率敏感性方案_20260923.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d23cd952716aa2bcc927c45de34a12cd49f0a87e",
+      "size": 15728,
+      "url": "https://api.github.com/repos/hutianyi326/ES_MILP/git/blobs/d23cd952716aa2bcc927c45de34a12cd49f0a87e"
+    }
+  ],
+  "truncated": false
+}

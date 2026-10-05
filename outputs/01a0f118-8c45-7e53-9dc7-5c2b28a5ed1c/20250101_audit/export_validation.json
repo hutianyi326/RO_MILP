@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "checks": 9504,
+  "maximum_numeric_deviation": 3.2741809263825417e-11,
+  "sheets": 5,
+  "original_four_sheets_preserved": true,
+  "day2_cash_eur": 148083.27098066497,
+  "cash_formulas_cached": true,
+  "zero_vs_missing_preserved": true,
+  "freeze_panes": [
+    {
+      "xSplit": "1",
+      "ySplit": "6",
+      "topLeftCell": "B7",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "6",
+      "topLeftCell": "B7",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "6",
+      "topLeftCell": "B7",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "8",
+      "topLeftCell": "B9",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    },
+    {
+      "xSplit": "1",
+      "ySplit": "6",
+      "topLeftCell": "B7",
+      "activePane": "bottomRight",
+      "state": "frozen"
+    }
+  ],
+  "file_sha256": "cd89dd63b932c3210f6db41130b66a036a0672b6dadbea295b6d2e1a0b8f32ed",
+  "note": "Standard-library read-only XLSX/XML verification of exported cached values, dates, formulas errors and panes. Recalculated with Artifact Tool; native Excel application not launched."
+}

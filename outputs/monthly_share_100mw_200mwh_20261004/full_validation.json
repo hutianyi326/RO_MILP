@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "run_manifest_sha256": "df609d3577b19605678950ce704142fa58a24a94609538569162dbfb05464782",
+  "last_transaction_sha256": "feeaa0e87cb83ac06780ac7fd388f5a11cebb20f091f8a1f87f07b1cf66aff2d",
+  "code_sha256": "fcc1efda3bd2458daafba581b0894741497405235d98ec79e9bf6f7fa20aca5b",
+  "input_sha256": "dd4fafe56f94f0ef012ebd14859be9ce24a6cf5a5f292c9117b55529dca01917",
+  "windows": 608,
+  "formal_qh": 58364,
+  "observation_qh": 96,
+  "formal_phase_count": 139750,
+  "native_orders_including_observation": 82649,
+  "cash_eur": {
+    "da_eur": 13474858.959462868,
+    "fcr_capacity_eur": 28892188.74198277,
+    "afrr_up_capacity_eur": 3662611.951941757,
+    "afrr_down_capacity_eur": 3449696.4964997233,
+    "afrr_up_activation_eur": 18372880.892706446,
+    "afrr_down_activation_eur": 9078135.165250309
+  },
+  "total_eur": 76930372.20784387,
+  "annual_efc": {
+    "2025": 599.9999999995115,
+    "2026": 381.3374394244417
+  },
+  "budgets": {
+    "2025": 599.9999999999998,
+    "2026": 399.4520547945221
+  },
+  "checks": {
+    "native_order": 82649,
+    "capacity_share_order": 43845,
+    "physical": 1758510,
+    "efc": 257696,
+    "cash": 819047
+  },
+  "maximum_absolute_deviations": {
+    "physical": 8.526512829121202e-14,
+    "efc": 1.4210854715202004e-14,
+    "cash": 1.773238182067871e-06
+  },
+  "solver_status_counts": {
+    "0": 608
+  },
+  "max_objective_gap": 5.4412228617546335e-05,
+  "capacity_share_mode": "monthly",
+  "share_schedule_sha256": "8d73184ad840266a6fb171b23f15b6f1ef801c516213d9e5f05b6ee816bb9eb2",
+  "test_scope": "Independent monthly share limits/provenance plus full ordered physical/cash replay; all windows planning objective, frozen chain, EFC budget; formal outputs only"
+}

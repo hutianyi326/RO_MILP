@@ -1,0 +1,279 @@
+{
+  "report_version": "RO monthly-share 2026-10-04 / ES presentation baseline v1 adapted",
+  "created_utc": "2026-10-04T15:44:05.921276+00:00",
+  "run_dir": "C:\\Users\\Tianyi\\OneDrive\\融和元储工作\\模型等其他参考资料\\Python\\Counry_Investigation\\RO_MILP\\outputs\\monthly_share_100mw_200mwh_20261004\\run",
+  "input_sha256": "dd4fafe56f94f0ef012ebd14859be9ce24a6cf5a5f292c9117b55529dca01917",
+  "code_sha256": "fcc1efda3bd2458daafba581b0894741497405235d98ec79e9bf6f7fa20aca5b",
+  "report_script_sha256": "e233a079148a2e726c1610c5d8593e693d3ac93d8945b8ce696c25b58fbf2b09",
+  "reference_commit": "70651210d0ad98ac820644754508f76363d2c799",
+  "reference_files": {
+    "build_es_full_result_analysis_20260921.py": "65278ad87e62e09c916f36d25223ea2416e497558d88a32b2a7fad2921f24901",
+    "build_es_result_presentation.py": "6b18dc5c55150075fd3f4f9eaa02bb94f23087446358a0aad4fc4386bce890cf"
+  },
+  "run_manifest_sha256": "df609d3577b19605678950ce704142fa58a24a94609538569162dbfb05464782",
+  "full_validation_sha256": "14243216a30b51027dff57dcc3ab03a7373a61905628e236167b1fa8318917f9",
+  "run_files": {
+    "executed_qh.csv": "391cea8dc3f92a60ba81df623be9b0c7d7980692fc32b0571ccd16c9f098370d",
+    "executed_phases.csv": "6b34f57a3886ff2c9d9a79258f0481721b1d6809fcd2b365127387234db27632",
+    "summary.json": "3b58b933b8e9e24718562ef95c1200cd777fe0539430ce0b61eb9be2f6ae95a1",
+    "window_metrics.csv": "3b180bc01722e3243eccd41b37c988434f19ece1ee4f3e2dec02ad0b1a12f4b9"
+  },
+  "last_transaction_sha256": "feeaa0e87cb83ac06780ac7fd388f5a11cebb20f091f8a1f87f07b1cf66aff2d",
+  "config": {
+    "capacity_share_mode": "monthly",
+    "fcr_unit_caps": [],
+    "formulation": "compact",
+    "hours": 2,
+    "market": "DA+aFRR+FCR",
+    "mip_rel_gap": 0.0001,
+    "monthly_capacity_shares": {
+      "2025-01": {
+        "afrr_market_share_cap": 0.26249999999999996,
+        "afrr_reference_month": "2025-01",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.0,
+        "fcr_reference_month": "",
+        "fcr_status": "disabled_existing_baseline_no_FCR_input_not_estimated_zero_share",
+        "scope": "FORMAL"
+      },
+      "2025-02": {
+        "afrr_market_share_cap": 0.2,
+        "afrr_reference_month": "2025-02",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.0,
+        "fcr_reference_month": "",
+        "fcr_status": "disabled_existing_baseline_no_FCR_input_not_estimated_zero_share",
+        "scope": "FORMAL"
+      },
+      "2025-03": {
+        "afrr_market_share_cap": 0.25,
+        "afrr_reference_month": "2025-03",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.0,
+        "fcr_reference_month": "",
+        "fcr_status": "disabled_existing_baseline_no_FCR_input_not_estimated_zero_share",
+        "scope": "FORMAL"
+      },
+      "2025-04": {
+        "afrr_market_share_cap": 0.25,
+        "afrr_reference_month": "2025-04",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.0,
+        "fcr_reference_month": "",
+        "fcr_status": "disabled_existing_baseline_no_FCR_input_not_estimated_zero_share",
+        "scope": "FORMAL"
+      },
+      "2025-05": {
+        "afrr_market_share_cap": 0.195,
+        "afrr_reference_month": "2025-05",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.0,
+        "fcr_reference_month": "",
+        "fcr_status": "disabled_existing_baseline_no_FCR_input_not_estimated_zero_share",
+        "scope": "FORMAL"
+      },
+      "2025-06": {
+        "afrr_market_share_cap": 0.14,
+        "afrr_reference_month": "2025-06",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-07",
+        "fcr_status": "proxy_next_valid_month_ex_post_only",
+        "scope": "FORMAL"
+      },
+      "2025-07": {
+        "afrr_market_share_cap": 0.215,
+        "afrr_reference_month": "2025-07",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-07",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2025-08": {
+        "afrr_market_share_cap": 0.245,
+        "afrr_reference_month": "2025-08",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-08",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2025-09": {
+        "afrr_market_share_cap": 0.20750000000000002,
+        "afrr_reference_month": "2025-09",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-09",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2025-10": {
+        "afrr_market_share_cap": 0.1657142857142857,
+        "afrr_reference_month": "2025-10",
+        "afrr_status": "calibrated_directional_minimum_valid_sample",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-10",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2025-11": {
+        "afrr_market_share_cap": 0.1960000000000004,
+        "afrr_reference_month": "2025-11",
+        "afrr_status": "calibrated_directional_minimum_valid_sample",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-11",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2025-12": {
+        "afrr_market_share_cap": 0.16285714285714287,
+        "afrr_reference_month": "2025-12",
+        "afrr_status": "calibrated_directional_minimum_valid_sample",
+        "fcr_market_share_cap": 0.3448275862068966,
+        "fcr_reference_month": "2025-11",
+        "fcr_status": "proxy_previous_valid_month",
+        "scope": "FORMAL"
+      },
+      "2026-01": {
+        "afrr_market_share_cap": 0.2,
+        "afrr_reference_month": "2026-01",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-01",
+        "fcr_status": "calibrated_PETROM_full_month_P90",
+        "scope": "FORMAL"
+      },
+      "2026-02": {
+        "afrr_market_share_cap": 0.17714285714285713,
+        "afrr_reference_month": "2026-02",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-02",
+        "fcr_status": "calibrated_PETROM_full_month_P90",
+        "scope": "FORMAL"
+      },
+      "2026-03": {
+        "afrr_market_share_cap": 0.14285714285714285,
+        "afrr_reference_month": "2026-03",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-03",
+        "fcr_status": "calibrated_PETROM_partial_month_P90",
+        "scope": "FORMAL"
+      },
+      "2026-04": {
+        "afrr_market_share_cap": 0.14285714285714285,
+        "afrr_reference_month": "2026-03",
+        "afrr_status": "proxy_previous_valid_month_pending_download",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-03",
+        "fcr_status": "proxy_previous_valid_month",
+        "scope": "FORMAL"
+      },
+      "2026-05": {
+        "afrr_market_share_cap": 0.14285714285714285,
+        "afrr_reference_month": "2026-03",
+        "afrr_status": "proxy_previous_valid_month_pending_download",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-03",
+        "fcr_status": "proxy_previous_valid_month",
+        "scope": "FORMAL"
+      },
+      "2026-06": {
+        "afrr_market_share_cap": 0.14285714285714285,
+        "afrr_reference_month": "2026-03",
+        "afrr_status": "proxy_previous_valid_month_pending_download",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-03",
+        "fcr_status": "proxy_previous_valid_month",
+        "scope": "FORMAL"
+      },
+      "2026-07": {
+        "afrr_market_share_cap": 0.14285714285714285,
+        "afrr_reference_month": "2026-03",
+        "afrr_status": "proxy_previous_valid_month_pending_download",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-03",
+        "fcr_status": "proxy_previous_valid_month",
+        "scope": "FORMAL"
+      },
+      "2026-08": {
+        "afrr_market_share_cap": 0.13714285714285715,
+        "afrr_reference_month": "2026-08",
+        "afrr_status": "calibrated_directional_minimum_full_month",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-08",
+        "fcr_status": "calibrated_PETROM_full_month_P90",
+        "scope": "FORMAL"
+      },
+      "2026-09": {
+        "afrr_market_share_cap": 0.13714285714285715,
+        "afrr_reference_month": "2026-08",
+        "afrr_status": "observation_carry_2026_08_ex_post",
+        "fcr_market_share_cap": 0.3125,
+        "fcr_reference_month": "2026-08",
+        "fcr_status": "observation_carry_2026_08_ex_post",
+        "scope": "LOOKAHEAD_ONLY"
+      }
+    },
+    "power_mw": 100.0,
+    "presolve": true,
+    "qualification_down_mw": null,
+    "qualification_fcr_mw": null,
+    "qualification_up_mw": null,
+    "time_limit": 30.0
+  },
+  "formal_start": "2024-12-31T22:00:00Z",
+  "formal_end": "2026-08-31T21:00:00Z",
+  "total_eur": 76930372.20784208,
+  "total_efc": 981.3374394239505,
+  "cash_coverage": 1.0,
+  "market_data_coverage": {
+    "afrr_valid_qh": 53500,
+    "da_valid_qh": 58364,
+    "fcr_valid_qh": 43292,
+    "initial_no_prior_qh": 96
+  },
+  "solver_seconds": 118.00219670077784,
+  "solver_status_counts": {
+    "0": 608
+  },
+  "max_objective_gap": 5.4412228617546335e-05,
+  "runtime": {
+    "python": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.1"
+  },
+  "files": {
+    "annual.csv": "0eb06aa99ad7f175f5f012e5a53085a5928f98e372170ce60c1d2f224c460268",
+    "daily.csv": "aa6f4cb5b392e9d84e44c11f30e1cfa857c7353fab0ce44409c508d6d93b316b",
+    "hourly.csv": "f7e413364f73d9767a5c2068550a71e2b6836871b49ca3fbc14c05fd4f310cd3",
+    "hourly_average_kEUR_per_MW.png": "b882071fdab0a9a205cfbf8d69a8d0f3962c7fc272c51e55bb7969ab3d85a51e",
+    "hourly_average_kEUR_per_MW.svg": "e79ea72e6d8a7108a9a3b0caec5617a4b270b3925e6071429c1810b73790bdbd",
+    "market_totals.csv": "e7c5633fd2635c08676e7625a716cd096be426ba6c50779c5321c58f293683ab",
+    "monthly.csv": "0fa3c65dbc92bdbb5683d623f0869bcbc644667266c0c01721ab00ea0570de81",
+    "monthly_hourly_heatmap.csv": "bae6dc5bc225ec91862417f40b00a062b7e925b8435400525e3e2c72c4a72d98",
+    "monthly_hourly_heatmap_kEUR_per_MW.png": "44536df2c705712d481490329855bd80ef8bacaefc75b200db7a2927e18ced89",
+    "monthly_hourly_heatmap_kEUR_per_MW.svg": "e8651f7628db18ff5468bf59bcc00fb1107d2b0030964d2b42fb8edafea734b9",
+    "monthly_market_shares.csv": "fea963d5567514756e502f26494026fd769f2327f9a0618c4fa1f5b49087cfc1",
+    "monthly_revenue_kEUR.png": "1fbba9894deef544485d8699c76b1a679e373cdebb889716cdb7c4153a9da6f7",
+    "monthly_revenue_kEUR.svg": "c9719a6d5a40bd9a6f5e232e354f36dd366143030896a5e980fb3d2eee64e679",
+    "monthly_revenue_kEUR_per_MW.png": "4a1a635db330242adae1b18d108f5a8f73d496e6ab328bc18cacd5d39a8a6ee6",
+    "monthly_revenue_kEUR_per_MW.svg": "add401162900485e7052088c2793a05b59ce5ffca417de0498f4b108885ac7fe",
+    "q1_hourly_average_kEUR_per_MW.png": "65764acaae5a057ffa327409de72a64e36ea972a007fea2888d93b575975423b",
+    "q1_hourly_average_kEUR_per_MW.svg": "175ea79549d4047088eb5448fca5fd5dd9d8d85f24b756d87007bac8e1b23c23",
+    "q2_hourly_average_kEUR_per_MW.png": "a22b6987842f9b7bfeb50ab701c88705c6f87f4840c59e59f3de7dcc3ec4966f",
+    "q2_hourly_average_kEUR_per_MW.svg": "5efcbe2e441bf38756c061fc23598cf0eafce7ca69cd35f3fcbd3cc30b1a2f4c",
+    "q3_hourly_average_kEUR_per_MW.png": "5cc1d20f3e3b052ec869d8e351ff6c852665dece90fb5fac76a7cb8ac6acfc40",
+    "q3_hourly_average_kEUR_per_MW.svg": "3f8b8821a025baca9f82305fdb684a2d0e202f6bcacd939731c90ff82c8a96e9",
+    "q4_hourly_average_kEUR_per_MW.png": "6eb3c618b8973066d8296adba35fb6972c51a3f2a8ab4c401b53940a56ac01b9",
+    "q4_hourly_average_kEUR_per_MW.svg": "87ba046a1f0a00828b3e38de03df9107c8a2e79dd109779b911dd6e29ee701f9",
+    "quarterly_hourly.csv": "3a2039753339dd8f77ab3766bc0519901900691446a76316a93c6a9bf606b572",
+    "rolling_12m.csv": "b2d10b5477dd27bd0c2939b9b0ffc63c263bc6ccfe7bd7b2c79bcae9876deaf3",
+    "rolling_12m_revenue_kEUR_per_MW.png": "b4ade8b61f86035ef0bb0c912cfa5362e5e94830c133e10a2b5c325972d4162e",
+    "rolling_12m_revenue_kEUR_per_MW.svg": "e05799b6bc2d27687410416ca43ef9a710c919f4b3fb257e73b5bb01ffa2bbd4",
+    "visual_check.png": "5dc139bec9939186e5dfa29de6c67185e153acab0f4830f795ed72e504c92c98",
+    "结果展示.md": "fa826142394a4e9c1b344928e068a794f1f3f2f595249abd2918d3c6154a1e71"
+  }
+}

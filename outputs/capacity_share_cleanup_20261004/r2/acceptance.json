@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "scope": "Removed capacity income factors and monthly share integration",
+  "code_sha256": "fcc1efda3bd2458daafba581b0894741497405235d98ec79e9bf6f7fa20aca5b",
+  "independent_agent_review": true,
+  "reviewer": "/root/capacity_income_removal_review",
+  "reviewer_model": "gpt-6-astra",
+  "reviewer_effort": "medium",
+  "open_findings": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 0
+  },
+  "unit_tests": 31,
+  "all_order_bounds": 43845,
+  "executed_validation_qh": 580,
+  "full_period_recalculated": false,
+  "git_staged_committed_or_pushed_this_turn": false
+}

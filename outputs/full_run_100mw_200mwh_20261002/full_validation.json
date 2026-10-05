@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "run_manifest_sha256": "83a5af249060fad86a993ca45733adb94151a8ba1250d5bb75d6300ab7cb19dc",
+  "last_transaction_sha256": "1fbb9bb008947aeb53b4cec9ed91fd0e91dd205d3844003fae74f13fb6dc445d",
+  "code_sha256": "ca18bab575bc332c322991a442a7bb2001f1114b019e2b9880401c55b2ff48e9",
+  "input_sha256": "beec3a95ba960aa97ab8cb01066f8457daa2cec5c96b70722b9519e6518efda8",
+  "windows": 608,
+  "formal_qh": 58364,
+  "observation_qh": 96,
+  "formal_phase_count": 139750,
+  "native_orders_including_observation": 82649,
+  "cash_eur": {
+    "da_eur": 8080958.349566338,
+    "fcr_capacity_eur": 51586365.336526506,
+    "afrr_up_capacity_eur": 5528783.583875431,
+    "afrr_down_capacity_eur": 5454234.505168941,
+    "afrr_up_activation_eur": 42987407.1601543,
+    "afrr_down_activation_eur": 22885741.82757834
+  },
+  "total_eur": 136523490.76286986,
+  "annual_efc": {
+    "2025": 553.2297120425933,
+    "2026": 227.33124191534304
+  },
+  "budgets": {
+    "2025": 599.9999999999998,
+    "2026": 399.4520547945221
+  },
+  "checks": {
+    "native_order": 82649,
+    "physical": 1714665,
+    "efc": 257696,
+    "cash": 819047
+  },
+  "maximum_absolute_deviations": {
+    "physical": 8.348877145181177e-14,
+    "efc": 1.1368683772161603e-13,
+    "cash": 1.6093254089355469e-06
+  },
+  "solver_status_counts": {
+    "0": 608
+  },
+  "max_objective_gap": 9.254147283231431e-05,
+  "test_scope": "Independent full ordered physical/cash replay; all windows planning objective, frozen chain, EFC budget; formal outputs only"
+}

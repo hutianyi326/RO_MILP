@@ -1,0 +1,442 @@
+[
+  {
+    "date": "2026-08-31",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23693070/ansContractPurchasedReserves_31.08.2026.xlsx/3f4f16fe-98e3-42da-95c6-529266cbf603",
+    "file": "ansContractPurchasedReserves_31.08.2026.xlsx",
+    "status": "ok",
+    "bytes": 57815,
+    "sha256": "149b876124d9a4dfc7c0a062f0463f25f2a23bca7da66e13527565926ed6f4f2",
+    "method": "reuse_prior_official_download"
+  },
+  {
+    "date": "2026-08-31",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23693070/ansTenderResults_31.08.2026.xlsx/9ee778dd-9dfd-412c-8e48-5f0662a89774",
+    "file": "ansTenderResults_31.08.2026.xlsx",
+    "status": "ok",
+    "bytes": 15968,
+    "sha256": "b81eabeaeb30897de4312b08ccd3628648f1319e13e59f18705071b74154ab40",
+    "method": "reuse_prior_official_download"
+  },
+  {
+    "date": "2026-08-29",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23693040/ansTenderResults_29.08.2026.xlsx/7b9c86c7-62b3-4495-ab13-df1504cc85bf",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-30",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23693055/ansTenderResults_30.08.2026.xlsx/3e2be3e7-64c5-4edc-9ecd-54d8434aab83",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-29",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23693040/ansContractPurchasedReserves_29.08.2026.xlsx/97261721-fb4e-42a9-970d-4e899b7fc112",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-28",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23684543/ansContractPurchasedReserves_28.08.2026.xlsx/118efca1-2b75-4612-a1d8-421c268895a8",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-28",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23684543/ansTenderResults_28.08.2026.xlsx/7de9d8cb-cb3d-48b0-bb1b-5f0c6d715d52",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-27",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23678972/ansTenderResults_27.08.2026.xlsx/74f62e84-16a8-4622-bd7a-45105341bc02",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-27",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23678972/ansContractPurchasedReserves_27.08.2026.xlsx/508642bd-7a9e-409d-9367-75f70d9c4b7e",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-26",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23672898/ansContractPurchasedReserves_26.08.2026.xlsx/d93c6f23-75bb-4064-8814-2233b2fd6e65",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-26",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23672898/ansTenderResults_26.08.2026.xlsx/93f7858b-2e7c-4ca2-a64c-62808a7ed9c1",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-25",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486626/ansContractPurchasedReserves_25.08.2026.xlsx/ba5300c8-eda8-46f6-9e04-fd561dd98714",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-24",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486615/ansTenderResults_24.08.2026.xlsx/1ae42022-66a6-4d5e-a441-b2773427b533",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-30",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23693055/ansContractPurchasedReserves_30.08.2026.xlsx/842c6987-c40a-486b-bb19-4d5702284c92",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-23",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486604/ansContractPurchasedReserves_23.08.2026.xlsx/35a7ca67-4916-4950-b54e-4c20e3af6df3",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-23",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486604/ansTenderResults_23.08.2026.xlsx/f8c396c7-213e-4c33-9cc5-223351ca1d69",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-22",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486593/ansTenderResults_22.08.2026.xlsx/ecc4b711-9a46-4132-9987-cfff95bb6fd7",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-22",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486593/ansContractPurchasedReserves_22.08.2026.xlsx/5aef61ef-ef97-4054-a4bc-b4e0436e694d",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486582/ansTenderResults_21.08.2026.xlsx/6ff0e7d8-0ee9-4cb4-900d-172aa916f56d",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-24",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486615/ansContractPurchasedReserves_24.08.2026.xlsx/c844d223-7caf-4b03-888e-2056d7458378",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486582/ansContractPurchasedReserves_21.08.2026.xlsx/cb39a8ac-9829-42c2-836f-df215d40ec38",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-25",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486626/ansTenderResults_25.08.2026.xlsx/db8e7745-6c63-4842-a1b4-59031912772f",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-20",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486571/ansTenderResults_20.08.2026.xlsx/5c1f908c-ceb9-46e8-a942-8a504b218c19",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-20",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486571/ansContractPurchasedReserves_20.08.2026.xlsx/04889745-12e6-4293-b814-df8817cd6bb4",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-19",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486560/ansTenderResults_19.08.2026.xlsx/d1aca2be-95fb-47e5-ba89-e6e335a4cfcf",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-18",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486549/ansTenderResults_18.08.2026.xlsx/377f4d8e-c1ea-4084-820c-a63498c6ff89",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-19",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486560/ansContractPurchasedReserves_19.08.2026.xlsx/5ffbf4d1-4a86-4e61-99f7-e0832dbe51e6",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-18",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486549/ansContractPurchasedReserves_18.08.2026.xlsx/269f4bd4-e3a8-4b17-84fc-a706540abf3d",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-17",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486538/ansTenderResults_17.08.2026.xlsx/444db889-f1dd-47bd-a0cc-c7becef44c8a",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-17",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486538/ansContractPurchasedReserves_17.08.2026.xlsx/8c641e02-36cf-4475-b3f0-a6234f79b81f",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-16",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486523/ansTenderResults_16.08.2026.xlsx/e63ba293-8eef-4b20-ae40-87e09cf34542",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-16",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486523/ansContractPurchasedReserves_16.08.2026.xlsx/363de5bb-24a4-4b74-b9f4-9f27caed4eb9",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-15",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23486512/ansContractPurchasedReserves_15.08.2026.xlsx/1f1951b2-f75c-416c-a2d6-6bbf824e0dd1",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-15",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23486512/ansTenderResults_15.08.2026.xlsx/a3a0891c-862a-428b-bbe2-2218023b95f4",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-14",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23470861/ansTenderResults_14.08.2026.xlsx/5fab3d0e-8cec-4eda-a1fd-fadee1f1ad4d",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-14",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23470861/ansContractPurchasedReserves_14.08.2026.xlsx/726d1fc2-6955-44cb-af9e-2d6893d895bc",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-13",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23459208/ansTenderResults_13.08.2026.xlsx/6a720d06-a8f8-4c1d-9a5c-72f429c18a4e",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-13",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23459208/ansContractPurchasedReserves_13.08.2026.xlsx/aea9f610-0fb6-4519-84f9-b9fda5af28fe",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-12",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23443456/ansTenderResults_12.08.2026.xlsx/dc584ffa-1ba8-45fd-b4c6-e373eb9f4127",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-12",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23443456/ansContractPurchasedReserves_12.08.2026.xlsx/93754b6e-ad4e-41dc-83b7-5fa7ab04a916",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-11",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23392449/ansContractPurchasedReserves_11.08.2026.xlsx/4ad8d8e4-1dcf-433a-92b0-c996242cdb58",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-10",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23392438/ansContractPurchasedReserves_10.08.2026.xlsx/89ee3f7e-9f50-4f96-9545-0347ea95277f",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-10",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23392438/ansTenderResults_10.08.2026.xlsx/72eaf2f7-d241-442e-a0b7-47793cf4f071",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-09",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23392425/ansTenderResults_09.08.2026.xlsx/46adbd21-5583-4a14-ac28-3c2be460c113",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-09",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23392425/ansContractPurchasedReserves_09.08.2026.xlsx/102df5df-3aec-4dd1-8db0-e777d4b91dc6",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-11",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23392449/ansTenderResults_11.08.2026.xlsx/e4619494-dba3-4978-8601-d89120196766",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-08",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23392412/ansTenderResults_08.08.2026.xlsx/1ab20d50-8a07-45fa-a2ad-5a2ad85e81c9",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-07",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23370112/ansContractPurchasedReserves_07.08.2026.xlsx/b4870f6a-be65-4300-b6ea-510b31b154a7",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-07",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23370112/ansTenderResults_07.08.2026.xlsx/6067754a-c808-47b8-87e5-cd4da32cd405",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-06",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23361390/ansTenderResults_06.08.2026.xlsx/4d882669-dd19-49ee-abff-c32fbf0fc487",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-06",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23361390/ansContractPurchasedReserves_06.08.2026.xlsx/f388896b-e22a-47c8-bbd6-1ba8254d10b3",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-08",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23392412/ansContractPurchasedReserves_08.08.2026.xlsx/65d9f8bd-e845-41e6-a6fb-967893844994",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-04",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23303930/ansTenderResults_04.08.2026.xlsx/0b2f332c-ebf5-4676-96e1-8e9b20bce9a9",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-05",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23344102/ansTenderResults_05.08.2026.xlsx/b69cb181-a5f0-419c-af7a-78286c4a7404",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-05",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23344102/ansContractPurchasedReserves_05.08.2026.xlsx/35643bb7-879c-4250-8106-ce13500e4e8e",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-03",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23303915/ansTenderResults_03.08.2026.xlsx/c08c4552-628d-4ef9-b607-85e9c6fe8052",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-02",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23303900/ansTenderResults_02.08.2026.xlsx/dfd03134-7eef-48d3-9f01-2a11ff5dec06",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-03",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23303915/ansContractPurchasedReserves_03.08.2026.xlsx/007f3650-fbea-404e-96e5-8be4c28a77a6",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-02",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23303900/ansContractPurchasedReserves_02.08.2026.xlsx/797ccad3-26c8-442e-b7b4-62f4bf5e533a",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-01",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23303885/ansContractPurchasedReserves_01.08.2026.xlsx/7c590e38-7b04-4a9c-a35b-eb596936445a",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-01",
+    "kind": "ansTenderResults",
+    "url": "https://www.transelectrica.ro/documents/10179/23303885/ansTenderResults_01.08.2026.xlsx/1c8fb9fd-9327-4cb8-ba78-24181316b37f",
+    "status": "error",
+    "error_type": "HTTPError"
+  },
+  {
+    "date": "2026-08-04",
+    "kind": "ansContractPurchasedReserves",
+    "url": "https://www.transelectrica.ro/documents/10179/23303930/ansContractPurchasedReserves_04.08.2026.xlsx/6fc0904b-7dee-46a9-b530-9046181e0db8",
+    "status": "error",
+    "error_type": "HTTPError"
+  }
+]

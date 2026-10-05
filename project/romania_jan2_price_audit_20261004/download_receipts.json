@@ -1,0 +1,30 @@
+{
+  "day": {
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-01-01T22%3A00%3A00Z&timeInterval.to=2025-01-02T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+    "status": "REUSED_THIS_AUDIT",
+    "sha256": "b1cd0efde3e9a312f62e6c9a033d492efa2ae5c3c95276c69379e096e5f008f4",
+    "checked_utc": "2026-10-04T12:11:46.711935+00:00",
+    "note": "Existing immutable response downloaded during this audit on 2026-10-04; checked_utc is re-read time, not original publication time."
+  },
+  "metadata": {
+    "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=marginalPricesOverview",
+    "status": "REUSED_THIS_AUDIT",
+    "sha256": "f5ad86d0f2c94ac72804e45116444f59925fa21533d889c2322e9520a9847529",
+    "checked_utc": "2026-10-04T12:11:46.711935+00:00",
+    "note": "Existing immutable response downloaded during this audit on 2026-10-04; checked_utc is re-read time, not original publication time."
+  },
+  "bnr2024": {
+    "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2024.xml",
+    "status": "REUSED_THIS_AUDIT",
+    "sha256": "c4397e7f9c31390e449061844ad9f6a03c88bc35e6e88d4f7873760de5ecf2b4",
+    "checked_utc": "2026-10-04T12:11:46.711935+00:00",
+    "note": "Existing immutable response downloaded during this audit on 2026-10-04; checked_utc is re-read time, not original publication time."
+  },
+  "bnr2025": {
+    "url": "https://curs.bnr.ro/files/xml/years/nbrfxrates2025.xml",
+    "status": "REUSED_THIS_AUDIT",
+    "sha256": "afbdbadbc54a0d99ee8867d0ca9afd4d3dfd1e8a626b083a1b7d483becb26c23",
+    "checked_utc": "2026-10-04T12:11:46.712997+00:00",
+    "note": "Existing immutable response downloaded during this audit on 2026-10-04; checked_utc is re-read time, not original publication time."
+  }
+}

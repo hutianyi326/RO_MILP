@@ -1,0 +1,30 @@
+{
+  "access_date": "2026-10-04",
+  "suppliers_aug31": {
+    "MONSSON (30XROMONSONALM-O)": {
+      "mean_mw": 5.0,
+      "min_mw": 5.0,
+      "max_mw": 5.0
+    },
+    "HIDROELECTRICA (30XROHIDRO-----1)": {
+      "mean_mw": 70.75,
+      "min_mw": 50.0,
+      "max_mw": 88.0
+    },
+    "PETROM (30XROPETROM----4)": {
+      "mean_mw": 40.0,
+      "min_mw": 40.0,
+      "max_mw": 40.0
+    }
+  },
+  "exact_aug31_procured_mean_mw": 115.75,
+  "aug31_max_abs_proxy_error_mw": 0.12000000000000455,
+  "august_published_demand_mw": 128,
+  "august_mean_procurement_proxy_mw": 112.03716129032259,
+  "august_mean_positive_unfilled_proxy_mw": 16.765419354838713,
+  "august_site_mean_fcr_mw": 80.44086021505376,
+  "august_site_to_demand": 0.6284442204301075,
+  "august_site_to_procurement_proxy": 0.7179837411857203,
+  "checks": "PASS: monthly unique timestamps and constant demand; August 744/2976 hours/QH; supplier-day total 2778; API-derived quantity error <0.128 MW in sample; no solver rerun",
+  "note": "Unfilled demand is not a BSP award probability; provider results are one-day sample only"
+}

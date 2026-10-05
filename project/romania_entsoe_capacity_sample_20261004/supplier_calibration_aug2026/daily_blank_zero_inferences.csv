@@ -1,0 +1,11 @@
+﻿date,product,bsp,tender,bid,reason
+2026-08-08,aFRRDown,HIDROELECTRICA (30XROHIDRO-----1),440_2026,2,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-08,aFRRDown,HIDROELECTRICA (30XROHIDRO-----1),440_2026,3,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-08,aFRRUp,HIDROELECTRICA (30XROHIDRO-----1),440_2026,1,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-08,aFRRUp,HIDROELECTRICA (30XROHIDRO-----1),440_2026,2,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-13,aFRRUp,MONSSON (30XROMONSONALM-O),450_2026,1,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-13,aFRRUp,MONSSON (30XROMONSONALM-O),450_2026,2,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-14,aFRRUp,MONSSON (30XROMONSONALM-O),452_2026,1,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-16,aFRRDown,GLYPTODON (30XROGLYPTODON-B),455_2026,2,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-25,FCR,HIDROELECTRICA (30XROHIDRO-----1),475_2026,1,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero
+2026-08-27,FCR,HIDROELECTRICA (30XROHIDRO-----1),479_2026,1,Blank daily bid; other numeric bids exactly exhaust nonnegative product total; inferred zero

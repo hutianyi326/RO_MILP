@@ -1,0 +1,1023 @@
+﻿date,kind,file,header_row,offered_power_published,original_headers,accepted_derived_cost_divided_price
+2025-01-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-01,ansTenderResults,ansTenderResults_2025-01-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-02,ansTenderResults,ansTenderResults_2025-01-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-03,ansTenderResults,ansTenderResults_2025-01-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-04,ansTenderResults,ansTenderResults_2025-01-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-05,ansTenderResults,ansTenderResults_2025-01-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-06,ansTenderResults,ansTenderResults_2025-01-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-07,ansTenderResults,ansTenderResults_2025-01-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-08,ansTenderResults,ansTenderResults_2025-01-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-09,ansTenderResults,ansTenderResults_2025-01-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-10,ansTenderResults,ansTenderResults_2025-01-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-11,ansTenderResults,ansTenderResults_2025-01-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-12,ansTenderResults,ansTenderResults_2025-01-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-13,ansTenderResults,ansTenderResults_2025-01-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-14,ansTenderResults,ansTenderResults_2025-01-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-15,ansTenderResults,ansTenderResults_2025-01-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-16,ansTenderResults,ansTenderResults_2025-01-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'RESULTING_PRICE']",False
+2025-01-17,ansTenderResults,ansTenderResults_2025-01-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-18,ansTenderResults,ansTenderResults_2025-01-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-19,ansTenderResults,ansTenderResults_2025-01-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-20,ansTenderResults,ansTenderResults_2025-01-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-21,ansTenderResults,ansTenderResults_2025-01-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-22,ansTenderResults,ansTenderResults_2025-01-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-23,ansTenderResults,ansTenderResults_2025-01-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-24,ansTenderResults,ansTenderResults_2025-01-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-25,ansTenderResults,ansTenderResults_2025-01-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-26,ansTenderResults,ansTenderResults_2025-01-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-27,ansTenderResults,ansTenderResults_2025-01-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-28,ansTenderResults,ansTenderResults_2025-01-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-29,ansTenderResults,ansTenderResults_2025-01-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-30,ansTenderResults,ansTenderResults_2025-01-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-01-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-01-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-01-31,ansTenderResults,ansTenderResults_2025-01-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-01,ansTenderResults,ansTenderResults_2025-02-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-02,ansTenderResults,ansTenderResults_2025-02-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-03,ansTenderResults,ansTenderResults_2025-02-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-04,ansTenderResults,ansTenderResults_2025-02-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-05,ansTenderResults,ansTenderResults_2025-02-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-06,ansTenderResults,ansTenderResults_2025-02-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-07,ansTenderResults,ansTenderResults_2025-02-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-08,ansTenderResults,ansTenderResults_2025-02-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-09,ansTenderResults,ansTenderResults_2025-02-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-10,ansTenderResults,ansTenderResults_2025-02-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-11,ansTenderResults,ansTenderResults_2025-02-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-12,ansTenderResults,ansTenderResults_2025-02-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'RESULTING_PRICE']",False
+2025-02-13,ansTenderResults,ansTenderResults_2025-02-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'RESULTING_PRICE']",False
+2025-02-14,ansTenderResults,ansTenderResults_2025-02-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-15,ansTenderResults,ansTenderResults_2025-02-15.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-02-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-16,ansTenderResults,ansTenderResults_2025-02-16.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-02-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-17,ansTenderResults,ansTenderResults_2025-02-17.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-02-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-18,ansTenderResults,ansTenderResults_2025-02-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-19,ansTenderResults,ansTenderResults_2025-02-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-20,ansTenderResults,ansTenderResults_2025-02-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-21,ansTenderResults,ansTenderResults_2025-02-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-22,ansTenderResults,ansTenderResults_2025-02-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-23,ansTenderResults,ansTenderResults_2025-02-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-24,ansTenderResults,ansTenderResults_2025-02-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-25,ansTenderResults,ansTenderResults_2025-02-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-26,ansTenderResults,ansTenderResults_2025-02-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-27,ansTenderResults,ansTenderResults_2025-02-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-02-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-02-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-02-28,ansTenderResults,ansTenderResults_2025-02-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-01,ansTenderResults,ansTenderResults_2025-03-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-02,ansTenderResults,ansTenderResults_2025-03-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-03,ansTenderResults,ansTenderResults_2025-03-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-04,ansTenderResults,ansTenderResults_2025-03-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-05,ansTenderResults,ansTenderResults_2025-03-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-06,ansTenderResults,ansTenderResults_2025-03-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-07,ansTenderResults,ansTenderResults_2025-03-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-08,ansTenderResults,ansTenderResults_2025-03-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-09,ansTenderResults,ansTenderResults_2025-03-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-10,ansTenderResults,ansTenderResults_2025-03-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-11,ansTenderResults,ansTenderResults_2025-03-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-12,ansTenderResults,ansTenderResults_2025-03-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-13,ansTenderResults,ansTenderResults_2025-03-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-14,ansTenderResults,ansTenderResults_2025-03-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-15,ansTenderResults,ansTenderResults_2025-03-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-16,ansTenderResults,ansTenderResults_2025-03-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-17,ansTenderResults,ansTenderResults_2025-03-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-18,ansTenderResults,ansTenderResults_2025-03-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-19,ansTenderResults,ansTenderResults_2025-03-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-20.xlsx,9,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-20,ansTenderResults,ansTenderResults_2025-03-20.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-21.xlsx,9,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-21,ansTenderResults,ansTenderResults_2025-03-21.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-22.xlsx,9,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-22,ansTenderResults,ansTenderResults_2025-03-22.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-23.xlsx,9,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-23,ansTenderResults,ansTenderResults_2025-03-23.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-24.xlsx,9,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-24,ansTenderResults,ansTenderResults_2025-03-24.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-25,ansTenderResults,ansTenderResults_2025-03-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-26,ansTenderResults,ansTenderResults_2025-03-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-27,ansTenderResults,ansTenderResults_2025-03-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-28,ansTenderResults,ansTenderResults_2025-03-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-29,ansTenderResults,ansTenderResults_2025-03-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-30,ansTenderResults,ansTenderResults_2025-03-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-03-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-03-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-03-31,ansTenderResults,ansTenderResults_2025-03-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-01,ansTenderResults,ansTenderResults_2025-04-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-02,ansTenderResults,ansTenderResults_2025-04-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-03,ansTenderResults,ansTenderResults_2025-04-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-04,ansTenderResults,ansTenderResults_2025-04-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-05,ansTenderResults,ansTenderResults_2025-04-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-06,ansTenderResults,ansTenderResults_2025-04-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-07,ansTenderResults,ansTenderResults_2025-04-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-08,ansTenderResults,ansTenderResults_2025-04-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-09,ansTenderResults,ansTenderResults_2025-04-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-10,ansTenderResults,ansTenderResults_2025-04-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-11,ansTenderResults,ansTenderResults_2025-04-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-12,ansTenderResults,ansTenderResults_2025-04-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-13,ansTenderResults,ansTenderResults_2025-04-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-14,ansTenderResults,ansTenderResults_2025-04-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-15,ansTenderResults,ansTenderResults_2025-04-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-16,ansTenderResults,ansTenderResults_2025-04-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-17,ansTenderResults,ansTenderResults_2025-04-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-18,ansTenderResults,ansTenderResults_2025-04-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-19,ansTenderResults,ansTenderResults_2025-04-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-20,ansTenderResults,ansTenderResults_2025-04-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-21,ansTenderResults,ansTenderResults_2025-04-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-22,ansTenderResults,ansTenderResults_2025-04-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-23,ansTenderResults,ansTenderResults_2025-04-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-24,ansTenderResults,ansTenderResults_2025-04-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-25,ansTenderResults,ansTenderResults_2025-04-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-26,ansTenderResults,ansTenderResults_2025-04-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-27,ansTenderResults,ansTenderResults_2025-04-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-28,ansTenderResults,ansTenderResults_2025-04-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-29,ansTenderResults,ansTenderResults_2025-04-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-04-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-04-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-04-30,ansTenderResults,ansTenderResults_2025-04-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-01,ansTenderResults,ansTenderResults_2025-05-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-02,ansTenderResults,ansTenderResults_2025-05-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-03,ansTenderResults,ansTenderResults_2025-05-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-04,ansTenderResults,ansTenderResults_2025-05-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-05,ansTenderResults,ansTenderResults_2025-05-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-06,ansTenderResults,ansTenderResults_2025-05-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-07,ansTenderResults,ansTenderResults_2025-05-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-08,ansTenderResults,ansTenderResults_2025-05-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-09,ansTenderResults,ansTenderResults_2025-05-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-10,ansTenderResults,ansTenderResults_2025-05-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-11,ansTenderResults,ansTenderResults_2025-05-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-12,ansTenderResults,ansTenderResults_2025-05-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-13,ansTenderResults,ansTenderResults_2025-05-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-14,ansTenderResults,ansTenderResults_2025-05-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-15,ansTenderResults,ansTenderResults_2025-05-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-16,ansTenderResults,ansTenderResults_2025-05-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-17,ansTenderResults,ansTenderResults_2025-05-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-18,ansTenderResults,ansTenderResults_2025-05-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-19,ansTenderResults,ansTenderResults_2025-05-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-20,ansTenderResults,ansTenderResults_2025-05-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-21,ansTenderResults,ansTenderResults_2025-05-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-22,ansTenderResults,ansTenderResults_2025-05-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-23,ansTenderResults,ansTenderResults_2025-05-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-24,ansTenderResults,ansTenderResults_2025-05-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-25,ansTenderResults,ansTenderResults_2025-05-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-26,ansTenderResults,ansTenderResults_2025-05-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-27,ansTenderResults,ansTenderResults_2025-05-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-28,ansTenderResults,ansTenderResults_2025-05-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-29,ansTenderResults,ansTenderResults_2025-05-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-30,ansTenderResults,ansTenderResults_2025-05-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-05-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-05-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-05-31,ansTenderResults,ansTenderResults_2025-05-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-01,ansTenderResults,ansTenderResults_2025-06-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-02,ansTenderResults,ansTenderResults_2025-06-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-03,ansTenderResults,ansTenderResults_2025-06-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-04,ansTenderResults,ansTenderResults_2025-06-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-05,ansTenderResults,ansTenderResults_2025-06-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-06,ansTenderResults,ansTenderResults_2025-06-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-07,ansTenderResults,ansTenderResults_2025-06-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-08,ansTenderResults,ansTenderResults_2025-06-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-09,ansTenderResults,ansTenderResults_2025-06-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-10,ansTenderResults,ansTenderResults_2025-06-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-11,ansTenderResults,ansTenderResults_2025-06-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-12,ansTenderResults,ansTenderResults_2025-06-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-13,ansTenderResults,ansTenderResults_2025-06-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-14,ansTenderResults,ansTenderResults_2025-06-14.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-06-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-15,ansTenderResults,ansTenderResults_2025-06-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-16,ansTenderResults,ansTenderResults_2025-06-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-17,ansTenderResults,ansTenderResults_2025-06-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-18,ansTenderResults,ansTenderResults_2025-06-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-19,ansTenderResults,ansTenderResults_2025-06-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-20,ansTenderResults,ansTenderResults_2025-06-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-21,ansTenderResults,ansTenderResults_2025-06-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-22,ansTenderResults,ansTenderResults_2025-06-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-23,ansTenderResults,ansTenderResults_2025-06-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-24,ansTenderResults,ansTenderResults_2025-06-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-25,ansTenderResults,ansTenderResults_2025-06-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-26,ansTenderResults,ansTenderResults_2025-06-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-27,ansTenderResults,ansTenderResults_2025-06-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-28,ansTenderResults,ansTenderResults_2025-06-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-29,ansTenderResults,ansTenderResults_2025-06-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-06-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-06-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-06-30,ansTenderResults,ansTenderResults_2025-06-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-01,ansTenderResults,ansTenderResults_2025-07-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-02,ansTenderResults,ansTenderResults_2025-07-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-03,ansTenderResults,ansTenderResults_2025-07-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-04,ansTenderResults,ansTenderResults_2025-07-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-05,ansTenderResults,ansTenderResults_2025-07-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-06,ansTenderResults,ansTenderResults_2025-07-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-07,ansTenderResults,ansTenderResults_2025-07-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-08,ansTenderResults,ansTenderResults_2025-07-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-09,ansTenderResults,ansTenderResults_2025-07-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-10,ansTenderResults,ansTenderResults_2025-07-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-11,ansTenderResults,ansTenderResults_2025-07-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-12,ansTenderResults,ansTenderResults_2025-07-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-13,ansTenderResults,ansTenderResults_2025-07-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-14,ansTenderResults,ansTenderResults_2025-07-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-15,ansTenderResults,ansTenderResults_2025-07-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-16,ansTenderResults,ansTenderResults_2025-07-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-17,ansTenderResults,ansTenderResults_2025-07-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-18,ansTenderResults,ansTenderResults_2025-07-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-19,ansTenderResults,ansTenderResults_2025-07-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-20,ansTenderResults,ansTenderResults_2025-07-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-21,ansTenderResults,ansTenderResults_2025-07-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-22,ansTenderResults,ansTenderResults_2025-07-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-23,ansTenderResults,ansTenderResults_2025-07-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-24,ansTenderResults,ansTenderResults_2025-07-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-25,ansTenderResults,ansTenderResults_2025-07-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-26,ansTenderResults,ansTenderResults_2025-07-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-27,ansTenderResults,ansTenderResults_2025-07-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-28,ansTenderResults,ansTenderResults_2025-07-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-29,ansTenderResults,ansTenderResults_2025-07-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-30,ansTenderResults,ansTenderResults_2025-07-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-07-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-07-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-07-31,ansTenderResults,ansTenderResults_2025-07-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-01,ansTenderResults,ansTenderResults_2025-08-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-02,ansTenderResults,ansTenderResults_2025-08-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-03,ansTenderResults,ansTenderResults_2025-08-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-04,ansTenderResults,ansTenderResults_2025-08-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-05,ansTenderResults,ansTenderResults_2025-08-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-06,ansTenderResults,ansTenderResults_2025-08-06.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-08-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-07,ansTenderResults,ansTenderResults_2025-08-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-08,ansTenderResults,ansTenderResults_2025-08-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-09,ansTenderResults,ansTenderResults_2025-08-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-10,ansTenderResults,ansTenderResults_2025-08-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-11,ansTenderResults,ansTenderResults_2025-08-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-12,ansTenderResults,ansTenderResults_2025-08-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-13,ansTenderResults,ansTenderResults_2025-08-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-14,ansTenderResults,ansTenderResults_2025-08-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-15,ansTenderResults,ansTenderResults_2025-08-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-16,ansTenderResults,ansTenderResults_2025-08-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-17,ansTenderResults,ansTenderResults_2025-08-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-18,ansTenderResults,ansTenderResults_2025-08-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-19,ansTenderResults,ansTenderResults_2025-08-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-20,ansTenderResults,ansTenderResults_2025-08-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-21,ansTenderResults,ansTenderResults_2025-08-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-22,ansTenderResults,ansTenderResults_2025-08-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-23,ansTenderResults,ansTenderResults_2025-08-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-24,ansTenderResults,ansTenderResults_2025-08-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-25,ansTenderResults,ansTenderResults_2025-08-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-26,ansTenderResults,ansTenderResults_2025-08-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-27,ansTenderResults,ansTenderResults_2025-08-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-28,ansTenderResults,ansTenderResults_2025-08-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-29,ansTenderResults,ansTenderResults_2025-08-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-30,ansTenderResults,ansTenderResults_2025-08-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-08-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-08-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-08-31,ansTenderResults,ansTenderResults_2025-08-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-01,ansTenderResults,ansTenderResults_2025-09-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-02,ansTenderResults,ansTenderResults_2025-09-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-03,ansTenderResults,ansTenderResults_2025-09-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-04,ansTenderResults,ansTenderResults_2025-09-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-05,ansTenderResults,ansTenderResults_2025-09-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-06,ansTenderResults,ansTenderResults_2025-09-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-07,ansTenderResults,ansTenderResults_2025-09-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-08,ansTenderResults,ansTenderResults_2025-09-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-09,ansTenderResults,ansTenderResults_2025-09-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-10,ansTenderResults,ansTenderResults_2025-09-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-11,ansTenderResults,ansTenderResults_2025-09-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-12,ansTenderResults,ansTenderResults_2025-09-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-13,ansTenderResults,ansTenderResults_2025-09-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-14,ansTenderResults,ansTenderResults_2025-09-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-15,ansTenderResults,ansTenderResults_2025-09-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-16,ansTenderResults,ansTenderResults_2025-09-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-17,ansTenderResults,ansTenderResults_2025-09-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-18,ansTenderResults,ansTenderResults_2025-09-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-19,ansTenderResults,ansTenderResults_2025-09-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-20.xlsx,8,True,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'OFFERED_PRICE', 'ACCEPTED_POWER', 'RESULTING_PRICE', 'RESULTING_COST']",False
+2025-09-20,ansTenderResults,ansTenderResults_2025-09-20.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-09-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-21.xlsx,8,True,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'OFFERED_PRICE', 'ACCEPTED_POWER', 'RESULTING_PRICE', 'RESULTING_COST']",False
+2025-09-21,ansTenderResults,ansTenderResults_2025-09-21.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-09-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-22.xlsx,8,True,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'OFFERED_PRICE', 'ACCEPTED_POWER', 'RESULTING_PRICE', 'RESULTING_COST']",False
+2025-09-22,ansTenderResults,ansTenderResults_2025-09-22.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', 'TOTAL_COST']",False
+2025-09-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-23,ansTenderResults,ansTenderResults_2025-09-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-24,ansTenderResults,ansTenderResults_2025-09-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-25,ansTenderResults,ansTenderResults_2025-09-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-26,ansTenderResults,ansTenderResults_2025-09-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-27,ansTenderResults,ansTenderResults_2025-09-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-28,ansTenderResults,ansTenderResults_2025-09-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-29,ansTenderResults,ansTenderResults_2025-09-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-09-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-09-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-09-30,ansTenderResults,ansTenderResults_2025-09-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-01,ansTenderResults,ansTenderResults_2025-10-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-02,ansTenderResults,ansTenderResults_2025-10-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-03,ansTenderResults,ansTenderResults_2025-10-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-04,ansTenderResults,ansTenderResults_2025-10-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-05,ansTenderResults,ansTenderResults_2025-10-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-06,ansTenderResults,ansTenderResults_2025-10-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-07,ansTenderResults,ansTenderResults_2025-10-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-08,ansTenderResults,ansTenderResults_2025-10-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-09,ansTenderResults,ansTenderResults_2025-10-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-10,ansTenderResults,ansTenderResults_2025-10-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-11,ansTenderResults,ansTenderResults_2025-10-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-12,ansTenderResults,ansTenderResults_2025-10-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-13,ansTenderResults,ansTenderResults_2025-10-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-14,ansTenderResults,ansTenderResults_2025-10-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-15,ansTenderResults,ansTenderResults_2025-10-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-16,ansTenderResults,ansTenderResults_2025-10-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-17,ansTenderResults,ansTenderResults_2025-10-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-18,ansTenderResults,ansTenderResults_2025-10-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-19,ansTenderResults,ansTenderResults_2025-10-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-20,ansTenderResults,ansTenderResults_2025-10-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-21,ansTenderResults,ansTenderResults_2025-10-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-22,ansTenderResults,ansTenderResults_2025-10-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-23,ansTenderResults,ansTenderResults_2025-10-23.xlsx,9,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'AVERAGE PRICE', 'TOTAL_COST']",True
+2025-10-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-24,ansTenderResults,ansTenderResults_2025-10-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-25,ansTenderResults,ansTenderResults_2025-10-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-26,ansTenderResults,ansTenderResults_2025-10-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-27,ansTenderResults,ansTenderResults_2025-10-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-28,ansTenderResults,ansTenderResults_2025-10-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-29,ansTenderResults,ansTenderResults_2025-10-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-30,ansTenderResults,ansTenderResults_2025-10-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-10-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-10-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-10-31,ansTenderResults,ansTenderResults_2025-10-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-01,ansTenderResults,ansTenderResults_2025-11-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-02,ansTenderResults,ansTenderResults_2025-11-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-03,ansTenderResults,ansTenderResults_2025-11-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-04,ansTenderResults,ansTenderResults_2025-11-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-05,ansTenderResults,ansTenderResults_2025-11-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-06,ansTenderResults,ansTenderResults_2025-11-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-07,ansTenderResults,ansTenderResults_2025-11-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-08,ansTenderResults,ansTenderResults_2025-11-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-09,ansTenderResults,ansTenderResults_2025-11-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-10,ansTenderResults,ansTenderResults_2025-11-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-11,ansTenderResults,ansTenderResults_2025-11-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-12,ansTenderResults,ansTenderResults_2025-11-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-13,ansTenderResults,ansTenderResults_2025-11-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-14,ansTenderResults,ansTenderResults_2025-11-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-15,ansTenderResults,ansTenderResults_2025-11-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-16,ansTenderResults,ansTenderResults_2025-11-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-17,ansTenderResults,ansTenderResults_2025-11-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-18,ansTenderResults,ansTenderResults_2025-11-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-19,ansTenderResults,ansTenderResults_2025-11-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-20,ansTenderResults,ansTenderResults_2025-11-20.xlsx,6,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-21,ansTenderResults,ansTenderResults_2025-11-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-22,ansTenderResults,ansTenderResults_2025-11-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-23,ansTenderResults,ansTenderResults_2025-11-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-24,ansTenderResults,ansTenderResults_2025-11-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-25,ansTenderResults,ansTenderResults_2025-11-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-26,ansTenderResults,ansTenderResults_2025-11-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-27,ansTenderResults,ansTenderResults_2025-11-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-28,ansTenderResults,ansTenderResults_2025-11-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-29,ansTenderResults,ansTenderResults_2025-11-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-11-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-11-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-11-30,ansTenderResults,ansTenderResults_2025-11-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-01,ansTenderResults,ansTenderResults_2025-12-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-02,ansTenderResults,ansTenderResults_2025-12-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-03,ansTenderResults,ansTenderResults_2025-12-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-04,ansTenderResults,ansTenderResults_2025-12-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-05,ansTenderResults,ansTenderResults_2025-12-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-06,ansTenderResults,ansTenderResults_2025-12-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-07,ansTenderResults,ansTenderResults_2025-12-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-08,ansTenderResults,ansTenderResults_2025-12-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-09,ansTenderResults,ansTenderResults_2025-12-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-10,ansTenderResults,ansTenderResults_2025-12-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-11,ansTenderResults,ansTenderResults_2025-12-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-12,ansTenderResults,ansTenderResults_2025-12-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-13,ansTenderResults,ansTenderResults_2025-12-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-14,ansTenderResults,ansTenderResults_2025-12-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-15,ansTenderResults,ansTenderResults_2025-12-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-16,ansTenderResults,ansTenderResults_2025-12-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-17,ansTenderResults,ansTenderResults_2025-12-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-18,ansTenderResults,ansTenderResults_2025-12-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-19,ansTenderResults,ansTenderResults_2025-12-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-20,ansTenderResults,ansTenderResults_2025-12-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-21,ansTenderResults,ansTenderResults_2025-12-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-22,ansTenderResults,ansTenderResults_2025-12-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-23,ansTenderResults,ansTenderResults_2025-12-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-24,ansTenderResults,ansTenderResults_2025-12-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-25,ansTenderResults,ansTenderResults_2025-12-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-26,ansTenderResults,ansTenderResults_2025-12-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-27,ansTenderResults,ansTenderResults_2025-12-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-28,ansTenderResults,ansTenderResults_2025-12-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-29,ansTenderResults,ansTenderResults_2025-12-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-30,ansTenderResults,ansTenderResults_2025-12-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2025-12-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2025-12-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2025-12-31,ansTenderResults,ansTenderResults_2025-12-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-01,ansTenderResults,ansTenderResults_2026-01-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-02,ansTenderResults,ansTenderResults_2026-01-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-03,ansTenderResults,ansTenderResults_2026-01-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-04,ansTenderResults,ansTenderResults_2026-01-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-05,ansTenderResults,ansTenderResults_2026-01-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-06.xlsx,1,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-06,ansTenderResults,ansTenderResults_2026-01-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-07,ansTenderResults,ansTenderResults_2026-01-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-08,ansTenderResults,ansTenderResults_2026-01-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-09,ansTenderResults,ansTenderResults_2026-01-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-10,ansTenderResults,ansTenderResults_2026-01-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-11,ansTenderResults,ansTenderResults_2026-01-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-12,ansTenderResults,ansTenderResults_2026-01-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-13,ansTenderResults,ansTenderResults_2026-01-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-14,ansTenderResults,ansTenderResults_2026-01-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-15,ansTenderResults,ansTenderResults_2026-01-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-16,ansTenderResults,ansTenderResults_2026-01-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-17,ansTenderResults,ansTenderResults_2026-01-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-18,ansTenderResults,ansTenderResults_2026-01-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-19,ansTenderResults,ansTenderResults_2026-01-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-20,ansTenderResults,ansTenderResults_2026-01-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-21,ansTenderResults,ansTenderResults_2026-01-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-22,ansTenderResults,ansTenderResults_2026-01-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-23,ansTenderResults,ansTenderResults_2026-01-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-24,ansTenderResults,ansTenderResults_2026-01-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-25,ansTenderResults,ansTenderResults_2026-01-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-26,ansTenderResults,ansTenderResults_2026-01-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-27,ansTenderResults,ansTenderResults_2026-01-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-28,ansTenderResults,ansTenderResults_2026-01-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-29,ansTenderResults,ansTenderResults_2026-01-29.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-30,ansTenderResults,ansTenderResults_2026-01-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-01-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-01-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-01-31,ansTenderResults,ansTenderResults_2026-01-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-01,ansTenderResults,ansTenderResults_2026-02-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-02,ansTenderResults,ansTenderResults_2026-02-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-03,ansTenderResults,ansTenderResults_2026-02-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-04,ansTenderResults,ansTenderResults_2026-02-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-05,ansTenderResults,ansTenderResults_2026-02-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-06,ansTenderResults,ansTenderResults_2026-02-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-07,ansTenderResults,ansTenderResults_2026-02-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-08,ansTenderResults,ansTenderResults_2026-02-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-09,ansTenderResults,ansTenderResults_2026-02-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-10,ansTenderResults,ansTenderResults_2026-02-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-11,ansTenderResults,ansTenderResults_2026-02-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-12,ansTenderResults,ansTenderResults_2026-02-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-13,ansTenderResults,ansTenderResults_2026-02-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-14,ansTenderResults,ansTenderResults_2026-02-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-15,ansTenderResults,ansTenderResults_2026-02-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-16,ansTenderResults,ansTenderResults_2026-02-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-17,ansTenderResults,ansTenderResults_2026-02-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-18,ansTenderResults,ansTenderResults_2026-02-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-19,ansTenderResults,ansTenderResults_2026-02-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-20,ansTenderResults,ansTenderResults_2026-02-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-21,ansTenderResults,ansTenderResults_2026-02-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-22,ansTenderResults,ansTenderResults_2026-02-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-23,ansTenderResults,ansTenderResults_2026-02-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-24,ansTenderResults,ansTenderResults_2026-02-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-25,ansTenderResults,ansTenderResults_2026-02-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-26,ansTenderResults,ansTenderResults_2026-02-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-27,ansTenderResults,ansTenderResults_2026-02-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-02-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-02-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-02-28,ansTenderResults,ansTenderResults_2026-02-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-01,ansTenderResults,ansTenderResults_2026-03-01.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-02,ansTenderResults,ansTenderResults_2026-03-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-03,ansTenderResults,ansTenderResults_2026-03-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-04,ansTenderResults,ansTenderResults_2026-03-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-05,ansTenderResults,ansTenderResults_2026-03-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-06,ansTenderResults,ansTenderResults_2026-03-06.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-07,ansTenderResults,ansTenderResults_2026-03-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-08,ansTenderResults,ansTenderResults_2026-03-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-09,ansTenderResults,ansTenderResults_2026-03-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-10,ansTenderResults,ansTenderResults_2026-03-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-11,ansTenderResults,ansTenderResults_2026-03-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-12,ansTenderResults,ansTenderResults_2026-03-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-13,ansTenderResults,ansTenderResults_2026-03-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-14,ansTenderResults,ansTenderResults_2026-03-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-15,ansTenderResults,ansTenderResults_2026-03-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-16,ansTenderResults,ansTenderResults_2026-03-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-17,ansTenderResults,ansTenderResults_2026-03-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-18,ansTenderResults,ansTenderResults_2026-03-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-19,ansTenderResults,ansTenderResults_2026-03-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-20,ansTenderResults,ansTenderResults_2026-03-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-21,ansTenderResults,ansTenderResults_2026-03-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-22,ansTenderResults,ansTenderResults_2026-03-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-23,ansTenderResults,ansTenderResults_2026-03-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-24,ansTenderResults,ansTenderResults_2026-03-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-25,ansTenderResults,ansTenderResults_2026-03-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-26,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-26.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-26,ansTenderResults,ansTenderResults_2026-03-26.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-27,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-27.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-27,ansTenderResults,ansTenderResults_2026-03-27.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-28,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-28.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-28,ansTenderResults,ansTenderResults_2026-03-28.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-29,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-29.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-29,ansTenderResults,ansTenderResults_2026-03-29.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-30,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-30.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-30,ansTenderResults,ansTenderResults_2026-03-30.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-03-31,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-03-31.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-03-31,ansTenderResults,ansTenderResults_2026-03-31.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-01,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-01.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-01,ansTenderResults,ansTenderResults_2026-04-01.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-02,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-02.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-02,ansTenderResults,ansTenderResults_2026-04-02.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-03,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-03.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-03,ansTenderResults,ansTenderResults_2026-04-03.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-04,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-04.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-04,ansTenderResults,ansTenderResults_2026-04-04.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-05,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-05.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-05,ansTenderResults,ansTenderResults_2026-04-05.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-06,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-06.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-06,ansTenderResults,ansTenderResults_2026-04-06.xlsx,8,True,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'OFFERED_POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-07,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-07.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-07,ansTenderResults,ansTenderResults_2026-04-07.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-08,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-08.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-08,ansTenderResults,ansTenderResults_2026-04-08.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-09,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-09.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-09,ansTenderResults,ansTenderResults_2026-04-09.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE', None]",False
+2026-04-10,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-10.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-10,ansTenderResults,ansTenderResults_2026-04-10.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-11,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-11.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-11,ansTenderResults,ansTenderResults_2026-04-11.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-12,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-12.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-12,ansTenderResults,ansTenderResults_2026-04-12.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-13,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-13.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-13,ansTenderResults,ansTenderResults_2026-04-13.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-14,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-14.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-14,ansTenderResults,ansTenderResults_2026-04-14.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-15,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-15.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-15,ansTenderResults,ansTenderResults_2026-04-15.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-16,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-16.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-16,ansTenderResults,ansTenderResults_2026-04-16.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-17,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-17.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-17,ansTenderResults,ansTenderResults_2026-04-17.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-18,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-18.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-18,ansTenderResults,ansTenderResults_2026-04-18.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-19,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-19.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-19,ansTenderResults,ansTenderResults_2026-04-19.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-20,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-20.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-20,ansTenderResults,ansTenderResults_2026-04-20.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-21,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-21.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-21,ansTenderResults,ansTenderResults_2026-04-21.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-22,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-22.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-22,ansTenderResults,ansTenderResults_2026-04-22.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-23,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-23.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-23,ansTenderResults,ansTenderResults_2026-04-23.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-24,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-24.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-24,ansTenderResults,ansTenderResults_2026-04-24.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-04-25,ansContractPurchasedReserves,ansContractPurchasedReserves_2026-04-25.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-04-25,ansTenderResults,ansTenderResults_2026-04-25.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-01,ansContractPurchasedReserves,ansContractPurchasedReserves_01.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-01,ansTenderResults,ansTenderResults_01.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-02,ansContractPurchasedReserves,ansContractPurchasedReserves_02.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-02,ansTenderResults,ansTenderResults_02.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-03,ansContractPurchasedReserves,ansContractPurchasedReserves_03.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-03,ansTenderResults,ansTenderResults_03.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-04,ansContractPurchasedReserves,ansContractPurchasedReserves_04.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-04,ansTenderResults,ansTenderResults_04.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-05,ansContractPurchasedReserves,ansContractPurchasedReserves_05.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-05,ansTenderResults,ansTenderResults_05.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-06,ansContractPurchasedReserves,ansContractPurchasedReserves_06.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-06,ansTenderResults,ansTenderResults_06.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-07,ansContractPurchasedReserves,ansContractPurchasedReserves_07.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-07,ansTenderResults,ansTenderResults_07.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-08,ansContractPurchasedReserves,ansContractPurchasedReserves_08.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-08,ansTenderResults,ansTenderResults_08.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-09,ansContractPurchasedReserves,ansContractPurchasedReserves_09.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-09,ansTenderResults,ansTenderResults_09.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-10,ansContractPurchasedReserves,ansContractPurchasedReserves_10.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-10,ansTenderResults,ansTenderResults_10.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-11,ansContractPurchasedReserves,ansContractPurchasedReserves_11.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-11,ansTenderResults,ansTenderResults_11.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-12,ansContractPurchasedReserves,ansContractPurchasedReserves_12.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-12,ansTenderResults,ansTenderResults_12.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-13,ansContractPurchasedReserves,ansContractPurchasedReserves_13.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-13,ansTenderResults,ansTenderResults_13.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-14,ansContractPurchasedReserves,ansContractPurchasedReserves_14.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-14,ansTenderResults,ansTenderResults_14.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-15,ansContractPurchasedReserves,ansContractPurchasedReserves_15.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-15,ansTenderResults,ansTenderResults_15.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-16,ansContractPurchasedReserves,ansContractPurchasedReserves_16.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-16,ansTenderResults,ansTenderResults_16.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-17,ansContractPurchasedReserves,ansContractPurchasedReserves_17.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-17,ansTenderResults,ansTenderResults_17.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-18,ansContractPurchasedReserves,ansContractPurchasedReserves_18.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-18,ansTenderResults,ansTenderResults_18.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-19,ansContractPurchasedReserves,ansContractPurchasedReserves_19.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-19,ansTenderResults,ansTenderResults_19.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-20,ansContractPurchasedReserves,ansContractPurchasedReserves_20.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-20,ansTenderResults,ansTenderResults_20.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-21,ansContractPurchasedReserves,ansContractPurchasedReserves_21.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-21,ansTenderResults,ansTenderResults_21.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-22,ansContractPurchasedReserves,ansContractPurchasedReserves_22.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-22,ansTenderResults,ansTenderResults_22.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-23,ansContractPurchasedReserves,ansContractPurchasedReserves_23.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-23,ansTenderResults,ansTenderResults_23.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-24,ansContractPurchasedReserves,ansContractPurchasedReserves_24.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-24,ansTenderResults,ansTenderResults_24.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-25,ansContractPurchasedReserves,ansContractPurchasedReserves_25.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-25,ansTenderResults,ansTenderResults_25.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-26,ansContractPurchasedReserves,ansContractPurchasedReserves_26.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-26,ansTenderResults,ansTenderResults_26.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-27,ansContractPurchasedReserves,ansContractPurchasedReserves_27.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-27,ansTenderResults,ansTenderResults_27.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-28,ansContractPurchasedReserves,ansContractPurchasedReserves_28.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-28,ansTenderResults,ansTenderResults_28.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-29,ansContractPurchasedReserves,ansContractPurchasedReserves_29.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-29,ansTenderResults,ansTenderResults_29.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-30,ansContractPurchasedReserves,ansContractPurchasedReserves_30.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-30,ansTenderResults,ansTenderResults_30.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False
+2026-08-31,ansContractPurchasedReserves,ansContractPurchasedReserves_31.08.2026.xlsx,8,False,"['DATE', 'MTU', 'INTERVAL', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER']",False
+2026-08-31,ansTenderResults,ansTenderResults_31.08.2026.xlsx,8,False,"['DATE', 'MTU', 'SERVICE', 'BMP', 'TENDER_NO', 'BID', 'DEMANDED POWER', 'ACCEPTED_POWER', 'AVERAGE PRICE']",False

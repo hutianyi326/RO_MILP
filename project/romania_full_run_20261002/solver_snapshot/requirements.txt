@@ -1,0 +1,4 @@
+# Tested with CPython 3.12. SciPy embeds the HiGHS MILP solver.
+numpy==2.4.6
+scipy==1.15.3
+tzdata==2026.4

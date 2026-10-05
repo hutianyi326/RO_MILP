@@ -1,0 +1,4016 @@
+{
+  "check_count": 802,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/activation_price_native_qh.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/afrr_disabled_hour_details.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/capacity_native_hourly.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/coverage_monthly.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/da_native_contracts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/dst_gap_recheck.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/fx_native_reference_rates.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/price_missing_in_scope.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/prices_qh_formal_20250101_20260831.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/prices_qh_observation_20260901.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/prior_snapshot_comparison.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/README.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/source_registry.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/source_rows_excluded.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/summary.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/system_activation_energy_native_qh.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release hash data/processed/RO/prices_v1_20261002/validation_checks.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR raw SHA BNR2024_BOUNDARY@c4397e7f9c31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-01-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-02-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-03-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-04-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-05-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-06-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-07-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-08-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-09-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-10-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-11-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2024-12-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR raw SHA BNR_FX_2025@afbdbadbc54a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-01-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-02-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-03-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-04-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-05-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-06-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-07-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-08-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-09-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-10-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-11-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2025-12-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR raw SHA BNR_FX_2026@9bb4cfc29e8f",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-01-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-02-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-03-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-04-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-05-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-06-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-07-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-05",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-08-31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-02",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-03",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-04",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-08",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR EUR multiplier 2026-09-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR dates unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "BNR rate positive",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prior fixing available all 609 days",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "fixing strictly before delivery day",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all rows FX matched 58364",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv unchanged local day",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior mapping fx_fixing_date",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior mapping fx_source_key",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior FX values",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "1.572398858155E-14"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "2.82460370080E-15"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "1.638500059146E-14"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "3.61624413330E-13"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv prior EUR afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv null preservation afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv sign preservation afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv reverse FX afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv Decimal cross-check afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "5.90986644702E-13"
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv no RON monetary price",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv DA untouched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv all physical flags source fields unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv row count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_qh_20250101_20260831.csv unique UTC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all rows FX matched 96",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv unchanged local day",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior mapping fx_fixing_date",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior mapping fx_source_key",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior FX values",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check fcr_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "8.46118738828E-15"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check afrr_up_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "1.475145475982E-15"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check afrr_down_capacity_price_eur_per_mw_h_proxy",
+      "passed": true,
+      "detail": "1.344312174343E-16"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check fcr_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check afrr_up_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "8.11356634846E-14"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv prior EUR afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv null preservation afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv sign preservation afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv reverse FX afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv Decimal cross-check afrr_down_activation_price_eur_per_mwh_proxy",
+      "passed": true,
+      "detail": "4.93477351386E-14"
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv no RON monetary price",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv DA untouched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv all physical flags source fields unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv row count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prices_eur_observation_20260901.csv unique UTC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "formal plus observation contiguous UTC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2025-03-30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2025-10-26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DST 2026-03-29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all rows FX matched 40219",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all rows FX matched 58460",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "native capacity EUR equals QH FCR",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "native capacity EUR equals QH aFRRUp",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "native capacity EUR equals QH aFRRDown",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "activation native EUR equals QH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source release immutable",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

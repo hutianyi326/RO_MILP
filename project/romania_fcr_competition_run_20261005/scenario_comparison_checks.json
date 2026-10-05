@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "only_config_difference": "FCR monthly share coefficient and provenance",
+  "afrr_unchanged": true,
+  "runtime_unchanged": true,
+  "numerical_fix": "Matrix row cancellation dust below 1e-12 set to zero; no budget/input change",
+  "final_run": "outputs/fcr_competition_100mw_200mwh_20261005/run_v2"
+}

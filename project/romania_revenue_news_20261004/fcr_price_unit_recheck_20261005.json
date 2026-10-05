@@ -1,0 +1,43 @@
+{
+  "access_date": "2026-10-05",
+  "status": "PASS",
+  "raw_sha256": "d7daa98073034c0a1b0396b5b155c4d3d6959e22e361a7cf4d7c36c63d3b742f",
+  "native_FCR_hours_Aug2026": 744,
+  "mapped_quarters": 2976,
+  "all_native_duration_hours": 1,
+  "quarters_per_hour": 4,
+  "maximum_FX_mapping_error": 0,
+  "first_raw_record": {
+    "timeInterval": {
+      "from": "2026-07-31T21:00:00.000Z",
+      "to": "2026-07-31T22:00:00.000Z"
+    },
+    "tenderDemand": 128,
+    "tenderSatisfiedDemand": 1.031,
+    "tenderPrice": null,
+    "averageOfferedPrice": null,
+    "averageAcceptedPrice": 347.5
+  },
+  "fx_RON_per_EUR": 5.2473,
+  "fx_date": "2026-07-31",
+  "EUR_per_MW_hour": 66.22453452251634,
+  "EUR_per_MW_quarter": 16.556133630629084,
+  "40MW_quarter_cash_EUR": 662.2453452251634,
+  "40MW_hour_cash_EUR": 2648.9813809006537,
+  "two_day_price_range_EUR_per_MW_hour": [
+    60.030873020410496,
+    66.22453452251634
+  ],
+  "rule_evidence": {
+    "institution": "Transelectrica",
+    "procurement": "TEL04.01 Ed I Rev1 November2024, Depunerea ofertelor: offer price lei/hMW",
+    "monthly_report": "2025-08 STS report PDF p12 (printed11), FCR/RSF hourly table lei/hMW; public report arithmetic average vs monthly quantity-weighted table",
+    "URLs": [
+      "https://www.transelectrica.ro/documents/10179/147121/PO+RSF+2024/b683cd41-6fa4-4401-a9d4-9ac2697de556?version=1.0",
+      "https://www.transelectrica.ro/documents/10179/18723178/2025-08-STS-Raport.pdf/1c2cc5bf-e0f5-48ff-bc12-2019c164623c"
+    ]
+  },
+  "interpretation": "Hourly capacity unit rate copied unchanged to four quarters; capacity cash multiplies 0.25h exactly once; no factor-four price or cash error detected.",
+  "remaining_assumption": "DAMAS averageAcceptedPrice used as station pay-as-bid remuneration proxy; exact field population/weight definition not fully established; not station settlement proof.",
+  "code_modified": false
+}

@@ -1,0 +1,94 @@
+{
+  "research_date": "2026-10-04",
+  "source_retrieval_utc": "2026-10-05T04:04:30.605454+00:00",
+  "scope": "Public 2026 Romanian standalone BESS revenue news and third-party estimates; no production model changes",
+  "sources": [
+    {
+      "organisation": "DNV",
+      "title": "Why Romania is emerging as a prime battery storage market in Europe",
+      "publication_date": "2026-02-16",
+      "url": "https://www.dnv.com/article/why-romania-is-emerging-as-a-prime-battery-storage-market-in-europe/",
+      "location": "BESS revenue assessment and conclusion",
+      "duration_h": 2,
+      "sample_period": "2025",
+      "monthly_annualised_range_kEUR_per_MW_year": [
+        120,
+        180
+      ]
+    },
+    {
+      "organisation": "Photon Energy",
+      "title": "BESS Monthly Financial Analysis February 2026",
+      "publication_date": "Not independently established; report period February 2026",
+      "url": "https://www.photonenergy.com/uploads/photon-energy/global/bess/white-paper/photon-energy-bess-financial-analysis-feb-2026.pdf",
+      "location": "page 3 Romania 1 MW/2 MWh; page 2 assumptions",
+      "streams": "DA+aFRR; excludes FCR",
+      "monthly_components_eur_per_MW": [
+        3237.1,
+        1967.4,
+        1412.5,
+        2417.7,
+        2428.2
+      ],
+      "monthly_total_eur_per_MW": 11462.9,
+      "annualisation_formula": "sum(components)*365/28/1000",
+      "annualised_kEUR_per_MW_year": 149.4270892857143,
+      "note": "Sum DAM within optimisation, not standalone DAM-only row. Activation includes recovery cash as footnote."
+    },
+    {
+      "organisation": "Clean Horizon",
+      "title": "Storage Index and January 2026 methodology update",
+      "url": "https://www.cleanhorizon.com/battery-index/",
+      "location": "Romanian chart data plus methodology; original official HTML acquired earlier on same research date",
+      "local_chart_source": "RO_MILP\\project\\romania_external_benchmark_20261004\\sources\\ch_method.html",
+      "local_chart_source_sha256": "73138e79d8c1f448a94b9445c93fb0efe10920695343bd9ef0d739feda496760",
+      "sample_period": "2026-01 to 2026-08",
+      "two_hour_range": [
+        178,
+        367
+      ],
+      "four_hour_range": [
+        246,
+        469
+      ],
+      "note": "Monthly revenue annualised by days in month, not realised annual revenue or rolling 12 months."
+    },
+    {
+      "organisation": "ENTSO-E",
+      "title": "Market Report 2026",
+      "publication_date": "2026-06-29",
+      "url": "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Reports/2026/260629_ENTSO-E_Market_Report.pdf",
+      "location": "page 15, Value of Storage, Figure 2.4",
+      "value_for_RO": 792,
+      "method": "8 lowest-price charging hours and 8 highest-price discharging hours; DA-only indicator, 2025-06-01 to 2026-06-01",
+      "unit_issue": "Body uses EUR/MW/day; figure labels EUR/kW. Not resolved, not treated as 2h BESS revenue. News annualises as 792*365/1000=289.08 kEUR/MW/year."
+    }
+  ],
+  "current_model_comparison_same_month": {
+    "2026-02_annualised_kEUR_per_MW": 399.69863709105357,
+    "2026-08_annualised_kEUR_per_MW": 381.8704698827742,
+    "CH_2026-08": 178,
+    "note": "Model is conditional ex-post cash, Photon excludes FCR, CH average-MW and partially forecast inputs; not fully method-matched."
+  },
+  "discarded_as_primary": [
+    "GreenLead repeats DNV/Aurora without exact underlying sources, and asserts uncompensated FCR contrary to DNV/CH descriptions; not an independent benchmark.",
+    "Aurora current Romania landing page did not disclose a numerical EUR/MW/year range."
+  ],
+  "checks": [
+    "DNV original page date/sample/range read",
+    "Photon page3 visually checked; summed 5 optimisation rows and applied 365/28",
+    "CH original HTML chart arrays parsed; eight months agree with user CSV",
+    "ENTSO-E page15 visually checked; 8-hour method and unit inconsistency verified"
+  ],
+  "open_questions": [
+    "Third-party exact qualification, allocation and forecasting algorithms",
+    "ENTSO-E figure unit inconsistency",
+    "No comparable project-level audited realised full-year 2026 standalone revenue found in this search"
+  ],
+  "official_market_rule_changes": false,
+  "independent_agent_review": false,
+  "downloaded_pdf_sha256": {
+    "ENTSO-E_Market_Report_2026.pdf": "30333d11824fe3aeee9f1e7840b6e4d7a97858677f8286f0c6142e27e0a84c31",
+    "Photon_Energy_BESS_February_2026.pdf": "c036f2446d4a0ced0aa7e01696a984aba01e658fa25851de195fce52e65916f4"
+  }
+}

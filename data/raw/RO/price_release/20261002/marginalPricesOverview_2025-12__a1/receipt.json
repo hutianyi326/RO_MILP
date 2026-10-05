@@ -1,0 +1,28 @@
+{
+  "id": "marginalPricesOverview_2025-12",
+  "report": "marginalPricesOverview",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "parameters": {
+    "timeInterval.from": "2025-11-30T22:00:00Z",
+    "timeInterval.to": "2025-12-31T22:00:00Z",
+    "pageInfo.pageSize": 3000,
+    "pageInfo.pageIndex": 0
+  },
+  "publisher": "Transelectrica",
+  "requested_start_utc": "2025-11-30T22:00:00Z",
+  "requested_end_utc": "2025-12-31T22:00:00Z",
+  "scope": "formal",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T11:37:09.372236+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/marginalPricesOverview?timeInterval.from=2025-11-30T22%3A00%3A00Z&timeInterval.to=2025-12-31T22%3A00%3A00Z&pageInfo.pageSize=3000&pageInfo.pageIndex=0",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/price_release/20261002/marginalPricesOverview_2025-12__a1/original.json",
+  "sha256": "48cde9e2b1cb0b03967edfe70f2b1cf063ba5e264f530d3e4137e7937f52f171",
+  "bytes": 951969,
+  "detected_format": "json"
+}

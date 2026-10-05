@@ -1,0 +1,60 @@
+{
+  "access_date": "2026-10-05",
+  "scope": "Read-only FCR bid ranking, indivisibility, aggregate portfolio bids and low-price implications; no model changes",
+  "official_sources": [
+    {
+      "institution": "ANRE / Romanian Ministry of Justice legislative portal",
+      "title": "Regulament din 8 decembrie 2021 privind clauzele si conditiile pentru furnizorii de servicii de echilibrare si pentru furnizorii de rezerva de stabilizare a frecventei",
+      "version": "Retrieved portal version 2024-06-01, reflecting Order 18/2024; not represented as proof of every subsequent amendment",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/282874",
+      "location": "Articles 210, 212, 213(a-c), 214",
+      "verified_facts": [
+        "FCR offers are aggregated across a provider's UFR/GFR portfolio.",
+        "Offers exceeding the provider's total qualified capacity are rejected.",
+        "Valid offers are sorted ascending by price, with equal prices sorted chronologically.",
+        "The final offer completing required FCR capacity can only be fully accepted; total procurement may exceed the minimum requirement.",
+        "Each accepted offer is paid its own accepted bid price."
+      ]
+    },
+    {
+      "institution": "Transelectrica",
+      "title": "Achizitia prin licitatie a rezervei pentru stabilizarea frecventei, TEL 04.01, Edition I Revision 1",
+      "document_date": "Cover November 2024; archive member filename 09 10 2024; exact deployment date not independently established",
+      "url": "https://www.transelectrica.ro/documents/10179/147121/PO+RSF+2024/b683cd41-6fa4-4401-a9d4-9ac2697de556?version=1.0",
+      "location": "Section 8: Depunerea ofertelor; Validarea si selectarea; Determinarea pretului de inchidere",
+      "verified_facts": [
+        "At most 10 quantity-price pairs per delivery interval, aggregated across qualified UFR/GFR.",
+        "Offered quantity must not exceed the published requirement.",
+        "Capacity is quoted per direction with equal up/down reserve, and prices in lei/hMW.",
+        "Ranking and pay-as-bid provisions agree with amended Articles 213-214."
+      ],
+      "inspection": "Live URL confirmed RAR content type; read previously downloaded immutable original archive member and its derived text",
+      "local_text": "project/romania_official_rules_20260930/extracted/E66.txt",
+      "original_sha256": "72bd8f85e06d17da5c6469b8637f73b7b1c91f2fed4564923dce38a7a34c1fc0",
+      "member_sha256": "4ea930d9d47692e220db30daf25a305fa886b20faad0917928c2e96eab38d1f6"
+    }
+  ],
+  "interpretations": [
+    "A valid 100 MW aggregate bid need not be prohibited solely because total requirement is 128 MW. Qualification, actual published tender quantity and deliverability remain prerequisites.",
+    "Lower compliant bid prices improve rank but also reduce the capacity remuneration received; low-price priority and historical system-average payment cannot be assumed simultaneously.",
+    "Indivisibility of an individual bid does not mean all bids of a 100 MW portfolio must win together. Several quantity-price pairs may produce a partially awarded portfolio.",
+    "If cheaper accepted bids have already fully met requirement, later bids are not accepted. If a positive gap remains, the marginal indivisible bid is accepted whole rather than automatically rejected for exceeding the remaining gap.",
+    "The existing 40 MW / 31.25 percent project cap is a research assumption, not an official supplier-share limit."
+  ],
+  "illustrative_assumptions": [
+    "Demand 128 MW, cheaper bids 50 MW, valid marginal offer 100 MW: the whole offer fills the gap and aggregate procurement becomes 150 MW under the stated rule.",
+    "Bid price equivalent to EUR 1/MW/h and awarded capacity 100 MW: capacity cash EUR 100/h, before costs and performance adjustments. This is an illustrative converted price, not a verified market quote or price-bound claim."
+  ],
+  "unresolved": [
+    "Actual certification of this hypothetical 100 MW storage project and treatment of multiple UFR at a common connection point; model's five 20 MW research units do not establish real qualification.",
+    "Every post-2024 amendment and live tender validation detail were not exhaustively audited in this answer.",
+    "Current model does not reconstruct bid prices and competing offers or auction outcomes."
+  ],
+  "checks": [
+    "Official portal Articles 210-214 read directly online.",
+    "Previously archived TSO procurement procedure inspected for ten-pair, qualification, published-quantity, ranking and payment provisions.",
+    "Existing project rule register and model assumptions cross-checked."
+  ],
+  "code_modified": false,
+  "independent_agent_review": false
+}

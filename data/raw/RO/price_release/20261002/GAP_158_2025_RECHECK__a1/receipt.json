@@ -1,0 +1,20 @@
+{
+  "id": "GAP_158_2025_RECHECK",
+  "report": "tenderStatisticsDetail",
+  "publisher": "Transelectrica",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=158_2025",
+  "scope": "gap_recheck_only",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T11:45:07.751666+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/tenderStatisticsDetail?tenderCode=158_2025",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/price_release/20261002/GAP_158_2025_RECHECK__a1/original.json",
+  "sha256": "4b015e7f89e911b75606f3fc6abb2f6b61ce1d8de2db0c082d83b956eaf07e61",
+  "bytes": 5562,
+  "detected_format": "json"
+}

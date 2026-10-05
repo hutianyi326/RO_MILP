@@ -1,0 +1,37 @@
+{
+  "formal_start_local": "2025-01-01T00:00:00+02:00",
+  "formal_end_exclusive_local": "2026-09-01T00:00:00+03:00",
+  "formal_qh": 58364,
+  "formal_days": 608,
+  "observation_qh": 96,
+  "raw_sources": 682,
+  "numeric_qh": {
+    "da_price_eur_per_mwh": 58364,
+    "fcr_capacity_price_ron_per_mw_h_candidate": 43292,
+    "afrr_up_capacity_price_ron_per_mw_h_candidate": 58360,
+    "afrr_down_capacity_price_ron_per_mw_h_candidate": 58360,
+    "afrr_up_activation_price_ron_per_mwh_candidate": 58363,
+    "afrr_down_activation_price_ron_per_mwh_candidate": 58363,
+    "fcr_activation_price_ron_per_mwh_candidate": 0
+  },
+  "alpha_uncomputable_qh": 50,
+  "alpha_exceeds_one_qh": 1739,
+  "afrr_price_missing_qh": 5,
+  "afrr_raw_invalid_qh": 1789,
+  "afrr_disabled_qh": 4864,
+  "afrr_disabled_hours": 1216,
+  "afrr_enabled_hours": 13375,
+  "fcr_enabled_hours": 10823,
+  "observation_afrr_enabled_hours": 22,
+  "observation_numeric_qh": {
+    "da_price_eur_per_mwh": 96,
+    "fcr_capacity_price_ron_per_mw_h_candidate": 96,
+    "afrr_up_capacity_price_ron_per_mw_h_candidate": 96,
+    "afrr_down_capacity_price_ron_per_mw_h_candidate": 96,
+    "afrr_up_activation_price_ron_per_mwh_candidate": 96,
+    "afrr_down_activation_price_ron_per_mwh_candidate": 96,
+    "fcr_activation_price_ron_per_mwh_candidate": 0
+  },
+  "exclusions": 5,
+  "checks_passed": 158621
+}

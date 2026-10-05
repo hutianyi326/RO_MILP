@@ -1,0 +1,36 @@
+[
+  {
+    "name": "contracted_FCR_v2",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A81",
+      "processType": "A52",
+      "type_MarketAgreement.type": "A01",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "contracted_FCR_v2.xml",
+    "bytes": 855,
+    "sha256": "4422f5e3925b1fdb3bbe543dc999afcc26993a70936a7b403f528a8736872db5"
+  },
+  {
+    "name": "contracted_aFRR_v2",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A81",
+      "processType": "A51",
+      "type_MarketAgreement.type": "A01",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "contracted_aFRR_v2.xml",
+    "bytes": 855,
+    "sha256": "5163501cea81385eb8c4d5c7dd825d2323044401d0b0cd38d857143ed3931c7a"
+  }
+]

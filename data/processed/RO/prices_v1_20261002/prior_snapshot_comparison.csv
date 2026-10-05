@@ -1,0 +1,5 @@
+﻿dataset,field,compared_rows,differences
+DA,price_eur_mwh,38712,0
+capacity,average_accepted_price_LEI_denominator_unknown,40147,0
+capacity,demand_mw,40147,0
+capacity,satisfied_ratio,40147,0

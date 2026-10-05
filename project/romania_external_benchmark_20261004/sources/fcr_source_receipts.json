@@ -1,0 +1,30 @@
+[
+  {
+    "file": "fcr_demand_20260831.xls",
+    "url": "https://www.transelectrica.ro/documents/10179/23693070/Licitatie+Luni+31.08.2026.xls/cda64e12-2a62-4b55-a239-dddb8976f27a",
+    "bytes": 60928,
+    "sha256": "03bc809d5767d329e71c02150db3ca793d8698c9570ac3680d76b69c39277d76",
+    "access_utc": "2026-10-04T12:33:02.453669+00:00"
+  },
+  {
+    "file": "fcr_demand_20260701.xls",
+    "url": "https://www.transelectrica.ro/documents/10179/22994556/Licitatie+Miercuri+01.07.2026.xls/348b33fb-592d-4e57-9dd4-43f495005a53",
+    "bytes": 60928,
+    "sha256": "63f08795963314fc25536ab5493ed54fad76ac258d52f94a87161a92086f694a",
+    "access_utc": "2026-10-04T12:33:02.700766+00:00"
+  },
+  {
+    "file": "fcr_results_20260831.xlsx",
+    "url": "https://www.transelectrica.ro/documents/10179/23693070/ansTenderResults_31.08.2026.xlsx/9ee778dd-9dfd-412c-8e48-5f0662a89774",
+    "bytes": 15968,
+    "sha256": "b81eabeaeb30897de4312b08ccd3628648f1319e13e59f18705071b74154ab40",
+    "access_utc": "2026-10-04T12:33:01.572915+00:00"
+  },
+  {
+    "file": "fcr_purchased_20260831.xlsx",
+    "url": "https://www.transelectrica.ro/documents/10179/23693070/ansContractPurchasedReserves_31.08.2026.xlsx/3f4f16fe-98e3-42da-95c6-529266cbf603",
+    "bytes": 57815,
+    "sha256": "149b876124d9a4dfc7c0a062f0463f25f2a23bca7da66e13527565926ed6f4f2",
+    "access_utc": "2026-10-04T12:33:02.731215+00:00"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "status": "PASS_FOR_AVAILABLE_SAMPLE_ONLY",
+  "supplier_hour_rows": 233100,
+  "supplier_day_rows": 9713,
+  "market_hour_rows": 31871,
+  "monthly_rows": 20,
+  "direct_FCR_months": 9,
+  "direct_aFRR_months": 16,
+  "pending_source_files": 194,
+  "full_period_complete": false,
+  "checks": [
+    "CSV totals independently recomputed",
+    "share ratios independently recomputed",
+    "direct monthly P90 and peer medians recomputed from hourly data",
+    "proxy reference values verified",
+    "August 2026 baseline reproduced",
+    "unique UTC/product keys",
+    "scripts parse and Markdown control characters checked"
+  ]
+}

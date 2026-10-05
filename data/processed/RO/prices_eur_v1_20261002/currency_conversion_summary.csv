@@ -1,0 +1,15 @@
+﻿file,field,currency,unit,rows,numeric,missing,zero,negative,minimum,maximum
+prices_eur_qh_20250101_20260831.csv,da_price_eur_per_mwh,EUR,EUR/MWh,58364,58364,0,883,1423,-100.63,1015.65
+prices_eur_qh_20250101_20260831.csv,fcr_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),58364,43292,15072,0,0,60.013717421124824,73.70545519301926
+prices_eur_qh_20250101_20260831.csv,afrr_up_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),58364,58360,4,0,0,2.686019681700751,14.586221445361943
+prices_eur_qh_20250101_20260831.csv,afrr_down_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),58364,58360,4,0,0,0.15757337010045303,64.62678916446514
+prices_eur_qh_20250101_20260831.csv,fcr_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,58364,0,58364,0,0,,
+prices_eur_qh_20250101_20260831.csv,afrr_up_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,58364,58363,1,16173,3,-236.19098324426406,10993.154334199664
+prices_eur_qh_20250101_20260831.csv,afrr_down_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,58364,58363,1,13333,8963,-1607.5949367088606,8977.466611755015
+prices_eur_observation_20260901.csv,da_price_eur_per_mwh,EUR,EUR/MWh,96,96,0,0,0,71.29,289.67
+prices_eur_observation_20260901.csv,fcr_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),96,96,0,0,0,65.92439052219221,65.92439052219221
+prices_eur_observation_20260901.csv,afrr_up_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),96,96,0,0,0,6.619632601833188,7.12166736393717
+prices_eur_observation_20260901.csv,afrr_down_capacity_price_eur_per_mw_h_proxy,EUR,EUR/(MW*h),96,96,0,0,0,0.17495150800593312,0.8481344844635453
+prices_eur_observation_20260901.csv,fcr_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,96,0,96,0,0,,
+prices_eur_observation_20260901.csv,afrr_up_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,96,96,0,13,0,0.0,1089.2836496405887
+prices_eur_observation_20260901.csv,afrr_down_activation_price_eur_per_mwh_proxy,EUR,EUR/MWh,96,96,0,31,6,-1171.4292777545354,95.08234130757235

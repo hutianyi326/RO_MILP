@@ -1,0 +1,20 @@
+{
+  "id": "activatedBalancingEnergyOverview_META",
+  "report": "activatedBalancingEnergyOverview_metadata",
+  "url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+  "publisher": "Transelectrica",
+  "scope": "metadata",
+  "attempt": 1,
+  "method": "GET",
+  "retrieved_utc": "2026-10-02T11:37:18.837190+00:00",
+  "status": "HTTP_OK_UNPARSED",
+  "publication_time": null,
+  "revision_time": null,
+  "http_status": 200,
+  "resolved_url": "https://newmarkets.transelectrica.ro/usy-durom-publicreportg01/00121002500000000000000000000100/publicReport/metadata/get?reportCode=activatedBalancingEnergyOverview",
+  "content_type": "application/json; charset=utf-8",
+  "raw_file": "data/raw/RO/price_release/20261002/activatedBalancingEnergyOverview_META__a1/original.json",
+  "sha256": "4bc4e4fea6179553686432df651c0b995c1019c3c824ba110e4ed0a9c80366d8",
+  "bytes": 241,
+  "detected_format": "json"
+}

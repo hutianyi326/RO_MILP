@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.cleanhorizon.com/battery-index/",
+    "file": "ch_method.html",
+    "sha256": "73138e79d8c1f448a94b9445c93fb0efe10920695343bd9ef0d739feda496760",
+    "access_utc": "2026-10-04T12:20:49.572110+00:00"
+  },
+  {
+    "url": "https://www.cleanhorizon.com/news/major-update-to-our-storage-index-methodology/",
+    "file": "ch_update.html",
+    "sha256": "d348004590b8639939387f980be770e203c1650a408d51b7efd86f1a8db27956",
+    "access_utc": "2026-10-04T12:20:50.998780+00:00"
+  },
+  {
+    "url": "https://www.cleanhorizon.com/news/storage-index-august-2026-is-out/",
+    "file": "ch_august.html",
+    "sha256": "fbec7ae8d583e72e21e05cf92b7951af278fab05fa50b5e9f3f3da76d322bfc3",
+    "access_utc": "2026-10-04T12:20:53.426857+00:00"
+  },
+  {
+    "url": "https://www.dnv.com/article/why-romania-is-emerging-as-a-prime-battery-storage-market-in-europe/",
+    "file": "dnv.html",
+    "sha256": "f3ed68d0f91113a1f00da0944048802556caa01f440293c2dfd6e1ebc6dfb5b8",
+    "access_utc": "2026-10-04T12:20:55.033825+00:00"
+  },
+  {
+    "url": "https://voltcast.com/indices/bess",
+    "file": "voltcast.html",
+    "sha256": "6651ddd618e27a45f34d712cab447a2167f363ddd28021d3f291f5e07e1a2b8e",
+    "access_utc": "2026-10-04T12:20:56.227846+00:00"
+  },
+  {
+    "url": "https://voltcast.com/indices/bess",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

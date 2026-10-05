@@ -1,0 +1,98 @@
+[
+  {
+    "name": "bids_FCR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A15",
+      "processType": "A52",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 200,
+    "content_type": "application/zip",
+    "file": "bids_FCR.zip",
+    "bytes": 986,
+    "sha256": "f058a5204e5e80ee6c13b3e992eb9b9d63b4fc325834f59b477f38c3d4dd8498"
+  },
+  {
+    "name": "bids_aFRR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A15",
+      "processType": "A51",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 200,
+    "content_type": "application/zip",
+    "file": "bids_aFRR.zip",
+    "bytes": 2293,
+    "sha256": "79c668a47853832a00e6329071f08b19d991f5ee609396c7ab45499416abadd2"
+  },
+  {
+    "name": "contracted_FCR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A81",
+      "businessType": "A95",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "contracted_FCR.xml",
+    "bytes": 868,
+    "sha256": "41840f4165d4f8da1f2d70b4a72956480e2e4f68bed0b9031d2d113de6f54318"
+  },
+  {
+    "name": "contracted_aFRR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A81",
+      "businessType": "A96",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "contracted_aFRR.xml",
+    "bytes": 868,
+    "sha256": "1b5429e581270d89a784c26bd4fa0cce34127a225b26762d353978dd5001e515"
+  },
+  {
+    "name": "prices_FCR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A89",
+      "businessType": "A95",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "prices_FCR.xml",
+    "bytes": 951,
+    "sha256": "92fc2358d55018d368b5b5efe1f3d2960e0f38d6d08d41164a23b03811deb137"
+  },
+  {
+    "name": "prices_aFRR",
+    "endpoint": "https://web-api.tp.entsoe.eu/api",
+    "params": {
+      "documentType": "A89",
+      "businessType": "A96",
+      "area_Domain": "10YRO-TEL------P",
+      "periodStart": "202608302100",
+      "periodEnd": "202608312100"
+    },
+    "status": 400,
+    "content_type": "text/xml",
+    "file": "prices_aFRR.xml",
+    "bytes": 951,
+    "sha256": "fd20b43c57f2f9ccb8880a90461e1ef321ff6c9babb8575eea7c5e7301c459b2"
+  }
+]

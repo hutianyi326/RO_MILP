@@ -1,0 +1,45 @@
+{
+  "FCR": {
+    "hours": 24,
+    "bid_series": 3,
+    "mean_contracted_mw": 115.75,
+    "mean_published_offer_mw": 115.75,
+    "min_published_offer_mw": 95.0,
+    "max_published_offer_mw": 133.0,
+    "ratio_of_summed_contracted_to_published_offers": 1.0,
+    "max_quantity_error_mw": 0.0,
+    "max_existing_proxy_error_mw": 0.12000000000000455,
+    "max_price_difference_ron": 0.0,
+    "entsoe_time_mean_price_ron": 346.67,
+    "damas_daily_award_weighted_price_ron": 338.75809935205183
+  },
+  "aFRRUp": {
+    "hours": 24,
+    "bid_series": 10,
+    "mean_contracted_mw": 175.0,
+    "mean_published_offer_mw": 231.08333333333334,
+    "min_published_offer_mw": 208.0,
+    "max_published_offer_mw": 305.0,
+    "ratio_of_summed_contracted_to_published_offers": 0.7573025604038947,
+    "max_quantity_error_mw": 0.0,
+    "max_existing_proxy_error_mw": 0.0,
+    "max_price_difference_ron": 0.0,
+    "entsoe_time_mean_price_ron": 36.11666666666667,
+    "damas_daily_award_weighted_price_ron": 36.83856190476191
+  },
+  "aFRRDown": {
+    "hours": 24,
+    "bid_series": 8,
+    "mean_contracted_mw": 175.0,
+    "mean_published_offer_mw": 260.5416666666667,
+    "min_published_offer_mw": 186.0,
+    "max_published_offer_mw": 292.0,
+    "ratio_of_summed_contracted_to_published_offers": 0.6716775947545178,
+    "max_quantity_error_mw": 0.0,
+    "max_existing_proxy_error_mw": 0.0,
+    "max_price_difference_ron": 4.440892098500626e-16,
+    "entsoe_time_mean_price_ron": 2.0716666666666668,
+    "damas_daily_award_weighted_price_ron": 2.1802357142857147
+  },
+  "checks": "PASS: A03 expansion; 504 bid-hours and 72 contracted hours; API exactly matches all UI values; 72/72 volumes equal DAMAS supplier sums; daily supplier totals reconcile; local day/UTC/FX join complete. API prices are themselves rounded to 2 decimals."
+}

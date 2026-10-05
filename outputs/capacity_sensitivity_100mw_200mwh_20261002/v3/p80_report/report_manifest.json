@@ -1,0 +1,91 @@
+{
+  "report_version": "RO 1.0 / ES presentation baseline v1 adapted",
+  "created_utc": "2026-10-02T16:22:33.027254+00:00",
+  "run_dir": "C:\\Users\\Tianyi\\OneDrive\\融和元储工作\\模型等其他参考资料\\Python\\Counry_Investigation\\RO_MILP\\outputs\\capacity_sensitivity_100mw_200mwh_20261002\\v3\\p80_run",
+  "input_sha256": "beec3a95ba960aa97ab8cb01066f8457daa2cec5c96b70722b9519e6518efda8",
+  "code_sha256": "2969cf17cafc9263f4f38ce0d9e007c522cca8d004966595e75eef94cb50323a",
+  "report_script_sha256": "db7a7cc89f2a1e135833d50bf1e4d0280f1a11312223840d4ce939b33958b492",
+  "reference_commit": "70651210d0ad98ac820644754508f76363d2c799",
+  "reference_files": {
+    "build_es_full_result_analysis_20260921.py": "65278ad87e62e09c916f36d25223ea2416e497558d88a32b2a7fad2921f24901",
+    "build_es_result_presentation.py": "6b18dc5c55150075fd3f4f9eaa02bb94f23087446358a0aad4fc4386bce890cf"
+  },
+  "run_manifest_sha256": "18140a1a299b6441e62cebdd2bca90dc9815ee2ee52ff750d2fbb1a935c2258c",
+  "full_validation_sha256": "d0407b7c618821b3a94f5dd40954ee751ed389c9db31a1639546639b48521cf8",
+  "run_files": {
+    "executed_qh.csv": "6d4c89e375e902a2819d2e150d47286c3bbd5f0a0939d2f009bc33a31115310b",
+    "executed_phases.csv": "ee9e5d1f3faea36163ac442854183a94a7cc09becac07e5b421c2e4abf180385",
+    "summary.json": "5d934cb4b3a5003cf70a56cd0cfc9e1c71320a25624864db848e0a2ca1987952",
+    "window_metrics.csv": "d7a1e1c4962a6d44f690e93fa345e5d986b7d57dbbb5caf9c0117d4cd422bdbc"
+  },
+  "last_transaction_sha256": "e2dcdb81c957eaec021fdffac8c1877d3457f7f252ae49860928eefd71415444",
+  "config": {
+    "daily_p": {},
+    "fcr_unit_caps": [],
+    "formulation": "compact",
+    "hours": 2,
+    "market": "DA+aFRR+FCR",
+    "mip_rel_gap": 0.0001,
+    "p_down": 0.8,
+    "p_fcr": 0.8,
+    "p_up": 0.8,
+    "power_mw": 100.0,
+    "presolve": true,
+    "qualification_down_mw": null,
+    "qualification_fcr_mw": null,
+    "qualification_up_mw": null,
+    "time_limit": 30.0
+  },
+  "formal_start": "2024-12-31T22:00:00Z",
+  "formal_end": "2026-08-31T21:00:00Z",
+  "total_eur": 124114052.69825959,
+  "total_efc": 858.8464649011962,
+  "cash_coverage": 1.0,
+  "market_data_coverage": {
+    "afrr_valid_qh": 53500,
+    "da_valid_qh": 58364,
+    "fcr_valid_qh": 43292,
+    "initial_no_prior_qh": 96
+  },
+  "solver_seconds": 152.25417729804758,
+  "solver_status_counts": {
+    "0": 608
+  },
+  "max_objective_gap": 9.778302237161638e-05,
+  "runtime": {
+    "python": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.1"
+  },
+  "files": {
+    "annual.csv": "50bd4b2f48434aff49084d626f30f2f6a00f7bacfe354ed658c2850fe752bea0",
+    "daily.csv": "f5755003037001aa77076023c9f264bc41d97a9773d6e6921ede24edcd12ad7d",
+    "hourly.csv": "86c1085026e99b4b7805de23adb986b46d9e1c3102f539e8d5f32f42a73afb46",
+    "hourly_average_kEUR_per_MW.png": "dc2e5a49783ade2b5aeb9a6b04a23ce302c045abdec7c60f880501eeecee33c5",
+    "hourly_average_kEUR_per_MW.svg": "b37dbca0dd35492373eb9f43f9dc7129dcc3d20fc0846b20bbee7498b953a032",
+    "market_totals.csv": "8e267d3404d23ab6fc8f19a046c08b57ef50416646242a91fb8066a2676e99d7",
+    "monthly.csv": "6ab7bc95d35ba78a546e38bbbc406b3c0016d13d286610bce9416e7cf5949fa0",
+    "monthly_hourly_heatmap.csv": "68d4e3110950edac7d4dd5f2f70411dcdcfd9264ce20c54795d9149d45ef5fed",
+    "monthly_hourly_heatmap_kEUR_per_MW.png": "29a5e24dcb9a45d5c01da65ff2652825fca15fc90048e4dc5ef68bdb13164246",
+    "monthly_hourly_heatmap_kEUR_per_MW.svg": "6f4569c79deda04024d81c6d8c3d3c00653877f7835b070ef88c38fdbd33a2a1",
+    "monthly_market_shares.csv": "d3056f996634ac8fbdb067f637ed4a9afd0777c74fc32abcf59eeef96b6e27a0",
+    "monthly_revenue_kEUR.png": "cc05aa0c994fa4985c3857ecaa88494e9d4d5c673896ae29c8e9acf983671970",
+    "monthly_revenue_kEUR.svg": "fba232422eb3a80016edc2203ff5be904bd5be0a9eaedf91cbaef0ad1e776c46",
+    "monthly_revenue_kEUR_per_MW.png": "476fd175fcd76e86957302294f3e0131c1babb858f15a504fa83b87a33664ab9",
+    "monthly_revenue_kEUR_per_MW.svg": "9a04cbd0704d387b7565d1e18468f5a5c7c48f5f4552602134fc90f21b59e870",
+    "q1_hourly_average_kEUR_per_MW.png": "f5e6ab2a0bffbc61f72da8b7fb178cb7f98cdfc11c09bc91d4e10ff1c268ba52",
+    "q1_hourly_average_kEUR_per_MW.svg": "966d1f114d06328f4b2761ea78b1ecc651ce7dc5504bdbbe9db2db6ec9246ad4",
+    "q2_hourly_average_kEUR_per_MW.png": "4baaf1a7ebbaca4ff09827f928498f7e55a00ec1597575d1fe28906b84afc07d",
+    "q2_hourly_average_kEUR_per_MW.svg": "21343fcbc7fdf47d48ef7d091c13a7afb27bf42cdd15b63665cb470702d03ff2",
+    "q3_hourly_average_kEUR_per_MW.png": "74106637f596670f2fbf4ea6adfdffa26f2920bf9a935d758cfeea258234dce6",
+    "q3_hourly_average_kEUR_per_MW.svg": "06b14ea0971df8d4eb382b99be760e14de77569f41874ec9bfcb5a7af1371357",
+    "q4_hourly_average_kEUR_per_MW.png": "25b7fb9a04f2ac89a6fc346245d69b223e318d20e0357d0a2322cbd0ac57c273",
+    "q4_hourly_average_kEUR_per_MW.svg": "1c5eaf9d0599cda5f3d7663563717f4cb5fa07f255bec16227ac8f32a636d4b8",
+    "quarterly_hourly.csv": "d57ca1369e3a07b98439a969810d944fa877bb34f5df45be0cafac93daef6866",
+    "rolling_12m.csv": "74d170e1293facadb403aaf19aa436dd84e6b5422dabfcefc210022b7830fa2c",
+    "rolling_12m_revenue_kEUR_per_MW.png": "816048cb46adde705fe0c70c080a1d0711c21cdef9bf07334bc173f24bcf3958",
+    "rolling_12m_revenue_kEUR_per_MW.svg": "30c38c2f9d13b80dc476fc66f70f51383a43ec442a7b031e5cffe4b9823e9e60",
+    "visual_check.png": "90af9cf5b14629b6f78be660dcc2c58d147d5bba737925347747eb4b37ae9029",
+    "结果展示.md": "65270e2febfeb499b731a6baca71a1c70b838636d2157a571bf778d8d71927ce"
+  }
+}

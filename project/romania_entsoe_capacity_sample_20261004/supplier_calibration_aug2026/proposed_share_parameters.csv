@@ -1,0 +1,3 @@
+﻿parameter,value,reference_demand_mw,cap_mw,basis
+fcr_market_share_cap,0.3125,128,40.0,PETROM hourly share P90; non-leading full-month incumbent peer selected as modeling assumption
+afrr_market_share_cap,0.13714285714285715,175,24.0,Minimum of directional medians of supplier hourly share P90; full-month reported positive-award suppliers only

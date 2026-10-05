@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "reviewer": "/root/capacity_income_removal_review",
+  "reviewer_model": "gpt-6-astra",
+  "reviewer_effort": "medium",
+  "open_findings": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 0
+  },
+  "code_sha256": "fcc1efda3bd2458daafba581b0894741497405235d98ec79e9bf6f7fa20aca5b",
+  "run_manifest_sha256": "df609d3577b19605678950ce704142fa58a24a94609538569162dbfb05464782",
+  "full_period_recalculated": true,
+  "formal_qh": 58364,
+  "windows": 608,
+  "total_eur": 76930372.2078421,
+  "full_validation_sha256": "14243216a30b51027dff57dcc3ab03a7373a61905628e236167b1fa8318917f9",
+  "presentation_validation_sha256": "30af65cdfaffd8b9f506066fb981c4cbf61c829c944f3da7f0093e73fe212f02"
+}

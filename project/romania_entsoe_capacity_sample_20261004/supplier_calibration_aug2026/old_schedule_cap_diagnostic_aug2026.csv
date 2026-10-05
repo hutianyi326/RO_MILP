@@ -1,0 +1,4 @@
+﻿product,old_mean_awarded_mw,old_max_mw,old_mean_share_of_demand,proposed_cap_mw,old_schedule_exceeds_cap_hours,exceed_fraction,mean_excess_mw,note
+FCR,80.44086021505376,100.0,0.6284442204301075,40.0,631.0,0.8481182795698925,46.083333333333336,Schedule diagnostic only; not reoptimized revenue or a feasible clipped dispatch
+aFRRUp,14.57258064516129,100.0,0.08327188940092166,24.0,113.0,0.15188172043010753,8.790322580645162,Schedule diagnostic only; not reoptimized revenue or a feasible clipped dispatch
+aFRRDown,10.861559139784946,100.0,0.06206605222734255,24.0,92.0,0.12365591397849462,6.672043010752688,Schedule diagnostic only; not reoptimized revenue or a feasible clipped dispatch

@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "numeric_comparisons": 15699,
+  "max_absolute_error_across_mixed_units": 4.884600639343262e-05,
+  "formal_qh": 58364,
+  "monthly_rows": 20,
+  "annual_rows": 2,
+  "daily_rows": 608,
+  "complete_actual_hours": 14591,
+  "rolling_12m_rows": 9,
+  "svg_count": 9,
+  "dst_repeated_hour_samples": 2,
+  "dst_skipped_hour_samples": 0,
+  "report_manifest_sha256": "dcabca05050602cec248174e787d385f99e16893702a6f3bc08bc0dc93141d98",
+  "run_manifest_sha256": "3b5f225a98e06875eb72fe8aeb4300745a2dfb3bdf7c97b6680174740d7f85a5",
+  "script_sha256": "d18ff1b0d96c995c5963f1c7b57ae5de25f354b405ad263a1f388a6df84381c2",
+  "note": "Money compares in EUR within 0.001 after report CSV decimal rounding; EFC 1e-7, normalized hourly means 1e-10. SVG well-formedness plus manual visual check; no chart pixel oracle."
+}

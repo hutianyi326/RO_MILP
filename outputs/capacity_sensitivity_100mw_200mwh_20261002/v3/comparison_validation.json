@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "numeric_comparisons": 3702,
+  "max_money_error_eur": "0.0003086749665844583",
+  "comparison_manifest_sha256": "d3e0ac35555d5070e121c5a36c236e1c15d44e7e97642220b648417db94f2fc8",
+  "script_sha256": "ede355d749433a2e68e7e0599779632bc67679712c8cd1a5fe3a10476c0c62be",
+  "note": "Decimal cash/dispatch reconciliation from all three executed QH files; full and presentation checks bound by hashes; joined time tables compared to independently validated individual reports."
+}
